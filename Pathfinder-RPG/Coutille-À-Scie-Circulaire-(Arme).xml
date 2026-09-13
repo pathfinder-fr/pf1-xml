@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Coutille à scie circulaire</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-01 18:07:57Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Caractéristiques des armes</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.arme à deux mains</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Coutille (arme)</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.AO</link><link>Pathfinder-RPG.Gnome</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gnome.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gnome.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gnome.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;gnomes&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 30 po ; &lt;b&gt;Poids&lt;/b&gt; 6 kg ; &lt;b&gt;Groupes&lt;/b&gt; —  
+&lt;b&gt;D&#233;g&#226;ts&lt;/b&gt; 1d8 (P), 1d10 (M) ; &lt;b&gt;Critique&lt;/b&gt; &#215;3 ; &lt;b&gt;Port&#233;e&lt;/b&gt; — ; &lt;b&gt;Type&lt;/b&gt; T ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ALLONGE&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;allonge&lt;/a&gt;, voir texte  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABEXOTIQUES&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Armes exotiques&lt;/a&gt; ; &lt;b&gt;Maniement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armeadeuxmains.html&quot; title=&quot;arme &#224; deux mains&quot;&gt;arme de corps &#224; corps &#224; deux mains&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+La lame de cette est dentel&#233;e et mont&#233;e sur un axe. Une corde solide est entour&#233;e autour de l’axe ; lorsqu’on la d&#233;roule d’un coup sec (par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;), la lame se met &#224; tourner rapidement pendant un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; &#233;gal au bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; du personnage. Tant qu’elle tournoie, la lame inflige +2 points de d&#233;g&#226;ts ; sinon, elle est consid&#233;r&#233;e comme une &lt;a class=&quot;pagelink&quot; href=&quot;Coutille-(Arme).html&quot; title=&quot;Coutille&quot;&gt;coutille ordinaire&lt;/a&gt;. Enrouler la corde autour de l’axe pour r&#233;activer la scie est une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; qui provoque une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;Attaque d&amp;#39;opportunit&#233; (redirection)&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}'''Prix''' 30 po ; '''Poids''' 6 kg ; '''Groupes''' —  
+'''Dégâts''' 1d8 (P), 1d10 (M) ; '''Critique''' ×3 ; '''Portée''' — ; '''Type''' T ; '''Spécial''' [[Caractéristiques des armes#ALLONGE|allonge]], voir texte  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; '''Maniement''' [[arme à deux mains|arme de corps à corps à deux mains]]</span>
+<hr>
+La lame de cette est dentelée et montée sur un axe. Une corde solide est entourée autour de l’axe ; lorsqu’on la déroule d’un coup sec (par une [[action de mouvement]]), la lame se met à tourner rapidement pendant un nombre de [[round|rounds]] égal au bonus de [[Force]] du personnage. Tant qu’elle tournoie, la lame inflige +2 points de dégâts ; sinon, elle est considérée comme une [[coutille (arme)|coutille ordinaire]]. Enrouler la corde autour de l’axe pour réactiver la scie est une [[action complexe]] qui provoque une [[AO|attaque d’opportunité]].]]></raw>
+  <fullName>Pathfinder-RPG.coutille à scie circulaire (arme)</fullName>
+</wikiPage>

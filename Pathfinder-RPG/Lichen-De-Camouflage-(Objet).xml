@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Lichen de camouflage</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:48:54Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Oréade (race)</link><link>Pathfinder-RPG.Outils alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Oréade (race)</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Oréade (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Or&#233;ade.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Or&#233;ade (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Or&#233;ade.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Or&#233;ade-(Race).html&quot; title=&quot;Les or&#233;ades&quot;&gt;or&#233;ades&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 100 po ; &lt;b&gt;Poids&lt;/b&gt; — ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; —  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Bien que les &lt;a class=&quot;pagelink&quot; href=&quot;Or&#233;ade-(Race).html&quot; title=&quot;Les or&#233;ades&quot;&gt;or&#233;ades&lt;/a&gt; aux traits rocailleux soient rares, presque tous ont une peau essentiellement faite de terre, parfaite pour cultiver la vie v&#233;g&#233;tale. L&#224; o&#249; les autres races seraient choqu&#233;es &#224; l’id&#233;e que des plantes prennent racine dans leur chair, les or&#233;ades consid&#232;rent ce ph&#233;nom&#232;ne comme naturel et comme une extension saine de leur nature &#233;l&#233;mentaire. Pour cette raison, les herboristes or&#233;ades d&#233;veloppent plusieurs souches de mousse et de lichen sp&#233;cifiquement adapt&#233;es pour pousser sur leur corps. Le lichen de camouflage est la vari&#233;t&#233; de plantes or&#233;ades la plus commune. Il faut 1 minute pour appliquer de la p&#226;te de spores de lichen de camouflage sur la peau, et 24 heures de plus pour que le champignon germe. Ensuite, l’or&#233;ade est couvert d’une fine couche verte de mati&#232;re v&#233;g&#233;tale vivante lui accordant un bonus de +4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; effectu&#233;s dans les jungles et les for&#234;ts vertes. Il en existe des vari&#233;t&#233;s rouge-orang&#233; et blanches, qui accordent des bonus dans les environnements aux couleurs correspondantes (rouge-orang&#233; au milieu des feuilles d’automne ou dans les d&#233;serts rouges, blanc dans la neige, etc.) Le lichen de camouflage a une courte dur&#233;e de vie ; il fl&#233;trit et meurt 3 jours apr&#232;s l’application, s’effritant en une poudre inoffensive. L’objet ne fonctionne que sur les or&#233;ades et les autres cr&#233;atures ayant un corps semblable &#224; la pierre.
+]]></body>
+  <raw><![CDATA[{s:racial|Oréade (race)|oréades|Illustrations/PNJ/Oréade.jpg}{s:MR}'''Prix''' 100 po ; '''Poids''' — ; '''DD d'Artisanat (alchimie)''' —  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+Bien que les [[Oréade (race)|oréades]] aux traits rocailleux soient rares, presque tous ont une peau essentiellement faite de terre, parfaite pour cultiver la vie végétale. Là où les autres races seraient choquées à l’idée que des plantes prennent racine dans leur chair, les oréades considèrent ce phénomène comme naturel et comme une extension saine de leur nature élémentaire. Pour cette raison, les herboristes oréades développent plusieurs souches de mousse et de lichen spécifiquement adaptées pour pousser sur leur corps. Le lichen de camouflage est la variété de plantes oréades la plus commune. Il faut 1 minute pour appliquer de la pâte de spores de lichen de camouflage sur la peau, et 24 heures de plus pour que le champignon germe. Ensuite, l’oréade est couvert d’une fine couche verte de matière végétale vivante lui accordant un bonus de +4 aux tests de [[Discrétion]] effectués dans les jungles et les forêts vertes. Il en existe des variétés rouge-orangé et blanches, qui accordent des bonus dans les environnements aux couleurs correspondantes (rouge-orangé au milieu des feuilles d’automne ou dans les déserts rouges, blanc dans la neige, etc.) Le lichen de camouflage a une courte durée de vie ; il flétrit et meurt 3 jours après l’application, s’effritant en une poudre inoffensive. L’objet ne fonctionne que sur les oréades et les autres créatures ayant un corps semblable à la pierre.]]></raw>
+  <fullName>Pathfinder-RPG.Lichen de camouflage (objet)</fullName>
+</wikiPage>

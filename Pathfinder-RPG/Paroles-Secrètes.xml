@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Paroles secrètes</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 1</category><category>Pathfinder-RPG.Sort chaman 2</category><category>Pathfinder-RPG.Sort inquisiteur 1</category><category>Pathfinder-RPG.Sort magicien 2</category><category>Pathfinder-RPG.Sort prêtre 2</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:40:01Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts de chaman</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.école divination</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Calistria (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fCalistria.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Calistria (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fCalistria.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Calistria-(Technique).html&quot; title=&quot;Calistria&quot;&gt;Calistria&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Divination.html&quot; title=&quot;Divination&quot;&gt;Divination&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Cham&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 2  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact  
+&lt;b&gt;Cibles&lt;/b&gt; cr&#233;ature touch&#233;e  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 10 minutes/niveau  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non (inoffensif)&lt;br /&gt;&lt;br /&gt;Ce sort permet &#224; la cible d&#39;envoyer des messages secrets dissimul&#233;s au sein d&#39;un discours normal. Il est similaire &#224; la transmission de messages secrets de la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, mais aucun test n&#39;est n&#233;cessaire ; le destinataire de l&#39;orateur comprend toujours parfaitement le message cach&#233;, mais les autres auditeurs sont incapables de l&#39;intercepter. La cible ne peut transmettre qu&#39;un message &#224; la fois, mais elle peut l&#39;envoyer &#224; plusieurs destinataires. Le message secret est consid&#233;r&#233; comme &#233;tant dans la m&#234;me langue que celle parl&#233;e par la cible, et les destinataires entendent et comprennent &#224; la fois le discours r&#233;el et le message secret. La cible peut se faire comprendre aussi loin que sa voix porte.&lt;br /&gt;&lt;br /&gt;Par exemple, lors du mariage d&#39;un noble vaniteux, un ancien pr&#233;tendant jaloux peut lancer ce sort sur lui-m&#234;me juste avant de prononcer un discours. Tout le monde entend ses louanges, mais seuls ses alli&#233;s entendent son message secret les invitant &#224; attaquer le fianc&#233;.
+]]></body>
+  <raw><![CDATA[{s:divin|Calistria|%2fPCUP%2fReligion-PNG%2fCalistria.png}{s:cs}{s:ISG}'''École''' [[école Divination|Divination]] ; '''Niveau''' [[Barde|Bard]] 1, [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Inquisiteur|Inq]] 1, [[Prêtre|Prê]] 2  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G]]  
+'''Portée''' contact  
+'''Cibles''' créature touchée  
+'''Durée''' 10 minutes/niveau  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; '''Résistance à la magie''' non (inoffensif)
+
+Ce sort permet à la cible d'envoyer des messages secrets dissimulés au sein d'un discours normal. Il est similaire à la transmission de messages secrets de la compétence [[Bluff]], mais aucun test n'est nécessaire ; le destinataire de l'orateur comprend toujours parfaitement le message caché, mais les autres auditeurs sont incapables de l'intercepter. La cible ne peut transmettre qu'un message à la fois, mais elle peut l'envoyer à plusieurs destinataires. Le message secret est considéré comme étant dans la même langue que celle parlée par la cible, et les destinataires entendent et comprennent à la fois le discours réel et le message secret. La cible peut se faire comprendre aussi loin que sa voix porte.
+
+Par exemple, lors du mariage d'un noble vaniteux, un ancien prétendant jaloux peut lancer ce sort sur lui-même juste avant de prononcer un discours. Tout le monde entend ses louanges, mais seuls ses alliés entendent son message secret les invitant à attaquer le fiancé.]]></raw>
+  <fullName>Pathfinder-RPG.Paroles secrètes</fullName>
+</wikiPage>

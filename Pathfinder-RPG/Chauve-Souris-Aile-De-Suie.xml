@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chauve-souris aile de suie</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2026-04-28 23:17:38Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Antique fossoyeur</link><link>Pathfinder-RPG.Assassin masqué</link><link>Pathfinder-RPG.Chauve-souris aile de suie</link><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Commandant goule</link><link>Pathfinder-RPG.Goule</link><link>Pathfinder-RPG.Goule sournoise</link><link>Pathfinder-RPG.Goule traqueuse</link><link>Pathfinder-RPG.Grand-veneur goule</link><link>Pathfinder-RPG.Molosse goule</link><link>Pathfinder-RPG.Monarque goule</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.perception aveugle</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Résistance à la canalisation (capacité)</link><link>Pathfinder-RPG.Traits des morts-vivants (capacité)</link><link>Pathfinder-RPG.Goule</link><link>Pathfinder-RPG.paralysie</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Chauve-souris aile de suie</link><link>Pathfinder-RPG.Molosse goule</link><link>Pathfinder-RPG.Goule sournoise</link><link>Pathfinder-RPG.Goule traqueuse</link><link>Pathfinder-RPG.Grand-veneur goule</link><link>Pathfinder-RPG.Assassin masqué</link><link>Pathfinder-RPG.Commandant goule</link><link>Pathfinder-RPG.Antique fossoyeur</link><link>Pathfinder-RPG.Monarque goule</link><link>Pathfinder-RPG.Skaveling</link><link>Pathfinder-RPG.Familier supérieur</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chauve-souris aile de suie&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Mort-vivant&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Codex Monstrueux p.112&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille TP, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;perception aveugle&quot;&gt;perception aveugle&lt;/a&gt; &#224; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 13, pris au d&#233;pourvu 13 (Dex +1, naturelle +1, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 7 (2d8-2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; -1, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Canalisation-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la canalisation (Ext)&quot;&gt;r&#233;sistance &#224; la canalisation&lt;/a&gt; +2 ; &lt;b&gt;Immunit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants (Ext)&quot;&gt;traits des morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1.5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +4 (1d3-3 plus &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html#FIEVREDESGOULES&quot; title=&quot;Goule&quot;&gt;maladie&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;paralysie&quot;&gt;paralysie&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 0,75 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html#FIEVREDESGOULES&quot; title=&quot;Goule&quot;&gt;maladie&lt;/a&gt; (DD 10), &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;paralysie&quot;&gt;paralysie&lt;/a&gt; (1d4+1 rounds, DD 10, elfes immunis&#233;s contre cet effet)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 5, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +0, &lt;b&gt;DMD&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5 (+9 avec la perception aveugle), &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; avec la &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;perception aveugle&quot;&gt;perception aveugle&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou colonie (4-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Sur).&lt;/b&gt; Fi&#232;vre des goules : voir &lt;i&gt;Bestiaire Pathfinder&lt;/i&gt; p. &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;173&lt;/a&gt;)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de goule&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chauve-Souris-Aile-De-Suie.html&quot; title=&quot;Chauve-souris aile de suie&quot;&gt;Chauve-souris aile de suie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1/2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Molosse-Goule.html&quot; title=&quot;Molosse goule&quot;&gt;Molosse goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;Goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Goule-Sournoise.html&quot; title=&quot;Goule sournoise&quot;&gt;Goule sournoise&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Goule-Traqueuse.html&quot; title=&quot;Goule traqueuse&quot;&gt;Goule traqueuse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grand-Veneur-Goule.html&quot; title=&quot;Grand-veneur goule&quot;&gt;Grand-veneur goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin-Masqu&#233;.html&quot; title=&quot;Assassin masqu&#233;&quot;&gt;Assassin masqu&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Commandant-Goule.html&quot; title=&quot;Commandant goule&quot;&gt;Commandant goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antique-Fossoyeur.html&quot; title=&quot;Antique fossoyeur&quot;&gt;Antique fossoyeur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monarque-Goule.html&quot; title=&quot;Monarque goule&quot;&gt;Monarque goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt; Cette cr&#233;ature aux allures de chauve-souris a des pointes ac&#233;r&#233;es au bout des ailes et une longue langue cinglante.&lt;br /&gt;&lt;br /&gt;Les mages goules adoptent ces cousins de petite taille des &lt;a class=&quot;pagelink&quot; href=&quot;Skaveling.html&quot; title=&quot;Chauve-souris, Skaveling&quot;&gt;skavelings&lt;/a&gt; comme familiers. Un lanceur de sorts Mauvais peut choisir une chauve-souris aile de suie comme familier &#224; partir du niveau 5 s’il poss&#232;de le don &lt;a class=&quot;pagelink&quot; href=&quot;Familier-Sup&#233;rieur.html&quot; title=&quot;Familier sup&#233;rieur&quot;&gt;Familier sup&#233;rieur&lt;/a&gt;. Ce familier lui donne un bonus de +1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Canalisation-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la canalisation (Ext)&quot;&gt;r&#233;sistance &#224; la canalisation&lt;/a&gt; (s’il poss&#232;de une telle r&#233;sistance).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Chauve-souris aile de suie|FP 1/2}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Codex Monstrueux p.112''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille TP, CM}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[perception aveugle]] à 6 m (4 {s:c}) ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 13, pris au dépourvu 13 (Dex +1, naturelle +1, taille +2)}
+{s:BDTexte|'''pv''' 7 (2d8-2)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' -1, '''Vol''' +4}
+{s:BDTexte|'''Capacités défensives''' [[Résistance à la canalisation (capacité)|résistance à la canalisation]] +2 ; '''Immunité''' [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 1.5 m (1 {s:c}), vol 12 m (8 {s:c}) (bonne)}
+{s:BDTexte|'''Corps à corps''' morsure, +4 (1d3-3 plus [[Goule#FIEVREDESGOULES|maladie]] et [[paralysie]])}
+{s:BDTexte|'''Espace occupé''' 0,75 m ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' [[Goule#FIEVREDESGOULES|maladie]] (DD 10), [[paralysie]] (1d4+1 rounds, DD 10, elfes immunisés contre cet effet)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 5, '''Dex''' 12, '''Con''' -, '''Int''' 2, '''Sag''' 13, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +0, '''DMD''' 7}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +5 (+9 avec la perception aveugle), [[Vol]] +9}
+{s:BDTexte|'''Modificateurs raciaux''' +4 en [[Perception]] avec la [[perception aveugle]]}
+{s:BDTexte|'''Langues''' commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation''' solitaire ou colonie (4-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Maladie (Sur).''' Fièvre des goules : voir ''Bestiaire Pathfinder'' p. [[Goule|173]])}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de goule
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Chauve-souris aile de suie]] || 1/2
+|-
+| [[Molosse goule]] || 1
+|-
+| [[Goule]] || 1
+|-
+| [[Goule sournoise]] || 3
+|-
+| [[Goule traqueuse]] || 6
+|-
+| [[Grand-veneur goule]] || 7
+|-
+| [[Assassin masqué]] || 8
+|-
+| [[Commandant goule]] || 8
+|-
+| [[Antique fossoyeur]] || 10
+|-
+| [[Monarque goule]] || 12
+|}
+</div> Cette créature aux allures de chauve-souris a des pointes acérées au bout des ailes et une longue langue cinglante.
+
+Les mages goules adoptent ces cousins de petite taille des [[Skaveling|skavelings]] comme familiers. Un lanceur de sorts Mauvais peut choisir une chauve-souris aile de suie comme familier à partir du niveau 5 s’il possède le don [[Familier supérieur]]. Ce familier lui donne un bonus de +1 à la [[Résistance à la canalisation (capacité)|résistance à la canalisation]] (s’il possède une telle résistance).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Chauve-souris aile de suie</fullName>
+</wikiPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Trousse de cerfs-volants de communication</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-22 15:23:35Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Jeux</link><link>Pathfinder-RPG.Tengu (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Jeux</link><link>Pathfinder-RPG.Tengu (race)</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Tengu (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Tengu.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Tengu (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Tengu.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Tengu-(Race).html&quot; title=&quot;Les tengus&quot;&gt;tengus&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 5 po ; &lt;b&gt;Poids&lt;/b&gt; —  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Jeux.html&quot; title=&quot;Jeux&quot;&gt;Jeux&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Bien qu’ils soient d&#233;pourvus d’ailes, il y a longtemps que les &lt;a class=&quot;pagelink&quot; href=&quot;Tengu-(Race).html&quot; title=&quot;Les tengus&quot;&gt;tengus&lt;/a&gt; projettent leurs pens&#233;es vers le ciel et la capacit&#233; de voler. Constitu&#233;s de papier fix&#233; &#224; une structure en bambou, leurs cerfs-volants sont peints de diff&#233;rentes couleurs et de divers motifs. En plus d’en faire pour le plaisir, les tengus utilisent des cerfs-volants aux teintes et aux motifs vari&#233;s pour envoyer des messages cod&#233;s. Ils ont mis au point un syst&#232;me &#233;tendu de signaux cod&#233;s et peuvent utiliser leurs cerfs-volants pour &#233;mettre des messages complexes visibles sur de grandes distances. Une trousse de cerfs-volants de communication comprend six petits cerfs-volants color&#233;s qui peuvent &#234;tre accroch&#233;s ensemble selon diff&#233;rentes formes afin de faciliter les messages complexes. Cette trousse inclut &#233;galement une bobine et 90 m&#232;tres de ficelle. L’envoi ou l’interception du message de cerf-volant de communication fonctionne comme d&#233;crit dans la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, mais l’exp&#233;diteur et quiconque essaye de comprendre le message doivent &#233;galement conna&#238;tre le tengu.
+]]></body>
+  <raw><![CDATA[{s:racial|Tengu (race)|tengus|Illustrations/PNJ/Tengu.jpg}{s:MR}'''Prix''' 5 po ; '''Poids''' —  
+<span class="Catégorie">'''Catégorie''' [[Jeux]]</span>
+<hr>
+Bien qu’ils soient dépourvus d’ailes, il y a longtemps que les [[Tengu (race)|tengus]] projettent leurs pensées vers le ciel et la capacité de voler. Constitués de papier fixé à une structure en bambou, leurs cerfs-volants sont peints de différentes couleurs et de divers motifs. En plus d’en faire pour le plaisir, les tengus utilisent des cerfs-volants aux teintes et aux motifs variés pour envoyer des messages codés. Ils ont mis au point un système étendu de signaux codés et peuvent utiliser leurs cerfs-volants pour émettre des messages complexes visibles sur de grandes distances. Une trousse de cerfs-volants de communication comprend six petits cerfs-volants colorés qui peuvent être accrochés ensemble selon différentes formes afin de faciliter les messages complexes. Cette trousse inclut également une bobine et 90 mètres de ficelle. L’envoi ou l’interception du message de cerf-volant de communication fonctionne comme décrit dans la compétence [[Bluff]], mais l’expéditeur et quiconque essaye de comprendre le message doivent également connaître le tengu.]]></raw>
+  <fullName>Pathfinder-RPG.Trousse de cerfs-volants de communication (objet)</fullName>
+</wikiPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cape parachute</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-22 14:46:15Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Vêtements</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Vêtements</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Vents</link><link>Pathfinder-RPG.terrain difficile</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Halfelin</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Halfelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Halfelin.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;halfelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 100 po ; &lt;b&gt;Poids&lt;/b&gt; 2 kg&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;V&#234;tements.html#1&quot; title=&quot;V&#234;tements&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;V&#234;tements.html&quot; title=&quot;V&#234;tements&quot;&gt;V&#234;tements&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette cape en soie est faite de nombreuses couches superpos&#233;es cousues par des fils tr&#232;s l&#226;ches. Quand elle est expos&#233;e &#224; un influx d’air soudain, comme lors d’une &lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTE&quot; title=&quot;Les dangers naturels&quot;&gt;chute&lt;/a&gt;, elle se d&#233;ploie comme un parachute rudimentaire. Une cr&#233;ature qui tombe alors qu’elle porte cette cape est trait&#233;e comme une cr&#233;ature ayant saut&#233; d&#233;lib&#233;r&#233;ment. En revanche, dans les zones de &lt;a class=&quot;pagelink&quot; href=&quot;Climat#Vents_4.html&quot; title=&quot;Les vents&quot;&gt;vent violent&lt;/a&gt;, la cape g&#234;ne les mouvements. Dans ce cas, le propri&#233;taire de la cape consid&#232;re tous les terrains comme des &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement-Et-Position#Terraindifficile.html&quot; title=&quot;terrain difficile&quot;&gt;terrains difficiles&lt;/a&gt; et subit un malus de -4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt;. La cape parachute est de conception &#233;trange et fragile, c’est pourquoi seuls les mod&#232;les de taille P ou moins sont fonctionnels. Les capes de plus grande taille donnent seulement les malus li&#233;s au grand vent, sans aucun avantage en cas de chute.
+]]></body>
+  <raw><![CDATA[{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}'''Prix''' 100 po ; '''Poids''' 2 kg<sup>[[Vêtements#1|1]]</sup>  
+<span class="Catégorie">'''Catégorie''' [[Vêtements]]</span>
+<hr>
+Cette cape en soie est faite de nombreuses couches superposées cousues par des fils très lâches. Quand elle est exposée à un influx d’air soudain, comme lors d’une [[Dangers naturels#CHUTE|chute]], elle se déploie comme un parachute rudimentaire. Une créature qui tombe alors qu’elle porte cette cape est traitée comme une créature ayant sauté délibérément. En revanche, dans les zones de [[Vents|vent violent]], la cape gêne les mouvements. Dans ce cas, le propriétaire de la cape considère tous les terrains comme des [[terrain difficile|terrains difficiles]] et subit un malus de -4 aux tests de [[Vol]]. La cape parachute est de conception étrange et fragile, c’est pourquoi seuls les modèles de taille P ou moins sont fonctionnels. Les capes de plus grande taille donnent seulement les malus liés au grand vent, sans aucun avantage en cas de chute.]]></raw>
+  <fullName>Pathfinder-RPG.Cape parachute (objet)</fullName>
+</wikiPage>

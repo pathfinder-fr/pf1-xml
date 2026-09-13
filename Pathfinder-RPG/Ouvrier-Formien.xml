@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Formien, Ouvrier formien</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2024-02-08 17:08:06Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Formiens</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.perception aveugle</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Résistance (capacité)</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Traits des formiens (capacité)</link><link>Pathfinder-RPG.Formiens</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ouvrier formien&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;humano&#239;de monstrueux&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/humano&#239;de monstrueux.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;souterrain&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/souterrain.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4&lt;/i&gt; p. 106
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; de taille P, LN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 (+4 avec esprit de ruche) ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;perception aveugle&quot;&gt;perception aveugle&lt;/a&gt; &#224; 9 m, esprit de ruche ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7 (+11 avec esprit de ruche)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 12, contact 11, pris au d&#233;pourvu 12 (Taille +1, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 6 (1d10+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;R&#233;sistance&lt;/a&gt;&lt;/b&gt; son 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +3 (1d6+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1 ; &lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 11 (15 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Profession (mineur))
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (ing&#233;nierie) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4 (+8 avec esprit de ruche), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (mineur) +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun ; t&#233;l&#233;pathie &#224; 18 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; assistant comp&#233;tent, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Formiens-(Capacit&#233;).html&quot; title=&quot;Traits des formiens (Ext ou Sur)&quot;&gt;traits des formiens&lt;/a&gt;, porteur exceptionnel
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terrestre ou souterrain, chaud ou temp&#233;r&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, &#233;quipe d’ouvriers (6-12 plus 1 contrema&#238;tre), groupe (3-15 plus 5-8 guerri&#232;res et 1 contrema&#238;tre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit (&#224; l’occasion, une gemme d’une valeur de 10 &#224; 50 po ench&#226;ss&#233;e dans la carapace de l’ouvrier)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Assistant comp&#233;tent (Ext).&lt;/b&gt; Quand
+l’ouvrier formien r&#233;ussit un test pour aider
+quelqu’un ou un jet d’attaque qui aide un
+compagnon de sa colonie &#224; port&#233;e t&#233;l&#233;pathique,
+il accorde un bonus de +4 au test de comp&#233;tence,
+au jet d’attaque ou &#224; la CA au lieu du bonus
+normal de +2.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Porteur exceptionnel (Ext).&lt;/b&gt; Les ouvriers
+sont capables de porter des fardeaux
+impressionnants pour leur taille. Ils ont un bonus
+racial de +5 en Force quand ils calculent les
+effets de leur encombrement.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Formiens.html&quot; title=&quot;Les formiens&quot;&gt;formiens&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Cette petite cr&#233;ature ressemblant &#224; un centaure porte une &#233;norme poche
+sur son dos capara&#231;onn&#233;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces &lt;a class=&quot;pagelink&quot; href=&quot;Formiens.html&quot; title=&quot;Les formiens&quot;&gt;formiens&lt;/a&gt; de la caste la plus basse sont un peu plus grands
+qu’un gros chien et leurs petites mandibules sont plus adapt&#233;es &#224;
+couper les feuilles et arracher les fruits des plantes grimpantes que
+pour tailler dans la chair. N&#233;anmoins, beaucoup d’humano&#239;des
+trouvent ces fourmis-centaures intimidantes. Leur chitine iris&#233;e
+est pour ainsi dire lisse, uniquement marqu&#233;e des petites cicatrices
+de l’&#226;ge et d’un ensemble de gravures sur la poitrine. Quelques uns
+des ouvriers formiens les plus accomplis portent fi&#232;rement
+de petites gemmes accroch&#233;es &#224; leur carapace, gages remis
+par les contrema&#238;tres pour leurs r&#233;alisations particuli&#232;rement
+impressionnantes.&lt;br /&gt;&lt;br /&gt;Les ouvriers formiens sont l’&#233;pine dorsale de la colonie. Ils produisent
+et r&#233;coltent la nourriture, ils s’occupent de l’exploitation
+mini&#232;re et du forage des tunnels, ils aident les contrema&#238;tres &#224; fabriquer
+des biens et ils accomplissent toutes les t&#226;ches ingrates. Les
+ouvriers formiens grandissent et apprennent vite au sein de l’esprit
+de ruche. Peu de temps apr&#232;s avoir quitt&#233; son &#233;tat larvaire, le formien
+se voit confi&#233; &#224; un ouvrier sup&#233;rieur qui lui enseigne un m&#233;tier et,
+au bout de deux ans, l’ouvrier formien devient un membre productif
+de la colonie. Les ouvriers vivent entre 20 et 30 ans et les plus &#226;g&#233;s
+sont assign&#233;s &#224; des t&#226;ches plus l&#233;g&#232;res ou plus sp&#233;cialis&#233;es qui leur
+donnent la possibilit&#233; de former de jeunes ouvriers formiens.
+Les ouvriers &#233;closent g&#233;n&#233;ralement en grands groupes et se
+voient attribuer un nom de couv&#233;e qui s’inspire souvent d’un
+formien tr&#232;s r&#233;put&#233; de la g&#233;n&#233;ration pr&#233;c&#233;dente. Ce n’est
+que lorsqu’ils quittent leur &#233;tat larvaire que les ouvriers
+se voit attribuer un nombre unique qui est grav&#233;
+sur leur carapace et qui remplace le nom de l’individu.&lt;br /&gt;&lt;br /&gt;Les ouvriers imitent les contrema&#238;tres dans de
+nombreux domaines : ils inscrivent leurs exploits
+sur leur carapace et participent &#233;galement &#224; des
+duels (bien que, parmi eux, les duels n’impliquent
+pratiquement jamais la mort). Il arrive, dans des
+cas rares, qu’un contrema&#238;tre porte une attention
+sp&#233;ciale &#224; un ouvrier particuli&#232;rement
+remarquable et le pr&#233;sente &#224; la reine
+pour que lui soit remis un nom en
+bonne et due forme.
+Les ouvriers fuient le combat &#224;
+moins qu’un contrema&#238;tre ou un
+myrmarque ne leur ordonne d’attaquer
+les intrus. Si une colonie est envahie,
+les ouvriers formiens peuvent servir
+de diversion ou saper les tunnels pour
+qu’ils s’effondre sur l’ennemi. Lorsqu’ils
+sont contraints de lutter directement, les
+ouvriers investissent la plupart de leurs
+efforts &#224; aider un guerrier ou un myrmarque
+mais ils savent tr&#232;s bien manier
+les pioches et le feu gr&#233;geois quand ils
+sont accul&#233;s.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ouvrier formien|FP 1/2}
+{s:pucem|humanoïde monstrueux|souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire 4'' p. 106}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille P, LN}
+{s:BDTexte|'''Init''' +0 (+4 avec esprit de ruche) ; '''Sens''' [[vision dans le noir]] à 18 m (12 {s:c}), [[perception aveugle]] à 9 m, esprit de ruche ; [[Perception]] +7 (+11 avec esprit de ruche)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 12, contact 11, pris au dépourvu 12 (Taille +1, naturelle +1)}
+{s:BDTexte|'''pv''' 6 (1d10+1)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +1, '''Vol''' +2}
+{s:BDTexte|'''[[Résistance (capacité)|Résistance]]''' son 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), creusement 3 m (2 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +3 (1d6+1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 10, '''Con''' 13, '''Int''' 10, '''Sag''' 10, '''Cha''' 9}
+{s:BDTexte|'''BBA''' +1 ; '''BMO''' +1 ; '''DMD''' 11 (15 contre le croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Talent]] (Profession (mineur))}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (ingénierie) +4, [[Escalade]] +5, [[Intimidation]] +8, [[Perception]] +4 (+8 avec esprit de ruche), [[Profession]] (mineur) +7}
+{s:BDTexte|'''Langues''' commun ; télépathie à 18 m}
+{s:BDTexte|'''Particularités''' assistant compétent, [[Traits des formiens (capacité)|traits des formiens]], porteur exceptionnel}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terrestre ou souterrain, chaud ou tempéré}
+{s:BDTexte|'''Organisation sociale''' solitaire, équipe d’ouvriers (6-12 plus 1 contremaître), groupe (3-15 plus 5-8 guerrières et 1 contremaître)}
+{s:BDTexte|'''Trésor''' fortuit (à l’occasion, une gemme d’une valeur de 10 à 50 po enchâssée dans la carapace de l’ouvrier)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Assistant compétent (Ext).''' Quand
+l’ouvrier formien réussit un test pour aider
+quelqu’un ou un jet d’attaque qui aide un
+compagnon de sa colonie à portée télépathique,
+il accorde un bonus de +4 au test de compétence,
+au jet d’attaque ou à la CA au lieu du bonus
+normal de +2.}
+{s:BDTexte|'''Porteur exceptionnel (Ext).''' Les ouvriers
+sont capables de porter des fardeaux
+impressionnants pour leur taille. Ils ont un bonus
+racial de +5 en Force quand ils calculent les
+effets de leur encombrement.}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Formiens|formiens]].'''''</li></ul>''Cette petite créature ressemblant à un centaure porte une énorme poche
+sur son dos caparaçonné.''
+
+Ces [[formiens]] de la caste la plus basse sont un peu plus grands
+qu’un gros chien et leurs petites mandibules sont plus adaptées à
+couper les feuilles et arracher les fruits des plantes grimpantes que
+pour tailler dans la chair. Néanmoins, beaucoup d’humanoïdes
+trouvent ces fourmis-centaures intimidantes. Leur chitine irisée
+est pour ainsi dire lisse, uniquement marquée des petites cicatrices
+de l’âge et d’un ensemble de gravures sur la poitrine. Quelques uns
+des ouvriers formiens les plus accomplis portent fièrement
+de petites gemmes accrochées à leur carapace, gages remis
+par les contremaîtres pour leurs réalisations particulièrement
+impressionnantes.
+
+Les ouvriers formiens sont l’épine dorsale de la colonie. Ils produisent
+et récoltent la nourriture, ils s’occupent de l’exploitation
+minière et du forage des tunnels, ils aident les contremaîtres à fabriquer
+des biens et ils accomplissent toutes les tâches ingrates. Les
+ouvriers formiens grandissent et apprennent vite au sein de l’esprit
+de ruche. Peu de temps après avoir quitté son état larvaire, le formien
+se voit confié à un ouvrier supérieur qui lui enseigne un métier et,
+au bout de deux ans, l’ouvrier formien devient un membre productif
+de la colonie. Les ouvriers vivent entre 20 et 30 ans et les plus âgés
+sont assignés à des tâches plus légères ou plus spécialisées qui leur
+donnent la possibilité de former de jeunes ouvriers formiens.
+Les ouvriers éclosent généralement en grands groupes et se
+voient attribuer un nom de couvée qui s’inspire souvent d’un
+formien très réputé de la génération précédente. Ce n’est
+que lorsqu’ils quittent leur état larvaire que les ouvriers
+se voit attribuer un nombre unique qui est gravé
+sur leur carapace et qui remplace le nom de l’individu.
+
+Les ouvriers imitent les contremaîtres dans de
+nombreux domaines : ils inscrivent leurs exploits
+sur leur carapace et participent également à des
+duels (bien que, parmi eux, les duels n’impliquent
+pratiquement jamais la mort). Il arrive, dans des
+cas rares, qu’un contremaître porte une attention
+spéciale à un ouvrier particulièrement
+remarquable et le présente à la reine
+pour que lui soit remis un nom en
+bonne et due forme.
+Les ouvriers fuient le combat à
+moins qu’un contremaître ou un
+myrmarque ne leur ordonne d’attaquer
+les intrus. Si une colonie est envahie,
+les ouvriers formiens peuvent servir
+de diversion ou saper les tunnels pour
+qu’ils s’effondre sur l’ennemi. Lorsqu’ils
+sont contraints de lutter directement, les
+ouvriers investissent la plupart de leurs
+efforts à aider un guerrier ou un myrmarque
+mais ils savent très bien manier
+les pioches et le feu grégeois quand ils
+sont acculés.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ouvrier formien</fullName>
+</wikiPage>

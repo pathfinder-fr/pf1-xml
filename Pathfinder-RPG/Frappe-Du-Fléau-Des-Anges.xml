@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Frappe du fléau des anges</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2020-09-26 03:08:24Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Drow (race)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Châtiment canalisé</link><link>Pathfinder-RPG.Drow (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Drow.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Drow (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Drow.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Drow-(Race).html&quot; title=&quot;Les drows&quot;&gt;drows&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;i&gt;Le personnage canalise la puissance de son protecteur d&#233;moniaque &#224; travers sa lame pour ch&#226;tier les vertueux.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ch&#226;timent-Canalis&#233;.html&quot; title=&quot;Ch&#226;timent canalis&#233;&quot;&gt;Ch&#226;timent canalis&#233;&lt;/a&gt;, lanceur de sorts divins de niveau 5, canalisation d’&#233;nergie n&#233;gative, avoir un seigneur d&#233;mon comme divinit&#233; protectrice.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Quand le personnage utilise le Ch&#226;timent canalis&#233; contre une cr&#233;ature vivante d’alignement Bon, il consid&#232;re que tous les 1 obtenus sur le d&#233; sont en fait des 2. &lt;br /&gt;&lt;br /&gt;Si la cible du personnage est un ext&#233;rieur Bon ou un lanceur de sorts divins au service d’une divinit&#233; Bonne, le personnage consid&#232;re qu’il poss&#232;de deux niveaux de plus qu’en r&#233;alit&#233; quand il d&#233;termine le nombre de d&#233;s de d&#233;g&#226;ts &#224; lancer pour son &lt;a class=&quot;pagelink&quot; href=&quot;Ch&#226;timent-Canalis&#233;.html&quot; title=&quot;Ch&#226;timent canalis&#233;&quot;&gt;Ch&#226;timent canalis&#233;&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:cm}''Le personnage canalise la puissance de son protecteur démoniaque à travers sa lame pour châtier les vertueux.''
+
+'''Conditions.''' [[Châtiment canalisé]], lanceur de sorts divins de niveau 5, canalisation d’énergie négative, avoir un seigneur démon comme divinité protectrice.
+
+'''Avantages.''' Quand le personnage utilise le Châtiment canalisé contre une créature vivante d’alignement Bon, il considère que tous les 1 obtenus sur le dé sont en fait des 2. 
+
+Si la cible du personnage est un extérieur Bon ou un lanceur de sorts divins au service d’une divinité Bonne, le personnage considère qu’il possède deux niveaux de plus qu’en réalité quand il détermine le nombre de dés de dégâts à lancer pour son [[Châtiment canalisé]].]]></raw>
+  <fullName>Pathfinder-RPG.Frappe du fléau des anges</fullName>
+</wikiPage>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Masse à piston</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-01 18:18:16Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.arme à deux mains</link><link>Pathfinder-RPG.destruction</link><link>Pathfinder-RPG.Pierre tonnerre (objet)</link><link>Pathfinder-RPG.massue (arme)</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Gnome</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gnome.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gnome.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gnome.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;gnomes&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 70 po ; &lt;b&gt;Poids&lt;/b&gt; 7,5 kg ; &lt;b&gt;Groupes&lt;/b&gt; —  
+&lt;b&gt;D&#233;g&#226;ts&lt;/b&gt; 1d8 (P), 1d10 (M) ; &lt;b&gt;Critique&lt;/b&gt; &#215;2 ; &lt;b&gt;Port&#233;e&lt;/b&gt; — ; &lt;b&gt;Type&lt;/b&gt; C ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; voir texte  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABEXOTIQUES&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Armes exotiques&lt;/a&gt; ; &lt;b&gt;Maniement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armeadeuxmains.html&quot; title=&quot;arme &#224; deux mains&quot;&gt;arme de corps &#224; corps &#224; deux mains&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Un piston, d&#233;clench&#233; par un proc&#233;d&#233; alchimique et situ&#233; dans la t&#234;te de cette masse &#224; deux mains, augmente la force de frappe des coups port&#233;s par son manipulateur. Les attaques dont le but est de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Destruction.html&quot; title=&quot;destruction&quot;&gt;d&#233;truire une arme&lt;/a&gt; avec la masse &#224; piston infligent +4 points de d&#233;g&#226;ts suppl&#233;mentaires. Il faut disposer d’une &lt;a class=&quot;pagelink&quot; href=&quot;Pierre-Tonnerre-(Objet).html&quot; title=&quot;Pierre tonnerre&quot;&gt;pierre tonnerre&lt;/a&gt; pour faire fonctionner cette arme : sinon, elle est consid&#233;r&#233;e comme une &lt;a class=&quot;pagelink&quot; href=&quot;Massue-(Arme).html&quot; title=&quot;Massue&quot;&gt;massue&lt;/a&gt;. Ins&#233;rer une pierre tonnerre dans le compartiment est une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; et l’arme peut alors fonctionner pendant 24 heures ; la pierre est consomm&#233;e une fois cette p&#233;riode &#233;coul&#233;e.
+]]></body>
+  <raw><![CDATA[{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}'''Prix''' 70 po ; '''Poids''' 7,5 kg ; '''Groupes''' —  
+'''Dégâts''' 1d8 (P), 1d10 (M) ; '''Critique''' ×2 ; '''Portée''' — ; '''Type''' C ; '''Spécial''' voir texte  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; '''Maniement''' [[arme à deux mains|arme de corps à corps à deux mains]]</span>
+<hr>
+Un piston, déclenché par un procédé alchimique et situé dans la tête de cette masse à deux mains, augmente la force de frappe des coups portés par son manipulateur. Les attaques dont le but est de [[destruction|détruire une arme]] avec la masse à piston infligent +4 points de dégâts supplémentaires. Il faut disposer d’une [[Pierre tonnerre (objet)|pierre tonnerre]] pour faire fonctionner cette arme : sinon, elle est considérée comme une [[massue (arme)|massue]]. Insérer une pierre tonnerre dans le compartiment est une [[action simple]] et l’arme peut alors fonctionner pendant 24 heures ; la pierre est consommée une fois cette période écoulée.]]></raw>
+  <fullName>Pathfinder-RPG.masse à piston (arme)</fullName>
+</wikiPage>

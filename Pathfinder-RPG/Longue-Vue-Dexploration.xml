@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Longue-vue d'exploration</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Inner Sea Races</category></categories>
+  <lastModified>2024-12-29 22:02:44Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Races de la mer Intérieure (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.école divination</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.mot de commande</link><link>Pathfinder-RPG.Clairaudienceclairvoyance</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Extension de portée</link><link>Pathfinder-RPG.Humain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Humain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Humain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Humain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Longue-vue d&#39;exploration&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Races de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Races/Races de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Divination.html&quot; title=&quot;Divination&quot;&gt;Divination&lt;/a&gt; mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 8 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 17.500 po ; &lt;b&gt;Poids&lt;/b&gt; 0.5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette longue-vue en laiton ne s&#39;ab&#238;me et ne se ternie jamais. Trois fois par jour, l&#39;utilisateur peut prononcer un &lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques#Objetsamotdecommande.html&quot; title=&quot;mot de commande&quot;&gt;mot de commande&lt;/a&gt; tout en observant un lieu avec cette longue-vue &#233;labor&#233;e pour le percevoir comme avec &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Clairaudienceclairvoyance.html&quot; title=&quot;Clairaudience/clairvoyance&quot;&gt;clairaudience/clairvoyance&lt;/a&gt;&lt;/i&gt;. L&#39;effet dure tant que l&#39;utilisateur continue &#224; diriger la longue-vue sur la zone observ&#233;e.&lt;br /&gt;&lt;br /&gt;Si l&#39;utilisateur est un &lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt;, la port&#233;e de l&#39;effet est doubl&#233;e et il peut &#224; la fois voir et entendre &#224; l&#39;endroit choisi.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Extension-De-Port&#233;e.html&quot; title=&quot;Extension de port&#233;e&quot;&gt;Extension de port&#233;e&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Clairaudienceclairvoyance.html&quot; title=&quot;Clairaudience/clairvoyance&quot;&gt;clairaudience/clairvoyance&lt;/a&gt;&lt;/i&gt;, le cr&#233;ateur doit &#234;tre un &lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 8.750 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}<div class="BD">
+{s:BDTitre|Longue-vue d'exploration|{s:ISR}}
+'''Aura''' [[école Divination|Divination]] modérée ; '''NLS''' 8 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 17.500 po ; '''Poids''' 0.5 kg
+(((Description)))
+{s:cs}Cette longue-vue en laiton ne s'abîme et ne se ternie jamais. Trois fois par jour, l'utilisateur peut prononcer un [[mot de commande]] tout en observant un lieu avec cette longue-vue élaborée pour le percevoir comme avec ''[[clairaudienceclairvoyance|clairaudience/clairvoyance]]''. L'effet dure tant que l'utilisateur continue à diriger la longue-vue sur la zone observée.
+
+Si l'utilisateur est un [[humain]], la portée de l'effet est doublée et il peut à la fois voir et entendre à l'endroit choisi.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], [[Extension de portée]], ''[[clairaudienceclairvoyance|clairaudience/clairvoyance]]'', le créateur doit être un [[humain]] ; '''Coût''' 8.750 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Longue-vue dexploration</fullName>
+</wikiPage>

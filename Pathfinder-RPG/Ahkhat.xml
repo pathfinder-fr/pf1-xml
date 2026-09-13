@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ahkhat</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2020-09-02 17:58:38Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type élémentaire</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.Perception des vibrations</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Ouverturefermeture</link><link>Pathfinder-RPG.Prestidigitation</link><link>Pathfinder-RPG.Réparation intégrale</link><link>Pathfinder-RPG.Lancer improvisé</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.tour</link><link>Pathfinder-RPG.Passe-muraille</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ahkhat&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.13&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt;, sous-type Terre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; , &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations&quot;&gt;perception des vibrations&lt;/a&gt;9 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 12, pris au d&#233;pourvu 16 (Dex +1, naturelle +5, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 38 (4d10+16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), mobilit&#233; structurelle
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +8 (1d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; urne, +6 (1d4+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 2&lt;sup&gt;e&lt;/sup&gt;) ; concentration +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ouverturefermeture.html&quot; title=&quot;Ouverture/fermeture&quot;&gt;ouverture/fermeture&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestidigitation.html&quot; title=&quot;Prestidigitation&quot;&gt;prestidigitation&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration-Int&#233;grale.html&quot; title=&quot;R&#233;paration int&#233;grale&quot;&gt;r&#233;paration int&#233;grale&lt;/a&gt;&lt;/i&gt; (structure et &#233;quipement permanents li&#233;s &#224; l’ahkhat seulement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +6, &lt;b&gt;DMD&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Improvis&#233;.html&quot; title=&quot;Lancer improvis&#233;&quot;&gt;Lancer improvis&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (constructions en bois) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (constructions en pierre) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (ing&#233;nierie) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (ing&#233;nierie)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; corps int&#233;gr&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; villes chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt; Corps int&#233;gr&#233; (Ext).&lt;/b&gt; La forme corporelle d’un ahkhat provient de la structure qu’il occupe, en &#233;mergeant des murs, des sols et des plafonds. Un ahkhat ne peut pas se manifester &#224; partir de zones bris&#233;es ou s&#233;par&#233;es de la surface de la b&#226;tisse et peut uniquement se d&#233;placer &#224; l’int&#233;rieur des mat&#233;riaux qui la composent. Un ahkhat occupe le m&#234;me emplacement que la zone de la structure depuis laquelle il est actuellement en train de se manifester. Si, d’une fa&#231;on ou d’une autre, un ahkhat est &#233;loign&#233; de 3 m&#232;tres ou plus de sa structure, il subit 1d8 points de d&#233;g&#226;ts. Au d&#233;but de son prochain &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Tour.html&quot; title=&quot;tour&quot;&gt;tour&lt;/a&gt;, l’ahkhat retourne imm&#233;diatement vers l&#39;emplacement le plus proche &#224; l’int&#233;rieur de sa structure. Lorsqu’il ne se manifeste pas, un ahkhat ne peut pas &#234;tre attaqu&#233; normale- ment, mais il est instantan&#233;ment d&#233;truit si 75% de la b&#226;tisse &#224; laquelle il est li&#233; est d&#233;truite. Si la cl&#233; de vo&#251;te d’un ahkhat est d&#233;truite, l’ahkhat est instantan&#233;ment d&#233;truit.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt; Mobilit&#233; structurelle (Sur).&lt;/b&gt; Un ahkhat peut se d&#233;placer &#224; travers les murs, les sols et les plafonds, quels que soient les mat&#233;riaux dont ils sont compos&#233;s, &#224; l’exception du m&#233;tal. Ce pouvoir est similaire &#224; celui de nage dans la terre. L’ahkhat ne peut pas se d&#233;placer &#224; travers les sections en ruine ou trop endommag&#233;es d’une b&#226;tisse, tant qu’elles ne sont pas restaur&#233;es. Si une zone contenant un ahkhat est la cible d’un sort de &lt;a class=&quot;pagelink&quot; href=&quot;Passe-Muraille.html&quot; title=&quot;Passe-muraille&quot;&gt;passe-muraille&lt;/a&gt; ou d’un effet similaire, l’ahkhat subit 1d8 points de d&#233;g&#226;ts et il est imm&#233;diatement d&#233;plac&#233; vers l’emplacement inoccup&#233; le plus proche dans sa structure.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les mat&#233;riaux utilis&#233;s pour construire la b&#226;tisse s’&#233;tirent et se r&#233;tractent comme s’ils &#233;taient &#233;lastiques, en prenant la forme d’un humano&#239;de de terre dot&#233; d’&#233;pais bras de pierre.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Un ahkhat est une entit&#233; &#233;l&#233;mentaire qui occupe l’int&#233;rieur d’une unique b&#226;tisse ou structure. Il existe uniquement pour entretenir et prot&#233;ger cette structure. Bien plus qu’un simple majordome, l’ahkhat est la conscience incarn&#233;e d’un b&#226;timent.
+Les ahkhats sont li&#233;s et harmonis&#233;s &#224; leur structure par le biais d’une cl&#233; de vo&#251;te sp&#233;ciale, le plus souvent un lourd bloc de pierre. La cl&#233; de vo&#251;te doit faire partie des fondations ou d’un mur porteur du b&#226;timent. Elle peut &#234;tre &#233;galement la v&#233;ritable cl&#233; de vo&#251;te d’une arche. La cl&#233; de vo&#251;te est g&#233;n&#233;ralement grav&#233;e d’une ic&#244;ne repr&#233;sentant une silhouette humano&#239;de sous laquelle est inscrit le nom de l’ahkhat. Quiconque est en possession de la cl&#233; de vo&#251;te ou en contact avec elle et prononce ce nom peut obliger l’ahkhat &#224; ob&#233;ir &#224; ses volont&#233;s et m&#234;me &#224; d&#233;m&#233;nager dans une nouvelle structure, m&#234;me si les ahkhats qui se d&#233;placent vers de nouveaux b&#226;timents pr&#233;f&#232;rent le faire en compagnie de leur cl&#233; de vo&#251;te.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ahkhat|FP 4}
+{s:pucem|Extérieur|Ville|Tropical}
+{s:BDTexte|''Source : Bestiaire 5 p.13''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type natif|natif]], sous-type Terre|Terre]]) de taille P, N}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' , [[perception des vibrations]]9 m, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 12, pris au dépourvu 16 (Dex +1, naturelle +5, taille +1)}
+{s:BDTexte|'''pv''' 38 (4d10+16)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +8, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' [[sous-type Élémentaire|traits des élémentaires]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), mobilité structurelle}
+{s:BDTexte|'''Corps à corps''' 2 coups, +8 (1d6+3)}
+{s:BDTexte|'''Distance''' urne, +6 (1d4+3)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 2<sup>e</sup>) ; concentration +3)}
+{s:BDSorts|À volonté — ''[[Ouverturefermeture|ouverture/fermeture]]'', ''[[prestidigitation]]''}
+{s:BDSorts|1/jour — ''[[réparation intégrale]]'' (structure et équipement permanents liés à l’ahkhat seulement)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 13, '''Con''' 18, '''Int''' 8, '''Sag''' 12, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +6, '''DMD''' 17}
+{s:BDTexte|'''Dons''' [[Lancer improvisé]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (constructions en bois) +6, [[Artisanat]] (constructions en pierre) +6, [[Connaissances]] (ingénierie) +10, [[Discrétion]] +12, [[Perception]] +8 ; '''Modificateurs raciaux''' +4 en [[Connaissances]] (ingénierie)}
+{s:BDTexte|'''Langues''' terreux}
+{s:BDTexte|'''Particularités''' corps intégré}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' villes chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|''' Corps intégré (Ext).''' La forme corporelle d’un ahkhat provient de la structure qu’il occupe, en émergeant des murs, des sols et des plafonds. Un ahkhat ne peut pas se manifester à partir de zones brisées ou séparées de la surface de la bâtisse et peut uniquement se déplacer à l’intérieur des matériaux qui la composent. Un ahkhat occupe le même emplacement que la zone de la structure depuis laquelle il est actuellement en train de se manifester. Si, d’une façon ou d’une autre, un ahkhat est éloigné de 3 mètres ou plus de sa structure, il subit 1d8 points de dégâts. Au début de son prochain [[tour]], l’ahkhat retourne immédiatement vers l'emplacement le plus proche à l’intérieur de sa structure. Lorsqu’il ne se manifeste pas, un ahkhat ne peut pas être attaqué normale- ment, mais il est instantanément détruit si 75% de la bâtisse à laquelle il est lié est détruite. Si la clé de voûte d’un ahkhat est détruite, l’ahkhat est instantanément détruit.}
+{s:BDTexte|''' Mobilité structurelle (Sur).''' Un ahkhat peut se déplacer à travers les murs, les sols et les plafonds, quels que soient les matériaux dont ils sont composés, à l’exception du métal. Ce pouvoir est similaire à celui de nage dans la terre. L’ahkhat ne peut pas se déplacer à travers les sections en ruine ou trop endommagées d’une bâtisse, tant qu’elles ne sont pas restaurées. Si une zone contenant un ahkhat est la cible d’un sort de [[Passe-muraille|passe-muraille]] ou d’un effet similaire, l’ahkhat subit 1d8 points de dégâts et il est immédiatement déplacé vers l’emplacement inoccupé le plus proche dans sa structure.}
+</div>
+</td><td><div>''Les matériaux utilisés pour construire la bâtisse s’étirent et se rétractent comme s’ils étaient élastiques, en prenant la forme d’un humanoïde de terre doté d’épais bras de pierre.''
+
+Un ahkhat est une entité élémentaire qui occupe l’intérieur d’une unique bâtisse ou structure. Il existe uniquement pour entretenir et protéger cette structure. Bien plus qu’un simple majordome, l’ahkhat est la conscience incarnée d’un bâtiment.
+Les ahkhats sont liés et harmonisés à leur structure par le biais d’une clé de voûte spéciale, le plus souvent un lourd bloc de pierre. La clé de voûte doit faire partie des fondations ou d’un mur porteur du bâtiment. Elle peut être également la véritable clé de voûte d’une arche. La clé de voûte est généralement gravée d’une icône représentant une silhouette humanoïde sous laquelle est inscrit le nom de l’ahkhat. Quiconque est en possession de la clé de voûte ou en contact avec elle et prononce ce nom peut obliger l’ahkhat à obéir à ses volontés et même à déménager dans une nouvelle structure, même si les ahkhats qui se déplacent vers de nouveaux bâtiments préfèrent le faire en compagnie de leur clé de voûte.
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Ahkhat</fullName>
+</wikiPage>

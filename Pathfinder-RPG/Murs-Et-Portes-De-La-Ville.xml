@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Murs d'enceinte et portes de la ville</title>
+  <categories><category>Pathfinder-RPG.Maitre du jeu</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs</category></categories>
+  <lastModified>2010-07-30 09:48:07Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Au-dessus et en dessous des rues</link><link>Pathfinder-RPG.MainPage2</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Donjons</link><link>Pathfinder-RPG.Pièges</link><link>Pathfinder-RPG.Exemples de pièges</link><link>Pathfinder-RPG.Conception de pièges</link><link>Pathfinder-RPG.Aventures en extérieur</link><link>Pathfinder-RPG.Milieu aquatique</link><link>Pathfinder-RPG.Milieu urbain</link><link>Pathfinder-RPG.Climat</link><link>Pathfinder-RPG.Plans</link><link>Pathfinder-RPG.grand au-delà</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Aventures nautiques</link><link>Pathfinder-RPG.Catastrophes</link><link>Pathfinder-RPG.Coût de la vie</link><link>Pathfinder-RPG.Dangers</link><link>Pathfinder-RPG.Magie primordiale</link><link>Pathfinder-RPG.Villes</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Acc&#232;s rapide aux sections sur l&#39;environnement&lt;a class=&quot;headeranchor&quot; id=&quot;Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; href=&quot;#Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top; text-align: left&quot;&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDONJONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DONJONS&#39;);&quot; onmouseout=&quot;outButton(&#39;DONJONS&#39;);&quot; onclick=&quot;expandMenu(&#39;DONJONS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html&quot; title=&quot;Les donjons&quot;&gt;Les donjons&lt;/a&gt;
+    &lt;ul ID=&quot;DONJONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_diff&#233;rents_types_de_donjons_7&quot; title=&quot;Les donjons&quot;&gt;Les diff&#233;rents types de donjons&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_0&quot; title=&quot;Les donjons&quot;&gt;Les murs&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_sols_1&quot; title=&quot;Les donjons&quot;&gt;Les sols&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_portes_2&quot; title=&quot;Les donjons&quot;&gt;Les portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_les_portes_et_la_d&#233;tection_des_sorts_3&quot; title=&quot;Les donjons&quot;&gt;Les murs, les portes et la d&#233;tection des sorts&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_escaliers_4&quot; title=&quot;Les donjons&quot;&gt;Les escaliers&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_&#233;boulements_5&quot; title=&quot;Les donjons&quot;&gt;Les &#233;boulements&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Champignons_moisissures_et_limons_6&quot; title=&quot;Les donjons&quot;&gt;Champignons, moisissures et limons&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPIEGES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PIEGES&#39;);&quot; onmouseout=&quot;outButton(&#39;PIEGES&#39;);&quot; onclick=&quot;expandMenu(&#39;PIEGES&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les pi&#232;ges&lt;/a&gt;
+    &lt;ul ID=&quot;PIEGES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DESCRIPTION&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les diff&#233;rentes parties d&#39;un pi&#232;ge&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DIVERS&quot; title=&quot;Les pi&#232;ges&quot;&gt;&#201;l&#233;ments divers des pi&#232;ges&lt;/a&gt;&lt;/li&gt;&lt;br/&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exemples-De-Pi&#232;ges.html&quot; title=&quot;Exemples de pi&#232;ges&quot;&gt;Exemples de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conception-De-Pi&#232;ges.html&quot; title=&quot;Conception d&amp;#39;un pi&#232;ge&quot;&gt;Conception de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonEXTERIEUR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;EXTERIEUR&#39;);&quot; onmouseout=&quot;outButton(&#39;EXTERIEUR&#39;);&quot; onclick=&quot;expandMenu(&#39;EXTERIEUR&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les aventures en ext&#233;rieur&lt;/a&gt;
+    &lt;ul ID=&quot;EXTERIEUR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Se_perdre_4&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Se perdre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#For&#234;ts_5&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;For&#234;ts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_feux_de_for&#234;t_FP_G_0&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les feux de for&#234;t&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Mar&#233;cages_6&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Mar&#233;cages&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Collines_7&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Collines&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Montagnes_8&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Montagnes&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Avalanches_FP_H_1&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Avalanches&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Voyages_en_montagne_2&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Voyages en montagne&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#D&#233;serts_9&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;D&#233;serts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_temp&#234;tes_de_sable_3&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les temp&#234;tes de sable&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Plaines_10&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Plaines&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUAQUATIQUE&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUAQUATIQUE&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html&quot; title=&quot;Le milieu aquatique&quot;&gt;Le milieu aquatique&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUAQUATIQUE&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Combats_sous-marins_0&quot; title=&quot;Le milieu aquatique&quot;&gt;Combats sous-marins&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Inondations_1&quot; title=&quot;Le milieu aquatique&quot;&gt;Inondations&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUURBAIN&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUURBAIN&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUURBAIN&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUURBAIN&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html&quot; title=&quot;Le milieu urbain&quot;&gt;Le milieu urbain&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUURBAIN&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Murs_denceinte_et_portes_0&quot; title=&quot;Le milieu urbain&quot;&gt;Murs d&#39;enceinte et portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Gardes_et_soldats_1&quot; title=&quot;Le milieu urbain&quot;&gt;Gardes et soldats&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Machines_de_guerre_2&quot; title=&quot;Le milieu urbain&quot;&gt;Machines de guerre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_rues_de_la_ville_3&quot; title=&quot;Le milieu urbain&quot;&gt;Les rues de la ville&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Au-dessus_et_en_dessous_des_rues_4&quot; title=&quot;Le milieu urbain&quot;&gt;Au-dessus et en dessous des rues&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#B&#226;timents_5&quot; title=&quot;Le milieu urbain&quot;&gt;B&#226;timents&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_lumi&#232;res_de_la_ville_6&quot; title=&quot;Le milieu urbain&quot;&gt;Les lumi&#232;res de la ville&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLIMAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLIMAT&#39;);&quot; onmouseout=&quot;outButton(&#39;CLIMAT&#39;);&quot; onclick=&quot;expandMenu(&#39;CLIMAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html&quot; title=&quot;Le climat&quot;&gt;Le climat&lt;/a&gt;
+    &lt;ul ID=&quot;CLIMAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Pluie_neige_neige_fondue_et_gr&#234;le_1&quot; title=&quot;Le climat&quot;&gt;Pluie, neige, neige fondue et gr&#234;le&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Temp&#234;tes_2&quot; title=&quot;Le climat&quot;&gt;Temp&#234;tes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Brouillard_3&quot; title=&quot;Le climat&quot;&gt;Brouillard&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Vents_4&quot; title=&quot;Le climat&quot;&gt;Vents&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPLANS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PLANS&#39;);&quot; onmouseout=&quot;outButton(&#39;PLANS&#39;);&quot; onclick=&quot;expandMenu(&#39;PLANS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;Les plans&lt;/a&gt;
+    &lt;ul ID=&quot;PLANS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#D&#201;FINITIONPLAN&quot; title=&quot;Les plans&quot;&gt;Qu&#39;est-ce qu&#39;un plan ?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#CARACT&#201;RISTIQUESPLANS&quot; title=&quot;Les plans&quot;&gt;Caract&#233;ristiques des plans&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grand-Au-Del&#224;.html&quot; title=&quot;Le grand au-del&#224;&quot;&gt;Les plans du grand au-del&#224;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDANGNAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DANGNAT&#39;);&quot; onmouseout=&quot;outButton(&#39;DANGNAT&#39;);&quot; onclick=&quot;expandMenu(&#39;DANGNAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html&quot; title=&quot;Les dangers naturels&quot;&gt;Les dangers naturels&lt;/a&gt;
+    &lt;ul ID=&quot;DANGNAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ACIDE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;acide&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ASPHYXIE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;asphyxie&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHALEUR&quot; title=&quot;Les dangers naturels&quot;&gt;La chaleur&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTES&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTESOBJETS&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes d&#39;objets&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#EAU&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;eau&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FAIMSOIF&quot; title=&quot;Les dangers naturels&quot;&gt;La faim et la soif&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FUMEE&quot; title=&quot;Les dangers naturels&quot;&gt;La fum&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FROID&quot; title=&quot;Les dangers naturels&quot;&gt;Le froid&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#GLACE&quot; title=&quot;Les dangers naturels&quot;&gt;La glace&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#LAVE&quot; title=&quot;Les dangers naturels&quot;&gt;La lave&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#NOYADE&quot; title=&quot;Les dangers naturels&quot;&gt;La noyade&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#OBSCURITE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;obscurit&#233;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#PRENDREFEU&quot; title=&quot;Les dangers naturels&quot;&gt;Prendre feu&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-Nautiques.html&quot; title=&quot;Les aventures nautiques&quot;&gt;Les aventures nautiques&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Catastrophes.html&quot; title=&quot;Les catastrophes&quot;&gt;Les catastrophes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Co&#251;t-De-La-Vie.html&quot; title=&quot;Le co&#251;t de la vie&quot;&gt;Le co&#251;t de la vie&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers.html&quot; title=&quot;Les dangers&quot;&gt;Les dangers inhabituels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Primordiale.html&quot; title=&quot;La magie primordiale&quot;&gt;La magie primordiale&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Villes.html&quot; title=&quot;Les villes et communaut&#233;s&quot;&gt;Les villes et communaut&#233;s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Murs d&#39;enceinte&lt;a class=&quot;headeranchor&quot; id=&quot;Murs_denceinte_0&quot; href=&quot;#Murs_denceinte_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+De nombreuses villes sont encadr&#233;es d’un petit mur d’enceinte. G&#233;n&#233;ralement, ce dernier est fait de pierre et mesure 1,50 m d’&#233;paisseur pour 6 m de haut. Ce type de mur est relativement lisse et n&#233;cessite un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 30) pour &#234;tre gravi. Les murs sont cr&#233;nel&#233;s d’un c&#244;t&#233; pour prot&#233;ger les gardes qui sont au sommet, et le chemin de ronde est juste assez large pour s’y d&#233;placer. Les murs d’enceinte poss&#232;dent une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de 3, une solidit&#233; de 8 et 450 points de vie par section de 3 m (2 cases).&lt;br /&gt;&lt;br /&gt;Les murs d’enceinte des m&#233;tropoles mesurent 4,50 m d’&#233;paisseur et 12 m de haut. Ils sont cr&#233;nel&#233;s des deux c&#244;t&#233;s et poss&#232;dent souvent un petit tunnel ou de petites salles qui s’&#233;tendent &#224; l’int&#233;rieur des murs. Les murs d’enceinte des m&#233;tropoles poss&#232;dent une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de 3, une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration#Solidite.html&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 8 et 1 170 pv par section de 3 m (2 cases).&lt;br /&gt;&lt;br /&gt;Contrairement aux villes de taille inf&#233;rieure, les m&#233;tropoles ont g&#233;n&#233;ralement des murailles internes en plus de leur mur d’enceinte (soit de vieux murs devenus trop petits pour la ville, soit des murs s&#233;parant les diff&#233;rents quartiers). Parfois, ces murs sont aussi larges et &#233;pais que les murs d’enceinte cependant, ils ont les m&#234;mes caract&#233;ristiques que les murs des villes ordinaires.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Tour de guet&lt;a class=&quot;headeranchor&quot; id=&quot;Tour_de_guet_1&quot; href=&quot;#Tour_de_guet_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Certains murs d’enceinte sont dot&#233;s de tours de guet plac&#233;es &#224; intervalles r&#233;guliers. Peu nombreuses sont les villes disposant d’un nombre suffisant de gardes pour avoir une sentinelle stationn&#233;e en permanence en haut de chaque tour, sauf si la ville s’attend &#224; &#234;tre assi&#233;g&#233;e. Les tours permettent d’avoir un point de vue &#233;lev&#233; sur les environs, ainsi qu’une position d&#233;fensive contre les envahisseurs.&lt;br /&gt;&lt;br /&gt;Les tours de guet d&#233;passent en g&#233;n&#233;ral de trois m&#232;tres la muraille dont elles &#233;mergent et leur diam&#232;tre est cinq fois plus important que l’&#233;paisseur du mur. Les &#233;tages sup&#233;rieurs des tours sont dot&#233;s de meurtri&#232;res et leur sommet est cr&#233;nel&#233; de la m&#234;me mani&#232;re que les murs d’enceinte. Habituellement, dans une petite tour (sept m&#232;tres cinquante de diam&#232;tre pour un mur d’enceinte d’un m&#232;tre cinquante d’&#233;paisseur), les &#233;tages sont raccord&#233;s par de simples &#233;chelles. Les tours plus grandes disposent d’escaliers.&lt;br /&gt;&lt;br /&gt;D’&#233;paisses portes en bois bard&#233;es de fer et pourvues de solides verrous (&lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 30) bloquent l’entr&#233;e de la tour, sauf si celle-ci est utilis&#233;e de fa&#231;on r&#233;guli&#232;re. G&#233;n&#233;ralement, le capitaine de la garde porte la clef de la tour sur lui. Une seconde est rang&#233;e dans la forteresse ou dans les casernes de la ville.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Portes&lt;a class=&quot;headeranchor&quot; id=&quot;Portes_2&quot; href=&quot;#Portes_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les portes d’une ville comportent g&#233;n&#233;ralement un corps de garde dot&#233; de deux herses et de meurtri&#232;res au-dessus de l’espace qui les s&#233;pare. Dans les petites villes, l’entr&#233;e principale se fait au travers de portes en fer &#224; double battant ench&#226;ss&#233;es dans le mur d’enceinte de la ville.&lt;br /&gt;&lt;br /&gt;Les portes sont souvent ouvertes durant la journ&#233;e et verrouill&#233;es ou bloqu&#233;es par une barre pendant la nuit. Habituellement, elles s’ouvrent tout de m&#234;me pour des voyageurs arriv&#233;s apr&#232;s le coucher du soleil si les gardes qui en sont charg&#233;s estiment ces personnes honn&#234;tes, si elles pr&#233;sentent les papiers demand&#233;s ou si elles proposent un pot-de-vin assez cons&#233;quent (selon la ville et les gardes).
+]]></body>
+  <raw><![CDATA[{s:MenuEnvironnement}
+
+====Murs d'enceinte====
+
+De nombreuses villes sont encadrées d’un petit mur d’enceinte. Généralement, ce dernier est fait de pierre et mesure 1,50 m d’épaisseur pour 6 m de haut. Ce type de mur est relativement lisse et nécessite un test d’[[Escalade]] ([[DD]] 30) pour être gravi. Les murs sont crénelés d’un côté pour protéger les gardes qui sont au sommet, et le chemin de ronde est juste assez large pour s’y déplacer. Les murs d’enceinte possèdent une [[CA]] de 3, une solidité de 8 et 450 points de vie par section de 3 m (2 cases).
+
+Les murs d’enceinte des métropoles mesurent 4,50 m d’épaisseur et 12 m de haut. Ils sont crénelés des deux côtés et possèdent souvent un petit tunnel ou de petites salles qui s’étendent à l’intérieur des murs. Les murs d’enceinte des métropoles possèdent une [[CA]] de 3, une [[solidité]] de 8 et 1 170 pv par section de 3 m (2 cases).
+
+Contrairement aux villes de taille inférieure, les métropoles ont généralement des murailles internes en plus de leur mur d’enceinte (soit de vieux murs devenus trop petits pour la ville, soit des murs séparant les différents quartiers). Parfois, ces murs sont aussi larges et épais que les murs d’enceinte cependant, ils ont les mêmes caractéristiques que les murs des villes ordinaires.
+
+====Tour de guet====
+
+Certains murs d’enceinte sont dotés de tours de guet placées à intervalles réguliers. Peu nombreuses sont les villes disposant d’un nombre suffisant de gardes pour avoir une sentinelle stationnée en permanence en haut de chaque tour, sauf si la ville s’attend à être assiégée. Les tours permettent d’avoir un point de vue élevé sur les environs, ainsi qu’une position défensive contre les envahisseurs.
+
+Les tours de guet dépassent en général de trois mètres la muraille dont elles émergent et leur diamètre est cinq fois plus important que l’épaisseur du mur. Les étages supérieurs des tours sont dotés de meurtrières et leur sommet est crénelé de la même manière que les murs d’enceinte. Habituellement, dans une petite tour (sept mètres cinquante de diamètre pour un mur d’enceinte d’un mètre cinquante d’épaisseur), les étages sont raccordés par de simples échelles. Les tours plus grandes disposent d’escaliers.
+
+D’épaisses portes en bois bardées de fer et pourvues de solides verrous ([[Sabotage]] [[DD]] 30) bloquent l’entrée de la tour, sauf si celle-ci est utilisée de façon régulière. Généralement, le capitaine de la garde porte la clef de la tour sur lui. Une seconde est rangée dans la forteresse ou dans les casernes de la ville.
+
+====Portes====
+
+Les portes d’une ville comportent généralement un corps de garde doté de deux herses et de meurtrières au-dessus de l’espace qui les sépare. Dans les petites villes, l’entrée principale se fait au travers de portes en fer à double battant enchâssées dans le mur d’enceinte de la ville.
+
+Les portes sont souvent ouvertes durant la journée et verrouillées ou bloquées par une barre pendant la nuit. Habituellement, elles s’ouvrent tout de même pour des voyageurs arrivés après le coucher du soleil si les gardes qui en sont chargés estiment ces personnes honnêtes, si elles présentent les papiers demandés ou si elles proposent un pot-de-vin assez conséquent (selon la ville et les gardes).]]></raw>
+  <fullName>Pathfinder-RPG.Murs et portes de la ville</fullName>
+</wikiPage>

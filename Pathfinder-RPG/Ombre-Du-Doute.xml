@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ombre du doute</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort antipaladin 4</category><category>Pathfinder-RPG.Sort barde 4</category><category>Pathfinder-RPG.Sort hypnotiseur 4</category><category>Pathfinder-RPG.Sort psychiste 6</category><category>Pathfinder-RPG.Sort spirite 4</category><category>Pathfinder-RPG.Src Inner Sea Races</category></categories>
+  <lastModified>2024-11-20 18:11:10Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts dantipaladin</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Races de la mer Intérieure (Contenu)</link><link>Pathfinder-RPG.Tieffelin (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.branche coercition</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Exploration</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Tieffelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Tieffelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Tieffelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Tieffelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Tieffelin-(Race).html&quot; title=&quot;Les tieffelins&quot;&gt;tieffelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Races de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Races/Races de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Coercition.html&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effet mental, &#233;motion, Mal, obscurit&#233;&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;Antipal&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;Hyp&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Psy&lt;/a&gt; 6, &lt;a class=&quot;pagelink&quot; href=&quot;Spirite.html&quot; title=&quot;Le spirite&quot;&gt;Spi&lt;/a&gt; 4  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 niveaux) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 niveaux)  
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature/3 niveaux  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 round/niveau  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; (voir texte) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage cr&#233;&#233; une aura obscure de doutes aliment&#233;e par les faiblesses psychologiques de son ennemi. Les cibles per&#231;oivent toutes les sources de lumi&#232;re comme &#233;tant d&#39;une cat&#233;gorie plus sombre, jusqu&#39;&#224; un niveau de luminosit&#233; minimum &#233;quivalent &#224; des &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#VISIONLUMIERE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;t&#233;n&#232;bres&lt;/a&gt; (mais pas des t&#233;n&#232;bres surnaturelles), et ce m&#234;me si elles r&#233;ussissent leur &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Des ombres mentales fugaces de regrets et d&#39;angoisses distraient les cibles du sort. Au d&#233;but de chacun de leur tour, elles doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Chancelant.html&quot; title=&quot;Chancelant&quot;&gt;chancelantes&lt;/a&gt; pendant 1 round. Une cible d&#39;alignement Bon subit un malus de -4 aux jets de sauvegarde contre cette effet, tandis qu&#39;une cible d&#39;alignement Mauvais obtient un bonus de +4.
+]]></body>
+  <raw><![CDATA[{s:racial|Tieffelin (race)|tieffelins|Illustrations/PNJ/Tieffelin.jpg}{s:cs}{s:ISR}'''École''' [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, émotion, Mal, obscurité]]<nowiki>]</nowiki> ; '''Niveau''' [[Antipaladin|Antipal]] 4, [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Psychiste|Psy]] 6, [[Spirite|Spi]] 4  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G]]  
+'''Portée''' courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 niveaux)  
+'''Cible''' une créature/3 niveaux  
+'''Durée''' 1 round/niveau  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; '''Résistance à la magie''' oui
+
+Le personnage créé une aura obscure de doutes alimentée par les faiblesses psychologiques de son ennemi. Les cibles perçoivent toutes les sources de lumière comme étant d'une catégorie plus sombre, jusqu'à un niveau de luminosité minimum équivalent à des [[Exploration#VISIONLUMIERE|ténèbres]] (mais pas des ténèbres surnaturelles), et ce même si elles réussissent leur [[jds|jet de sauvegarde]].
+
+Des ombres mentales fugaces de regrets et d'angoisses distraient les cibles du sort. Au début de chacun de leur tour, elles doivent réussir un jet de [[Volonté]] ou être [[chancelant|chancelantes]] pendant 1 round. Une cible d'alignement Bon subit un malus de -4 aux jets de sauvegarde contre cette effet, tandis qu'une cible d'alignement Mauvais obtient un bonus de +4.]]></raw>
+  <fullName>Pathfinder-RPG.Ombre du doute</fullName>
+</wikiPage>

@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Guenaude, Guenaude de sang</title>
+  <categories><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2020-09-19 23:47:30Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.changelin (race)</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Guenaude annis</link><link>Pathfinder-RPG.Guenaude arctique</link><link>Pathfinder-RPG.Guenaude de sang</link><link>Pathfinder-RPG.Guenaude des tempêtes</link><link>Pathfinder-RPG.Guenaude marine</link><link>Pathfinder-RPG.Guenaude noire</link><link>Pathfinder-RPG.Guenaude verte</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link><link>Pathfinder-RPG.Temp-bestiaire4</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Détection du Bien</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Blessure modérée</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Pattes daraignée</link><link>Pathfinder-RPG.Rayon ardent</link><link>Pathfinder-RPG.Sommeil profond</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Manœuvres agiles</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Alignement indétectable</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Guenaude annis</link><link>Pathfinder-RPG.Guenaude arctique</link><link>Pathfinder-RPG.Guenaude de sang</link><link>Pathfinder-RPG.Guenaude des tempêtes</link><link>Pathfinder-RPG.Guenaude marine</link><link>Pathfinder-RPG.Guenaude noire</link><link>Pathfinder-RPG.Guenaude verte</link><link>Pathfinder-RPG.Contrôle du climat</link><link>Pathfinder-RPG.Communication avec les morts</link><link>Pathfinder-RPG.Protection contre la mort</link><link>Pathfinder-RPG.Tempête de feu</link><link>Pathfinder-RPG.Cauchemar</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Guenaude de sang&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de monstrueux&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de monstrueux.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Plaines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Plaines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4 p.139&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4.800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +10 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Bien.html&quot; title=&quot;D&#233;tection du Bien&quot;&gt;D&#233;tection du Bien&lt;/a&gt;&lt;/i&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 17, pris au d&#233;pourvu 16 (Dex +6, esquive +1, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 90 (12d10+24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +14, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/fer froid et magie ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; charme, feu, maladie, sommeil,
+terreur ; &lt;b&gt;RM&lt;/b&gt; 19 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;, parfaite, sous forme flamboyante seulement)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +18 (2d4+4) et 2 griffes, +18 (1d6+4 plus &#233;treinte)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; absorption de sang (1d2 Con), d&#233;tonation
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 12 ; concentration +16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Bien.html&quot; title=&quot;D&#233;tection du Bien&quot;&gt;d&#233;tection du Bien&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-Mod&#233;r&#233;e.html&quot; title=&quot;Blessure mod&#233;r&#233;e&quot;&gt;blessure mod&#233;r&#233;e&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Daraign&#233;e.html&quot; title=&quot;Pattes d&amp;#39;araign&#233;e&quot;&gt;pattes d’araign&#233;e&lt;/a&gt;&lt;/i&gt; (sur soi seulement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-Ardent.html&quot; title=&quot;Rayon ardent&quot;&gt;rayon ardent&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil-Profond.html&quot; title=&quot;Sommeil profond&quot;&gt;sommeil profond&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 22, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +12, &lt;b&gt;BMO&lt;/b&gt; +18 (+22 lutte), &lt;b&gt;DMD&lt;/b&gt; 33
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Agiles.html&quot; title=&quot;Manœuvres agiles&quot;&gt;Manœuvres agiles&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +21, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, commun, g&#233;ant, infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; dissimulation du Mal, forme flamboyante (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou cercle (3 guenaudes de n’importe quel type)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;POUVOIRS SP&#201;CIAUX&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;tonation (Sur).&lt;/b&gt; Une guenaude de sang sous forme flamboyante
+peut exploser dans un rayonnement de 9 m&#232;tres de rayon.
+Elle inflige alors 8d6 points de d&#233;g&#226;ts de feu (R&#233;flexes &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18,
+1/2 d&#233;g&#226;ts). Quand elle utilise ce pouvoir, elle reprend
+imm&#233;diatement sa forme normale. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du jet de sauvegarde
+est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dissimulation du Mal (Sur).&lt;/b&gt; La journ&#233;e, la guenaude de
+sang &#171; rev&#234;t sa peau &#187;, ce qui lui donne l’apparence d’une
+jeune femme. Ainsi d&#233;guis&#233;e, elle ne peut pas utiliser sa
+morsure, ses griffes, ni son pouvoir de forme flamboyante.
+La nuit, elle jaillit hors de sa peau et reprend sa forme
+monstrueuse. Sa peau la recouvre de nouveau &#224; l’aube. Tant
+que la guenaude est habill&#233;e de sa peau, son alignement
+est dissimul&#233;, comme par un sort d’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Ind&#233;tectable.html&quot; title=&quot;Alignement ind&#233;tectable&quot;&gt;alignement ind&#233;tectable&lt;/a&gt;&lt;/i&gt; permanent.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Forme flamboyante (Sur).&lt;/b&gt; Une guenaude de sang qui a retir&#233; sa peau
+en utilisant son pouvoir de Dissimulation du Mal peut, par une action
+simple, se transformer en une boule de feu pendant un maximum de
+12 rounds. Une fois qu’elle a repris sa forme ordinaire, elle doit attendre
+1d4 rounds avant de pouvoir rev&#234;tir sa forme flamboyante. Si elle entre
+dans l’espace occup&#233; par une autre cr&#233;ature alors qu’elle est sous forme
+de boule de feu, elle ne peut plus se d&#233;placer pour le reste du round et
+lui inflige 3d6 points de d&#233;g&#226;ts de feu (R&#233;flexes &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 pour annuler).
+La guenaude peut r&#233;duire sa chaleur et sa luminosit&#233; pour ressembler
+&#224; une braise. Elle peut franchir des ouvertures et des fissures comme
+si elle &#233;tait sous &#233;tat gazeux. Une guenaude sous forme flamboyante
+conserve sa CA et devient immunis&#233;e contre les attaques et les effets
+non magiques. Si elle est victime d’une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt; r&#233;ussie
+ou si elle subit 20 points de d&#233;g&#226;ts de froid, elle reprend sa forme
+normale. Le nombre d’utilisations quotidiennes de la forme flamboyante
+est &#233;gal au modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; de la guenaude de sang, en
+g&#233;n&#233;ral 4. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du jet de sauvegarde est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de guenaude&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guenaude-Annis.html&quot; title=&quot;Guenaude, Guenaude annis&quot;&gt;Guenaude annis&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guenaude-Arctique.html&quot; title=&quot;Guenaude, Guenaude arctique&quot;&gt;Guenaude arctique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guenaude-De-Sang.html&quot; title=&quot;Guenaude, Guenaude de sang&quot;&gt;Guenaude de sang&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guenaude-Des-Temp&#234;tes.html&quot; title=&quot;Guenaude, Guenaude des temp&#234;tes&quot;&gt;Guenaude des temp&#234;tes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guenaude-Marine.html&quot; title=&quot;Guenaude, Guenaude marine&quot;&gt;Guenaude marine&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guenaude-Noire.html&quot; title=&quot;Guenaude, Guenaude noire&quot;&gt;Guenaude noire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guenaude-Verte.html&quot; title=&quot;Guenaude, Guenaude verte&quot;&gt;Guenaude verte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Cette dame serait tr&#232;s jolie si ses dents et ses ongles n’&#233;taient pas aussi pointus et si sa peau n’&#233;tait pas aussi blafarde.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les guenaudes de sang, que certains appellent soucouyants,
+pr&#233;f&#232;rent vivre pr&#232;s des communaut&#233;s humaines isol&#233;es ou en bordure
+des terres civilis&#233;es. La journ&#233;e, la guenaude prend l’apparence
+d’une jeune femme, la nuit, elle reprend sa v&#233;ritable forme, quand
+sa peau se d&#233;tache pour r&#233;v&#233;ler la monstruosit&#233; qu’elle dissimulait.
+La guenaude en chasse se nourrit la nuit des voisins sans m&#233;fiance.
+Elle se glisse chez eux et boit leur sang ou les fait br&#251;ler
+vifs. Quand elle trouve une victime particuli&#232;rement app&#233;tissante,
+elle ne se contente pas de s’en nourrir, elle la capture
+et l’emporte dans son antre, o&#249; elle la torture et la vide
+de son sang pendant plusieurs jours, voire plusieurs semaines.
+Une fois qu’elle a pr&#233;par&#233; la peau de sa victime
+de mani&#232;re ad&#233;quate, elle s’en habille. Les guenaudes
+de sang les plus intelligentes et les plus t&#233;m&#233;raires
+tentent parfois de se faire passer pour leur victime
+pendant un temps.&lt;br /&gt;&lt;br /&gt;Les guenaudes de sang les plus dou&#233;es gagnent
+souvent des niveaux dans la classe de sorci&#232;re.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;LES CERCLES DE GUENAUDES DE SANG&lt;a class=&quot;headeranchor&quot; id=&quot;LES_CERCLES_DE_GUENAUDES_DE_SANG_0&quot; href=&quot;#LES_CERCLES_DE_GUENAUDES_DE_SANG_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Un cercle qui compte une guenaude de sang n’a plus
+acc&#232;s aux pouvoirs magiques &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt; ni &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Morts.html&quot; title=&quot;Communication avec les morts&quot;&gt;communication avec les morts&lt;/a&gt;&lt;/i&gt;. En revanche, il peut lancer
+&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-La-Mort.html&quot; title=&quot;Protection contre la mort&quot;&gt;protection contre la mort&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp&#234;te-De-Feu.html&quot; title=&quot;Temp&#234;te de feu&quot;&gt;temp&#234;te de feu&lt;/a&gt;&lt;/i&gt; et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cauchemar.html&quot; title=&quot;Destrier noir, Cauchemar&quot;&gt;cauchemar&lt;/a&gt;&lt;/i&gt;.
+Quand les trois guenaudes du cercle se trouvent &#224;
+moins de 3 m&#232;tres les unes des autres, elles gagnent
+l’immunit&#233; au feu et la r&#233;sistance &#224; la magie
+de la guenaude de sang. Les guenaudes de sang
+d&#233;testent se soumettre &#224; l’autorit&#233; d’un tiers, elles
+&#233;vitent donc de former un cercle avec d’autres
+guenaudes de leur esp&#232;ce ou avec des guenaudes
+disposant d’un pouvoir &#233;gal ou sup&#233;rieur au leur.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Guenaude de sang|FP 8}
+{s:pucem|Humanoïde monstrueux|Plaines|Tempéré}
+{s:BDTexte|''Source : Bestiaire 4 p.139''}
+{s:BDTexte|'''PX''' 4.800}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, NM}
+{s:BDTexte|'''Init''' +10 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ''[[détection de la magie]]'', ''[[Détection du Bien]]'' ; [[Perception]] +18}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 23, contact 17, pris au dépourvu 16 (Dex +6, esquive +1, naturelle +6)}
+{s:BDTexte|'''pv''' 90 (12d10+24)}
+{s:BDTexte|'''Réf''' +14, '''Vig''' +6, '''Vol''' +11}
+{s:BDTexte|'''RD''' 5/fer froid et magie ; '''Immunités''' charme, feu, maladie, sommeil,
+terreur ; '''RM''' 19 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), vol 18 m (12 {s:c}, parfaite, sous forme flamboyante seulement)}
+{s:BDTexte|'''Corps à corps''' morsure, +18 (2d4+4) et 2 griffes, +18 (1d6+4 plus étreinte)}
+{s:BDTexte|'''Attaques spéciales''' absorption de sang (1d2 Con), détonation}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 12 ; concentration +16)}
+{s:BDSorts|Constant — ''[[détection de la magie]]'', ''[[détection du Bien]]''}
+{s:BDSorts|À volonté — ''[[blessure modérée]]'' ([[DD]] 16), ''[[pattes daraignée|pattes d’araignée]]'' (sur soi seulement), ''[[rayon ardent]]''}
+{s:BDSorts|3/jour — ''[[sommeil profond]]'' ([[DD]] 17)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 22, '''Con''' 15, '''Int''' 14, '''Sag''' 17, '''Cha''' 19}
+{s:BDTexte|'''BBA''' +12, '''BMO''' +18 (+22 lutte), '''DMD''' 33}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Attaques réflexes]], [[Esquive]], [[Manœuvres agiles]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +18, [[Bluff]] +16, [[Déguisement]] +16, [[Discrétion]] +21, [[Intimidation]] +19, [[Perception]] +18, [[Vol]] +14}
+{s:BDTexte|'''Langues''' abyssal, commun, géant, infernal}
+{s:BDTexte|'''Particularités''' dissimulation du Mal, forme flamboyante ([[DD]] 20)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation sociale''' solitaire ou cercle (3 guenaudes de n’importe quel type)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|POUVOIRS SPÉCIAUX}
+{s:BDTexte|'''Détonation (Sur).''' Une guenaude de sang sous forme flamboyante
+peut exploser dans un rayonnement de 9 mètres de rayon.
+Elle inflige alors 8d6 points de dégâts de feu (Réflexes [[DD]] 18,
+1/2 dégâts). Quand elle utilise ce pouvoir, elle reprend
+immédiatement sa forme normale. Le [[DD]] du jet de sauvegarde
+est basé sur la [[Constitution]].}
+{s:BDTexte|'''Dissimulation du Mal (Sur).''' La journée, la guenaude de
+sang « revêt sa peau », ce qui lui donne l’apparence d’une
+jeune femme. Ainsi déguisée, elle ne peut pas utiliser sa
+morsure, ses griffes, ni son pouvoir de forme flamboyante.
+La nuit, elle jaillit hors de sa peau et reprend sa forme
+monstrueuse. Sa peau la recouvre de nouveau à l’aube. Tant
+que la guenaude est habillée de sa peau, son alignement
+est dissimulé, comme par un sort d’''[[alignement indétectable]]'' permanent.}
+{s:BDTexte|'''Forme flamboyante (Sur).''' Une guenaude de sang qui a retiré sa peau
+en utilisant son pouvoir de Dissimulation du Mal peut, par une action
+simple, se transformer en une boule de feu pendant un maximum de
+12 rounds. Une fois qu’elle a repris sa forme ordinaire, elle doit attendre
+1d4 rounds avant de pouvoir revêtir sa forme flamboyante. Si elle entre
+dans l’espace occupé par une autre créature alors qu’elle est sous forme
+de boule de feu, elle ne peut plus se déplacer pour le reste du round et
+lui inflige 3d6 points de dégâts de feu (Réflexes [[DD]] 20 pour annuler).
+La guenaude peut réduire sa chaleur et sa luminosité pour ressembler
+à une braise. Elle peut franchir des ouvertures et des fissures comme
+si elle était sous état gazeux. Une guenaude sous forme flamboyante
+conserve sa CA et devient immunisée contre les attaques et les effets
+non magiques. Si elle est victime d’une ''[[dissipation de la magie]]'' réussie
+ou si elle subit 20 points de dégâts de froid, elle reprend sa forme
+normale. Le nombre d’utilisations quotidiennes de la forme flamboyante
+est égal au modificateur de [[Charisme]] de la guenaude de sang, en
+général 4. Le [[DD]] du jet de sauvegarde est basé sur le [[Charisme]].}
+
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de guenaude
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Guenaude annis]] || 6
+|-
+| [[Guenaude arctique]] || 7
+|-
+| [[Guenaude de sang]] || 8
+|-
+| [[Guenaude des tempêtes]] || 7
+|-
+| [[Guenaude marine]] || 4
+|-
+| [[Guenaude noire]] || 9
+|-
+| [[Guenaude verte]] || 5
+|}
+</div>''Cette dame serait très jolie si ses dents et ses ongles n’étaient pas aussi pointus et si sa peau n’était pas aussi blafarde.''
+
+Les guenaudes de sang, que certains appellent soucouyants,
+préfèrent vivre près des communautés humaines isolées ou en bordure
+des terres civilisées. La journée, la guenaude prend l’apparence
+d’une jeune femme, la nuit, elle reprend sa véritable forme, quand
+sa peau se détache pour révéler la monstruosité qu’elle dissimulait.
+La guenaude en chasse se nourrit la nuit des voisins sans méfiance.
+Elle se glisse chez eux et boit leur sang ou les fait brûler
+vifs. Quand elle trouve une victime particulièrement appétissante,
+elle ne se contente pas de s’en nourrir, elle la capture
+et l’emporte dans son antre, où elle la torture et la vide
+de son sang pendant plusieurs jours, voire plusieurs semaines.
+Une fois qu’elle a préparé la peau de sa victime
+de manière adéquate, elle s’en habille. Les guenaudes
+de sang les plus intelligentes et les plus téméraires
+tentent parfois de se faire passer pour leur victime
+pendant un temps.
+
+Les guenaudes de sang les plus douées gagnent
+souvent des niveaux dans la classe de sorcière.
+
+====LES CERCLES DE GUENAUDES DE SANG====
+
+Un cercle qui compte une guenaude de sang n’a plus
+accès aux pouvoirs magiques ''[[contrôle du climat]]'' ni ''[[communication avec les morts]]''. En revanche, il peut lancer
+''[[protection contre la mort]]'', ''[[tempête de feu]]'' et ''[[cauchemar]]''.
+Quand les trois guenaudes du cercle se trouvent à
+moins de 3 mètres les unes des autres, elles gagnent
+l’immunité au feu et la résistance à la magie
+de la guenaude de sang. Les guenaudes de sang
+détestent se soumettre à l’autorité d’un tiers, elles
+évitent donc de former un cercle avec d’autres
+guenaudes de leur espèce ou avec des guenaudes
+disposant d’un pouvoir égal ou supérieur au leur.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Guenaude de sang</fullName>
+</wikiPage>

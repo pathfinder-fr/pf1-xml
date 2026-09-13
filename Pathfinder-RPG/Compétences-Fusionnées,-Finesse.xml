@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Compétences fusionnées, Finesse</title>
+  <categories><category>Pathfinder-RPG.Src Pathfinder unchained</category></categories>
+  <lastModified>2021-10-09 20:15:23Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences fusionnées, Finesse</link><link>Pathfinder-RPG.Compétences groupées</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Compétences fusionnées, Finesse</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.fléchette (arme)</link><link>Pathfinder-RPG.fronde (arme)</link><link>Pathfinder-RPG.Arbalète de poing (arme)</link><link>Pathfinder-RPG.Compétences fusionnées, Perception</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.AO</link><link>Pathfinder-RPG.Outils de cambrioleur (objet)</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.MJ</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Règles alternatives unchained</link><link>Pathfinder-RPG.Classes unchained</link><link>Pathfinder-RPG.Barbare unchained</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Moine unchained</link><link>Pathfinder-RPG.Roublard unchained</link><link>Pathfinder-RPG.Bonus de base fractionnaires</link><link>Pathfinder-RPG.Progression échelonnée</link><link>Pathfinder-RPG.Compétences et options unchained</link><link>Pathfinder-RPG.Compétences contextuelles</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Artisanat et Profession alternatives</link><link>Pathfinder-RPG.Extensions de compétences</link><link>Pathfinder-RPG.Variante de multiclassage</link><link>Pathfinder-RPG.Mécanismes de jeu unchained</link><link>Pathfinder-RPG.Alignement unchained</link><link>Pathfinder-RPG.Éliminer lalignement</link><link>Pathfinder-RPG.Gestion dactions révisée</link><link>Pathfinder-RPG.Éliminer les attaques multiples</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Seuils de blessure</link><link>Pathfinder-RPG.Maladies et poisons unchained</link><link>Pathfinder-RPG.Magie unchained</link><link>Pathfinder-RPG.Incantation simplifiée</link><link>Pathfinder-RPG.Altérations de la magie</link><link>Pathfinder-RPG.Composantes matérielles ésotériques</link><link>Pathfinder-RPG.Bonus de progression automatique</link><link>Pathfinder-RPG.Bonus intrinsèques des objets</link><link>Pathfinder-RPG.Objets évolutifs</link><link>Pathfinder-RPG.Création dynamique dobjets magiques</link><link>Pathfinder-RPG.Création de monstres simplifiée</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 1</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 3</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 4</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 5</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 6</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 7</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 8</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 9</link><link>Pathfinder-RPG.Création de monstres simplifiée, Exemple</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles alternatives unchained&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_alternatives_unchained_0&quot; href=&quot;#R&#232;gles_alternatives_unchained_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Alternatives-Unchained.html&quot; title=&quot;R&#232;gles alternatives unchained&quot;&gt;Pr&#233;sentation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonClasses&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Classes&#39;);&quot; onmouseout=&quot;outButton(&#39;Classes&#39;);&quot; onclick=&quot;expandMenu(&#39;Classes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-Unchained.html&quot; title=&quot;Classes unchained&quot;&gt;Classes unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Classes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare-Unchained.html&quot; title=&quot;Le barbare unchained&quot;&gt;Barbare unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;Conjurateur unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine-Unchained.html&quot; title=&quot;Le moine unchained&quot;&gt;Moine unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard-Unchained.html&quot; title=&quot;Le roublard unchained&quot;&gt;Roublard unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Base-Fractionnaires.html&quot; title=&quot;Bonus de base fractionnaires&quot;&gt;Bonus de base fractionnaires&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Progression-&#201;chelonn&#233;e.html&quot; title=&quot;Progression &#233;chelonn&#233;e&quot;&gt;Progression &#233;chelonn&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonComp&#233;tences&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Comp&#233;tences&#39;);&quot; onmouseout=&quot;outButton(&#39;Comp&#233;tences&#39;);&quot; onclick=&quot;expandMenu(&#39;Comp&#233;tences&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Et-Options-Unchained.html&quot; title=&quot;Comp&#233;tences et options unchained&quot;&gt;Comp&#233;tences et options unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Comp&#233;tences&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Contextuelles.html&quot; title=&quot;Comp&#233;tences contextuelles&quot;&gt;Comp&#233;tences contextuelles&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es&quot;&gt;Comp&#233;tences fusionn&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Group&#233;es.html&quot; title=&quot;Comp&#233;tences group&#233;es&quot;&gt;Comp&#233;tences group&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat-Et-Profession-Alternatives.html&quot; title=&quot;Artisanat et Profession alternatives&quot;&gt;Artisanat et Profession alternatives&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extensions-De-Comp&#233;tences.html&quot; title=&quot;Extensions de comp&#233;tences&quot;&gt;Extensions de comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variante-De-Multiclassage.html&quot; title=&quot;Variante de multiclassage&quot;&gt;Variante de multiclassage&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonM&#233;canismes&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;M&#233;canismes&#39;);&quot; onmouseout=&quot;outButton(&#39;M&#233;canismes&#39;);&quot; onclick=&quot;expandMenu(&#39;M&#233;canismes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;canismes-De-Jeu-Unchained.html&quot; title=&quot;M&#233;canismes de jeu unchained&quot;&gt;M&#233;canismes de jeu unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;M&#233;canismes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Unchained.html&quot; title=&quot;L&amp;#39;alignement unchained&quot;&gt;Alignement unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Lalignement.html&quot; title=&quot;&#201;liminer l&amp;#39;alignement&quot;&gt;&#201;liminer l&#39;alignement&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gestion-Dactions-R&#233;vis&#233;e.html&quot; title=&quot;Gestion d&amp;#39;actions r&#233;vis&#233;e&quot;&gt;Gestion d&#39;actions r&#233;vis&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Les-Attaques-Multiples.html&quot; title=&quot;&#201;liminer les attaques multiples&quot;&gt;&#201;liminer les attaques multiples&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Et-Astuces-Martiales.html&quot; title=&quot;Endurance et Astuces martiales&quot;&gt;Endurance et Astuces martiales&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seuils-De-Blessure.html&quot; title=&quot;Seuils de blessure&quot;&gt;Seuils de blessure&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies-Et-Poisons-Unchained.html&quot; title=&quot;Maladies et poisons unchained&quot;&gt;Maladies et poisons unchained&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMagie&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Magie&#39;);&quot; onmouseout=&quot;outButton(&#39;Magie&#39;);&quot; onclick=&quot;expandMenu(&#39;Magie&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Unchained.html&quot; title=&quot;Magie unchained&quot;&gt;Magie unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Magie&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Simplifi&#233;e.html&quot; title=&quot;Incantation simplifi&#233;e&quot;&gt;Incantation simplifi&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alt&#233;rations-De-La-Magie.html&quot; title=&quot;Alt&#233;rations de la magie&quot;&gt;Alt&#233;rations de la magie&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Composantes-Mat&#233;rielles-&#201;sot&#233;riques.html&quot; title=&quot;Composantes mat&#233;rielles &#233;sot&#233;riques&quot;&gt;Composantes mat&#233;rielles &#233;sot&#233;riques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Progression-Automatique.html&quot; title=&quot;Bonus de progression automatique&quot;&gt;Bonus de progression automatique&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-Intrins&#232;ques-Des-Objets.html&quot; title=&quot;Bonus intrins&#232;ques des objets&quot;&gt;Bonus intrins&#232;ques des objets&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-&#201;volutifs.html&quot; title=&quot;Objets &#233;volutifs&quot;&gt;Objets &#233;volutifs&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dynamique-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation dynamique d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation dynamique d&#39;objets magiques&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMonstres&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Monstres&#39;);&quot; onmouseout=&quot;outButton(&#39;Monstres&#39;);&quot; onclick=&quot;expandMenu(&#39;Monstres&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e&quot;&gt;Cr&#233;ation de monstres simplifi&#233;e&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Monstres&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-1.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 1 : La gamme&quot;&gt;&#201;tape 1. La gamme&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-2.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 2 : La greffe de type de cr&#233;ature ou de classe&quot;&gt;&#201;tape 2. La greffe de type de cr&#233;ature ou de classe&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-3.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 3 : La greffe de sous-type&quot;&gt;&#201;tape 3. La greffe de sous-type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-4.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 4 : La greffe d&amp;#39;arch&#233;type&quot;&gt;&#201;tape 4. La greffe d’arch&#233;type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-5.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 5 : La greffe de taille&quot;&gt;&#201;tape 5. La greffe de taille&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-6.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 6&quot;&gt;&#201;tape 6. Les sorts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-7.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 7 : Les options de monstre&quot;&gt;&#201;tape 7. Les options de monstre&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-8.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 8&quot;&gt;&#201;tape 8. Les comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-9.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 9&quot;&gt;&#201;tape 9. Les d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-Exemple.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, Exemple&quot;&gt;Exemples de cr&#233;ation de monstres&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Pathfinder unchained (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Pathfinder unchained&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoPU.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Les mains habiles du personnage lui permettent de r&#233;aliser des t&#226;ches qui n&#233;cessitent une grande finesse.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Caract&#233;ristique associ&#233;e :&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; ; &lt;b&gt;Formation n&#233;cessaire :&lt;/b&gt; Oui ; &lt;b&gt;Malus d&#39;armure :&lt;/b&gt; Oui&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Fonctions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Finesse.html#CACHERDESOBJETSSURSAPERSONNE&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Finesse&quot;&gt;Cacher des objets sur sa personne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Finesse.html#CROCHETERDESSERRURES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Finesse&quot;&gt;crocheter des serrures&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Finesse.html#DEROBERQUELQUECHOSEAQUELQUUN&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Finesse&quot;&gt;d&#233;rober quelque chose &#224; quelqu’un&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Finesse.html#DESAMORCERDESPIEGESOUSABOTERDESOBJETS&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Finesse&quot;&gt;d&#233;samorcer des pi&#232;ges ou saboter des objets&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Finesse.html#EMPOCHERDISCRETEMENTDESOBJETS&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Finesse&quot;&gt;empocher discr&#232;tement des objets&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Comp&#233;tences de base.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CACHERDESOBJETSSURSAPERSONNE&quot; href=&quot;#CACHERDESOBJETSSURSAPERSONNE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Cacher des objets sur sa personne&lt;a class=&quot;headeranchor&quot; id=&quot;Cacher_des_objets_sur_sa_personne_0&quot; href=&quot;#Cacher_des_objets_sur_sa_personne_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Circonstances&lt;/td&gt;&lt;td&gt;DD du test&lt;br /&gt;de Finesse&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Dague&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Objet particuli&#232;rement petit (pi&#232;ce&lt;br /&gt;de monnaie, anneau, shuriken)&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Habits &#233;pais ou amples&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Cacher un petit objet sur sa personne (tel qu’une arme l&#233;g&#232;re ou une arme &#224; distance facile &#224; cacher, comme une &lt;a class=&quot;pagelink&quot; href=&quot;Fl&#233;chette-(Arme).html&quot; title=&quot;Fl&#233;chette&quot;&gt;fl&#233;chette&lt;/a&gt;, une &lt;a class=&quot;pagelink&quot; href=&quot;Fronde-(Arme).html&quot; title=&quot;Fronde&quot;&gt;fronde&lt;/a&gt; ou une &lt;a class=&quot;pagelink&quot; href=&quot;Arbal&#232;te-De-Poing-(Arme).html&quot; title=&quot;Arbal&#232;te de poing&quot;&gt;arbal&#232;te de poing&lt;/a&gt;) n&#233;cessite un test de Finesse oppos&#233; aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;Perception&lt;/a&gt; des individus qui observent ou fouillent le personnage. Celui-ci b&#233;n&#233;ficie d’un bonus de +2 sur ce test s’il tente de cacher une dague. Quelqu’un qui fouille le personnage b&#233;n&#233;ficie d’un bonus de +4 &#224; ce test de Perception. Le type d’objet que le personnage tente de cacher et la nature de ses habits peuvent modifier la difficult&#233; de son test. Ces modificateurs se cumulent entre eux.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;Action simple&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; avec un malus de -20.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui, mais une deuxi&#232;me tentative contre la m&#234;me cr&#233;ature augmente le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 10.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;gainer des armes.&lt;/b&gt; D&#233;gainer une arme dissimul&#233;e est une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; qui ne provoque pas d’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;Attaque d&amp;#39;opportunit&#233; (redirection)&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CROCHETERDESSERRURES&quot; href=&quot;#CROCHETERDESSERRURES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Crocheter des serrures&lt;a class=&quot;headeranchor&quot; id=&quot;Crocheter_des_serrures_1&quot; href=&quot;#Crocheter_des_serrures_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Qualit&#233; de la serrure&lt;/td&gt;&lt;td&gt;DD du test de Finesse&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Simple&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Moyenne&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bonne&lt;/td&gt;&lt;td&gt;30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Excellente&lt;/td&gt;&lt;td&gt;40&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pas d’&lt;a class=&quot;pagelink&quot; href=&quot;Outils-De-Cambrioleur-(Objet).html&quot; title=&quot;Outils de cambrioleur&quot;&gt;outils de cambrioleur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; pour crocheter une serrure d&#233;pend de la qualit&#233; de celle-ci.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;Action complexe&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui.&lt;br /&gt;&lt;br /&gt;&lt;br style=&quot;clear:right&quot; /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;DEROBERQUELQUECHOSEAQUELQUUN&quot; href=&quot;#DEROBERQUELQUECHOSEAQUELQUUN&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;D&#233;rober quelque chose &#224; quelqu’un&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;rober_quelque_chose_&#224;_quelqu’un_2&quot; href=&quot;#D&#233;rober_quelque_chose_&#224;_quelqu’un_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Il faut r&#233;ussir un test de Finesse &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 pour d&#233;rober quelque chose &#224; quelqu’un. La victime effectue un test de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;Perception&lt;/a&gt; oppos&#233; au r&#233;sultat du test de Finesse du personnage. Si elle r&#233;ussit, elle s’aper&#231;oit qu’on cherche &#224; la voler, que le personnage ait r&#233;ussi sa tentative ou non. Le personnage ne peut utiliser cette fonction au cours d’un combat pour d&#233;rober un objet &#224; une cr&#233;ature qui est au courant de sa pr&#233;sence.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;Action simple&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; avec un malus de -20.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui, mais une deuxi&#232;me tentative contre la m&#234;me cr&#233;ature augmente le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 10.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;DESAMORCERDESPIEGESOUSABOTERDESOBJETS&quot; href=&quot;#DESAMORCERDESPIEGESOUSABOTERDESOBJETS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;D&#233;samorcer des pi&#232;ges ou saboter des objets&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;samorcer_des_pi&#232;ges_ou_saboter_des_objets_3&quot; href=&quot;#D&#233;samorcer_des_pi&#232;ges_ou_saboter_des_objets_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Objet&lt;/td&gt;&lt;td&gt;Temps&lt;br /&gt;n&#233;cessaire&lt;/td&gt;&lt;td&gt;DD du test&lt;br /&gt;de Finesse&lt;/td&gt;&lt;td&gt;Exemple&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Simple&lt;/td&gt;&lt;td&gt;1 round&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;Coincer une serrure&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Complexe&lt;/td&gt;&lt;td&gt;1d4 rounds&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;Saboter une roue&lt;br /&gt;de chariot&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s complexe&lt;/td&gt;&lt;td&gt;2d4 rounds&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;D&#233;sarmer ou r&#233;armer&lt;br /&gt;un pi&#232;ge&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extr&#234;mement&lt;/td&gt;&lt;td&gt;2d4 rounds&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;D&#233;sarmer un pi&#232;ge&lt;br /&gt;complexe, saboter un&lt;br /&gt;m&#233;canisme &#224; engrenages&lt;br /&gt;complexes&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;C’est le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Maitredujeu.html&quot; title=&quot;MJ&quot;&gt;MJ&lt;/a&gt; qui effectue en secret ce type de test de Finesse pour que le personnage ne sache pas s’il a r&#233;ussi ou non. S’il r&#233;ussit, le personnage d&#233;samorce le pi&#232;ge ou sabote l’objet. En cas d’&#233;chec de 1 &#224; 4 points, la tentative &#233;choue mais le personnage peut r&#233;essayer. Si le test est rat&#233; d’au moins 5 points, dans le cas d’un pi&#232;ge, il se d&#233;clenche et, dans le cadre d’une tentative de sabotage, le personnage est persuad&#233; d’avoir mis l’objet hors service alors que celui-ci continue de fonctionner normalement.
+Le personnage peut tenter de saboter un objet sans que cela soit visible mais, dans ce cas, le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; augmente de +5. Il est possible de saboter des objets simples (comme une selle ou la roue d’un chariot) de telle fa&#231;on qu’ils fonctionnent normalement pendant un certain temps, puis se cassent un peu plus tard (g&#233;n&#233;ralement apr&#232;s 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; ou minutes d’utilisation).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Variable (voir la table ci-contre). Il faut une action complexe pour commencer ou continuer le sabotage d’un objet.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui, mais seulement si la tentative a &#233;chou&#233; de moins de 5 points.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;EMPOCHERDISCRETEMENTDESOBJETS&quot; href=&quot;#EMPOCHERDISCRETEMENTDESOBJETS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Empocher discr&#232;tement des objets&lt;a class=&quot;headeranchor&quot; id=&quot;Empocher_discr&#232;tement_des_objets_4&quot; href=&quot;#Empocher_discr&#232;tement_des_objets_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Pour accomplir un tour de passe-passe mineur ou empocher un objet de la taille d’une pi&#232;ce de monnaie auquel personne ne fait attention, il faut r&#233;ussir un test de Finesse &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 10. Si le personnage est surveill&#233;, l’observateur remarque l’action du personnage s’il r&#233;ussit un test de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;Perception&lt;/a&gt; oppos&#233; au r&#233;sultat du test de Finesse du personnage.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;Action simple&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; avec un malus de -20.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui, mais une deuxi&#232;me tentative contre la m&#234;me cible augmente le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 10.
+]]></body>
+  <raw><![CDATA[{s:MenuPathfinderunchained}{s:PU}''Les mains habiles du personnage lui permettent de réaliser des tâches qui nécessitent une grande finesse.''
+
+'''Caractéristique associée :''' [[Dextérité]] ; '''Formation nécessaire :''' Oui ; '''Malus d'armure :''' Oui
+
+'''Fonctions.''' [[Compétences fusionnées, Finesse#CACHERDESOBJETSSURSAPERSONNE|Cacher des objets sur sa personne]], [[Compétences fusionnées, Finesse#CROCHETERDESSERRURES|crocheter des serrures]], [[Compétences fusionnées, Finesse#DEROBERQUELQUECHOSEAQUELQUUN|dérober quelque chose à quelqu’un]], [[Compétences fusionnées, Finesse#DESAMORCERDESPIEGESOUSABOTERDESOBJETS|désamorcer des pièges ou saboter des objets]], [[Compétences fusionnées, Finesse#EMPOCHERDISCRETEMENTDESOBJETS|empocher discrètement des objets]].
+
+'''Compétences de base.''' [[Escamotage]], [[Sabotage]].
+
+{s:Reference|CACHERDESOBJETSSURSAPERSONNE}
+===Cacher des objets sur sa personne===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Circonstances || DD du test<br>de Finesse
+|- CLASS="premier"
+| Dague || +2
+|-
+| Objet particulièrement petit (pièce<br>de monnaie, anneau, shuriken) || +4
+|-
+| Habits épais ou amples || +2
+|}
+</center></div></div>Cacher un petit objet sur sa personne (tel qu’une arme légère ou une arme à distance facile à cacher, comme une [[fléchette (arme)|fléchette]], une [[fronde (arme)|fronde]] ou une [[arbalète de poing (arme)|arbalète de poing]]) nécessite un test de Finesse opposé aux tests de [[Compétences fusionnées, Perception|Perception]] des individus qui observent ou fouillent le personnage. Celui-ci bénéficie d’un bonus de +2 sur ce test s’il tente de cacher une dague. Quelqu’un qui fouille le personnage bénéficie d’un bonus de +4 à ce test de Perception. Le type d’objet que le personnage tente de cacher et la nature de ses habits peuvent modifier la difficulté de son test. Ces modificateurs se cumulent entre eux.
+
+'''Action.''' [[Action simple]] ou [[action de mouvement]] avec un malus de -20.
+
+'''Nouvelles tentatives.''' Oui, mais une deuxième tentative contre la même créature augmente le [[DD]] de 10.
+
+'''Dégainer des armes.''' Dégainer une arme dissimulée est une [[action simple]] qui ne provoque pas d’[[AO|attaque d’opportunité]].
+
+{s:Reference|CROCHETERDESSERRURES}
+===Crocheter des serrures===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Qualité de la serrure || DD du test de Finesse
+|- CLASS="premier"
+| Simple || 20
+|-
+| Moyenne || 25
+|-
+| Bonne || 30
+|-
+| Excellente || 40
+|-
+| Pas d’[[Outils de cambrioleur (objet)|outils de cambrioleur]] || +10
+|}
+</center></div></div>Le [[DD]] pour crocheter une serrure dépend de la qualité de celle-ci.
+
+'''Action.''' [[Action complexe]].
+
+'''Nouvelles tentatives.''' Oui.
+
+{s:ClearRight}{s:Reference|DEROBERQUELQUECHOSEAQUELQUUN}
+===Dérober quelque chose à quelqu’un===
+Il faut réussir un test de Finesse [[DD]] 20 pour dérober quelque chose à quelqu’un. La victime effectue un test de [[Compétences fusionnées, Perception|Perception]] opposé au résultat du test de Finesse du personnage. Si elle réussit, elle s’aperçoit qu’on cherche à la voler, que le personnage ait réussi sa tentative ou non. Le personnage ne peut utiliser cette fonction au cours d’un combat pour dérober un objet à une créature qui est au courant de sa présence.
+
+'''Action.''' [[Action simple]] ou [[action de mouvement]] avec un malus de -20.
+
+'''Nouvelles tentatives.''' Oui, mais une deuxième tentative contre la même créature augmente le [[DD]] de 10.
+
+{s:Reference|DESAMORCERDESPIEGESOUSABOTERDESOBJETS}
+===Désamorcer des pièges ou saboter des objets===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Objet || Temps<br>nécessaire || DD du test<br>de Finesse || Exemple
+|- CLASS="premier"
+| Simple || 1 round || 10 || Coincer une serrure
+|-
+| Complexe || 1d4 rounds || 15 || Saboter une roue<br>de chariot
+|-
+| Très complexe || 2d4 rounds || 20 || Désarmer ou réarmer<br>un piège
+|-
+| Extrêmement || 2d4 rounds || 25 || Désarmer un piège<br>complexe, saboter un<br>mécanisme à engrenages<br>complexes
+|}
+</center></div></div>C’est le [[MJ]] qui effectue en secret ce type de test de Finesse pour que le personnage ne sache pas s’il a réussi ou non. S’il réussit, le personnage désamorce le piège ou sabote l’objet. En cas d’échec de 1 à 4 points, la tentative échoue mais le personnage peut réessayer. Si le test est raté d’au moins 5 points, dans le cas d’un piège, il se déclenche et, dans le cadre d’une tentative de sabotage, le personnage est persuadé d’avoir mis l’objet hors service alors que celui-ci continue de fonctionner normalement.
+Le personnage peut tenter de saboter un objet sans que cela soit visible mais, dans ce cas, le [[DD]] augmente de +5. Il est possible de saboter des objets simples (comme une selle ou la roue d’un chariot) de telle façon qu’ils fonctionnent normalement pendant un certain temps, puis se cassent un peu plus tard (généralement après 1d4 [[round|rounds]] ou minutes d’utilisation).
+
+'''Action.''' Variable (voir la table ci-contre). Il faut une action complexe pour commencer ou continuer le sabotage d’un objet.
+
+'''Nouvelles tentatives.''' Oui, mais seulement si la tentative a échoué de moins de 5 points.
+
+{s:Reference|EMPOCHERDISCRETEMENTDESOBJETS}
+===Empocher discrètement des objets===
+Pour accomplir un tour de passe-passe mineur ou empocher un objet de la taille d’une pièce de monnaie auquel personne ne fait attention, il faut réussir un test de Finesse [[DD]] 10. Si le personnage est surveillé, l’observateur remarque l’action du personnage s’il réussit un test de [[Compétences fusionnées, Perception|Perception]] opposé au résultat du test de Finesse du personnage.
+
+'''Action.''' [[Action simple]] ou [[action de mouvement]] avec un malus de -20.
+
+'''Nouvelles tentatives.''' Oui, mais une deuxième tentative contre la même cible augmente le [[DD]] de 10.]]></raw>
+  <fullName>Pathfinder-RPG.Compétences fusionnées, Finesse</fullName>
+</wikiPage>

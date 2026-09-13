@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Rune de solidité</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 3</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2020-07-28 19:56:46Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts dassassin des mantes rouges</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Nain</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 3  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 minute  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (limaille de fer)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact  
+&lt;b&gt;Cible&lt;/b&gt; arme touch&#233;e  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; permanent  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage inscrit une rune angulaire sur la surface d’une arme, ce qui augmente ses points de vie. Une arme marqu&#233;e de cette rune multiplie le nombre de ses points de vie par 2, comme si elle &#233;tait plus grande d’une cat&#233;gorie de taille. Inscrire plus d’une rune de ce type sur une arme n’apporte aucun avantage suppl&#233;mentaire.
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}'''École''' [[Transmutation]] ; '''Niveau''' [[ensorceleur|Ens]]/[[magicien|Mag]] 3  
+'''Temps d'incantation''' 1 minute  
+'''Composantes''' [[composantes|V, G, M]] (limaille de fer)  
+'''Portée''' contact  
+'''Cible''' arme touchée  
+'''Durée''' permanent  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Le personnage inscrit une rune angulaire sur la surface d’une arme, ce qui augmente ses points de vie. Une arme marquée de cette rune multiplie le nombre de ses points de vie par 2, comme si elle était plus grande d’une catégorie de taille. Inscrire plus d’une rune de ce type sur une arme n’apporte aucun avantage supplémentaire.]]></raw>
+  <fullName>Pathfinder-RPG.Rune de solidité</fullName>
+</wikiPage>

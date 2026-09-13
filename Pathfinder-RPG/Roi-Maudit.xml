@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Roi maudit</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-22 14:57:21Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants (capacité)</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Avance et frappe</link><link>Pathfinder-RPG.Poursuite</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Savancer</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Recroquevillé</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Métamorphose funeste</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Roi maudit&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Mort-vivant&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.226&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; aura de servilit&#233; (9 m, DD 20, 1d4 round)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 14, pris au d&#233;pourvu 20 (Dex +4, naturelle +10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 119 (14d8+56)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/— ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants (Ext)&quot;&gt;traits des morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +20 (1d8+10/19-20) et 2 coups, +20 (1d6+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; fureur d&#233;vastatrice, mal&#233;diction de la b&#234;te
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 30, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 3, &lt;b&gt;Sag&lt;/b&gt; 19, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10 ; &lt;b&gt;BMO&lt;/b&gt; +20 ; &lt;b&gt;DMD&lt;/b&gt; 34
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Avance-Et-Frappe.html&quot; title=&quot;Avance et frappe&quot;&gt;Avance et frappe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Poursuite.html&quot; title=&quot;Poursuite&quot;&gt;Poursuite&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Savancer.html&quot; title=&quot;S&amp;#39;avancer&quot;&gt;S&#39;avancer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal (ne peut pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; ruines chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou cour (2-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura de servilit&#233; (Sur).&lt;/b&gt; Toutes les cr&#233;atures dans un rayon de 9 m&#232;tres autour du roi maudit et qui peuvent le voir doivent chacune r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 20 pour ne pas &#234;tre asservies par la terreur. Une cr&#233;ature qui rate son jet de sauvegarde doit se &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Recroquevill&#233;.html&quot; title=&quot;Recroquevill&#233;&quot;&gt;recroqueviller sur elle-m&#234;me&lt;/a&gt; (voir l’&#233;tat pr&#233;judiciable du m&#234;me nom) pendant 1d4 rounds. Une cr&#233;ature qui r&#233;ussit son jet de sauvegarde est immunis&#233;e contre l’aura de servilit&#233; d’un m&#234;me roi maudit pendant 24 heures. C’est un &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effet mental&lt;/a&gt; de terreur et le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fureur d&#233;vastatrice (Ext).&lt;/b&gt; Quand un roi maudit engage le combat, il y a 1% de chances cumulatives &#224; chaque round que son esprit tortur&#233; l&#226;che prise et qu’il plonge dans une rage d&#233;vastatrice. Le pourcentage de chances retombe &#224; 0% apr&#232;s 1 minute d’inactivit&#233;. Un roi maudit en rage attaque la cr&#233;ature vivante la plus proche (ou frappe un objet plus petit que lui si aucune cr&#233;ature n’est &#224; port&#233;e de son allonge). Le cr&#233;ateur du mort-vivant, s’il se trouve &#224; 18 m&#232;tres ou moins de lui, peut tenter de reprendre le contr&#244;le du roi maudit en lui parlant de mani&#232;re autoritaire et persuasive et en r&#233;ussissant un test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; DD 20.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mal&#233;diction de la b&#234;te (Sur).&lt;/b&gt; Quand un roi maudit est d&#233;truit, il d&#233;clenche une derni&#232;re mal&#233;diction sur toutes les cr&#233;atures situ&#233;es dans un rayon de 9 m&#232;tres autour de lui. Cette mal&#233;diction s’empare peu &#224; peu de l’esprit et du corps des victimes qui y succombent et finit par les transformer en animaux du m&#234;me type que la t&#234;te d’animal cousue sur le corps du roi maudit. Toutes les cr&#233;atures dans la zone doivent chacune r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 21 pour ne pas subir un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; et de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Une cr&#233;ature maudite ne peut plus b&#233;n&#233;ficier d’effets qui soignent les affaiblissements temporaires. Une fois maudite, une cible doit r&#233;ussir un jet de Volont&#233; toutes les 24 heures pour ne pas subir l’affaiblissement temporaire &#224; chaque fois. D&#232;s que la valeur de Sagesse ou de Charisme de la victime tombe &#224; 0, elle se transforme en animal ordinaire, comme avec une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose-Funeste.html&quot; title=&quot;M&#233;tamorphose funeste&quot;&gt;m&#233;tamorphose funeste&lt;/a&gt;&lt;/i&gt;, et on consid&#232;re qu’elle a automatiquement rat&#233; le deuxi&#232;me jet de sauvegarde lui permettant de conserver son esprit. &#192; ce moment-l&#224;, les valeurs de Sagesse et de Charisme de la cr&#233;ature deviennent celles de l’animal et elle ne subit plus d’affaiblissements temporaires. C’est un effet de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;mal&#233;diction&lt;/a&gt; et le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature dess&#233;ch&#233;e est envelopp&#233;e de bandelettes de lin et porte des bijoux ternis. Son corps d’humano&#239;de est affubl&#233; d’une t&#234;te de crocodile fl&#233;trie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les pharaons punissent d’horrible fa&#231;on leurs sujets d&#233;sob&#233;issants et plus particuli&#232;rement les usurpateurs, les chefs rebelles et les faux proph&#232;tes qui tentent de subvertir l’ordre de la nation et la loyaut&#233; des fid&#232;les du souverain. Apr&#232;s qu’ils ont &#233;t&#233; tortur&#233;s puis d&#233;capit&#233;s, l’&#226;me des rebelles r&#233;int&#232;gre leur corps mutil&#233;, ce qui les transforme en incarnations caricaturales et momifi&#233;es d’ambition et d’autorit&#233; soumises &#224; une &#233;ternit&#233; d’agonie sous forme de morts-vivants.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Roi maudit|FP 10}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tropical}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.226]]''}
+{s:BDTexte|'''PX''' 9 600}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +12}
+{s:BDTexte|'''Aura''' aura de servilité (9 m, DD 20, 1d4 round)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 24, contact 14, pris au dépourvu 20 (Dex +4, naturelle +10)}
+{s:BDTexte|'''pv''' 119 (14d8+56)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +9, '''Vol''' +13}
+{s:BDTexte|'''RD''' 10/— ; '''Immunités''' [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
+{s:BDTexte|'''Faiblesses''' [[Vulnérabilités (capacité)|vulnérabilité]] au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' morsure, +20 (1d8+10/19-20) et 2 coups, +20 (1d6+10)}
+{s:BDTexte|'''Attaques spéciales''' fureur dévastatrice, malédiction de la bête}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 30, '''Dex''' 19, '''Con''' —, '''Int''' 3, '''Sag''' 19, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +10 ; '''BMO''' +20 ; '''DMD''' 34}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Avance et frappe]], [[Poursuite]], [[Robustesse]], [[Savancer|S'avancer]], [[Science du critique]]<sup>S</sup> (morsure), [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +16, [[Perception]] +12}
+{s:BDTexte|'''Langues''' abyssal (ne peut pas parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' ruines chaudes}
+{s:BDTexte|'''Organisation''' solitaire ou cour (2-8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Aura de servilité (Sur).''' Toutes les créatures dans un rayon de 9 mètres autour du roi maudit et qui peuvent le voir doivent chacune réussir un jet de [[Volonté]] DD 20 pour ne pas être asservies par la terreur. Une créature qui rate son jet de sauvegarde doit se [[recroquevillé|recroqueviller sur elle-même]] (voir l’état préjudiciable du même nom) pendant 1d4 rounds. Une créature qui réussit son jet de sauvegarde est immunisée contre l’aura de servilité d’un même roi maudit pendant 24 heures. C’est un [[registre|effet mental]] de terreur et le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Fureur dévastatrice (Ext).''' Quand un roi maudit engage le combat, il y a 1% de chances cumulatives à chaque round que son esprit torturé lâche prise et qu’il plonge dans une rage dévastatrice. Le pourcentage de chances retombe à 0% après 1 minute d’inactivité. Un roi maudit en rage attaque la créature vivante la plus proche (ou frappe un objet plus petit que lui si aucune créature n’est à portée de son allonge). Le créateur du mort-vivant, s’il se trouve à 18 mètres ou moins de lui, peut tenter de reprendre le contrôle du roi maudit en lui parlant de manière autoritaire et persuasive et en réussissant un test de [[Charisme]] DD 20.}
+{s:BDTexte|'''Malédiction de la bête (Sur).''' Quand un roi maudit est détruit, il déclenche une dernière malédiction sur toutes les créatures situées dans un rayon de 9 mètres autour de lui. Cette malédiction s’empare peu à peu de l’esprit et du corps des victimes qui y succombent et finit par les transformer en animaux du même type que la tête d’animal cousue sur le corps du roi maudit. Toutes les créatures dans la zone doivent chacune réussir un jet de [[Volonté]] DD 21 pour ne pas subir un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d6 points de [[Sagesse]] et de 1d6 points de [[Charisme]]. Une créature maudite ne peut plus bénéficier d’effets qui soignent les affaiblissements temporaires. Une fois maudite, une cible doit réussir un jet de Volonté toutes les 24 heures pour ne pas subir l’affaiblissement temporaire à chaque fois. Dès que la valeur de Sagesse ou de Charisme de la victime tombe à 0, elle se transforme en animal ordinaire, comme avec une ''[[métamorphose funeste]]'', et on considère qu’elle a automatiquement raté le deuxième jet de sauvegarde lui permettant de conserver son esprit. À ce moment-là, les valeurs de Sagesse et de Charisme de la créature deviennent celles de l’animal et elle ne subit plus d’affaiblissements temporaires. C’est un effet de [[registre|malédiction]] et le DD du jet de sauvegarde est basé sur le Charisme.}
+
+</div></td>
+<td><div>''Cette créature desséchée est enveloppée de bandelettes de lin et porte des bijoux ternis. Son corps d’humanoïde est affublé d’une tête de crocodile flétrie.''
+
+Les pharaons punissent d’horrible façon leurs sujets désobéissants et plus particulièrement les usurpateurs, les chefs rebelles et les faux prophètes qui tentent de subvertir l’ordre de la nation et la loyauté des fidèles du souverain. Après qu’ils ont été torturés puis décapités, l’âme des rebelles réintègre leur corps mutilé, ce qui les transforme en incarnations caricaturales et momifiées d’ambition et d’autorité soumises à une éternité d’agonie sous forme de morts-vivants.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Roi maudit</fullName>
+</wikiPage>

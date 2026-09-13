@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Châtiment de l'Héritière</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort inquisiteur 2</category><category>Pathfinder-RPG.Sort paladin 2</category><category>Pathfinder-RPG.Sort prêtre 2</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:32:49Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Armes magiques spécifiques</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Lumière de lHéritière</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.AO</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.Iomédae (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fIomedae.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Iom&#233;dae (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fIomedae.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Iom&#233;dae-(Technique).html&quot; title=&quot;Iom&#233;dae&quot;&gt;Iom&#233;dae&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Pal&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 2  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; personnelle  
+&lt;b&gt;Cibles&lt;/b&gt; le lanceur de sorts  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; voir texte&lt;br /&gt;&lt;br /&gt;Le personnage canalise la puissance de Iom&#233;dae dans son bras directeur (celui qui manie les armes), afin de frapper avec une fraction de sa force. Sa prochaine attaque au corps &#224; corps (s&#39;il la porte avant la fin du prochain round) b&#233;n&#233;ficie d&#39;un bonus de saintet&#233; de +5 au &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt;. S&#39;il touche, le personnage peut tenter aussit&#244;t une &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt; (avec un bonus de saintet&#233; de +5 au test) contre la cible sans provoquer d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;Attaque d&amp;#39;opportunit&#233; (redirection)&quot;&gt;attaque d&#39;opportunit&#233;&lt;/a&gt;. Si le r&#233;sultat de son test de manoeuvre offensive est sup&#233;rieur de 5 ou plus au &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Dmd.html&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; du d&#233;fenseur, le personnage n&#39;a pas besoin de se d&#233;placer avec la cible pour la repousser de plus de 1,50 m&#232;tre. La plupart des pr&#234;tres utilisent ce sort pour cr&#233;er des br&#232;ches dans les lignes ennemies ou pour &#233;loigner les adversaires dangereux des alli&#233;s tomb&#233;s ou d&#39;objets strat&#233;giques.
+]]></body>
+  <raw><![CDATA[{s:divin|Iomédae|%2fPCUP%2fReligion-PNG%2fIomedae.png}{s:cs}{s:ISG}'''École''' [[Transmutation]] ; '''Niveau''' [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2  
+'''Temps d'incantation''' 1 [[action rapide]]  
+'''Composantes''' [[composantes|V, G, FD]]  
+'''Portée''' personnelle  
+'''Cibles''' le lanceur de sorts  
+'''Durée''' voir texte
+
+Le personnage canalise la puissance de Iomédae dans son bras directeur (celui qui manie les armes), afin de frapper avec une fraction de sa force. Sa prochaine attaque au corps à corps (s'il la porte avant la fin du prochain round) bénéficie d'un bonus de sainteté de +5 au [[jet dattaque|jet d'attaque]]. S'il touche, le personnage peut tenter aussitôt une [[bousculade]] (avec un bonus de sainteté de +5 au test) contre la cible sans provoquer d'[[AO|attaque d'opportunité]]. Si le résultat de son test de manoeuvre offensive est supérieur de 5 ou plus au [[DMD]] du défenseur, le personnage n'a pas besoin de se déplacer avec la cible pour la repousser de plus de 1,50 mètre. La plupart des prêtres utilisent ce sort pour créer des brèches dans les lignes ennemies ou pour éloigner les adversaires dangereux des alliés tombés ou d'objets stratégiques.]]></raw>
+  <fullName>Pathfinder-RPG.Châtiment de lHéritière</fullName>
+</wikiPage>

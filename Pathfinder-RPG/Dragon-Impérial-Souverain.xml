@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dragon impérial souverain</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire 3</category></categories>
+  <lastModified>2021-07-13 12:23:35Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Dragon impérial</link><link>Pathfinder-RPG.Dragon souverain adulte</link><link>Pathfinder-RPG.Dragon souverain vénérable</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Jeune dragon souverain</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Résistance (capacité)</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.Actions simples</link><link>Pathfinder-RPG.Jeune dragon souverain</link><link>Pathfinder-RPG.Dragon souverain adulte</link><link>Pathfinder-RPG.Dragon souverain vénérable</link><link>Pathfinder-RPG.Dragon impérial</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Apaisement des émotions</link><link>Pathfinder-RPG.Présence terrifiante (capacité)</link><link>Pathfinder-RPG.Réduction de dégâts (capacité)</link><link>Pathfinder-RPG.Résistance à la magie (capacité)</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Résonance</link><link>Pathfinder-RPG.Rayons prismatiques</link><link>Pathfinder-RPG.Moment de prescience</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon imp&#233;rial souverain&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Dragon&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Montagnes&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Montagnes.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3&lt;/i&gt; p.104
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt;, N
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Statistiques de base&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;FP&lt;/b&gt; 7 ; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;DV&lt;/b&gt; 8d12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armure naturelle&lt;/b&gt; +7 ; &lt;b&gt;Souffle&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defcone.html&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt;, 2d6 soniques
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; montagnes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armure dor&#233;e (Sur).&lt;/b&gt; Une fois par jour, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un vieux dragon souverain, ou un dragon plus &#226;g&#233;, peut se couvrir d’une armure dor&#233;e lui accordant un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d’armure&lt;/a&gt; de +4 &#224; la CA et une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;r&#233;sistance&lt;/a&gt; de 15 contre un type d’&#233;nergie choisi au moment de l’invocation de l’armure. Cette armure dure un nombre de rounds &#233;gal &#224; la cat&#233;gorie d’&#226;ge du dragon. Le dragon souverain peut dissiper son armure par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Changement de forme (Sur).&lt;/b&gt; Un jeune dragon souverain, ou un dragon plus &#226;g&#233;, peut prendre n’importe quelle forme humano&#239;de trois fois par jour, comme s’il utilisait &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dissonance dogmatique (Sur).&lt;/b&gt; Les cr&#233;atures d’alignement Bon ou Mauvais re&#231;oivent un malus de -2 &#224; leurs &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les sorts, les pouvoirs magiques, le souffle et l’aura du dragon souverain.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ma&#238;tre du contresort (Sur).&lt;/b&gt; Le grand dracosire souverain peut contrer un sort une fois par round par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Immediate.html&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;. Il n’a pas besoin de conna&#238;tre le sort qu’il contre et peut, &#224; la place, d&#233;penser un sort d’un niveau sup&#233;rieur, quel qu’il soit, pour contrer automatiquement le sort.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Violente riposte (Ext).&lt;/b&gt; Lorsqu’un jeune dragon souverain, ou un dragon plus &#226;g&#233;, re&#231;oit les d&#233;g&#226;ts d’un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#COUPCRITIQUE&quot; title=&quot;Actions simples&quot;&gt;coup critique&lt;/a&gt; d’une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSDATTAQUE&quot; title=&quot;Valeurs de combat&quot;&gt;attaque de corps &#224; corps&lt;/a&gt;, il peut, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Immediate.html&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;, donner un coup de griffe ou de queue &#224; la cr&#233;ature lui ayant inflig&#233; le coup critique.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de dragon de magma&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jeune-Dragon-Souverain.html&quot; title=&quot;Dragon imp&#233;rial, Jeune dragon souverain&quot;&gt;Jeune dragon souverain&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dragon-Souverain-Adulte.html&quot; title=&quot;Dragon imp&#233;rial, Dragon souverain adulte&quot;&gt;Dragon souverain adulte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dragon-Souverain-V&#233;n&#233;rable.html&quot; title=&quot;Dragon imp&#233;rial, Dragon souverain v&#233;n&#233;rable&quot;&gt;Dragon souverain v&#233;n&#233;rable&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Dragon-Imp&#233;rial.html&quot; title=&quot;Les dragons imp&#233;riaux&quot;&gt;dragons imp&#233;riaux&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Ce magnifique dragon est couvert de superbes &#233;cailles d’or et ses cornes
+lui dessinent une couronne.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Gardiens de l’&#233;quilibre, les dragons souverains, ou longwangs ainsi qu’on les conna&#238;t, furent plac&#233;s aux cieux par les dieux eux m&#234;mes pour assurer l’harmonie universelle.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo toutgauche&quot;&gt;&lt;caption&gt;Tableau des gains de capacit&#233;s&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gorie d&#39;&#226;ge &lt;/td&gt;&lt;td&gt;Capacit&#233;s sp&#233;ciales&lt;/td&gt;&lt;td&gt;NLS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Dragonnet&lt;/td&gt;&lt;td&gt;Dissonance dogmatique&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Tr&#232;s jeune&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Bien/Mal&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune&lt;/td&gt;&lt;td&gt;Changement de forme, violente riposte&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adolescent&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Apaisement-Des-&#201;motions.html&quot; title=&quot;Apaisement des &#233;motions&quot;&gt;Apaisement des &#233;motions&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sence-Terrifiante-(Capacit&#233;).html&quot; title=&quot;Pr&#233;sence terrifiante (Ext)&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune adulte&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 5/magie, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la magie (Ext)&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adulte&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;Don des langues&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#194;ge m&#251;r&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 10/magie&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Vieux&lt;/td&gt;&lt;td&gt;Armure dor&#233;e, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sonance.html&quot; title=&quot;R&#233;sonance&quot;&gt;r&#233;sonance&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s vieux&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 15/magie&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;V&#233;n&#233;rable&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayons-Prismatiques.html&quot; title=&quot;Rayons prismatiques&quot;&gt;Rayons prismatiques&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dracosire&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 20/magie&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Grand dracosire&lt;/td&gt;&lt;td&gt;Ma&#238;tre du contresort, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moment-De-Prescience.html&quot; title=&quot;Moment de prescience&quot;&gt;moment de prescience&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon impérial souverain}
+{s:pucem|Dragon|Montagnes|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3'' p.104}
+{s:BDTexte|[[type Dragon|Dragon]], N}
+{s:BDSousTitre|Statistiques de base}
+{s:BDTexte|'''FP''' 7 ; '''Taille''' P ; '''DV''' 8d12}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Armure naturelle''' +7 ; '''Souffle''' [[cône]], 2d6 soniques}
+{s:BDTexte|'''For''' 17, '''Dex''' 14, '''Con''' 15, '''Int''' 14, '''Sag''' 15, '''Cha''' 14}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' montagnes}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' triple}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Armure dorée (Sur).''' Une fois par jour, par une [[action simple]], un vieux dragon souverain, ou un dragon plus âgé, peut se couvrir d’une armure dorée lui accordant un [[Valeurs de combat#CA|bonus d’armure]] de +4 à la CA et une [[Résistance (capacité)|résistance]] de 15 contre un type d’énergie choisi au moment de l’invocation de l’armure. Cette armure dure un nombre de rounds égal à la catégorie d’âge du dragon. Le dragon souverain peut dissiper son armure par une [[action libre]].}
+{s:BDTexte|'''Changement de forme (Sur).''' Un jeune dragon souverain, ou un dragon plus âgé, peut prendre n’importe quelle forme humanoïde trois fois par jour, comme s’il utilisait ''[[métamorphose]]''.}
+{s:BDTexte|'''Dissonance dogmatique (Sur).''' Les créatures d’alignement Bon ou Mauvais reçoivent un malus de -2 à leurs [[Valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les sorts, les pouvoirs magiques, le souffle et l’aura du dragon souverain.}
+{s:BDTexte|'''Maître du contresort (Sur).''' Le grand dracosire souverain peut contrer un sort une fois par round par une [[action immédiate]]. Il n’a pas besoin de connaître le sort qu’il contre et peut, à la place, dépenser un sort d’un niveau supérieur, quel qu’il soit, pour contrer automatiquement le sort.}
+{s:BDTexte|'''Violente riposte (Ext).''' Lorsqu’un jeune dragon souverain, ou un dragon plus âgé, reçoit les dégâts d’un [[Actions simples#COUPCRITIQUE|coup critique]] d’une [[Valeurs de combat#BONUSDATTAQUE|attaque de corps à corps]], il peut, par une [[action immédiate]], donner un coup de griffe ou de queue à la créature lui ayant infligé le coup critique.}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de dragon de magma
+|- CLASS="titre"
+| Nom || &nbsp; || FP
+|- CLASS="premier"
+| [[Jeune dragon souverain]] || &nbsp; || 11
+|-
+| [[Dragon souverain adulte]] || &nbsp; || 15
+|-
+| [[Dragon souverain vénérable]] || &nbsp; || 20
+|}
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[dragon impérial|dragons impériaux]].'''''</li></ul>''Ce magnifique dragon est couvert de superbes écailles d’or et ses cornes
+lui dessinent une couronne.''
+
+Gardiens de l’équilibre, les dragons souverains, ou longwangs ainsi qu’on les connaît, furent placés aux cieux par les dieux eux mêmes pour assurer l’harmonie universelle.
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Tableau des gains de capacités
+|- CLASS="titre"
+| Catégorie d'âge  || Capacités spéciales || NLS
+|- CLASS="premier"
+| Dragonnet || Dissonance dogmatique || —
+|- CLASS="alt"
+| Très jeune || ''[[détection du Mal|détection du Bien/Mal]]'' || —
+|-
+| Jeune || Changement de forme, violente riposte || 1
+|- CLASS="alt"
+| Adolescent || ''[[Apaisement des émotions]]'', [[Présence terrifiante (capacité)|présence terrifiante]] || 3
+|-
+| Jeune adulte || [[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]] || 5
+|- CLASS="alt"
+| Adulte || ''[[Don des langues]]'' || 7
+|-
+| Âge mûr || [[Réduction de dégâts (capacité)|RD]] 10/magie || 9
+|- CLASS="alt"
+| Vieux || Armure dorée, ''[[résonance|résonance]]'' || 11
+|-
+| Très vieux || [[Réduction de dégâts (capacité)|RD]] 15/magie || 13
+|- CLASS="alt"
+| Vénérable || ''[[Rayons prismatiques|Rayons prismatiques]]'' || 15
+|-
+| Dracosire || [[Réduction de dégâts (capacité)|RD]] 20/magie || 17
+|- CLASS="alt"
+| Grand dracosire || Maître du contresort, ''[[moment de prescience|moment de prescience]]'' || 19
+|}
+</center>
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dragon impérial souverain</fullName>
+</wikiPage>

@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Astomoï</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-16 00:08:25Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.sous-type astomoï</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Repli expéditif</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Illumination</link><link>Pathfinder-RPG.Paroles de la tombe</link><link>Pathfinder-RPG.Projectile télékinétique</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.JDS</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Astomo&#239;&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.38&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Astomo&#239; &lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;psychiste&lt;/a&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (astomoi) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, sens t&#233;l&#233;pathiques, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 14, pris au d&#233;pourvu 13 (Dex +1, Sag +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 7 (1d6+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +5 ; -2 contre les maladies et les poisons inhal&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; poisons ing&#233;r&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; respiration sensible
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; dague, -1 (1d4-1/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; amplification phr&#233;nique (armure invoqu&#233;e), impulsion physique (+3, 3/jour), r&#233;serve phr&#233;nique (3 points)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts de psychiste pr&#233;par&#233;s&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 1 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1er (4/jour) — convocation de monstre I, coup mental (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repli-Exp&#233;ditif.html&quot; title=&quot;Repli exp&#233;ditif&quot;&gt;repli exp&#233;ditif&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement.html&quot; title=&quot;H&#233;b&#233;tement&quot;&gt;h&#233;b&#233;tement&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Illumination.html&quot; title=&quot;Illumination&quot;&gt;illumination&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Paroles-De-La-Tombe.html&quot; title=&quot;Paroles de la tombe&quot;&gt;paroles de la tombe&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Projectile-T&#233;l&#233;kin&#233;tique.html&quot; title=&quot;Projectile t&#233;l&#233;kin&#233;tique&quot;&gt;projectile t&#233;l&#233;kin&#233;tique&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+Discipline psychique perfection personnelle
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; 17, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0 ; &lt;b&gt;BMO&lt;/b&gt; -1 ; &lt;b&gt;DMD&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res)+7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; c&#233;leste, commun, sylvestre (ne peut pas parler &#224; voix haute) ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; pas de bouche
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou couvent (6-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (dague, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pas de bouche (Ext).&lt;/b&gt; Les astomo&#239; n’ont besoin ni de manger ni de boire pour survivre. &#192; la place, ils absorbent l’essence de la nourriture et des boissons, ce qui consume les nutriments des repas comme s’ils les mangeaient, les rendant inutiles pour autrui. Les astomo&#239; consomment les potions et autres mati&#232;res habituellement ing&#233;r&#233;es de la m&#234;me fa&#231;on. Puisqu’ils n’ing&#232;rent jamais rien, ils ne peuvent normalement pas &#234;tre expos&#233;s aux poisons ing&#233;r&#233;s.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Respiration sensible (Ext).&lt;/b&gt; Les astomo&#239; subissent un malus de -2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les poisons inhal&#233;s et les maladies.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sens t&#233;l&#233;pathiques (Ext).&lt;/b&gt; Les astomo&#239; ne peuvent ni parler ni voir, mais ils per&#231;oivent mentalement leur environnement jusqu’&#224; une distance de 18 m&#232;tres, comme avec la vision dans le noir, et peuvent s’exprimer par t&#233;l&#233;pathie. Un astomo&#239; ne voit rien au-del&#224; de 18 m&#232;tres. Un astomo&#239; doit fournir les composantes intellectuelles des sorts qui n&#233;cessitent normalement des composantes verbales. Avec sa t&#233;l&#233;pathie, il peut utiliser des pouvoirs qui d&#233;pendent du langage, mais pas les pouvoirs qui d&#233;pendent de composantes sonores.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet humano&#239;de semble compos&#233; de t&#233;n&#232;bres et n’a ni oreilles, ni yeux, ni bouche visibles.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces myst&#233;rieux humano&#239;des n’ont pas besoin de se nourrir (en fait, ils n’ont pas de bouche) et n’ont pas d’yeux pour scruter leur environnement. &#192; la place, ils se fient &#224; leur esprit sup&#233;rieur pour percevoir le monde qui les entoure et absorbent les nutriments pr&#233;sents dans l’air pour survivre. Ces particularit&#233;s peuvent n&#233;anmoins se retourner contre eux, car les odeurs fortes et les poisons inhal&#233;s peuvent rapidement venir &#224; bout d’un astomo&#239;. Pr&#233;dispos&#233;s &#224; l’asc&#233;tisme, les astomo&#239; ne portent souvent aucun v&#234;tement, tout au plus des haillons.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Personnages astomo&#239;&lt;a class=&quot;headeranchor&quot; id=&quot;Personnages_astomo&#239;_0&quot; href=&quot;#Personnages_astomo&#239;_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les astomo&#239; se d&#233;finissent par leurs niveaux de classe — ils ne poss&#232;dent pas de d&#233;s de vie raciaux. Ils poss&#232;dent les traits raciaux suivants.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;-2 en Constitution, +2 en Intelligence, +2 en Sagesse.&lt;/b&gt; Les astomo&#239; recherchent l’&#233;veil spirituel par l’abn&#233;gation et sont en harmonie sur le plan psychique avec leur environnement, mais leur corps fragile est plus sensible aux dangers physiques.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Taille moyenne.&lt;/b&gt; Les astomo&#239; sont des cr&#233;atures de taille Moyenne et ne subissent donc aucun bonus ou malus d&#251; &#224; la taille.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse normale.&lt;/b&gt; Les astomo&#239; ont une vitesse de base au sol de 9 m&#232;tres.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Odorat.&lt;/b&gt; Les astomo&#239; poss&#232;dent le pouvoir sp&#233;cial d’&lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sens t&#233;l&#233;pathiques.&lt;/b&gt; Voir ci-dessus.&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Astomoï|FP 1/2}
+{s:pucem|Humanoïde|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire 5 p.38''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|Astomoï [[psychiste]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (astomoi) de taille M, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Odorat (capacité)|odorat]], sens télépathiques, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 14, pris au dépourvu 13 (Dex +1, Sag +3)}
+{s:BDTexte|'''pv''' 7 (1d6+1)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +0, '''Vol''' +5 ; -2 contre les maladies et les poisons inhalés}
+{s:BDTexte|'''Immunités''' poisons ingérés}
+{s:BDTexte|'''Faiblesses''' respiration sensible}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' dague, -1 (1d4-1/19-20)}
+{s:BDTexte|'''Attaques spéciales''' amplification phrénique (armure invoquée), impulsion physique (+3, 3/jour), réserve phrénique (3 points)}
+{s:BDTexte|'''Sorts de psychiste préparés''' ([[NLS]] 1 ; [[concentration]] +4)}
+{s:BDSorts|1er (4/jour) — convocation de monstre I, coup mental (DD 14), ''[[repli expéditif]]''}
+{s:BDSorts|0 (à volonté) — ''[[hébétement]]'' (DD 13), ''[[illumination]]'' (DD 13), ''[[paroles de la tombe]]'', ''[[projectile télékinétique]]''}
+Discipline psychique perfection personnelle
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 13, '''Con''' 10, '''Int''' 17, '''Sag''' 16, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +0 ; '''BMO''' -1 ; '''DMD''' 13}
+{s:BDTexte|'''Dons''' [[Magie de guerre]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +7, [[Connaissances]] (mystères)+7, [[Connaissances]] (plans) +7, [[Diplomatie]] +4, [[Perception]] +7}
+{s:BDTexte|'''Langues''' céleste, commun, sylvestre (ne peut pas parler à voix haute) ; [[Télépathie (capacité)|télépathie]] 30 m}
+{s:BDTexte|'''Particularités''' pas de bouche}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation''' solitaire, couple ou couvent (6-20)}
+{s:BDTexte|'''Trésor''' équipement de PNJ (dague, autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Pas de bouche (Ext).''' Les astomoï n’ont besoin ni de manger ni de boire pour survivre. À la place, ils absorbent l’essence de la nourriture et des boissons, ce qui consume les nutriments des repas comme s’ils les mangeaient, les rendant inutiles pour autrui. Les astomoï consomment les potions et autres matières habituellement ingérées de la même façon. Puisqu’ils n’ingèrent jamais rien, ils ne peuvent normalement pas être exposés aux poisons ingérés.}
+{s:BDTexte|'''Respiration sensible (Ext).''' Les astomoï subissent un malus de -2 aux [[jds|jets de sauvegarde]] contre les poisons inhalés et les maladies.}
+{s:BDTexte|'''Sens télépathiques (Ext).''' Les astomoï ne peuvent ni parler ni voir, mais ils perçoivent mentalement leur environnement jusqu’à une distance de 18 mètres, comme avec la vision dans le noir, et peuvent s’exprimer par télépathie. Un astomoï ne voit rien au-delà de 18 mètres. Un astomoï doit fournir les composantes intellectuelles des sorts qui nécessitent normalement des composantes verbales. Avec sa télépathie, il peut utiliser des pouvoirs qui dépendent du langage, mais pas les pouvoirs qui dépendent de composantes sonores.}
+</div></td>
+<td><div>''Cet humanoïde semble composé de ténèbres et n’a ni oreilles, ni yeux, ni bouche visibles.''
+
+Ces mystérieux humanoïdes n’ont pas besoin de se nourrir (en fait, ils n’ont pas de bouche) et n’ont pas d’yeux pour scruter leur environnement. À la place, ils se fient à leur esprit supérieur pour percevoir le monde qui les entoure et absorbent les nutriments présents dans l’air pour survivre. Ces particularités peuvent néanmoins se retourner contre eux, car les odeurs fortes et les poisons inhalés peuvent rapidement venir à bout d’un astomoï. Prédisposés à l’ascétisme, les astomoï ne portent souvent aucun vêtement, tout au plus des haillons.
+
+===Personnages astomoï===
+Les astomoï se définissent par leurs niveaux de classe — ils ne possèdent pas de dés de vie raciaux. Ils possèdent les traits raciaux suivants.
+* '''-2 en Constitution, +2 en Intelligence, +2 en Sagesse.''' Les astomoï recherchent l’éveil spirituel par l’abnégation et sont en harmonie sur le plan psychique avec leur environnement, mais leur corps fragile est plus sensible aux dangers physiques.
+* '''Taille moyenne.''' Les astomoï sont des créatures de taille Moyenne et ne subissent donc aucun bonus ou malus dû à la taille.
+* '''Vitesse normale.''' Les astomoï ont une vitesse de base au sol de 9 mètres.
+* '''Odorat.''' Les astomoï possèdent le pouvoir spécial d’[[Odorat (capacité)|odorat]].
+* '''Sens télépathiques.''' Voir ci-dessus.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Astomoï</fullName>
+</wikiPage>

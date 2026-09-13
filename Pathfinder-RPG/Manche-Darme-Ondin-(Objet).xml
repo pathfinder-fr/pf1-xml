@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Manche d'arme ondin</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-16 21:57:00Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Ondin (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Ondin (race)</link><link>Pathfinder-RPG.bâton (arme)</link><link>Pathfinder-RPG.lance (arme)</link><link>Pathfinder-RPG.trident (arme)</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Poussée hydraulique</link><link>Pathfinder-RPG.mithral</link><link>Pathfinder-RPG.adamantium</link><link>Pathfinder-RPG.arme de maître</link><link>Pathfinder-RPG.Ondin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Ondin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Ondin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Ondin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Ondin-(Race).html&quot; title=&quot;Les ondins&quot;&gt;ondins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; +300 po ; &lt;b&gt;Poids&lt;/b&gt; —  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quipement-Daventurier.html&quot; title=&quot;&#201;quipement d&amp;#39;aventurier&quot;&gt;&#201;quipement d&#39;aventurier&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Les &lt;a class=&quot;pagelink&quot; href=&quot;Ondin-(Race).html&quot; title=&quot;Les ondins&quot;&gt;ondins&lt;/a&gt; recourent &#224; une conception unique lorsqu&#39;ils fabriquent des armes &#224; manche comme les &lt;a class=&quot;pagelink&quot; href=&quot;B&#226;ton-(Arme).html&quot; title=&quot;B&#226;ton&quot;&gt;b&#226;tons&lt;/a&gt;, les &lt;a class=&quot;pagelink&quot; href=&quot;Lance-(Arme).html&quot; title=&quot;Lance&quot;&gt;lances&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Trident-(Arme).html&quot; title=&quot;Trident&quot;&gt;tridents&lt;/a&gt;. Plut&#244;t que d&#39;int&#233;grer un manche solide, l&#39;arme est construite autour d&#39;un tuyau en bois ou en m&#233;tal, une de ses extr&#233;mit&#233;s &#233;tant scell&#233;e et l&#39;autre restant ouverte. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, l&#39;ondin peut effectuer une attaque de corps &#224; corps avec cette arme et utiliser son pouvoir magique de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pouss&#233;e-Hydraulique.html&quot; title=&quot;Pouss&#233;e hydraulique&quot;&gt;pouss&#233;e hydraulique&lt;/a&gt;&lt;/i&gt; contre sa cible. En outre, l&#39;arme fonctionne comme une arme standard de son type et peut se composer de mat&#233;riaux sp&#233;ciaux (comme le &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux#Mithral.html&quot; title=&quot;mithral&quot;&gt;mithral&lt;/a&gt; ou l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux#Adamantium.html&quot; title=&quot;adamantium&quot;&gt;adamantium&lt;/a&gt;) et &#234;tre une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armesmaitre.html&quot; title=&quot;arme de ma&#238;tre&quot;&gt;arme de ma&#238;tre&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}'''Prix''' +300 po ; '''Poids''' —  
+<span class="Catégorie">'''Catégorie''' [[Équipement daventurier|Équipement d'aventurier]]</span>
+<hr>
+Les [[Ondin (race)|ondins]] recourent à une conception unique lorsqu'ils fabriquent des armes à manche comme les [[bâton (arme)|bâtons]], les [[lance (arme)|lances]] et les [[trident (arme)|tridents]]. Plutôt que d'intégrer un manche solide, l'arme est construite autour d'un tuyau en bois ou en métal, une de ses extrémités étant scellée et l'autre restant ouverte. Par une [[action complexe]], l'ondin peut effectuer une attaque de corps à corps avec cette arme et utiliser son pouvoir magique de ''[[poussée hydraulique]]'' contre sa cible. En outre, l'arme fonctionne comme une arme standard de son type et peut se composer de matériaux spéciaux (comme le [[mithral]] ou l'[[adamantium]]) et être une [[arme de maître]].]]></raw>
+  <fullName>Pathfinder-RPG.Manche darme ondin (objet)</fullName>
+</wikiPage>

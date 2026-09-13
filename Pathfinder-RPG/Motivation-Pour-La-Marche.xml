@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Motivation pour la marche</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2020-10-07 17:32:09Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Hobgobelin (race)</link><link>Pathfinder-RPG.Sergent hobgobelin</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Déplacements</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Épuisé</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Hobgobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Hobgobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Hobgobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Hobgobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Hobgobelin-(Race).html&quot; title=&quot;Les hobgobelins&quot;&gt;hobgobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;i&gt;Apr&#232;s avoir pass&#233; des ann&#233;es &#224; obliger ses esclaves et ses soldats &#224; continuer de marcher au-del&#224; de leurs limites, le personnage est devenu un excellent ma&#238;tre de corv&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Quand le personnage voyage par voie de terre, il r&#233;duit les d&#233;g&#226;ts non l&#233;taux associ&#233;s &#224; une &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placements.html#MARCHEFORCEE&quot; title=&quot;Les d&#233;placements&quot;&gt;marche forc&#233;e&lt;/a&gt; de moiti&#233; pour lui et un nombre d’alli&#233;s &#233;gal &#224; dix fois son niveau de personnage. Les cr&#233;atures qui b&#233;n&#233;ficient des effets de ce don retardent les effets de fatigue d’un nombre d’heures &#233;gal au modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; du personnage (1 au minimum). Une cr&#233;ature qui retarde ainsi l’effet est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;puis&#233;.html&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puis&#233;e&lt;/a&gt; au lieu d’&#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;../&#201;tats pr&#233;judiciables#Fatigu&#233;
+
+Un personnage fatigu&#233; est dans l’incapacit&#233; de courir et de charger/-Il-Subit-Un-Malus-De--2-En-Force-Ainsi-Qu’En-Dext&#233;rit&#233;.-La-Fatigue-Se-Dissipe-Au-Bout-De-Huit-Heures-De-Repos-Total.-Un-Personnage-Fatigu&#233;-Devient-&#201;puis&#233;-D&#232;s-Qu’Il-Fait-Quoi-Que-Ce-Soit-Qui-Causerait-Un-Nouvel-&#201;tat-Fatigu&#233;..html&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;e&lt;/a&gt; d&#232;s que l’&#233;tat pr&#233;judiciable s’applique.
+]]></body>
+  <raw><![CDATA[{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:cm}''Après avoir passé des années à obliger ses esclaves et ses soldats à continuer de marcher au-delà de leurs limites, le personnage est devenu un excellent maître de corvée.''
+
+'''Avantages.''' Quand le personnage voyage par voie de terre, il réduit les dégâts non létaux associés à une [[Déplacements#MARCHEFORCEE|marche forcée]] de moitié pour lui et un nombre d’alliés égal à dix fois son niveau de personnage. Les créatures qui bénéficient des effets de ce don retardent les effets de fatigue d’un nombre d’heures égal au modificateur de [[Charisme]] du personnage (1 au minimum). Une créature qui retarde ainsi l’effet est [[épuisé|épuisée]] au lieu d’être [[fatigué|fatiguée]] dès que l’état préjudiciable s’applique.]]></raw>
+  <fullName>Pathfinder-RPG.Motivation pour la marche</fullName>
+</wikiPage>

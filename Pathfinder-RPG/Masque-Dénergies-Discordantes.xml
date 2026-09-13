@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Masque d'énergies discordantes</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-29 16:19:25Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux portés sur la tête</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux portés sur la tête</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Sort élémentaire</link><link>Pathfinder-RPG.Néthys (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fNethys.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.N&#233;thys (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fNethys.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;N&#233;thys-(Technique).html&quot; title=&quot;N&#233;thys&quot;&gt;N&#233;thys&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Masque d&#39;&#233;nergies discordantes&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 7 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Sur-La-T&#234;te.html&quot; title=&quot;Objets merveilleux port&#233;s sur la t&#234;te&quot;&gt;t&#234;te&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 4 000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ce masque est blanc d&#39;un c&#244;t&#233; et noir de l&#39;autre, avec des lentilles de gemmes scintillantes couvrant les yeux. Jusqu&#39;&#224; trois fois par jour, le porteur peut transformer les d&#233;g&#226;ts d&#39;&#233;nergie d&#39;un sort de feu qu&#39;il lance en d&#233;g&#226;ts de froid, d&#39;un sort de froid en d&#233;g&#226;ts de feu, d&#39;un sort d&#39;acide en d&#233;g&#226;ts d&#39;&#233;lectricit&#233; ou d&#39;un sort d&#39;&#233;lectricit&#233; en d&#233;g&#226;ts d&#39;acide. Tous les autres effets du sort restent inchang&#233;s (par exemple, une temp&#234;te de glace transform&#233;e en d&#233;g&#226;ts de feu inflige toujours des d&#233;g&#226;ts contondants et un malus aux tests de Perception). Le masque n&#39;affecte que les sorts de 3e niveau ou moins.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sort-&#201;l&#233;mentaire.html&quot; title=&quot;Sort &#233;l&#233;mentaire&quot;&gt;Sort &#233;l&#233;mentaire&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 2 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Néthys|%2fPCUP%2fReligion-PNG%2fNethys.png}<div class="BD">
+{s:BDTitre|Masque d'énergies discordantes|{s:ISG}}
+'''Aura''' [[Transmutation]] modérée ; '''NLS''' 7 ; '''Emplacement''' [[Objets merveilleux portés sur la tête|tête]] ; '''Prix''' 4 000 po ; '''Poids''' 0,5 kg
+(((Description)))
+{s:cs}Ce masque est blanc d'un côté et noir de l'autre, avec des lentilles de gemmes scintillantes couvrant les yeux. Jusqu'à trois fois par jour, le porteur peut transformer les dégâts d'énergie d'un sort de feu qu'il lance en dégâts de froid, d'un sort de froid en dégâts de feu, d'un sort d'acide en dégâts d'électricité ou d'un sort d'électricité en dégâts d'acide. Tous les autres effets du sort restent inchangés (par exemple, une tempête de glace transformée en dégâts de feu inflige toujours des dégâts contondants et un malus aux tests de Perception). Le masque n'affecte que les sorts de 3e niveau ou moins.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], [[Sort élémentaire]] ; '''Coût''' 2 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Masque dénergies discordantes</fullName>
+</wikiPage>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Flèche du Borgne</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 1</category><category>Pathfinder-RPG.Sort inquisiteur 1</category><category>Pathfinder-RPG.Sort magus 1</category><category>Pathfinder-RPG.Sort paladin 1</category><category>Pathfinder-RPG.Sort prêtre 2</category><category>Pathfinder-RPG.Sort rôdeur 1</category><category>Pathfinder-RPG.Sort sanguin 1</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 15:00:07Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.Érastil (technique)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de magus</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Liste des sorts de sanguin</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Érastil (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fErastil.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.&#201;rastil (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fErastil.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;rastil-(Technique).html&quot; title=&quot;&#201;rastil&quot;&gt;&#201;rastil&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Evocation.html&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;&#233;lectricit&#233;&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le magus&quot;&gt;Magus&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Pal&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;R&#244;d&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;San&lt;/a&gt; 1  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (1 fl&#232;che)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; moyenne (30 m + 3 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) ou voir description  
+&lt;b&gt;Effet&lt;/b&gt; fl&#232;che d&#39;&#233;lectricit&#233;  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; instantan&#233;e ou 1 round (voir description)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; non ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le lanceur peut cr&#233;er une fl&#232;che faite d’&#233;lectricit&#233; cr&#233;pitante qu’il utilisera pour l’un des deux effets suivants.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Attaque.&lt;/b&gt; Il peut lancer la fl&#232;che jusqu’&#224; la limite de port&#233;e du sort ou, s’il se sert d’un arc, la tirer jusqu’&#224; la port&#233;e maximale de l’arme. Cet effet requiert une attaque de contact &#224; distance, quelle que soit la mani&#232;re dont la fl&#232;che est utilis&#233;e. La fl&#232;che inflige 1d6+1 points de d&#233;g&#226;ts d’&#233;lectricit&#233; par niveau (maximum +5).&lt;/li&gt;&lt;li&gt;&lt;b&gt;Phare.&lt;/b&gt; La fl&#232;che est tir&#233;e droit vers le haut. Lorsqu’elle atteint sa port&#233;e maximale ou une surface solide (comme le toit d’une caverne), elle explose dans un grondement de tonnerre, formant un &#233;clair &#233;lectrique fourchu ressemblant au symbole sacr&#233; d&#39;&#201;rastil pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Le tonnerre et l’&#233;clair sont aussi forts et lumineux que leurs &#233;quivalents naturels, mais ne blessent pas les cr&#233;atures se trouvant dans la zone.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png}{s:ISG}{s:GeM}'''École''' [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; '''Niveau''' [[Druide|Dru]] 1, [[Inquisiteur|Inq]] 1, [[Magus]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, M]] (1 flèche)  
+'''Portée''' moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]]) ou voir description  
+'''Effet''' flèche d'électricité  
+'''Durée''' instantanée ou 1 round (voir description)  
+'''Jet de sauvegarde''' non ; '''Résistance à la magie''' oui
+
+Le lanceur peut créer une flèche faite d’électricité crépitante qu’il utilisera pour l’un des deux effets suivants.
+* '''Attaque.''' Il peut lancer la flèche jusqu’à la limite de portée du sort ou, s’il se sert d’un arc, la tirer jusqu’à la portée maximale de l’arme. Cet effet requiert une attaque de contact à distance, quelle que soit la manière dont la flèche est utilisée. La flèche inflige 1d6+1 points de dégâts d’électricité par niveau (maximum +5).
+* '''Phare.''' La flèche est tirée droit vers le haut. Lorsqu’elle atteint sa portée maximale ou une surface solide (comme le toit d’une caverne), elle explose dans un grondement de tonnerre, formant un éclair électrique fourchu ressemblant au symbole sacré d'Érastil pendant 1 [[round]]. Le tonnerre et l’éclair sont aussi forts et lumineux que leurs équivalents naturels, mais ne blessent pas les créatures se trouvant dans la zone.]]></raw>
+  <fullName>Pathfinder-RPG.Flèche du Borgne</fullName>
+</wikiPage>

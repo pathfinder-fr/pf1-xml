@@ -1,0 +1,659 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>PNJ - Les criminels</title>
+  <categories><category>Pathfinder-RPG.Classe de PNJ</category><category>Pathfinder-RPG.Src Guide du maître</category></categories>
+  <lastModified>2021-02-03 21:25:02Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Galerie de PNJ</link><link>Pathfinder-RPG.Guide du maître (Contenu)</link><link>Pathfinder-RPG.PNJ aventuriers</link><link>Pathfinder-RPG.PNJ brigands</link><link>Pathfinder-RPG.PNJ criminels</link><link>Pathfinder-RPG.PNJ devins</link><link>Pathfinder-RPG.PNJ donjons</link><link>Pathfinder-RPG.PNJ marins</link><link>Pathfinder-RPG.PNJ mercenaires</link><link>Pathfinder-RPG.PNJ milices</link><link>Pathfinder-RPG.PNJ rues</link><link>Pathfinder-RPG.PNJ tavernes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Doigts de fée</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.PNJ routes</link><link>Pathfinder-RPG.PNJ amuseurs publiques</link><link>Pathfinder-RPG.PNJ tavernes</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Combat à deux armes</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.PNJ rues</link><link>Pathfinder-RPG.PNJ criminels</link><link>Pathfinder-RPG.PNJ donjons</link><link>Pathfinder-RPG.Discret</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.Saut</link><link>Pathfinder-RPG.Tir à bout portant</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Maniement dune arme exotique</link><link>Pathfinder-RPG.Savancer</link><link>Pathfinder-RPG.Tir de précision</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Plume magique</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du combat à deux armes</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Viser</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.État gazeux</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.PNJ brigands</link><link>Pathfinder-RPG.Fourberie</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Manœuvres agiles</link><link>Pathfinder-RPG.Rechargement rapide</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.PNJ arènes</link><link>Pathfinder-RPG.PNJ mercenaires</link><link>Pathfinder-RPG.PNJ nobles</link><link>Pathfinder-RPG.PNJ marchands</link></outLinks>
+  <body><![CDATA[&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide du ma&#238;tre (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gamemastery Guide/Guide du ma&#238;tre&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGDM.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_criminels_partie_B_0&quot;&gt;Les criminels (partie 1)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_criminels_partie_C_1&quot;&gt;Les criminels (partie 2)&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Les criminels (partie 1)&lt;a class=&quot;headeranchor&quot; id=&quot;Les_criminels_partie_B_0&quot; href=&quot;#Les_criminels_partie_B_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+On trouve des criminels de bas &#233;tage dans les all&#233;es et les quartiers mal fam&#233;s de toutes les villes, m&#234;me les plus fi&#232;res. Ils se faufilent hors de leurs tripots et de leurs repaires en sous-sol pour s’attaquer aux faibles 
+et aux imprudents. Ils prennent tout ce qu’ils peuvent, g&#233;n&#233;ralement juste  assez  pour  survivre  et  leur  permettre  de  poursuivre  leurs activit&#233;s violentes, tout en continuant &#224; r&#234;ver au jour o&#249; ils feront &#171; un 
+gros coup &#187;. Ces criminels mineurs s’organisent en gangs ou, sous la direction d’un chef plus charismatique, en v&#233;ritables guildes, ce qui les rend plus dangereux et plus audacieux que lorsqu’ils sont seuls.&lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;PICKPOCKET&quot; href=&quot;#PICKPOCKET&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Pickpocket&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 13, pris au d&#233;pourvu 11 (armure +1, Dex +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 5 (1d8+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; -1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; matraque, +0 (1d6 non l&#233;tal)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; dard, +3 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; attaque sournoise +1d6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 8, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; +0, &lt;b&gt;DMD&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Doigts-De-F&#233;e.html&quot; title=&quot;Doigts de f&#233;e&quot;&gt;Doigts de f&#233;e&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Escamotage)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +5, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +3 (+4 pour d&#233;tecter les pi&#232;ges), &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, halfelin
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; sens des pi&#232;ges +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; chausse-trappes ; &lt;b&gt;autre &#233;quipement&lt;/b&gt; armure matelass&#233;e, dards (4), matraque, outils de voleur, trousse de d&#233;guisement
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Un pickpocket peut tenter de d&#233;rober un petit objet pour les PJ ou en cacher un sur une victime.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+Les pickpockets sont le fl&#233;au des places du march&#233;, des orphelins apparemment inoffensifs avec des sourires d’innocents et des doigts de f&#233;e mais pourtant capables de couper une bourse en un clin d’œil. Il peut &#233;galement s’agir d’un des innombrables gamins des rues qu’on croise dans les all&#233;es de toutes les villes. En donnant une dague ou une &#233;p&#233;e courte &#224; un pickpocket, on le transforme en loubard pr&#234;t &#224; tout. En rempla&#231;ant Doigts de f&#233;e par Fourberie et en changeant &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Escamotage) en &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Bluff), on peut faire de lui un escroc. Avec &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Sabotage), il devient un apprenti crocheteur ou un apprenti d&#233;mineur de pi&#232;ges. Si on remplace &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; par &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt;, on peut cr&#233;er des acrobates, des jongleurs et des artistes de rues, peut-&#234;tre les membres d’une troupe qui commettent des menus larcins pendant leurs temps libres.&lt;br /&gt;&lt;br /&gt;Les pickpockets qui travaillent en duo (FP 1) servent de distraction pour leur partenaire. Dans les grandes villes et les grands march&#233;s, ils  travaillent  souvent  en  gangs de six  (FP  4)  ou  plus  encore.  Un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Routes.html#VOYAGEUR&quot; title=&quot;PNJ - Les routes&quot;&gt;voyageur&lt;/a&gt; peut employer un assistant pickpocket (FP 3) et un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Amuseurs-Publiques.html#CONTEUR&quot; title=&quot;PNJ - Les amuseurs publics&quot;&gt;conteur&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Amuseurs-Publiques.html#MENESTREL&quot; title=&quot;PNJ - Les amuseurs publics&quot;&gt;m&#233;nestrel&lt;/a&gt; peut en employer une demi-douzaine pour l’aider &#224; &#171; s’occuper &#187; des spectateurs (FP 5 ou 6). Un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tavernes.html#TAVERNIER&quot; title=&quot;PNJ - Les tavernes&quot;&gt;tavernier&lt;/a&gt; peu scrupuleux peut  employer  deux  pickpockets  d&#233;guis&#233;s  en  serveuses  en  plus de  deux  &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tavernes.html#SERVEUSE&quot; title=&quot;PNJ - Les tavernes&quot;&gt;serveuses&lt;/a&gt;  normales  afin  d’am&#233;liorer  les  revenus  de  son &#233;tablissement (FP 5).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MALFRAT&quot; href=&quot;#MALFRAT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Malfrat&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; 1 / &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 12, pris au d&#233;pourvu 13 (armure +3, Dex +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 16 (2 DV ; 1d10+1d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; b&#226;ton, +4 (1d6+3) ou b&#226;ton, +2/+2 (1d6+3/1d6+1) ou dague, +4 (1d4+3/19–20) ou matraque, +4 (1d6+3 non l&#233;tal)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; dague, +3 (1d4+3/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; attaque sournoise +1d6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +4, &lt;b&gt;DMD&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Combat-&#192;-Deux-Armes.html&quot; title=&quot;Combat &#224; deux armes&quot;&gt;Combat &#224; deux armes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Intimidation)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5 (+6 pour d&#233;tecter les pi&#232;ges)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; sens des pi&#232;ges +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement&lt;/b&gt; armure de cuir clout&#233;e de ma&#238;tre, b&#226;ton, dagues (2), matraque, menottes (2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Un malfrat peut tenter d’enlever ou de menacer un PNJ sp&#233;cifique, d&#233;livrer un message ou cr&#233;er une diversion en organisant une rixe dans la rue, ce qui impose un malus de –2 aux tests de Perception oppos&#233;s pendant 1 minute.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+Les malfrats sont les cogneurs et les brutes qu’on croise dans les rues. Les  criminels  emploient  souvent  ces  armoires  &#224;  glace  pour  tenir leurs rivaux &#224; distance ou pour extorquer de l’or aux malheureux 
+vendeurs et aux propri&#233;taires de commerces. Les citoyens innocents vivent dans la crainte qu’un malfrat ne sorte des ombres pour venir les battre violemment.&lt;br /&gt;&lt;br /&gt;Dans les villes o&#249; la loi est plus souple, les malfrats des rues peuvent servir de gardes corrompus ou de membres d’un groupe d’autod&#233;fense. On peut les utiliser comme videurs dans une taverne ou un casino. Si on remplace Combat &#224; deux armes par Force intimidante, il leur est encore plus facile d’extorquer de l’argent. En-dehors des villes et des cit&#233;s, les malfrats peuvent servir de bandits ou de brigands, ou de gardes de bas niveau pour une caravane marchande.&lt;br /&gt;&lt;br /&gt;Un malfrat seul peut &#234;tre le souteneur d’une &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Rues.html#PROSTITUEE&quot; title=&quot;PNJ - Les rues&quot;&gt;prostitu&#233;e&lt;/a&gt; (FP 3) ou le partenaire intimidant d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#PICKPOCKET&quot; title=&quot;PNJ - Les criminels&quot;&gt;pickpocket&lt;/a&gt; (FP 2). Un duo de malfrats peut collaborer avec un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#ESCLAVAGISTE&quot; title=&quot;PNJ - Les criminels&quot;&gt;esclavagiste&lt;/a&gt; (FP 5) ou un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Donjons.html#BOURREAU&quot; title=&quot;PNJ - Les donjons&quot;&gt;bourreau&lt;/a&gt; (FP 6), ou encore travailler comme gardes du corps pour un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Rues.html#REVENDEUR&quot; title=&quot;PNJ - Les rues&quot;&gt;revendeur&lt;/a&gt; agissant comme un baron du crime mineur (FP  5). Six  malfrats  peuvent former une escouade capable de d&#233;clencher des &#233;meutes (FP 6).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CAMBRIOLEUR&quot; href=&quot;#CAMBRIOLEUR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cambrioleur&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; 3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 12 (armure +2, Dex +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 16 (3d8+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; esquive totale, sens des pi&#232;ges +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; matraque, +3 (1d6+1 non l&#233;tal) ou dague, +3 (1d4+1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; arc court composite de ma&#238;tre, +6 (1d6+1/&#215;3) ou dague, +5 (1d4+1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; attaque sournoise +2d6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2, &lt;b&gt;BMO&lt;/b&gt; +3, &lt;b&gt;DMD&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discret.html&quot; title=&quot;Discret&quot;&gt;Discret&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Doigts-De-F&#233;e.html&quot; title=&quot;Doigts de f&#233;e&quot;&gt;Doigts de f&#233;e&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +8, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9 (+10 pour d&#233;tecter les pi&#232;ges), &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, elfique, halfelin
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; talent de roublard (d&#233;samor&#231;age rapide), sens des pi&#232;ges +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; potion de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;, potion de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Saut.html&quot; title=&quot;Saut&quot;&gt;saut&lt;/a&gt;&lt;/i&gt;, sacoche immobilisante ; &lt;b&gt;Autre &#233;quipement&lt;/b&gt; armure de cuir, arc court composite de ma&#238;tre [For +1] avec 20 fl&#232;ches, dague, matraque, corde de soie de 15 m avec grappin, mat&#233;riel d’escalade, outils de voleur de ma&#238;tre, solvant universel
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Un cambrioleur peut ouvrir un objet pi&#233;g&#233; pour les PJ ou fouiller un b&#226;timent &#224; la recherche de pi&#232;ges. Il peut p&#233;n&#233;trer dans une maison pour r&#233;cup&#233;rer un objet pour eux ou encore les faire sortir de prison.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+Les cambrioleurs r&#244;dent dans les cit&#233;s et les villes, dansant sur les toits avec une gr&#226;ce f&#233;line et se glissant sans bruit dans les maisons et les &#233;choppes la nuit.&lt;br /&gt;&lt;br /&gt;En changeant &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception) en &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Sabotage), le cambrioleur devient un expert en ouverture de coffre alors qu’en rempla&#231;ant &lt;a class=&quot;pagelink&quot; href=&quot;Doigts-De-F&#233;e.html&quot; title=&quot;Doigts de f&#233;e&quot;&gt;Doigts de f&#233;e&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception) par &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (arc  court), il se transforme en tireur embusqu&#233;. Si on remplace &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception) par &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Acrobaties) et le talent de roublard d&#233;samor&#231;age rapide par &#233;quilibriste, on construit un voleur-acrobate. Modifier le talent de roublard choisi par le cambrioleur est une bonne mani&#232;re de l’adapter aux besoins du MJ.&lt;br /&gt;&lt;br /&gt;Les cambrioleurs travaillent g&#233;n&#233;ralement seuls mais ils embauchent parfois un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#PICKPOCKET&quot; title=&quot;PNJ - Les criminels&quot;&gt;pickpocket&lt;/a&gt; comme sentinelle (FP 3). Un trio de cambrioleurs peut coop&#233;rer pour d&#233;valiser une grande maison ou une banque, avec trois &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#MALFRAT&quot; title=&quot;PNJ - Les criminels&quot;&gt;malfrats&lt;/a&gt; au cas o&#249; les choses tournent mal et une sentinelle &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#PICKPOCKET&quot; title=&quot;PNJ - Les criminels&quot;&gt;pickpocket&lt;/a&gt; (FP 7). Un cambrioleur peut &#233;galement collaborer avec un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tavernes.html#TAVERNIER&quot; title=&quot;PNJ - Les tavernes&quot;&gt;tavernier&lt;/a&gt; et une &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tavernes.html#SERVEUSE&quot; title=&quot;PNJ - Les tavernes&quot;&gt;serveuse&lt;/a&gt; (FP  5) pour vider les chambres des clients de tous les biens pr&#233;cieux.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les criminels (partie 2)&lt;a class=&quot;headeranchor&quot; id=&quot;Les_criminels_partie_C_1&quot; href=&quot;#Les_criminels_partie_C_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+Ces criminels sont les artistes et les t&#234;tes pensantes dont la carri&#232;re recouvre toutes sortes d’activit&#233;s ill&#233;gales et qui d&#233;jouent les r&#232;gles et  risquent  la  vie  des  autres  dans  leur  propre  int&#233;r&#234;t.  Ils  ne  sont pas  forc&#233;ment  d’alignement  Mauvais  mais  se  pr&#233;occupent  plus d’eux-m&#234;mes que de la morale ou de la loi. Leur ruse, leur force de caract&#232;re ou leur pr&#233;voyance leur permet de duper ou d’&#233;viter les autorit&#233;s. Ils sont g&#233;n&#233;ralement &#224; la t&#234;te de groupes de criminels moins organis&#233;s ou moins dou&#233;s qu’eux mais, dans certains cas, ces ma&#238;tres dans les arts illicites pr&#233;f&#232;rent travailler seuls.&lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ESCLAVAGISTE&quot; href=&quot;#ESCLAVAGISTE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Esclavagiste&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; 2 / &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 12, pris au d&#233;pourvu 13 (armure +3, Dex +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d10+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +1 ; +1 contre la terreur
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; courage +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; guisarme de ma&#238;tre, +9 (2d4+4/&#215;3) ou matraque de ma&#238;tre, +8 (1d6+3 non l&#233;tal) ou gantelet clout&#233;, +7 (1d4+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; bolas, +7 (1d4+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1,50 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (3 m avec guisarme)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; ennemi jur&#233; (humains +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +7, &lt;b&gt;DMD&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (bolas), &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (guisarme), &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Maniement-Dune-Arme-Exotique.html&quot; title=&quot;Maniement d&amp;#39;une arme exotique&quot;&gt;Maniement d’une arme exotique&lt;/a&gt; (bolas), &lt;a class=&quot;pagelink&quot; href=&quot;Savancer.html&quot; title=&quot;S&amp;#39;avancer&quot;&gt;S’avancer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-De-Pr&#233;cision.html&quot; title=&quot;Tir de pr&#233;cision&quot;&gt;Tir de pr&#233;cision&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (g&#233;ographie) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +8 (+9 pour suivre une piste)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; empathie sauvage +1, pistage +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plume-Magique.html&quot; title=&quot;Plume magique&quot;&gt;plume magique&lt;/a&gt;&lt;/i&gt; (fouet), sacoches immobilisantes (2) ; &lt;b&gt;autre &#233;quipement&lt;/b&gt; armure de cuir clout&#233;e de ma&#238;tre, gantelet clout&#233;, bolas (3), guisarme de ma&#238;tre, matraque de ma&#238;tre, mat&#233;riel d’escalade, menottes, poison drow (2 doses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Les esclavagistes peuvent donner des informations au sujet des routes suivies par les caravanes d’esclaves, de leurs principaux clients et de l’emplacement probable d’esclaves sp&#233;cifiques, octroyant ainsi un bonus de circonstances de +2 aux tests de Diplomatie pour recueillir ce genre d’informations.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+Les esclavagistes sont le fl&#233;au des soci&#233;t&#233;s libres. Ils s’infiltrent la nuit dans les villes et les villages, capturent des innocents et les emm&#232;nent discr&#232;tement vers des march&#233;s aux esclaves souterrains ou les transportent par bateaux vers des mines, des plantations et des maisons de plaisir de l’autre c&#244;t&#233; de la mer.&lt;br /&gt;&lt;br /&gt;On peut aussi utiliser les esclavagistes comme &#171; agents anti-&#233;meute &#187;, chasseurs de primes de bas niveau, gladiateurs ou comme gardes ou soldats pr&#233;f&#233;rant capturer leurs adversaires au lieu de les tuer.&lt;br /&gt;&lt;br /&gt;Les esclavagistes emploient parfois un duo de &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Rues.html#PROSTITUEE&quot; title=&quot;PNJ - Les rues&quot;&gt;prostitu&#233;es&lt;/a&gt; pour attirer leurs victimes dans des situations compromettantes (FP 5) ou un duo de &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#MALFRAT&quot; title=&quot;PNJ - Les criminels&quot;&gt;malfrats&lt;/a&gt; pour les aider &#224; ma&#238;triser leurs victimes (FP 5). On peut aussi les croiser avec des esclaves captur&#233;s. Il peut s’agir de n’importe quel PNJ pr&#233;sent&#233; dans ce chapitre, des &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Du-Peuple.html&quot; title=&quot;L&amp;#39;homme du peuple&quot;&gt;gens du peuple&lt;/a&gt; ou des &lt;a class=&quot;pagelink&quot; href=&quot;Noble.html&quot; title=&quot;Le noble&quot;&gt;nobles&lt;/a&gt;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MEURTRIER&quot; href=&quot;#MEURTRIER&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Meurtrier&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 5 / &lt;a class=&quot;pagelink&quot; href=&quot;Assassin.html&quot; title=&quot;L&amp;#39;assassin&quot;&gt;assassin&lt;/a&gt; 4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 14, pris au d&#233;pourvu 14 (armure +4, Dex +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 63 (9 DV ; 5d10+4d8+18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +1 ; +2 contre le poison
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; esquive instinctive
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;kukri +1&lt;/i&gt;, +13/+8 (1d4+3/15–20) ou &lt;i&gt;kukri +1&lt;/i&gt;, +11/+6 (1d4+3/15–20) et kukri de ma&#238;tre, +11/+6 (1d4+1/15–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; &lt;i&gt;arc court composite +1&lt;/i&gt;, +13/+8 (1d6+3/&#215;3) ou shuriken, +12/+7 (1d2+2) ou shuriken, +10/+5 (1d2+2) et shuriken, +10/+5 (1d2+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; attaque mortelle (DD 15), attaque sournoise +2d6, ennemi jur&#233; (humains +4, elfes +2), vraie mort
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 8, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-&#192;-Deux-Armes.html&quot; title=&quot;Combat &#224; deux armes&quot;&gt;Combat &#224; deux armes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Combat-&#192;-Deux-Armes.html&quot; title=&quot;Science du combat &#224; deux armes&quot;&gt;Science du combat &#224; deux armes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (kukri), &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Viser.html&quot; title=&quot;Viser&quot;&gt;Viser&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +21, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +15 (+19 pour cacher des armes), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +10 (+12 pour suivre une piste)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, elfique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; armes dissimul&#233;es, empathie sauvage +5, pacte du chasseur (alli&#233;s), pistage +2, environnement de pr&#233;dilection (ville +2), utilisation du poison
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; potions d’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tat-Gazeux.html&quot; title=&quot;&#201;tat gazeux&quot;&gt;&#233;tat gazeux&lt;/a&gt;&lt;/i&gt;, de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Saut.html&quot; title=&quot;Saut&quot;&gt;saut&lt;/a&gt;&lt;/i&gt;, et de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt; (2) ; &lt;b&gt;Autre &#233;quipement&lt;/b&gt; &lt;i&gt;armure de cuir clout&#233;e +1&lt;/i&gt;, &lt;i&gt;arc court composite +1&lt;/i&gt; [For +2] avec 20 fl&#232;ches, &lt;i&gt;kukri +1&lt;/i&gt;, kukri de ma&#238;tre, shuriken (20), &lt;i&gt;cape elfique&lt;/i&gt; , mat&#233;riel d’escalade, outils de voleur de ma&#238;tre, poison de gu&#234;pe g&#233;ante (2 doses), trousse de d&#233;guisement, venin de scorpion de taille G (2 doses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Les meurtriers peuvent obtenir des poisons pour les PJ avec une r&#233;duction de prix de 20%. Ils peuvent &#233;galement tuer ou capturer des cibles pour les PJ avec un r&#233;duction de 20% sur leur tarif habituel (&#224; la discr&#233;tion du MJ).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+Les meurtriers assassinent de sang froid. Ce sont des tueurs &#224; gages, des roublards rus&#233;s, des tireurs embusqu&#233;s mortels, des ma&#238;tres du coup de poignard dans le dos et des pluies de shurikens lanc&#233;s des deux  mains.  On  peut  aussi  les  utiliser  comme  ninjas,  espions  ou gardiens de l’ordre particuli&#232;rement sanguinaires.&lt;br /&gt;&lt;br /&gt;Les  meurtriers  travaillent  souvent  seuls,  parfois  en  tant qu’ex&#233;cuteur en chef pour un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#MAITREDEGUILDE&quot; title=&quot;PNJ - Les criminels&quot;&gt;ma&#238;tre de guilde&lt;/a&gt; (FP 11) ou encore avec des  complices  :  trois  &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#CAMBRIOLEUR&quot; title=&quot;PNJ - Les criminels&quot;&gt;cambrioleurs&lt;/a&gt;  (FP  9),  deux  &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Brigands.html#BANDITDEGRANDCHEMIN&quot; title=&quot;PNJ - Les brigands&quot;&gt;bandits  de  grand chemin&lt;/a&gt; (FP 10) ou six &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#ESCLAVAGISTE&quot; title=&quot;PNJ - Les criminels&quot;&gt;esclavagistes&lt;/a&gt; (FP 10) par exemple.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MAITREDEGUILDE&quot; href=&quot;#MAITREDEGUILDE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ma&#238;tre de guilde&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 22, contact 15, pris au d&#233;pourvu 17 (armure +5, bouclier +2, Dex +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 60 (11d8+11)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +13, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; esquive instinctive sup&#233;rieure, esquive totale, sens des pi&#232;ges +3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;rapi&#232;re +1&lt;/i&gt;, +14/+9 (1d6/18–20) ou matraque, +13/+8 (1d6–1 non l&#233;tal)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; &lt;i&gt;arbal&#232;te l&#233;g&#232;re +1&lt;/i&gt;, +14/+9 (1d8+1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; attaque sournoise +6d6 plus 6 points de saignement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 20, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +7, &lt;b&gt;DMD&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Discret.html&quot; title=&quot;Discret&quot;&gt;Discret&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Fourberie.html&quot; title=&quot;Fourberie&quot;&gt;Fourberie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Agiles.html&quot; title=&quot;Manœuvres agiles&quot;&gt;Manœuvres agiles&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Rechargement-Rapide.html&quot; title=&quot;Rechargement rapide&quot;&gt;Rechargement rapide&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Viser.html&quot; title=&quot;Viser&quot;&gt;Viser&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +10, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +15 (+20 pour d&#233;tecter les pi&#232;ges), &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +30
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, commun des profondeurs, halfelin
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; sens des pi&#232;ges +5, talent de roublard (attaque sanglante, d&#233;nicheur de pi&#232;ges, esprit fuyant, r&#233;silience, roublard en finesse)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plume-Magique.html&quot; title=&quot;Plume magique&quot;&gt;plume magique&lt;/a&gt;&lt;/i&gt; (fouet) ; &lt;b&gt;Autre &#233;quipement&lt;/b&gt; &lt;i&gt;chemise de mailles en mithral +1&lt;/i&gt;, &lt;i&gt;targe +1&lt;/i&gt;, &lt;i&gt;arbal&#232;te l&#233;g&#232;re +1&lt;/i&gt; avec 10 carreaux, matraque, &lt;i&gt;rapi&#232;re +1&lt;/i&gt;, &lt;i&gt;cape de r&#233;sistance +1&lt;/i&gt;, &lt;i&gt;ceinture d’incroyable dext&#233;rit&#233; +2&lt;/i&gt;, lunettes grossissantes, outils de voleur de ma&#238;tre, s&#233;rum de v&#233;rit&#233;, trousse de d&#233;guisement
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Un ma&#238;tre de guilde peut s’arranger pour faire entrer ou sortir discr&#232;tement des gens ou des objets d’une zone s&#233;curis&#233;e. Il peut ordonner un cambriolage, une effraction ou une attaque sur une cible, ou encore vendre ou acheter des biens ill&#233;gaux (calculez la limite en po comme si la communaut&#233; avait une taille de plus que sa taille r&#233;elle).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+Les  ma&#238;tres  de  guilde  sont  les  barons  du  crime  par  excellence. Ils  ma&#238;trisent  tous  les  arts  criminels  et  ont  gravi  les  &#233;chelons  en commen&#231;ant  comme  simples  truands,  avant  de  devenir  des  t&#234;tes pensantes  rus&#233;es  poss&#233;dant  leur  propre  organisation.  Ils  peuvent servir  d’espions,  d’assassins,  de  ma&#238;tres  perceurs  de  coffres,  de seigneurs bandits ou de princes marchands v&#233;reux.&lt;br /&gt;&lt;br /&gt;Un ma&#238;tre de guilde garde souvent aupr&#232;s de lui un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#MEURTRIER&quot; title=&quot;PNJ - Les criminels&quot;&gt;meurtrier&lt;/a&gt; ou deux comme gardes du corps et hommes de main (FP 11 ou 12) mais certains, plus exub&#233;rants, pr&#233;f&#232;rent se munir d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Ar&#232;nes.html#CHAMPION&quot; title=&quot;PNJ - Les ar&#232;nes&quot;&gt;champion de l’ar&#232;ne&lt;/a&gt; et d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Mercenaires.html#MERCENAIREARME&quot; title=&quot;PNJ - Les mercenaires&quot;&gt;mercenaire arm&#233;&lt;/a&gt; (FP 12) ou d’une demi-douzaine de &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Mercenaires.html#MERCENAIREARME&quot; title=&quot;PNJ - Les mercenaires&quot;&gt;mercenaires arm&#233;s&lt;/a&gt; (FP 13). On peut &#233;galement rencontrer un ma&#238;tre de guilde en compagnie de deux &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Nobles.html#NOBLE&quot; title=&quot;PNJ - Les nobles&quot;&gt;nobles&lt;/a&gt; ou de deux &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marchands.html#PRINCEMARCHAND&quot; title=&quot;PNJ - Les marchands&quot;&gt;princes marchands&lt;/a&gt; &#224; la moralit&#233; douteuse (FP 11).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:GdM}{toc}
+
+===Les criminels (partie 1)===
+
+On trouve des criminels de bas étage dans les allées et les quartiers mal famés de toutes les villes, même les plus fières. Ils se faufilent hors de leurs tripots et de leurs repaires en sous-sol pour s’attaquer aux faibles 
+et aux imprudents. Ils prennent tout ce qu’ils peuvent, généralement juste  assez  pour  survivre  et  leur  permettre  de  poursuivre  leurs activités violentes, tout en continuant à rêver au jour où ils feront « un 
+gros coup ». Ces criminels mineurs s’organisent en gangs ou, sous la direction d’un chef plus charismatique, en véritables guildes, ce qui les rend plus dangereux et plus audacieux que lorsqu’ils sont seuls.
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|PICKPOCKET}
+{s:BDTitre|Pickpocket|FP 1/2}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|Humain [[roublard]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[Perception]] +3}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 13, pris au dépourvu 11 (armure +1, Dex +3)}
+{s:BDTexte|'''pv''' 5 (1d8+1)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +1, '''Vol''' -1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' matraque, +0 (1d6 non létal)}
+{s:BDTexte|'''A distance''' dard, +3 (1d4)}
+{s:BDTexte|'''Attaque spéciale''' attaque sournoise +1d6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 17, '''Con''' 12, '''Int''' 13, '''Sag''' 8, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +0, '''BMO''' +0, '''DMD''' 13}
+{s:BDTexte|'''Dons''' [[Doigts de fée]], [[Talent]] (Escamotage)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +7, [[Bluff]] +6, [[Connaissances]] (folklore local) +5, [[Déguisement]] +8, [[Discrétion]] +7, [[Escamotage]] +12, [[Estimation]] +5, [[Évasion]] +7, [[Perception]] +3 (+4 pour détecter les pièges), [[Psychologie]] +3, [[Sabotage]] +9}
+{s:BDTexte|'''Langues''' commun, halfelin}
+{s:BDTexte|'''Particularités''' sens des pièges +1}
+{s:BDTexte|'''Équipement de combat''' chausse-trappes ; '''autre équipement''' armure matelassée, dards (4), matraque, outils de voleur, trousse de déguisement}
+{s:BDTexte|'''Faveur''' Un pickpocket peut tenter de dérober un petit objet pour les PJ ou en cacher un sur une victime.}
+</div>
+</td><td><div>
+Les pickpockets sont le fléau des places du marché, des orphelins apparemment inoffensifs avec des sourires d’innocents et des doigts de fée mais pourtant capables de couper une bourse en un clin d’œil. Il peut également s’agir d’un des innombrables gamins des rues qu’on croise dans les allées de toutes les villes. En donnant une dague ou une épée courte à un pickpocket, on le transforme en loubard prêt à tout. En remplaçant Doigts de fée par Fourberie et en changeant [[Talent]] (Escamotage) en [[Talent]] (Bluff), on peut faire de lui un escroc. Avec [[Talent]] (Sabotage), il devient un apprenti crocheteur ou un apprenti démineur de pièges. Si on remplace [[Estimation]] par [[Représentation]], on peut créer des acrobates, des jongleurs et des artistes de rues, peut-être les membres d’une troupe qui commettent des menus larcins pendant leurs temps libres.
+
+Les pickpockets qui travaillent en duo (FP 1) servent de distraction pour leur partenaire. Dans les grandes villes et les grands marchés, ils  travaillent  souvent  en  gangs de six  (FP  4)  ou  plus  encore.  Un [[PNJ routes#VOYAGEUR|voyageur]] peut employer un assistant pickpocket (FP 3) et un [[PNJ amuseurs publiques#CONTEUR|conteur]] ou un [[ PNJ amuseurs publiques#MENESTREL|ménestrel]] peut en employer une demi-douzaine pour l’aider à « s’occuper » des spectateurs (FP 5 ou 6). Un [[PNJ tavernes#TAVERNIER|tavernier]] peu scrupuleux peut  employer  deux  pickpockets  déguisés  en  serveuses  en  plus de  deux  [[PNJ tavernes#SERVEUSE|serveuses]]  normales  afin  d’améliorer  les  revenus  de  son établissement (FP 5).
+</div></td></tr></table>
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|MALFRAT}
+{s:BDTitre|Malfrat|FP 1}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|Humain [[guerrier]] 1 / [[roublard]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, NM}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 12, pris au dépourvu 13 (armure +3, Dex +2)}
+{s:BDTexte|'''pv''' 16 (2 DV ; 1d10+1d8+6)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +3, '''Vol''' +0}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' bâton, +4 (1d6+3) ou bâton, +2/+2 (1d6+3/1d6+1) ou dague, +4 (1d4+3/19–20) ou matraque, +4 (1d6+3 non létal)}
+{s:BDTexte|'''A distance''' dague, +3 (1d4+3/19–20)}
+{s:BDTexte|'''Attaque spéciale''' attaque sournoise +1d6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 15, '''Con''' 13, '''Int''' 8, '''Sag''' 10, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +4, '''DMD''' 16}
+{s:BDTexte|'''Dons''' [[Combat à deux armes]], [[Robustesse]], [[Talent]] (Intimidation)}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (folklore local) +4, [[Discrétion]] +7, [[Escalade]] +8, [[Intimidation]] +9, [[Perception]] +5 (+6 pour détecter les pièges)}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' sens des pièges +1}
+{s:BDTexte|'''Équipement''' armure de cuir cloutée de maître, bâton, dagues (2), matraque, menottes (2)}
+{s:BDTexte|'''Faveur''' Un malfrat peut tenter d’enlever ou de menacer un PNJ spécifique, délivrer un message ou créer une diversion en organisant une rixe dans la rue, ce qui impose un malus de –2 aux tests de Perception opposés pendant 1 minute.}
+</div>
+</td><td><div>
+Les malfrats sont les cogneurs et les brutes qu’on croise dans les rues. Les  criminels  emploient  souvent  ces  armoires  à  glace  pour  tenir leurs rivaux à distance ou pour extorquer de l’or aux malheureux 
+vendeurs et aux propriétaires de commerces. Les citoyens innocents vivent dans la crainte qu’un malfrat ne sorte des ombres pour venir les battre violemment.
+
+Dans les villes où la loi est plus souple, les malfrats des rues peuvent servir de gardes corrompus ou de membres d’un groupe d’autodéfense. On peut les utiliser comme videurs dans une taverne ou un casino. Si on remplace Combat à deux armes par Force intimidante, il leur est encore plus facile d’extorquer de l’argent. En-dehors des villes et des cités, les malfrats peuvent servir de bandits ou de brigands, ou de gardes de bas niveau pour une caravane marchande.
+
+Un malfrat seul peut être le souteneur d’une [[PNJ rues#PROSTITUEE|prostituée]] (FP 3) ou le partenaire intimidant d’un [[PNJ criminels#PICKPOCKET|pickpocket]] (FP 2). Un duo de malfrats peut collaborer avec un [[PNJ criminels#ESCLAVAGISTE|esclavagiste]] (FP 5) ou un [[PNJ donjons#BOURREAU|bourreau]] (FP 6), ou encore travailler comme gardes du corps pour un [[PNJ rues#REVENDEUR|revendeur]] agissant comme un baron du crime mineur (FP  5). Six  malfrats  peuvent former une escouade capable de déclencher des émeutes (FP 6).
+</div></td></tr></table>
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|CAMBRIOLEUR}
+{s:BDTitre|Cambrioleur|FP 2}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|Humain [[roublard]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 13, pris au dépourvu 12 (armure +2, Dex +3)}
+{s:BDTexte|'''pv''' 16 (3d8+3)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +2, '''Vol''' +1}
+{s:BDTexte|'''Capacités défensives''' esquive totale, sens des pièges +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' matraque, +3 (1d6+1 non létal) ou dague, +3 (1d4+1/19–20)}
+{s:BDTexte|'''A distance''' arc court composite de maître, +6 (1d6+1/×3) ou dague, +5 (1d4+1/19–20)}
+{s:BDTexte|'''Attaque spéciale''' attaque sournoise +2d6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 17, '''Con''' 12, '''Int''' 14, '''Sag''' 10, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +2, '''BMO''' +3, '''DMD''' 16}
+{s:BDTexte|'''Dons''' [[Discret]], [[Doigts de fée]], [[Talent]] (Perception)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +9, [[Bluff]] +5, [[Connaissances]] (folklore local) +8, [[Déguisement]] +5, [[Discrétion]] +11, [[Escalade]] +9, [[Escamotage]] +11, [[Estimation]] +8, [[Évasion]] +11, [[Natation]] +7, [[Perception]] +9 (+10 pour détecter les pièges), [[Sabotage]] +13}
+{s:BDTexte|'''Langues''' commun, elfique, halfelin}
+{s:BDTexte|'''Particularités''' talent de roublard (désamorçage rapide), sens des pièges +1}
+{s:BDTexte|'''Équipement de combat''' potion de ''[[feuille morte]]'', potion de ''[[saut]]'', sacoche immobilisante ; '''Autre équipement''' armure de cuir, arc court composite de maître <nowiki>[</nowiki>For +1<nowiki>]</nowiki> avec 20 flèches, dague, matraque, corde de soie de 15 m avec grappin, matériel d’escalade, outils de voleur de maître, solvant universel}
+{s:BDTexte|'''Faveur''' Un cambrioleur peut ouvrir un objet piégé pour les PJ ou fouiller un bâtiment à la recherche de pièges. Il peut pénétrer dans une maison pour récupérer un objet pour eux ou encore les faire sortir de prison.}
+</div>
+</td><td><div>
+Les cambrioleurs rôdent dans les cités et les villes, dansant sur les toits avec une grâce féline et se glissant sans bruit dans les maisons et les échoppes la nuit.
+
+En changeant [[Talent]] (Perception) en [[Talent]] (Sabotage), le cambrioleur devient un expert en ouverture de coffre alors qu’en remplaçant [[Doigts de fée]] et [[Talent]] (Perception) par [[Tir à bout portant]] et [[Arme de prédilection]] (arc  court), il se transforme en tireur embusqué. Si on remplace [[Talent]] (Perception) par [[Talent]] (Acrobaties) et le talent de roublard désamorçage rapide par équilibriste, on construit un voleur-acrobate. Modifier le talent de roublard choisi par le cambrioleur est une bonne manière de l’adapter aux besoins du MJ.
+
+Les cambrioleurs travaillent généralement seuls mais ils embauchent parfois un [[PNJ criminels#PICKPOCKET|pickpocket]] comme sentinelle (FP 3). Un trio de cambrioleurs peut coopérer pour dévaliser une grande maison ou une banque, avec trois [[PNJ criminels#MALFRAT|malfrats]] au cas où les choses tournent mal et une sentinelle [[PNJ criminels#PICKPOCKET|pickpocket]] (FP 7). Un cambrioleur peut également collaborer avec un [[PNJ tavernes#TAVERNIER|tavernier]] et une [[PNJ tavernes#SERVEUSE|serveuse]] (FP  5) pour vider les chambres des clients de tous les biens précieux.
+</div></td></tr></table>
+
+
+===Les criminels (partie 2)===
+
+Ces criminels sont les artistes et les têtes pensantes dont la carrière recouvre toutes sortes d’activités illégales et qui déjouent les règles et  risquent  la  vie  des  autres  dans  leur  propre  intérêt.  Ils  ne  sont pas  forcément  d’alignement  Mauvais  mais  se  préoccupent  plus d’eux-mêmes que de la morale ou de la loi. Leur ruse, leur force de caractère ou leur prévoyance leur permet de duper ou d’éviter les autorités. Ils sont généralement à la tête de groupes de criminels moins organisés ou moins doués qu’eux mais, dans certains cas, ces maîtres dans les arts illicites préfèrent travailler seuls.
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|ESCLAVAGISTE}
+{s:BDTitre|Esclavagiste|FP 3}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|Humain [[guerrier]] 2 / [[rôdeur]] 2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, NM}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 12, pris au dépourvu 13 (armure +3, Dex +2)}
+{s:BDTexte|'''pv''' 30 (4d10+8)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +8, '''Vol''' +1 ; +1 contre la terreur}
+{s:BDTexte|'''Capacités défensives''' courage +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' guisarme de maître, +9 (2d4+4/×3) ou matraque de maître, +8 (1d6+3 non létal) ou gantelet clouté, +7 (1d4+3)}
+{s:BDTexte|'''A distance''' bolas, +7 (1d4+3)}
+{s:BDTexte|'''Espace''' 1,50 m ; '''Allonge''' 1,50 m (3 m avec guisarme)}
+{s:BDTexte|'''Attaque spéciale''' ennemi juré (humains +2)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 14, '''Con''' 14, '''Int''' 10, '''Sag''' 12, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +7, '''DMD''' 19}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (bolas), [[Arme de prédilection]] (guisarme), [[Attaques réflexes]], [[Maniement dune arme exotique|Maniement d’une arme exotique]] (bolas), [[Savancer|S’avancer]], [[Tir de précision]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (géographie) +4, [[Discrétion]] +9, [[Dressage]] +3, [[Équitation]] +7, [[Natation]] +8, [[Perception]] +8, [[Survie]] +8 (+9 pour suivre une piste)}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' empathie sauvage +1, pistage +1}
+{s:BDTexte|'''Équipement de combat''' ''[[plume magique]]'' (fouet), sacoches immobilisantes (2) ; '''autre équipement''' armure de cuir cloutée de maître, gantelet clouté, bolas (3), guisarme de maître, matraque de maître, matériel d’escalade, menottes, poison drow (2 doses)}
+{s:BDTexte|'''Faveur''' Les esclavagistes peuvent donner des informations au sujet des routes suivies par les caravanes d’esclaves, de leurs principaux clients et de l’emplacement probable d’esclaves spécifiques, octroyant ainsi un bonus de circonstances de +2 aux tests de Diplomatie pour recueillir ce genre d’informations.}
+</div>
+</td><td><div>
+Les esclavagistes sont le fléau des sociétés libres. Ils s’infiltrent la nuit dans les villes et les villages, capturent des innocents et les emmènent discrètement vers des marchés aux esclaves souterrains ou les transportent par bateaux vers des mines, des plantations et des maisons de plaisir de l’autre côté de la mer.
+
+On peut aussi utiliser les esclavagistes comme « agents anti-émeute », chasseurs de primes de bas niveau, gladiateurs ou comme gardes ou soldats préférant capturer leurs adversaires au lieu de les tuer.
+
+Les esclavagistes emploient parfois un duo de [[PNJ rues#PROSTITUEE|prostituées]] pour attirer leurs victimes dans des situations compromettantes (FP 5) ou un duo de [[PNJ criminels#MALFRAT|malfrats]] pour les aider à maîtriser leurs victimes (FP 5). On peut aussi les croiser avec des esclaves capturés. Il peut s’agir de n’importe quel PNJ présenté dans ce chapitre, des [[Homme du peuple|gens du peuple]] ou des [[noble|nobles]].
+</div></td></tr></table>
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|MEURTRIER}
+{s:BDTitre|Meurtrier|FP 8}
+{s:BDTexte|'''PX''' 4 800}
+{s:BDTexte|Humain [[rôdeur]] 5 / [[assassin]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, NM}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 14, pris au dépourvu 14 (armure +4, Dex +4)}
+{s:BDTexte|'''pv''' 63 (9 DV ; 5d10+4d8+18)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +7, '''Vol''' +1 ; +2 contre le poison}
+{s:BDTexte|'''Capacités défensives''' esquive instinctive}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' ''kukri +1'', +13/+8 (1d4+3/15–20) ou ''kukri +1'', +11/+6 (1d4+3/15–20) et kukri de maître, +11/+6 (1d4+1/15–20)}
+{s:BDTexte|'''A distance''' ''arc court composite +1'', +13/+8 (1d6+3/×3) ou shuriken, +12/+7 (1d2+2) ou shuriken, +10/+5 (1d2+2) et shuriken, +10/+5 (1d2+1)}
+{s:BDTexte|'''Attaque spéciale''' attaque mortelle (DD 15), attaque sournoise +2d6, ennemi juré (humains +4, elfes +2), vraie mort}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 18, '''Con''' 14, '''Int''' 12, '''Sag''' 8, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +10, '''DMD''' 24}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Combat à deux armes]], [[Endurance]], [[Science de linitiative|Science de l’initiative]], [[Science du combat à deux armes]], [[Science du critique]] (kukri), [[Tir à bout portant]], [[Viser]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +15, [[Artisanat]] (alchimie) +5, [[Bluff]] +5, [[Déguisement]] +10, [[Discrétion]] +21, [[Escalade]] +15, [[Escamotage]] +15 (+19 pour cacher des armes), [[Évasion]] +10, [[Intimidation]] +10, [[Natation]] +6, [[Perception]] +10, [[Sabotage]] +10, [[Survie]] +10 (+12 pour suivre une piste)}
+{s:BDTexte|'''Langues''' commun, elfique}
+{s:BDTexte|'''Particularités''' armes dissimulées, empathie sauvage +5, pacte du chasseur (alliés), pistage +2, environnement de prédilection (ville +2), utilisation du poison}
+{s:BDTexte|'''Équipement de combat''' potions d’''[[état gazeux]]'', de ''[[saut]]'', et de ''[[soins légers]]'' (2) ; '''Autre équipement''' ''armure de cuir cloutée +1'', ''arc court composite +1'' <nowiki>[</nowiki>For +2<nowiki>]</nowiki> avec 20 flèches, ''kukri +1'', kukri de maître, shuriken (20), ''cape elfique'' , matériel d’escalade, outils de voleur de maître, poison de guêpe géante (2 doses), trousse de déguisement, venin de scorpion de taille G (2 doses)}
+{s:BDTexte|'''Faveur''' Les meurtriers peuvent obtenir des poisons pour les PJ avec une réduction de prix de 20%. Ils peuvent également tuer ou capturer des cibles pour les PJ avec un réduction de 20% sur leur tarif habituel (à la discrétion du MJ).}
+</div>
+</td><td><div>
+Les meurtriers assassinent de sang froid. Ce sont des tueurs à gages, des roublards rusés, des tireurs embusqués mortels, des maîtres du coup de poignard dans le dos et des pluies de shurikens lancés des deux  mains.  On  peut  aussi  les  utiliser  comme  ninjas,  espions  ou gardiens de l’ordre particulièrement sanguinaires.
+
+Les  meurtriers  travaillent  souvent  seuls,  parfois  en  tant qu’exécuteur en chef pour un [[PNJ criminels#MAITREDEGUILDE|maître de guilde]] (FP 11) ou encore avec des  complices  :  trois  [[PNJ criminels#CAMBRIOLEUR|cambrioleurs]]  (FP  9),  deux  [[PNJ brigands#BANDITDEGRANDCHEMIN|bandits  de  grand chemin]] (FP 10) ou six [[PNJ criminels#ESCLAVAGISTE|esclavagistes]] (FP 10) par exemple.
+</div></td></tr></table>
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|MAITREDEGUILDE}
+{s:BDTitre|Maître de guilde|FP 10}
+{s:BDTexte|'''PX''' 9 600}
+{s:BDTexte|Humain [[roublard]] 11}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[Perception]] +15}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 22, contact 15, pris au dépourvu 17 (armure +5, bouclier +2, Dex +5)}
+{s:BDTexte|'''pv''' 60 (11d8+11)}
+{s:BDTexte|'''Réf''' +13, '''Vig''' +5, '''Vol''' +8}
+{s:BDTexte|'''Capacités défensives''' esquive instinctive supérieure, esquive totale, sens des pièges +3}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' ''rapière +1'', +14/+9 (1d6/18–20) ou matraque, +13/+8 (1d6–1 non létal)}
+{s:BDTexte|'''A distance''' ''arbalète légère +1'', +14/+9 (1d8+1/19–20)}
+{s:BDTexte|'''Attaque spéciale''' attaque sournoise +6d6 plus 6 points de saignement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 20, '''Con''' 12, '''Int''' 10, '''Sag''' 14, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +7, '''DMD''' 22}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Discret]], [[Fourberie]], [[Frappe décisive]], [[Manœuvres agiles]], [[Rechargement rapide]], [[Viser]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +19, [[Bluff]] +20, [[Connaissances]] (folklore local) +10, [[Déguisement]] +22, [[Diplomatie]] +15, [[Discrétion]] +23, [[Escamotage]] +10, [[Évasion]] +22, [[Intimidation]] +10, [[Linguistique]] +5, [[Perception]] +15 (+20 pour détecter les pièges), [[Psychologie]] +15, [[Sabotage]] +30}
+{s:BDTexte|'''Langues''' commun, commun des profondeurs, halfelin}
+{s:BDTexte|'''Particularités''' sens des pièges +5, talent de roublard (attaque sanglante, dénicheur de pièges, esprit fuyant, résilience, roublard en finesse)}
+{s:BDTexte|'''Équipement de combat''' ''[[plume magique]]'' (fouet) ; '''Autre équipement''' ''chemise de mailles en mithral +1'', ''targe +1'', ''arbalète légère +1'' avec 10 carreaux, matraque, ''rapière +1'', ''cape de résistance +1'', ''ceinture d’incroyable dextérité +2'', lunettes grossissantes, outils de voleur de maître, sérum de vérité, trousse de déguisement}
+{s:BDTexte|'''Faveur''' Un maître de guilde peut s’arranger pour faire entrer ou sortir discrètement des gens ou des objets d’une zone sécurisée. Il peut ordonner un cambriolage, une effraction ou une attaque sur une cible, ou encore vendre ou acheter des biens illégaux (calculez la limite en po comme si la communauté avait une taille de plus que sa taille réelle).}
+</div>
+</td><td><div>
+Les  maîtres  de  guilde  sont  les  barons  du  crime  par  excellence. Ils  maîtrisent  tous  les  arts  criminels  et  ont  gravi  les  échelons  en commençant  comme  simples  truands,  avant  de  devenir  des  têtes pensantes  rusées  possédant  leur  propre  organisation.  Ils  peuvent servir  d’espions,  d’assassins,  de  maîtres  perceurs  de  coffres,  de seigneurs bandits ou de princes marchands véreux.
+
+Un maître de guilde garde souvent auprès de lui un [[PNJ criminels#MEURTRIER|meurtrier]] ou deux comme gardes du corps et hommes de main (FP 11 ou 12) mais certains, plus exubérants, préfèrent se munir d’un [[PNJ arènes#CHAMPION|champion de l’arène]] et d’un [[PNJ mercenaires#MERCENAIREARME|mercenaire armé]] (FP 12) ou d’une demi-douzaine de [[PNJ mercenaires#MERCENAIREARME|mercenaires armés]] (FP 13). On peut également rencontrer un maître de guilde en compagnie de deux [[PNJ nobles#NOBLE|nobles]] ou de deux [[PNJ marchands#PRINCEMARCHAND|princes marchands]] à la moralité douteuse (FP 11).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.PNJ criminels</fullName>
+</wikiPage>

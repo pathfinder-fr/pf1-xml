@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Guide du maître (Contenu)</title>
+  <categories><category>Pathfinder-RPG.Src Guide du maître</category></categories>
+  <lastModified>2021-01-15 20:58:17Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Temp</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Drogues</link><link>Pathfinder-RPG.Santé mentale</link><link>Pathfinder-RPG.Exemples dapparitions</link><link>Pathfinder-RPG.PNJ amuseurs publiques</link><link>Pathfinder-RPG.PNJ arènes</link><link>Pathfinder-RPG.PNJ armées</link><link>Pathfinder-RPG.PNJ aventuriers</link><link>Pathfinder-RPG.PNJ brigands</link><link>Pathfinder-RPG.PNJ criminels</link><link>Pathfinder-RPG.PNJ croisés</link><link>Pathfinder-RPG.PNJ devins</link><link>Pathfinder-RPG.PNJ donjons</link><link>Pathfinder-RPG.PNJ écoles de combat</link><link>Pathfinder-RPG.PNJ érudits</link><link>Pathfinder-RPG.PNJ hérétiques</link><link>Pathfinder-RPG.PNJ maraudeurs</link><link>Pathfinder-RPG.PNJ marchands</link><link>Pathfinder-RPG.PNJ marins</link><link>Pathfinder-RPG.PNJ mercenaires</link><link>Pathfinder-RPG.PNJ milices</link><link>Pathfinder-RPG.PNJ nobles</link><link>Pathfinder-RPG.PNJ routes</link><link>Pathfinder-RPG.PNJ royautés</link><link>Pathfinder-RPG.PNJ rues</link><link>Pathfinder-RPG.PNJ tavernes</link><link>Pathfinder-RPG.PNJ temples</link><link>Pathfinder-RPG.PNJ terres sauvages</link><link>Pathfinder-RPG.PNJ tribus</link><link>Pathfinder-RPG.PNJ villageois</link><link>Pathfinder-RPG.Cadeaux</link><link>Pathfinder-RPG.Plans</link><link>Pathfinder-RPG.grand au-delà</link><link>Pathfinder-RPG.Villes</link><link>Pathfinder-RPG.Milieu aquatique</link><link>Pathfinder-RPG.Courses poursuites</link><link>Pathfinder-RPG.Catastrophes</link><link>Pathfinder-RPG.Apparitions</link><link>Pathfinder-RPG.Dangers</link><link>Pathfinder-RPG.Galerie de PNJ</link></outLinks>
+  <body><![CDATA[&lt;a class=&quot;externallink&quot; href=&quot;https://paizo.com/products/btpy8ffn?Pathfinder-Roleplaying-Game-GameMastery-Guide&quot; title=&quot;GameMastery Guide&quot; target=&quot;_blank&quot;&gt;GameMastery Guide&lt;/a&gt; a &#233;t&#233; publi&#233; en Janvier 2010 par Paizo inc, puis r&#233;imprim&#233; en Novembre 2010 et en Octobre 2013 afin d’y int&#233;grer les &#233;volutions de l&#39;errata PZO1114 termin&#233; en Janvier 2014.  
+Traduit et publi&#233; en fran&#231;ais par Black Book Editions sous le nom de &lt;a class=&quot;externallink&quot; href=&quot;https://www.black-book-editions.fr/produit.php?id=3220&quot; title=&quot;Guide du ma&#238;tre&quot; target=&quot;_blank&quot;&gt;Guide du ma&#238;tre&lt;/a&gt;, en Juin 2016 (pour sa troisi&#232;me impression, int&#233;grant les &#233;volutions de l&#39;errata cit&#233;).&lt;br /&gt;&lt;br /&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Afflictions_3&quot;&gt;Afflictions&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Drogues_0&quot;&gt;Drogues&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Folies_1&quot;&gt;Folies&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#P&#233;rils_4&quot;&gt;P&#233;rils&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Apparitions_2&quot;&gt;Apparitions&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#PNJs_5&quot;&gt;PNJs&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#R&#232;gles_officielles_6&quot;&gt;R&#232;gles officielles&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Afflictions&lt;a class=&quot;headeranchor&quot; id=&quot;Afflictions_3&quot; href=&quot;#Afflictions_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;h3 class=&quot;separator&quot;&gt;Drogues&lt;a class=&quot;headeranchor&quot; id=&quot;Drogues_0&quot; href=&quot;#Drogues_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#ABSINTHEELFIQUE&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Absinthe elfique&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#BIERREDEFEUNAINE&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Bi&#232;re de feu naine&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#ECORCHEFEUILLE&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;&#201;corchefeuille&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#ETHER&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;&#201;ther&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#FRISSON&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Frisson&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#OPIUM&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Opium&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#PESH&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Pesh&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#PURGE&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Purge&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#ZERK&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Zerk&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;div style=&quot;border-top:1px dashed #4b3124&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Folies&lt;a class=&quot;headeranchor&quot; id=&quot;Folies_1&quot; href=&quot;#Folies_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html#AMN&#201;SIE&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;Amn&#233;sie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html#PARANO&#207;A&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;Parano&#239;a&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html#TOC&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;TOC/Phobie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html#PSYCHOSE&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;Manie/Psychose&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html#SCHIZOPHR&#201;NIE&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;Schizophr&#233;nie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html#TROUBLEPERSONNALIT&#201;MULTIPLE&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;Trouble de la Personnalit&#233; multiple&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;P&#233;rils&lt;a class=&quot;headeranchor&quot; id=&quot;P&#233;rils_4&quot; href=&quot;#P&#233;rils_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;h3 class=&quot;separator&quot;&gt;Apparitions&lt;a class=&quot;headeranchor&quot; id=&quot;Apparitions_2&quot; href=&quot;#Apparitions_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Exemples-Dapparitions.html#MURSQUISAIGNENT&quot; title=&quot;Exemples d&amp;#39;apparitions&quot;&gt;Murs qui saignent&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;PNJs&lt;a class=&quot;headeranchor&quot; id=&quot;PNJs_5&quot; href=&quot;#PNJs_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;article_3col&quot;&gt;
+&lt;b&gt;Amuseurs publiques.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Amuseurs-Publiques.html#BARDECELEBRE&quot; title=&quot;PNJ - Les amuseurs publics&quot;&gt;Barde c&#233;l&#232;bre&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Amuseurs-Publiques.html#CONTEUR&quot; title=&quot;PNJ - Les amuseurs publics&quot;&gt;Conteur&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Amuseurs-Publiques.html#MENESTREL&quot; title=&quot;PNJ - Les amuseurs publics&quot;&gt;M&#233;nestrel&lt;/a&gt;.  
+  
+&lt;b&gt;Ar&#232;nes.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Ar&#232;nes.html#CHAMPION&quot; title=&quot;PNJ - Les ar&#232;nes&quot;&gt;Champion&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Ar&#232;nes.html#GLADIATEUR&quot; title=&quot;PNJ - Les ar&#232;nes&quot;&gt;Gladiateur&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Ar&#232;nes.html#MAITREDESBETES&quot; title=&quot;PNJ - Les ar&#232;nes&quot;&gt;Ma&#238;tre des b&#234;tes&lt;/a&gt;.  
+  
+&lt;b&gt;Arm&#233;es.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Arm&#233;es.html#GENERAL&quot; title=&quot;PNJ - Les arm&#233;es&quot;&gt;G&#233;n&#233;ral&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Arm&#233;es.html#SOLDATDINFANTERIE&quot; title=&quot;PNJ - Les arm&#233;es&quot;&gt;Soldat d&#39;infanterie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Arm&#233;es.html#SOLDATMONTE&quot; title=&quot;PNJ - Les arm&#233;es&quot;&gt;Soldat mont&#233;&lt;/a&gt;.  
+  
+&lt;b&gt;Aventuriers.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Aventuriers.html#CHASSEURDEMONSTRES&quot; title=&quot;PNJ - Les aventuriers&quot;&gt;Chasseur de monstres&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Aventuriers.html#MAGEDECOMBAT&quot; title=&quot;PNJ - Les aventuriers&quot;&gt;Mage de combat&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Aventuriers.html#PILLEURDETOMBES&quot; title=&quot;PNJ - Les aventuriers&quot;&gt;Pilleur de tombes&lt;/a&gt;.  
+  
+&lt;b&gt;Brigands.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Brigands.html#BANDIT&quot; title=&quot;PNJ - Les brigands&quot;&gt;Bandit&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Brigands.html#BANDITDEGRANDCHEMIN&quot; title=&quot;PNJ - Les brigands&quot;&gt;Bandit de grand chemin&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Brigands.html#SEIGNEURBANDIT&quot; title=&quot;PNJ - Les brigands&quot;&gt;Seigneur bandit&lt;/a&gt;.  
+  
+&lt;b&gt;Criminels.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#CAMBRIOLEUR&quot; title=&quot;PNJ - Les criminels&quot;&gt;Cambrioleur&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#ESCLAVAGISTE&quot; title=&quot;PNJ - Les criminels&quot;&gt;Esclavagiste&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#MAITREDEGUILDE&quot; title=&quot;PNJ - Les criminels&quot;&gt;Ma&#238;tre de guilde&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#MALFRAT&quot; title=&quot;PNJ - Les criminels&quot;&gt;Malfrat&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#MEURTRIER&quot; title=&quot;PNJ - Les criminels&quot;&gt;Meurtrier&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#PICKPOCKET&quot; title=&quot;PNJ - Les criminels&quot;&gt;Pickpocket&lt;/a&gt;.  
+  
+&lt;b&gt;Crois&#233;s.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Crois&#233;s.html#ECUYER&quot; title=&quot;PNJ - Les crois&#233;s&quot;&gt;&#201;cuyer&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Crois&#233;s.html#GUERRIERSAINT&quot; title=&quot;PNJ - Les crois&#233;s&quot;&gt;Guerrier saint&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Crois&#233;s.html#SAINTHOMME&quot; title=&quot;PNJ - Les crois&#233;s&quot;&gt;Saint homme&lt;/a&gt;.  
+  
+&lt;b&gt;Devins.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Devins.html#ANNONCIATEURDEMALHEURS&quot; title=&quot;PNJ - Les devins&quot;&gt;Annonciateur de malheurs&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Devins.html#DISEUSEDEBONNEAVENTURE&quot; title=&quot;PNJ - Les devins&quot;&gt;Diseuse de bonne aventure&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Devins.html#MEDIUM&quot; title=&quot;PNJ - Les devins&quot;&gt;M&#233;dium&lt;/a&gt;.  
+  
+&lt;b&gt;Donjons.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Donjons.html#BOURREAU&quot; title=&quot;PNJ - Les donjons&quot;&gt;Bourreau&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Donjons.html#GEOLIER&quot; title=&quot;PNJ - Les donjons&quot;&gt;Ge&#244;lier&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Donjons.html#PRISONNIER&quot; title=&quot;PNJ - Les donjons&quot;&gt;Prisonnier&lt;/a&gt;.  
+  
+&lt;b&gt;&#201;coles de combat.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-&#201;coles-De-Combat.html#INITIE&quot; title=&quot;PNJ - Les &#233;coles de combat&quot;&gt;Initi&#233;&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-&#201;coles-De-Combat.html#MAITRE&quot; title=&quot;PNJ - Les &#233;coles de combat&quot;&gt;Ma&#238;tre&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-&#201;coles-De-Combat.html#MOINECOMBATTANT&quot; title=&quot;PNJ - Les &#233;coles de combat&quot;&gt;Moine combattant&lt;/a&gt;.  
+  
+&lt;b&gt;&#201;rudits.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-&#201;rudits.html#ARCHEOLOGUE&quot; title=&quot;PNJ - Les &#233;rudits&quot;&gt;Arch&#233;ologue&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-&#201;rudits.html#MAGICIENAMATEUR&quot; title=&quot;PNJ - Les &#233;rudits&quot;&gt;Magicien amateur&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-&#201;rudits.html#SAGE&quot; title=&quot;PNJ - Les &#233;rudits&quot;&gt;Sage&lt;/a&gt;.  
+  
+&lt;b&gt;H&#233;r&#233;tiques.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-H&#233;r&#233;tiques.html#ADORATEUR&quot; title=&quot;PNJ - Les h&#233;r&#233;tiques&quot;&gt;Adorateur&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-H&#233;r&#233;tiques.html#CHEFDECULTE&quot; title=&quot;PNJ - Les h&#233;r&#233;tiques&quot;&gt;Chef de culte&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-H&#233;r&#233;tiques.html#CONJUREUR&quot; title=&quot;PNJ - Les h&#233;r&#233;tiques&quot;&gt;Conjureur&lt;/a&gt;.  
+  
+&lt;b&gt;Maraudeurs.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Maraudeurs.html#CAPITAINEPIRATE&quot; title=&quot;PNJ - Les maraudeurs&quot;&gt;Capitaine pirate&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Maraudeurs.html#PILLARD&quot; title=&quot;PNJ - Les maraudeurs&quot;&gt;Pillard&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Maraudeurs.html#VIKING&quot; title=&quot;PNJ - Les maraudeurs&quot;&gt;Viking&lt;/a&gt;.  
+  
+&lt;b&gt;Marchands.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marchands.html#COMMERCANT&quot; title=&quot;PNJ - Les marchands&quot;&gt;Commer&#231;ant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marchands.html#MARCHANDITINERANT&quot; title=&quot;PNJ - Les marchands&quot;&gt;Marchand itin&#233;rant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marchands.html#PRINCEMARCHAND&quot; title=&quot;PNJ - Les marchands&quot;&gt;Prince marchand&lt;/a&gt;.  
+  
+&lt;b&gt;Marins.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marins.html#CAPITAINE&quot; title=&quot;PNJ - Les marins&quot;&gt;Capitaine&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marins.html#MATELOT&quot; title=&quot;PNJ - Les marins&quot;&gt;Matelot&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marins.html#SECOND&quot; title=&quot;PNJ - Les marins&quot;&gt;Second&lt;/a&gt;.  
+  
+&lt;b&gt;Mercenaires.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Mercenaires.html#CHASSEURDEPRIMES&quot; title=&quot;PNJ - Les mercenaires&quot;&gt;Chasseur de primes&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Mercenaires.html#GARDEDECARAVANE&quot; title=&quot;PNJ - Les mercenaires&quot;&gt;Garde de caravane&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Mercenaires.html#MERCENAIREARME&quot; title=&quot;PNJ - Les mercenaires&quot;&gt;Mercenaire arm&#233;&lt;/a&gt;.  
+  
+&lt;b&gt;Milices.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Milices.html#CAPITAINEDELAGARDE&quot; title=&quot;PNJ - Les milices&quot;&gt;Capitaine de la garde&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Milices.html#GARDE&quot; title=&quot;PNJ - Les milices&quot;&gt;Garde&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Milices.html#OFFICIER&quot; title=&quot;PNJ - Les milices&quot;&gt;Officier&lt;/a&gt;.  
+  
+&lt;b&gt;Nobles.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Nobles.html#CHEVALIER&quot; title=&quot;PNJ - Les nobles&quot;&gt;Chevalier&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Nobles.html#HERITIERNOBLE&quot; title=&quot;PNJ - Les nobles&quot;&gt;H&#233;ritier noble&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Nobles.html#NOBLE&quot; title=&quot;PNJ - Les nobles&quot;&gt;Noble&lt;/a&gt;.  
+  
+&lt;b&gt;Routes.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Routes.html#PELERIN&quot; title=&quot;PNJ - Les routes&quot;&gt;P&#232;lerin&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Routes.html#VAGABOND&quot; title=&quot;PNJ - Les routes&quot;&gt;Vagabond&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Routes.html#VOYAGEUR&quot; title=&quot;PNJ - Les routes&quot;&gt;Voyageur&lt;/a&gt;.  
+  
+&lt;b&gt;Royaut&#233;s.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Royaut&#233;s.html#PRINCESSE&quot; title=&quot;PNJ - Les royaut&#233;s&quot;&gt;Princesse&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Royaut&#233;s.html#REINE&quot; title=&quot;PNJ - Les royaut&#233;s&quot;&gt;Reine&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Royaut&#233;s.html#ROI&quot; title=&quot;PNJ - Les royaut&#233;s&quot;&gt;Roi&lt;/a&gt;.  
+  
+&lt;b&gt;Rues.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Rues.html#MENDIANT&quot; title=&quot;PNJ - Les rues&quot;&gt;Mendiant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Rues.html#PROSTITUEE&quot; title=&quot;PNJ - Les rues&quot;&gt;Prostitu&#233;e&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Rues.html#REVENDEUR&quot; title=&quot;PNJ - Les rues&quot;&gt;Revendeur&lt;/a&gt;.  
+  
+&lt;b&gt;Tavernes.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tavernes.html#IVROGNE&quot; title=&quot;PNJ - Les tavernes&quot;&gt;Ivrogne&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tavernes.html#SERVEUSE&quot; title=&quot;PNJ - Les tavernes&quot;&gt;Serveuse&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tavernes.html#TAVERNIER&quot; title=&quot;PNJ - Les tavernes&quot;&gt;Tavernier&lt;/a&gt;.  
+   
+&lt;b&gt;Temples.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Temples.html#ACOLYTE&quot; title=&quot;PNJ - Les temples&quot;&gt;Acolyte&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Temples.html#HAUTPRETRE&quot; title=&quot;PNJ - Les temples&quot;&gt;Haut pr&#234;tre&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Temples.html#PRETRE&quot; title=&quot;PNJ - Les temples&quot;&gt;Pr&#234;tre&lt;/a&gt;,  
+  
+&lt;b&gt;Terres sauvages.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Terres-Sauvages.html#ERMITE&quot; title=&quot;PNJ - Les terres sauvages&quot;&gt;Ermite&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Terres-Sauvages.html#GUIDE&quot; title=&quot;PNJ - Les terres sauvages&quot;&gt;Guide&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Terres-Sauvages.html#TRAPPEUR&quot; title=&quot;PNJ - Les terres sauvages&quot;&gt;Trappeur&lt;/a&gt;.  
+  
+&lt;b&gt;Tribus.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tribus.html#CANNIBALE&quot; title=&quot;PNJ - Les tribus&quot;&gt;Cannibale&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tribus.html#CHAMANE&quot; title=&quot;PNJ - Les tribus&quot;&gt;Chamane&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tribus.html#CHEFDETRIBU&quot; title=&quot;PNJ - Les tribus&quot;&gt;Chef de tribu&lt;/a&gt;.  
+  
+&lt;b&gt;Villageois.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Villageois.html#FERMIER&quot; title=&quot;PNJ - Les villageois&quot;&gt;Fermier&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Villageois.html#IDIOTDUVILLAGE&quot; title=&quot;PNJ - Les villageois&quot;&gt;Idiot du village&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Villageois.html#MAIRE&quot; title=&quot;PNJ - Les villageois&quot;&gt;Maire&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles officielles&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_officielles_6&quot; href=&quot;#R&#232;gles_officielles_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Cadeaux.html&quot; title=&quot;Les cadeaux des PNJ&quot;&gt;Les cadeaux des PNJs&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;Les plans&lt;/a&gt;,  
+• &lt;a class=&quot;pagelink&quot; href=&quot;Grand-Au-Del&#224;.html&quot; title=&quot;Le grand au-del&#224;&quot;&gt;Le grand au-del&#224;&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Villes.html&quot; title=&quot;Les villes et communaut&#233;s&quot;&gt;Les villes&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html&quot; title=&quot;Le milieu aquatique&quot;&gt;Le milieu aquatique&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Courses-Poursuites.html&quot; title=&quot;Les courses poursuites&quot;&gt;Les courses poursuite&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Catastrophes.html&quot; title=&quot;Les catastrophes&quot;&gt;Les catastrophes&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Les drogues et la d&#233;pendance&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Apparitions.html&quot; title=&quot;Les apparitions&quot;&gt;Les apparitions&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Dangers.html&quot; title=&quot;Les dangers&quot;&gt;Les dangers&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;La sant&#233; mentale&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Galerie-De-Pnj.html&quot; title=&quot;Galerie de PNJ&quot;&gt;La galerie de PNJ&lt;/a&gt;.
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[[[https://paizo.com/products/btpy8ffn?Pathfinder-Roleplaying-Game-GameMastery-Guide|GameMastery Guide]] a été publié en Janvier 2010 par Paizo inc, puis réimprimé en Novembre 2010 et en Octobre 2013 afin d’y intégrer les évolutions de l'errata PZO1114 terminé en Janvier 2014.  
+Traduit et publié en français par Black Book Editions sous le nom de [[https://www.black-book-editions.fr/produit.php?id=3220|Guide du maître]], en Juin 2016 (pour sa troisième impression, intégrant les évolutions de l'errata cité).
+
+{toc}
+===Afflictions===
+====Drogues====
+<div class="article_3col">
+[[Drogues#ABSINTHEELFIQUE|Absinthe elfique]],  
+[[Drogues#BIERREDEFEUNAINE|Bière de feu naine]],  
+[[Drogues#ECORCHEFEUILLE|Écorchefeuille]],  
+[[Drogues#ETHER|Éther]],  
+[[Drogues#FRISSON|Frisson]],  
+[[Drogues#OPIUM|Opium]],  
+[[Drogues#PESH|Pesh]],  
+[[Drogues#PURGE|Purge]],  
+[[Drogues#ZERK|Zerk]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Folies====</div>
+<div class="article_3col">
+[[Santé mentale#AMNÉSIE|Amnésie]],  
+[[Santé mentale#PARANOÏA|Paranoïa]],  
+[[Santé mentale#TOC|TOC/Phobie]],  
+[[Santé mentale#PSYCHOSE|Manie/Psychose]],  
+[[Santé mentale#SCHIZOPHRÉNIE|Schizophrénie]],  
+[[Santé mentale#TROUBLEPERSONNALITÉMULTIPLE|Trouble de la Personnalité multiple]].
+</div>
+
+
+===Périls===
+====Apparitions====
+<div class="article_3col">
+[[Exemples dapparitions#MURSQUISAIGNENT|Murs qui saignent]].
+</div>
+
+
+===PNJs===
+<div class="article_3col">
+'''Amuseurs publiques.'''  
+[[PNJ Amuseurs publiques#BARDECELEBRE|Barde célèbre]],  
+[[PNJ Amuseurs publiques#CONTEUR|Conteur]],  
+[[PNJ Amuseurs publiques#MENESTREL|Ménestrel]].  
+  
+'''Arènes.'''  
+[[PNJ Arènes#CHAMPION|Champion]],  
+[[PNJ Arènes#GLADIATEUR|Gladiateur]],  
+[[PNJ Arènes#MAITREDESBETES|Maître des bêtes]].  
+  
+'''Armées.'''  
+[[PNJ Armées#GENERAL|Général]],  
+[[PNJ Armées#SOLDATDINFANTERIE|Soldat d'infanterie]],  
+[[PNJ Armées#SOLDATMONTE|Soldat monté]].  
+  
+'''Aventuriers.'''  
+[[PNJ Aventuriers#CHASSEURDEMONSTRES|Chasseur de monstres]],  
+[[PNJ Aventuriers#MAGEDECOMBAT|Mage de combat]],  
+[[PNJ Aventuriers#PILLEURDETOMBES|Pilleur de tombes]].  
+  
+'''Brigands.'''  
+[[PNJ Brigands#BANDIT|Bandit]],  
+[[PNJ Brigands#BANDITDEGRANDCHEMIN|Bandit de grand chemin]],  
+[[PNJ Brigands#SEIGNEURBANDIT|Seigneur bandit]].  
+  
+'''Criminels.'''  
+[[PNJ Criminels#CAMBRIOLEUR|Cambrioleur]],  
+[[PNJ Criminels#ESCLAVAGISTE|Esclavagiste]],  
+[[PNJ Criminels#MAITREDEGUILDE|Maître de guilde]],  
+[[PNJ Criminels#MALFRAT|Malfrat]],  
+[[PNJ Criminels#MEURTRIER|Meurtrier]],  
+[[PNJ Criminels#PICKPOCKET|Pickpocket]].  
+  
+'''Croisés.'''  
+[[PNJ Croisés#ECUYER|Écuyer]],  
+[[PNJ Croisés#GUERRIERSAINT|Guerrier saint]],  
+[[PNJ Croisés#SAINTHOMME|Saint homme]].  
+  
+'''Devins.'''  
+[[PNJ Devins#ANNONCIATEURDEMALHEURS|Annonciateur de malheurs]],  
+[[PNJ Devins#DISEUSEDEBONNEAVENTURE|Diseuse de bonne aventure]],  
+[[PNJ Devins#MEDIUM|Médium]].  
+  
+'''Donjons.'''  
+[[PNJ Donjons#BOURREAU|Bourreau]],  
+[[PNJ Donjons#GEOLIER|Geôlier]],  
+[[PNJ Donjons#PRISONNIER|Prisonnier]].  
+  
+'''Écoles de combat.'''  
+[[PNJ Écoles de combat#INITIE|Initié]],  
+[[PNJ Écoles de combat#MAITRE|Maître]],  
+[[PNJ Écoles de combat#MOINECOMBATTANT|Moine combattant]].  
+  
+'''Érudits.'''  
+[[PNJ Érudits#ARCHEOLOGUE|Archéologue]],  
+[[PNJ Érudits#MAGICIENAMATEUR|Magicien amateur]],  
+[[PNJ Érudits#SAGE|Sage]].  
+  
+'''Hérétiques.'''  
+[[PNJ Hérétiques#ADORATEUR|Adorateur]],  
+[[PNJ Hérétiques#CHEFDECULTE|Chef de culte]],  
+[[PNJ Hérétiques#CONJUREUR|Conjureur]].  
+  
+'''Maraudeurs.'''  
+[[PNJ Maraudeurs#CAPITAINEPIRATE|Capitaine pirate]],  
+[[PNJ Maraudeurs#PILLARD|Pillard]],  
+[[PNJ Maraudeurs#VIKING|Viking]].  
+  
+'''Marchands.'''  
+[[PNJ Marchands#COMMERCANT|Commerçant]],  
+[[PNJ Marchands#MARCHANDITINERANT|Marchand itinérant]],  
+[[PNJ Marchands#PRINCEMARCHAND|Prince marchand]].  
+  
+'''Marins.'''  
+[[PNJ Marins#CAPITAINE|Capitaine]],  
+[[PNJ Marins#MATELOT|Matelot]],  
+[[PNJ Marins#SECOND|Second]].  
+  
+'''Mercenaires.'''  
+[[PNJ Mercenaires#CHASSEURDEPRIMES|Chasseur de primes]],  
+[[PNJ Mercenaires#GARDEDECARAVANE|Garde de caravane]],  
+[[PNJ Mercenaires#MERCENAIREARME|Mercenaire armé]].  
+  
+'''Milices.'''  
+[[PNJ Milices#CAPITAINEDELAGARDE|Capitaine de la garde]],  
+[[PNJ Milices#GARDE|Garde]],  
+[[PNJ Milices#OFFICIER|Officier]].  
+  
+'''Nobles.'''  
+[[PNJ Nobles#CHEVALIER|Chevalier]],  
+[[PNJ Nobles#HERITIERNOBLE|Héritier noble]],  
+[[PNJ Nobles#NOBLE|Noble]].  
+  
+'''Routes.'''  
+[[PNJ Routes#PELERIN|Pèlerin]],  
+[[PNJ Routes#VAGABOND|Vagabond]],  
+[[PNJ Routes#VOYAGEUR|Voyageur]].  
+  
+'''Royautés.'''  
+[[PNJ Royautés#PRINCESSE|Princesse]],  
+[[PNJ Royautés#REINE|Reine]],  
+[[PNJ Royautés#ROI|Roi]].  
+  
+'''Rues.'''  
+[[PNJ Rues#MENDIANT|Mendiant]],  
+[[PNJ Rues#PROSTITUEE|Prostituée]],  
+[[PNJ Rues#REVENDEUR|Revendeur]].  
+  
+'''Tavernes.'''  
+[[PNJ Tavernes#IVROGNE|Ivrogne]],  
+[[PNJ Tavernes#SERVEUSE|Serveuse]],  
+[[PNJ Tavernes#TAVERNIER|Tavernier]].  
+   
+'''Temples.'''  
+[[PNJ Temples#ACOLYTE|Acolyte]],  
+[[PNJ Temples#HAUTPRETRE|Haut prêtre]],  
+[[PNJ Temples#PRETRE|Prêtre]],  
+  
+'''Terres sauvages.'''  
+[[PNJ Terres sauvages#ERMITE|Ermite]],  
+[[PNJ Terres sauvages#GUIDE|Guide]],  
+[[PNJ Terres sauvages#TRAPPEUR|Trappeur]].  
+  
+'''Tribus.'''  
+[[PNJ Tribus#CANNIBALE|Cannibale]],  
+[[PNJ Tribus#CHAMANE|Chamane]],  
+[[PNJ Tribus#CHEFDETRIBU|Chef de tribu]].  
+  
+'''Villageois.'''  
+[[PNJ Villageois#FERMIER|Fermier]],  
+[[PNJ Villageois#IDIOTDUVILLAGE|Idiot du village]],  
+[[PNJ Villageois#MAIRE|Maire]].
+</div>
+
+
+===Règles officielles===
+<div class="article_3col">
+[[Cadeaux|Les cadeaux des PNJs]],  
+[[Plans|Les plans]],  
+• [[Grand au-delà|Le grand au-delà]],  
+[[Villes|Les villes]],  
+[[Milieu aquatique|Le milieu aquatique]],  
+[[Courses poursuites|Les courses poursuite]],  
+[[Catastrophes|Les catastrophes]],  
+[[Drogues|Les drogues et la dépendance]],  
+[[Apparitions|Les apparitions]],  
+[[Dangers|Les dangers]],  
+[[Santé mentale|La santé mentale]],  
+[[Galerie de PNJ|La galerie de PNJ]].
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Guide du maître (Contenu)</fullName>
+</wikiPage>

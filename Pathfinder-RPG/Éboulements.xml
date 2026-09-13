@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les éboulements</title>
+  <categories><category>Pathfinder-RPG.Maitre du jeu</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs</category></categories>
+  <lastModified>2016-06-27 20:37:34Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.MainPage2</link><link>Pathfinder-RPG.Montagne</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Format de description des compétences</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Poids transportable</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Donjons</link><link>Pathfinder-RPG.Pièges</link><link>Pathfinder-RPG.Exemples de pièges</link><link>Pathfinder-RPG.Conception de pièges</link><link>Pathfinder-RPG.Aventures en extérieur</link><link>Pathfinder-RPG.Milieu aquatique</link><link>Pathfinder-RPG.Milieu urbain</link><link>Pathfinder-RPG.Climat</link><link>Pathfinder-RPG.Plans</link><link>Pathfinder-RPG.grand au-delà</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Aventures nautiques</link><link>Pathfinder-RPG.Catastrophes</link><link>Pathfinder-RPG.Coût de la vie</link><link>Pathfinder-RPG.Dangers</link><link>Pathfinder-RPG.Magie primordiale</link><link>Pathfinder-RPG.Villes</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Acc&#232;s rapide aux sections sur l&#39;environnement&lt;a class=&quot;headeranchor&quot; id=&quot;Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; href=&quot;#Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top; text-align: left&quot;&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDONJONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DONJONS&#39;);&quot; onmouseout=&quot;outButton(&#39;DONJONS&#39;);&quot; onclick=&quot;expandMenu(&#39;DONJONS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html&quot; title=&quot;Les donjons&quot;&gt;Les donjons&lt;/a&gt;
+    &lt;ul ID=&quot;DONJONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_diff&#233;rents_types_de_donjons_7&quot; title=&quot;Les donjons&quot;&gt;Les diff&#233;rents types de donjons&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_0&quot; title=&quot;Les donjons&quot;&gt;Les murs&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_sols_1&quot; title=&quot;Les donjons&quot;&gt;Les sols&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_portes_2&quot; title=&quot;Les donjons&quot;&gt;Les portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_les_portes_et_la_d&#233;tection_des_sorts_3&quot; title=&quot;Les donjons&quot;&gt;Les murs, les portes et la d&#233;tection des sorts&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_escaliers_4&quot; title=&quot;Les donjons&quot;&gt;Les escaliers&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_&#233;boulements_5&quot; title=&quot;Les donjons&quot;&gt;Les &#233;boulements&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Champignons_moisissures_et_limons_6&quot; title=&quot;Les donjons&quot;&gt;Champignons, moisissures et limons&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPIEGES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PIEGES&#39;);&quot; onmouseout=&quot;outButton(&#39;PIEGES&#39;);&quot; onclick=&quot;expandMenu(&#39;PIEGES&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les pi&#232;ges&lt;/a&gt;
+    &lt;ul ID=&quot;PIEGES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DESCRIPTION&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les diff&#233;rentes parties d&#39;un pi&#232;ge&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DIVERS&quot; title=&quot;Les pi&#232;ges&quot;&gt;&#201;l&#233;ments divers des pi&#232;ges&lt;/a&gt;&lt;/li&gt;&lt;br/&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exemples-De-Pi&#232;ges.html&quot; title=&quot;Exemples de pi&#232;ges&quot;&gt;Exemples de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conception-De-Pi&#232;ges.html&quot; title=&quot;Conception d&amp;#39;un pi&#232;ge&quot;&gt;Conception de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonEXTERIEUR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;EXTERIEUR&#39;);&quot; onmouseout=&quot;outButton(&#39;EXTERIEUR&#39;);&quot; onclick=&quot;expandMenu(&#39;EXTERIEUR&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les aventures en ext&#233;rieur&lt;/a&gt;
+    &lt;ul ID=&quot;EXTERIEUR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Se_perdre_4&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Se perdre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#For&#234;ts_5&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;For&#234;ts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_feux_de_for&#234;t_FP_G_0&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les feux de for&#234;t&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Mar&#233;cages_6&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Mar&#233;cages&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Collines_7&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Collines&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Montagnes_8&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Montagnes&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Avalanches_FP_H_1&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Avalanches&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Voyages_en_montagne_2&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Voyages en montagne&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#D&#233;serts_9&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;D&#233;serts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_temp&#234;tes_de_sable_3&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les temp&#234;tes de sable&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Plaines_10&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Plaines&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUAQUATIQUE&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUAQUATIQUE&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html&quot; title=&quot;Le milieu aquatique&quot;&gt;Le milieu aquatique&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUAQUATIQUE&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Combats_sous-marins_0&quot; title=&quot;Le milieu aquatique&quot;&gt;Combats sous-marins&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Inondations_1&quot; title=&quot;Le milieu aquatique&quot;&gt;Inondations&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUURBAIN&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUURBAIN&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUURBAIN&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUURBAIN&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html&quot; title=&quot;Le milieu urbain&quot;&gt;Le milieu urbain&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUURBAIN&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Murs_denceinte_et_portes_0&quot; title=&quot;Le milieu urbain&quot;&gt;Murs d&#39;enceinte et portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Gardes_et_soldats_1&quot; title=&quot;Le milieu urbain&quot;&gt;Gardes et soldats&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Machines_de_guerre_2&quot; title=&quot;Le milieu urbain&quot;&gt;Machines de guerre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_rues_de_la_ville_3&quot; title=&quot;Le milieu urbain&quot;&gt;Les rues de la ville&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Au-dessus_et_en_dessous_des_rues_4&quot; title=&quot;Le milieu urbain&quot;&gt;Au-dessus et en dessous des rues&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#B&#226;timents_5&quot; title=&quot;Le milieu urbain&quot;&gt;B&#226;timents&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_lumi&#232;res_de_la_ville_6&quot; title=&quot;Le milieu urbain&quot;&gt;Les lumi&#232;res de la ville&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLIMAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLIMAT&#39;);&quot; onmouseout=&quot;outButton(&#39;CLIMAT&#39;);&quot; onclick=&quot;expandMenu(&#39;CLIMAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html&quot; title=&quot;Le climat&quot;&gt;Le climat&lt;/a&gt;
+    &lt;ul ID=&quot;CLIMAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Pluie_neige_neige_fondue_et_gr&#234;le_1&quot; title=&quot;Le climat&quot;&gt;Pluie, neige, neige fondue et gr&#234;le&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Temp&#234;tes_2&quot; title=&quot;Le climat&quot;&gt;Temp&#234;tes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Brouillard_3&quot; title=&quot;Le climat&quot;&gt;Brouillard&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Vents_4&quot; title=&quot;Le climat&quot;&gt;Vents&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPLANS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PLANS&#39;);&quot; onmouseout=&quot;outButton(&#39;PLANS&#39;);&quot; onclick=&quot;expandMenu(&#39;PLANS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;Les plans&lt;/a&gt;
+    &lt;ul ID=&quot;PLANS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#D&#201;FINITIONPLAN&quot; title=&quot;Les plans&quot;&gt;Qu&#39;est-ce qu&#39;un plan ?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#CARACT&#201;RISTIQUESPLANS&quot; title=&quot;Les plans&quot;&gt;Caract&#233;ristiques des plans&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grand-Au-Del&#224;.html&quot; title=&quot;Le grand au-del&#224;&quot;&gt;Les plans du grand au-del&#224;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDANGNAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DANGNAT&#39;);&quot; onmouseout=&quot;outButton(&#39;DANGNAT&#39;);&quot; onclick=&quot;expandMenu(&#39;DANGNAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html&quot; title=&quot;Les dangers naturels&quot;&gt;Les dangers naturels&lt;/a&gt;
+    &lt;ul ID=&quot;DANGNAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ACIDE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;acide&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ASPHYXIE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;asphyxie&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHALEUR&quot; title=&quot;Les dangers naturels&quot;&gt;La chaleur&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTES&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTESOBJETS&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes d&#39;objets&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#EAU&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;eau&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FAIMSOIF&quot; title=&quot;Les dangers naturels&quot;&gt;La faim et la soif&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FUMEE&quot; title=&quot;Les dangers naturels&quot;&gt;La fum&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FROID&quot; title=&quot;Les dangers naturels&quot;&gt;Le froid&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#GLACE&quot; title=&quot;Les dangers naturels&quot;&gt;La glace&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#LAVE&quot; title=&quot;Les dangers naturels&quot;&gt;La lave&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#NOYADE&quot; title=&quot;Les dangers naturels&quot;&gt;La noyade&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#OBSCURITE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;obscurit&#233;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#PRENDREFEU&quot; title=&quot;Les dangers naturels&quot;&gt;Prendre feu&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-Nautiques.html&quot; title=&quot;Les aventures nautiques&quot;&gt;Les aventures nautiques&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Catastrophes.html&quot; title=&quot;Les catastrophes&quot;&gt;Les catastrophes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Co&#251;t-De-La-Vie.html&quot; title=&quot;Le co&#251;t de la vie&quot;&gt;Le co&#251;t de la vie&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers.html&quot; title=&quot;Les dangers&quot;&gt;Les dangers inhabituels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Primordiale.html&quot; title=&quot;La magie primordiale&quot;&gt;La magie primordiale&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Villes.html&quot; title=&quot;Les villes et communaut&#233;s&quot;&gt;Les villes et communaut&#233;s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br /&gt;Les &#233;boulements de cavernes et de galeries sont extr&#234;mement dangereux. Les intr&#233;pides explorateurs risquent de se faire tuer par plusieurs tonnes de pierre et de terre et, m&#234;me s’ils survivent, ils risquent encore de se retrouver bloqu&#233;s sous les d&#233;combres ou de voir leur unique issue bloqu&#233;e. L’&#233;boulement ensevelit quiconque se trouve au centre de la zone affect&#233;e et inflige des d&#233;g&#226;ts aux cr&#233;atures proches. Un couloir touch&#233; par ce ph&#233;nom&#232;ne est enseveli sous les gravats dans un rayon de quatre m&#232;tres cinquante et les cr&#233;atures qui se trouvent &#224; moins de trois m&#232;tres de chaque c&#244;t&#233; de cette zone subissent des d&#233;g&#226;ts bien qu’elles ne soient pas englouties sous les d&#233;combres. Un test de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (architecture et ing&#233;nierie) ou &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (ma&#231;onnerie) de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 permet de rep&#233;rer un plafond fragilis&#233;. N’oubliez pas que l’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; peut &#234;tre utilis&#233; comme une &lt;a class=&quot;pagelink&quot; href=&quot;Format-De-Description-Des-Comp&#233;tences.html#UTILISABLESANSFORMATION&quot; title=&quot;Format de description des comp&#233;tences&quot;&gt;comp&#233;tence inn&#233;e&lt;/a&gt;, tout comme les tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;. Un nain qui passe &#224; moins de trois m&#232;tres d’un tel plafond a automatiquement droit &#224; un test.&lt;br /&gt;&lt;br /&gt;Un plafond fragilis&#233; peut s’effondrer en cas de choc violent. Un aventurier peut provoquer un &#233;boulement en d&#233;truisant la moiti&#233; des piliers de sout&#232;nement.&lt;br /&gt;&lt;br /&gt;Les personnages ensevelis subissent 8d6 points de d&#233;g&#226;ts, r&#233;duits de moiti&#233; s’ils r&#233;ussissent un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15. Ils sont ensuite immobilis&#233;s. Ceux qui se trouvent en bordure de l’effondrement perdent seulement 3d6 points de vie, voire aucun s’ils r&#233;ussissent leur jet de R&#233;flexes. S’ils ratent ce jet, ils sont ensevelis.&lt;br /&gt;&lt;br /&gt;Les personnages ensevelis subissent 1d6 points de d&#233;g&#226;ts non-l&#233;taux par minute. S’ils perdent connaissance, ils doivent faire un test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 par minute. En cas d’&#233;chec, ils perdent 1d6 points de vie par minute jusqu’&#224; ce qu’on les lib&#232;re ou qu’ils p&#233;rissent &#233;touff&#233;s.&lt;br /&gt;&lt;br /&gt;Les personnages libres peuvent d&#233;terrer leurs amis. Un personnage qui d&#233;blaye les d&#233;combres &#224; mains nues peut, chaque minute, d&#233;gager un poids correspondant &#224; cinq fois sa &lt;a class=&quot;pagelink&quot; href=&quot;Poids-Transportable.html&quot; title=&quot;Poids transportable&quot;&gt;charge maximale autoris&#233;e&lt;/a&gt;. On consid&#232;re qu’il y a une tonne de gravats dans une zone d’un m&#232;tre cinquante de c&#244;t&#233;. Un personnage &#233;quip&#233; d’un outil tel qu’une pelle, une pioche ou m&#234;me une barre de fer peut d&#233;blayer deux fois plus de d&#233;combres que s’il travaille &#224; mains nues. Un personnage enseveli peut tenter de se d&#233;gager &#224; l’aide d’un test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 25.
+]]></body>
+  <raw><![CDATA[{s:MenuEnvironnement}
+
+Les éboulements de cavernes et de galeries sont extrêmement dangereux. Les intrépides explorateurs risquent de se faire tuer par plusieurs tonnes de pierre et de terre et, même s’ils survivent, ils risquent encore de se retrouver bloqués sous les décombres ou de voir leur unique issue bloquée. L’éboulement ensevelit quiconque se trouve au centre de la zone affectée et inflige des dégâts aux créatures proches. Un couloir touché par ce phénomène est enseveli sous les gravats dans un rayon de quatre mètres cinquante et les créatures qui se trouvent à moins de trois mètres de chaque côté de cette zone subissent des dégâts bien qu’elles ne soient pas englouties sous les décombres. Un test de [[Connaissances]] (architecture et ingénierie) ou [[Artisanat]] (maçonnerie) de [[DD]] 20 permet de repérer un plafond fragilisé. N’oubliez pas que l’[[Artisanat]] peut être utilisé comme une [[Format de description des compétences#UTILISABLESANSFORMATION|compétence innée]], tout comme les tests d’[[Intelligence]]. Un nain qui passe à moins de trois mètres d’un tel plafond a automatiquement droit à un test.
+
+Un plafond fragilisé peut s’effondrer en cas de choc violent. Un aventurier peut provoquer un éboulement en détruisant la moitié des piliers de soutènement.
+
+Les personnages ensevelis subissent 8d6 points de dégâts, réduits de moitié s’ils réussissent un [[Jet de sauvegarde|jet de Réflexes]] [[DD]] 15. Ils sont ensuite immobilisés. Ceux qui se trouvent en bordure de l’effondrement perdent seulement 3d6 points de vie, voire aucun s’ils réussissent leur jet de Réflexes. S’ils ratent ce jet, ils sont ensevelis.
+
+Les personnages ensevelis subissent 1d6 points de dégâts non-létaux par minute. S’ils perdent connaissance, ils doivent faire un test de [[Constitution]] [[DD]] 15 par minute. En cas d’échec, ils perdent 1d6 points de vie par minute jusqu’à ce qu’on les libère ou qu’ils périssent étouffés.
+
+Les personnages libres peuvent déterrer leurs amis. Un personnage qui déblaye les décombres à mains nues peut, chaque minute, dégager un poids correspondant à cinq fois sa [[Poids transportable|charge maximale autorisée]]. On considère qu’il y a une tonne de gravats dans une zone d’un mètre cinquante de côté. Un personnage équipé d’un outil tel qu’une pelle, une pioche ou même une barre de fer peut déblayer deux fois plus de décombres que s’il travaille à mains nues. Un personnage enseveli peut tenter de se dégager à l’aide d’un test de [[Force]] [[DD]] 25.]]></raw>
+  <fullName>Pathfinder-RPG.Éboulements</fullName>
+</wikiPage>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Psychopompe, Ahmuuth</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-08-14 17:53:32Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type psychopompe</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Destruction de mort-vivant</link><link>Pathfinder-RPG.Détection des morts-vivants</link><link>Pathfinder-RPG.Perception de la mort</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.sort Saignement</link><link>Pathfinder-RPG.Convocation (capacité)</link><link>Pathfinder-RPG.Grand-duc</link><link>Pathfinder-RPG.Contact glacial</link><link>Pathfinder-RPG.Main spectrale</link><link>Pathfinder-RPG.Requiem pour les fantômes</link><link>Pathfinder-RPG.Silence</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Communication avec les morts</link><link>Pathfinder-RPG.Déguisement fantomatique</link><link>Pathfinder-RPG.Localisation de créature</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.UOM</link><link>Pathfinder-RPG.dague (arme)</link><link>Pathfinder-RPG.boomerang (propriété)</link><link>Pathfinder-RPG.tueuse (propriété)</link><link>Pathfinder-RPG.Psychopompes</link><link>Pathfinder-RPG.Pharasma (technique)</link><link>Pathfinder-RPG.Morrigna</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ahmuuth&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Dieux-De-La-Mer-Int&#233;rieure-(Contenu).html&quot; title=&quot;Dieux de la mer Int&#233;rieure (Contenu)&quot;&gt;Dieux de la mer Int&#233;rieure p.303&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Psychopompe.html&quot; title=&quot;Psychopompe (sous-type)&quot;&gt;psychopompe&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; perception spirituelle, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 11, pris au d&#233;pourvu 17 (bouclier +4, Dex +1, naturelle +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 45 (6d10+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; bouclier anim&#233; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; effets de mort, maladie, poison ; &lt;b&gt;RD&lt;/b&gt; 5/adamantine ; &lt;b&gt;R&#233;sistances&lt;/b&gt; &#233;lectricit&#233; 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;dague boomerang tueuse de morts-vivants +1&lt;/i&gt; +8/+3 (1d4+1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; &lt;i&gt;dague boomerang tueuse de morts-vivants +1&lt;/i&gt; +9 (1d4+1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 6 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Destruction-De-Mort-Vivant.html&quot; title=&quot;Destruction de mort-vivant&quot;&gt;destruction de mort-vivant&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Des-Morts-Vivants.html&quot; title=&quot;D&#233;tection des morts-vivants&quot;&gt;d&#233;tection des morts-vivants&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Mort.html&quot; title=&quot;Perception de la mort&quot;&gt;perception de la mort&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt; (DD 11), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Saignement.html&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-(Capacit&#233;).html&quot; title=&quot;Convocation (Mag)&quot;&gt;convocation&lt;/a&gt;&lt;/i&gt; (niveau 1, 1 &lt;a class=&quot;pagelink&quot; href=&quot;Grand-Duc.html&quot; title=&quot;Chouette, Grand-duc&quot;&gt;grand-duc&lt;/a&gt; 100%)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contact-Glacial.html&quot; title=&quot;Contact glacial&quot;&gt;contact glacial&lt;/a&gt;&lt;/i&gt; (DD 12), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Main-Spectrale.html&quot; title=&quot;Main spectrale&quot;&gt;main spectrale&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Requiem-Pour-Les-Fant&#244;mes.html&quot; title=&quot;Requiem pour les fant&#244;mes&quot;&gt;requiem pour les fant&#244;mes&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Silence.html&quot; title=&quot;Silence&quot;&gt;silence&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (lui-m&#234;me plus 25kg d&#39;objets uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Morts.html&quot; title=&quot;Communication avec les morts&quot;&gt;communication avec les morts&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement-Fantomatique.html&quot; title=&quot;D&#233;guisement fantomatique&quot;&gt;d&#233;guisement fantomatique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-De-Cr&#233;ature.html&quot; title=&quot;Localisation de cr&#233;ature&quot;&gt;localisation de cr&#233;ature&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6 ; &lt;b&gt;BMO&lt;/b&gt; +6 ; &lt;b&gt;DMD&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (dague), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;UOM&quot;&gt;Utilisation d&#39;objets magiques&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; dague de la Mort, concentration ectoplasmique, contact spectral
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Cimeti&#232;re)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple, ou inquisition (3–8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Bouclier anim&#233; (Sur).&lt;/b&gt; Les tombes d&#39;un ahmuuth le d&#233;fendent d&#39;une fa&#231;on similaire &#224; un &lt;i&gt;bouclier anim&#233;&lt;/i&gt; mais sans limite de dur&#233;e. Si les pierres quittent la case du psychopompe ou que l&#39;ahmuuth est tu&#233;, elles deviennent des pierres inertes.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Concentration ectoplasmique (Sur).&lt;/b&gt; Les sorts et les pouvoirs magiques d&#39;un ahmuuth ont leur plein effet contre les cr&#233;atures &#233;th&#233;r&#233;es et intangibles.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dague de la Mort (Sur).&lt;/b&gt; La dague d&#39;un ahmuuth est consid&#233;r&#233;e comme une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dague-(Arme).html&quot; title=&quot;Dague&quot;&gt;dague&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Boomerang.html&quot; title=&quot;boomerang (propri&#233;t&#233;)&quot;&gt;boomerang&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Tueuse.html&quot; title=&quot;tueuse (propri&#233;t&#233;)&quot;&gt;tueuse&lt;/a&gt; de morts-vivants +1&lt;/i&gt;. Elle perd ses propri&#233;t&#233;s si elle est tenue par une autre cr&#233;ature que l&#39;ahmuuth, et les retrouvent une fois en sa possession.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Psychopompes.html&quot; title=&quot;Les psychopompes&quot;&gt;psychopompes&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Cet humano&#239;de sombrement v&#234;tu porte un masque sinistre. Des pierres tombales flottent pr&#232;s de lui comme de lourds boucliers.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Un ahmuuth est un serviteur de &lt;a class=&quot;pagelink&quot; href=&quot;Pharasma-(Technique).html&quot; title=&quot;Pharasma&quot;&gt;Pharasma&lt;/a&gt; charg&#233; d&#39;aider les mortels &#224; d&#233;truire les morts-vivants et &#224; exp&#233;dier les &#226;mes ren&#233;gates qui &#233;chappent au jugement de la d&#233;esse. Contrairement aux psychopompes &lt;a class=&quot;pagelink&quot; href=&quot;Morrigna.html&quot; title=&quot;Psychopompe, Morrigna&quot;&gt;morrigna&lt;/a&gt;, qui chassent seuls les &#226;mes perdues ou corrompues, les ahmuuths travaillent avec les adorateurs mortels de Pharasma et tentent d&#39;amener des cr&#233;atures comme les fant&#244;mes &#224; une fin paisible - quand ils le peuvent. Lorsqu&#39;ils ne le peuvent pas, ils n&#39;h&#233;sitent pas &#224; forcer les esprits rebelles &#224; faire face au jugement de leur d&#233;esse. Un ahmuuth ressemble &#224; un humano&#239;de portant un masque de hibou, et est toujours accompagn&#233; de tessons de pierre tombale flottants qui lui servent de bouclier. Comme les hiboux, les ahmuuths sont des r&#244;deurs silencieux qui ne se r&#233;v&#232;lent qu&#39;au moment de l&#39;attaque. Les ahmuuths mesurent un peu plus d&#39;un m&#232;tre quatre-vingt-dix et p&#232;sent environ 75 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ahmuuth|FP 4}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : [[Dieux de la mer Intérieure (Contenu)|Dieux de la mer Intérieure p.303]]''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type psychopompe|psychopompe]]) de taille M, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' perception spirituelle, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 11, pris au dépourvu 17 (bouclier +4, Dex +1, naturelle +3)}
+{s:BDTexte|'''pv''' 45 (6d10+12)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +9, '''Vol''' +8}
+{s:BDTexte|'''Capacités défensives''' bouclier animé ; '''Immunités''' effets de mort, maladie, poison ; '''RD''' 5/adamantine ; '''Résistances''' électricité 10, froid 10 ; '''RM''' 15}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' ''dague boomerang tueuse de morts-vivants +1'' +8/+3 (1d4+1/19–20)}
+{s:BDTexte|'''Distance''' ''dague boomerang tueuse de morts-vivants +1'' +9 (1d4+1/19–20)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 6 ; [[concentration]] +7)}
+{s:BDSorts|À volonté — ''[[destruction de mort-vivant]]'', ''[[détection des morts-vivants]]'', ''[[perception de la mort]]'', ''[[son imaginaire]]'' (DD 11), ''[[sort Saignement|saignement]]'', ''[[Convocation (capacité)|convocation]]'' (niveau 1, 1 [[grand-duc]] 100%)}
+{s:BDSorts|3/jour — ''[[contact glacial]]'' (DD 12), ''[[main spectrale]]'', ''[[requiem pour les fantômes]]'' (DD 13), ''[[silence]]'' (DD 13), ''[[téléportation suprême]]'' (lui-même plus 25kg d'objets uniquement)}
+{s:BDSorts|1/jour — ''[[communication avec les morts]]'', ''[[déguisement fantomatique]]'', ''[[localisation de créature]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 13, '''Con''' 15, '''Int''' 10, '''Sag''' 13, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +6 ; '''DMD''' 17}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (dague), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (religion) +9, [[Discrétion]] +10, [[Perception]] +10, [[Psychologie]] +10, [[Survie]] +10, [[UOM|Utilisation d'objets magiques]] +10}
+{s:BDTexte|'''Langues''' abyssal, céleste, infernal}
+{s:BDTexte|'''Particularités''' dague de la Mort, concentration ectoplasmique, contact spectral}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Cimetière)}
+{s:BDTexte|'''Organisation''' solitaire, couple, ou inquisition (3–8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Bouclier animé (Sur).''' Les tombes d'un ahmuuth le défendent d'une façon similaire à un ''bouclier animé'' mais sans limite de durée. Si les pierres quittent la case du psychopompe ou que l'ahmuuth est tué, elles deviennent des pierres inertes.}
+{s:BDTexte|'''Concentration ectoplasmique (Sur).''' Les sorts et les pouvoirs magiques d'un ahmuuth ont leur plein effet contre les créatures éthérées et intangibles.}
+{s:BDTexte|'''Dague de la Mort (Sur).''' La dague d'un ahmuuth est considérée comme une ''[[dague (arme)|dague]] [[boomerang (propriété)|boomerang]] [[tueuse (propriété)|tueuse]] de morts-vivants +1''. Elle perd ses propriétés si elle est tenue par une autre créature que l'ahmuuth, et les retrouvent une fois en sa possession.}
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Psychopompes|psychopompes]].'''''</li></ul>
+''Cet humanoïde sombrement vêtu porte un masque sinistre. Des pierres tombales flottent près de lui comme de lourds boucliers.''
+
+Un ahmuuth est un serviteur de [[Pharasma (technique)|Pharasma]] chargé d'aider les mortels à détruire les morts-vivants et à expédier les âmes renégates qui échappent au jugement de la déesse. Contrairement aux psychopompes [[morrigna]], qui chassent seuls les âmes perdues ou corrompues, les ahmuuths travaillent avec les adorateurs mortels de Pharasma et tentent d'amener des créatures comme les fantômes à une fin paisible - quand ils le peuvent. Lorsqu'ils ne le peuvent pas, ils n'hésitent pas à forcer les esprits rebelles à faire face au jugement de leur déesse. Un ahmuuth ressemble à un humanoïde portant un masque de hibou, et est toujours accompagné de tessons de pierre tombale flottants qui lui servent de bouclier. Comme les hiboux, les ahmuuths sont des rôdeurs silencieux qui ne se révèlent qu'au moment de l'attaque. Les ahmuuths mesurent un peu plus d'un mètre quatre-vingt-dix et pèsent environ 75 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ahmuuth</fullName>
+</wikiPage>

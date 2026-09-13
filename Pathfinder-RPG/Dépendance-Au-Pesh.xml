@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dépendance au pesh</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Src Guide du Katapesh</category></categories>
+  <lastModified>2025-06-21 16:26:07Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Sahir-afiyun</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Sahir-afiyun</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Drogues</link><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.branche coercition</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Mission</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Miracle</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.Souhait limité</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+	$(function(){
+		$(&#39;.CSU1&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Cities of Golarion/Cit&#233;s de Golarion)&quot;);
+		$(&#39;.CSU2&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Lost Cities of Golarion/Cit&#233;s perdues de Golarion)&quot;);
+		$(&#39;.CSU3&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Dungeons of Golarion/Donjons de Golarion)&quot;);
+		$(&#39;.CSU4&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Guide to Korvosa/Guide de Korvosa)&quot;);
+		$(&#39;.CSU5&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (The Worldwound/Guide de la Plaie du monde)&quot;);
+		$(&#39;.CSU6&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Isles of the Shackles/Guide des Cha&#238;nes)&quot;);
+		$(&#39;.CSU7&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Guide to the River Kingdoms/Guide des Royaumes fluviaux)&quot;);
+		$(&#39;.CSU8&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Dark Markets - A Guide to Katapesh/Guide du Katapesh)&quot;);
+		$(&#39;.CSU9&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Guide to Darkmoon Vale/Guide du Val de Sombrelune)&quot;);
+		$(&#39;.CSU10&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Irrisen - Land of Eternal Winter/Irrisen, Pays de l&#39;hiver &#233;ternel)&quot;);
+		$(&#39;.CSU11&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Ships of the Inner Sea/Navires de la mer Int&#233;rieure)&quot;)
+	});
+&lt;/script&gt;
+&lt;a class=&quot;CSU8&quot; href=&quot;/Wiki/Pathfinder-RPG.Courts suppl&#233;ments univers (Contenu).ashx#8&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/LogoCSU.jpg&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;u&gt;&lt;b&gt;&lt;i&gt;Contenu issu d&#39;un suppl&#233;ment 3.5&lt;/i&gt;&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sahir-Afiyun.html&quot; title=&quot;Sahir-afiyun&quot;&gt;Sahir-afiyun&lt;/a&gt; 5  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 10 minutes  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, M&lt;/a&gt; (1 dose de lait de pesh)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)  
+&lt;b&gt;Cible&lt;/b&gt; 1 cr&#233;ature vivante  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 jour/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; ou jusqu’&#224; accomplissement (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;T&lt;/a&gt;)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui
+&lt;hr&gt;
+Ce sort fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/i&gt;, except&#233; le fait que le seul ordre autoris&#233; soit de &#171; consommer du &lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html#PESH&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;pesh&lt;/a&gt; ou du pesh raffin&#233; &#187;.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;
+&lt;h1 class=&quot;separator&quot;&gt;Qu&#234;te&lt;a class=&quot;headeranchor&quot; id=&quot;Qu&#234;te_0&quot; href=&quot;#Qu&#234;te_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Coercition.html&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;langage, mal&#233;diction, mental&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 6, &lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;Hyp&lt;/a&gt; 6, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 6, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 6, &lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Psy&lt;/a&gt; 6, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor&lt;/a&gt; 6  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 10 minutes  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)  
+&lt;b&gt;Cible&lt;/b&gt; 1 cr&#233;ature vivante  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 jour/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; ou jusqu’&#224; accomplissement (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;T&lt;/a&gt;)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui
+&lt;hr&gt;
+Ce sort est semblable &#224; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mission.html&quot; title=&quot;Mission&quot;&gt;mission&lt;/a&gt;&lt;/i&gt;, si ce n’est qu’il affecte un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; de la cr&#233;ature illimit&#233; et n’autorise aucun &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Si le sujet ne peut accomplir sa &lt;i&gt;qu&#234;te&lt;/i&gt; pendant vingt-quatre heures, il subit un malus de -3 &#224; chaque valeur de caract&#233;ristique. Ces malus s’accumulent chaque jour, jusqu’&#224; un total de -12, mais les valeurs de caract&#233;ristiques ne descendent jamais en dessous de 1. Ces malus disparaissent vingt-quatre heures apr&#232;s que le sujet s’est r&#233;attel&#233; &#224; sa &lt;i&gt;qu&#234;te&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-Des-Mal&#233;dictions.html&quot; title=&quot;D&#233;livrance des mal&#233;dictions&quot;&gt;D&#233;livrance des mal&#233;dictions&lt;/a&gt;&lt;/i&gt; peut mettre un terme &#224; &lt;i&gt;qu&#234;te&lt;/i&gt;, mais seulement si le personnage qui le lance a au moins deux &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveaux de lanceur de sorts&lt;/a&gt; de plus que celui qui a assign&#233; la qu&#234;te. &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Annulation-Denchantement.html&quot; title=&quot;Annulation d&amp;#39;enchantement&quot;&gt;Annulation d’enchantement&lt;/a&gt;&lt;/i&gt; est sans effet. Par contre, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Miracle.html&quot; title=&quot;Miracle&quot;&gt;miracle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;&lt;/i&gt; et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait-Limit&#233;.html&quot; title=&quot;Souhait limit&#233;&quot;&gt;souhait limit&#233;&lt;/a&gt;&lt;/i&gt; mettent un terme &#224; ce sort.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Qu&#234;te&lt;/i&gt; est le terme universellement reconnu par les &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magiciens&lt;/a&gt;, les &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleurs&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;bardes&lt;/a&gt;, mais les &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tres&lt;/a&gt; des clerg&#233;s particuli&#232;rement militants le baptisent croisade.
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:CSU|8}__'''''Contenu issu d'un supplément 3.5'''''__
+
+'''École''' [[Nécromancie]] ; '''Niveau''' [[Sahir-afiyun]] 5  
+'''Temps d'incantation''' 10 minutes  
+'''Composantes''' [[composantes|V, M]] (1 dose de lait de pesh)  
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+'''Cible''' 1 créature vivante  
+'''Durée''' 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' oui
+<hr>
+Ce sort fonctionne comme ''[[quête]]'', excepté le fait que le seul ordre autorisé soit de « consommer du [[Drogues#PESH|pesh]] ou du pesh raffiné ».
+
+
+
+(((
+==Quête==
+'''École''' [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|langage, malédiction, mental]]<nowiki>]</nowiki> ; '''Niveau''' [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6  
+'''Temps d'incantation''' 10 minutes  
+'''Composantes''' [[composantes|V]]  
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+'''Cible''' 1 créature vivante  
+'''Durée''' 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' oui
+<hr>
+Ce sort est semblable à ''[[mission]]'', si ce n’est qu’il affecte un nombre de [[DV]] de la créature illimité et n’autorise aucun [[jet de sauvegarde]].
+
+Si le sujet ne peut accomplir sa ''quête'' pendant vingt-quatre heures, il subit un malus de -3 à chaque valeur de caractéristique. Ces malus s’accumulent chaque jour, jusqu’à un total de -12, mais les valeurs de caractéristiques ne descendent jamais en dessous de 1. Ces malus disparaissent vingt-quatre heures après que le sujet s’est réattelé à sa ''quête''.
+
+''[[Délivrance des malédictions]]'' peut mettre un terme à ''quête'', mais seulement si le personnage qui le lance a au moins deux [[NLS|niveaux de lanceur de sorts]] de plus que celui qui a assigné la quête. ''[[annulation denchantement|Annulation d’enchantement]]'' est sans effet. Par contre, ''[[miracle]]'', ''[[souhait]]'' et ''[[souhait limité]]'' mettent un terme à ce sort.
+
+''Quête'' est le terme universellement reconnu par les [[magicien|magiciens]], les [[ensorceleur|ensorceleurs]] et les [[barde|bardes]], mais les [[prêtre|prêtres]] des clergés particulièrement militants le baptisent croisade.
+)))]]></raw>
+  <fullName>Pathfinder-RPG.Dépendance au pesh</fullName>
+</wikiPage>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Succession de défis</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2020-10-07 17:36:37Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Commandant hobgobelin</link><link>Pathfinder-RPG.Hobgobelin (race)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Hobgobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Hobgobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Hobgobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Hobgobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Hobgobelin-(Race).html&quot; title=&quot;Les hobgobelins&quot;&gt;hobgobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;i&gt;Le personnage se nourrit de l’ivresse de la victoire et profite de cette ferveur pour se battre.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; Pouvoir de classe &lt;a class=&quot;pagelink&quot; href=&quot;Chevalier.html#DEFI&quot; title=&quot;Le chevalier&quot;&gt;d&#233;fi&lt;/a&gt;, personnage de niveau 7&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Quand la cible du d&#233;fi du personnage meurt ou tombe &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Inconscient.html&quot; title=&quot;Inconscient&quot;&gt;inconsciente&lt;/a&gt;, il peut lancer un nouveau d&#233;fi &#224; une cible situ&#233;e dans un rayon de 9 m&#232;tres par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Immediate.html&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;. Il doit le faire imm&#233;diatement apr&#232;s la d&#233;faite de la cible du premier d&#233;fi et, s’il n’est pas en mesure d’agir &#224; ce moment-l&#224;, il ne peut plus le faire ensuite. S’il lance un nouveau d&#233;fi en utilisant ce don, le d&#233;fi n’est pas d&#233;compt&#233; de son nombre d’utilisations quotidiennes. Apr&#232;s le premier d&#233;fi, il peut en encha&#238;ner un nombre ne d&#233;passant pas son bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; (1 au minimum).
+]]></body>
+  <raw><![CDATA[{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:cm}''Le personnage se nourrit de l’ivresse de la victoire et profite de cette ferveur pour se battre.''
+
+'''Conditions.''' Pouvoir de classe [[Chevalier#DEFI|défi]], personnage de niveau 7
+
+'''Avantages.''' Quand la cible du défi du personnage meurt ou tombe [[inconscient|inconsciente]], il peut lancer un nouveau défi à une cible située dans un rayon de 9 mètres par une [[action immédiate]]. Il doit le faire immédiatement après la défaite de la cible du premier défi et, s’il n’est pas en mesure d’agir à ce moment-là, il ne peut plus le faire ensuite. S’il lance un nouveau défi en utilisant ce don, le défi n’est pas décompté de son nombre d’utilisations quotidiennes. Après le premier défi, il peut en enchaîner un nombre ne dépassant pas son bonus de [[Charisme]] (1 au minimum).]]></raw>
+  <fullName>Pathfinder-RPG.Succession de défis</fullName>
+</wikiPage>

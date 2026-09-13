@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kikimore</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-20 15:26:05Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Fée</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Appel des pierres</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Prestidigitation</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Silence forcé</link><link>Pathfinder-RPG.Cassé</link><link>Pathfinder-RPG.Charme-animal</link><link>Pathfinder-RPG.Frappe douloureuse</link><link>Pathfinder-RPG.Sommeil profond</link><link>Pathfinder-RPG.Image accomplie</link><link>Pathfinder-RPG.Nuée grouillante</link><link>Pathfinder-RPG.Réparation intégrale</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Esprits du foyer</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Kikimore&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;F&#233;e&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/F&#233;e.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.162&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-F&#233;e.html&quot; title=&quot;F&#233;e&quot;&gt;F&#233;e&lt;/a&gt; de taille M, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 15, pris au d&#233;pourvu 13 (Dex +4, esquive +1, naturelle +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 45 (7d6+21)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/fer froid ; &lt;b&gt;RM&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +7 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 7 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +12)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Appel-Des-Pierres.html&quot; title=&quot;Appel des pierres&quot;&gt;appel des pierres&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt; (sur elle-m&#234;me uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestidigitation.html&quot; title=&quot;Prestidigitation&quot;&gt;prestidigitation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Silence-Forc&#233;.html&quot; title=&quot;Silence forc&#233;&quot;&gt;silence forc&#233;&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cass&#233;.html&quot; title=&quot;Cass&#233;&quot;&gt;cass&#233;&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Animal.html&quot; title=&quot;Charme-animal&quot;&gt;charme-animal&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frappe-Douloureuse.html&quot; title=&quot;Frappe douloureuse&quot;&gt;frappe douloureuse&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil-Profond.html&quot; title=&quot;Sommeil profond&quot;&gt;sommeil profond&lt;/a&gt;&lt;/i&gt; (DD 18)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Accomplie.html&quot; title=&quot;Image accomplie&quot;&gt;image accomplie&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-Grouillante.html&quot; title=&quot;Nu&#233;e grouillante&quot;&gt;nu&#233;e grouillante&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration-Int&#233;grale.html&quot; title=&quot;R&#233;paration int&#233;grale&quot;&gt;r&#233;paration int&#233;grale&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, Discr&#233;tionS, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; cachette
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; urbain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Cachette (Sur).&lt;/b&gt; Quand une kikimore choisit de s’installer dans une maison, elle est capable de cr&#233;er un espace extradimensionnel en inscrivant un symbole sur un mur, une plinthe, un placard, ou tout autre objet permanent (comme un po&#234;le). Ce symbole sert de porte d’entr&#233;e dans le minuscule domaine de la kikimore, o&#249; elle peut vivre dans la maison sans &#234;tre d&#233;tect&#233;e. Seule la kikimore peut p&#233;n&#233;trer dans sa cachette. Une fois qu’elle a d&#233;sign&#233; une cachette et tant qu’elle se trouve dans la m&#234;me pi&#232;ce que le symbole, &#224; n’importe quel moment, une kikimore peut, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, se transporter dans sa cachette avec 25 kilos d’objets maximum. La kikimore peut quitter sa cachette de la m&#234;me mani&#232;re et elle appara&#238;t alors dans l’emplacement vide le plus proche du symbole. Tout objet laiss&#233; dans la cachette y reste quand la kikimore quitte son espace extradimensionnel, m&#234;me si elle efface le symbole et l’inscrit &#224; un autre endroit. Pendant qu’elle se trouve dans sa cachette, la kikimore peut voir ce qui se passe en dehors gr&#226;ce &#224; un d&#233;tecteur sp&#233;cial, comme si elle se trouvait &#224; l’endroit o&#249; est positionn&#233; son symbole. Il en d&#233;coule que tout objet d&#233;pos&#233; devant le symbole est susceptible d’entraver la vision de la kikimore.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Les traits de cette vieille femme sont proches de ceux d’un oiseau. Son long nez ressemble &#224; un bec, ses mains sont griffues et ses pieds sont semblables &#224; des pattes d’oiseau.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les kikimores sont des &lt;a class=&quot;pagelink&quot; href=&quot;Esprits-Du-Foyer.html&quot; title=&quot;Les esprits du foyer&quot;&gt;esprits du foyer&lt;/a&gt; qui tourmentent ceux chez qui elles vivent, &#224; moins que les pauvres victimes ne les nourrissent et les cajolent. Elles prennent plaisir &#224; jouer avec les nerfs des propri&#233;taires des maisons en utilisant des illusions pour faire para&#238;tre l’habitat bien plus sale qu’il ne l’est en r&#233;alit&#233;. Leurs illusions favorites sont celles de vermines grouillantes. Les kikimores sont les ennemies des lutins. Mais alors que les lutins sont plut&#244;t taquins, les kikimores pr&#233;f&#232;rent infliger des peines aux colocataires qu’elles se sont choisies plut&#244;t que de les aider dans leurs t&#226;ches quotidiennes. Certains lutins cherchent volontairement des maisons infest&#233;es par une kikimore afin d’en d&#233;loger cette cr&#233;ature f&#233;&#233;rique nuisible. Si les propri&#233;taires d’une maison refusent d’apaiser la kikimore r&#233;sidente (ou n’arrivent pas &#224; se d&#233;barrasser de sa pr&#233;sence malvenue), celle-ci peut leur envoyer des nu&#233;es d’araign&#233;es, de rats ou de chauves-souris. Ces f&#233;es employant des ruses subtiles, les habitants des maisons qui subissent leur pr&#233;sence croient souvent avoir affaire &#224; des fant&#244;mes.&lt;br /&gt;&lt;br /&gt;Les kikimores adorent briser des choses en secret ou faire passer ces actes de destruction pour des accidents. Elles trompent ainsi les habitants de leur logis afin qu’ils laissent des cadeaux en &#233;change de r&#233;parations &#224; la nuit tomb&#233;e, &#224; la grande indignation des lutins, qui voient de tels cadeaux comme des paiements pour services rendus et n’appr&#233;cient pas que les kikimores transforment de telles transactions en une forme de coercition.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Kikimore|FP 5}
+{s:pucem|Fée|Ville|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.162]]''}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Fée|Fée]] de taille M, CN}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 15, pris au dépourvu 13 (Dex +4, esquive +1, naturelle +3)}
+{s:BDTexte|'''pv''' 45 (7d6+21)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +4, '''Vol''' +8}
+{s:BDTexte|'''RD''' 5/fer froid ; '''RM''' 16}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +7 (1d4+1)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 7 ; [[concentration]] +12)}
+{s:BDSorts|À volonté — ''[[appel des pierres]]'', ''[[invisibilité]]'' (sur elle-même uniquement), ''[[prestidigitation]]'', ''[[réparation]]'', ''[[silence forcé]]''}
+{s:BDSorts|3/jour — ''[[cassé]]'' (DD 16), ''[[charme-animal]]'' (DD 16), ''[[frappe douloureuse]]'' (DD 16), ''[[sommeil profond]]'' (DD 18)}
+{s:BDSorts|1/jour — ''[[image accomplie]]'' (DD 18), ''[[nuée grouillante]]'', ''[[réparation intégrale]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 18, '''Con''' 15, '''Int''' 12, '''Sag''' 16, '''Cha''' 21}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +4 ; '''DMD''' 19}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], DiscrétionS, [[Esquive]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +14, [[Bluff]] +15, [[Discrétion]] +16, [[Escamotage]] +14, [[Estimation]] +8, [[Évasion]] +16, [[Perception]] +13}
+{s:BDTexte|'''Langues''' commun, sylvestre}
+{s:BDTexte|'''Particularités''' cachette}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' urbain}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Cachette (Sur).''' Quand une kikimore choisit de s’installer dans une maison, elle est capable de créer un espace extradimensionnel en inscrivant un symbole sur un mur, une plinthe, un placard, ou tout autre objet permanent (comme un poêle). Ce symbole sert de porte d’entrée dans le minuscule domaine de la kikimore, où elle peut vivre dans la maison sans être détectée. Seule la kikimore peut pénétrer dans sa cachette. Une fois qu’elle a désigné une cachette et tant qu’elle se trouve dans la même pièce que le symbole, à n’importe quel moment, une kikimore peut, par une [[action simple]], se transporter dans sa cachette avec 25 kilos d’objets maximum. La kikimore peut quitter sa cachette de la même manière et elle apparaît alors dans l’emplacement vide le plus proche du symbole. Tout objet laissé dans la cachette y reste quand la kikimore quitte son espace extradimensionnel, même si elle efface le symbole et l’inscrit à un autre endroit. Pendant qu’elle se trouve dans sa cachette, la kikimore peut voir ce qui se passe en dehors grâce à un détecteur spécial, comme si elle se trouvait à l’endroit où est positionné son symbole. Il en découle que tout objet déposé devant le symbole est susceptible d’entraver la vision de la kikimore.}
+
+</div></td>
+<td><div>''Les traits de cette vieille femme sont proches de ceux d’un oiseau. Son long nez ressemble à un bec, ses mains sont griffues et ses pieds sont semblables à des pattes d’oiseau.''
+
+Les kikimores sont des [[Esprits du foyer|esprits du foyer]] qui tourmentent ceux chez qui elles vivent, à moins que les pauvres victimes ne les nourrissent et les cajolent. Elles prennent plaisir à jouer avec les nerfs des propriétaires des maisons en utilisant des illusions pour faire paraître l’habitat bien plus sale qu’il ne l’est en réalité. Leurs illusions favorites sont celles de vermines grouillantes. Les kikimores sont les ennemies des lutins. Mais alors que les lutins sont plutôt taquins, les kikimores préfèrent infliger des peines aux colocataires qu’elles se sont choisies plutôt que de les aider dans leurs tâches quotidiennes. Certains lutins cherchent volontairement des maisons infestées par une kikimore afin d’en déloger cette créature féérique nuisible. Si les propriétaires d’une maison refusent d’apaiser la kikimore résidente (ou n’arrivent pas à se débarrasser de sa présence malvenue), celle-ci peut leur envoyer des nuées d’araignées, de rats ou de chauves-souris. Ces fées employant des ruses subtiles, les habitants des maisons qui subissent leur présence croient souvent avoir affaire à des fantômes.
+
+Les kikimores adorent briser des choses en secret ou faire passer ces actes de destruction pour des accidents. Elles trompent ainsi les habitants de leur logis afin qu’ils laissent des cadeaux en échange de réparations à la nuit tombée, à la grande indignation des lutins, qui voient de tels cadeaux comme des paiements pour services rendus et n’apprécient pas que les kikimores transforment de telles transactions en une forme de coercition.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Kikimore</fullName>
+</wikiPage>

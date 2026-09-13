@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Baleine bleue</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-16 00:08:08Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Retournement de navires (capacité)</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Dur à cuire</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Retenir son souffle (capacité)</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.liste des compagnons animaux</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Baleine bleue&lt;div style=&quot;float:right;&quot;&gt;FP 12&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.43&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 19 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille C, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +27
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 26, contact 1, pris au d&#233;pourvu 26 (Dex -1, naturelle +25, taille -8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 184 (16d8+112)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +17, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; nage 12 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; queue, +21 (8d6+24 plus &#233;tourdissement)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 9 m ; &lt;b&gt;Allonge&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Retournement-De-Navires-(Capacit&#233;).html&quot; title=&quot;Retournement de navires (Ext)&quot;&gt;retournement de navires&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 42, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 25, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +12 ; &lt;b&gt;BMO&lt;/b&gt; +36 ; &lt;b&gt;DMD&lt;/b&gt; 45 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (queue), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dur-&#192;-Cuire.html&quot; title=&quot;Dur &#224; cuire&quot;&gt;Dur &#224; cuire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +35, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +27 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +12 en Perception
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Retenir-Son-Souffle-(Capacit&#233;).html&quot; title=&quot;Retenir son souffle (Ext)&quot;&gt;retenir son souffle&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou banc (3-18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;tourdissement (Ext).&lt;/b&gt; La queue de la baleine ass&#232;ne de puissants coups &#233;tourdissants. Une cr&#233;ature touch&#233;e par une telle attaque doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 34, sans quoi elle est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;tourdi.html&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdie&lt;/a&gt; pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Si le coup est un critique et que la cible rate son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, elle est &#233;galement &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;tourdi.html&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdie&lt;/a&gt; pendant 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Queue (Ext).&lt;/b&gt; La queue de la baleine bleue est une attaque primaire et ajoute 1,5 fois son bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; aux jets de d&#233;g&#226;ts.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Retenir son souffle (Ext).&lt;/b&gt; Une baleine bleue peut retenir son souffle pendant un nombre de rounds &#233;gal &#224; 10 fois sa valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette &#233;norme cr&#233;ature a une nageoire caudale horizontale et une immense gueule garnie de fanons.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Malgr&#233; leur taille, les baleines bleues sont des cr&#233;atures paisibles tant que rien ne les menace. Elles mangent des millions de minuscules invert&#233;br&#233;s appel&#233;s du krill, qu’elles aspirent au travers de leurs fanons par grosses goul&#233;es. Ces &#233;normes mammif&#232;res vivent dans nombre de mers et d’oc&#233;ans. Une baleine bleue adulte mesure 30 m&#232;tres de long pour 200 tonnes.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;La baleine bleue comme &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Compagnons-Animaux.html&quot; title=&quot;Liste des compagnons animaux du druide&quot;&gt;compagnon animal&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;La_baleine_bleue_comme_compagnon_animal__0&quot; href=&quot;#La_baleine_bleue_comme_compagnon_animal__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;b&gt;Caract&#233;ristiques de d&#233;part :&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; nage 24 m ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; queue (1d8) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 11, Dex 19, Con 10, Int 2, Sag 14, Cha 6 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Retenir-Son-Souffle-(Capacit&#233;).html&quot; title=&quot;Retenir son souffle (Ext)&quot;&gt;retenir son souffle&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 7 :&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +2 ; &lt;b&gt;Attaque&lt;/b&gt; queue (2d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +8, Dex -2, Con +4
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Baleine bleue|FP 12}
+{s:pucem|Animal|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire 5 p.43''}
+{s:BDTexte|'''PX''' 19 200}
+{s:BDTexte|[[type Animal|Animal]] de taille C, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +27}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 26, contact 1, pris au dépourvu 26 (Dex -1, naturelle +25, taille -8)}
+{s:BDTexte|'''pv''' 184 (16d8+112)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +17, '''Vol''' +8}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' nage 12 m}
+{s:BDTexte|'''Corps à corps''' queue, +21 (8d6+24 plus étourdissement)}
+{s:BDTexte|'''Espace occupé''' 9 m ; '''Allonge''' 9 m}
+{s:BDTexte|'''Attaques spéciales''' [[Retournement de navires (capacité)|retournement de navires]]}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 42, '''Dex''' 8, '''Con''' 25, '''Int''' 2, '''Sag''' 13, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +12 ; '''BMO''' +36 ; '''DMD''' 45 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (queue), [[Attaque en puissance]], [[Coup fabuleux]], [[Dur à cuire]], [[Endurance]], [[Science de la bousculade]], [[Talent]] (Perception), [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Natation]] +35, [[Perception]] +27 ; '''Modificateurs raciaux''' +12 en Perception}
+{s:BDTexte|'''Particularités''' [[Retenir son souffle (capacité)|retenir son souffle]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans}
+{s:BDTexte|'''Organisation''' solitaire, couple ou banc (3-18)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Étourdissement (Ext).''' La queue de la baleine assène de puissants coups étourdissants. Une créature touchée par une telle attaque doit réussir un jet de [[Vigueur]] [[DD]] 34, sans quoi elle est [[étourdi|étourdie]] pendant 1 [[round]]. Si le coup est un critique et que la cible rate son [[jet de sauvegarde]], elle est également [[étourdi|étourdie]] pendant 1d4 [[round|rounds]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Force]].}
+{s:BDTexte|'''Queue (Ext).''' La queue de la baleine bleue est une attaque primaire et ajoute 1,5 fois son bonus de [[Force]] aux jets de dégâts.}
+{s:BDTexte|'''Retenir son souffle (Ext).''' Une baleine bleue peut retenir son souffle pendant un nombre de rounds égal à 10 fois sa valeur de [[Constitution]].}
+</div></td>
+<td><div>''Cette énorme créature a une nageoire caudale horizontale et une immense gueule garnie de fanons.''
+
+Malgré leur taille, les baleines bleues sont des créatures paisibles tant que rien ne les menace. Elles mangent des millions de minuscules invertébrés appelés du krill, qu’elles aspirent au travers de leurs fanons par grosses goulées. Ces énormes mammifères vivent dans nombre de mers et d’océans. Une baleine bleue adulte mesure 30 mètres de long pour 200 tonnes.
+
+====La baleine bleue comme [[Liste des compagnons animaux|compagnon animal]]====
+'''Caractéristiques de départ :''' '''Taille''' M ; '''Vitesse''' nage 24 m ; '''CA''' armure naturelle +1 ; '''Attaque''' queue (1d8) ; '''Caractéristiques''' For 11, Dex 19, Con 10, Int 2, Sag 14, Cha 6 ; '''Particularités''' [[Vision nocturne (capacité)|vision nocturne]], [[Retenir son souffle (capacité)|retenir son souffle]]
+
+'''Développement au niveau 7 :''' '''Taille''' G ; '''CA''' armure naturelle +2 ; '''Attaque''' queue (2d6) ; '''Caractéristiques''' For +8, Dex -2, Con +4
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Baleine bleue</fullName>
+</wikiPage>

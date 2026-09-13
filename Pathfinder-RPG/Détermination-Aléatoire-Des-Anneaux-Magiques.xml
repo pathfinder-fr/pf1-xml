@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Détermination aléatoire des anneaux magiques</title>
+  <categories><category>Pathfinder-RPG.Détermination aléatoire</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Armes et équipement</category></categories>
+  <lastModified>2024-08-25 22:44:43Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Afflictions</link><link>Pathfinder-RPG.Apparitions</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Courses poursuites</link><link>Pathfinder-RPG.Description des plaies magiques</link><link>Pathfinder-RPG.Détermination aléatoire des anneaux magiques</link><link>Pathfinder-RPG.Détermination aléatoire des armes</link><link>Pathfinder-RPG.Détermination aléatoire des armures et des boucliers</link><link>Pathfinder-RPG.Détermination aléatoire des baguettes magiques</link><link>Pathfinder-RPG.Détermination aléatoire des bâtons magiques</link><link>Pathfinder-RPG.Détermination aléatoire des objets merveilleux</link><link>Pathfinder-RPG.Détermination aléatoire des parchemins magiques</link><link>Pathfinder-RPG.Détermination aléatoire des potions et des huiles magiques</link><link>Pathfinder-RPG.Détermination aléatoire des sceptres magiques</link><link>Pathfinder-RPG.Détermination aléatoire dobjets magiques</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Galerie de PNJ</link><link>Pathfinder-RPG.Gemmes et bijoux</link><link>Pathfinder-RPG.Générateur de trésors</link><link>Pathfinder-RPG.Générateur de trésors</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Objets dArt</link><link>Pathfinder-RPG.Plaies</link><link>Pathfinder-RPG.Profil des monstres</link><link>Pathfinder-RPG.Règles de monstres universelles</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Types de créatures</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Anneau du donjon</link><link>Pathfinder-RPG.Anneau des sceaux magiques</link><link>Pathfinder-RPG.Anneau de connaissance des sorts</link><link>Pathfinder-RPG.Anneau de protection</link><link>Pathfinder-RPG.Anneau de la main d’outre-tombe</link><link>Pathfinder-RPG.Anneau de feuille morte</link><link>Pathfinder-RPG.Anneau descalade</link><link>Pathfinder-RPG.Anneau de saut</link><link>Pathfinder-RPG.Anneau de subsistance</link><link>Pathfinder-RPG.Anneau de nage</link><link>Pathfinder-RPG.anneau daction féroce</link><link>Pathfinder-RPG.Anneau de contresort</link><link>Pathfinder-RPG.Anneau des objets déments</link><link>Pathfinder-RPG.Anneau des crocs du rat</link><link>Pathfinder-RPG.Anneau de gui sacré</link><link>Pathfinder-RPG.Anneau de volée de coups</link><link>Pathfinder-RPG.Anneau d’audace pure</link><link>Pathfinder-RPG.Anneau des crocs de force</link><link>Pathfinder-RPG.Anneau de barrière mentale</link><link>Pathfinder-RPG.Anneau d’épuisement de force</link><link>Pathfinder-RPG.Anneau de bouclier de force</link><link>Pathfinder-RPG.Anneau du bélier</link><link>Pathfinder-RPG.Anneau de l’érudit</link><link>Pathfinder-RPG.Anneau de soins</link><link>Pathfinder-RPG.Anneau d’ennemi de prédilection</link><link>Pathfinder-RPG.Anneau de maîtrise ki</link><link>Pathfinder-RPG.Anneau de révélation</link><link>Pathfinder-RPG.Anneau damitié avec les animaux</link><link>Pathfinder-RPG.Anneau de transposition</link><link>Pathfinder-RPG.Anneau de précision tactique</link><link>Pathfinder-RPG.Anneau du sybarite</link><link>Pathfinder-RPG.Anneau de leurre</link><link>Pathfinder-RPG.Anneau de création magique</link><link>Pathfinder-RPG.Anneau de dynamisation ectoplasmique</link><link>Pathfinder-RPG.Anneau de résistance aux énergies destructives</link><link>Pathfinder-RPG.Anneau du troglodyte</link><link>Pathfinder-RPG.Anneau de main de fer</link><link>Pathfinder-RPG.Anneau du caméléon</link><link>Pathfinder-RPG.Anneau de l’écumeur des mers</link><link>Pathfinder-RPG.Anneau de rétribution</link><link>Pathfinder-RPG.Anneau de marche sur londe</link><link>Pathfinder-RPG.Anneau de résistance intérieure</link><link>Pathfinder-RPG.Anneau de stockage de sort</link><link>Pathfinder-RPG.Anneau de voile d’énergie</link><link>Pathfinder-RPG.Anneau de maîtrise magique</link><link>Pathfinder-RPG.Anneau dinvisibilité</link><link>Pathfinder-RPG.Anneau des arcanes</link><link>Pathfinder-RPG.Anneau desquive totale</link><link>Pathfinder-RPG.Anneau de rayons X</link><link>Pathfinder-RPG.Anneau de clignotement</link><link>Pathfinder-RPG.Anneau de lecclésiarque</link><link>Pathfinder-RPG.Anneau de retour</link><link>Pathfinder-RPG.Anneau de liberté de mouvement</link><link>Pathfinder-RPG.Anneau du destin repoussé</link><link>Pathfinder-RPG.Anneau de protection mutuelle</link><link>Pathfinder-RPG.Anneau du feu détoiles</link><link>Pathfinder-RPG.Anneau de prolongement</link><link>Pathfinder-RPG.Anneaux des spiritualistes</link><link>Pathfinder-RPG.Anneau de télékinésie</link><link>Pathfinder-RPG.Anneau de régénération</link><link>Pathfinder-RPG.Anneau de renvoi des sorts</link><link>Pathfinder-RPG.Anneau de triple souhait</link><link>Pathfinder-RPG.Anneau de convocation de djinn</link><link>Pathfinder-RPG.Anneau de contrôle des éléments</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.Gemmes et bijoux</link><link>Pathfinder-RPG.Objets dArt</link><link>Pathfinder-RPG.Générateur de trésors</link><link>Pathfinder-RPG.Détermination aléatoire des armes</link><link>Pathfinder-RPG.Détermination aléatoire des armures et des boucliers</link><link>Pathfinder-RPG.Détermination aléatoire des anneaux magiques</link><link>Pathfinder-RPG.Détermination aléatoire des bâtons magiques</link><link>Pathfinder-RPG.Détermination aléatoire des sceptres magiques</link><link>Pathfinder-RPG.Détermination aléatoire des baguettes magiques</link><link>Pathfinder-RPG.Détermination aléatoire des parchemins magiques</link><link>Pathfinder-RPG.Détermination aléatoire des potions et des huiles magiques</link><link>Pathfinder-RPG.Détermination aléatoire des objets merveilleux</link><link>Pathfinder-RPG.Profil des monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Types de créatures</link><link>Pathfinder-RPG.Règles de monstres universelles</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Galerie de PNJ</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Apparitions</link><link>Pathfinder-RPG.Afflictions</link><link>Pathfinder-RPG.Drogues</link><link>Pathfinder-RPG.Maladies</link><link>Pathfinder-RPG.Malédictions</link><link>Pathfinder-RPG.Poisons</link><link>Pathfinder-RPG.Santé mentale</link><link>Pathfinder-RPG.Courses poursuites</link><link>Pathfinder-RPG.Plaies</link><link>Pathfinder-RPG.Description des plaies magiques</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Acc&#232;s rapide aux sections sur l&#39;opposition&lt;a class=&quot;headeranchor&quot; id=&quot;Acc&#232;s_rapide_aux_sections_sur_lopposition_0&quot; href=&quot;#Acc&#232;s_rapide_aux_sections_sur_lopposition_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top; text-align: left&quot;&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html&quot; title=&quot;Les rencontres&quot;&gt;Les rencontres&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#EXPERIENCE&quot; title=&quot;Les rencontres&quot;&gt;L&#39;exp&#233;rience&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#TRESOR&quot; title=&quot;Les rencontres&quot;&gt;Les tr&#233;sors&lt;/a&gt;&lt;/li&gt;
+    &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gemmes-Et-Bijoux.html&quot; title=&quot;Gemmes et bijoux&quot;&gt;Les gemmes et les bijoux&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Dart.html&quot; title=&quot;Les objets d&amp;#39;art&quot;&gt;Les objets d&#39;art&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonGENERATEURTRESOR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;GENERATEURTRESOR&#39;);&quot; onmouseout=&quot;outButton(&#39;GENERATEURTRESOR&#39;);&quot; onclick=&quot;expandMenu(&#39;GENERATEURTRESOR&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;G&#233;n&#233;rateur-De-Tr&#233;sors.html&quot; title=&quot;G&#233;n&#233;rateur de tr&#233;sors&quot;&gt;Le g&#233;n&#233;rateur al&#233;atoire de tr&#233;sors&lt;/a&gt;
+        &lt;ul ID=&quot;GENERATEURTRESOR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Armes.html&quot; title=&quot;D&#233;termination al&#233;atoire des armes&quot;&gt;armes&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Armures-Et-Des-Boucliers.html&quot; title=&quot;D&#233;termination al&#233;atoire des armures et des boucliers&quot;&gt;armures et boucliers&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Anneaux-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des anneaux magiques&quot;&gt;anneaux magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-B&#226;tons-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des b&#226;tons magiques&quot;&gt;b&#226;tons magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Sceptres-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des sceptres magiques&quot;&gt;sceptres magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Baguettes-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des baguettes magiques&quot;&gt;baguettes magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Parchemins-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des parchemins magiques&quot;&gt;parchemins magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Potions-Et-Des-Huiles-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des potions et des huiles magiques&quot;&gt;potions et huiles magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Objets-Merveilleux.html&quot; title=&quot;D&#233;termination al&#233;atoire des objets merveilleux&quot;&gt;objets merveilleux&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Profil-Des-Monstres.html&quot; title=&quot;Lire le profil des monstres&quot;&gt;Lire le profil des monstres&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonLISTESMONSTRES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;LISTESMONSTRES&#39;);&quot; onmouseout=&quot;outButton(&#39;LISTESMONSTRES&#39;);&quot; onclick=&quot;expandMenu(&#39;LISTESMONSTRES&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Alphab&#233;tique-Des-Monstres.html&quot; title=&quot;Liste alphab&#233;tique des monstres&quot;&gt;Liste alphab&#233;tique des monstres&lt;/a&gt;
+    &lt;ul ID=&quot;LISTESMONSTRES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Fp.html&quot; title=&quot;Liste des monstres par FP&quot;&gt;Liste des monstres par FP&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Fp-Avec-Familles.html&quot; title=&quot;Liste des monstres par FP avec familles&quot;&gt;avec familles&lt;/a&gt;)&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Milieu-Naturel.html&quot; title=&quot;Liste des monstres par milieu naturel&quot;&gt;Liste des monstres par milieu naturel&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Milieu-Naturel-Avec-Familles.html&quot; title=&quot;Liste des monstres par milieu naturel avec familles&quot;&gt;avec familles&lt;/a&gt;)&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Type.html&quot; title=&quot;Liste des monstres par type&quot;&gt;Liste des monstres par type&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Familles-De-Monstres.html&quot; title=&quot;Les familles de monstres&quot;&gt;Les familles de monstres&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-De-Cr&#233;atures.html&quot; title=&quot;Les types et sous type de cr&#233;atures&quot;&gt;Les types et sous type de cr&#233;atures&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-De-Monstres-Universelles.html&quot; title=&quot;R&#232;gles de monstres universelles&quot;&gt;Les r&#232;gles de monstres universelles&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;Les arch&#233;types&quot;&gt;Les arch&#233;types de cr&#233;ature&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Galerie-De-Pnj.html&quot; title=&quot;Galerie de PNJ&quot;&gt;Galerie de PNJ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPNJ&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PNJ&#39;);&quot; onmouseout=&quot;outButton(&#39;PNJ&#39;);&quot; onclick=&quot;expandMenu(&#39;PNJ&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Les classes de PNJ&lt;/a&gt;
+    &lt;ul ID=&quot;PNJ&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;L&#39;adepte&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;L&#39;expert&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;L&#39;homme d&#39;arme&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Du-Peuple.html&quot; title=&quot;L&amp;#39;homme du peuple&quot;&gt;L&#39;homme du peuple&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Noble.html&quot; title=&quot;Le noble&quot;&gt;Le noble&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Apparitions.html&quot; title=&quot;Les apparitions&quot;&gt;Les apparitions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonAFFLICTIONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;AFFLICTIONS&#39;);&quot; onmouseout=&quot;outButton(&#39;AFFLICTIONS&#39;);&quot; onclick=&quot;expandMenu(&#39;AFFLICTIONS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Afflictions.html&quot; title=&quot;Les afflictions&quot;&gt;Les afflictions&lt;/a&gt;
+    &lt;ul ID=&quot;AFFLICTIONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Les drogues&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;Les maladies&quot;&gt;Les maladies&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions.html&quot; title=&quot;Les mal&#233;dictions&quot;&gt;Les mal&#233;dictions&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;Les poisons  &quot;&gt;Le poison&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;La sant&#233; mentale et la folie&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Courses-Poursuites.html&quot; title=&quot;Les courses poursuites&quot;&gt;Les courses poursuites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plaies.html&quot; title=&quot;Les plaies magiques&quot;&gt;Les plaies magiques&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Plaies-Magiques.html&quot; title=&quot;Description des plaies magiques&quot;&gt;descriptions individuelles&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Anneau al&#233;atoire&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Anneau faible inf&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-07&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Du-Donjon.html&quot; title=&quot;Anneau du donjon&quot;&gt;Anneau du donjon&lt;/a&gt;, du prisonnier&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;08-16&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Des-Sceaux-Magiques.html&quot; title=&quot;Anneau des sceaux magiques&quot;&gt;Anneau des sceaux magiques&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-25&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Connaissance-Des-Sorts.html&quot; title=&quot;Anneau de connaissance des sorts &quot;&gt;Anneau de connaissance des sorts&lt;/a&gt; I&lt;/td&gt;&lt;td&gt;1 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;26-40&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Protection.html&quot; title=&quot;Anneau de protection&quot;&gt;Anneau de protection&lt;/a&gt; +1&lt;/td&gt;&lt;td&gt;2 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-47&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-La-Main-D’Outre-Tombe.html&quot; title=&quot;Anneau de la main d’outre-tombe&quot;&gt;Anneau de la main d’outre-tombe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;48-57&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Feuille-Morte.html&quot; title=&quot;Anneau de feuille morte&quot;&gt;Anneau de feuille morte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2 200&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;58-66&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Descalade.html&quot; title=&quot;Anneau d&amp;#39;escalade&quot;&gt;Anneau d’escalade&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-75&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Saut.html&quot; title=&quot;Anneau de saut&quot;&gt;Anneau de saut&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;76-84&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Subsistance.html&quot; title=&quot;Anneau de subsistance&quot;&gt;Anneau de subsistance&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-93&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Nage.html&quot; title=&quot;Anneau de nage&quot;&gt;Anneau de nage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;94-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Daction-F&#233;roce.html&quot; title=&quot;Anneau de f&#233;rocit&#233;&quot;&gt;Anneau de f&#233;rocit&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3 000&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Anneau faible sup&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-15&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Contresort.html&quot; title=&quot;Anneau de contresort&quot;&gt;Anneau de contresort&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16-25&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Des-Objets-D&#233;ments.html&quot; title=&quot;Anneau des objets d&#233;ments&quot;&gt;Anneau des objets d&#233;ments&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;26-35&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Des-Crocs-Du-Rat.html&quot; title=&quot;Anneau des crocs du rat&quot;&gt;Anneau des crocs du rat&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36-52&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Gui-Sacr&#233;.html&quot; title=&quot;Anneau de gui sacr&#233;&quot;&gt;Anneau de gui sacr&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-69&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Connaissance-Des-Sorts.html&quot; title=&quot;Anneau de connaissance des sorts &quot;&gt;Anneau de connaissance des sorts&lt;/a&gt; II&lt;/td&gt;&lt;td&gt;6 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;70-86&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Vol&#233;e-De-Coups.html&quot; title=&quot;Anneau de vol&#233;e de coups&quot;&gt;Anneau de vol&#233;e de coups&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-D’Audace-Pure.html&quot; title=&quot;Anneau d’audace pure&quot;&gt;Anneau d’audace pure&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6 840&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Anneau interm&#233;diaire inf&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-02&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Des-Crocs-De-Force.html&quot; title=&quot;Anneau des crocs de force&quot;&gt;Anneau des crocs de force&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;03-06&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Barri&#232;re-Mentale.html&quot; title=&quot;Anneau de barri&#232;re mentale&quot;&gt;Anneau de barri&#232;re mentale&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-11&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Protection.html&quot; title=&quot;Anneau de protection&quot;&gt;Anneau de protection&lt;/a&gt; +2&lt;/td&gt;&lt;td&gt;8 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12-13&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-D’&#201;puisement-De-Force.html&quot; title=&quot;Anneau d’&#233;puisement de force&quot;&gt;Anneau d’&#233;puisement de force&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14-17&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Bouclier-De-Force.html&quot; title=&quot;Anneau de bouclier de force&quot;&gt;Anneau de bouclier de force&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18-22&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Du-B&#233;lier.html&quot; title=&quot;Anneau du b&#233;lier&quot;&gt;Anneau du b&#233;lier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8 600&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23-24&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-L’&#201;rudit.html&quot; title=&quot;Anneau de l’&#233;rudit&quot;&gt;Anneau de l’&#233;rudit&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8 700&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-27&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Descalade.html&quot; title=&quot;Anneau d&amp;#39;escalade&quot;&gt;Anneau d’escalade&lt;/a&gt; sup&#233;rieur&lt;/td&gt;&lt;td&gt;10 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;28-29&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Soins.html&quot; title=&quot;Anneau de soins&quot;&gt;Anneau de soins&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;30-31&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-D’Ennemi-De-Pr&#233;dilection.html&quot; title=&quot;Anneau d’ennemi de pr&#233;dilection&quot;&gt;Anneau d’ennemi de pr&#233;dilection&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;32-35&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Saut.html&quot; title=&quot;Anneau de saut&quot;&gt;Anneau de saut&lt;/a&gt; sup&#233;rieur&lt;/td&gt;&lt;td&gt;10 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36-37&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Ma&#238;trise-Ki.html&quot; title=&quot;Anneau de ma&#238;trise ki&quot;&gt;Anneau de ma&#238;trise ki&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;38-40&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;v&#233;lation.html&quot; title=&quot;Anneau de r&#233;v&#233;lation&quot;&gt;Anneau de r&#233;v&#233;lation&lt;/a&gt; mineur&lt;/td&gt;&lt;td&gt;10 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-43&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Nage.html&quot; title=&quot;Anneau de nage&quot;&gt;Anneau de nage&lt;/a&gt; sup&#233;rieur&lt;/td&gt;&lt;td&gt;10 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;44-46&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Damiti&#233;-Avec-Les-Animaux.html&quot; title=&quot;Anneau d&amp;#39;amiti&#233; avec les animaux&quot;&gt;Anneau d’amiti&#233; avec les animaux&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10 800&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47-48&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Transposition.html&quot; title=&quot;Anneau de transposition&quot;&gt;Anneau de transposition&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10 800&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-50&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Pr&#233;cision-Tactique.html&quot; title=&quot;Anneau de pr&#233;cision tactique&quot;&gt;Anneau de pr&#233;cision tactique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;11 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-52&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Du-Sybarite.html&quot; title=&quot;Anneau du sybarite&quot;&gt;Anneau du sybarite&lt;/a&gt;&lt;/td&gt;&lt;td&gt;11 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-55&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Leurre.html&quot; title=&quot;Anneau de leurre&quot;&gt;Anneau de leurre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;56-58&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Cr&#233;ation-Magique.html&quot; title=&quot;Anneau de cr&#233;ation magique&quot;&gt;Anneau de cr&#233;ation magique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-61&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Dynamisation-Ectoplasmique.html&quot; title=&quot;Anneau de dynamisation ectoplasmique&quot;&gt;Anneau de dynamisation ectoplasmique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;62-64&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;Anneau de r&#233;sistance aux &#233;nergies destructives&quot;&gt;Anneau de r&#233;sistance aux &#233;nergies destructives&lt;/a&gt; mineur&lt;/td&gt;&lt;td&gt;12 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-67&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Du-Troglodyte.html&quot; title=&quot;Anneau du troglodyte&quot;&gt;Anneau du troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;68-70&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Main-De-Fer.html&quot; title=&quot;Anneau de main de fer&quot;&gt;Anneau de main de fer&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-76&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Du-Cam&#233;l&#233;on.html&quot; title=&quot;Anneau du cam&#233;l&#233;on&quot;&gt;Anneau du cam&#233;l&#233;on&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12 700&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-79&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Connaissance-Des-Sorts.html&quot; title=&quot;Anneau de connaissance des sorts &quot;&gt;Anneau de connaissance des sorts&lt;/a&gt; III&lt;/td&gt;&lt;td&gt;13 500&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;tr&gt;&lt;td&gt;80-82&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-L’&#201;cumeur-Des-Mers.html&quot; title=&quot;Anneau de l’&#233;cumeur des mers&quot;&gt;Anneau de l’&#233;cumeur des mers&lt;/a&gt;&lt;/td&gt;&lt;td&gt;14 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-85&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;tribution.html&quot; title=&quot;Anneau de r&#233;tribution&quot;&gt;Anneau de r&#233;tribution&lt;/a&gt;&lt;/td&gt;&lt;td&gt;15 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;86-89&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Marche-Sur-Londe.html&quot; title=&quot;Anneau de marche sur l&amp;#39;onde&quot;&gt;Anneau de marche sur l’onde&lt;/a&gt;&lt;/td&gt;&lt;td&gt;15 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;90-95&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Du-Donjon.html&quot; title=&quot;Anneau du donjon&quot;&gt;Anneau du donjon&lt;/a&gt;, du ge&#244;lier&lt;/td&gt;&lt;td&gt;16 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;96-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;v&#233;lation.html&quot; title=&quot;Anneau de r&#233;v&#233;lation&quot;&gt;Anneau de r&#233;v&#233;lation&lt;/a&gt; majeur&lt;/td&gt;&lt;td&gt;16 000&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Anneau interm&#233;diaire sup&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-04&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;sistance-Int&#233;rieure.html&quot; title=&quot;Anneau de r&#233;sistance int&#233;rieure &quot;&gt;Anneau de r&#233;sistance int&#233;rieure&lt;/a&gt; mineur&lt;/td&gt;&lt;td&gt;18 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-16&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Protection.html&quot; title=&quot;Anneau de protection&quot;&gt;Anneau de protection&lt;/a&gt; +3&lt;/td&gt;&lt;td&gt;18 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-26&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Stockage-De-Sort.html&quot; title=&quot;Anneau de stockage de sort&quot;&gt;Anneau de stockage de sort&lt;/a&gt;&lt;/td&gt;&lt;td&gt;18 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27-30&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Voile-D’&#201;nergie.html&quot; title=&quot;Anneau de voile d’&#233;nergie&quot;&gt;Anneau de voile d’&#233;nergie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;19 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-35&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Ma&#238;trise-Magique.html&quot; title=&quot;Anneau de ma&#238;trise magique&quot;&gt;Anneau de ma&#238;trise magique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;20 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36-46&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Dinvisibilit&#233;.html&quot; title=&quot;Anneau d&amp;#39;invisibilit&#233;&quot;&gt;Anneau d’invisibilit&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;20 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47-54&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Des-Arcanes.html&quot; title=&quot;Anneau des arcanes&quot;&gt;Anneau des arcanes&lt;/a&gt; I&lt;/td&gt;&lt;td&gt;20 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;55-60&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;v&#233;lation.html&quot; title=&quot;Anneau de r&#233;v&#233;lation&quot;&gt;Anneau de r&#233;v&#233;lation&lt;/a&gt; supr&#234;me&lt;/td&gt;&lt;td&gt;24 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-68&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Connaissance-Des-Sorts.html&quot; title=&quot;Anneau de connaissance des sorts &quot;&gt;Anneau de connaissance des sorts&lt;/a&gt; IV&lt;/td&gt;&lt;td&gt;24 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-80&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Desquive-Totale.html&quot; title=&quot;Anneau d&amp;#39;esquive totale&quot;&gt;Anneau d’esquive totale&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-88&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Rayons-X.html&quot; title=&quot;Anneau de rayons X&quot;&gt;Anneau de rayons X&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Clignotement.html&quot; title=&quot;Anneau de clignotement&quot;&gt;Anneau de clignotement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;27 000&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Anneau puissant inf&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-09&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;Anneau de r&#233;sistance aux &#233;nergies destructives&quot;&gt;Anneau de r&#233;sistance aux &#233;nergies destructives&lt;/a&gt; majeur&lt;/td&gt;&lt;td&gt;28 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10-16&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Leccl&#233;siarque.html&quot; title=&quot;Anneau de l&amp;#39;eccl&#233;siarque &quot;&gt;Anneau de l’eccl&#233;siarque&lt;/a&gt;&lt;/td&gt;&lt;td&gt;28 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-33&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Protection.html&quot; title=&quot;Anneau de protection&quot;&gt;Anneau de protection&lt;/a&gt; +4&lt;/td&gt;&lt;td&gt;32 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;34-39&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Retour.html&quot; title=&quot;Anneau de retour&quot;&gt;Anneau de retour&lt;/a&gt;&lt;/td&gt;&lt;td&gt;33 600&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;40-55&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Libert&#233;-De-Mouvement.html&quot; title=&quot;Anneau de libert&#233; de mouvement&quot;&gt;Anneau de libert&#233; de mouvement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;40 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;56-70&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Des-Arcanes.html&quot; title=&quot;Anneau des arcanes&quot;&gt;Anneau des arcanes&lt;/a&gt; II&lt;/td&gt;&lt;td&gt;40 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-75&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;sistance-Int&#233;rieure.html&quot; title=&quot;Anneau de r&#233;sistance int&#233;rieure &quot;&gt;Anneau de r&#233;sistance int&#233;rieure&lt;/a&gt; majeur&lt;/td&gt;&lt;td&gt;42 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;76-92&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;Anneau de r&#233;sistance aux &#233;nergies destructives&quot;&gt;Anneau de r&#233;sistance aux &#233;nergies destructives&lt;/a&gt; supr&#234;me&lt;/td&gt;&lt;td&gt;44 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Du-Destin-Repouss&#233;.html&quot; title=&quot;Anneau du destin repouss&#233;&quot;&gt;Anneau du destin repouss&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;45 000&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Anneau puissant sup&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-06&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Protection-Mutuelle.html&quot; title=&quot;Anneau de protection mutuelle&quot;&gt;Anneau de protection mutuelle&lt;/a&gt; majeur&lt;/td&gt;&lt;td&gt;50 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-18&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Protection.html&quot; title=&quot;Anneau de protection&quot;&gt;Anneau de protection&lt;/a&gt; +5&lt;/td&gt;&lt;td&gt;50 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19-27&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Du-Feu-D&#233;toiles.html&quot; title=&quot;Anneau de feu d&amp;#39;&#233;toiles&quot;&gt;Anneau du feu d’&#233;toiles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;28-37&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Stockage-De-Sort.html&quot; title=&quot;Anneau de stockage de sort&quot;&gt;Anneau de stockage de sort&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;38-43&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Prolongement.html&quot; title=&quot;Anneau de prolongement&quot;&gt;Anneau de prolongement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;56 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;44-48&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;sistance-Int&#233;rieure.html&quot; title=&quot;Anneau de r&#233;sistance int&#233;rieure &quot;&gt;Anneau de r&#233;sistance int&#233;rieure&lt;/a&gt; supr&#234;me&lt;/td&gt;&lt;td&gt;66 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-57&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Des-Arcanes.html&quot; title=&quot;Anneau des arcanes&quot;&gt;Anneau des arcanes&lt;/a&gt; III&lt;/td&gt;&lt;td&gt;70 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;58-63&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneaux-Des-Spiritualistes.html&quot; title=&quot;Anneaux des spiritualistes&quot;&gt;Anneaux des spiritualistes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;70 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;64-71&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-T&#233;l&#233;kin&#233;sie.html&quot; title=&quot;Anneau de t&#233;l&#233;kin&#233;sie&quot;&gt;Anneau de t&#233;l&#233;kin&#233;sie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;75 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;72-76&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-R&#233;g&#233;n&#233;ration.html&quot; title=&quot;Anneau de r&#233;g&#233;n&#233;ration&quot;&gt;Anneau de r&#233;g&#233;n&#233;ration&lt;/a&gt;&lt;/td&gt;&lt;td&gt;90 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-82&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Renvoi-Des-Sorts.html&quot; title=&quot;Anneau de renvoi des sorts&quot;&gt;Anneau de renvoi des sorts&lt;/a&gt;&lt;/td&gt;&lt;td&gt;100 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-86&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Des-Arcanes.html&quot; title=&quot;Anneau des arcanes&quot;&gt;Anneau des arcanes&lt;/a&gt; IV&lt;/td&gt;&lt;td&gt;100 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-90&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Triple-Souhait.html&quot; title=&quot;Anneau de triple souhait&quot;&gt;Anneau de triple souhait&lt;/a&gt;&lt;/td&gt;&lt;td&gt;120 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-93&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Convocation-De-Djinn.html&quot; title=&quot;Anneau de convocation de djinn&quot;&gt;Anneau de convocation de djinn&lt;/a&gt;&lt;/td&gt;&lt;td&gt;125 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;94-97&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Contr&#244;le-Des-&#201;l&#233;ments.html&quot; title=&quot;Anneau de contr&#244;le des &#233;l&#233;ments&quot;&gt;Anneau de contr&#244;le des &#233;l&#233;ments&lt;/a&gt;&lt;/td&gt;&lt;td&gt;200 000&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;98-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Stockage-De-Sort.html&quot; title=&quot;Anneau de stockage de sort&quot;&gt;Anneau de stockage de sort&lt;/a&gt; majeur&lt;/td&gt;&lt;td&gt;200 000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuOpposition}{s:AE}
+
+<table width="100%"><tr><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Anneau aléatoire
+|- CLASS="titre"
+| D100 || Anneau faible inférieur || Prix(po)
+|- CLASS="premier"
+| 01-07 || [[Anneau du donjon]], du prisonnier || 250
+|-
+| 08-16 || [[Anneau des sceaux magiques]] || 1 000
+|-
+| 17-25 || [[Anneau de connaissance des sorts]] I || 1 500
+|-
+| 26-40 || [[Anneau de protection]] +1 || 2 000
+|-
+| 41-47 || [[Anneau de la main d’outre-tombe]] || 2 000
+|-
+| 48-57 || [[Anneau de feuille morte]] || 2 200
+|-
+| 58-66 || [[Anneau descalade|Anneau d’escalade]] || 2 500
+|-
+| 67-75 || [[Anneau de saut]] || 2 500
+|-
+| 76-84 || [[Anneau de subsistance]] || 2 500
+|-
+| 85-93 || [[Anneau de nage]] || 2 500
+|-
+| 94-100 || [[Anneau daction féroce|Anneau de férocité]] || 3 000
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Anneau faible supérieur || Prix(po)
+|- CLASS="premier"
+| 01-15 || [[Anneau de contresort]] || 4 000
+|-
+| 16-25 || [[Anneau des objets déments]] || 5 000
+|-
+| 26-35 || [[Anneau des crocs du rat]] || 5 000
+|-
+| 36-52 || [[Anneau de gui sacré]] || 6 000
+|-
+| 53-69 || [[Anneau de connaissance des sorts]] II || 6 000
+|-
+| 70-86 || [[Anneau de volée de coups]] || 6 000
+|-
+| 87-100 || [[Anneau d’audace pure]] || 6 840
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Anneau intermédiaire inférieur || Prix(po)
+|- CLASS="premier"
+| 01-02 || [[Anneau des crocs de force]] || 8 000
+|-
+| 03-06 || [[Anneau de barrière mentale]] || 8 000
+|-
+| 07-11 || [[Anneau de protection]] +2 || 8 000
+|-
+| 12-13 || [[Anneau d’épuisement de force]] || 8 000
+|-
+| 14-17 || [[Anneau de bouclier de force]] || 8 500
+|-
+| 18-22 || [[Anneau du bélier]] || 8 600
+|-
+| 23-24 || [[Anneau de l’érudit]] || 8 700
+|-
+| 25-27 || [[Anneau descalade|Anneau d’escalade]] supérieur || 10 000
+|-
+| 28-29 || [[Anneau de soins]] || 10 000
+|-
+| 30-31 || [[Anneau d’ennemi de prédilection]] || 10 000
+|-
+| 32-35 || [[Anneau de saut]] supérieur || 10 000
+|-
+| 36-37 || [[Anneau de maîtrise ki]] || 10 000
+|-
+| 38-40 || [[Anneau de révélation]] mineur || 10 000
+|-
+| 41-43 || [[Anneau de nage]] supérieur || 10 000
+|-
+| 44-46 || [[Anneau damitié avec les animaux|Anneau d’amitié avec les animaux]] || 10 800
+|-
+| 47-48 || [[Anneau de transposition]] || 10 800
+|-
+| 49-50 || [[Anneau de précision tactique]] || 11 000
+|-
+| 51-52 || [[Anneau du sybarite]] || 11 000
+|-
+| 53-55 || [[Anneau de leurre]] || 12 000
+|-
+| 56-58 || [[Anneau de création magique]] || 12 000
+|-
+| 59-61 || [[Anneau de dynamisation ectoplasmique]] || 12 000
+|-
+| 62-64 || [[Anneau de résistance aux énergies destructives]] mineur || 12 000
+|-
+| 65-67 || [[Anneau du troglodyte]] || 12 000
+|-
+| 68-70 || [[Anneau de main de fer]] || 12 000
+|-
+| 71-76 || [[Anneau du caméléon]] || 12 700
+|-
+| 77-79 || [[Anneau de connaissance des sorts]] III || 13 500
+|}
+</td><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+| 80-82 || [[Anneau de l’écumeur des mers]] || 14 000
+|-
+| 83-85 || [[Anneau de rétribution]] || 15 000
+|-
+| 86-89 || [[Anneau de marche sur londe|Anneau de marche sur l’onde]] || 15 000
+|-
+| 90-95 || [[Anneau du donjon]], du geôlier || 16 000
+|-
+| 96-100 || [[Anneau de révélation]] majeur || 16 000
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Anneau intermédiaire supérieur || Prix(po)
+|- CLASS="premier"
+| 01-04 || [[Anneau de résistance intérieure]] mineur || 18 000
+|-
+| 05-16 || [[Anneau de protection]] +3 || 18 000
+|-
+| 17-26 || [[Anneau de stockage de sort]] || 18 000
+|-
+| 27-30 || [[Anneau de voile d’énergie]] || 19 500
+|-
+| 31-35 || [[Anneau de maîtrise magique]] || 20 000
+|-
+| 36-46 || [[Anneau dinvisibilité|Anneau d’invisibilité]] || 20 000
+|-
+| 47-54 || [[Anneau des arcanes]] I || 20 000
+|-
+| 55-60 || [[Anneau de révélation]] suprême || 24 000
+|-
+| 61-68 || [[Anneau de connaissance des sorts]] IV || 24 000
+|-
+| 69-80 || [[Anneau desquive totale|Anneau d’esquive totale]] || 25 000
+|-
+| 81-88 || [[Anneau de rayons X]] || 25 000
+|-
+| 89-100 || [[Anneau de clignotement]] || 27 000
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Anneau puissant inférieur || Prix(po)
+|- CLASS="premier"
+| 01-09 || [[Anneau de résistance aux énergies destructives]] majeur || 28 000
+|-
+| 10-16 || [[Anneau de lecclésiarque|Anneau de l’ecclésiarque]] || 28 500
+|-
+| 17-33 || [[Anneau de protection]] +4 || 32 000
+|-
+| 34-39 || [[Anneau de retour]] || 33 600
+|-
+| 40-55 || [[Anneau de liberté de mouvement]] || 40 000
+|-
+| 56-70 || [[Anneau des arcanes]] II || 40 000
+|-
+| 71-75 || [[Anneau de résistance intérieure]] majeur || 42 000
+|-
+| 76-92 || [[Anneau de résistance aux énergies destructives]] suprême || 44 000
+|-
+| 93-100 || [[Anneau du destin repoussé]] || 45 000
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Anneau puissant supérieur || Prix(po)
+|- CLASS="premier"
+| 01-06 || [[Anneau de protection mutuelle]] majeur || 50 000
+|-
+| 07-18 || [[Anneau de protection]] +5 || 50 000
+|-
+| 19-27 || [[Anneau du feu détoiles|Anneau du feu d’étoiles]] || 50 000
+|-
+| 28-37 || [[Anneau de stockage de sort]] || 50 000
+|-
+| 38-43 || [[Anneau de prolongement]] || 56 000
+|-
+| 44-48 || [[Anneau de résistance intérieure]] suprême || 66 000
+|-
+| 49-57 || [[Anneau des arcanes]] III || 70 000
+|-
+| 58-63 || [[Anneaux des spiritualistes]] || 70 000
+|-
+| 64-71 || [[Anneau de télékinésie]] || 75 000
+|-
+| 72-76 || [[Anneau de régénération]] || 90 000
+|-
+| 77-82 || [[Anneau de renvoi des sorts]] || 100 000
+|-
+| 83-86 || [[Anneau des arcanes]] IV || 100 000
+|-
+| 87-90 || [[Anneau de triple souhait]] || 120 000
+|-
+| 91-93 || [[Anneau de convocation de djinn]] || 125 000
+|-
+| 94-97 || [[Anneau de contrôle des éléments]] || 200 000
+|-
+| 98-100 || [[Anneau de stockage de sort]] majeur || 200 000
+|}
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Détermination aléatoire des anneaux magiques</fullName>
+</wikiPage>

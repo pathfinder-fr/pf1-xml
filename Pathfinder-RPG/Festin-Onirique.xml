@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Festin onirique</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort chaman 1</category><category>Pathfinder-RPG.Sort druide 1</category><category>Pathfinder-RPG.Sort prêtre 1</category><category>Pathfinder-RPG.Sort rôdeur 1</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:21:36Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Armures magiques spécifiques</link><link>Pathfinder-RPG.Cotte du chant stellaire</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de chaman</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche création</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Desna (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fDesna.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Desna (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fDesna.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Desna-(Technique).html&quot; title=&quot;Desna&quot;&gt;Desna&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Creation.html&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Cham&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;R&#244;d&lt;/a&gt; 1  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact  
+&lt;b&gt;Cibles&lt;/b&gt; cr&#233;ature touch&#233;e  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; instantan&#233;e  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif)&lt;br /&gt;&lt;br /&gt;La prochaine fois que la cible s&#39;endort (dans les huit heures), elle r&#234;ve d&#39;un riche festin compos&#233; de ses boissons et plats favoris. Quand elle se r&#233;veille, elle est repue, comme si elle avait mang&#233; un repas nutritif, peu importe la nature de ce qu&#39;elle a mang&#233; en r&#234;ve. La cible doit dormir au moins 1 heure pour b&#233;n&#233;ficier des effets de ce sort. Si elle est r&#233;veill&#233; pendant cette p&#233;riode, le sort est interrompu et ses effets sont annul&#233;s.&lt;br /&gt;&lt;br /&gt;Si le personnage dort alors qu&#39;il a pr&#233;par&#233; ce sort, il peut automatiquement l&#39;utiliser pendant son sommeil pour b&#233;n&#233;ficier de ses effets. Cette d&#233;pense n&#39;est pas prise en compte lorsque l&#39;on d&#233;termine le nombre d&#39;emplacements de sort disponibles. Par exemple, si le personnage va se coucher &#224; minuit et qu&#39;il utilise ce sort pendant sa p&#233;riode de sommeil de 8 heures, il peut tout de m&#234;me pr&#233;parer des sorts pour tous ses emplacements au matin.
+]]></body>
+  <raw><![CDATA[{s:divin|Desna|%2fPCUP%2fReligion-PNG%2fDesna.png}{s:cs}{s:ISG}'''École''' [[Invocation]] ([[branche création|création]]) ; '''Niveau''' [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, FD]]  
+'''Portée''' contact  
+'''Cibles''' créature touchée  
+'''Durée''' instantanée  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; '''Résistance à la magie''' oui (inoffensif)
+
+La prochaine fois que la cible s'endort (dans les huit heures), elle rêve d'un riche festin composé de ses boissons et plats favoris. Quand elle se réveille, elle est repue, comme si elle avait mangé un repas nutritif, peu importe la nature de ce qu'elle a mangé en rêve. La cible doit dormir au moins 1 heure pour bénéficier des effets de ce sort. Si elle est réveillé pendant cette période, le sort est interrompu et ses effets sont annulés.
+
+Si le personnage dort alors qu'il a préparé ce sort, il peut automatiquement l'utiliser pendant son sommeil pour bénéficier de ses effets. Cette dépense n'est pas prise en compte lorsque l'on détermine le nombre d'emplacements de sort disponibles. Par exemple, si le personnage va se coucher à minuit et qu'il utilise ce sort pendant sa période de sommeil de 8 heures, il peut tout de même préparer des sorts pour tous ses emplacements au matin.]]></raw>
+  <fullName>Pathfinder-RPG.Festin onirique</fullName>
+</wikiPage>

@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Le Cavalier blanc</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Irrisen, Pays de lhiver éternel</category></categories>
+  <lastModified>2022-03-15 13:50:04Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Cavalier de Baba Yaga</link><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.type Fée</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.Contact glacial</link><link>Pathfinder-RPG.détection des pensées</link><link>Pathfinder-RPG.Zone de vérité</link><link>Pathfinder-RPG.Flèche de laube</link><link>Pathfinder-RPG.Tempête de grêle</link><link>Pathfinder-RPG.Charme-monstre</link><link>Pathfinder-RPG.Cône de froid</link><link>Pathfinder-RPG.Suggestion de groupe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Combat monté</link><link>Pathfinder-RPG.Feu nourri</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Tir à bout portant</link><link>Pathfinder-RPG.Tir monté</link><link>Pathfinder-RPG.Tir de précision</link><link>Pathfinder-RPG.Tir rapide</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.épée longue (arme)</link><link>Pathfinder-RPG.arc long composite (arme)</link><link>Pathfinder-RPG.traqueuse (propriété)</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Flèches (arme)</link><link>Pathfinder-RPG.lumière (propriété)</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.cuirasse (armure)</link><link>Pathfinder-RPG.Cavalier de Baba Yaga</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Le Cavalier blanc&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;F&#233;e&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/F&#233;e.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Courts-Suppl&#233;ments-Univers-(Contenu).html&quot; title=&quot;Courts suppl&#233;ments univers (Contenu)&quot;&gt;Irrisen, pays de l&#39;hiver &#233;ternel p.53&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-F&#233;e.html&quot; title=&quot;F&#233;e&quot;&gt;F&#233;e&lt;/a&gt; de taille M, LN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; lumi&#232;re aveuglante (9 m, DD 23)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 27, contact 17, pris au d&#233;pourvu 20 (armure +6, Dex +7, naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 136 (16d6+80)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +17, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/fer foid ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, poison ; &lt;b&gt;RM&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;&#233;p&#233;e longue +1&lt;/i&gt;, +14/+9 (1d8+6/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; &lt;i&gt;arc long composite traqueur +2&lt;/i&gt;, +18/+13 (1d8+7/19-20 x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; arme de Cavalier, bonne ou mauvaise fortune (DD 23)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 11 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l’invisibilit&#233;&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contact-Glacial.html&quot; title=&quot;Contact glacial&quot;&gt;contact glacial&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;d&#233;tection des pens&#233;es&quot;&gt;d&#233;tection des pens&#233;es&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Zone-De-V&#233;rit&#233;.html&quot; title=&quot;Zone de v&#233;rit&#233;&quot;&gt;zone de v&#233;rit&#233;&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+5/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#232;che-De-Laube.html&quot; title=&quot;Fl&#232;che de l&amp;#39;aube&quot;&gt;fl&#232;che de l’aube&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp&#234;te-De-Gr&#234;le.html&quot; title=&quot;Temp&#234;te de gr&#234;le&quot;&gt;temp&#234;te de gr&#234;le&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Monstre.html&quot; title=&quot;Charme-monstre&quot;&gt;charme-monstre&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;C&#244;ne-De-Froid.html&quot; title=&quot;C&#244;ne de froid&quot;&gt;c&#244;ne de froid&lt;/a&gt;&lt;/i&gt; (DD 20)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Suggestion-De-Groupe.html&quot; title=&quot;Suggestion de groupe&quot;&gt;suggestion de groupe&lt;/a&gt;&lt;/i&gt; (DD 21)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 25, &lt;b&gt;Con&lt;/b&gt; 20, &lt;b&gt;Int&lt;/b&gt; 18, &lt;b&gt;Sag&lt;/b&gt; 21, &lt;b&gt;Cha&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +13, &lt;b&gt;DMD&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (arc long composite), &lt;a class=&quot;pagelink&quot; href=&quot;Combat-Mont&#233;.html&quot; title=&quot;Combat mont&#233;&quot;&gt;Combat mont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Feu-Nourri.html&quot; title=&quot;Feu nourri&quot;&gt;Feu nourri&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (arc long composite), &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-Mont&#233;.html&quot; title=&quot;Tir mont&#233;&quot;&gt;Tir mont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-De-Pr&#233;cision.html&quot; title=&quot;Tir de pr&#233;cision&quot;&gt;Tir de pr&#233;cision&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-Rapide.html&quot; title=&quot;Tir rapide&quot;&gt;Tir rapide&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) +18, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +18, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +21, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +18, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +26, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +26, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, hallit, scalde, sylvestre ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 18 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; convocation de monture, robe de Cavalier
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;p&#233;e-Longue-(Arme).html&quot; title=&quot;&#201;p&#233;e longue&quot;&gt;&#233;p&#233;e longue&lt;/a&gt; +1&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Arme de Cavalier (Sur).&lt;/b&gt; Le Cavalier blanc est arm&#233; d’un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arc-Long-Composite-(Arme).html&quot; title=&quot;Arc long composite&quot;&gt;arc long composite&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Traqueuse.html&quot; title=&quot;traqueuse (propri&#233;t&#233;)&quot;&gt;traqueur&lt;/a&gt; +2&lt;/i&gt; et d’un carquois contenant une r&#233;serve infinie de fl&#232;ches. Une fois par &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;, il peut tirer une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#232;ches-(Arme).html&quot; title=&quot;Fl&#232;ches (20)&quot;&gt;fl&#232;che&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Lumi&#232;re.html&quot; title=&quot;lumi&#232;re (propri&#233;t&#233;)&quot;&gt;lumi&#232;re&lt;/a&gt; +1&lt;/i&gt; de son carquois.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Lumi&#232;re aveuglante (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, le Cavalier blanc peut irradier une aura de lumi&#232;re aveuglante sur un cercle de 9 m&#232;tres de rayon. Les cr&#233;atures qui se trouvent dans la zone affect&#233;e doivent r&#233;ussir un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 23 ou se trouver &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Aveugl&#233;.html&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugl&#233;es&lt;/a&gt; de mani&#232;re permanente. Une cr&#233;ature qui r&#233;ussit son jet de sauvegarde ne peut plus &#234;tre affect&#233;e par l’aura de lumi&#232;re aveuglante du Cavalier pendant 24 heures. Le jet de sauvegarde est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Robe de Cavalier (Sur).&lt;/b&gt; Le Cavalier blanc porte une robe qui lui conf&#232;re la m&#234;me protection qu’une &lt;a class=&quot;pagelink&quot; href=&quot;Cuirasse-(Armure).html&quot; title=&quot;Cuirasse&quot;&gt;cuirasse&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Cavalier-De-Baba-Yaga.html&quot; title=&quot;Les cavaliers de Baba Yaga&quot;&gt;cavaliers de Baba Yaga&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Cette grande et belle femme est mont&#233;e sur un cheval blanc. Elle tient &#224; la main un &#233;l&#233;gant arc fait de bouleau brut.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le Cavalier blanc est celui des Trois Cavaliers qui a le comportement le plus pos&#233; et diplomatique. Cela ne signifie pas pour autant que cette femme est plus sympathique ou mis&#233;ricordieuse que ses comparses, mais simplement que son habit d’un blanc immacul&#233; est moins &#233;clabouss&#233; de sang. Quand la Cavali&#232;re blanche arrive, les habitants de l&#39;Enclave de la Reine-Sorci&#232;re cherchent g&#233;n&#233;ralement &#224; entrer dans ses bonnes gr&#226;ces en lui faisant don de th&#233;, de p&#226;tisseries et de pain fra&#238;chement cuit. Elle accepte rarement ces offrandes. Les rares fois o&#249; cela arrive, c’est seulement de la part de ceux qu’elle a jug&#233;s loyaux &#224; Baba Yaga et dignes d’&#234;tre gouvern&#233;s par la Reine des Sorci&#232;res. Ceux qui tentent de gagner ses bonnes gr&#226;ces avec trop d’empressement r&#233;ussissent surtout &#224; se retrouver la cible de son attention.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Le Cavalier blanc|FP 11}
+{s:pucem|Fée|Forêt-Jungle|Froid}
+{s:BDtexte|''Source : [[Courts suppléments univers (Contenu)|Irrisen, pays de l'hiver éternel p.53]]''}
+{s:BDtexte|'''PX''' 12 800}
+{s:BDtexte|[[type Fée|Fée]] de taille M, LN}
+{s:BDtexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir (capacité)|vision dans le noir]] 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +24}
+{s:BDtexte|'''Aura''' lumière aveuglante (9 m, DD 23)}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 27, contact 17, pris au dépourvu 20 (armure +6, Dex +7, naturelle +4)}
+{s:BDtexte|'''pv''' 136 (16d6+80)}
+{s:BDtexte|'''Réf''' +17, '''Vig''' +10, '''Vol''' +15}
+{s:BDtexte|'''RD''' 10/fer foid ; '''Immunités''' froid, poison ; '''RM''' 22}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 9 m}
+{s:BDtexte|'''Corps à corps''' ''épée longue +1'', +14/+9 (1d8+6/19-20)}
+{s:BDtexte|'''À distance''' ''arc long composite traqueur +2'', +18/+13 (1d8+7/19-20 x3)}
+{s:BDtexte|'''Attaques spéciales''' arme de Cavalier, bonne ou mauvaise fortune (DD 23)}
+{s:BDtexte|'''Pouvoirs magiques''' ([[NLS]] 11 ; [[concentration]] +16)}
+{s:BDsorts|Constant — ''[[détection de linvisibilité|détection de l’invisibilité]]''}
+{s:BDsorts|À volonté — ''[[contact glacial]]'' (DD 16), ''[[détection des pensées]]'' (DD 17), ''[[zone de vérité]]'' (DD 17)}
+{s:BDsorts|5/jour — ''[[flèche de laube|flèche de l’aube]]'', ''[[tempête de grêle]]''}
+{s:BDsorts|3/jour — ''[[charme-monstre]]'' (DD 19), ''[[cône de froid]]'' (DD 20)}
+{s:BDsorts|1/jour — ''[[suggestion de groupe]]'' (DD 21)}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 20, '''Dex''' 25, '''Con''' 20, '''Int''' 18, '''Sag''' 21, '''Cha''' 21}
+{s:BDtexte|'''BBA''' +8, '''BMO''' +13, '''DMD''' 23}
+{s:BDtexte|'''Dons''' [[Arme de prédilection]] (arc long composite), [[Combat monté]], [[Feu nourri]], [[Science du critique]] (arc long composite), [[Tir à bout portant]], [[Tir monté]], [[Tir de précision]], [[Tir rapide]]}
+{s:BDtexte|'''Compétences''' [[Bluff]] +18, [[Connaissances]] (histoire) +18, [[Connaissances]] (mystères) +18, [[Connaissances]] (nature) +21, [[Connaissances]] (plans) +18, [[Diplomatie]] +23, [[Discrétion]] +26, [[Équitation]] +26, [[Intimidation]] +20, [[Perception]] +24, [[Psychologie]] +24}
+{s:BDtexte|'''Langues''' commun, hallit, scalde, sylvestre ; [[Télépathie (capacité)|télépathie]] 18 m}
+{s:BDtexte|'''Particularités''' convocation de monture, robe de Cavalier}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' tous}
+{s:BDtexte|'''Organisation sociale''' solitaire}
+{s:BDtexte|'''Trésor''' ''[[épée longue (arme)|épée longue]] +1''}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Arme de Cavalier (Sur).''' Le Cavalier blanc est armé d’un ''[[arc long composite (arme)|arc long composite]] [[traqueuse (propriété)|traqueur]] +2'' et d’un carquois contenant une réserve infinie de flèches. Une fois par [[round]], il peut tirer une ''[[flèches (arme)|flèche]] de [[lumière (propriété)|lumière]] +1'' de son carquois.}
+{s:BDtexte|'''Lumière aveuglante (Sur).''' Par une [[action libre]], le Cavalier blanc peut irradier une aura de lumière aveuglante sur un cercle de 9 mètres de rayon. Les créatures qui se trouvent dans la zone affectée doivent réussir un [[jds|jet de sauvegarde]] de [[Vigueur]] [[DD]] 23 ou se trouver [[aveuglé|aveuglées]] de manière permanente. Une créature qui réussit son jet de sauvegarde ne peut plus être affectée par l’aura de lumière aveuglante du Cavalier pendant 24 heures. Le jet de sauvegarde est basé sur la [[Constitution]].}
+{s:BDtexte|'''Robe de Cavalier (Sur).''' Le Cavalier blanc porte une robe qui lui confère la même protection qu’une [[cuirasse (armure)|cuirasse]].}
+</div>
+</td>
+<td>
+<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Cavalier de Baba Yaga|cavaliers de Baba Yaga]].'''''</li></ul>
+''Cette grande et belle femme est montée sur un cheval blanc. Elle tient à la main un élégant arc fait de bouleau brut.''
+
+Le Cavalier blanc est celui des Trois Cavaliers qui a le comportement le plus posé et diplomatique. Cela ne signifie pas pour autant que cette femme est plus sympathique ou miséricordieuse que ses comparses, mais simplement que son habit d’un blanc immaculé est moins éclaboussé de sang. Quand la Cavalière blanche arrive, les habitants de l'Enclave de la Reine-Sorcière cherchent généralement à entrer dans ses bonnes grâces en lui faisant don de thé, de pâtisseries et de pain fraîchement cuit. Elle accepte rarement ces offrandes. Les rares fois où cela arrive, c’est seulement de la part de ceux qu’elle a jugés loyaux à Baba Yaga et dignes d’être gouvernés par la Reine des Sorcières. Ceux qui tentent de gagner ses bonnes grâces avec trop d’empressement réussissent surtout à se retrouver la cible de son attention.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Cavalier Blanc</fullName>
+</wikiPage>

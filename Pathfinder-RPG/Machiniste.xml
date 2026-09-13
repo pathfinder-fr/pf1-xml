@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Robot, Machiniste</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-20 15:59:31Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Bestiaire de la mer Intérieure (Contenu)</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Robots</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.sous-type Robot</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Solidité (capacité)</link><link>Pathfinder-RPG.Traits des créatures artificielles (capacité)</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.armes courantes</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Robots</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Machiniste&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature artificielle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature artificielle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.223&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Robot.html&quot; title=&quot;Robot (sous-type)&quot;&gt;robot&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 11, pris au d&#233;pourvu 17 (Dex +1, naturelle +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (4d10+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Solidit&#233;-(Capacit&#233;).html&quot; title=&quot;Solidit&#233; (Ext)&quot;&gt;solidit&#233;&lt;/a&gt; 5 ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles (Ext)&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rable aux coups critiques, vuln&#233;rable &#224; l’&#233;lectricit&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +9 (1d4+7) ou lance de ma&#238;tre, +10 (1d8+7/&#215;3 plus 1d6 &#233;lectricit&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; lance de ma&#238;tre, +6 (1d8+5/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4 ; &lt;b&gt;BMO&lt;/b&gt; +9 ; &lt;b&gt;DMD&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (n’importe lequel) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (n’importe laquelle) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; apprentissage adaptable, chargement d’arme, nanites r&#233;paratrices
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, paire, ou escouade (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (lance de ma&#238;tre, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Apprentissage adaptable (Ext).&lt;/b&gt; Un machiniste a un nombre de points de comp&#233;tences &#233;gal &#224; 4 + son modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; par d&#233; de vie qu’il poss&#232;de et il consid&#232;re les comp&#233;tences &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; comme des comp&#233;tences de classes. De plus, un machiniste a un nombre de rangs de comp&#233;tences bonus &#233;gal &#224; son nombre de d&#233;s de vie, qui peuvent &#234;tre reprogramm&#233;s pour &#234;tre utilis&#233;s pour n’importe quelle comp&#233;tence. Ces rangs de comp&#233;tences bonus ne peuvent par contre pas &#234;tre fragment&#233;s et doivent s’appliquer &#224; une seule comp&#233;tence &#224; la fois. Un machiniste peut modifier la comp&#233;tence &#224; laquelle s’appliquent ces rangs bonus, une fois par jour en passant 1 minute &#224; se concentrer. Il ne peut pas faire une autre action pendant ce temps. Plut&#244;t que d’utiliser ces rangs bonus pour une comp&#233;tence, un machiniste peut choisir de les consacrer &#224; une connaissance martiale. Il gagne alors le maniement d’une arme unique au lieu de rangs bonus dans une comp&#233;tence. Tous les machinistes ma&#238;trisent naturellement toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armecourante.html&quot; title=&quot;armes courantes&quot;&gt;armes courantes&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Chargement d’arme (Ext).&lt;/b&gt; Toute arme m&#233;tallique mani&#233;e par un machiniste se charge d’&#233;lectricit&#233; et inflige 1d6 points de d&#233;g&#226;ts &#233;lectriques suppl&#233;mentaires &#224; chaque coup r&#233;ussi.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Nanites r&#233;paratrices (Ext).&lt;/b&gt; Les nanites d’un machiniste le soignent et, &#224; chaque heure qui passe, elles lui font regagner un nombre de points de vie &#233;gal &#224; sa quantit&#233; de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;d&#233;s de vie&lt;/a&gt; (soit 4 points de vie par heure pour la plupart des machinistes). Une fois par jour, un machiniste peut, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, r&#233;parer 4d6 points de d&#233;g&#226;ts subis par lui ou un autre robot qu’il touche.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Robots.html&quot; title=&quot;Les robots&quot;&gt;robots&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Cette cr&#233;ature artificielle ressemble &#224; une armure lourde compl&#232;te de laiton bruni, avec un orbe brillant en guise d’oeil.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Pour des raisons qu’ils sont les seuls &#224; conna&#238;tre, les machinistes acceptent de servir de troupes de choc et de gardes, r&#233;alisant la t&#226;che qui leur a &#233;t&#233; confi&#233;e avec un d&#233;tachement tout m&#233;canique et une logique aussi efficace que froide. Ils servent n&#233;anmoins un dessein qui d&#233;passe leurs directives actuelles, un objectif implant&#233; en eux au moment de leur cr&#233;ation. Et les machinistes d&#233;sob&#233;issent &#224; leurs pr&#233;tendus ma&#238;tres d&#232;s qu’un de leurs ordres entre en contradiction avec ces myst&#233;rieuses directives internes. Quand on les interroge sur ces d&#233;sob&#233;issances, les machinistes ne r&#233;pondent que par le silence.&lt;br /&gt;&lt;br /&gt;Bien qu’ils soient des cr&#233;atures artificielles, les machinistes se d&#233;placent avec fluidit&#233;. Et s’ils n’ont pas de bouche &#224; proprement parler, ils ont n&#233;anmoins la capacit&#233; de s’exprimer, m&#234;me s’ils l’utilisent rarement. En ces occasions, les machinistes s’expriment tous d’une voix &#233;trangement similaire, sur un ton aigu et bizarrement d&#233;form&#233;, d&#233;nu&#233; d’&#233;motions et de nuances.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Machiniste|FP 4}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.223]]''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] ([[sous-type robot|robot]]) de taille M, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 11, pris au dépourvu 17 (Dex +1, naturelle +7)}
+{s:BDTexte|'''pv''' 42 (4d10+20)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +1, '''Vol''' +2}
+{s:BDTexte|'''Capacités défensives''' [[Solidité (capacité)|solidité]] 5 ; '''Immunités''' [[Traits des créatures artificielles (capacité)|traits des créatures artificielles]]}
+{s:BDTexte|'''Faiblesses''' vulnérable aux coups critiques, vulnérable à l’électricité}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m}
+{s:BDTexte|'''Corps à corps''' coup, +9 (1d4+7) ou lance de maître, +10 (1d8+7/×3 plus 1d6 électricité)}
+{s:BDTexte|'''Distance''' lance de maître, +6 (1d8+5/×3)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 20, '''Dex''' 13, '''Con''' —, '''Int''' 10, '''Sag''' 13, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +4 ; '''BMO''' +9 ; '''DMD''' 20}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]]}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (n’importe lequel) +7, [[Perception]] +8, [[Profession]] (n’importe laquelle) +8, [[Psychologie]] +8, [[Sabotage]] +8}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' apprentissage adaptable, chargement d’arme, nanites réparatrices}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation''' solitaire, paire, ou escouade (3-12)}
+{s:BDTexte|'''Trésor''' standard (lance de maître, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Apprentissage adaptable (Ext).''' Un machiniste a un nombre de points de compétences égal à 4 + son modificateur d’[[Intelligence]] par dé de vie qu’il possède et il considère les compétences [[Artisanat]] et [[Profession]] comme des compétences de classes. De plus, un machiniste a un nombre de rangs de compétences bonus égal à son nombre de dés de vie, qui peuvent être reprogrammés pour être utilisés pour n’importe quelle compétence. Ces rangs de compétences bonus ne peuvent par contre pas être fragmentés et doivent s’appliquer à une seule compétence à la fois. Un machiniste peut modifier la compétence à laquelle s’appliquent ces rangs bonus, une fois par jour en passant 1 minute à se concentrer. Il ne peut pas faire une autre action pendant ce temps. Plutôt que d’utiliser ces rangs bonus pour une compétence, un machiniste peut choisir de les consacrer à une connaissance martiale. Il gagne alors le maniement d’une arme unique au lieu de rangs bonus dans une compétence. Tous les machinistes maîtrisent naturellement toutes les [[armes courantes]].}
+{s:BDTexte|'''Chargement d’arme (Ext).''' Toute arme métallique maniée par un machiniste se charge d’électricité et inflige 1d6 points de dégâts électriques supplémentaires à chaque coup réussi.}
+{s:BDTexte|'''Nanites réparatrices (Ext).''' Les nanites d’un machiniste le soignent et, à chaque heure qui passe, elles lui font regagner un nombre de points de vie égal à sa quantité de [[DV|dés de vie]] (soit 4 points de vie par heure pour la plupart des machinistes). Une fois par jour, un machiniste peut, par une [[action complexe]], réparer 4d6 points de dégâts subis par lui ou un autre robot qu’il touche.}
+
+</div></td>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Robots|robots]].'''''</li></ul>''Cette créature artificielle ressemble à une armure lourde complète de laiton bruni, avec un orbe brillant en guise d’oeil.''
+
+Pour des raisons qu’ils sont les seuls à connaître, les machinistes acceptent de servir de troupes de choc et de gardes, réalisant la tâche qui leur a été confiée avec un détachement tout mécanique et une logique aussi efficace que froide. Ils servent néanmoins un dessein qui dépasse leurs directives actuelles, un objectif implanté en eux au moment de leur création. Et les machinistes désobéissent à leurs prétendus maîtres dès qu’un de leurs ordres entre en contradiction avec ces mystérieuses directives internes. Quand on les interroge sur ces désobéissances, les machinistes ne répondent que par le silence.
+
+Bien qu’ils soient des créatures artificielles, les machinistes se déplacent avec fluidité. Et s’ils n’ont pas de bouche à proprement parler, ils ont néanmoins la capacité de s’exprimer, même s’ils l’utilisent rarement. En ces occasions, les machinistes s’expriment tous d’une voix étrangement similaire, sur un ton aigu et bizarrement déformé, dénué d’émotions et de nuances.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Machiniste</fullName>
+</wikiPage>

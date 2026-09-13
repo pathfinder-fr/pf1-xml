@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sages murmures</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 1</category><category>Pathfinder-RPG.Sort médium 1</category><category>Pathfinder-RPG.Sort prêtre 2</category><category>Pathfinder-RPG.Sort psychiste 1</category><category>Pathfinder-RPG.Sort rôdeur 1</category><category>Pathfinder-RPG.Sort sorcière 1</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2024-06-08 15:44:20Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de médium</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts du Manuel des Races</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Sorts de psychiste</link><link>Pathfinder-RPG.Temp-manuel-des-races</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.école divination</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.personnelle</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Elfe</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Elfe.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Elfe.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Elfe.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Elfe.html&quot; title=&quot;Les elfes&quot;&gt;elfes&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Divination.html&quot; title=&quot;Divination&quot;&gt;Divination&lt;/a&gt; ; 
+&lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;M&#233;dium.html&quot; title=&quot;Le m&#233;dium&quot;&gt;M&#233;d&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Psy&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;R&#244;d&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor&lt;/a&gt; 1&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, F/FD&lt;/a&gt; (bec de chouette)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Portee.html&quot; title=&quot;personnelle&quot;&gt;personnelle&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; lanceur de sorts&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 10 minutes/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Quand le personnage lance ce sort, il peut glaner des informations aupr&#232;s de la terre elle-m&#234;me. Alors qu’il marche dans la nature, elle murmure dans un langage qu’il comprend, mais qui s’av&#232;re si d&#233;cousu qu’il a du mal &#224; discerner les informations utiles. Ces murmures lui donnent un bonus d’intuition de +4 &#224; un unique test de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; associ&#233; au type d’environnement o&#249; il se trouve. S’il se trouve dans un environnement froid, un d&#233;sert, une for&#234;t, une jungle, en montagne, dans une plaine, un marais ou un environnement aquatique, le bonus s’applique aux tests de Connaissances (nature). S’il est dans un environnement souterrain, le bonus s’applique aux tests de Connaissances (exploration souterraine). S’il se trouve dans un environnement urbain, le bonus concerne les tests de Connaissances (folklore local) et s’il est sur un plan autre que le plan Mat&#233;riel, il s’applique aux tests de Connaissances (plans). Si le personnage quitte un environnement pour un autre, il perd le bonus de l’ancien environnement et gagne celui associ&#233; au nouveau.
+]]></body>
+  <raw><![CDATA[{s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}
+'''École''' [[école divination|Divination]] ; 
+'''Niveau''' [[Druide|Dru]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1<br/>
+'''Temps d'incantation''' 1 [[action complexe]]<br/>
+'''Composantes''' [[composantes|V, G, F/FD]] (bec de chouette)<br/>
+'''Portée''' [[personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Durée''' 10 minutes/[[niveau]] (T)<br/>
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; '''Résistance à la magie''' non
+
+Quand le personnage lance ce sort, il peut glaner des informations auprès de la terre elle-même. Alors qu’il marche dans la nature, elle murmure dans un langage qu’il comprend, mais qui s’avère si décousu qu’il a du mal à discerner les informations utiles. Ces murmures lui donnent un bonus d’intuition de +4 à un unique test de [[Connaissances]] associé au type d’environnement où il se trouve. S’il se trouve dans un environnement froid, un désert, une forêt, une jungle, en montagne, dans une plaine, un marais ou un environnement aquatique, le bonus s’applique aux tests de Connaissances (nature). S’il est dans un environnement souterrain, le bonus s’applique aux tests de Connaissances (exploration souterraine). S’il se trouve dans un environnement urbain, le bonus concerne les tests de Connaissances (folklore local) et s’il est sur un plan autre que le plan Matériel, il s’applique aux tests de Connaissances (plans). Si le personnage quitte un environnement pour un autre, il perd le bonus de l’ancien environnement et gagne celui associé au nouveau.]]></raw>
+  <fullName>Pathfinder-RPG.sages murmures</fullName>
+</wikiPage>

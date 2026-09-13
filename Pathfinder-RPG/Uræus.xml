@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Uræus</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-22 16:28:01Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link><link>Pathfinder-RPG.Sceptre de luræus</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Voltigeur</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.Augure</link><link>Pathfinder-RPG.Divination</link><link>Pathfinder-RPG.Communion</link><link>Pathfinder-RPG.Oracle</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ur&#230;us&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Marais&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.268&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille M, LB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 13, pris au d&#233;pourvu 16 (Dex +3, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 52 (7d10+14)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; maladie ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, escalade 6 m, nage 6 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 15 m (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 morsures, +11 (1d8+4 plus poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; poison, souffle
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7 ; &lt;b&gt;BMO&lt;/b&gt; +11 ; &lt;b&gt;DMD&lt;/b&gt; 24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Voltigeur.html&quot; title=&quot;Voltigeur&quot;&gt;Voltigeur&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +11 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Acrobaties, +8 en Perception
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique, c&#233;leste, commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; rivi&#232;res chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou nich&#233;e (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle (Sur).&lt;/b&gt; Une fois tous les 1d4 rounds et par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, l’une des t&#234;tes de l’ur&#230;us peut projeter une ligne de poison de 9 m&#232;tres. Toutes les cr&#233;atures situ&#233;es dans la zone sont &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Aveugl&#233;.html&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugl&#233;es&lt;/a&gt; pendant 1 round et doivent faire un jet de sauvegarde contre le poison (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 15 pour annuler les deux effets). L’ur&#230;us peut utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pour projeter deux lignes de poison ou mordre avec une t&#234;te et souffler avec l’autre. Chaque t&#234;te note ind&#233;pendamment de l’autre le rythme auquel elle peut souffler.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Morsure ou souffle — contact ou blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 15 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 2 rounds ; &lt;i&gt;effet initial&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Aveugl&#233;.html&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugl&#233;&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Paralys&#233;.html&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;&lt;/a&gt; pendant 1 round ; &lt;i&gt;effet secondaire&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Aveugl&#233;.html&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugl&#233;&lt;/a&gt; pendant 2d4 rounds ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce cobra &#224; deux t&#234;tes sillonne les airs gr&#226;ce &#224; une grande paire d’ailes aux plumes noires qui se d&#233;ploie de part et d’autre de son corps ophidien.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les ur&#230;us sont les protecteurs sacr&#233;s des rivi&#232;res qui harc&#232;lent tous ceux qui osent menacer leurs cours d’eau. Ils n’agissent pas ainsi par simple caract&#232;re territorial mais d&#233;fendent les rivi&#232;res pour le compte des voyageurs et des communaut&#233;s locales, en signe de d&#233;votion envers leur d&#233;esse m&#232;re. Quand un groupe d’ur&#230;us ne compte pas assez d’individus pour lutter contre un danger, il demande parfois l’aide d’un groupe d’aventuriers bien connus dans leur r&#233;gion. Quand rien ne menace la s&#233;curit&#233; de leur nid, les ur&#230;us chassent souvent de redoutables proies, comme des cr&#233;atures des rivi&#232;res ayant atteint une taille gigantesque. Les ur&#230;us croient &#224; la justice et deviennent fous furieux si quelqu’un tente de corrompre un dirigeant local. Si le danger rev&#234;t une ampleur inhabituelle, il leur arrive m&#234;me de se rendre aux c&#244;t&#233;s de ce dirigeant pour le mettre en garde contre ceux qui tentent de l’entra&#238;ner sur une mauvaise voie.&lt;br /&gt;&lt;br /&gt;Un ur&#230;us accepte les offrandes de tous ceux qui vivent pr&#232;s de leurs rivi&#232;res ou voyagent gr&#226;ce &#224; elles. En &#233;change, il enseigne &#224; ses alli&#233;s comment b&#233;n&#233;ficier des bienfaits des cours d’eau et servir au mieux la soci&#233;t&#233;. La patience, la diligence et l’envie d’&#233;coute, voil&#224; les qualit&#233;s qu’un ur&#230;us tente d’instiller chez ceux qui demandent son aide. De plus, l’ur&#230;us est toujours &#224; l’aff&#251;t de tout suppliant susceptible de devenir un bon serviteur de sa d&#233;esse.&lt;br /&gt;&lt;br /&gt;La plupart des ur&#230;us mesurent pr&#232;s de 2,15 m&#232;tres de long pour une envergure similaire et 75 kilos. Bien qu’il ait deux t&#234;tes, il parle d’une seule voix qui &#233;mane des deux &#224; la fois.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Oracle ur&#230;us&lt;a class=&quot;headeranchor&quot; id=&quot;Oracle_ur&#230;us_0&quot; href=&quot;#Oracle_ur&#230;us_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les ur&#230;us dot&#233;s d’un lien particulier avec leur divinit&#233; re&#231;oivent des avertissements et des visions cryptiques qui les aident &#224; prot&#233;ger leur demeure et &#224; discerner les v&#233;ritables intentions d’autrui. Ces oracles peuvent lancer &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Augure.html&quot; title=&quot;Augure&quot;&gt;augure&lt;/a&gt;&lt;/i&gt; et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divination.html&quot; title=&quot;Divination&quot;&gt;divination&lt;/a&gt;&lt;/i&gt; une fois par jour et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communion.html&quot; title=&quot;Communion&quot;&gt;communion&lt;/a&gt;&lt;/i&gt; une fois par semaine. Ils gagnent des niveaux dans la classe d’&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;oracle&lt;/a&gt;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Uræus|FP 5}
+{s:pucem|Créature magique|Marais|Tropical}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.268]]''}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille M, LB}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +16}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 13, pris au dépourvu 16 (Dex +3, naturelle +6)}
+{s:BDTexte|'''pv''' 52 (7d10+14)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +7, '''Vol''' +4}
+{s:BDTexte|'''Immunités''' maladie ; '''Résistances''' feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m, escalade 6 m, nage 6 m, [[Vol (capacité)|vol]] 15 m (moyenne)}
+{s:BDTexte|'''Corps à corps''' 2 morsures, +11 (1d8+4 plus poison)}
+{s:BDTexte|'''Attaques spéciales''' poison, souffle}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 16, '''Con''' 14, '''Int''' 15, '''Sag''' 14, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +7 ; '''BMO''' +11 ; '''DMD''' 24}
+{s:BDTexte|'''Dons''' [[Attaque en vol]], [[Expertise du combat]], [[Science de linitiative|Science de l'initiative]], [[Voltigeur]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +15, [[Connaissances]] (religion) +5, [[Discrétion]] +9, [[Escalade]] +18, [[Natation]] +18, [[Perception]] +16, [[Psychologie]] +9, [[Vol]] +11 ; '''Modificateurs raciaux''' +4 en Acrobaties, +8 en Perception}
+{s:BDTexte|'''Langues''' aquatique, céleste, commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' rivières chaudes}
+{s:BDTexte|'''Organisation''' solitaire, couple ou nichée (3-8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Souffle (Sur).''' Une fois tous les 1d4 rounds et par une [[action simple]], l’une des têtes de l’uræus peut projeter une ligne de poison de 9 mètres. Toutes les créatures situées dans la zone sont [[aveuglé|aveuglées]] pendant 1 round et doivent faire un jet de sauvegarde contre le poison ([[Réflexes]] DD 15 pour annuler les deux effets). L’uræus peut utiliser une [[action complexe]] pour projeter deux lignes de poison ou mordre avec une tête et souffler avec l’autre. Chaque tête note indépendamment de l’autre le rythme auquel elle peut souffler.}
+{s:BDTexte|'''Poison (Ext).''' Morsure ou souffle — contact ou blessure ; ''JdS'' [[Vigueur]] DD 15 ; ''fréquence'' 1/round pendant 2 rounds ; ''effet initial'' [[aveuglé]] et [[paralysé]] pendant 1 round ; ''effet secondaire'' [[aveuglé]] pendant 2d4 rounds ; ''guérison'' 2 réussites consécutives.}
+
+</div></td>
+<td><div>''Ce cobra à deux têtes sillonne les airs grâce à une grande paire d’ailes aux plumes noires qui se déploie de part et d’autre de son corps ophidien.''
+
+Les uræus sont les protecteurs sacrés des rivières qui harcèlent tous ceux qui osent menacer leurs cours d’eau. Ils n’agissent pas ainsi par simple caractère territorial mais défendent les rivières pour le compte des voyageurs et des communautés locales, en signe de dévotion envers leur déesse mère. Quand un groupe d’uræus ne compte pas assez d’individus pour lutter contre un danger, il demande parfois l’aide d’un groupe d’aventuriers bien connus dans leur région. Quand rien ne menace la sécurité de leur nid, les uræus chassent souvent de redoutables proies, comme des créatures des rivières ayant atteint une taille gigantesque. Les uræus croient à la justice et deviennent fous furieux si quelqu’un tente de corrompre un dirigeant local. Si le danger revêt une ampleur inhabituelle, il leur arrive même de se rendre aux côtés de ce dirigeant pour le mettre en garde contre ceux qui tentent de l’entraîner sur une mauvaise voie.
+
+Un uræus accepte les offrandes de tous ceux qui vivent près de leurs rivières ou voyagent grâce à elles. En échange, il enseigne à ses alliés comment bénéficier des bienfaits des cours d’eau et servir au mieux la société. La patience, la diligence et l’envie d’écoute, voilà les qualités qu’un uræus tente d’instiller chez ceux qui demandent son aide. De plus, l’uræus est toujours à l’affût de tout suppliant susceptible de devenir un bon serviteur de sa déesse.
+
+La plupart des uræus mesurent près de 2,15 mètres de long pour une envergure similaire et 75 kilos. Bien qu’il ait deux têtes, il parle d’une seule voix qui émane des deux à la fois.
+
+====Oracle uræus====
+Les uræus dotés d’un lien particulier avec leur divinité reçoivent des avertissements et des visions cryptiques qui les aident à protéger leur demeure et à discerner les véritables intentions d’autrui. Ces oracles peuvent lancer ''[[augure]]'' et ''[[divination]]'' une fois par jour et ''[[communion]]'' une fois par semaine. Ils gagnent des niveaux dans la classe d’[[Oracle|oracle]].
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Uræus</fullName>
+</wikiPage>

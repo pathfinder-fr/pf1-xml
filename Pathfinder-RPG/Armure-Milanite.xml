@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Armure milanite</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag armure</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-24 22:15:10Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Armures magiques spécifiques</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.Armures magiques spécifiques</link><link>Pathfinder-RPG.armure de cuir (armure)</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Milani (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fMilani.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Milani (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fMilani.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Milani-(Technique).html&quot; title=&quot;Milani&quot;&gt;Milani&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Amure milanite&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 3 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques-Sp&#233;cifiques.html&quot; title=&quot;Armures magiques sp&#233;cifiques&quot;&gt;armure&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 2 780 po ; &lt;b&gt;Poids&lt;/b&gt; 7,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Cuir-(Armure).html&quot; title=&quot;Armure de cuir&quot;&gt;armure de cuir&lt;/a&gt; +1&lt;/i&gt; ressemble g&#233;n&#233;ralement &#224; un v&#234;tement de travail lourd et protecteur, comme celui d&#39;un forgeron, d&#39;un boucher ou d&#39;un b&#251;cheron professionnel. Une fois par jour, lorsqu&#39;un alli&#233; adjacent tombe &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Inconscient.html&quot; title=&quot;Inconscient&quot;&gt;inconscient&lt;/a&gt;, le porteur peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt; sur cet alli&#233; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt; ; si le porteur tombe inconscient et que cette capacit&#233; n&#39;a pas d&#233;j&#224; &#233;t&#233; d&#233;pens&#233;e pour la journ&#233;e, elle se d&#233;clenche automatiquement sur le porteur.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d&#39;armes et armures magiques&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 470 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Milani|%2fPCUP%2fReligion-PNG%2fMilani.png}<div class="BD">
+{s:BDTitre|Amure milanite|{s:ISG}}
+'''Aura''' [[Invocation]] faible ; '''NLS''' 3 ; '''Emplacement''' [[Armures magiques spécifiques|armure]] ; '''Prix''' 2 780 po ; '''Poids''' 7,5 kg
+(((Description)))
+{s:cs}Cette ''[[armure de cuir (armure)|armure de cuir]] +1'' ressemble généralement à un vêtement de travail lourd et protecteur, comme celui d'un forgeron, d'un boucher ou d'un bûcheron professionnel. Une fois par jour, lorsqu'un allié adjacent tombe [[inconscient]], le porteur peut utiliser ''[[soins légers]]'' sur cet allié par une [[action rapide]] ; si le porteur tombe inconscient et que cette capacité n'a pas déjà été dépensée pour la journée, elle se déclenche automatiquement sur le porteur.
+(((Création)))
+'''Conditions''' [[Création darmes et armures magiques|Création d'armes et armures magiques]], ''[[soins légers]]'' ; '''Coût''' 1 470 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Armure milanite</fullName>
+</wikiPage>

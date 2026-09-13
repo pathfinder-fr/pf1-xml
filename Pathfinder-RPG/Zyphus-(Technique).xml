@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Zyphus</title>
+  <categories><category>Pathfinder-RPG.Divinité</category></categories>
+  <lastModified>2023-09-07 16:10:50Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Cotte morose</link><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Traits religieux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.pic de guerre lourd (arme)</link><link>Pathfinder-RPG.Domaine de la Destruction</link><link>Pathfinder-RPG.Domaine de la Flore</link><link>Pathfinder-RPG.Domaine de la Guerre</link><link>Pathfinder-RPG.Domaine du Mal</link><link>Pathfinder-RPG.Domaine de la Mort</link><link>Pathfinder-RPG.Pharasma (technique)</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Boulette</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Main spectrale</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Convocation de monstres III</link><link>Pathfinder-RPG.Cacodaémon</link><link>Pathfinder-RPG.Convocation de monstres IV</link><link>Pathfinder-RPG.Lacridaémon</link><link>Pathfinder-RPG.Convocation de monstres V</link><link>Pathfinder-RPG.Ceustodaémon</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fZyphus.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;%2fPCUP%2fReligion-PNG%2fZyphus.png&lt;/i&gt;&quot;); }
+  let align = &quot;Neutre Mauvais&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Zyphus,&lt;br/&gt;Le Sombre Faucheur&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fZyphus.png&quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#AUTRES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Autres divinit&#233;s&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Neutre Mauvais&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Cimeti&#232;res, mort accidentelle et trag&#233;die
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Victimes am&#232;res d&#39;une trag&#233;die ou d&#39;une perte&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Vautour
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pic-De-Guerre-Lourd-(Arme).html&quot; title=&quot;Pic de guerre lourd&quot;&gt;Pic de guerre lourd&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Destruction.html&quot; title=&quot;Domaine de la Destruction&quot;&gt;Destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Flore.html&quot; title=&quot;Domaine de la Flore&quot;&gt;Flore&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Mort.html&quot; title=&quot;Domaine de la Mort&quot;&gt;Mort&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Destruction.html&quot; title=&quot;Domaine de la Destruction&quot;&gt;Catastrophe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Da&#233;mons&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Flore.html&quot; title=&quot;Domaine de la Flore&quot;&gt;&#201;pines&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Mort.html&quot; title=&quot;Domaine de la Mort&quot;&gt;Meurtre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Mort.html&quot; title=&quot;Domaine de la Mort&quot;&gt;Morts-vivants&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Flore.html&quot; title=&quot;Domaine de la Flore&quot;&gt;Pourriture&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Sang&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;pagelink&quot; href=&quot;../Golarion/Zyphus.html&quot; title=&quot;Zyphus, le Sombre Faucheux&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;Zyphus est le dieu malin de la mort accidentelle. Ennemi acharn&#233; de la d&#233;esse &lt;a class=&quot;pagelink&quot; href=&quot;Pharasma-(Technique).html&quot; title=&quot;Pharasma&quot;&gt;Pharasma&lt;/a&gt;, il est v&#233;n&#233;r&#233; par de petits cultes dans tout Golarion. Ces groupes fomentent des trag&#233;dies et provoquent des accidents dans l&#39;espoir de renforcer le pouvoir de leur dieu. Son symbole impie est un pic de guerre fabriqu&#233; &#224; partir d&#39;un cr&#226;ne, d&#39;une c&#244;te et d&#39;un f&#233;mur humains.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles uniques aux suivants&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_uniques_aux_suivants_0&quot; href=&quot;#R&#232;gles_uniques_aux_suivants_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;pr&#234;tre combattant&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Boulette.html&quot; title=&quot;Boulette&quot;&gt;Boulette&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 1er niveau.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement.html&quot; title=&quot;H&#233;b&#233;tement&quot;&gt;H&#233;b&#233;tement&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme une oraison.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Main-Spectrale.html&quot; title=&quot;Main spectrale&quot;&gt;Main spectrale&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 2e niveau.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;Manipulation &#224; distance&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme une oraison.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Convocations &#233;tendues.&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Iii.html&quot; title=&quot;Convocation de monstres III&quot;&gt;Convocation de monstres III&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cacoda&#233;mon.html&quot; title=&quot;Da&#233;mon, Cacoda&#233;mon&quot;&gt;Cacoda&#233;mon&lt;/a&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Iv.html&quot; title=&quot;Convocation de monstres IV&quot;&gt;Convocation de monstres IV&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Lacrida&#233;mon.html&quot; title=&quot;Da&#233;mon, Lacrida&#233;mon&quot;&gt;Lacrida&#233;mon&lt;/a&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-V.html&quot; title=&quot;Convocation de monstres V&quot;&gt;Convocation de monstres V&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ceustoda&#233;mon.html&quot; title=&quot;Da&#233;mon, Ceustoda&#233;mon&quot;&gt;Ceustoda&#233;mon&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Options de personnage th&#233;matiques&lt;a class=&quot;headeranchor&quot; id=&quot;Options_de_personnage_th&#233;matiques_1&quot; href=&quot;#Options_de_personnage_th&#233;matiques_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;i&gt;&#192; VENIR&lt;/i&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Zyphus|Zyphus,<br/>Le Sombre Faucheur|%2fPCUP%2fReligion-PNG%2fZyphus.png|[[Divinités#AUTRES|Autres divinités]]
+|Neutre Mauvais|Cimetières, mort accidentelle et tragédie
+|Victimes amères d'une tragédie ou d'une perte|Vautour
+|[[Pic de guerre lourd (arme)|Pic de guerre lourd]]
+|[[Domaine de la Destruction|Destruction]], [[Domaine de la Flore|Flore]], [[Domaine de la Guerre|Guerre]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]]
+|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Mal|Daémons]], [[Domaine de la Flore|Épines]], [[Domaine de la Mort|Meurtre]], [[Domaine de la Mort|Morts-vivants]], [[Domaine de la Flore|Pourriture]], [[Domaine de la Guerre|Sang]]
+|—}{s:cs}{s:ISG}Zyphus est le dieu malin de la mort accidentelle. Ennemi acharné de la déesse [[Pharasma (technique)|Pharasma]], il est vénéré par de petits cultes dans tout Golarion. Ces groupes fomentent des tragédies et provoquent des accidents dans l'espoir de renforcer le pouvoir de leur dieu. Son symbole impie est un pic de guerre fabriqué à partir d'un crâne, d'une côte et d'un fémur humains.
+
+===Règles uniques aux suivants===
+'''Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).'''  
+• ''[[Boulette]]'' peut être préparé comme un sort de 1er niveau.  
+• ''[[Hébétement]]'' peut être préparé comme une oraison.  
+• ''[[Main spectrale]]'' peut être préparé comme un sort de 2e niveau.  
+• ''[[Manipulation à distance]]'' peut être préparé comme une oraison.
+
+'''Convocations étendues.'''  
+• ''[[Convocation de monstres III]].'' [[Cacodaémon]]  
+• ''[[Convocation de monstres IV]].'' [[Lacridaémon]]  
+• ''[[Convocation de monstres V]].'' [[Ceustodaémon]]
+
+===Options de personnage thématiques===
+''À VENIR'']]></raw>
+  <fullName>Pathfinder-RPG.Zyphus (technique)</fullName>
+</wikiPage>

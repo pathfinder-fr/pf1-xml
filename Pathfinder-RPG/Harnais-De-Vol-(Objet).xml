@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Harnais de vol</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2021-09-21 13:38:23Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Animaux, montures et leur équipement</link><link>Pathfinder-RPG.Gobelin (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Animaux, montures et leur équipement</link><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Chauve-souris sanguinaire</link><link>Pathfinder-RPG.Vautour géant</link><link>Pathfinder-RPG.Selle (objet)</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Gobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;Prix&lt;/b&gt; 10 po (standard), 80 po (de ma&#238;tre) ; &lt;b&gt;Poids&lt;/b&gt; 5 kg (standard), 5 kg (de ma&#238;tre)  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Animaux,-Montures-Et-Leur-&#201;quipement.html&quot; title=&quot;Animaux, montures et leur &#233;quipement&quot;&gt;Animaux, montures et leur &#233;quipement&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Ce harnais de cuir rudimentaire sert &#224; attacher un &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelin&lt;/a&gt; ou une autre cr&#233;ature de taille P sous une &lt;a class=&quot;pagelink&quot; href=&quot;Chauve-Souris-Sanguinaire.html&quot; title=&quot;Chauve-souris, Chauve-souris sanguinaire&quot;&gt;chauve-souris sanguinaire&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;Vautour-G&#233;ant.html&quot; title=&quot;Vautour, Vautour g&#233;ant&quot;&gt;vautour g&#233;ant&lt;/a&gt;. Il est consid&#233;r&#233; comme une &lt;a class=&quot;pagelink&quot; href=&quot;Selle-(Objet).html&quot; title=&quot;Selle&quot;&gt;selle sp&#233;ciale&lt;/a&gt;. Si la monture rate son test de &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt;, il y a 50 % de chances que le harnais se brise et que le cavalier tombe. Le harnais de ma&#238;tre compte comme une &lt;a class=&quot;pagelink&quot; href=&quot;Selle-(Objet).html&quot; title=&quot;Selle&quot;&gt;selle de guerre exotique&lt;/a&gt; et ne risque pas de casser si la monture rate son test de &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:CM}'''Prix''' 10 po (standard), 80 po (de maître) ; '''Poids''' 5 kg (standard), 5 kg (de maître)  
+<span class="Catégorie">'''Catégorie''' [[Animaux, montures et leur équipement]]</span>
+<hr>
+Ce harnais de cuir rudimentaire sert à attacher un [[Gobelin (race)|gobelin]] ou une autre créature de taille P sous une [[Chauve-souris sanguinaire|chauve-souris sanguinaire]] ou un [[Vautour géant|vautour géant]]. Il est considéré comme une [[Selle (objet)|selle spéciale]]. Si la monture rate son test de [[Vol]], il y a 50 % de chances que le harnais se brise et que le cavalier tombe. Le harnais de maître compte comme une [[Selle (objet)|selle de guerre exotique]] et ne risque pas de casser si la monture rate son test de [[Vol]].]]></raw>
+  <fullName>Pathfinder-RPG.Harnais de vol (objet)</fullName>
+</wikiPage>

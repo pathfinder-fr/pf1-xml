@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ramidreju</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-21 18:34:59Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.absorption de sang (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Création de fosse</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Compression (capacité)</link><link>Pathfinder-RPG.Exemples de pièges</link><link>Pathfinder-RPG.FP</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ramidreju&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.216&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 12, contact 12, pris au d&#233;pourvu 10 (Dex +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 11 (2d10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m, creusement 3 m, escalade 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +4 (1d6 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-De-Sang-(Capacit&#233;).html&quot; title=&quot;Absorption de sang (Ext)&quot;&gt;absorption de sang&lt;/a&gt; (1 Constitution), &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 3 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Fosse.html&quot; title=&quot;Cr&#233;ation de fosse&quot;&gt;cr&#233;ation de fosse&lt;/a&gt;&lt;/i&gt; (DD 12)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; 3, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2 ; &lt;b&gt;BMO&lt;/b&gt; +2 (+6 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 14 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +6 en Discr&#233;tion, +6 en &#201;vasion
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; sylvestre (incapable de parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Compression-(Capacit&#233;).html&quot; title=&quot;Compression (Ext)&quot;&gt;compression&lt;/a&gt;, excavateur de fosses, sent l’or
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple (objets en or)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Excavateur de fosses (Ext).&lt;/b&gt; Un ramidreju peut creuser une fosse de 6 m&#232;tres dans un sol normal ou de la terre meuble (pas de la pierre solide) et la couvrir de branches, d’herbes et de brindilles. Cette fosse est similaire au pi&#232;ge &lt;a class=&quot;pagelink&quot; href=&quot;Exemples-De-Pi&#232;ges.html#Fossecamoufl&#233;e&quot; title=&quot;Exemples de pi&#232;ges&quot;&gt;fosse camoufl&#233;e&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Rencontres#Fp.html&quot; title=&quot;FP&quot;&gt;FP&lt;/a&gt; 1. Un ramidreju a besoin de 4 heures pour creuser une fosse, mais il n’est pas oblig&#233; de la creuser enti&#232;rement le m&#234;me jour.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sent l’or (Ext).&lt;/b&gt; Un ramidreju peut utiliser son &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt; pour d&#233;tecter et localiser de l’or qui se trouve &#224; une distance de 27 m&#232;tres. Le ramidreju peut sentir de l’or m&#234;me s’il a &#233;t&#233; enterr&#233; ou s’il se trouve dans un contenant (comme un sac &#224; dos ou un coffre), ou encore s’il s’agit d’un filon d’or dans de la roche solide. Le ramidreju ne conna&#238;t par contre pas la quantit&#233; d’or ni ne sait si celui-ci est transport&#233; par une cr&#233;ature ni s’il est bien gard&#233; par une cr&#233;ature ou un pi&#232;ge.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette grande belette au corps de serpent est munie de d&#233;fenses et d’un groin, comme un sanglier, et son corps est couvert d’une douce fourrure verte.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les ramidrejus sont des belettes &#224; corps de serpent qui ont un talent pour creuser des fosses et sentir l’or. La majorit&#233; des ramidrejus a une fourrure verte, souvent constell&#233;e de t&#226;ches vertes et marron plus ou moins sombres qui rappellent les &#233;cailles d’un serpent venimeux. Bien qu’ils ne soient pas venimeux, les ramidrejus sont parfaitement capables d’&#233;touffer de petites proies ou d’absorber le sang d’ennemis plus grands.&lt;br /&gt;&lt;br /&gt;Les ramidrejus naissent parfois dans les port&#233;es de belettes normales ou g&#233;antes qui habitent pr&#232;s de r&#233;gions sauvages charg&#233;es de magie f&#233;&#233;rique. Bellig&#233;rantes et combattives, ces belettes sont g&#233;n&#233;ralement tu&#233;es ou chass&#233;es par leur m&#232;re, que leur nature mystique rend mal &#224; l’aise. Les ramidrejus qui r&#233;ussissent &#224; survivre &#224; leur petite enfance deviennent adultes en l’espace d’une semaine et m&#232;nent une vie solitaire qui peut durer jusqu’&#224; 300 ans.&lt;br /&gt;&lt;br /&gt;Leur lien avec la magie f&#233;&#233;rique permet &#224; tous les ramidrejus de comprendre instinctivement quelques mots de sylvestre et ils peuvent y r&#233;pondre par des expressions faciales ou des tapements de pattes, &#224; d&#233;faut de mots.&lt;br /&gt;&lt;br /&gt;Les ramidrejus sont naturellement attir&#233;s par l’or et d&#233;corent souvent leurs terriers avec des p&#233;pites d’or, des pi&#232;ces d’or ou des bijoux en or, qu’ils prot&#232;gent avec f&#233;rocit&#233; et sauvagerie. Il arrive que des mineurs peu scrupuleux capturent des ramidrejus et les forcent &#224; sentir et d&#233;terrer des gisements d’or. N&#233;anmoins, &#233;tant donn&#233; le temp&#233;rament impr&#233;visible de ces cr&#233;atures, de tels arrangements se terminent g&#233;n&#233;ralement dans un bain de sang. Les &#226;mes plus douces qui arrivent &#224; flatter un ramidreju avec de l’or plut&#244;t que de le forcer &#224; la captivit&#233; d&#233;couvrent que ces cr&#233;atures sont capables de former une amiti&#233; durable avec eux. Cela dit, la soif d’or des ramidrejus signifie souvent que le profit de leurs alli&#233;s ne sera pas tr&#232;s important.&lt;br /&gt;&lt;br /&gt;Les ramidrejus mesurent en moyenne 1,60 m&#232;tre de long et p&#232;sent 50 kilos.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ramidreju|FP 1/2}
+{s:pucem|Créature magique|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.216]]''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille M, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Odorat (capacité)|odorat]] ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 12, contact 12, pris au dépourvu 10 (Dex +2)}
+{s:BDTexte|'''pv''' 11 (2d10)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +3, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m, creusement 3 m, escalade 6 m}
+{s:BDTexte|'''Corps à corps''' morsure, +4 (1d6 plus [[Étreinte (capacité)|étreinte]])}
+{s:BDTexte|'''Attaques spéciales''' [[Absorption de sang (capacité)|absorption de sang]] (1 Constitution), [[Constriction (capacité)|constriction]] (1d6)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 3 ; [[concentration]] +3)}
+{s:BDSorts|1/jour — ''[[création de fosse]]'' (DD 12)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 15, '''Con''' 10, '''Int''' 3, '''Sag''' 13, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +2 ; '''BMO''' +2 (+6 en [[lutte]]) ; '''DMD''' 14 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +8, [[Escalade]] +8, [[Évasion]] +8, [[Perception]] +6 ; '''Modificateurs raciaux''' +6 en Discrétion, +6 en Évasion}
+{s:BDTexte|'''Langues''' sylvestre (incapable de parler)}
+{s:BDTexte|'''Particularités''' [[Compression (capacité)|compression]], excavateur de fosses, sent l’or}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' triple (objets en or)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Excavateur de fosses (Ext).''' Un ramidreju peut creuser une fosse de 6 mètres dans un sol normal ou de la terre meuble (pas de la pierre solide) et la couvrir de branches, d’herbes et de brindilles. Cette fosse est similaire au piège [[Exemples de pièges#Fossecamouflée|fosse camouflée]] [[FP]] 1. Un ramidreju a besoin de 4 heures pour creuser une fosse, mais il n’est pas obligé de la creuser entièrement le même jour.}
+{s:BDTexte|'''Sent l’or (Ext).''' Un ramidreju peut utiliser son [[Odorat (capacité)|odorat]] pour détecter et localiser de l’or qui se trouve à une distance de 27 mètres. Le ramidreju peut sentir de l’or même s’il a été enterré ou s’il se trouve dans un contenant (comme un sac à dos ou un coffre), ou encore s’il s’agit d’un filon d’or dans de la roche solide. Le ramidreju ne connaît par contre pas la quantité d’or ni ne sait si celui-ci est transporté par une créature ni s’il est bien gardé par une créature ou un piège.}
+
+</div></td>
+<td><div>''Cette grande belette au corps de serpent est munie de défenses et d’un groin, comme un sanglier, et son corps est couvert d’une douce fourrure verte.''
+
+Les ramidrejus sont des belettes à corps de serpent qui ont un talent pour creuser des fosses et sentir l’or. La majorité des ramidrejus a une fourrure verte, souvent constellée de tâches vertes et marron plus ou moins sombres qui rappellent les écailles d’un serpent venimeux. Bien qu’ils ne soient pas venimeux, les ramidrejus sont parfaitement capables d’étouffer de petites proies ou d’absorber le sang d’ennemis plus grands.
+
+Les ramidrejus naissent parfois dans les portées de belettes normales ou géantes qui habitent près de régions sauvages chargées de magie féérique. Belligérantes et combattives, ces belettes sont généralement tuées ou chassées par leur mère, que leur nature mystique rend mal à l’aise. Les ramidrejus qui réussissent à survivre à leur petite enfance deviennent adultes en l’espace d’une semaine et mènent une vie solitaire qui peut durer jusqu’à 300 ans.
+
+Leur lien avec la magie féérique permet à tous les ramidrejus de comprendre instinctivement quelques mots de sylvestre et ils peuvent y répondre par des expressions faciales ou des tapements de pattes, à défaut de mots.
+
+Les ramidrejus sont naturellement attirés par l’or et décorent souvent leurs terriers avec des pépites d’or, des pièces d’or ou des bijoux en or, qu’ils protègent avec férocité et sauvagerie. Il arrive que des mineurs peu scrupuleux capturent des ramidrejus et les forcent à sentir et déterrer des gisements d’or. Néanmoins, étant donné le tempérament imprévisible de ces créatures, de tels arrangements se terminent généralement dans un bain de sang. Les âmes plus douces qui arrivent à flatter un ramidreju avec de l’or plutôt que de le forcer à la captivité découvrent que ces créatures sont capables de former une amitié durable avec eux. Cela dit, la soif d’or des ramidrejus signifie souvent que le profit de leurs alliés ne sera pas très important.
+
+Les ramidrejus mesurent en moyenne 1,60 mètre de long et pèsent 50 kilos.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ramidreju</fullName>
+</wikiPage>

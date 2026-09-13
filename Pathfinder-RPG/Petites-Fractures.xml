@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Petites fractures</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort chaman 1</category><category>Pathfinder-RPG.Sort druide 1</category><category>Pathfinder-RPG.Sort prêtre 1</category><category>Pathfinder-RPG.Sort sorcière 1</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 15:14:10Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de chaman</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts par registre</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.sous-type Terre</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Réparation intégrale</link><link>Pathfinder-RPG.Torag (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fTorag.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Torag (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fTorag.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Torag-(Technique).html&quot; title=&quot;Torag&quot;&gt;Torag&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;terre&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Cham&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor&lt;/a&gt; 1  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une brindille cass&#233;e)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact  
+&lt;b&gt;Cible&lt;/b&gt; une section de pierre de 1,5 m de c&#244;t&#233; ou une cr&#233;ature poss&#233;dant le sous-type &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Terre.html&quot; title=&quot;Terre (sous-type)&quot;&gt;Terre&lt;/a&gt;  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (objet) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (objet)&lt;br /&gt;&lt;br /&gt;D’un simple contact, le personnage cr&#233;e une petite fracture temporaire dans un morceau de pierre ou une cr&#233;ature de sous-type &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Terre.html&quot; title=&quot;Terre (sous-type)&quot;&gt;Terre&lt;/a&gt;. Si le personnage lance ce sort sur un morceau de pierre, il r&#233;duit sa &lt;a class=&quot;pagelink&quot; href=&quot;Exploration#Solidite.html&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 5 et ses points de vie de 10 par tranche de 2,5 cm d’&#233;paisseur. S’il le lance sur une cr&#233;ature de sous-type terre, celle-ci subit une malus de -2 &#224; sa &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; pendant toute la dur&#233;e du sort. Un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration-Int&#233;grale.html&quot; title=&quot;R&#233;paration int&#233;grale&quot;&gt;r&#233;paration int&#233;grale&lt;/a&gt;&lt;/i&gt; inverse les effets de &lt;i&gt;petites fractures&lt;/i&gt;.
+]]></body>
+  <raw><![CDATA[{s:divin|Torag|%2fPCUP%2fReligion-PNG%2fTorag.png}{s:ISG}{s:GeM}'''École''' [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; '''Niveau''' [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Sorcière|Sor]] 1  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, M]] (une brindille cassée)  
+'''Portée''' contact  
+'''Cible''' une section de pierre de 1,5 m de côté ou une créature possédant le sous-type [[sous-type Terre|Terre]]  
+'''Durée''' 1 [[round]]/[[niveau]]  
+'''Jet de sauvegarde''' [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; '''Résistance à la magie''' oui (objet)
+
+D’un simple contact, le personnage crée une petite fracture temporaire dans un morceau de pierre ou une créature de sous-type [[sous-type Terre|Terre]]. Si le personnage lance ce sort sur un morceau de pierre, il réduit sa [[solidité]] de 5 et ses points de vie de 10 par tranche de 2,5 cm d’épaisseur. S’il le lance sur une créature de sous-type terre, celle-ci subit une malus de -2 à sa [[CA]] pendant toute la durée du sort. Un sort de ''[[réparation intégrale]]'' inverse les effets de ''petites fractures''.]]></raw>
+  <fullName>Pathfinder-RPG.Petites fractures</fullName>
+</wikiPage>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sort vaste</title>
+  <categories><category>Pathfinder-RPG.Contenu supplémentaire</category><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don métamagie</category><category>Pathfinder-RPG.Src Magic Tactics Toolbox</category></categories>
+  <lastModified>2024-07-23 17:57:55Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Boîte à tactiques magiques (Contenu)</link><link>Pathfinder-RPG.dons de métamagie</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Rapidité</link></outLinks>
+  <body><![CDATA[&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Les sorts du personnage couvrent des cibles dans une zone plus vaste.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONMETAMAGIE&quot; title=&quot;Les dons&quot;&gt;m&#233;tamagie&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Condition.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 3&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Le personnage peut alt&#233;rer un sort qui affecte des cibles qui ne sont pas distantes de plus de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; tel que &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt;). La distance maximale qui doit les s&#233;parer des autres cibles passe &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Un sort vaste utilise un emplacement de sort d’un niveau sup&#233;rieur au niveau normal du sort.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Vast spell (Metamagic)&lt;br /&gt;&lt;br /&gt;Your spells cover targets across a larger area.&lt;br /&gt;&lt;br /&gt;Prerequisite: Caster level 3rd.&lt;br /&gt;&lt;br /&gt;Benefit: You can alter a spell that targets a number of creatures no more than 30 feet apart, such as haste. The maximum distance apart of those you target with the spell increases to 60 feet. A vast spell uses up a spell slot 1 level higher than the spell’s actual level.&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:cs|Magic Tactics Toolbox}
+
+''Les sorts du personnage couvrent des cibles dans une zone plus vaste.''
+
+'''Catégorie.''' [[dons#DONMETAMAGIE|métamagie]]
+
+'''Condition.''' [[NLS]] 3
+
+'''Avantage.''' Le personnage peut altérer un sort qui affecte des cibles qui ne sont pas distantes de plus de 9 m (6 {s:c} tel que ''[[rapidité]]''). La distance maximale qui doit les séparer des autres cibles passe à 18 m (12 {s:c}). Un sort vaste utilise un emplacement de sort d’un niveau supérieur au niveau normal du sort.
+
+(((Vast spell (Metamagic)
+
+Your spells cover targets across a larger area.
+
+Prerequisite: Caster level 3rd.
+
+Benefit: You can alter a spell that targets a number of creatures no more than 30 feet apart, such as haste. The maximum distance apart of those you target with the spell increases to 60 feet. A vast spell uses up a spell slot 1 level higher than the spell’s actual level.)))]]></raw>
+  <fullName>Pathfinder-RPG.Sort vaste</fullName>
+</wikiPage>

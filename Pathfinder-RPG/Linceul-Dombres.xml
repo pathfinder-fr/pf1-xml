@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Linceul d'ombres</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2020-09-26 03:11:29Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Drow (race)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.camouflage</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Drow (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Drow.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Drow (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Drow.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Drow-(Race).html&quot; title=&quot;Les drows&quot;&gt;drows&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;i&gt;Le personnage utilise une partie de sa magie inn&#233;e pour s’envelopper de t&#233;n&#232;bres et esquiver les attaques.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, pouvoir magique racial &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Immediate.html&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;, le personnage peut cr&#233;er un linceul de t&#233;n&#232;bres brumeuses autour de sa personne et ainsi b&#233;n&#233;ficier d’un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat#Camouflage.html&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; contre une attaque. La brume se dissipe d&#232;s l’attaque r&#233;solue. &lt;br /&gt;&lt;br /&gt;Le personnage peut utiliser ce pouvoir une fois par jour et une fois de plus quand le &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; de son pouvoir racial &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres.html&quot; title=&quot;T&#233;n&#232;bres&quot;&gt;t&#233;n&#232;bres&lt;/a&gt;&lt;/i&gt; atteint 5, 10, 15 et 20.
+]]></body>
+  <raw><![CDATA[{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:cm}''Le personnage utilise une partie de sa magie innée pour s’envelopper de ténèbres et esquiver les attaques.''
+
+'''Conditions.''' [[Attaques réflexes]], pouvoir magique racial ''[[ténèbres]]''.
+
+'''Avantages.''' Par une [[action immédiate]], le personnage peut créer un linceul de ténèbres brumeuses autour de sa personne et ainsi bénéficier d’un [[camouflage]] contre une attaque. La brume se dissipe dès l’attaque résolue. 
+
+Le personnage peut utiliser ce pouvoir une fois par jour et une fois de plus quand le [[NLS|niveau de lanceur de sorts]] de son pouvoir racial ''[[ténèbres]]'' atteint 5, 10, 15 et 20.]]></raw>
+  <fullName>Pathfinder-RPG.Linceul dombres</fullName>
+</wikiPage>

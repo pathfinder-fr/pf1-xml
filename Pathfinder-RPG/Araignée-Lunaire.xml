@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Araignée lunaire</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-16 00:09:00Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Araignée géante</link><link>Pathfinder-RPG.Araignée goliath</link><link>Pathfinder-RPG.Araignée ogre</link><link>Pathfinder-RPG.Araignée-crabe géante</link><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Nuée daraignées</link><link>Pathfinder-RPG.Tarentule géante</link><link>Pathfinder-RPG.Veuve noire géante</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.Perception des vibrations (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Toile (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.État gazeux</link><link>Pathfinder-RPG.Attaque spéciale renforcée</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Enchevêtré</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Araign&#233;e lunaire&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.34&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations (Ext)&quot;&gt;perception des vibrations&lt;/a&gt; &#224; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 12, pris au d&#233;pourvu 12 (Dex +2, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (3d10+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, escalade 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +4 (1d6+1 et poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; poison, &lt;a class=&quot;pagelink&quot; href=&quot;Toile-(Capacit&#233;).html&quot; title=&quot;Toile (Ext)&quot;&gt;toile&lt;/a&gt; (contact &#224; distance +11, DD 19, 10 pv, RD 5/tranchant)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-De-Dissimulation.html&quot; title=&quot;Brume de dissimulation&quot;&gt;brume de dissimulation&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tat-Gazeux.html&quot; title=&quot;&#201;tat gazeux&quot;&gt;&#233;tat gazeux&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (poison), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +21, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Discr&#233;tion, +16 en Escalade, +4 en Perception
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun (ne peut pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; toiles d’araign&#233;e lunaire
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou colonie (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Morsure – blessure; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vig&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; pendant 5 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; ; &lt;i&gt;effet&lt;/i&gt; 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;For&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 1 r&#233;ussite.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Toiles d’araign&#233;e lunaire (Ext).&lt;/b&gt; Les toiles des araign&#233;es lunaires sont particuli&#232;rement solides et collantes et ces cr&#233;atures tissent des pi&#232;ges semblables &#224; des filets, qui leur servent &#224; attraper leurs ennemis. L’attaque de toile d’une araign&#233;e lunaire est une attaque de contact &#224; distance qui ajoute un bonus racial de +6 au DD du jet de sauvegarde pour la d&#233;truire ou s’en lib&#233;rer. L’araign&#233;e tient &#233;galement une laisse de toile reli&#233;e &#224; la cr&#233;ature enchev&#234;tr&#233;e, l’emp&#234;chant ainsi de s’&#233;loigner tant que celle-ci ne parvient pas &#224; s’en lib&#233;rer.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;Les araign&#233;es lunaires posent souvent des pi&#232;ges de toile dans les endroits o&#249; elles vivent. Quiconque entre dans une case remplie de toiles d’araign&#233;e lunaire doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13) pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Enchev&#234;tr&#233;.html&quot; title=&quot;Enchev&#234;tr&#233;&quot;&gt;enchev&#234;tr&#233;&lt;/a&gt; comme s’il avait &#233;t&#233; touch&#233; par une attaque de toile (mais, dans ce cas, l’araign&#233;e ne tient pas de laisse attach&#233;e &#224; sa cible). Si une cr&#233;ature d&#233;j&#224; enchev&#234;tr&#233;e entre dans une case remplie de toiles d’araign&#233;e lunaire, elle doit faire un nouveau &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Agripp&#233;.html&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;e&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;Les toiles d’araign&#233;e lunaire poss&#232;dent 10 points de vie et une RD 5/tranchant. Une toile auquel on met le feu re&#231;oit 1d6 points de d&#233;g&#226;ts de feu suppl&#233;mentaires tous les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; jusqu’&#224; destruction.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette araign&#233;e g&#233;ante, au corps blafard et arrondi, est aussi grande qu’un gros chien. Ses yeux cramoisis brillent d’une intelligence pernicieuse.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les araign&#233;es lunaires sont des araign&#233;es g&#233;antes malveillantes qui hantent le bois de l’Echo et d’autres for&#234;ts dans les vallons occidentaux du Sellen. Elles sont bien plus intelligentes que la plupart des autres arachnides. Bien qu’elles ne le soient pas autant que les humains, elles font preuve d’une ruse sournoise et ma&#238;trisent des talents magiques qui les rendent plus dangereuses que les autres araign&#233;es g&#233;antes. Elles chassent m&#234;me ensemble et partagent leurs proies.&lt;br /&gt;&lt;br /&gt;Les araign&#233;es lunaires sont des tisseuses de toiles qui cr&#233;ent souvent d’&#233;normes pi&#232;ges de toiles gluantes. Une cr&#233;ature qui entre dans un espace o&#249; ces araign&#233;es ont tiss&#233; une toile peut rapidement se retrouver enchev&#234;tr&#233;e ou agripp&#233;e. Le plus souvent, les araign&#233;es lunaires utilisent leur pouvoir de brume de dissimulation pour cacher l’&#233;tendue de leurs toiles lorsque des proies approchent. Elles se servent de leur perception des vibrations pour savoir o&#249; en est leur proie tandis que celle-ci se d&#233;m&#232;ne pour se lib&#233;rer.&lt;br /&gt;&lt;br /&gt;Les araign&#233;es lunaires ne parlent aucune langue humano&#239;de, mais communiquent entre elles par des cliquetis et des tapotements de pattes contre le sol. Elles comprennent les concepts simples exprim&#233;s en commun (ce qui leur est bien utile quand elles &#233;coutent leurs proies pendant la traque).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Araignée lunaire|FP 2}
+{s:pucem|Créature magique|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 5 p.34''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille M, NM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[Perception des vibrations (capacité)|perception des vibrations]] à à 18 m, [[Vision dans le noir (capacité)|vision dans le noir]] à à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
+{s:BDTexte|'''pv''' 22 (3d10+6)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +5, '''Vol''' +3}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, escalade 9 m}
+{s:BDTexte|'''Corps à corps''' morsure, +4 (1d6+1 et poison)}
+{s:BDTexte|'''Attaques spéciales''' poison, [[Toile (capacité)|toile]] (contact à distance +11, DD 19, 10 pv, RD 5/tranchant)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 5 ; [[concentration]] +3)}
+{s:BDSorts|3/jour — ''[[brume de dissimulation]]''}
+{s:BDSorts|1/jour — ''[[état gazeux]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 15, '''Con''' 14, '''Int''' 5, '''Sag''' 14, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +4 ; '''DMD''' 16}
+{s:BDTexte|'''Dons''' [[Attaque spéciale renforcée]] (poison), [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +10, [[Escalade]] +21, [[Perception]] +10 ; '''Modificateurs raciaux''' +4 en Discrétion, +16 en Escalade, +4 en Perception}
+{s:BDTexte|'''Langues''' commun (ne peut pas parler)}
+{s:BDTexte|'''Particularités''' toiles d’araignée lunaire}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation''' solitaire, couple ou colonie (3-8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Poison (Ext).''' Morsure – blessure; ''JdS'' [[Vigueur|Vig]] [[DD]] 15 ; ''fréquence'' 1 [[round]] pendant 5 [[round|rounds]] ; ''effet'' 1d3 [[Force|For]] ; ''guérison'' 1 réussite.}
+{s:BDTexte|'''Toiles d’araignée lunaire (Ext).''' Les toiles des araignées lunaires sont particulièrement solides et collantes et ces créatures tissent des pièges semblables à des filets, qui leur servent à attraper leurs ennemis. L’attaque de toile d’une araignée lunaire est une attaque de contact à distance qui ajoute un bonus racial de +6 au DD du jet de sauvegarde pour la détruire ou s’en libérer. L’araignée tient également une laisse de toile reliée à la créature enchevêtrée, l’empêchant ainsi de s’éloigner tant que celle-ci ne parvient pas à s’en libérer.}
+{s:BDTexte|* Les araignées lunaires posent souvent des pièges de toile dans les endroits où elles vivent. Quiconque entre dans une case remplie de toiles d’araignée lunaire doit réussir un jet de [[Réflexes]] ([[DD]] 13) pour ne pas être [[enchevêtré]] comme s’il avait été touché par une attaque de toile (mais, dans ce cas, l’araignée ne tient pas de laisse attachée à sa cible). Si une créature déjà enchevêtrée entre dans une case remplie de toiles d’araignée lunaire, elle doit faire un nouveau [[jet de sauvegarde]] pour ne pas être [[agrippé|agrippée]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|* Les toiles d’araignée lunaire possèdent 10 points de vie et une RD 5/tranchant. Une toile auquel on met le feu reçoit 1d6 points de dégâts de feu supplémentaires tous les [[round|rounds]] jusqu’à destruction.}
+</div></td>
+<td><div>''Cette araignée géante, au corps blafard et arrondi, est aussi grande qu’un gros chien. Ses yeux cramoisis brillent d’une intelligence pernicieuse.''
+
+Les araignées lunaires sont des araignées géantes malveillantes qui hantent le bois de l’Echo et d’autres forêts dans les vallons occidentaux du Sellen. Elles sont bien plus intelligentes que la plupart des autres arachnides. Bien qu’elles ne le soient pas autant que les humains, elles font preuve d’une ruse sournoise et maîtrisent des talents magiques qui les rendent plus dangereuses que les autres araignées géantes. Elles chassent même ensemble et partagent leurs proies.
+
+Les araignées lunaires sont des tisseuses de toiles qui créent souvent d’énormes pièges de toiles gluantes. Une créature qui entre dans un espace où ces araignées ont tissé une toile peut rapidement se retrouver enchevêtrée ou agrippée. Le plus souvent, les araignées lunaires utilisent leur pouvoir de brume de dissimulation pour cacher l’étendue de leurs toiles lorsque des proies approchent. Elles se servent de leur perception des vibrations pour savoir où en est leur proie tandis que celle-ci se démène pour se libérer.
+
+Les araignées lunaires ne parlent aucune langue humanoïde, mais communiquent entre elles par des cliquetis et des tapotements de pattes contre le sol. Elles comprennent les concepts simples exprimés en commun (ce qui leur est bien utile quand elles écoutent leurs proies pendant la traque).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Araignée lunaire</fullName>
+</wikiPage>

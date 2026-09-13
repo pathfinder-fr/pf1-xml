@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ogre</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire</category></categories>
+  <lastModified>2020-10-13 18:20:59Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Armure en peau de géant</link><link>Pathfinder-RPG.Baluchithérium</link><link>Pathfinder-RPG.Bestiaire (Contenu)</link><link>Pathfinder-RPG.Brute rageuse</link><link>Pathfinder-RPG.Cartes fantasmagoriques</link><link>Pathfinder-RPG.Chair corrompue</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 1</link><link>Pathfinder-RPG.Critique sauvage</link><link>Pathfinder-RPG.Crochet ogre (arme)</link><link>Pathfinder-RPG.Déplacement et position</link><link>Pathfinder-RPG.Descriptions individuelles des armes</link><link>Pathfinder-RPG.Écrasement dogre</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs (Combat)</link><link>Pathfinder-RPG.Géant des collines</link><link>Pathfinder-RPG.Géant du froid</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Gobeur glouton</link><link>Pathfinder-RPG.Guenaude annis</link><link>Pathfinder-RPG.Guide des empreintes de pas (objet)</link><link>Pathfinder-RPG.Hobgobelin</link><link>Pathfinder-RPG.Lamashtu (technique)</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.masque des géants</link><link>Pathfinder-RPG.Modificateurs de combat</link><link>Pathfinder-RPG.Ogre</link><link>Pathfinder-RPG.Ogre mage</link><link>Pathfinder-RPG.Ogre mythique</link><link>Pathfinder-RPG.Outils de compétences</link><link>Pathfinder-RPG.Petites et grandes créatures</link><link>Pathfinder-RPG.Robe dossements</link><link>Pathfinder-RPG.Sorts dintrigue</link><link>Pathfinder-RPG.Souffle fétide</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Temp page alternative des armures2</link><link>Pathfinder-RPG.Temp-codex monstrueux</link><link>Pathfinder-RPG.Tête vestigiale</link><link>Pathfinder-RPG.Tieffelin (race)</link><link>Pathfinder-RPG.Traqueur nocturne</link><link>Pathfinder-RPG.Troll jötun</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type géant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.pv</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.initiative</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.Résistance (capacité)</link><link>Pathfinder-RPG.Réception de rochers (capacité)</link><link>Pathfinder-RPG.Lancer de rochers (capacité)</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Brute rageuse</link><link>Pathfinder-RPG.For</link><link>Pathfinder-RPG.Ogre</link><link>Pathfinder-RPG.Chair corrompue</link><link>Pathfinder-RPG.Con</link><link>Pathfinder-RPG.Critique sauvage</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.Écrasement dogre</link><link>Pathfinder-RPG.Science de la lutte</link><link>Pathfinder-RPG.Science du combat à mains nues</link><link>Pathfinder-RPG.Gobeur glouton</link><link>Pathfinder-RPG.Souffle fétide</link><link>Pathfinder-RPG.Tête vestigiale</link><link>Pathfinder-RPG.Traqueur nocturne</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Ogrelin, archétype</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ogre&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.230
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-G&#233;ant.html&quot; title=&quot;G&#233;ant (sous-type)&quot;&gt;g&#233;ant&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 8, pris au d&#233;pourvu 17 (armure +4, Dex -1, naturelle +5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +0, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt;  9 m (6 c) (12 m (8 c) base) 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; massue, +7 (2d8+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; javeline, +1 (1d8+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +9, &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines froides ou temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, bande (3-4) ou famille (5-16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (armure de peau, 4 javelines, massue, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;center&gt;&lt;img src=&quot;/wiki/public/upload/Bestiaire/Ogre_img.jpg&quot; width=&quot;95%&quot; style=&quot;float: none; margin: 5px;&quot;/&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce g&#233;ant a des dents mal ajust&#233;es, des yeux en vrille d&#233;nu&#233;s de douceur ou
+d’intelligence, un visage bouffi et une large bouche.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les histoires qui parlent d’ogres sont des r&#233;cits horribles de
+violence et de brutalit&#233;, de cannibalisme et de torture, de viol, de
+d&#233;membrement, de n&#233;crophilie, d’inceste, de mutilation et de
+toutes sortes de meurtres abominables. Ceux qui n’ont jamais
+rencontr&#233; d’ogres les prennent pour de simples mises en
+garde. Ceux qui en ont crois&#233; et qui ont surv&#233;cu, eux, savent
+que ces contes sont bien en-dessous de la r&#233;alit&#233;.&lt;br /&gt;&lt;br /&gt;Les ogres se r&#233;jouissent de la mis&#232;re des autres.
+Lorsqu’ils n’ont aucune cr&#233;ature de petite taille &#224; &#233;craser
+entre leurs poings monstrueux ou &#224; profaner pour
+assouvir leur soif de violence, ils s’en prennent les uns
+aux autres. Rien n’est tabou dans la soci&#233;t&#233; des ogres.
+On pourrait croire qu’une fois livr&#233;s &#224; eux-m&#234;mes,
+les ogres d’une m&#234;me tribu s’entre-d&#233;chireraient
+rapidement et que seuls les plus puissants survivraient
+en fin de comptes, mais s’il y a quelque chose que les
+ogres respectent, c’est la famille.&lt;br /&gt;&lt;br /&gt;Les tribus d’ogres sont donc appel&#233;es &#171; familles &#187;. La plupart
+des difformit&#233;s et des caract&#233;ristiques physiques horribles
+qui affligent les ogres s’expliquent par la pratique courante de
+l’inceste. Bien souvent, le chef d’une tribu en est &#233;galement le
+p&#232;re, m&#234;me si certaines ogresses particuli&#232;rement violentes ou
+dominatrices prennent le r&#244;le de m&#232;re de la tribu. Les ogres se
+chamaillent constamment, un trait de caract&#232;re heureux qui les occupent et les font s’en prendre les uns aux autres plut&#244;t qu’&#224; leurs
+voisins. De temps en temps, un patriarche ogre particuli&#232;rement
+brutal et craint appara&#238;t, un chef capable de rassembler plusieurs
+familles sous son commandement.&lt;br /&gt;&lt;br /&gt;Les zones habit&#233;es par les ogres sont des endroits mornes et laids,
+car ils se complaisent dans la salet&#233; et n’&#233;prouvent pas le besoin de
+mener une vie en harmonie avec leur environnement. La fronti&#232;re
+qui s&#233;pare la civilisation du territoire ogre est un royaume triste
+habit&#233; par des individus exclus et d&#233;sesp&#233;r&#233;s. C’est l&#224; que vivent les
+ogrelins, les engeances difformes r&#233;sultant des fr&#233;quentes attaques
+men&#233;es par les ogres contre les communaut&#233;s de cr&#233;atures de plus
+petite taille.&lt;br /&gt;&lt;br /&gt;Les jeux des ogres sont violents et vicieux. Les victimes avec
+lesquelles ils s’amusent ont bien de la chance si elles meurent d&#232;s
+le premier jour. Ils poss&#232;dent un sens de l’humour cruel (le seul
+signe indiquant que leur cerveau primitif est capable d’une l&#233;g&#232;re
+&#233;tincelle de cr&#233;ativit&#233;) gr&#226;ce auquel ils cr&#233;ent toutes sortes d’outils
+et de m&#233;thodes de torture cauchemardesques.&lt;br /&gt;&lt;br /&gt;La force consid&#233;rable des ogres et leur manque d’imagination
+les destinent tout naturellement aux durs labeurs tels que
+l’exploitation mini&#232;re, la ferronnerie ou le d&#233;boisement. Certains
+g&#233;ants plus puissants qu’eux (notamment les g&#233;ants des collines
+et les g&#233;ants de pierre) asservissent les familles d’ogres et les
+contraignent &#224; ce genre de travail.&lt;br /&gt;&lt;br /&gt;Un ogre adulte moyen mesure 3 m&#232;tres
+de hauteur et p&#232;se &#224; peu pr&#232;s
+325 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_5&quot; href=&quot;#&#201;cologie_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Ils sont plut&#244;t rares, les aventuriers pr&#233;par&#233;s &#224; affronter l’odeur f&#233;tide, la b&#234;tise ahurissante et la barbarie d&#233;prav&#233;e des ogres. Du fait de leur taille exceptionnelle, ces cr&#233;atures font une tr&#232;s forte premi&#232;re impression : elles mesurent entre deux m&#232;tres soixante-dix et trois m&#232;tres, dominant presque tous les humano&#239;des, tandis que de leurs bras et leurs jambes horriblement &#233;pais saillent d’&#233;normes muscles difformes.&lt;br /&gt;&lt;br /&gt;Les ogres sont les g&#233;ants les plus nombreux et les plus cruels mais, apr&#232;s des g&#233;n&#233;rations de consanguinit&#233; et de m&#233;tissage end&#233;miques, ils ne sont plus qu’une vulgaire parodie des v&#233;ritables g&#233;ants. C’est ainsi que les autres races de g&#233;ants les abhorrent, traitant ces faibles cousins avec un franc m&#233;pris. Cela dit, du fait de leurs familles &#233;triqu&#233;es et de leurs tendances sociopathes, les ogres se moquent de ce que l’on pense d’eux, et leurs clans sont tout aussi susceptibles de s’attaquer &#224; un g&#233;ant solitaire qu’&#224; n’importe quelle autre cr&#233;ature.&lt;br /&gt;&lt;br /&gt;Les ogres sont des cr&#233;atures perverses aux tares et aux mutations physiques nettement plus fr&#233;quentes que chez les autres races. Ceci s’explique par leurs pratiques consanguines, qui visent &#224; renforcer les liens familiaux. Les d&#233;faillances qui en r&#233;sultent ne les d&#233;rangent aucunement puisqu’ils voient leurs difformit&#233;s comme la marque des sombres divinit&#233;s qu’ils v&#233;n&#232;rent. C’est cette m&#234;me croyance qui les pousse &#224; m&#233;priser toutes les belles cr&#233;atures : quand ils en ont l’occasion, ils n’h&#233;sitent pas &#224; mutiler et &#224; torturer les plus s&#233;duisantes de leurs victimes.&lt;br /&gt;&lt;br /&gt;En plus d’&#234;tre les g&#233;ants les plus nombreux, les ogres sont aussi les plus r&#233;pandus puisqu’on les trouve dans presque tous les environnements. Ceux qui ont la peau brune arpentent les r&#233;gions d&#233;sertiques tandis que les ogres hirsutes &#224; la peau blafarde sillonnent les territoires arctiques et que de nombreux clans peuplent les for&#234;ts, les marais et les grandes plaines.&lt;br /&gt;&lt;br /&gt;En principe, les ogres forment des cellules familiales qui comptent une demi-douzaine d’adultes et de jeunes et sont exclusivement dirig&#233;es par un puissant patriarche ou une puissante matriarche que l’on appelle le &#171; boss &#187;. On sait qu’il existe des familles plus grandes, mais les ogres sont si destructeurs que tr&#232;s peu de r&#233;gions peuvent accueillir des clans de plus d’une dizaine de membres, groupes qui finissent g&#233;n&#233;ralement par se s&#233;parer &#224; cause de la faim ou des querelles intestines. La puissance du boss est absolue au sein du clan et l’unique loi qui y existe est la sienne. Ses favoris ont droit aux morceaux de choix lors des repas, ainsi qu’aux meilleurs lits, tandis que les membres tomb&#233;s en disgr&#226;ce sont affam&#233;s en plus d’&#234;tre la cible de violents passages &#224; tabac et de s&#233;vices r&#233;p&#233;t&#233;s. Malgr&#233; cela, les clans ogres sont relativement soud&#233;s.&lt;br /&gt;&lt;br /&gt;La nourriture et la survie sont les deux questions prioritaires de toutes les familles ogres. Ces grandes brutes ont besoin d’&#233;normes quantit&#233;s de viande pour survivre mais n’ont pas la patience n&#233;cessaire pour les activit&#233;s ordinaires telles que l’agriculture ou l’&#233;levage d’animaux. Ils constituent donc leurs r&#233;serves en pillant, en volant et en tuant. Les ogres ne recourent pas syst&#233;matiquement au meurtre pour assurer leur survie puisque certains font &#233;galement office de chasseurs et de trappeurs. En p&#233;riode de vaches maigres, les ogres n’ont aucun scrupule &#224; s’adonner au cannibalisme. Les malades et les infirmes ne survivent pas longtemps en cas de famine, et les ogres n’h&#233;sitent pas &#224; tuer les rivaux potentiels pour les d&#233;vorer et &#233;touffer toute forme de dissension. M&#234;me un membre en bonne sant&#233; et de bonne r&#233;putation peut terminer dans l’estomac des siens si le boss n’a rien &#224; se mettre sous la dent depuis trop longtemps.&lt;br /&gt;&lt;br /&gt;Quand ils chassent, les ogres traquent leurs proies jusqu’&#224; les &#233;puiser ou les encerclent, refermant peu &#224; peu le cordon pour les massacrer. Il arrive, parfois, que de petits groupes d’ogres en chasse suivent un troupeau de cerfs pendant plusieurs jours, fauchant les retardataires isol&#233;s pour les emporter et les d&#233;vorer plus tard. Ces monstres utilisent des techniques similaires quand il s’agit de traquer les humains ou d’autres cr&#233;atures intelligentes. Ils prennent autant de plaisir &#224; chasser leur proie qu’&#224; la tuer car ils se d&#233;lectent de la peur et du d&#233;sespoir de leurs victimes. Mais du fait de leurs m&#233;thodes, beaucoup de proies potentielles leur &#233;chappent. Les ogres tirent &#233;galement une grande satisfaction &#224; torturer gratuitement, mais leur impatience et leur pi&#232;tre compr&#233;hension des limites de la physiologie humaine n’en font pas les bourreaux les plus talentueux. Les s&#233;ances de torture de ces brutes maladroites se terminent souvent trop vite &#224; leur go&#251;t – mais la perspective de prendre leur repas plus t&#244;t que pr&#233;vu balaye tr&#232;s vite leurs regrets.&lt;br /&gt;&lt;br /&gt;Les ogres consid&#232;rent toutes les petites cr&#233;atures comme des proies, ne retenant leurs coups que lorsqu’ils risquent de perdre le combat ou lorsqu’ils sont convaincus de pouvoir marchander la vie de la cr&#233;ature contre une belle ran&#231;on. Bien des aventuriers racontent comment ils ont persuad&#233; des ogres de les rel&#226;cher en leur promettant des tr&#233;sors secrets, et quelques humains audacieux ont m&#234;me eu la chance de s’associer &#224; des ogres. Cela dit, la plupart de ces pr&#233;tendus intrigants finissent fatalement par d&#233;couvrir que l’app&#233;tit des ogres l’emporte sur toute id&#233;e de camaraderie ou de r&#233;compenses futures.&lt;br /&gt;&lt;br /&gt;M&#234;me les familles d’ogres les plus stupides apprennent &#224; se montrer prudentes quand elles s’approchent des zones humaines dens&#233;ment peupl&#233;es. Ces monstres savent tr&#232;s bien que les humains se regroupent lorsqu’ils se sentent menac&#233;s. Pour cette raison, les clans ogres traquent g&#233;n&#233;ralement leurs victimes en marge de la civilisation, concentrant leurs attaques sur les petits villages, les caravanes maigrement arm&#233;es ou les fermes isol&#233;es. En principe, ils &#233;vitent les territoires des elfes car ces derniers n’h&#233;sitent pas &#224; tuer tous les ogres qui p&#233;n&#232;trent dans leurs for&#234;ts. Quant aux nains, les ogres n’ont aucun int&#233;r&#234;t &#224; les tirer du fond de leur terrier. Ces monstres adorent les petites cr&#233;atures, comme les halfelins et les gnomes, qui, selon eux, font partie des races humano&#239;des les plus savoureuses. De ce fait, il arrive souvent qu’ils les traquent avec une fascination &#233;perdue, m&#234;me s’il ne leur est jamais venu &#224; l’esprit que ces toutes petites choses puissent &#234;tre plus fut&#233;es qu’eux. De nombreuses histoires font &#233;tat de halfelins et de gnomes ayant vaincu ces stupides g&#233;ants &#224; la seule force de leur ruse.&lt;br /&gt;&lt;br /&gt;S’il est souvent arriv&#233;, par le pass&#233;, que des ogres int&#232;grent des arm&#233;es, ce ph&#233;nom&#232;ne ne s’observe g&#233;n&#233;ralement que lorsqu’une cr&#233;ature parvient &#224; les recruter en leur promettant de la nourriture et &#224; les faire filer droit en les mena&#231;ant de violents ch&#226;timents. Sous la banni&#232;re d’un puissant g&#233;n&#233;ral, qu’il s’agisse d’un g&#233;ant voire m&#234;me d’un humain, un r&#233;giment d’ogres bien &#233;quip&#233;s constituera une horde d&#233;vastatrice. Leur force et leur intr&#233;pidit&#233; born&#233;e font de ces cr&#233;atures d’excellentes troupes de choc. N&#233;anmoins, leurs commandants apprennent tr&#232;s vite &#224; ne pas envoyer ces g&#233;ants impulsifs et violents &#224; l’assaut des villes qu’ils veulent capturer sans infliger trop de d&#233;g&#226;ts aux structures et &#224; la population.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Arch&#233;types simples des ogres&lt;a class=&quot;headeranchor&quot; id=&quot;Arch&#233;types_simples_des_ogres_6&quot; href=&quot;#Arch&#233;types_simples_des_ogres_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Que ce soit le r&#233;sultat d’une reproduction consanguine, d’exp&#233;rimentations magiques ou alchimiques, ou d’environnements &#233;tranges, les ogres sont beaucoup plus sujets aux mutations que les autres races. Ils sont capables de survivre avec des tares qui auraient tu&#233; n’importe quelle cr&#233;ature d’une autre esp&#232;ce. Voici quelques exemples de mutations que l’on observe souvent chez les ogres d’un m&#234;me clan.
+&lt;div class=&quot;row Ligne&quot; style=&quot;&quot;&gt;&lt;div class=&quot;col col-6 &quot; style=&quot;&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&#192; pointes (FP +0)&lt;a class=&quot;headeranchor&quot; id=&quot;&#192;_pointes_FP_+A_0&quot; href=&quot;#&#192;_pointes_FP_+A_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Ces grands ogres tous fins ont une peau &#233;paisse, semblable &#224; de l’&#233;corce, et leur corps est recouvert d’excroissances piquantes tandis que leurs mains se terminent sur des griffes ac&#233;r&#233;es comme des &#233;pines.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#232;gles rapides.&lt;/b&gt; +2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;, -1 &lt;a class=&quot;pagelink&quot; href=&quot;Point-De-Vie.html&quot; title=&quot;pv&quot;&gt;pv&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; et -1 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;. Ils gagnent 2 attaques de griffe (1d6) et un bonus racial de +4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; en for&#234;t.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#232;gles de reconstruction.&lt;/b&gt; &lt;b&gt;Valeurs de caract&#233;ristique&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; -2, bonus d’armure naturelle +2 ; &lt;i&gt;Attaque&lt;/i&gt; ils gagnent 2 attaques de griffe (1d6) ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; bonus racial de +4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; en for&#234;t.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Bouffi (FP +0)&lt;a class=&quot;headeranchor&quot; id=&quot;Bouffi_FP_+A_1&quot; href=&quot;#Bouffi_FP_+A_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les ogres dot&#233;s de l’arch&#233;type bouffi ont une &#233;norme t&#234;te et des dents ac&#233;r&#233;es.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#232;gles rapides.&lt;/b&gt; -1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;, aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt; &#224; distance, &#224; l’&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;roulement-Dun-Combat#Initiative.html&quot; title=&quot;initiative&quot;&gt;initiative&lt;/a&gt; et aux comp&#233;tences bas&#233;es sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;. Ils gagnent une attaque de morsure (1d8).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#232;gles de reconstruction.&lt;/b&gt; &lt;b&gt;Valeurs de caract&#233;ristique&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; -2 ; Attaque ils gagnent une attaque de morsure (1d8).&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;col col-6 &quot; style=&quot;&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Shaggra (FP +1)&lt;a class=&quot;headeranchor&quot; id=&quot;Shaggra_FP_+B_2&quot; href=&quot;#Shaggra_FP_+B_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les ogres dot&#233;s de l’arch&#233;type shaggra sont couverts de longs poils et arborent des jambes rabougries mais des bras &#233;normes et surdimensionn&#233;s, similaires &#224; ceux des primates. Ils se d&#233;placent &#224; quatre pattes et &#233;crasent leurs ennemis avec leurs poings g&#233;ants.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#232;gles rapides.&lt;/b&gt; +2 &#224; tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;jets de d&#233;g&#226;ts&lt;/a&gt; et tests de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;. Ils gagnent deux attaques de coup (1d6) ainsi que les pouvoirs sp&#233;ciaux d’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#232;gles de reconstruction.&lt;/b&gt; &lt;b&gt;Valeurs de caract&#233;ristique&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; +4 ; &lt;b&gt;Attaque&lt;/b&gt; ils gagnent deux attaques de coup (1d6, &#233;treinte, constriction) ; &lt;b&gt;Pouvoirs sp&#233;ciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Arch&#233;type de g&#233;ant des ogres&lt;a class=&quot;headeranchor&quot; id=&quot;Arch&#233;type_de_g&#233;ant_des_ogres_7&quot; href=&quot;#Arch&#233;type_de_g&#233;ant_des_ogres_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Parfois, les ogres se reproduisent avec d’autres g&#233;ants. Le r&#233;sultat de ces unions donne des ogres g&#233;ants, qui gagnent certains pouvoirs de leur parent non-ogre. Dans les r&#233;gions o&#249; les clans ogres vivent pr&#232;s de grandes populations de g&#233;ants, le m&#233;tissage peut &#234;tre tellement courant que des clans entiers se composent uniquement d’ogres g&#233;ants.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 6px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;M&#233;tissage&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Sang de feu&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;R&#233;sistance&lt;/a&gt; au feu 10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sang de glace&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;R&#233;sistance&lt;/a&gt; au froid 10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sang de pierre&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;ception-De-Rochers-(Capacit&#233;).html&quot; title=&quot;R&#233;ception de rochers (Ext)&quot;&gt;R&#233;ception de rochers&lt;/a&gt;,&lt;br /&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-De-Rochers-(Capacit&#233;).html&quot; title=&quot;Lancer de rochers (Ext)&quot;&gt;lancer de rochers&lt;/a&gt; (1d8, 36 m)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sang des plaines&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;Augmentez l’armure naturelle de 2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;G&#233;ant (FP +1)&lt;a class=&quot;headeranchor&quot; id=&quot;G&#233;ant_FP_+B_3&quot; href=&quot;#G&#233;ant_FP_+B_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;B&#233;nis par le sang des grands g&#233;ants, les ogres g&#233;ants sont plus imposants et plus forts que leurs cousins ordinaires et gagnent des pouvoirs de leur parent g&#233;ant.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#232;gles de reconstruction.&lt;/b&gt; &lt;b&gt;Points de vie&lt;/b&gt; +10 &lt;a class=&quot;pagelink&quot; href=&quot;Point-De-Vie.html&quot; title=&quot;pv&quot;&gt;pv&lt;/a&gt; ; &lt;b&gt;JdS&lt;/b&gt; bonus racial de +1 &#224; tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; ; &lt;b&gt;Valeurs de caract&#233;ristique&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; +4 ; &lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-De-Rochers-(Capacit&#233;).html&quot; title=&quot;Lancer de rochers (Ext)&quot;&gt;lancer de rochers&lt;/a&gt; (1d6, 27 m) ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; voir tableau.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Nouvelles r&#232;gles raciales&lt;a class=&quot;headeranchor&quot; id=&quot;Nouvelles_r&#232;gles_raciales_8&quot; href=&quot;#Nouvelles_r&#232;gles_raciales_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les ogres sont r&#233;put&#233;s pour leur b&#234;tise, leur violence et leurs immondes habitudes. Leur talent ne r&#233;side pas dans l’innovation ou la recherche mais dans la perversion, la force et la survie. En cons&#233;quence, les options suivantes insistent tout particuli&#232;rement sur l’ascendance d&#233;g&#233;n&#233;r&#233;e qui caract&#233;rise la race, ainsi que sur ses &#233;tranges mutations et sa capacit&#233; &#224; s’adapter &#224; de nouveaux environnements.
+&lt;h3 class=&quot;separator&quot;&gt;Dons&lt;a class=&quot;headeranchor&quot; id=&quot;Dons_4&quot; href=&quot;#Dons_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Voici quelques dons accessibles aux ogres.
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt toutgauche filtrable&quot; WIDTH=&quot;100%&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td WIDTH=&quot;30%&quot;&gt;Dons&lt;/td&gt;&lt;td WIDTH=&quot;3%&quot;&gt;Src&lt;/td&gt;&lt;td WIDTH=&quot;30%&quot;&gt;Conditions&lt;/td&gt;&lt;td WIDTH=&quot;37%&quot;&gt;Avantages&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brute-Rageuse.html&quot; title=&quot;Brute rageuse&quot;&gt;Brute rageuse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;CM&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; 21, &lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;ogre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Gain d&#39;un pouvoir de rage et capacit&#233; &#224; entrer en rage 1 fois/jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chair-Corrompue.html&quot; title=&quot;Chair corrompue&quot;&gt;Chair corrompue&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;CM&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; 15, 6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;ogre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Gain du pouvoir de puanteur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Critique-Sauvage.html&quot; title=&quot;Critique sauvage&quot;&gt;Critique sauvage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;CM&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; 19, &lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;ogre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Roublard#Attaquesournoise.html&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt; +2d6&lt;/td&gt;&lt;td&gt;Ajoute les d&#233;g&#226;ts d&#39;attaque sournoise lors d&#39;une Frappe d&#233;cisive critique&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;crasement-Dogre.html&quot; title=&quot;&#201;crasement d&amp;#39;ogre&quot;&gt;&#201;crasement d&#39;ogre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;CM&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; 25, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Lutte.html&quot; title=&quot;Science de la lutte&quot;&gt;Science de la lutte&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Combat-&#192;-Mains-Nues.html&quot; title=&quot;Science du combat &#224; mains nues&quot;&gt;Science du combat &#224; mains nues&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;ogre&lt;/a&gt;, taille G ou plus&lt;/td&gt;&lt;td&gt;Augmente les d&#233;g&#226;ts des attaques &#224; mains nues contre la cible d&#39;une lutte, gain du pouvoir constriction&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gobeur-Glouton.html&quot; title=&quot;Gobeur glouton&quot;&gt;Gobeur glouton&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;CM&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Combat-&#192;-Mains-Nues.html&quot; title=&quot;Science du combat &#224; mains nues&quot;&gt;Science du combat &#224; mains nues&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Lutte.html&quot; title=&quot;Science de la lutte&quot;&gt;Science de la lutte&lt;/a&gt;, ou pouvoir &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;ogre&lt;/a&gt;, taille G ou plus&lt;/td&gt;&lt;td&gt;Le personnage agrippe les cr&#233;atures plus petite dans sa bouche&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souffle-F&#233;tide.html&quot; title=&quot;Souffle f&#233;tide&quot;&gt;Souffle f&#233;tide&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;CM&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; 15, &lt;a class=&quot;pagelink&quot; href=&quot;Chair-Corrompue.html&quot; title=&quot;Chair corrompue&quot;&gt;Chair corrompue&lt;/a&gt;, 6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;ogre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Souffle un c&#244;ne d&#39;air f&#233;tide et de flegme&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#234;te-Vestigiale.html&quot; title=&quot;T&#234;te vestigiale&quot;&gt;T&#234;te vestigiale&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;CM&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;Ogre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Une t&#234;te vestigiale rabougrie aide &#224; r&#233;sister aux effets subits par un jet de Volont&#233; rat&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Traqueur-Nocturne.html&quot; title=&quot;Traqueur nocturne&quot;&gt;Traqueur nocturne&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;CM&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Discr&#233;tion), pouvoir &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ogrelin,-Arch&#233;type.html&quot; title=&quot;Ogrelin, arch&#233;type&quot;&gt;demi-ogre&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;ogre&lt;/a&gt;, taille G ou plus&lt;/td&gt;&lt;td&gt;Pas de malus de taille aux tests de Discr&#233;tion dans les t&#233;n&#232;bres&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ogre|FP 3}
+{s:pucem|Humanoïde|Collines|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.230}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 8, pris au dépourvu 17 (armure +4, Dex -1, naturelle +5, taille -1)}
+{s:BDTexte|'''pv''' 30 (4d8+12)}
+{s:BDTexte|'''Réf''' +0, '''Vig''' +6, '''Vol''' +3}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD'''  9 m (6 c) (12 m (8 c) base) }
+{s:BDTexte|'''Corps à corps''' massue, +7 (2d8+7)}
+{s:BDTexte|'''Distance''' javeline, +1 (1d8+5)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 8, '''Con''' 15, '''Int''' 6, '''Sag''' 10, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +9, '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Robustesse]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Escalade]] +7, [[Perception]] +5}
+{s:BDTexte|'''Langues''' géant}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines froides ou tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, bande (3-4) ou famille (5-16)}
+{s:BDTexte|'''Trésor''' standard (armure de peau, 4 javelines, massue, autres trésors)}
+</div>
+
+
+{s:ImageCentre|Bestiaire/Ogre_img.jpg|95%}
+
+</td><td><div>''Ce géant a des dents mal ajustées, des yeux en vrille dénués de douceur ou
+d’intelligence, un visage bouffi et une large bouche.''
+
+Les histoires qui parlent d’ogres sont des récits horribles de
+violence et de brutalité, de cannibalisme et de torture, de viol, de
+démembrement, de nécrophilie, d’inceste, de mutilation et de
+toutes sortes de meurtres abominables. Ceux qui n’ont jamais
+rencontré d’ogres les prennent pour de simples mises en
+garde. Ceux qui en ont croisé et qui ont survécu, eux, savent
+que ces contes sont bien en-dessous de la réalité.
+
+Les ogres se réjouissent de la misère des autres.
+Lorsqu’ils n’ont aucune créature de petite taille à écraser
+entre leurs poings monstrueux ou à profaner pour
+assouvir leur soif de violence, ils s’en prennent les uns
+aux autres. Rien n’est tabou dans la société des ogres.
+On pourrait croire qu’une fois livrés à eux-mêmes,
+les ogres d’une même tribu s’entre-déchireraient
+rapidement et que seuls les plus puissants survivraient
+en fin de comptes, mais s’il y a quelque chose que les
+ogres respectent, c’est la famille.
+
+Les tribus d’ogres sont donc appelées « familles ». La plupart
+des difformités et des caractéristiques physiques horribles
+qui affligent les ogres s’expliquent par la pratique courante de
+l’inceste. Bien souvent, le chef d’une tribu en est également le
+père, même si certaines ogresses particulièrement violentes ou
+dominatrices prennent le rôle de mère de la tribu. Les ogres se
+chamaillent constamment, un trait de caractère heureux qui les occupent et les font s’en prendre les uns aux autres plutôt qu’à leurs
+voisins. De temps en temps, un patriarche ogre particulièrement
+brutal et craint apparaît, un chef capable de rassembler plusieurs
+familles sous son commandement.
+
+Les zones habitées par les ogres sont des endroits mornes et laids,
+car ils se complaisent dans la saleté et n’éprouvent pas le besoin de
+mener une vie en harmonie avec leur environnement. La frontière
+qui sépare la civilisation du territoire ogre est un royaume triste
+habité par des individus exclus et désespérés. C’est là que vivent les
+ogrelins, les engeances difformes résultant des fréquentes attaques
+menées par les ogres contre les communautés de créatures de plus
+petite taille.
+
+Les jeux des ogres sont violents et vicieux. Les victimes avec
+lesquelles ils s’amusent ont bien de la chance si elles meurent dès
+le premier jour. Ils possèdent un sens de l’humour cruel (le seul
+signe indiquant que leur cerveau primitif est capable d’une légère
+étincelle de créativité) grâce auquel ils créent toutes sortes d’outils
+et de méthodes de torture cauchemardesques.
+
+La force considérable des ogres et leur manque d’imagination
+les destinent tout naturellement aux durs labeurs tels que
+l’exploitation minière, la ferronnerie ou le déboisement. Certains
+géants plus puissants qu’eux (notamment les géants des collines
+et les géants de pierre) asservissent les familles d’ogres et les
+contraignent à ce genre de travail.
+
+Un ogre adulte moyen mesure 3 mètres
+de hauteur et pèse à peu près
+325 kg.
+</div></td></tr></table>
+
+{s:CM}
+===Écologie===
+Ils sont plutôt rares, les aventuriers préparés à affronter l’odeur fétide, la bêtise ahurissante et la barbarie dépravée des ogres. Du fait de leur taille exceptionnelle, ces créatures font une très forte première impression : elles mesurent entre deux mètres soixante-dix et trois mètres, dominant presque tous les humanoïdes, tandis que de leurs bras et leurs jambes horriblement épais saillent d’énormes muscles difformes.
+
+Les ogres sont les géants les plus nombreux et les plus cruels mais, après des générations de consanguinité et de métissage endémiques, ils ne sont plus qu’une vulgaire parodie des véritables géants. C’est ainsi que les autres races de géants les abhorrent, traitant ces faibles cousins avec un franc mépris. Cela dit, du fait de leurs familles étriquées et de leurs tendances sociopathes, les ogres se moquent de ce que l’on pense d’eux, et leurs clans sont tout aussi susceptibles de s’attaquer à un géant solitaire qu’à n’importe quelle autre créature.
+
+Les ogres sont des créatures perverses aux tares et aux mutations physiques nettement plus fréquentes que chez les autres races. Ceci s’explique par leurs pratiques consanguines, qui visent à renforcer les liens familiaux. Les défaillances qui en résultent ne les dérangent aucunement puisqu’ils voient leurs difformités comme la marque des sombres divinités qu’ils vénèrent. C’est cette même croyance qui les pousse à mépriser toutes les belles créatures : quand ils en ont l’occasion, ils n’hésitent pas à mutiler et à torturer les plus séduisantes de leurs victimes.
+
+En plus d’être les géants les plus nombreux, les ogres sont aussi les plus répandus puisqu’on les trouve dans presque tous les environnements. Ceux qui ont la peau brune arpentent les régions désertiques tandis que les ogres hirsutes à la peau blafarde sillonnent les territoires arctiques et que de nombreux clans peuplent les forêts, les marais et les grandes plaines.
+
+En principe, les ogres forment des cellules familiales qui comptent une demi-douzaine d’adultes et de jeunes et sont exclusivement dirigées par un puissant patriarche ou une puissante matriarche que l’on appelle le « boss ». On sait qu’il existe des familles plus grandes, mais les ogres sont si destructeurs que très peu de régions peuvent accueillir des clans de plus d’une dizaine de membres, groupes qui finissent généralement par se séparer à cause de la faim ou des querelles intestines. La puissance du boss est absolue au sein du clan et l’unique loi qui y existe est la sienne. Ses favoris ont droit aux morceaux de choix lors des repas, ainsi qu’aux meilleurs lits, tandis que les membres tombés en disgrâce sont affamés en plus d’être la cible de violents passages à tabac et de sévices répétés. Malgré cela, les clans ogres sont relativement soudés.
+
+La nourriture et la survie sont les deux questions prioritaires de toutes les familles ogres. Ces grandes brutes ont besoin d’énormes quantités de viande pour survivre mais n’ont pas la patience nécessaire pour les activités ordinaires telles que l’agriculture ou l’élevage d’animaux. Ils constituent donc leurs réserves en pillant, en volant et en tuant. Les ogres ne recourent pas systématiquement au meurtre pour assurer leur survie puisque certains font également office de chasseurs et de trappeurs. En période de vaches maigres, les ogres n’ont aucun scrupule à s’adonner au cannibalisme. Les malades et les infirmes ne survivent pas longtemps en cas de famine, et les ogres n’hésitent pas à tuer les rivaux potentiels pour les dévorer et étouffer toute forme de dissension. Même un membre en bonne santé et de bonne réputation peut terminer dans l’estomac des siens si le boss n’a rien à se mettre sous la dent depuis trop longtemps.
+
+Quand ils chassent, les ogres traquent leurs proies jusqu’à les épuiser ou les encerclent, refermant peu à peu le cordon pour les massacrer. Il arrive, parfois, que de petits groupes d’ogres en chasse suivent un troupeau de cerfs pendant plusieurs jours, fauchant les retardataires isolés pour les emporter et les dévorer plus tard. Ces monstres utilisent des techniques similaires quand il s’agit de traquer les humains ou d’autres créatures intelligentes. Ils prennent autant de plaisir à chasser leur proie qu’à la tuer car ils se délectent de la peur et du désespoir de leurs victimes. Mais du fait de leurs méthodes, beaucoup de proies potentielles leur échappent. Les ogres tirent également une grande satisfaction à torturer gratuitement, mais leur impatience et leur piètre compréhension des limites de la physiologie humaine n’en font pas les bourreaux les plus talentueux. Les séances de torture de ces brutes maladroites se terminent souvent trop vite à leur goût – mais la perspective de prendre leur repas plus tôt que prévu balaye très vite leurs regrets.
+
+Les ogres considèrent toutes les petites créatures comme des proies, ne retenant leurs coups que lorsqu’ils risquent de perdre le combat ou lorsqu’ils sont convaincus de pouvoir marchander la vie de la créature contre une belle rançon. Bien des aventuriers racontent comment ils ont persuadé des ogres de les relâcher en leur promettant des trésors secrets, et quelques humains audacieux ont même eu la chance de s’associer à des ogres. Cela dit, la plupart de ces prétendus intrigants finissent fatalement par découvrir que l’appétit des ogres l’emporte sur toute idée de camaraderie ou de récompenses futures.
+
+Même les familles d’ogres les plus stupides apprennent à se montrer prudentes quand elles s’approchent des zones humaines densément peuplées. Ces monstres savent très bien que les humains se regroupent lorsqu’ils se sentent menacés. Pour cette raison, les clans ogres traquent généralement leurs victimes en marge de la civilisation, concentrant leurs attaques sur les petits villages, les caravanes maigrement armées ou les fermes isolées. En principe, ils évitent les territoires des elfes car ces derniers n’hésitent pas à tuer tous les ogres qui pénètrent dans leurs forêts. Quant aux nains, les ogres n’ont aucun intérêt à les tirer du fond de leur terrier. Ces monstres adorent les petites créatures, comme les halfelins et les gnomes, qui, selon eux, font partie des races humanoïdes les plus savoureuses. De ce fait, il arrive souvent qu’ils les traquent avec une fascination éperdue, même s’il ne leur est jamais venu à l’esprit que ces toutes petites choses puissent être plus futées qu’eux. De nombreuses histoires font état de halfelins et de gnomes ayant vaincu ces stupides géants à la seule force de leur ruse.
+
+S’il est souvent arrivé, par le passé, que des ogres intègrent des armées, ce phénomène ne s’observe généralement que lorsqu’une créature parvient à les recruter en leur promettant de la nourriture et à les faire filer droit en les menaçant de violents châtiments. Sous la bannière d’un puissant général, qu’il s’agisse d’un géant voire même d’un humain, un régiment d’ogres bien équipés constituera une horde dévastatrice. Leur force et leur intrépidité bornée font de ces créatures d’excellentes troupes de choc. Néanmoins, leurs commandants apprennent très vite à ne pas envoyer ces géants impulsifs et violents à l’assaut des villes qu’ils veulent capturer sans infliger trop de dégâts aux structures et à la population.
+
+===Archétypes simples des ogres===
+Que ce soit le résultat d’une reproduction consanguine, d’expérimentations magiques ou alchimiques, ou d’environnements étranges, les ogres sont beaucoup plus sujets aux mutations que les autres races. Ils sont capables de survivre avec des tares qui auraient tué n’importe quelle créature d’une autre espèce. Voici quelques exemples de mutations que l’on observe souvent chez les ogres d’un même clan.
+{s:Ligne}{s:Col|6}
+====À pointes (FP +0)====
+Ces grands ogres tous fins ont une peau épaisse, semblable à de l’écorce, et leur corps est recouvert d’excroissances piquantes tandis que leurs mains se terminent sur des griffes acérées comme des épines.
+
+'''Règles rapides.''' +2 à la [[CA]], -1 [[pv]]/[[DV]] et -1 aux jets de [[Vigueur]] et de [[Constitution]]. Ils gagnent 2 attaques de griffe (1d6) et un bonus racial de +4 aux tests de [[Discrétion]] en forêt.
+
+'''Règles de reconstruction.''' '''Valeurs de caractéristique''' [[Constitution]] -2, bonus d’armure naturelle +2 ; ''Attaque'' ils gagnent 2 attaques de griffe (1d6) ; '''Spécial''' bonus racial de +4 aux tests de [[Discrétion]] en forêt.
+
+====Bouffi (FP +0)====
+Les ogres dotés de l’archétype bouffi ont une énorme tête et des dents acérées.
+
+'''Règles rapides.''' -1 à la [[CA]], aux [[jet dattaque|jets d’attaque]] à distance, à l’[[initiative]] et aux compétences basées sur la [[Dextérité]]. Ils gagnent une attaque de morsure (1d8).
+
+'''Règles de reconstruction.''' '''Valeurs de caractéristique''' [[Dextérité]] -2 ; Attaque ils gagnent une attaque de morsure (1d8).
+
+{s:Col-Fin}{s:Col|6}
+====Shaggra (FP +1)====
+Les ogres dotés de l’archétype shaggra sont couverts de longs poils et arborent des jambes rabougries mais des bras énormes et surdimensionnés, similaires à ceux des primates. Ils se déplacent à quatre pattes et écrasent leurs ennemis avec leurs poings géants.
+
+'''Règles rapides.''' +2 à tous les [[jet dattaque|jets d’attaque]], [[Valeurs de combat#DEGATS|jets de dégâts]] et tests de [[Force]]. Ils gagnent deux attaques de coup (1d6) ainsi que les pouvoirs spéciaux d’[[étreinte (capacité)|étreinte]] et de [[constriction (capacité)|constriction]].
+
+'''Règles de reconstruction.''' '''Valeurs de caractéristique''' [[Force]] +4 ; '''Attaque''' ils gagnent deux attaques de coup (1d6, étreinte, constriction) ; '''Pouvoirs spéciaux''' [[étreinte (capacité)|étreinte]], [[constriction (capacité)|constriction]].
+
+{s:Col-Fin}{s:Ligne-Fin}
+===Archétype de géant des ogres===
+Parfois, les ogres se reproduisent avec d’autres géants. Le résultat de ces unions donne des ogres géants, qui gagnent certains pouvoirs de leur parent non-ogre. Dans les régions où les clans ogres vivent près de grandes populations de géants, le métissage peut être tellement courant que des clans entiers se composent uniquement d’ogres géants.
+
+<div style="float:right; background-color: #fff; padding: 0 0 6px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Métissage
+| CLASS="gauche" | Pouvoirs spéciaux
+|- CLASS="premier"
+| Sang de feu
+| CLASS="gauche" | [[Résistance (capacité)|Résistance]] au feu 10
+|-
+| Sang de glace
+| CLASS="gauche" | [[Résistance (capacité)|Résistance]] au froid 10
+|-
+| Sang de pierre
+| CLASS="gauche" | [[Réception de rochers (capacité)|Réception de rochers]],<br>[[lancer de rochers (capacité)|lancer de rochers]] (1d8, 36 m)
+|-
+| Sang des plaines
+| CLASS="gauche" | Augmentez l’armure naturelle de 2
+|}
+</center></div></div>
+====Géant (FP +1)====
+Bénis par le sang des grands géants, les ogres géants sont plus imposants et plus forts que leurs cousins ordinaires et gagnent des pouvoirs de leur parent géant.
+
+'''Règles de reconstruction.''' '''Points de vie''' +10 [[pv]] ; '''JdS''' bonus racial de +1 à tous les [[jds|jets de sauvegarde]] ; '''Valeurs de caractéristique''' [[Force]] +4, [[Constitution]] +4 ; '''Attaques spéciales''' [[lancer de rochers (capacité)|lancer de rochers]] (1d6, 27 m) ; '''Spécial''' voir tableau.
+
+{s:CM}
+===Nouvelles règles raciales===
+Les ogres sont réputés pour leur bêtise, leur violence et leurs immondes habitudes. Leur talent ne réside pas dans l’innovation ou la recherche mais dans la perversion, la force et la survie. En conséquence, les options suivantes insistent tout particulièrement sur l’ascendance dégénérée qui caractérise la race, ainsi que sur ses étranges mutations et sa capacité à s’adapter à de nouveaux environnements.
+====Dons====
+Voici quelques dons accessibles aux ogres.
+<center>
+{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
+
+|- CLASS="titre"
+| WIDTH="30%" | Dons
+| WIDTH="3%" | Src
+| WIDTH="30%" | Conditions
+| WIDTH="37%" | Avantages
+
+|- CLASS="premier"
+| [[Brute rageuse]] || <sup>CM</sup> || [[For]] 21, [[ogre]] || Gain d'un pouvoir de rage et capacité à entrer en rage 1 fois/jour
+
+|- CLASS="premier"
+| [[Chair corrompue]] || <sup>CM</sup> || [[Con]] 15, 6 [[DV]], [[ogre]] || Gain du pouvoir de puanteur
+
+|- CLASS="premier"
+| [[Critique sauvage]] || <sup>CM</sup> || [[For]] 19, [[ogre]], [[attaque sournoise]] +2d6 || Ajoute les dégâts d'attaque sournoise lors d'une Frappe décisive critique
+
+|- CLASS="premier"
+| [[Écrasement dogre|Écrasement d'ogre]] || <sup>CM</sup> || [[For]] 25, [[Science de la lutte]], [[Science du combat à mains nues]], [[ogre]], taille G ou plus || Augmente les dégâts des attaques à mains nues contre la cible d'une lutte, gain du pouvoir constriction
+
+|- CLASS="premier"
+| [[Gobeur glouton]] || <sup>CM</sup> || [[Science du combat à mains nues]] et [[Science de la lutte]], ou pouvoir [[étreinte (capacité)|étreinte]], [[ogre]], taille G ou plus || Le personnage agrippe les créatures plus petite dans sa bouche
+
+|- CLASS="premier"
+| [[Souffle fétide]] || <sup>CM</sup> || [[Con]] 15, [[Chair corrompue]], 6 [[DV]], [[ogre]] || Souffle un cône d'air fétide et de flegme
+
+|- CLASS="premier"
+| [[Tête vestigiale]] || <sup>CM</sup> || [[Ogre]] || Une tête vestigiale rabougrie aide à résister aux effets subits par un jet de Volonté raté
+
+|- CLASS="premier"
+| [[Traqueur nocturne]] || <sup>CM</sup> || [[Talent]] (Discrétion), pouvoir [[vision dans le noir (capacité)|vision dans le noir]], [[Ogrelin, archétype|demi-ogre]] ou [[ogre]], taille G ou plus || Pas de malus de taille aux tests de Discrétion dans les ténèbres
+|}
+</center>]]></raw>
+  <fullName>Pathfinder-RPG.Ogre</fullName>
+</wikiPage>

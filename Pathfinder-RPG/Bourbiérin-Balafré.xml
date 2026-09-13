@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bourbiérin, Bourbiérin balafré</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2024-01-10 20:55:16Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bourbiérin</link><link>Pathfinder-RPG.Bourbiérin balafré</link><link>Pathfinder-RPG.Bourbiérin sauvage</link><link>Pathfinder-RPG.Brute bourbiérine</link><link>Pathfinder-RPG.Champion bourbiérin</link><link>Pathfinder-RPG.Chasseur bourbiérin</link><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Grandcoasseur bourbiérin</link><link>Pathfinder-RPG.Guerrier abyssal bourbiérin</link><link>Pathfinder-RPG.Oracle du marais bourbiérin</link><link>Pathfinder-RPG.Prêtre-roi bourbiérin</link><link>Pathfinder-RPG.Prophète bourbiérin</link><link>Pathfinder-RPG.Traqueur bourbiérin</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Bourbiérin</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Retenir son souffle (capacité)</link><link>Pathfinder-RPG.Soins importants</link><link>Pathfinder-RPG.Bouclier de la foi</link><link>Pathfinder-RPG.armure de cuir cloutée (armure)</link><link>Pathfinder-RPG.lance (arme)</link><link>Pathfinder-RPG.javeline (arme)</link><link>Pathfinder-RPG.Bourbiérin balafré</link><link>Pathfinder-RPG.Bourbiérin sauvage</link><link>Pathfinder-RPG.Brute bourbiérine</link><link>Pathfinder-RPG.Champion bourbiérin</link><link>Pathfinder-RPG.Chasseur bourbiérin</link><link>Pathfinder-RPG.Grandcoasseur bourbiérin</link><link>Pathfinder-RPG.Guerrier abyssal bourbiérin</link><link>Pathfinder-RPG.Oracle du marais bourbiérin</link><link>Pathfinder-RPG.Prêtre-roi bourbiérin</link><link>Pathfinder-RPG.Prophète bourbiérin</link><link>Pathfinder-RPG.Traqueur bourbiérin</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Bourbi&#233;rin balafr&#233;&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Marais&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Codex-Monstrueux-(Contenu).html&quot; title=&quot;Codex monstrueux (Contenu)&quot;&gt;Codex monstrueux p.12&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin&quot;&gt;Bourbi&#233;rin&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;barbare&lt;/a&gt; 4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (bourbi&#233;rin) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 7, pris au d&#233;pourvu 14 (armure +4, Dex –1, naturelle +3, rage -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 86 (7 DV ; 3d8+4d12+42)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +5; +3 contre la magie
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; esquive instinctive, sens des pi&#232;ges +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, nage 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; lance +1, +15/+10 (1d8+11/&#215;3) et langue, +8 contact (langue gluante)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; javeline, +5 (1d6+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; rage (14 rounds/jour), pouvoirs de rage (repousser, superstition +3), coassement terrifiant (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Tactique&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Statistiques de base&lt;/b&gt; Quand le barbare n’est pas enrag&#233;, voici ses statistiques : &lt;b&gt;CA&lt;/b&gt; 16, contact 9, pris au d&#233;pourvu 16 ; &lt;b&gt;pv&lt;/b&gt; 72 ; &lt;b&gt;Vig&lt;/b&gt; +11, &lt;b&gt;Vol&lt;/b&gt; +3 ; &lt;b&gt;Corps &#224; corps&lt;/b&gt; lance +1, +13/+8 (1d8+8/&#215;3), langue, +6 contact (langue gluante) ; &lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Con&lt;/b&gt; 18 ; &lt;b&gt;BMO&lt;/b&gt; +11 ; &lt;b&gt;Comp&#233;tences&lt;/b&gt; Escalade +10, Natation +18
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 24, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; 22, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6 ; &lt;b&gt;BMO&lt;/b&gt; +13 ; &lt;b&gt;DMD&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (lance), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +5 (+21 pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +0 (+8 dans les marais), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; bourbi&#233;rin
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; d&#233;placement acc&#233;l&#233;r&#233;, &lt;a class=&quot;pagelink&quot; href=&quot;Retenir-Son-Souffle-(Capacit&#233;).html&quot; title=&quot;Retenir son souffle (Ext)&quot;&gt;retenir son souffle&lt;/a&gt;, d&#233;placement facilit&#233; (marais)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; &lt;i&gt;potions de &lt;a class=&quot;pagelink&quot; href=&quot;Soins-Importants.html&quot; title=&quot;Soins importants&quot;&gt;soins importants&lt;/a&gt;&lt;/i&gt; (2), &lt;i&gt;potion de &lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-De-La-Foi.html&quot; title=&quot;Bouclier de la foi&quot;&gt;bouclier de la foi&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;&#201;quipement divers&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Cuir-Clout&#233;e-(Armure).html&quot; title=&quot;Armure de cuir clout&#233;e&quot;&gt;armure de cuir clout&#233;e&lt;/a&gt; +1&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lance-(Arme).html&quot; title=&quot;Lance&quot;&gt;lance&lt;/a&gt; +1&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Javeline-(Arme).html&quot; title=&quot;Javeline&quot;&gt;javelines&lt;/a&gt; (3), 70 po
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de bourbi&#233;rins&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin&quot;&gt;Bourbi&#233;rin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourbi&#233;rin-Balafr&#233;.html&quot; title=&quot;Bourbi&#233;rin, Bourbi&#233;rin balafr&#233;&quot;&gt;Bourbi&#233;rin balafr&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourbi&#233;rin-Sauvage.html&quot; title=&quot;Bourbi&#233;rin, Bourbi&#233;rin sauvage&quot;&gt;Bourbi&#233;rin sauvage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brute-Bourbi&#233;rine.html&quot; title=&quot;Bourbi&#233;rin, Brute bourbi&#233;rine&quot;&gt;Brute bourbi&#233;rine&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin, Champion bourbi&#233;rin&quot;&gt;Champion bourbi&#233;rin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur-Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin, Chasseur bourbi&#233;rin&quot;&gt;Chasseur bourbi&#233;rin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grandcoasseur-Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin, Grandcoasseur bourbi&#233;rin&quot;&gt;Grandcoasseur bourbi&#233;rin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier-Abyssal-Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin, Guerrier abyssal bourbi&#233;rin&quot;&gt;Guerrier abyssal bourbi&#233;rin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Du-Marais-Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin, Oracle du marais bourbi&#233;rin&quot;&gt;Oracle du marais bourbi&#233;rin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Roi-Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin, Pr&#234;tre-roi bourbi&#233;rin&quot;&gt;Pr&#234;tre-roi bourbi&#233;rin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin, Proph&#232;te bourbi&#233;rin&quot;&gt;Proph&#232;te bourbi&#233;rin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Traqueur-Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin, Traqueur bourbi&#233;rin&quot;&gt;Traqueur bourbi&#233;rin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;Les barbares bourbi&#233;rins sont aussi terrifiants qu’impr&#233;visibles.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Bourbiérin balafré|FP 6}
+{s:pucem|Humanoïde|Marais|Tempéré}
+{s:BDTexte|''Source : [[Codex monstrueux (Contenu)|Codex monstrueux p.12]]''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[Bourbiérin]] [[barbare]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (bourbiérin) de taille M, CM}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 7, pris au dépourvu 14 (armure +4, Dex –1, naturelle +3, rage -2)}
+{s:BDTexte|'''pv''' 86 (7 DV ; 3d8+4d12+42)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +13, '''Vol''' +5; +3 contre la magie}
+{s:BDTexte|'''Capacités défensives''' esquive instinctive, sens des pièges +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, nage 9 m}
+{s:BDTexte|'''Corps à corps''' lance +1, +15/+10 (1d8+11/×3) et langue, +8 contact (langue gluante)}
+{s:BDTexte|'''Distance''' javeline, +5 (1d6+7)}
+{s:BDTexte|'''Attaques spéciales''' rage (14 rounds/jour), pouvoirs de rage (repousser, superstition +3), coassement terrifiant (DD 14)}
+{s:BDSousTitre|Tactique}
+{s:BDTexte|'''Statistiques de base''' Quand le barbare n’est pas enragé, voici ses statistiques : '''CA''' 16, contact 9, pris au dépourvu 16 ; '''pv''' 72 ; '''Vig''' +11, '''Vol''' +3 ; '''Corps à corps''' lance +1, +13/+8 (1d8+8/×3), langue, +6 contact (langue gluante) ; '''For''' 20, '''Con''' 18 ; '''BMO''' +11 ; '''Compétences''' Escalade +10, Natation +18}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 24, '''Dex''' 9, '''Con''' 22, '''Int''' 6, '''Sag''' 13, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +13 ; '''DMD''' 20}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (lance), [[Attaque en puissance]], [[Endurance]], [[Réflexes surhumains]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +5 (+21 pour sauter), [[Discrétion]] +0 (+8 dans les marais), [[Escalade]] +12, [[Intimidation]] +8, [[Natation]] +20, [[Perception]] +12}
+{s:BDTexte|'''Langues''' bourbiérin}
+{s:BDTexte|'''Particularités''' déplacement accéléré, [[Retenir son souffle (capacité)|retenir son souffle]], déplacement facilité (marais)}
+{s:BDTexte|'''Équipement de combat''' ''potions de [[soins importants]]'' (2), ''potion de [[bouclier de la foi]]'' ; '''Équipement divers''' ''[[armure de cuir cloutée (armure)|armure de cuir cloutée]] +1'', ''[[lance (arme)|lance]] +1'', [[javeline (arme)|javelines]] (3), 70 po}
+
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de bourbiérins
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Bourbiérin]] || 2
+|-
+| [[Bourbiérin balafré]] || 6
+|-
+| [[Bourbiérin sauvage]] || 4
+|-
+| [[Brute bourbiérine]] || 3
+|-
+| [[Champion bourbiérin]] || 7
+|-
+| [[Chasseur bourbiérin]] || 5
+|-
+| [[Grandcoasseur bourbiérin]] || 3
+|-
+| [[Guerrier abyssal bourbiérin]] || 8
+|-
+| [[Oracle du marais bourbiérin]] || 4
+|-
+| [[Prêtre-roi bourbiérin]] || 11
+|-
+| [[Prophète bourbiérin]] || 5
+|-
+| [[Traqueur bourbiérin]] || 9
+|}
+</div>Les barbares bourbiérins sont aussi terrifiants qu’imprévisibles.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Bourbiérin balafré</fullName>
+</wikiPage>

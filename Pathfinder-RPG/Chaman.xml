@@ -1,0 +1,708 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Le chaman</title>
+  <categories><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs - Classes avancées</category></categories>
+  <lastModified>2024-10-02 16:55:24Z</lastModified>
+  <version>15</version>
+  <inLinks><link>Pathfinder-RPG.Abri de toile</link><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Adepte démoniaque</link><link>Pathfinder-RPG.Affaiblissement des énergies destructives</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Aide</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Allié doutreplan</link><link>Pathfinder-RPG.Allié majeur doutreplan</link><link>Pathfinder-RPG.Allié suprême doutreplan</link><link>Pathfinder-RPG.Amant de la forge</link><link>Pathfinder-RPG.Ambassadeur animal</link><link>Pathfinder-RPG.Âme parasite</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Amulette des esprits</link><link>Pathfinder-RPG.Anathème</link><link>Pathfinder-RPG.Animation des morts</link><link>Pathfinder-RPG.Animation des morts mineure</link><link>Pathfinder-RPG.Animation des plantes</link><link>Pathfinder-RPG.Animiste (Chaman)</link><link>Pathfinder-RPG.Anneau de repli féérique</link><link>Pathfinder-RPG.Annulation denchantement</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Apaisement des animaux</link><link>Pathfinder-RPG.Apaisement des émotions</link><link>Pathfinder-RPG.Apaisement des esprits</link><link>Pathfinder-RPG.Aperçu lucide</link><link>Pathfinder-RPG.Appel de la foudre</link><link>Pathfinder-RPG.Appel de la tempête</link><link>Pathfinder-RPG.Appel des esprits</link><link>Pathfinder-RPG.Appel dun esprit</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Arme magique</link><link>Pathfinder-RPG.Arme magique suprême</link><link>Pathfinder-RPG.Arme spirituelle</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Armure de Gorum</link><link>Pathfinder-RPG.Armure revenante</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Aspect du rossignol</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Attraction féérique</link><link>Pathfinder-RPG.Attraction féérique majeure</link><link>Pathfinder-RPG.Attraction féérique suprême</link><link>Pathfinder-RPG.Augure</link><link>Pathfinder-RPG.Baie nourricière</link><link>Pathfinder-RPG.Bannissement</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Bâton serpent</link><link>Pathfinder-RPG.Bâton totémique zenj</link><link>Pathfinder-RPG.Baume empoisonné</link><link>Pathfinder-RPG.Bénédiction</link><link>Pathfinder-RPG.Bénédiction de la liberté</link><link>Pathfinder-RPG.Bénédiction du chasseur</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Blessure critique</link><link>Pathfinder-RPG.Blessure critique de groupe</link><link>Pathfinder-RPG.Blessure grave</link><link>Pathfinder-RPG.Blessure grave de groupe</link><link>Pathfinder-RPG.Blessure légère</link><link>Pathfinder-RPG.Blessure légère de groupe</link><link>Pathfinder-RPG.Blessure modérée</link><link>Pathfinder-RPG.Blessure modérée de groupe</link><link>Pathfinder-RPG.Bosquet reposant</link><link>Pathfinder-RPG.Bouclier de pierre</link><link>Pathfinder-RPG.Bouclier de rêves</link><link>Pathfinder-RPG.Bouclier déclats</link><link>Pathfinder-RPG.Bouclier donde</link><link>Pathfinder-RPG.Boule de foudre</link><link>Pathfinder-RPG.Bravades</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Brouillard dense</link><link>Pathfinder-RPG.Broussaille distrayante</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.Brume de rêves</link><link>Pathfinder-RPG.Brume sanglante</link><link>Pathfinder-RPG.Buveur dâmes</link><link>Pathfinder-RPG.caméléon</link><link>Pathfinder-RPG.Capture dâme</link><link>Pathfinder-RPG.Cataracte</link><link>Pathfinder-RPG.Cécité nocturne</link><link>Pathfinder-RPG.Cécitésurdité</link><link>Pathfinder-RPG.Cercle de clarté</link><link>Pathfinder-RPG.Cercle magique contre la Loi</link><link>Pathfinder-RPG.Cercle magique contre le Bien</link><link>Pathfinder-RPG.Cercle magique contre le Chaos</link><link>Pathfinder-RPG.cercle magique contre le Mal</link><link>Pathfinder-RPG.Cercle thaumaturgique</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Chaman non assermenté (Chaman)</link><link>Pathfinder-RPG.Chaman possédé (Chaman)</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Changement de fonction</link><link>Pathfinder-RPG.Changement de forme</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Charme-animal</link><link>Pathfinder-RPG.Charme-monstre</link><link>Pathfinder-RPG.Charme-monstre de groupe</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Charme-personne de groupe</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Chêne animé</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Chevaucher les vagues</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Choc mental</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Chuchoteur spirituel (magicien)</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Clairaudienceclairvoyance</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Coeur dévasté</link><link>Pathfinder-RPG.Cœur incassable</link><link>Pathfinder-RPG.Colonne de feu</link><link>Pathfinder-RPG.Communication à distance</link><link>Pathfinder-RPG.Communication avec les apparitions</link><link>Pathfinder-RPG.Communication avec les morts</link><link>Pathfinder-RPG.Communion</link><link>Pathfinder-RPG.Communion akashique</link><link>Pathfinder-RPG.Communion avec la nature</link><link>Pathfinder-RPG.Communion avec les oiseaux</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Compagnons vermines</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Compréhension des langages</link><link>Pathfinder-RPG.Cône de froid</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Conscience accrue</link><link>Pathfinder-RPG.Contact glacial</link><link>Pathfinder-RPG.Contrat de sage</link><link>Pathfinder-RPG.Contrôle de leau</link><link>Pathfinder-RPG.Contrôle des vents</link><link>Pathfinder-RPG.Contrôle du climat</link><link>Pathfinder-RPG.Convocation dalliés géants I</link><link>Pathfinder-RPG.Convocation dalliés géants II</link><link>Pathfinder-RPG.Convocation dalliés géants III</link><link>Pathfinder-RPG.Convocation dalliés naturels I</link><link>Pathfinder-RPG.Convocation dalliés naturels II</link><link>Pathfinder-RPG.Convocation dalliés naturels III</link><link>Pathfinder-RPG.Convocation dalliés naturels IV</link><link>Pathfinder-RPG.Convocation dalliés naturels IX</link><link>Pathfinder-RPG.Convocation dalliés naturels V</link><link>Pathfinder-RPG.Convocation dalliés naturels VI</link><link>Pathfinder-RPG.Convocation dalliés naturels VII</link><link>Pathfinder-RPG.Convocation dalliés naturels VIII</link><link>Pathfinder-RPG.Convocation de kamis</link><link>Pathfinder-RPG.Convocation dun vol daigle</link><link>Pathfinder-RPG.Coquille anti-créatures intangibles</link><link>Pathfinder-RPG.Coquille antivie</link><link>Pathfinder-RPG.Corps de glace</link><link>Pathfinder-RPG.Corps épineux</link><link>Pathfinder-RPG.Crachat venimeux</link><link>Pathfinder-RPG.Création de gemme spirituelle</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Création de mort-vivant</link><link>Pathfinder-RPG.Création de mort-vivant dominant</link><link>Pathfinder-RPG.Création de nourriture et deau</link><link>Pathfinder-RPG.Création deau</link><link>Pathfinder-RPG.Croissance animale</link><link>Pathfinder-RPG.Cyclone</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.Damnation</link><link>Pathfinder-RPG.Danse irrésistible</link><link>Pathfinder-RPG.Dard vengeur</link><link>Pathfinder-RPG.Déchirure du déguisement</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Délivrance de la paralysie</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Descriptions individuelles des propriétés spéciales des armes</link><link>Pathfinder-RPG.Détection de la faune ou de la flore</link><link>Pathfinder-RPG.Détection de la Loi</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Détection de la magie suprême</link><link>Pathfinder-RPG.Détection de la scrutation</link><link>Pathfinder-RPG.Détection des charmes</link><link>Pathfinder-RPG.Détection des fidèles</link><link>Pathfinder-RPG.Détection des morts-vivants</link><link>Pathfinder-RPG.Détection du Bien</link><link>Pathfinder-RPG.Détection du Chaos</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Détection du poison</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Diaboliste</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Discours captivant</link><link>Pathfinder-RPG.Dispense de Charon</link><link>Pathfinder-RPG.Dispersion des sièges</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Dissipation suprême</link><link>Pathfinder-RPG.Distorsion du bois</link><link>Pathfinder-RPG.Divination</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Domination</link><link>Pathfinder-RPG.Domination danimal</link><link>Pathfinder-RPG.Domination universelle</link><link>Pathfinder-RPG.Don de maléfice</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Don des langues (partagé)</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.dons de maléfice sanglant</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.écailles épineuses</link><link>Pathfinder-RPG.Écailles épineuses supérieures</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.Écuyer spirituel</link><link>Pathfinder-RPG.Effroi</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Embourbement</link><link>Pathfinder-RPG.Empire végétal</link><link>Pathfinder-RPG.Empoisonnement</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Enchevêtrement</link><link>Pathfinder-RPG.Enchevêtrement épineux</link><link>Pathfinder-RPG.Enchevêtrement répugnant</link><link>Pathfinder-RPG.Endurance aux énergies destructives</link><link>Pathfinder-RPG.Endurance aux énergies destructives (partagé)</link><link>Pathfinder-RPG.Endurance de lours</link><link>Pathfinder-RPG.Endurance de lours de groupe</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Enveloppement des pensées</link><link>Pathfinder-RPG.Épreuve de lacide et du feu</link><link>Pathfinder-RPG.Esprit endormi</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Éveil</link><link>Pathfinder-RPG.Éveil de créature artificielle</link><link>Pathfinder-RPG.Éveiller les dévorés</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Examen approfondi</link><link>Pathfinder-RPG.Exécution</link><link>Pathfinder-RPG.Exigence</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Explosion de lumière</link><link>Pathfinder-RPG.Façonnage de la pierre</link><link>Pathfinder-RPG.Façonnage du bois</link><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs (Dons et compétences)</link><link>Pathfinder-RPG.Fatigue</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Faux avenir</link><link>Pathfinder-RPG.Festin de terreur</link><link>Pathfinder-RPG.Festin onirique</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Flammes</link><link>Pathfinder-RPG.Fléau dinsectes</link><link>Pathfinder-RPG.Flétrissement végétal</link><link>Pathfinder-RPG.Flétrissure</link><link>Pathfinder-RPG.Flottabilité</link><link>Pathfinder-RPG.Fonts de magie des esprits</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.Force de taureau de groupe</link><link>Pathfinder-RPG.Force décuplée</link><link>Pathfinder-RPG.Forme darbre</link><link>Pathfinder-RPG.Forme inoffensive</link><link>Pathfinder-RPG.Foule illusoire</link><link>Pathfinder-RPG.Frayeur</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Fusion avec le familier</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Gardien spirituel</link><link>Pathfinder-RPG.Gardien spirituel (Chaman)</link><link>Pathfinder-RPG.Germes de feu</link><link>Pathfinder-RPG.Geyser dair</link><link>Pathfinder-RPG.Glyphe de garde</link><link>Pathfinder-RPG.Glyphe de maléfice</link><link>Pathfinder-RPG.Glyphe de maléfice suprême</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Gorgée de poison</link><link>Pathfinder-RPG.Grand banquet</link><link>Pathfinder-RPG.Grand tertre</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Guérison de destrier</link><link>Pathfinder-RPG.Guérison de la cécitésurdité</link><link>Pathfinder-RPG.Guérison des maladies</link><link>Pathfinder-RPG.Guérison suprême</link><link>Pathfinder-RPG.Guérison suprême de groupe</link><link>Pathfinder-RPG.Guérisseur (Chaman)</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Guide</link><link>Pathfinder-RPG.Guide spirituel (oracle)</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Handicap</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Hébétement de groupe</link><link>Pathfinder-RPG.Hébétement de monstre</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Homme-lézard</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Immobilisation danimal</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Immobilisation de monstre de groupe</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Imprécation</link><link>Pathfinder-RPG.Incantation simplifiée</link><link>Pathfinder-RPG.Incertitude</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Infortune dAlaznist</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Invisibilité pour les animaux</link><link>Pathfinder-RPG.Invocateur desprit (conjurateur)</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.Javeline épineuse</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.Kuru</link><link>Pathfinder-RPG.Lame de feu</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Lame émoussée</link><link>Pathfinder-RPG.Lame spirituelle (sort)</link><link>Pathfinder-RPG.lanterne dansante</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lecture de la météo</link><link>Pathfinder-RPG.Lecture du tourment</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Légionnaire infernal</link><link>Pathfinder-RPG.Lévitation</link><link>Pathfinder-RPG.Lien mental</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des sorts de chaman</link><link>Pathfinder-RPG.Localisation suprême</link><link>Pathfinder-RPG.Locuteur du passé (Chaman)</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Lumière du jour</link><link>Pathfinder-RPG.Lumières dansantes</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Mains brûlantes</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.Malédiction conditionnelle</link><link>Pathfinder-RPG.Malédiction du paria</link><link>Pathfinder-RPG.Malédiction du sommeil brûlant</link><link>Pathfinder-RPG.Malédiction majeure</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.Maléfice flexible</link><link>Pathfinder-RPG.Maléfice sanglant supplémentaire</link><link>Pathfinder-RPG.Maléfice supplémentaire</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Manteau de calme</link><link>Pathfinder-RPG.Manteau de rêves</link><link>Pathfinder-RPG.Manteau des guerriers magiques</link><link>Pathfinder-RPG.Manuel des joueurs - Classes avancées (Contenu)</link><link>Pathfinder-RPG.Marche sur londe</link><link>Pathfinder-RPG.Marche sur londe (partagé)</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Marque de paix</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Mémoire ancestrale</link><link>Pathfinder-RPG.Messager animal</link><link>Pathfinder-RPG.Messager verrouillé</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Métamorphe ajustable</link><link>Pathfinder-RPG.Métamorphose animale</link><link>Pathfinder-RPG.Métamorphose du familier</link><link>Pathfinder-RPG.Métamorphose funeste</link><link>Pathfinder-RPG.Mise à mal</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.morsure du froid</link><link>Pathfinder-RPG.Mort rampante</link><link>Pathfinder-RPG.Mur de feu</link><link>Pathfinder-RPG.Mur de pierre</link><link>Pathfinder-RPG.Mur de saumure</link><link>Pathfinder-RPG.Mur de vent</link><link>Pathfinder-RPG.Mur dépines</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Mythes et légendes</link><link>Pathfinder-RPG.Nage dans la terre</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Natation aérienne</link><link>Pathfinder-RPG.Neutralisation du poison</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Nuage nauséabond</link><link>Pathfinder-RPG.Nuée délémentaires</link><link>Pathfinder-RPG.Nuée distordante</link><link>Pathfinder-RPG.Nuée grouillante</link><link>Pathfinder-RPG.Nuées dorage</link><link>Pathfinder-RPG.Nuit polaire</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Œil de faucon</link><link>Pathfinder-RPG.Œil du taureau</link><link>Pathfinder-RPG.Œuf empoisonné</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Orang-pendak</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Oreilles de la cité</link><link>Pathfinder-RPG.Orientation</link><link>Pathfinder-RPG.Pacte de mort</link><link>Pathfinder-RPG.Pacte vital</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Panoplie magique</link><link>Pathfinder-RPG.Parle-esprit</link><link>Pathfinder-RPG.Parole animale</link><link>Pathfinder-RPG.Paroles secrètes</link><link>Pathfinder-RPG.Passage dans léther</link><link>Pathfinder-RPG.Passage sans traces</link><link>Pathfinder-RPG.Peau de pierre</link><link>Pathfinder-RPG.Peau de pierre (partagé)</link><link>Pathfinder-RPG.Peau décorce</link><link>Pathfinder-RPG.Perception de la magie des esprits</link><link>Pathfinder-RPG.Perception des proches</link><link>Pathfinder-RPG.Petite brise</link><link>Pathfinder-RPG.Petite sirène</link><link>Pathfinder-RPG.Petites fractures</link><link>Pathfinder-RPG.Pétrification</link><link>Pathfinder-RPG.Pied ancré</link><link>Pathfinder-RPG.Piège ectoplasmique</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Pierre magique</link><link>Pathfinder-RPG.Pierres acérées</link><link>Pathfinder-RPG.Pierres commères</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Pistage aérien</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.Plainte doutre-tombe</link><link>Pathfinder-RPG.Planer</link><link>Pathfinder-RPG.Pluie de grenouilles</link><link>Pathfinder-RPG.Poignée de vipères</link><link>Pathfinder-RPG.Poings osseux</link><link>Pathfinder-RPG.Poison écrasant</link><link>Pathfinder-RPG.Poison masqué</link><link>Pathfinder-RPG.Poisson-singe</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Possession</link><link>Pathfinder-RPG.Poussée hydraulique</link><link>Pathfinder-RPG.Poussière détoile</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Prémonition</link><link>Pathfinder-RPG.Préservation des morts</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Pronostic</link><link>Pathfinder-RPG.Pronostic suprême</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Protection contre la Loi</link><link>Pathfinder-RPG.Protection contre la Loi (partagé)</link><link>Pathfinder-RPG.Protection contre le Bien</link><link>Pathfinder-RPG.Protection contre le Bien (partagé)</link><link>Pathfinder-RPG.Protection contre le Chaos</link><link>Pathfinder-RPG.Protection contre le Chaos (partagé)</link><link>Pathfinder-RPG.Protection contre le Mal</link><link>Pathfinder-RPG.Protection contre le Mal (partagé)</link><link>Pathfinder-RPG.Protection contre les énergies destructives</link><link>Pathfinder-RPG.Protection contre les énergies destructives (partagé)</link><link>Pathfinder-RPG.Protection du compagnon</link><link>Pathfinder-RPG.protégé de la saison</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Puanteur amplifiée</link><link>Pathfinder-RPG.Puanteur de la proie</link><link>Pathfinder-RPG.Puissance divine</link><link>Pathfinder-RPG.Purification de nourriture et deau</link><link>Pathfinder-RPG.Rage jalouse</link><link>Pathfinder-RPG.Ralentissement du poison</link><link>Pathfinder-RPG.Ralentissement du poison (partagé)</link><link>Pathfinder-RPG.Rappel à la vie</link><link>Pathfinder-RPG.Rappel de compagnon animal</link><link>Pathfinder-RPG.Rayon de soleil</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Regain dassurance</link><link>Pathfinder-RPG.Regard brûlant</link><link>Pathfinder-RPG.Régénération</link><link>Pathfinder-RPG.Régression primale</link><link>Pathfinder-RPG.Réincarnation</link><link>Pathfinder-RPG.Réincarnation despion</link><link>Pathfinder-RPG.Rejet de la Loi</link><link>Pathfinder-RPG.Rejet du Bien</link><link>Pathfinder-RPG.Rejet du Chaos</link><link>Pathfinder-RPG.Rejet du Mal</link><link>Pathfinder-RPG.Renvoi</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Repérage</link><link>Pathfinder-RPG.Repos éternel</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Répulsif</link><link>Pathfinder-RPG.Requiem pour les fantômes</link><link>Pathfinder-RPG.Requiem pour les fantômes de groupe</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Résistance aux énergies destructives (partagé)</link><link>Pathfinder-RPG.Respiration aquatique</link><link>Pathfinder-RPG.Respiration dair</link><link>Pathfinder-RPG.Restauration</link><link>Pathfinder-RPG.Restauration deidolon</link><link>Pathfinder-RPG.Restauration deidolon mineure</link><link>Pathfinder-RPG.Restauration partielle</link><link>Pathfinder-RPG.Restauration suprême</link><link>Pathfinder-RPG.Résurrection</link><link>Pathfinder-RPG.Résurrection factice</link><link>Pathfinder-RPG.Résurrection factice suprême</link><link>Pathfinder-RPG.Résurrection suprême</link><link>Pathfinder-RPG.Rocher magique</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Sables du temps</link><link>Pathfinder-RPG.Sacrifice partagé</link><link>Pathfinder-RPG.Sagesse du hibou</link><link>Pathfinder-RPG.Sagesse du hibou de groupe</link><link>Pathfinder-RPG.Sahuagin</link><link>Pathfinder-RPG.Saison des récoltes</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Sceau contre les maléfices</link><link>Pathfinder-RPG.scrutation</link><link>Pathfinder-RPG.Scrutation suprême</link><link>Pathfinder-RPG.Secret dévoilé</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Signature magique</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Sillage nauséabond</link><link>Pathfinder-RPG.Simulacre de vie</link><link>Pathfinder-RPG.Simulacre de vie supérieur</link><link>Pathfinder-RPG.Soins importants</link><link>Pathfinder-RPG.Soins importants de groupe</link><link>Pathfinder-RPG.Soins intensifs</link><link>Pathfinder-RPG.Soins intensifs de groupe</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Soins légers de groupe</link><link>Pathfinder-RPG.Soins modérés</link><link>Pathfinder-RPG.Soins modérés de groupe</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.sommeil de lamnésique</link><link>Pathfinder-RPG.Sommeil profond</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.Sorcière des montagnes (sorcière)</link><link>Pathfinder-RPG.sort Absorption dénergie</link><link>Pathfinder-RPG.sort Cauchemar</link><link>Pathfinder-RPG.sort destruction</link><link>Pathfinder-RPG.sort Malédiction</link><link>Pathfinder-RPG.sort Résistance</link><link>Pathfinder-RPG.sort Saignement</link><link>Pathfinder-RPG.sort Vol</link><link>Pathfinder-RPG.Souffle de vie</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Splendeur de laigle</link><link>Pathfinder-RPG.Splendeur de laigle de groupe</link><link>Pathfinder-RPG.Stabilisation</link><link>Pathfinder-RPG.Stimulant</link><link>Pathfinder-RPG.Suffocation instantanée</link><link>Pathfinder-RPG.Suppression des charmes et de la coercition</link><link>Pathfinder-RPG.Surconsommation</link><link>Pathfinder-RPG.Suspension</link><link>Pathfinder-RPG.svirfneblin (race)</link><link>Pathfinder-RPG.Symbole de dissipation</link><link>Pathfinder-RPG.Symbole de mort</link><link>Pathfinder-RPG.Tableau récapitulatif des compétences</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons - Temp</link><link>Pathfinder-RPG.Tableau récapitulatif des dons des classes avancées</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Temp-aventures occultes</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Tempête de feu</link><link>Pathfinder-RPG.Tempête de grêle</link><link>Pathfinder-RPG.Tempête de neige</link><link>Pathfinder-RPG.Tempête vengeresse</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Ténèbres</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Terreur</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Toucher endothermique</link><link>Pathfinder-RPG.Toucher hémorragique</link><link>Pathfinder-RPG.Transfert daffliction</link><link>Pathfinder-RPG.Transfert dâme</link><link>Pathfinder-RPG.Transfert de puissance élémentaire</link><link>Pathfinder-RPG.Transfert de régénération</link><link>Pathfinder-RPG.Transfert de sorts</link><link>Pathfinder-RPG.Transmutation de la pierre en chair</link><link>Pathfinder-RPG.Transplantation faciale</link><link>Pathfinder-RPG.Tremblement de terre</link><link>Pathfinder-RPG.Troglodyte</link><link>Pathfinder-RPG.Troll</link><link>Pathfinder-RPG.Tsunami</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Vacillement</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Vengeance de lamoureux</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Venin conditionné</link><link>Pathfinder-RPG.Venin latent</link><link>Pathfinder-RPG.Vent divin</link><link>Pathfinder-RPG.Vents de la vengeance</link><link>Pathfinder-RPG.Véritable trône argenté (chaman)</link><link>Pathfinder-RPG.Véritable trône argenté (chaman)</link><link>Pathfinder-RPG.Vermine géante</link><link>Pathfinder-RPG.Vigueur du pesh</link><link>Pathfinder-RPG.Vigueur persistante</link><link>Pathfinder-RPG.Vision de Lamashtu</link><link>Pathfinder-RPG.Vision des auras</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Vision mystique</link><link>Pathfinder-RPG.Vision végétale</link><link>Pathfinder-RPG.Visionnaire (Chaman)</link><link>Pathfinder-RPG.Vive perspective</link><link>Pathfinder-RPG.Vocabulaire savant</link><link>Pathfinder-RPG.Voeux</link><link>Pathfinder-RPG.Voie végétale</link><link>Pathfinder-RPG.Vol supérieur</link><link>Pathfinder-RPG.Vortex</link><link>Pathfinder-RPG.Vulnérabilité aux maléfices</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Liste des sorts de chaman</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.arme courante</link><link>Pathfinder-RPG.armure légère</link><link>Pathfinder-RPG.armure intermédiaire</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.MJ</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.AO</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Familiers</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.lignage Profane</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.compagnon animal</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Voeux</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Animiste (Chaman)</link><link>Pathfinder-RPG.Chaman non assermenté (Chaman)</link><link>Pathfinder-RPG.Chaman possédé (Chaman)</link><link>Pathfinder-RPG.Gardien spirituel (Chaman)</link><link>Pathfinder-RPG.Guérisseur (Chaman)</link><link>Pathfinder-RPG.Locuteur du passé (Chaman)</link><link>Pathfinder-RPG.Véritable trône argenté (chaman)</link><link>Pathfinder-RPG.Visionnaire (Chaman)</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;13%&quot;&gt;&lt;center&gt;&lt;img ID=&quot;menuclasseIMG3&quot; src=&quot;/wiki/public/upload/Illustrations/Autres/Head.jpg&quot; WIDTH=&quot;90%&quot; style=&quot;border: 1px solid #4b3124&quot; /&gt;&lt;/center&gt;&lt;/td&gt;&lt;td width=&quot;86%&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les classes hybrides&lt;a class=&quot;headeranchor&quot; id=&quot;Les_classes_hybrides_0&quot; href=&quot;#Les_classes_hybrides_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Arcaniste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;L&#39;arcaniste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;exploitations&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Bretteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bretteur.html&quot; title=&quot;Le bretteur&quot;&gt;Le bretteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits-(Bretteur).html&quot; title=&quot;Les exploits du bretteur&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chaman.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Le chaman&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(Chaman).html&quot; title=&quot;Les esprits du chaman&quot;&gt;esprits&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices-(Chaman).html&quot; title=&quot;Les mal&#233;fices du chaman&quot;&gt;mal&#233;fices&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur.html&quot; title=&quot;Le chasseur&quot;&gt;Le chasseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;compagnon animal&quot;&gt;compagnon animal&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Enqu&#234;teur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enqu&#234;teur.html&quot; title=&quot;L&amp;#39;enqu&#234;teur&quot;&gt;L&#39;enqu&#234;teur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Enqu&#234;teur).html&quot; title=&quot;Les talents d&amp;#39;enqu&#234;teur&quot;&gt;talents d’enqu&#234;teur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Lutteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lutteur.html&quot; title=&quot;Le lutteur&quot;&gt;Le lutteur&lt;/a&gt; &lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre combattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Le pr&#234;tre combattant&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;dictions.html&quot; title=&quot;Les b&#233;n&#233;dictions du pr&#234;tre combattant&quot;&gt;b&#233;n&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sanguin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;Le sanguin&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages-(Sanguin).html&quot; title=&quot;Les lignages du sanguin&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Scalde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html&quot; title=&quot;Le scalde&quot;&gt;Le scalde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html&quot; title=&quot;Les chants de rage du scalde&quot;&gt;chants de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Tueur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tueur.html&quot; title=&quot;Le tueur&quot;&gt;Le tueur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Tueur).html&quot; title=&quot;Les talents de tueur&quot;&gt;talents de tueur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESDEBASE&quot; title=&quot;Les classes&quot;&gt;Classes de base&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barbare.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;Le barbare&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;pouvoirs de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Le barde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html&quot; title=&quot;Les repr&#233;sentations bardiques du barde&quot;&gt;repr&#233;sentations&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Les chefs d&amp;#39;œuvre du barde&quot;&gt;chefs d&#39;oeuvre&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Druide.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Le druide&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaines-Animaux-Et-Environnementaux.html&quot; title=&quot;Les domaines animaux et environnementaux du druide&quot;&gt;Domaines animaux et environnementaux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ensorceleur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;L&#39;ensorceleur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages.html&quot; title=&quot;Les lignages d&amp;#39;ensorceleur&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Guerrier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;Le guerrier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Groupe-Darmes.html&quot; title=&quot;Les groupes d&amp;#39;arme du guerrier&quot;&gt;groupes d&#39;armes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Entra&#238;nements-Avanc&#233;s.html&quot; title=&quot;Les entra&#238;nements avanc&#233;s du guerrier&quot;&gt;entra&#238;nements avanc&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magicien.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Le magicien&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-De-Magie.html&quot; title=&quot;Les &#233;coles de magie du magicien&quot;&gt;&#233;coles de magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes-Arcaniques.html&quot; title=&quot;Les d&#233;couvertes arcaniques du magicien&quot;&gt;d&#233;couvertes arcaniques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Moine.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine.html&quot; title=&quot;Le moine&quot;&gt;Le moine&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Voeux.html&quot; title=&quot;Les vœux du moine&quot;&gt;voeux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Paladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Le paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Le pr&#234;tre&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variantes-De-Canalisation.html&quot; title=&quot;Les variantes de canalisation du pr&#234;tre&quot;&gt;variantes de canalisation&lt;/a&gt;&lt;/i&gt;) (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines du pr&#234;tre&quot;&gt;domaines&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/R&#244;deur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;Le r&#244;deur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges-De-R&#244;deur.html&quot; title=&quot;Pi&#232;ges de r&#244;deur&quot;&gt;Pi&#232;ges de r&#244;deur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Roublard.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;Le roublard&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html&quot; title=&quot;Les talents de roublard&quot;&gt;talents&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESSUPPLEMENTAIRES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESSUPPLEMENTAIRES&quot; title=&quot;Les classes&quot;&gt;Classes suppl&#233;mentaires&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESSUPPLEMENTAIRES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Alchimiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;L&#39;alchimiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes.html&quot; title=&quot;Les d&#233;couvertes d&amp;#39;alchimiste&quot;&gt;d&#233;couvertes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Antipaladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;L&#39;anti-paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur de vampire.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur-De-Vampire.html&quot; title=&quot;Le chasseur de vampire&quot;&gt;Le chasseur de vampire&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Techniques-De-Chasseur-De-Vampire.html&quot; title=&quot;les techniques de chasseur de vampire&quot;&gt;techniques de chasseur de vampire&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chevalier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier.html&quot; title=&quot;Le chevalier&quot;&gt;Le chevalier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Conjurateur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;Le conjurateur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon.html&quot; title=&quot;L&amp;#39;eidolon du conjurateur&quot;&gt;eidolon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mod&#232;les-Deidolon.html&quot; title=&quot;Les mod&#232;les d&amp;#39;eidolon du conjurateur&quot;&gt;mod&#232;les d&#39;eidolon&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Inquisiteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;L&#39;inquisiteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html&quot; title=&quot;Les inquisitions d&amp;#39;inquisiteur&quot;&gt;inquisitions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Justicier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Justicier.html&quot; title=&quot;Le justicier&quot;&gt;Le justicier&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sociaux.html&quot; title=&quot;Les talents sociaux du justicier&quot;&gt;talents sociaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talents-De-Justicier.html&quot; title=&quot;Les talents de justicier&quot;&gt;talents de justicier&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magus.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le magus&quot;&gt;Le magus&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcanes.html&quot; title=&quot;Les arcanes du magus&quot;&gt;arcanes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;tamorphe.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphe.html&quot; title=&quot;Le m&#233;tamorphe&quot;&gt;Le m&#233;tamorphe&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Aspects.html&quot; title=&quot;Les aspects du m&#233;tamorphe&quot;&gt;aspects du m&#233;tamorphe&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ninja.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ninja.html&quot; title=&quot;Le ninja&quot;&gt;Le ninja&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Astuces.html&quot; title=&quot;Les astuces de ninja&quot;&gt;astuces&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Oracle.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;L&#39;oracle&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;res&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions-Doracle.html&quot; title=&quot;Les mal&#233;dictions d&amp;#39;oracle&quot;&gt;mal&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pistolier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html&quot; title=&quot;Le pistolier&quot;&gt;Le pistolier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits.html&quot; title=&quot;Les exploits du pistolier&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Samoura&#239;.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html&quot; title=&quot;Le samoura&#239;&quot;&gt;Le samoura&#239;&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sorci&#232;re.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;La sorci&#232;re&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices.html&quot; title=&quot;Les mal&#233;fices de la sorci&#232;re&quot;&gt;mal&#233;fices&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Protecteurs.html&quot; title=&quot;Les protecteurs de la sorci&#232;re&quot;&gt;protecteurs&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESOCCULTES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESOCCULTES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESOCCULTES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESOCCULTES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESOCCULTES&quot; title=&quot;Les classes&quot;&gt;Classes occultes&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESOCCULTES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Cin&#233;tiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cin&#233;tiste.html&quot; title=&quot;Le cin&#233;tiste&quot;&gt;Le cin&#233;tiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;ments.html&quot; title=&quot;Les &#233;l&#233;ments du cin&#233;tiste&quot;&gt;&#233;l&#233;ments&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sauvages.html&quot; title=&quot;Les talents sauvages du cin&#233;tiste&quot;&gt;talents sauvages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Hypnotiseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;L&#39;hypnotiseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inductions.html&quot; title=&quot;Les inductions d&amp;#39;hypnotiseur&quot;&gt;inductions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;dium.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;dium.html&quot; title=&quot;Le m&#233;dium&quot;&gt;Le m&#233;dium&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(M&#233;dium).html&quot; title=&quot;Les esprits du m&#233;dium&quot;&gt;esprits&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-L&#233;gendaires.html&quot; title=&quot;Les esprits l&#233;gendaires de m&#233;dium&quot;&gt;esprits l&#233;gendaires&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Occultiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Occultiste.html&quot; title=&quot;L&amp;#39;occultiste&quot;&gt;L&#39;occultiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-Instrumentales.html&quot; title=&quot;&#201;coles instrumentales&quot;&gt;&#233;coles instrumentales&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Instruments-Sacr&#233;s.html&quot; title=&quot;Les instruments sacr&#233;s d&amp;#39;occultiste&quot;&gt;instruments sacr&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Psychiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Le psychiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Amplifications-Phr&#233;niques.html&quot; title=&quot;Les amplifications phr&#233;niques du psychiste&quot;&gt;amplifications phr&#233;niques&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciplines-Psychiques.html&quot; title=&quot;Les disciplines psychiques du psychiste&quot;&gt;disciplines psychiques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Spirite.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Spirite.html&quot; title=&quot;Le spirite&quot;&gt;Le spirite&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fant&#244;mes-(Spirite).html&quot; title=&quot;Le fant&#244;me du spirite&quot;&gt;fant&#244;mes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPRESTIGE3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPRESTIGE3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPRESTIGE3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPRESTIGE3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Prestige.html&quot; title=&quot;Les classes de prestige&quot;&gt;Classes de prestige&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPRESTIGE3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Acolyte-De-La-Foi-Verte.html&quot; title=&quot;Acolyte de la Nature&quot;&gt;Acolyte de la Nature&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte-De-La-Flamme-Noire.html&quot; title=&quot;Adepte de la Flamme noire&quot;&gt;Adepte de la Flamme noire&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-La-Cour-Des-Ombres.html&quot; title=&quot;Agent de l&amp;#39;Ombre&quot;&gt;Agent de l&#39;Ombre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-Terrain-Des-&#201;claireurs.html&quot; title=&quot;Agent de terrain des Explorateurs&quot;&gt;Agent de terrain des Explorateurs&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-Consortium-De-Laspis.html&quot; title=&quot;Agent du consortium&quot;&gt;Agent du consortium&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-R&#233;seau-Campanule.html&quot; title=&quot;Agent du r&#233;seau&quot;&gt;Agent du r&#233;seau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste-De-Magaambya.html&quot; title=&quot;Arcaniste de l&amp;#39;acad&#233;mie du Vieux-Mage&quot;&gt;Arcaniste de l&#39;acad&#233;mie du Vieux-Mage&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Archer-Mage.html&quot; title=&quot;L&amp;#39;archer-mage&quot;&gt;Archer-mage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arpenteur-Dhorizon.html&quot; title=&quot;L&amp;#39;arpenteur d&amp;#39;horizon&quot;&gt;Arpenteur d&#39;horizon&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aspirant-&#192;-Lillumination.html&quot; title=&quot;Aspirant &#224; l&amp;#39;Illumination&quot;&gt;Aspirant &#224; l&#39;Illumination&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin-Des-Mantes-Rouges.html&quot; title=&quot;Assassin pourpre&quot;&gt;Assassin pourpre&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin.html&quot; title=&quot;L&amp;#39;assassin&quot;&gt;Assassin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Attiseur-De-Temp&#234;tes.html&quot; title=&quot;Attiseur de temp&#234;tes&quot;&gt;Attiseur de temp&#234;tes&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jardinier-Gris.html&quot; title=&quot;Bourreau gris&quot;&gt;Bourreau gris&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Dirori.html&quot; title=&quot;Champion de la perfection&quot;&gt;Champion de la perfection&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Occultiste.html&quot; title=&quot;Le champion occultiste&quot;&gt;Champion occultiste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Dozem.html&quot; title=&quot;Chevalier de la vie&quot;&gt;Chevalier de la vie&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevaucheur-De-Mammouth.html&quot; title=&quot;Chevaucheur de mammouth&quot;&gt;Chevaucheur de mammouth&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chroniqueur.html&quot; title=&quot;Le chroniqueur&quot;&gt;Chroniqueur&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Daivrat.html&quot; title=&quot;Daivrat&quot;&gt;Daivrat&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tective-Des-Insomniaques.html&quot; title=&quot;D&#233;tective des Insomniaques&quot;&gt;D&#233;tective des Insomniaques&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-De-Kalistrade.html&quot; title=&quot;Disciple des Proph&#233;ties&quot;&gt;Disciple des Proph&#233;ties&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciple-Draconien.html&quot; title=&quot;Le disciple draconien&quot;&gt;Disciple draconien&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissident-De-La-Fleur-De-Laube.html&quot; title=&quot;Dissident de l&amp;#39;aube&quot;&gt;Dissident de l&#39;aube&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duelliste.html&quot; title=&quot;Le duelliste&quot;&gt;Duelliste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Empoisonneur-De-Dague.html&quot; title=&quot;Empoisonneur de la guilde&quot;&gt;Empoisonneur de la guilde&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enfant-Divin.html&quot; title=&quot;Enfant divin&quot;&gt;Enfant divin&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Estimateur-Dabadar.html&quot; title=&quot;Estimateur l&#233;gal&quot;&gt;Estimateur l&#233;gal&lt;/a&gt; (CSU)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tudiant-De-La-Guerre.html&quot; title=&quot;&#201;tudiant de la guerre&quot;&gt;&#201;tudiant de la guerre&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;vang&#233;liste.html&quot; title=&quot;&#201;vang&#233;liste&quot;&gt;&#201;vang&#233;liste&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exalt&#233;.html&quot; title=&quot;Exalt&#233;&quot;&gt;Exalt&#233;&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Explorateur.html&quot; title=&quot;Explorateur&quot;&gt;Explorateur&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Savant.html&quot; title=&quot;Explorateur savant&quot;&gt;Explorateur savant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Razmirien.html&quot; title=&quot;Faux pr&#234;tre&quot;&gt;Faux pr&#234;tre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fid&#232;le-D&#233;fenseur.html&quot; title=&quot;Le fid&#232;le d&#233;fenseur&quot;&gt;Fid&#232;le d&#233;fenseur&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fr&#232;re-Du-Sceau.html&quot; title=&quot;Fr&#232;re du Sceau&quot;&gt;Fr&#232;re du Sceau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;gionnaire-Dor&#233;.html&quot; title=&quot;Garde de la libert&#233;&quot;&gt;Garde de la libert&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-De-La-Nature.html&quot; title=&quot;Le gardien de la nature&quot;&gt;Gardien de la nature&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Des-Failles.html&quot; title=&quot;Gardien des failles&quot;&gt;Gardien des failles&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html&quot; title=&quot;Le gardien du savoir&quot;&gt;Gardien du savoir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier-De-La-Fosse.html&quot; title=&quot;Guerrier de la fosse&quot;&gt;Guerrier de la fosse&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;raut.html&quot; title=&quot;Le h&#233;raut&quot;&gt;H&#233;raut&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ritier-Noble.html&quot; title=&quot;H&#233;ritier noble&quot;&gt;H&#233;ritier noble&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Illusionniste-Voil&#233;.html&quot; title=&quot;Illusionniste voil&#233;&quot;&gt;Illusionniste voil&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lame-Des-Lions.html&quot; title=&quot;Lame des lions&quot;&gt;Lame des lions&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Infernal.html&quot; title=&quot;L&#233;gionnaire infernal&quot;&gt;L&#233;gionnaire infernal&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mage-Des-Glyphes.html&quot; title=&quot;Mage des glyphes&quot;&gt;Mage des glyphes&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Chymiste.html&quot; title=&quot;Le ma&#238;tre chymiste&quot;&gt;Ma&#238;tre chymiste&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Des-Ombres.html&quot; title=&quot;Le ma&#238;tre des ombres&quot;&gt;Ma&#238;tre des ombres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Espion.html&quot; title=&quot;Le ma&#238;tre espion&quot;&gt;Ma&#238;tre espion&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mar&#233;chal-Bouclier.html&quot; title=&quot;Mar&#233;chal-bouclier&quot;&gt;Mar&#233;chal-bouclier&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faucon-Dacier.html&quot; title=&quot;Missionnaire de la libert&#233;&quot;&gt;Missionnaire de la libert&#233;&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monolithe-Vivant.html&quot; title=&quot;Monolithe vivant&quot;&gt;Monolithe vivant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystificateur-Profane.html&quot; title=&quot;Le mystificateur profane&quot;&gt;Mystificateur profane&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystique-Tatou&#233;.html&quot; title=&quot;Mystique tatou&#233;&quot;&gt;Mystique tatou&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Opportuniste-Halfelin.html&quot; title=&quot;Opportuniste halfelin&quot;&gt;Opportuniste halfelin&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pirate-De-La-Mer-Int&#233;rieure.html&quot; title=&quot;Pirate de Haute Mer&quot;&gt;Pirate de Haute mer&lt;/a&gt; (PMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porteur-De-Lanterne.html&quot; title=&quot;Porteur de lanterne&quot;&gt;Porteur de lanterne&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-Enrag&#233;.html&quot; title=&quot;Le proph&#232;te enrag&#233;&quot;&gt;Proph&#232;te enrag&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prospecteur-C&#233;leste.html&quot; title=&quot;Prospecteur c&#233;leste&quot;&gt;Prospecteur c&#233;leste&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sentinelle.html&quot; title=&quot;Sentinelle&quot;&gt;Sentinelle&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-De-Larche-Du-Nex.html&quot; title=&quot;Seigneur de l&amp;#39;arche&quot;&gt;Seigneur de l&#39;arche&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-Des-&#201;p&#233;es-Aldori.html&quot; title=&quot;Seigneur des &#233;p&#233;es&quot;&gt;Seigneur des &#233;p&#233;es&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signifer-Infernal.html&quot; title=&quot;Signifer infernal&quot;&gt;Signifer infernal&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re-De-Lhiver.html&quot; title=&quot;Sorci&#232;re de l&amp;#39;hiver&quot;&gt;Sorci&#232;re de l&#39;hiver&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Templier-D&#233;chu.html&quot; title=&quot;Templier parjure&quot;&gt;Templier parjure&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Th&#233;urge-Mystique.html&quot; title=&quot;Le th&#233;urge mystique&quot;&gt;Th&#233;urge mystique&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vengeur-Sacr&#233;.html&quot; title=&quot;Le vengeur sacr&#233;&quot;&gt;Vengeur sacr&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liseuse-De-Tourment.html&quot; title=&quot;Voyante&quot;&gt;Voyante&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPNJ3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPNJ3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPNJ3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPNJ3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Classes de PNJ&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPNJ3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniAdepte.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;L&#39;adepte&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniExpert.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;L&#39;expert&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniCombattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;L&#39;homme d&#39;arme&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniHomme du Peuple.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Du-Peuple.html&quot; title=&quot;L&amp;#39;homme du peuple&quot;&gt;L&#39;homme du peuple&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniNoble.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Noble.html&quot; title=&quot;Le noble&quot;&gt;Le noble&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fright&quot;&gt;&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(Chaman).html&quot; title=&quot;Les esprits du chaman&quot;&gt;esprits du chaman&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices-(Chaman).html&quot; title=&quot;Les mal&#233;fices du chaman&quot;&gt;mal&#233;fices du chaman&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Chaman.html&quot; title=&quot;Liste des sorts de chaman&quot;&gt;liste des sorts de chaman&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonchaman&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onclick=&quot;expandMenu(&#39;chaman&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;Voir les arch&#233;types du chaman&lt;/b&gt;&amp;emsp;
+  &lt;li ID=&quot;chaman&quot; CLASS=&quot;listecach&#233;e&quot; STYLE=&quot;display:none&quot;&gt;&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les arch&#233;types de chaman&lt;a class=&quot;headeranchor&quot; id=&quot;Les_arch&#233;types_de_chaman_0&quot; href=&quot;#Les_arch&#233;types_de_chaman_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&amp;nbsp;Retour &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;classe&lt;/a&gt;.
+&lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animiste-(Chaman).html&quot; title=&quot;Animiste&quot;&gt;Animiste&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman-Non-Asserment&#233;-(Chaman).html&quot; title=&quot;Chaman non-asserment&#233;&quot;&gt;Chamane non-asserment&#233;&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman-Poss&#233;d&#233;-(Chaman).html&quot; title=&quot;Chaman poss&#233;d&#233;&quot;&gt;Chamane poss&#233;d&#233;&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Spirituel-(Chaman).html&quot; title=&quot;Gardien spirituel&quot;&gt;Gardien spirituel&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;risseur-(Chaman).html&quot; title=&quot;Gu&#233;risseur&quot;&gt;Gu&#233;risseur&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Locuteur-Du-Pass&#233;-(Chaman).html&quot; title=&quot;Locuteur du pass&#233;&quot;&gt;Locuteur du pass&#233;&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;V&#233;ritable-Tr&#244;ne-Argent&#233;-(Chaman).html&quot; title=&quot;V&#233;ritable tr&#244;ne argent&#233;&quot;&gt;V&#233;ritable tr&#244;ne argent&#233;&lt;/a&gt; (&lt;i&gt;OO&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Visionnaire-(Chaman).html&quot; title=&quot;Visionnaire&quot;&gt;Visionnaire&lt;/a&gt; (MCA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Certains h&#233;ros parlent aux dieux ou batifolent avec des muses issues d’autres mondes mais le chaman communique avec les esprits du monde et les &#233;nergies qui habitent tout &#234;tre vivant. Ces aventuriers divins utilisent leur pouvoir pour fa&#231;onner le monde et d&#233;velopper l’influence de leur protecteur spirituel. Ils entretiennent des liens &#233;troits avec les esprits de la nature. Ils nouent des relations privil&#233;gi&#233;es avec des esprits particuliers et, quand leur puissance se d&#233;veloppe, ils apprennent &#224; en appeler d’autres en cas de besoin.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre&quot;&gt;&lt;caption&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TABLECHAMAN&quot; href=&quot;#TABLECHAMAN&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;Le chaman&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot; CLASS=&quot;gauche&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td COLSPAN=&quot;10&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;9e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRIT&quot; title=&quot;Le chaman&quot;&gt;Esprit&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRITANIMAL&quot; title=&quot;Le chaman&quot;&gt;esprit animal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MAGIEDESESPRITS&quot; title=&quot;Le chaman&quot;&gt;magie des esprits&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ORAISONS&quot; title=&quot;Le chaman&quot;&gt;oraisons&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;Mal&#233;fice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRITERRANT&quot; title=&quot;Le chaman&quot;&gt;Esprit errant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;mal&#233;fice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICEERRANT&quot; title=&quot;Le chaman&quot;&gt;Mal&#233;fice errant&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRITSUPERIEUR&quot; title=&quot;Le chaman&quot;&gt;Esprit sup&#233;rieur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;mal&#233;fice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;Mal&#233;fice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRITERRANT&quot; title=&quot;Le chaman&quot;&gt;Esprit errant sup&#233;rieur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;mal&#233;fice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICEERRANT&quot; title=&quot;Le chaman&quot;&gt;Mal&#233;fice errant&lt;/a&gt; (2 mal&#233;fices)&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRIT&quot; title=&quot;Le chaman&quot;&gt;Esprit supr&#234;me&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;Mal&#233;fice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt; &amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+13/+8/+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;Mal&#233;fice&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+15/+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRITERRANT&quot; title=&quot;Le chaman&quot;&gt;Esprit errant supr&#234;me&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;Mal&#233;fice&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MANIFESTATION&quot; title=&quot;Le chaman&quot;&gt;manifestation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;b&gt;R&#244;le.&lt;/b&gt; Les chamans sont de puissants lanceurs de sorts, capables d’utiliser la magie divine et la puissance de leurs esprits pour aider leurs alli&#233;s et d&#233;truire leurs ennemis. Ils ne sont pas d’aussi bons gu&#233;risseurs que les pr&#234;tres mais ils peuvent remplir ce r&#244;le si besoin.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Classes m&#232;res.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Oracle&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; Tous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233; de vie.&lt;/b&gt; d8.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Argent de d&#233;part.&lt;/b&gt; 3d6 x 10 po (moyenne 105 po).&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Comp&#233;tences de classe&lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_10&quot; href=&quot;#Comp&#233;tences_de_classe_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les comp&#233;tences de classe du chaman : &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) (Int),  &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; (Dex) &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de comp&#233;tence par niveau.&lt;/b&gt; 4 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Descriptif de la classe&lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_11&quot; href=&quot;#Descriptif_de_la_classe_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les aptitudes de la classe de chaman.&lt;br /&gt;&lt;br /&gt;&lt;IMG SRC=&quot;/wiki/public/upload/Illustrations/PNJ/Shardra.jpg&quot; WIDTH=&quot;40%&quot; STYLE=&quot;float: right; background-color: white; padding: 0 0 5px 5px;&quot;/&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le chaman est form&#233; au maniement de toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armecourante.html&quot; title=&quot;arme courante&quot;&gt;armes courantes&lt;/a&gt; et au port des &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures#Legeres.html&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armures l&#233;g&#232;res&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures#Intermediaires.html&quot; title=&quot;armure interm&#233;diaire&quot;&gt;interm&#233;diaires&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SORTS&quot; href=&quot;#SORTS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le chaman lance des sorts tir&#233;s de la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Chaman.html&quot; title=&quot;Liste des sorts de chaman&quot;&gt;Liste des sorts de chaman&lt;/a&gt;. Le chaman choisit et pr&#233;pare ses sorts &#224; l’avance.&lt;br /&gt;&lt;br /&gt;Pour pr&#233;parer et lancer un sort, le chaman doit avoir une valeur de Sagesse au moins &#233;gale &#224; 10 + niveau du sort. Le DD du jet de sauvegarde contre un sort de chaman est de 10 + niveau du sort + modificateur de Sagesse du chaman.&lt;br /&gt;&lt;br /&gt;Comme bien d’autres lanceurs de sorts, le chaman ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour.
+Ce nombre figure dans la table ci-dessus. De plus, il re&#231;oit des sorts quotidiens suppl&#233;mentaires s’il poss&#232;de une valeur de Sagesse &#233;lev&#233;e.&lt;br /&gt;&lt;br /&gt;Pour pr&#233;parer ses sorts, le chaman entre en communion avec les esprits animaux. Chacun choisit &#224; quel moment de la journ&#233;e il doit passer une heure en pleine contemplation silencieuse, en communion avec son esprit animal, afin de r&#233;g&#233;n&#233;rer ses sorts quotidiens. Le chaman peut pr&#233;parer puis lancer n’importe quel sort issu de la liste du chaman, &#224; condition d’avoir acc&#232;s aux sorts de ce niveau, mais il doit choisir les sorts qu’il pr&#233;pare lors de sa communion journali&#232;re.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ORAISONS&quot; href=&quot;#ORAISONS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Oraisons&lt;a class=&quot;headeranchor&quot; id=&quot;Oraisons_2&quot; href=&quot;#Oraisons_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Chaque jour, le chaman peut pr&#233;parer un certain nombre d’oraisons (ou sorts de niveau 0) indiqu&#233; dans la table ci-dessus Le chaman les lance comme les autres mais ils ne sont pas d&#233;pens&#233;s apr&#232;s l’incantation et il peut donc les r&#233;utiliser.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ESPRIT&quot; href=&quot;#ESPRIT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ESPRITSUPERIEUR&quot; href=&quot;#ESPRITSUPERIEUR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ESPRITSUPREME&quot; href=&quot;#ESPRITSUPREME&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Esprit (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Esprit_Sur_3&quot; href=&quot;#Esprit_Sur_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le chaman tisse un lien mystique avec les esprits de son monde. Il forge une relation durable avec l’un d’eux qui lui accorde des pouvoirs et d&#233;finit une grande partie de ses aptitudes de classe.
+&lt;ul&gt;&lt;li&gt;Au niveau 1, le chaman gagne le pouvoir de l’esprit qu’il a choisi. Il ajoute les sorts de cet esprit &#224; la liste de sorts qu’il lance gr&#226;ce &#224; sa &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MAGIEDESESPRITS&quot; title=&quot;Le chaman&quot;&gt;magie des esprits&lt;/a&gt;. Il ajoute &#233;galement les mal&#233;fices propres &#224; cet esprit &#224; la liste de mal&#233;fices qu’il lance gr&#226;ce &#224; la capacit&#233; de classe &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;mal&#233;fice&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICEERRANT&quot; title=&quot;Le chaman&quot;&gt;mal&#233;fice errant&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Au niveau 8, le chaman gagne les pouvoirs li&#233;s &#224; la version sup&#233;rieure de l’esprit qu’il a choisi.&lt;/li&gt;&lt;li&gt;Au niveau 16, il gagne les pouvoirs de la version supr&#234;me de son esprit.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Si le chaman prend des niveaux dans une autre classe donnant acc&#232;s &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;re&lt;/a&gt; (comme l’&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;oracle&lt;/a&gt;), l’esprit et le myst&#232;re doivent correspondre, m&#234;me s’il faut pour cela en changer un. &lt;br /&gt;&lt;br /&gt;Si le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Maitredujeu.html&quot; title=&quot;MJ&quot;&gt;MJ&lt;/a&gt; accepte, le chaman peut modifier son ancien esprit ou myst&#232;re pour les mettre en conformit&#233;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(Chaman).html&quot; title=&quot;Les esprits du chaman&quot;&gt;liste des esprits&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ESPRITANIMAL&quot; href=&quot;#ESPRITANIMAL&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Esprit animal (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Esprit_animal_Ext_4&quot; href=&quot;#Esprit_animal_Ext_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; 
+Au niveau 1, le chaman forme un lien &#233;troit avec un esprit animal li&#233; &#224; l’esprit qu’il a choisi. Cet animal forme un lien avec le monde des esprits et le guide sur la voie de l’illumination. L’animal aide aussi le chaman en lui conf&#233;rant un pouvoir sp&#233;cial. Chaque jour, le chaman doit entrer en communion avec son esprit animal pour pr&#233;parer ses sorts. L’esprit animal ne stocke pas les sorts comme le &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html#FAMILIERDELASORCIERE&quot; title=&quot;La sorci&#232;re&quot;&gt;familier de la sorci&#232;re&lt;/a&gt; mais il sert de conduit &#224; la puissance divine. Si l’esprit animal du chaman se fait tuer, le chaman ne peut plus pr&#233;parer de sorts ni utiliser sa capacit&#233; de classe &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MAGIEDESESPRITS&quot; title=&quot;Le chaman&quot;&gt;magie des esprits&lt;/a&gt; tant qu’il n’a pas trouv&#233; un rempla&#231;ant.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRITANIMALDUCHAMAN&quot; title=&quot;Le chaman&quot;&gt;description des esprits animaux&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MAGIEDESESPRITS&quot; href=&quot;#MAGIEDESESPRITS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Magie des esprits&lt;a class=&quot;headeranchor&quot; id=&quot;Magie_des_esprits_5&quot; href=&quot;#Magie_des_esprits_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Chaque jour, le chaman peut lancer spontan&#233;ment un petit nombre de sorts en plus de ceux qu’il a pr&#233;par&#233;s en avance. Il a un emplacement de sort par jour pour chaque niveau de sorts de chaman &#224; sa disposition, sans compter les &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ORAISONS&quot; title=&quot;Le chaman&quot;&gt;oraisons&lt;/a&gt;. Il peut choisir ces sorts dans la liste offerte par ses esprits (voir les capacit&#233;s de classe &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRIT&quot; title=&quot;Le chaman&quot;&gt;esprit&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRITERRANT&quot; title=&quot;Le chaman&quot;&gt;esprit errant&lt;/a&gt;) au moment de l’incantation. Il peut am&#233;liorer ces sorts avec un &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONMETAMAGIE&quot; title=&quot;Les dons&quot;&gt;don de m&#233;tamagie&lt;/a&gt; de sa connaissance, en utilisant l’emplacement de sort de niveau sup&#233;rieur requis et en augmentant le temps d’incantation.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MALEFICE&quot; href=&quot;#MALEFICE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Mal&#233;fice&lt;a class=&quot;headeranchor&quot; id=&quot;Mal&#233;fice_6&quot; href=&quot;#Mal&#233;fice_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le chaman conna&#238;t un certain nombre de mal&#233;fices qui renforcent sa puissance ou affaiblissent ses ennemis. Il apprend un mal&#233;fice au niveau 2 et de nouveaux mal&#233;fices aux niveaux 4, 8, 10, 12, 16, 18 et 20. Il peut choisir ses mal&#233;fices parmi les mal&#233;fices du chaman ou dans la liste de mal&#233;fices de l’&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRIT&quot; title=&quot;Le chaman&quot;&gt;esprit&lt;/a&gt; qu’il a choisi. Sauf indication contraire, le chaman ne peut choisir un m&#234;me mal&#233;fice plus d’une fois.&lt;br /&gt;&lt;br /&gt;L’utilisation du mal&#233;fice est une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; qui ne provoque pas d’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;Attaque d&amp;#39;opportunit&#233; (redirection)&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;, sauf indication contraire. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; pour r&#233;sister au mal&#233;fice est de 10 + 1/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; de chaman + son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices-(Chaman).html&quot; title=&quot;Les mal&#233;fices du chaman&quot;&gt;liste des mal&#233;fices&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ESPRITERRANT&quot; href=&quot;#ESPRITERRANT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Esprit errant (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Esprit_errant_Sur_7&quot; href=&quot;#Esprit_errant_Sur_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 4, le chaman peut former un lien temporaire avec un esprit autre que celui qu’il a choisi avec sa capacit&#233; de classe &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRIT&quot; title=&quot;Le chaman&quot;&gt;esprit&lt;/a&gt;. Il doit choisir cet esprit errant chaque jour quand il pr&#233;pare ses sorts. Tant que cette capacit&#233; est active, le chaman b&#233;n&#233;ficie du pouvoir d’esprit offert par l’esprit errant. Il ajoute &#233;galement les sorts de cet esprit &#224; la liste de ceux qu’il peut lancer gr&#226;ce &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MAGIEDESESPRITS&quot; title=&quot;Le chaman&quot;&gt;magie des esprits&lt;/a&gt;. Il n’ajoute pas les mal&#233;fices de l’esprit errant &#224; la liste des mal&#233;fices qu’il peut choisir gr&#226;ce &#224; sa capacit&#233; de classe &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;mal&#233;fice&lt;/a&gt;. Au niveau 12, le chaman gagne les pouvoirs indiqu&#233;s dans la version sup&#233;rieure de l’esprit errant et au niveau 20 il acquiert les pouvoirs de la version supr&#234;me de l’esprit errant.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MALEFICEERRANT&quot; href=&quot;#MALEFICEERRANT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Mal&#233;fice errant&lt;a class=&quot;headeranchor&quot; id=&quot;Mal&#233;fice_errant_8&quot; href=&quot;#Mal&#233;fice_errant_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; 
+Au niveau 6, le chaman peut utiliser temporairement un mal&#233;fice offert par n’importe lequel de ses esprits. Il doit faire son choix chaque jour, quand il pr&#233;pare ses sorts. Dans le cadre de cette capacit&#233;, il peut choisir n’importe quel mal&#233;fice de son &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRIT&quot; title=&quot;Le chaman&quot;&gt;esprit&lt;/a&gt; ou de son &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRITERRANT&quot; title=&quot;Le chaman&quot;&gt;esprit errant&lt;/a&gt;. S’il choisit un mal&#233;fice de l’esprit errant, il en perd imm&#233;diatement l’usage s’il se lie &#224; un autre esprit mais il peut alors en choisir un autre, soit dans la liste de son esprit, soit dans celle de son nouvel esprit errant. Au niveau 14, le chaman peut choisir deux mal&#233;fices errants par jour au lieu d’un seul. En dehors de cela, ce pouvoir fonctionne comme le pouvoir de classe de mal&#233;fice.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MANIFESTATION&quot; href=&quot;#MANIFESTATION&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Manifestation (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Manifestation_Sur_9&quot; href=&quot;#Manifestation_Sur_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; 
+Au niveau 20, le chaman se transforme pour incarner le parangon de son &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRIT&quot; title=&quot;Le chaman&quot;&gt;esprit&lt;/a&gt;. La nature de cette manifestation d&#233;pend de l’esprit, comme d&#233;crit dans sa section.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ESPRITANIMALDUCHAMAN&quot; href=&quot;#ESPRITANIMALDUCHAMAN&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;L&#39;esprit animal du chaman&lt;a class=&quot;headeranchor&quot; id=&quot;Lesprit_animal_du_chaman_12&quot; href=&quot;#Lesprit_animal_du_chaman_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;En communiant avec les incroyables pouvoirs de son esprit, le chaman tisse un lien pr&#233;cieux avec un serviteur de cet esprit, un &#234;tre appel&#233; &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRITANIMAL&quot; title=&quot;Le chaman&quot;&gt;esprit animal&lt;/a&gt;. Le chaman le choisit pour en faire un interm&#233;diaire et acc&#233;der plus facilement &#224; la magie que son esprit lui offre quotidiennement. L’esprit animal conf&#232;re aussi des pouvoirs sp&#233;ciaux au chaman. Cette capacit&#233; suit les m&#234;mes r&#232;gles que la capacit&#233; de classe du magicien &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html#PACTEMAGIQUE&quot; title=&quot;Le magicien&quot;&gt;pacte magique&lt;/a&gt; et fonctionne comme un &lt;a class=&quot;pagelink&quot; href=&quot;Familiers.html&quot; title=&quot;Les familiers&quot;&gt;familier&lt;/a&gt;, &#224; l’exception de ce qui suit.&lt;br /&gt;&lt;br /&gt;Le chaman utilise son niveau de classe comme niveau de &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; effectif quand il d&#233;termine les pouvoirs de son esprit animal. Il choisit son esprit animal dans la liste des &lt;a class=&quot;pagelink&quot; href=&quot;Familiers.html&quot; title=&quot;Les familiers&quot;&gt;familiers&lt;/a&gt; du magicien mais l’esprit animal b&#233;n&#233;ficie aussi des pouvoirs issus de l’&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRIT&quot; title=&quot;Le chaman&quot;&gt;esprit&lt;/a&gt; choisi. Une fois que le chaman a fait son choix, il ne peut plus le modifier. L’esprit animal du chaman utilise le profil d’un animal donn&#233; mais il est consid&#233;r&#233; comme un &lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;ext&#233;rieur&lt;/a&gt; de sous-type &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt; vis-&#224;-vis des sorts et des pouvoirs qui l’affectent.&lt;br /&gt;&lt;br /&gt;Si le chaman poss&#232;de des niveaux dans une autre classe qui donne acc&#232;s &#224; un familier, ces niveaux se cumulent avec ses niveaux de chaman quand il s’agit de d&#233;terminer les pouvoirs d’esprit animal bas&#233;s sur le niveau de chaman. Si le chaman a des niveaux dans une autre classe donnant acc&#232;s &#224; un familier, celui-ci utilise toujours les r&#232;gles de l’esprit animal, pas celles des familiers des autres classes comme la &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt;, le &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt; ou l’&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Lignage-Profane.html&quot; title=&quot;Lignage Profane&quot;&gt;lignage profane&lt;/a&gt;. Si le chaman a des niveaux de sorci&#232;re, son esprit animal lui sert aussi d’interm&#233;diaire pour la puissance de son &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html#SORTSDEPROTECTEUR&quot; title=&quot;La sorci&#232;re&quot;&gt;protecteur&lt;/a&gt; et lui permet de stocker ses sorts. L’esprit animal du chaman est consid&#233;r&#233; comme un familier vis-&#224;-vis des sorts, des effets et des pouvoirs qui affectent ce type de cr&#233;atures.&lt;br /&gt;&lt;br /&gt;Si un esprit animal dispara&#238;t ou meurt, le chaman peut le remplacer apr&#232;s une p&#233;riode de 24 heures, en r&#233;alisant un rituel sp&#233;cial de huit heures qui consomme 500 po de mat&#233;riaux par niveau de chaman. Le nouvel esprit animal est obligatoirement du m&#234;me type que le pr&#233;c&#233;dent.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Esprit animal (Ext).&lt;/b&gt; Au niveau 1, l’esprit animal re&#231;oit des pouvoirs sp&#233;ciaux bas&#233;s sur le type d’esprit qu’a choisi le chaman via sa capacit&#233; de classe &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#ESPRIT&quot; title=&quot;Le chaman&quot;&gt;esprit&lt;/a&gt;. Ces pouvoirs influent sur l’apparence de l’esprit animal et lui donnent des capacit&#233;s sp&#233;ciales qui l’aident &#224; servir le chaman et l’esprit qu’il repr&#233;sente. Ces pouvoirs figurent dans la section esprit animal de chaque esprit.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conduit (Sur).&lt;/b&gt; Si le chaman est de niveau 3 ou plus, son esprit animal peut d&#233;clencher des sorts ou des mal&#233;fices de contact &#224; sa place. Si le chaman et l’esprit animal sont en contact au moment o&#249; le chaman lance le sort de contact, il peut d&#233;signer son animal comme le &#171; d&#233;clencheur &#187;. L’esprit animal d&#233;clenche alors le sort de contact comme le chaman l’aurait fait. Si le chaman lance un autre sort avant le d&#233;clenchement du sort de contact, ce dernier se dissipe. Si le chaman active un &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html#MALEFICE&quot; title=&quot;Le chaman&quot;&gt;mal&#233;fice&lt;/a&gt;, son esprit animal peut le d&#233;clencher sans que les deux soient au contact lors de leur utilisation.
+]]></body>
+  <raw><![CDATA[{s:Menuclasseshybrides}
+<div class="fright">'''''Voir aussi les [[Esprits (chaman)|esprits du chaman]].'''''  
+'''''Voir aussi les [[Maléfices (chaman)|maléfices du chaman]].'''''  
+'''''Voir aussi la [[Liste des sorts de chaman|liste des sorts de chaman]].'''''  
+{s:PM0|chaman}'''Voir les archétypes du chaman'''&emsp;
+  <li ID="chaman" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypechaman}</li>
+</div>{s:mca}''Certains héros parlent aux dieux ou batifolent avec des muses issues d’autres mondes mais le chaman communique avec les esprits du monde et les énergies qui habitent tout être vivant. Ces aventuriers divins utilisent leur pouvoir pour façonner le monde et développer l’influence de leur protecteur spirituel. Ils entretiennent des liens étroits avec les esprits de la nature. Ils nouent des relations privilégiées avec des esprits particuliers et, quand leur puissance se développe, ils apprennent à en appeler d’autres en cas de besoin.''
+
+{| CLASS="tablo centre"
+|+ {s:Reference|TABLECHAMAN}Le chaman
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" CLASS="gauche" | Spécial
+| COLSPAN="10" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 0
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 7e
+| 8e
+| 9e
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +0
+| +2
+| CLASS="gauche" | [[Chaman#ESPRIT|Esprit]], [[Chaman#ESPRITANIMAL|esprit animal]], [[Chaman#MAGIEDESESPRITS|magie des esprits]], [[Chaman#ORAISONS|oraisons]]
+| 3
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +0
+| +3
+| CLASS="gauche" | [[Chaman#MALEFICE|Maléfice]]
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +1
+| +1
+| +3
+| CLASS="gauche" | &nbsp;
+| 4
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" | [[Chaman#ESPRITERRANT|Esprit errant]], [[Chaman#MALEFICE|maléfice]]
+| 4
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" | &nbsp;
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +4
+| +2
+| +2
+| +5
+| CLASS="gauche" | [[Chaman#MALEFICEERRANT|Maléfice errant]]
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +2
+| +2
+| +5
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +6/+1
+| +2
+| +2
+| +6
+| CLASS="gauche" | [[Chaman#ESPRITSUPERIEUR|Esprit supérieur]], [[Chaman#MALEFICE|maléfice]]
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+|-
+| 9
+| +6/+1
+| +3
+| +3
+| +6
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +7/+2
+| +3
+| +3
+| +7
+| CLASS="gauche" | [[Chaman#MALEFICE|Maléfice]]
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+| -
+| -
+|-
+| 11
+| +8/+3
+| +3
+| +3
+| +7
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+|- CLASS="alt"
+| 12
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" | [[Chaman#ESPRITERRANT|Esprit errant supérieur]], [[Chaman#MALEFICE|maléfice]]
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+| -
+|-
+| 13
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+|- CLASS="alt"
+| 14
+| +10/+5
+| +4
+| +4
+| +9
+| CLASS="gauche" | [[Chaman#MALEFICEERRANT|Maléfice errant]] (2 maléfices)
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+|-
+| 15
+| +11/+6/+1
+| +5
+| +5
+| +9
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+|- CLASS="alt"
+| 16
+| +12/+7/+2
+| +5
+| +5
+| +10
+| CLASS="gauche" | [[Chaman#ESPRIT|Esprit suprême]], [[Chaman#MALEFICE|Maléfice]]
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+|-
+| 17
+| +12/+7/+2
+| +5
+| +5
+| +10
+| CLASS="gauche" |  &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+|- CLASS="alt"
+| 18
+| +13/+8/+3
+| +6
+| +6
+| +11
+| CLASS="gauche" | [[Chaman#MALEFICE|Maléfice]]
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+|-
+| 19
+| +14/+9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+|- CLASS="alt"
+| 20
+| +15/+10/+5
+| +6
+| +6
+| +12
+| CLASS="gauche" | [[Chaman#ESPRITERRANT|Esprit errant suprême]], [[Chaman#MALEFICE|Maléfice]], [[Chaman#MANIFESTATION|manifestation]]
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+|}
+
+'''Rôle.''' Les chamans sont de puissants lanceurs de sorts, capables d’utiliser la magie divine et la puissance de leurs esprits pour aider leurs alliés et détruire leurs ennemis. Ils ne sont pas d’aussi bons guérisseurs que les prêtres mais ils peuvent remplir ce rôle si besoin.
+
+'''Classes mères.''' [[Oracle]] et [[sorcière]].
+
+'''Alignement.''' Tous.
+
+'''Dé de vie.''' d8.
+
+'''Argent de départ.''' 3d6 x 10 po (moyenne 105 po).
+
+===Compétences de classe===
+Voici les compétences de classe du chaman : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (nature) (Int),  [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Survie]] (Sag), [[Vol]] (Dex) 
+
+'''Points de compétence par niveau.''' 4 + modificateur d’[[Intelligence]].
+
+===Descriptif de la classe===
+Voici les aptitudes de la classe de chaman.
+
+{s:ImageDroite|Illustrations/PNJ/Shardra.jpg|40%}
+====Armes et armures====
+Le chaman est formé au maniement de toutes les [[arme courante|armes courantes]] et au port des [[armure légère|armures légères]] et [[armure intermédiaire|intermédiaires]].
+
+{s:Reference|SORTS}
+====Sorts====
+Le chaman lance des sorts tirés de la [[Liste des sorts de chaman]]. Le chaman choisit et prépare ses sorts à l’avance.
+
+Pour préparer et lancer un sort, le chaman doit avoir une valeur de Sagesse au moins égale à 10 + niveau du sort. Le DD du jet de sauvegarde contre un sort de chaman est de 10 + niveau du sort + modificateur de Sagesse du chaman.
+
+Comme bien d’autres lanceurs de sorts, le chaman ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour.
+Ce nombre figure dans la table ci-dessus. De plus, il reçoit des sorts quotidiens supplémentaires s’il possède une valeur de Sagesse élevée.
+
+Pour préparer ses sorts, le chaman entre en communion avec les esprits animaux. Chacun choisit à quel moment de la journée il doit passer une heure en pleine contemplation silencieuse, en communion avec son esprit animal, afin de régénérer ses sorts quotidiens. Le chaman peut préparer puis lancer n’importe quel sort issu de la liste du chaman, à condition d’avoir accès aux sorts de ce niveau, mais il doit choisir les sorts qu’il prépare lors de sa communion journalière.
+
+{s:Reference|ORAISONS}
+====Oraisons====
+Chaque jour, le chaman peut préparer un certain nombre d’oraisons (ou sorts de niveau 0) indiqué dans la table ci-dessus Le chaman les lance comme les autres mais ils ne sont pas dépensés après l’incantation et il peut donc les réutiliser.
+
+{s:Reference|ESPRIT}{s:Reference|ESPRITSUPERIEUR}{s:Reference|ESPRITSUPREME}
+====Esprit (Sur)====
+Le chaman tisse un lien mystique avec les esprits de son monde. Il forge une relation durable avec l’un d’eux qui lui accorde des pouvoirs et définit une grande partie de ses aptitudes de classe.
+* Au niveau 1, le chaman gagne le pouvoir de l’esprit qu’il a choisi. Il ajoute les sorts de cet esprit à la liste de sorts qu’il lance grâce à sa [[Chaman#MAGIEDESESPRITS|magie des esprits]]. Il ajoute également les maléfices propres à cet esprit à la liste de maléfices qu’il lance grâce à la capacité de classe [[Chaman#MALEFICE|maléfice]] et [[Chaman#MALEFICEERRANT|maléfice errant]]. 
+* Au niveau 8, le chaman gagne les pouvoirs liés à la version supérieure de l’esprit qu’il a choisi. 
+* Au niveau 16, il gagne les pouvoirs de la version suprême de son esprit.
+
+Si le chaman prend des niveaux dans une autre classe donnant accès à un [[Mystères|mystère]] (comme l’[[oracle]]), l’esprit et le mystère doivent correspondre, même s’il faut pour cela en changer un. 
+
+Si le [[MJ]] accepte, le chaman peut modifier son ancien esprit ou mystère pour les mettre en conformité.
+
+''Voir la [[Esprits (chaman)|liste des esprits]].''
+
+{s:Reference|ESPRITANIMAL}
+====Esprit animal (Ext)==== 
+Au niveau 1, le chaman forme un lien étroit avec un esprit animal lié à l’esprit qu’il a choisi. Cet animal forme un lien avec le monde des esprits et le guide sur la voie de l’illumination. L’animal aide aussi le chaman en lui conférant un pouvoir spécial. Chaque jour, le chaman doit entrer en communion avec son esprit animal pour préparer ses sorts. L’esprit animal ne stocke pas les sorts comme le [[Sorcière#FAMILIERDELASORCIERE|familier de la sorcière]] mais il sert de conduit à la puissance divine. Si l’esprit animal du chaman se fait tuer, le chaman ne peut plus préparer de sorts ni utiliser sa capacité de classe [[Chaman#MAGIEDESESPRITS|magie des esprits]] tant qu’il n’a pas trouvé un remplaçant.
+
+''Voir la [[Chaman#ESPRITANIMALDUCHAMAN|description des esprits animaux]].''
+
+{s:Reference|MAGIEDESESPRITS}
+====Magie des esprits====
+Chaque jour, le chaman peut lancer spontanément un petit nombre de sorts en plus de ceux qu’il a préparés en avance. Il a un emplacement de sort par jour pour chaque niveau de sorts de chaman à sa disposition, sans compter les [[Chaman#ORAISONS|oraisons]]. Il peut choisir ces sorts dans la liste offerte par ses esprits (voir les capacités de classe [[Chaman#ESPRIT|esprit]] et [[Chaman#ESPRITERRANT|esprit errant]]) au moment de l’incantation. Il peut améliorer ces sorts avec un [[Dons#DONMETAMAGIE|don de métamagie]] de sa connaissance, en utilisant l’emplacement de sort de niveau supérieur requis et en augmentant le temps d’incantation.
+
+{s:Reference|MALEFICE}
+====Maléfice====
+Le chaman connaît un certain nombre de maléfices qui renforcent sa puissance ou affaiblissent ses ennemis. Il apprend un maléfice au niveau 2 et de nouveaux maléfices aux niveaux 4, 8, 10, 12, 16, 18 et 20. Il peut choisir ses maléfices parmi les maléfices du chaman ou dans la liste de maléfices de l’[[Chaman#ESPRIT|esprit]] qu’il a choisi. Sauf indication contraire, le chaman ne peut choisir un même maléfice plus d’une fois.
+
+L’utilisation du maléfice est une [[action simple]] qui ne provoque pas d’[[AO|attaque d’opportunité]], sauf indication contraire. Le [[DD]] du [[jet de sauvegarde]] pour résister au maléfice est de 10 + 1/2 [[niveau]] de chaman + son modificateur de [[Sagesse]].
+
+''Voir la [[Maléfices (chaman)|liste des maléfices]].''
+
+{s:Reference|ESPRITERRANT}
+====Esprit errant (Sur)====
+Au niveau 4, le chaman peut former un lien temporaire avec un esprit autre que celui qu’il a choisi avec sa capacité de classe [[Chaman#ESPRIT|esprit]]. Il doit choisir cet esprit errant chaque jour quand il prépare ses sorts. Tant que cette capacité est active, le chaman bénéficie du pouvoir d’esprit offert par l’esprit errant. Il ajoute également les sorts de cet esprit à la liste de ceux qu’il peut lancer grâce à la [[Chaman#MAGIEDESESPRITS|magie des esprits]]. Il n’ajoute pas les maléfices de l’esprit errant à la liste des maléfices qu’il peut choisir grâce à sa capacité de classe [[Chaman#MALEFICE|maléfice]]. Au niveau 12, le chaman gagne les pouvoirs indiqués dans la version supérieure de l’esprit errant et au niveau 20 il acquiert les pouvoirs de la version suprême de l’esprit errant.
+
+{s:Reference|MALEFICEERRANT}
+====Maléfice errant==== 
+Au niveau 6, le chaman peut utiliser temporairement un maléfice offert par n’importe lequel de ses esprits. Il doit faire son choix chaque jour, quand il prépare ses sorts. Dans le cadre de cette capacité, il peut choisir n’importe quel maléfice de son [[Chaman#ESPRIT|esprit]] ou de son [[Chaman#ESPRITERRANT|esprit errant]]. S’il choisit un maléfice de l’esprit errant, il en perd immédiatement l’usage s’il se lie à un autre esprit mais il peut alors en choisir un autre, soit dans la liste de son esprit, soit dans celle de son nouvel esprit errant. Au niveau 14, le chaman peut choisir deux maléfices errants par jour au lieu d’un seul. En dehors de cela, ce pouvoir fonctionne comme le pouvoir de classe de maléfice.
+
+{s:Reference|MANIFESTATION}
+====Manifestation (Sur)==== 
+Au niveau 20, le chaman se transforme pour incarner le parangon de son [[Chaman#ESPRIT|esprit]]. La nature de cette manifestation dépend de l’esprit, comme décrit dans sa section.
+
+{s:Reference|ESPRITANIMALDUCHAMAN}
+===L'esprit animal du chaman===
+En communiant avec les incroyables pouvoirs de son esprit, le chaman tisse un lien précieux avec un serviteur de cet esprit, un être appelé [[Chaman#ESPRITANIMAL|esprit animal]]. Le chaman le choisit pour en faire un intermédiaire et accéder plus facilement à la magie que son esprit lui offre quotidiennement. L’esprit animal confère aussi des pouvoirs spéciaux au chaman. Cette capacité suit les mêmes règles que la capacité de classe du magicien [[Magicien#PACTEMAGIQUE|pacte magique]] et fonctionne comme un [[Familiers|familier]], à l’exception de ce qui suit.
+
+Le chaman utilise son niveau de classe comme niveau de [[magicien]] effectif quand il détermine les pouvoirs de son esprit animal. Il choisit son esprit animal dans la liste des [[familiers]] du magicien mais l’esprit animal bénéficie aussi des pouvoirs issus de l’[[Chaman#ESPRIT|esprit]] choisi. Une fois que le chaman a fait son choix, il ne peut plus le modifier. L’esprit animal du chaman utilise le profil d’un animal donné mais il est considéré comme un [[type Extérieur|extérieur]] de sous-type [[sous-type natif|natif]] vis-à-vis des sorts et des pouvoirs qui l’affectent.
+
+Si le chaman possède des niveaux dans une autre classe qui donne accès à un familier, ces niveaux se cumulent avec ses niveaux de chaman quand il s’agit de déterminer les pouvoirs d’esprit animal basés sur le niveau de chaman. Si le chaman a des niveaux dans une autre classe donnant accès à un familier, celui-ci utilise toujours les règles de l’esprit animal, pas celles des familiers des autres classes comme la [[sorcière]], le [[magicien]] ou l’[[ensorceleur]] de [[Lignage Profane|lignage profane]]. Si le chaman a des niveaux de sorcière, son esprit animal lui sert aussi d’intermédiaire pour la puissance de son [[Sorcière#SORTSDEPROTECTEUR|protecteur]] et lui permet de stocker ses sorts. L’esprit animal du chaman est considéré comme un familier vis-à-vis des sorts, des effets et des pouvoirs qui affectent ce type de créatures.
+
+Si un esprit animal disparaît ou meurt, le chaman peut le remplacer après une période de 24 heures, en réalisant un rituel spécial de huit heures qui consomme 500 po de matériaux par niveau de chaman. Le nouvel esprit animal est obligatoirement du même type que le précédent.
+
+'''Esprit animal (Ext).''' Au niveau 1, l’esprit animal reçoit des pouvoirs spéciaux basés sur le type d’esprit qu’a choisi le chaman via sa capacité de classe [[Chaman#ESPRIT|esprit]]. Ces pouvoirs influent sur l’apparence de l’esprit animal et lui donnent des capacités spéciales qui l’aident à servir le chaman et l’esprit qu’il représente. Ces pouvoirs figurent dans la section esprit animal de chaque esprit.
+
+'''Conduit (Sur).''' Si le chaman est de niveau 3 ou plus, son esprit animal peut déclencher des sorts ou des maléfices de contact à sa place. Si le chaman et l’esprit animal sont en contact au moment où le chaman lance le sort de contact, il peut désigner son animal comme le « déclencheur ». L’esprit animal déclenche alors le sort de contact comme le chaman l’aurait fait. Si le chaman lance un autre sort avant le déclenchement du sort de contact, ce dernier se dissipe. Si le chaman active un [[Chaman#MALEFICE|maléfice]], son esprit animal peut le déclencher sans que les deux soient au contact lors de leur utilisation.]]></raw>
+  <fullName>Pathfinder-RPG.Chaman</fullName>
+</wikiPage>

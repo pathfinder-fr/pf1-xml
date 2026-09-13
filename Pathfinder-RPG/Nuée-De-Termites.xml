@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Termite, Nuée de termites</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-20 17:00:11Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Nuée de termites</link><link>Pathfinder-RPG.Termite géant</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Perception des vibrations (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.Distraction (capacité)</link><link>Pathfinder-RPG.Attaques naturelles (capacité)</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Nuée de termites</link><link>Pathfinder-RPG.Termite géant</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e de termites&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vermine&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vermine.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.253&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille Min, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations (Ext)&quot;&gt;perception des vibrations&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 20, pris au d&#233;pourvu 18 (Dex +2, taille +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 75 (10d8+30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; traits des nu&#233;es ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; d&#233;g&#226;ts des armes, effets mentaux, effets visuels, maladie ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Aveugl&#233;.html&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugle&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, creusement 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e (3d6 plus 1d6 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 15 cm ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction (Ext)&quot;&gt;distraction&lt;/a&gt; (DD 17), double morsure, piq&#251;re persistante
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 1, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7 ; &lt;b&gt;BMO&lt;/b&gt; — ; &lt;b&gt;DMD&lt;/b&gt; —
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts, plaines et sous-sols chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple, nid (3-6) ou colonie (7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Double morsure (Ext).&lt;/b&gt; Les nu&#233;es de termites peuvent se d&#233;placer en creusant dans la terre et le bois mais pas dans la roche ni le m&#233;tal. Leurs &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Naturelles-(Capacit&#233;).html&quot; title=&quot;Attaques naturelles&quot;&gt;attaques naturelles&lt;/a&gt; et leur acide ignorent une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration#Solidite.html&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 5 ou moins.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Piq&#251;re persistante (Ext).&lt;/b&gt; Les cr&#233;atures bless&#233;es par l’acide d’une nu&#233;e de termites souffrent d’une douleur lancinante qui les rend &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Fi&#233;vreux.html&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuses&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 17 pour annuler). Une cr&#233;ature peut effectuer un nouveau jet de sauvegarde chaque round &#224; la fin de son tour pour mettre un terme &#224; cet effet. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de termite&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-De-Termites.html&quot; title=&quot;Termite, Nu&#233;e de termites&quot;&gt;Nu&#233;e de termites&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Termite-G&#233;ant.html&quot; title=&quot;Termite, Termite g&#233;ant&quot;&gt;Termite g&#233;ant&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Le sol grouille de termites qui mordent et piquent tout ce qui se trouve sur leur passage.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les nu&#233;es de termites sont un v&#233;ritable fl&#233;au pour les architectes et les ing&#233;nieurs des climats chauds. Ces insectes vivent dans des termiti&#232;res et des nids d’o&#249; ils sortent pour d&#233;vorer les plantes, les b&#251;ches pourries mais aussi les structures de bois, toujours depuis l’int&#233;rieur. Ils peuvent rapidement provoquer l’effondrement des charpentes les plus solides. Il est presque impossible d’&#233;radiquer ces insectes qui r&#233;agissent violemment quand quelqu’un menace leur termiti&#232;re.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de termites|FP 6}
+{s:pucem|Vermine|Forêt-Jungle|Tropical}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.253]]''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Odorat (capacité)|odorat]], [[Perception des vibrations (capacité)|perception des vibrations]] à 18 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 20, pris au dépourvu 18 (Dex +2, taille +8)}
+{s:BDTexte|'''pv''' 75 (10d8+30)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +10, '''Vol''' +4}
+{s:BDTexte|'''Capacités défensives''' traits des nuées ; '''Immunités''' dégâts des armes, effets mentaux, effets visuels, maladie ; '''Résistances''' acide 5}
+{s:BDTexte|'''Faiblesses''' [[aveuglé|aveugle]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, creusement 6 m}
+{s:BDTexte|'''Corps à corps''' nuée (3d6 plus 1d6 acide)}
+{s:BDTexte|'''Espace occupé''' 15 cm ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' [[Distraction (capacité)|distraction]] (DD 17), double morsure, piqûre persistante}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 1, '''Dex''' 15, '''Con''' 16, '''Int''' —, '''Sag''' 12, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +7 ; '''BMO''' — ; '''DMD''' —}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts, plaines et sous-sols chauds}
+{s:BDTexte|'''Organisation''' solitaire, couple, nid (3-6) ou colonie (7-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Double morsure (Ext).''' Les nuées de termites peuvent se déplacer en creusant dans la terre et le bois mais pas dans la roche ni le métal. Leurs [[Attaques naturelles (capacité)|attaques naturelles]] et leur acide ignorent une [[solidité]] de 5 ou moins.}
+{s:BDTexte|'''Piqûre persistante (Ext).''' Les créatures blessées par l’acide d’une nuée de termites souffrent d’une douleur lancinante qui les rend [[fiévreux|fiévreuses]] ([[Vigueur]] DD 17 pour annuler). Une créature peut effectuer un nouveau jet de sauvegarde chaque round à la fin de son tour pour mettre un terme à cet effet. Le DD du jet de sauvegarde est basé sur la Constitution.}
+
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de termite
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Nuée de termites]] || 6
+|-
+| [[Termite géant]] || 3
+|}
+</div>''Le sol grouille de termites qui mordent et piquent tout ce qui se trouve sur leur passage.''
+
+Les nuées de termites sont un véritable fléau pour les architectes et les ingénieurs des climats chauds. Ces insectes vivent dans des termitières et des nids d’où ils sortent pour dévorer les plantes, les bûches pourries mais aussi les structures de bois, toujours depuis l’intérieur. Ils peuvent rapidement provoquer l’effondrement des charpentes les plus solides. Il est presque impossible d’éradiquer ces insectes qui réagissent violemment quand quelqu’un menace leur termitière.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nuée de termites</fullName>
+</wikiPage>

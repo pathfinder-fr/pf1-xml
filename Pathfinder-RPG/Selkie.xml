@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Selkie</title>
+  <categories><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2021-07-17 19:41:05Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Temp-bestiaire4</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Fourberie</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Besoin deau (capacité)</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire 4&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Selkie&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de monstrueux&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de monstrueux.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4&lt;/i&gt; p.256
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 13, pris au d&#233;pourvu 15 (Dex +3, naturelle +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 45 (6d10+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sistances&lt;/b&gt; froid 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +10 (1d8+6) et 2 griffes, +10 (1d6+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; coups puissants (morsure), secousses
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 23 (croc-en–jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Fourberie.html&quot; title=&quot;Fourberie&quot;&gt;Fourberie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +21, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique, commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; changement de forme (humano&#239;de de taille M ou P ; &lt;i&gt;modification d’apparence&lt;/i&gt;), &#233;cho raisonnable, &lt;a class=&quot;pagelink&quot; href=&quot;Besoin-Deau-(Capacit&#233;).html&quot; title=&quot;Besoin d&amp;#39;eau (Ext)&quot;&gt;besoin d&#39;eau&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans froids
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou meute (3-14)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;POUVOIRS SP&#201;CIAUX&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;cho raisonnable (Sur).&lt;/b&gt; Une selkie peut instinctivement modifier
+l’intonation de sa voix pour rendre le discours qu’elle prononce plus
+agr&#233;able &#224; l’oreille de ceux qui la comprennent. Lorsqu’elle utilise sa
+comp&#233;tence de &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, la selkie d&#233;cale le niveau de cr&#233;dibilit&#233; de ses
+mensonges d’un cran &#224; son avantage dans le cadre des bonus ou des
+malus appliqu&#233;s &#224; ses tests
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Secousses (Ext).&lt;/b&gt; Lors d’un coup critique r&#233;ussi avec son attaque de morsure,
+la selkie secoue violemment et automatiquement sa cible si elle est de
+taille G ou inf&#233;rieure. Cette derni&#232;re doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15
+pour ne pas &#234;tre h&#233;b&#233;t&#233;e pendant 1 round. M&#234;me si ce jet de sauvegarde
+est r&#233;ussi, la cible subit tout de m&#234;me un malus de -2 aux jets d’attaque et
+aux tests de comp&#233;tences pendant les 2 prochains rounds. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du jet de
+sauvegarde est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Le corps &#233;lanc&#233; de cette cr&#233;ature aquatique est couvert d’une fourrure
+grise aux poils courts. L’extr&#233;mit&#233; de ses mains palm&#233;es se termine par
+des griffes ac&#233;r&#233;es et sa bouche est garnie de dents pointues.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+Les selkies sont des cr&#233;atures brutales et intelligentes qui ressemblent
+aux phoques. Ce sont des pr&#233;dateurs comp&#233;tents, mais elles
+sont davantage connues pour leur pouvoir de m&#233;tamorphose qui
+leur permet de sortir de l’eau et de se m&#234;ler, sous une autre apparence,
+aux habitants des littoraux, voire de vivre parmi les membres
+des autres races avant d’attirer leurs proies sous les vagues pour les
+noyer. Sous sa forme naturelle, la selkie poss&#232;de des mains griffues
+et palm&#233;es, et un tronc tout en muscles se terminant par une large
+nageoire. La t&#234;te d’une selkie associe les traits d’un humain et d’un
+phoque, avec des grands yeux et une gueule pleine de dents incurv&#233;es.
+Les selkies peuvent atteindre une longueur de presque deux
+m&#232;tres pour un poids de 150 kilogrammes. Les selkies peuvent vivre
+en moyenne jusqu’&#224; 75 ans.&lt;br /&gt;&lt;br /&gt;La plupart des selkies utilisent leur pouvoir de m&#233;tamorphose
+pour tromper leurs proies. Leur tactique pr&#233;f&#233;r&#233;e consiste &#224; adopter
+la forme d’une jeune femme ou d’un enfant et de simuler la noyade.
+Elles reprennent leur forme naturelle d&#232;s que quelqu’un approche.
+Les selkies vivent seules la plupart du temps. M&#226;les et femelles s’accouplent
+bri&#232;vement pendant la p&#233;riode de reproduction au printemps,
+puis chaque femelle se met &#224; la recherche d’une grotte ou
+d’une plage isol&#233;e pour donner naissance &#224; un unique petit, qu’elle
+abandonne 2 &#224; 3 ans plus tard. Les jeunes selkies se rassemblent
+alors en meute jusqu’&#224; ce qu’elles puissent survivre seules. Certaines
+selkies d&#233;cident de vivre parmi les humano&#239;des pour ne pas rester
+seules et vont m&#234;me jusqu’&#224; se marier avec ceux qui vivent sur la
+terre ferme. La prog&#233;niture de ces couples ressemble &#224; leur parent
+non-selkie tout en &#233;tant irr&#233;m&#233;diablement attir&#233;e par la mer.&lt;br /&gt;&lt;br /&gt;
+&lt;i&gt;&lt;u&gt;Note :&lt;/u&gt; Suite &#224; une erreur dans certaines V.O. et V.F. la particularit&#233; &quot;retenir son souffle&quot; avait &#233;t&#233; mise &#224; la place de &quot;besoin d&#39;eau&quot;. Alors que la particularit&#233; &quot;retenir son souffle&quot; ne peut s&#39;appliquer que sur les cr&#233;atures non-aquatiques (les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatiques&lt;/a&gt; n&#39;en ont pas besoin puisqu&#39;elles respirent sous l&#39;eau). L&#39;&#233;quivalent inverse pour les cr&#233;atures aquatiques non-amphibies se nomme &quot;besoin d&#39;eau&quot;.&lt;/i&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire 4"><tr><td>
+<div class="BD">
+{s:BDTitre|Selkie|FP 5}
+{s:pucem|Humanoïde monstrueux|Aquatique|Froid}
+{s:BDTexte|''Source : Bestiaire 4'' p.256}
+{s:BDTexte|'''PX''' 1600}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]], [[sous-type métamorphe|métamorphe]]) de taille M, CN}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] à 18 m, [[odorat]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 13, pris au dépourvu 15 (Dex +3, naturelle +5)}
+{s:BDTexte|'''pv''' 45 (6d10+12)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +4, '''Vol''' +5}
+{s:BDTexte|'''Résistances''' froid 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c}), nage 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +10 (1d8+6) et 2 griffes, +10 (1d6+4)}
+{s:BDTexte|'''Attaques spéciales''' coups puissants (morsure), secousses}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 17, '''Con''' 14, '''Int''' 13, '''Sag''' 10, '''Cha''' 19}
+{s:BDTexte|'''BBA''' +6, '''BMO''' +10, '''DMD''' 23 (croc-en–jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaques réflexes]], [[Fourberie]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure)}
+{s:BDTexte|'''Compétences''' [[Bluff]] +12, [[Déguisement]] +10, [[Discrétion]] +10, [[Natation]] +21, [[Perception]] +9, [[Psychologie]] +4}
+{s:BDTexte|'''Langues''' aquatique, commun}
+{s:BDTexte|'''Particularités''' changement de forme (humanoïde de taille M ou P ; ''modification d’apparence''), écho raisonnable, [[Besoin deau (capacité)|besoin d'eau]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans froids}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou meute (3-14)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|POUVOIRS SPÉCIAUX}
+{s:BDTexte|'''Écho raisonnable (Sur).''' Une selkie peut instinctivement modifier
+l’intonation de sa voix pour rendre le discours qu’elle prononce plus
+agréable à l’oreille de ceux qui la comprennent. Lorsqu’elle utilise sa
+compétence de [[Bluff]], la selkie décale le niveau de crédibilité de ses
+mensonges d’un cran à son avantage dans le cadre des bonus ou des
+malus appliqués à ses tests}
+{s:BDTexte|'''Secousses (Ext).''' Lors d’un coup critique réussi avec son attaque de morsure,
+la selkie secoue violemment et automatiquement sa cible si elle est de
+taille G ou inférieure. Cette dernière doit réussir un jet de [[Vigueur]] [[DD]] 15
+pour ne pas être hébétée pendant 1 round. Même si ce jet de sauvegarde
+est réussi, la cible subit tout de même un malus de -2 aux jets d’attaque et
+aux tests de compétences pendant les 2 prochains rounds. Le [[DD]] du jet de
+sauvegarde est basé sur la [[Constitution]].}
+</div>
+</td><td><div>''Le corps élancé de cette créature aquatique est couvert d’une fourrure
+grise aux poils courts. L’extrémité de ses mains palmées se termine par
+des griffes acérées et sa bouche est garnie de dents pointues.''
+
+
+Les selkies sont des créatures brutales et intelligentes qui ressemblent
+aux phoques. Ce sont des prédateurs compétents, mais elles
+sont davantage connues pour leur pouvoir de métamorphose qui
+leur permet de sortir de l’eau et de se mêler, sous une autre apparence,
+aux habitants des littoraux, voire de vivre parmi les membres
+des autres races avant d’attirer leurs proies sous les vagues pour les
+noyer. Sous sa forme naturelle, la selkie possède des mains griffues
+et palmées, et un tronc tout en muscles se terminant par une large
+nageoire. La tête d’une selkie associe les traits d’un humain et d’un
+phoque, avec des grands yeux et une gueule pleine de dents incurvées.
+Les selkies peuvent atteindre une longueur de presque deux
+mètres pour un poids de 150 kilogrammes. Les selkies peuvent vivre
+en moyenne jusqu’à 75 ans.
+
+La plupart des selkies utilisent leur pouvoir de métamorphose
+pour tromper leurs proies. Leur tactique préférée consiste à adopter
+la forme d’une jeune femme ou d’un enfant et de simuler la noyade.
+Elles reprennent leur forme naturelle dès que quelqu’un approche.
+Les selkies vivent seules la plupart du temps. Mâles et femelles s’accouplent
+brièvement pendant la période de reproduction au printemps,
+puis chaque femelle se met à la recherche d’une grotte ou
+d’une plage isolée pour donner naissance à un unique petit, qu’elle
+abandonne 2 à 3 ans plus tard. Les jeunes selkies se rassemblent
+alors en meute jusqu’à ce qu’elles puissent survivre seules. Certaines
+selkies décident de vivre parmi les humanoïdes pour ne pas rester
+seules et vont même jusqu’à se marier avec ceux qui vivent sur la
+terre ferme. La progéniture de ces couples ressemble à leur parent
+non-selkie tout en étant irrémédiablement attirée par la mer.
+
+
+''__Note :__ Suite à une erreur dans certaines V.O. et V.F. la particularité "retenir son souffle" avait été mise à la place de "besoin d'eau". Alors que la particularité "retenir son souffle" ne peut s'appliquer que sur les créatures non-aquatiques (les créatures [[sous-type aquatique|aquatiques]] n'en ont pas besoin puisqu'elles respirent sous l'eau). L'équivalent inverse pour les créatures aquatiques non-amphibies se nomme "besoin d'eau".''</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Selkie</fullName>
+</wikiPage>

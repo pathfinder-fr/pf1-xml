@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Armure du labeur interminable</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag armure</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-24 22:20:48Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Armures magiques spécifiques</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Droskar (technique)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Armures magiques spécifiques</link><link>Pathfinder-RPG.cotte de mailles (armure)</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Arme magique</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Chance de lartisan</link><link>Pathfinder-RPG.Malchance de lartisan</link><link>Pathfinder-RPG.Droskar (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fDroskar.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Droskar (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fDroskar.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Droskar-(Technique).html&quot; title=&quot;Droskar&quot;&gt;Droskar&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Armure du labeur interminable&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 3 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques-Sp&#233;cifiques.html&quot; title=&quot;Armures magiques sp&#233;cifiques&quot;&gt;armure&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 3 920 po ; &lt;b&gt;Poids&lt;/b&gt; 20 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cotte-De-Mailles-(Armure).html&quot; title=&quot;Cotte de mailles&quot;&gt;cotte de mailles&lt;/a&gt; +1&lt;/i&gt; ressemble &#224; ce que ferait un apprenti nain sans talent : laide, asym&#233;trique et termin&#233;e &#224; la h&#226;te plut&#244;t qu&#39;avec soin. Le porteur b&#233;n&#233;ficie d&#39;un bonus ou d&#39;un malus de chance &#233;gal &#224; 1d6-3 aux tests d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; pour fabriquer des armures ou des armes. Ce bonus ou ce malus est d&#233;termin&#233; la premi&#232;re fois que le porteur effectue un test d&#39;Artisanat pour d&#233;terminer la progression d&#39;une journ&#233;e de travail. Si le porteur retire l&#39;armure, ce bonus ou ce malus persiste pendant 24 heures suppl&#233;mentaires. Une fois par jour, le porteur peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Magique.html&quot; title=&quot;Arme magique&quot;&gt;arme magique&lt;/a&gt;&lt;/i&gt;.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d&#39;armes et armures magiques&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Magique.html&quot; title=&quot;Arme magique&quot;&gt;arme magique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chance-De-Lartisan.html&quot; title=&quot;Chance de l&amp;#39;artisan&quot;&gt;chance de l&#39;artisan&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Malchance-De-Lartisan.html&quot; title=&quot;Malchance de l&amp;#39;artisan&quot;&gt;malchance de l&#39;artisan&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 2 110 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Droskar|%2fPCUP%2fReligion-PNG%2fDroskar.png}<div class="BD">
+{s:BDTitre|Armure du labeur interminable|{s:ISG}}
+'''Aura''' [[Transmutation]] faible ; '''NLS''' 3 ; '''Emplacement''' [[Armures magiques spécifiques|armure]] ; '''Prix''' 3 920 po ; '''Poids''' 20 kg
+(((Description)))
+{s:cs}Cette ''[[cotte de mailles (armure)|cotte de mailles]] +1'' ressemble à ce que ferait un apprenti nain sans talent : laide, asymétrique et terminée à la hâte plutôt qu'avec soin. Le porteur bénéficie d'un bonus ou d'un malus de chance égal à 1d6-3 aux tests d'[[Artisanat]] pour fabriquer des armures ou des armes. Ce bonus ou ce malus est déterminé la première fois que le porteur effectue un test d'Artisanat pour déterminer la progression d'une journée de travail. Si le porteur retire l'armure, ce bonus ou ce malus persiste pendant 24 heures supplémentaires. Une fois par jour, le porteur peut utiliser ''[[arme magique]]''.
+(((Création)))
+'''Conditions''' [[Création darmes et armures magiques|Création d'armes et armures magiques]], ''[[arme magique]]'', ''[[chance de lartisan|chance de l'artisan]]'', ''[[malchance de lartisan|malchance de l'artisan]]'' ; '''Coût''' 2 110 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Armure du labeur interminable</fullName>
+</wikiPage>

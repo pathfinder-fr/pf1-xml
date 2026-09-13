@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Poing invincible de la terre</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 1</category><category>Pathfinder-RPG.Sort prêtre 1</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2022-06-21 19:51:49Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Campagnes mythiques (Contenu)</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts du Manuel des Races</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Oréade (race)</link><link>Pathfinder-RPG.Sorts mythiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.création</link><link>Pathfinder-RPG.Créer un sort</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Résistance à la magie (capacité)</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Actions simples</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Moine qinggong (moine)</link><link>Pathfinder-RPG.Grade</link><link>Pathfinder-RPG.Oréade (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Or&#233;ade.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Or&#233;ade (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Or&#233;ade.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Or&#233;ade-(Race).html&quot; title=&quot;Les or&#233;ades&quot;&gt;or&#233;ades&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Creation.html&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#TERRE&quot; title=&quot;Cr&#233;er un sort&quot;&gt;terre&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 1&lt;/br&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;courte&lt;/a&gt; (7,5 m + 1,5 m/2 niveau)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;instantan&#233;e&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la magie (Ext)&quot;&gt;Oui&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Le lanceur de sorts cr&#233;e une pierre de la taille d’un poing qui vole sur un ennemi. Le lanceur doit faire un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;Valeurs de combat&quot;&gt;jet d’attaque&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUEMAINSNUES&quot; title=&quot;Actions simples&quot;&gt;&#224; mains nues&lt;/a&gt; contre la cible, comme si celle-ci &#233;tait dans la zone qu’il menace. Si l’attaque r&#233;ussit, la pierre inflige des d&#233;g&#226;ts contondants &#224; la cible comme si le lanceur lui avait port&#233; une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html#ATTAQUEMAINSNUES&quot; title=&quot;Actions simples&quot;&gt;attaque &#224; mains nues&lt;/a&gt;. Si le lanceur a une &lt;a class=&quot;pagelink&quot; href=&quot;Moine.html#RESERVEDEKI&quot; title=&quot;Le moine&quot;&gt;r&#233;serve de ki&lt;/a&gt;, la pierre compte comme une frappe ki. Au niveau 4, le &lt;a class=&quot;pagelink&quot; href=&quot;Moine-Qinggong-(Moine).html&quot; title=&quot;Moine qinggong&quot;&gt;moine qinggong&lt;/a&gt; peut choisir ce sort comme pouvoir ki dont l’activation co&#251;te 1 point de ki (si le moine a 0 point de ki apr&#232;s l’activation de ce pouvoir ki, la pierre ne compte pas comme une frappe ki).&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Mythique&lt;a class=&quot;headeranchor&quot; id=&quot;Mythique_0&quot; href=&quot;#Mythique_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Campagnes mythiques (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Mythic Adventures, Mythic Origins/Campagnes mythiques&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoCMy.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+Le personnage ajoute son &lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Grade.html&quot; title=&quot;Grade&quot;&gt;grade&lt;/a&gt; aux jets d’attaque et de d&#233;g&#226;ts de la pierre. Il augmente le multiplicateur de critique de l’attaque de 1 (avec un maximum de &#215;4).
+]]></body>
+  <raw><![CDATA[{s:racial|Oréade (race)|oréades|Illustrations/PNJ/Oréade.jpg}{s:MR}
+'''École''' [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[Créer un sort#TERRE|terre]]<nowiki>]</nowiki> ; '''Niveau''' [[Druide|Dru]] 1, [[Prêtre|Prê]] 1</br>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes'''  [[composantes|V, G, FD]]<br/>
+'''Portée'''  [[Présentation des sorts#PORTEE|courte]] (7,5 m + 1,5 m/2 niveau)<br/>
+'''Cible''' une créature<br/>
+'''Durée''' [[Présentation des sorts#DUREE|instantanée]]<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' [[Résistance à la magie (capacité)|Oui]]
+
+Le lanceur de sorts crée une pierre de la taille d’un poing qui vole sur un ennemi. Le lanceur doit faire un [[Valeurs de combat#JETDATTAQUE|jet d’attaque]] [[Actions simples#ATTAQUEMAINSNUES|à mains nues]] contre la cible, comme si celle-ci était dans la zone qu’il menace. Si l’attaque réussit, la pierre inflige des dégâts contondants à la cible comme si le lanceur lui avait porté une [[Actions simples#ATTAQUEMAINSNUES|attaque à mains nues]]. Si le lanceur a une [[Moine#RESERVEDEKI|réserve de ki]], la pierre compte comme une frappe ki. Au niveau 4, le [[Moine qinggong (moine)|moine qinggong]] peut choisir ce sort comme pouvoir ki dont l’activation coûte 1 point de ki (si le moine a 0 point de ki après l’activation de ce pouvoir ki, la pierre ne compte pas comme une frappe ki).
+
+===Mythique===
+{s:CMy}
+Le personnage ajoute son [[grade]] aux jets d’attaque et de dégâts de la pierre. Il augmente le multiplicateur de critique de l’attaque de 1 (avec un maximum de ×4).]]></raw>
+  <fullName>Pathfinder-RPG.Poing invincible de la terre</fullName>
+</wikiPage>

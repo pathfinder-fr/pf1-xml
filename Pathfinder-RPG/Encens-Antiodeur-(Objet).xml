@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Encens antiodeur</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:46:46Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Outils alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Bâton fumigène (objet)</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Gnome</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gnome.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gnome.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gnome.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;gnomes&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 80 po ; &lt;b&gt;Poids&lt;/b&gt; — ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 20  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+L’encens antiodeur est une sorte de &lt;a class=&quot;pagelink&quot; href=&quot;B&#226;ton-Fumig&#232;ne-(Objet).html&quot; title=&quot;B&#226;ton fumig&#232;ne&quot;&gt;b&#226;ton fumig&#232;ne&lt;/a&gt; qui bloque la plupart des odeurs. Tant que la fum&#233;e persiste, les cr&#233;atures qui disposent du pouvoir &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt; doivent r&#233;ussir un test de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; oppos&#233; au test de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; des cr&#233;atures qui se trouvent dans la fum&#233;e pour les localiser. Si une cr&#233;ature passe 5 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; ou plus dans la fum&#233;e, elle s’accroche &#224; lui et dissimule son odeur pendant 1 round apr&#232;s qu’elle a quitt&#233; le nuage de fum&#233;e.
+]]></body>
+  <raw><![CDATA[{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}'''Prix''' 80 po ; '''Poids''' — ; '''DD d'Artisanat (alchimie)''' 20  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+L’encens antiodeur est une sorte de [[Bâton fumigène (objet)|bâton fumigène]] qui bloque la plupart des odeurs. Tant que la fumée persiste, les créatures qui disposent du pouvoir [[Odorat (capacité)|odorat]] doivent réussir un test de [[Perception]] opposé au test de [[Discrétion]] des créatures qui se trouvent dans la fumée pour les localiser. Si une créature passe 5 [[round|rounds]] ou plus dans la fumée, elle s’accroche à lui et dissimule son odeur pendant 1 round après qu’elle a quitté le nuage de fumée.]]></raw>
+  <fullName>Pathfinder-RPG.Encens antiodeur (objet)</fullName>
+</wikiPage>

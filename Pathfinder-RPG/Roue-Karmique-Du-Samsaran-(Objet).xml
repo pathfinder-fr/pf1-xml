@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Roue karmique du samsaran</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-24 22:33:31Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Outils de compétences</link><link>Pathfinder-RPG.samsaran (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils de compétences</link><link>Pathfinder-RPG.samsaran (race)</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.samsaran (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Samsaran.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Samsaran (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Samsaran.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Samsaran-(Race).html&quot; title=&quot;Les samsarans&quot;&gt;samsarans&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 25 po ; &lt;b&gt;Poids&lt;/b&gt; 0,25 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-De-Comp&#233;tences.html&quot; title=&quot;Outils de comp&#233;tences&quot;&gt;Outils de comp&#233;tences&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette petite bobine en bois tourne librement &#224; l’int&#233;rieur d’un bo&#238;tier. Sur la face ext&#233;rieure de la bobine sont inscrites des dizaines de pri&#232;res samsarans, ainsi que des noms ou des symboles associ&#233;s aux vies pass&#233;es du samsaran. Les &lt;a class=&quot;pagelink&quot; href=&quot;Samsaran-(Race).html&quot; title=&quot;Les samsarans&quot;&gt;samsarans&lt;/a&gt; pensent que faire tourner la bobine pendant leurs m&#233;ditations renforce les connexions spirituelles entre leurs anciennes vies. Si un samsaran m&#233;dite avec sa roue pendant au moins 10 minutes en se concentrant sur une question de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) relative &#224; sa propre histoire ou &#224; celles de ses vies pass&#233;es, il re&#231;oit un bonus d’intuition de +1 &#224; son test.
+]]></body>
+  <raw><![CDATA[{s:racial|Samsaran (race)|samsarans|Illustrations/PNJ/Samsaran.jpg}{s:MR}'''Prix''' 25 po ; '''Poids''' 0,25 kg  
+<span class="Catégorie">'''Catégorie''' [[Outils de compétences]]</span>
+<hr>
+Cette petite bobine en bois tourne librement à l’intérieur d’un boîtier. Sur la face extérieure de la bobine sont inscrites des dizaines de prières samsarans, ainsi que des noms ou des symboles associés aux vies passées du samsaran. Les [[Samsaran (race)|samsarans]] pensent que faire tourner la bobine pendant leurs méditations renforce les connexions spirituelles entre leurs anciennes vies. Si un samsaran médite avec sa roue pendant au moins 10 minutes en se concentrant sur une question de [[Connaissances]] (histoire) relative à sa propre histoire ou à celles de ses vies passées, il reçoit un bonus d’intuition de +1 à son test.]]></raw>
+  <fullName>Pathfinder-RPG.Roue karmique du samsaran (objet)</fullName>
+</wikiPage>

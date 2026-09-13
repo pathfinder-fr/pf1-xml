@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Carreau du spéléologue</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2024-06-14 23:22:55Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Drow (race)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Flèche-grappin (objet)</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Crochet de force</link><link>Pathfinder-RPG.Drow (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Drow.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Drow (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Drow.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Drow-(Race).html&quot; title=&quot;Les drows&quot;&gt;drows&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Carreau du sp&#233;l&#233;ologue&lt;div style=&quot;float:right;&quot;&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Evocation.html&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 6 000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,25 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Les roturiers sont incapables de l&#233;viter comme les nobles et recourent parfois &#224; ces carreaux magiques pour &#233;viter de se faire distancer lors d’une ascension vers la surface ou lorsqu’ils s’enfoncent dans des cavernes profondes.&lt;br /&gt;&lt;br /&gt;Le carreau du sp&#233;l&#233;ologue ressemble &#224; un lourd carreau cercl&#233; de fer &#224; pointe d’acier couronn&#233; de crochets et de dents. Il s’adapte &#224; n’importe quelle arbal&#232;te de taille M ou P et peut servir de &lt;a class=&quot;pagelink&quot; href=&quot;Fl&#232;che-Grappin-(Objet).html&quot; title=&quot;Fl&#232;che-grappin&quot;&gt;fl&#232;che-grappin&lt;/a&gt; non magique. Le personnage charge le carreau dans son arbal&#232;te, vise une surface solide &#224; port&#233;e et prononce le mot de commande pour envoyer le carreau qui va se ficher dans la surface cibl&#233;e. Le carreau entra&#238;ne derri&#232;re lui une cha&#238;ne de force fantomatique violette reli&#233;e &#224; l’arbal&#232;te. Le personnage tenant cette arbal&#232;te n’a alors plus qu’&#224; prononcer le mot de commande permettant de r&#233;tracter la cha&#238;ne &#224; une vitesse de 9 m&#232;tres par round pour se faire remorquer jusqu’au point d’ancrage du carreau.&lt;br /&gt;&lt;br /&gt;La cha&#238;ne de force supporte 250 kilos (solidit&#233; 10, 10 pv, briser DD 28). Une fois la cha&#238;ne r&#233;tract&#233;e, le personnage peut de nouveau utiliser le carreau. Si la cha&#238;ne est bris&#233;e ou tranch&#233;e, le carreau ne fonctionne plus pendant 24 heures.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Crochet-De-Force.html&quot; title=&quot;Crochet de force&quot;&gt;crochet de force&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 3 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}<div class="BD">
+{s:BDTitre|Carreau du spéléologue|{s:CM}}
+'''Aura''' [[Évocation]] modérée ; '''NLS''' 5 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 6 000 po ; '''Poids''' 0,25 kg
+(((Description)))
+Les roturiers sont incapables de léviter comme les nobles et recourent parfois à ces carreaux magiques pour éviter de se faire distancer lors d’une ascension vers la surface ou lorsqu’ils s’enfoncent dans des cavernes profondes.
+
+Le carreau du spéléologue ressemble à un lourd carreau cerclé de fer à pointe d’acier couronné de crochets et de dents. Il s’adapte à n’importe quelle arbalète de taille M ou P et peut servir de [[Flèche-grappin (objet)|flèche-grappin]] non magique. Le personnage charge le carreau dans son arbalète, vise une surface solide à portée et prononce le mot de commande pour envoyer le carreau qui va se ficher dans la surface ciblée. Le carreau entraîne derrière lui une chaîne de force fantomatique violette reliée à l’arbalète. Le personnage tenant cette arbalète n’a alors plus qu’à prononcer le mot de commande permettant de rétracter la chaîne à une vitesse de 9 mètres par round pour se faire remorquer jusqu’au point d’ancrage du carreau.
+
+La chaîne de force supporte 250 kilos (solidité 10, 10 pv, briser DD 28). Une fois la chaîne rétractée, le personnage peut de nouveau utiliser le carreau. Si la chaîne est brisée ou tranchée, le carreau ne fonctionne plus pendant 24 heures.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[crochet de force]]'' ; '''Coût''' 3 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Carreau du spéléologue</fullName>
+</wikiPage>

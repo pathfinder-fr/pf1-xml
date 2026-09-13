@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cape-aile</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-22 14:46:39Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Sylphe (race)</link><link>Pathfinder-RPG.Vêtements</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Vêtements</link><link>Pathfinder-RPG.Sylphe (race)</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.Sylphe (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Sylphe.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Sylphe (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Sylphe.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Sylphe-(Race).html&quot; title=&quot;Les sylphes&quot;&gt;sylphes&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 1.200 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg&lt;sup&gt;&lt;a class=&quot;pagelink&quot; href=&quot;V&#234;tements.html#1&quot; title=&quot;V&#234;tements&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;V&#234;tements.html&quot; title=&quot;V&#234;tements&quot;&gt;V&#234;tements&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cet &#233;trange &#233;quipement ne fonctionne que pour les &lt;a class=&quot;pagelink&quot; href=&quot;Sylphe-(Race).html&quot; title=&quot;Les sylphes&quot;&gt;sylphes&lt;/a&gt; et cr&#233;atures similaires, dont les vents peuvent porter le corps l&#233;ger et a&#233;rien dans les airs. Ressemblant &#224; une cape de voyageur en belle soie, la cape-aile est secr&#232;tement renforc&#233;e d’un ensemble d’entretoises en bois qui, maintenues en place, tendent le tissu de la cape pour former une aile rudimentaire. Le fait de disposer les entretoises pour former une aile ou d’inverser le changement co&#251;te une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;. Lorsque la cape forme une aile, le porteur peut faire un test de &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour tomber sans danger de n’importe quelle hauteur sans recevoir de d&#233;g&#226;ts de la &lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTE&quot; title=&quot;Les dangers naturels&quot;&gt;chute&lt;/a&gt;, comme s’il utilisait &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;. Lorsqu’il tombe, le porteur peut faire un autre test de Vol DD 15 pour planer, avan&#231;ant lat&#233;ralement de 1,5 m&#232;tre par tranche de 6 m&#232;tres de hauteur de chute. Il faut deux mains pour pr&#233;parer et utiliser la cape-aile et cela provoque une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;. La cape-aile a une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration#Solidite.html&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 0 et 5 points de vie. Si elle est cass&#233;e, le DD du test de Vol augmente de +10.
+]]></body>
+  <raw><![CDATA[{s:racial|Sylphe (race)|sylphes|Illustrations/PNJ/Sylphe.jpg}{s:MR}'''Prix''' 1.200 po ; '''Poids''' 0,5 kg<sup>[[Vêtements#1|1]]</sup>  
+<span class="Catégorie">'''Catégorie''' [[Vêtements]]</span>
+<hr>
+Cet étrange équipement ne fonctionne que pour les [[Sylphe (race)|sylphes]] et créatures similaires, dont les vents peuvent porter le corps léger et aérien dans les airs. Ressemblant à une cape de voyageur en belle soie, la cape-aile est secrètement renforcée d’un ensemble d’entretoises en bois qui, maintenues en place, tendent le tissu de la cape pour former une aile rudimentaire. Le fait de disposer les entretoises pour former une aile ou d’inverser le changement coûte une [[action de mouvement]]. Lorsque la cape forme une aile, le porteur peut faire un test de [[Vol]] [[DD]] 15 pour tomber sans danger de n’importe quelle hauteur sans recevoir de dégâts de la [[Dangers naturels#CHUTE|chute]], comme s’il utilisait ''[[feuille morte]]''. Lorsqu’il tombe, le porteur peut faire un autre test de Vol DD 15 pour planer, avançant latéralement de 1,5 mètre par tranche de 6 mètres de hauteur de chute. Il faut deux mains pour préparer et utiliser la cape-aile et cela provoque une [[attaque dopportunité|attaque d’opportunité]]. La cape-aile a une [[solidité]] de 0 et 5 points de vie. Si elle est cassée, le DD du test de Vol augmente de +10.]]></raw>
+  <fullName>Pathfinder-RPG.Cape-aile (objet)</fullName>
+</wikiPage>

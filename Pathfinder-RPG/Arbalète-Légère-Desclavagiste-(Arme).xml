@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Arbalète légère d'esclavagiste</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2021-10-01 18:23:05Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.arbalète lourde desclavagiste (arme)</link><link>Pathfinder-RPG.carreaux bolas (arme)</link><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Descriptions individuelles des armes</link><link>Pathfinder-RPG.duergar (race)</link><link>Pathfinder-RPG.Maître de corvée duergar</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Caractéristiques des armes</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.arme à distance</link><link>Pathfinder-RPG.carreaux bolas (arme)</link><link>Pathfinder-RPG.arbalète lourde desclavagiste (arme)</link><link>Pathfinder-RPG.duergar (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Duergar.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Duergar (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Duergar.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Duergar-(Race).html&quot; title=&quot;Les duergars&quot;&gt;duergars&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;Prix&lt;/b&gt; 250 po ; &lt;b&gt;Poids&lt;/b&gt; 3 kg ; &lt;b&gt;Groupes&lt;/b&gt; —  
+&lt;b&gt;D&#233;g&#226;ts&lt;/b&gt; 1d3 (P), 1d4 (M) ; &lt;b&gt;Critique&lt;/b&gt; 19-20/voir carreau bolas ; &lt;b&gt;Port&#233;e&lt;/b&gt; 12 m (8 c) ; &lt;b&gt;Type&lt;/b&gt; C ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#CROCENJAMBE&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;croc-en-jambe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#NONLETAL&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;non-l&#233;tal&lt;/a&gt;  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABEXOTIQUES&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Armes exotiques&lt;/a&gt; ; &lt;b&gt;Maniement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armeadistance.html&quot; title=&quot;arme &#224; distance&quot;&gt;arme &#224; distance&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette arbal&#232;te est con&#231;ue pour tirer des munitions appel&#233;es des &lt;a class=&quot;pagelink&quot; href=&quot;Carreaux-Bolas-(Arme).html&quot; title=&quot;Carreaux bolas (10)&quot;&gt;carreaux bolas&lt;/a&gt; au lieu de carreaux d’arbal&#232;te classiques. On en trouve des &lt;a class=&quot;pagelink&quot; href=&quot;Arbal&#232;te-Lourde-Desclavagiste-(Arme).html&quot; title=&quot;Arbal&#232;te lourde d&amp;#39;esclavagiste&quot;&gt;lourdes&lt;/a&gt; et des l&#233;g&#232;res (mais il n’existe pas de mod&#232;le double, de poing ni &#224; r&#233;p&#233;tition). Elles ont le m&#234;me temps de chargement que la version classique de m&#234;me type.
+]]></body>
+  <raw><![CDATA[{s:racial|Duergar (race)|duergars|Illustrations/PNJ/Duergar.jpg}{s:CM}'''Prix''' 250 po ; '''Poids''' 3 kg ; '''Groupes''' —  
+'''Dégâts''' 1d3 (P), 1d4 (M) ; '''Critique''' 19-20/voir carreau bolas ; '''Portée''' 12 m (8 c) ; '''Type''' C ; '''Spécial''' [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#NONLETAL|non-létal]]  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; '''Maniement''' [[arme à distance|arme à distance]]</span>
+<hr>
+Cette arbalète est conçue pour tirer des munitions appelées des [[carreaux bolas (arme)|carreaux bolas]] au lieu de carreaux d’arbalète classiques. On en trouve des [[Arbalète lourde desclavagiste (arme)|lourdes]] et des légères (mais il n’existe pas de modèle double, de poing ni à répétition). Elles ont le même temps de chargement que la version classique de même type.]]></raw>
+  <fullName>Pathfinder-RPG.arbalète légère desclavagiste (arme)</fullName>
+</wikiPage>

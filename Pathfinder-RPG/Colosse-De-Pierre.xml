@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Colosse de pierre</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2021-04-05 19:27:19Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Colosse</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres mythiques</link><link>Pathfinder-RPG.Temp-bestiaire4</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.sous-type colosse</link><link>Pathfinder-RPG.sous-type mythique</link><link>Pathfinder-RPG.Mur de pierre</link><link>Pathfinder-RPG.Champ de force</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science de la destruction</link><link>Pathfinder-RPG.Science de la frappe décisive</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Tir à bout portant</link><link>Pathfinder-RPG.Tir de précision</link><link>Pathfinder-RPG.Viser</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Colosse</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Manoir somptueux</link><link>Pathfinder-RPG.Réparation intégrale</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.Zone dantimagie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Colosse de pierre&lt;div style=&quot;float:right;&quot;&gt;FP 19 / RMY 7&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature artificielle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature artificielle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Plaines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Plaines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4 page 37&lt;/i&gt;
+&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;204 800 PX&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Colosse.html&quot; title=&quot;Colosse (sous-type)&quot;&gt;colosse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;) de taille C, N&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init &lt;/b&gt;+11&lt;sup&gt;M&lt;/sup&gt; ; &lt;b&gt;Sens&lt;/b&gt; vision dans le noir 18 m, vision nocturne ; Perception +11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aura&lt;/b&gt; antimagie s&#233;lective (9 m)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 31, contact 2, pris au d&#233;pourvu 31 (naturelle +29, taille -8)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 265 (21d10+150)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f &lt;/b&gt;+7, &lt;b&gt;Vig &lt;/b&gt;+7, &lt;b&gt;Vol &lt;/b&gt;+7&lt;/li&gt;&lt;li&gt;&lt;b&gt;RD&lt;/b&gt; 10/&#233;pique ; &lt;b&gt;Immunit&#233;&lt;/b&gt; traits des cr&#233;atures artificielles&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 12 m&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +32 (3d10+19/19-20)&lt;ul&gt;&lt;li&gt;ou coup de pied, +32 (6d10+28 plus coinc&#233; sous le pied)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Distance&lt;/b&gt; baliste l&#233;g&#232;re, +13 (3d8/&#215;3)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace&lt;/b&gt; 9 m ; &lt;b&gt;Allonge&lt;/b&gt; 9 m&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; acc&#233;l&#233;ration mythique, coinc&#233; sous le pied, pouvoir mythique (7/jour, mont&#233;e en puissance +1d10)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;b&gt;NLS&lt;/b&gt; 15 ; concentration +16)&lt;ul&gt;&lt;li&gt;3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Pierre.html&quot; title=&quot;Mur de pierre&quot;&gt;mur de pierre&lt;/a&gt;&lt;/i&gt; (DD 16)&lt;/li&gt;&lt;li&gt;1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champ-De-Force.html&quot; title=&quot;Champ de force&quot;&gt;champ de force&lt;/a&gt;&lt;/i&gt; (DD 17)&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 48, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con &lt;/b&gt;—, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 7&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA &lt;/b&gt;+21 ; &lt;b&gt;BMO &lt;/b&gt;+48 (+53 destruction d’arme) ; &lt;b&gt;DMD&lt;/b&gt; 60 (65 contre destruction d’arme)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (coup), &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d’encha&#238;nements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-De-Pr&#233;cision.html&quot; title=&quot;Tir de pr&#233;cision&quot;&gt;Tir de pr&#233;cision&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Viser.html&quot; title=&quot;Viser&quot;&gt;Viser&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; commun&lt;/li&gt;&lt;li&gt;&lt;b&gt;Particularit&#233;s&lt;/b&gt; autor&#233;paration, cr&#233;ation mythique, forme alternative, forteresse mobile, r&#233;silience mythique, tour de si&#232;ge&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; terre ferme&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation&lt;/b&gt; solitaire ou forteresse mobile (1 plus 6-12 archers humano&#239;des de taille M)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Aura d’antimagie s&#233;lective (Sur)&lt;/b&gt;. Cette zone n’affecte pas les sorts appartenant au registre de la terre ou de la force ni les sorts qui transmutent ou manipulent la terre ou la pierre.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Autor&#233;paration (Ext).&lt;/b&gt; Un colosse de pierre peut d&#233;penser une utilisation de pouvoir mythique par une action rapide pour gagner une gu&#233;rison acc&#233;l&#233;r&#233;e 20 pendant 5 rounds.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Forme alternative (Ext)&lt;/b&gt;. Par une action complexe, le colosse de pierre peut se transformer en une petite forteresse. Sa RD passe &#224; 20/ &#233;pique et il gagne gu&#233;rison acc&#233;l&#233;r&#233;e 10. Sous cette forme, il ne peut pas effectuer d’attaque au corps &#224; corps.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Forteresse mobile (Ext).&lt;/b&gt; Le colosse de pierre peut abriter 12 cr&#233;atures de taille M, quelle que soit la forme sous laquelle il se trouve. Les cr&#233;atures qui se trouvent sur ses remparts b&#233;n&#233;ficient d’un abri. Toutes celles qui se trouvent &#224; l’int&#233;rieur du colosse au moment de sa destruction subissent 3d10+20 points de d&#233;g&#226;ts.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tour de si&#232;ge (Ext). &lt;/b&gt;La baliste du colosse ne provoque pas d’attaque d’opportunit&#233; et se recharge au d&#233;but du tour du colosse.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Colosse.html&quot; title=&quot;Les colosses&quot;&gt;colosses&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Cette gigantesque cr&#233;ature de pierre ressemble &#224; une citadelle qui se serait d&#233;racin&#233;e pour aller faire un tour.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+Le colosse de pierre est une forteresse ambulante de vingt et un m&#232;tres de haut pour trois cent tonnes.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Construction&lt;a class=&quot;headeranchor&quot; id=&quot;Construction_0&quot; href=&quot;#Construction_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+Le corps du colosse de pierre co&#251;te 40 000 po.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;NLS &lt;/b&gt;15 ; &lt;b&gt;Prix&lt;/b&gt; 300 000 po&lt;br /&gt;
+&lt;b&gt;Conditions requises&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, Artisan mythique de rang ou de grade mythique 8, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manoir-Somptueux.html&quot; title=&quot;Manoir somptueux&quot;&gt;manoir somptueux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Pierre.html&quot; title=&quot;Mur de pierre&quot;&gt;mur de pierre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration-Int&#233;grale.html&quot; title=&quot;R&#233;paration int&#233;grale&quot;&gt;r&#233;paration int&#233;grale&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Zone-Dantimagie.html&quot; title=&quot;Zone d&amp;#39;antimagie&quot;&gt;zone d’antimagie&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (constructions en pierre) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 30 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 170 000 po &lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;center&gt;&lt;img src=&quot;/wiki/public/upload/Bestiaire/Colosse de pierre.jpg&quot; width=&quot;90%&quot; style=&quot;float: none; margin: 5px;&quot;/&gt;&lt;/center&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Colosse de pierre|FP 19 / RMY 7}
+{s:pucem|Créature artificielle|Plaines|Tempéré}
+{s:BDTexte|''Source : Bestiaire 4 page 37''}
+* '''204 800 PX'''
+* [[type créature artificielle|Créature artificielle]] ([[sous-type colosse|colosse]], [[sous-type mythique|mythique]]) de taille C, N
+* '''Init '''+11<sup>M</sup> ; '''Sens''' vision dans le noir 18 m, vision nocturne ; Perception +11
+* '''Aura''' antimagie sélective (9 m)
+(((Défense)))
+* '''CA''' 31, contact 2, pris au dépourvu 31 (naturelle +29, taille -8)
+* '''pv''' 265 (21d10+150)
+* '''Réf '''+7, '''Vig '''+7, '''Vol '''+7
+* '''RD''' 10/épique ; '''Immunité''' traits des créatures artificielles
+(((Attaque)))
+* '''VD''' 12 m
+* '''Corps à corps''' 2 coups, +32 (3d10+19/19-20) 
+** ou coup de pied, +32 (6d10+28 plus coincé sous le pied)
+* '''Distance''' baliste légère, +13 (3d8/×3)
+* '''Espace''' 9 m ; '''Allonge''' 9 m
+* '''Attaque spéciale''' accélération mythique, coincé sous le pied, pouvoir mythique (7/jour, montée en puissance +1d10)
+* '''Pouvoirs magiques''' ('''NLS''' 15 ; concentration +16)
+** 3/jour — ''[[mur de pierre]]'' (DD 16)
+** 1/jour — ''[[champ de force]]'' (DD 17)
+(((Statistiques)))
+* '''For''' 48, '''Dex''' 11, '''Con '''—, '''Int''' 5, '''Sag''' 10, '''Cha''' 7
+* '''BBA '''+21 ; '''BMO '''+48 (+53 destruction d’arme) ; '''DMD''' 60 (65 contre destruction d’arme)
+* '''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Frappe décisive]], [[Science de la destruction]]<sup>M</sup>, [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]]<sup>M</sup>, [[Science du critique]] (coup), [[Succession denchaînements|Succession d’enchaînements]], [[Tir à bout portant]]<sup>M</sup>, [[Tir de précision]], [[Viser]]<sup>M</sup>
+* '''Compétences''' [[Intimidation]] +11, [[Perception]] +11
+* '''Langues''' commun
+* '''Particularités''' autoréparation, création mythique, forme alternative, forteresse mobile, résilience mythique, tour de siège
+(((Écologie)))
+* '''Environnement''' terre ferme
+* '''Organisation''' solitaire ou forteresse mobile (1 plus 6-12 archers humanoïdes de taille M)
+* '''Trésor''' aucun
+(((Pouvoirs spéciaux)))
+* '''Aura d’antimagie sélective (Sur)'''. Cette zone n’affecte pas les sorts appartenant au registre de la terre ou de la force ni les sorts qui transmutent ou manipulent la terre ou la pierre. 
+* '''Autoréparation (Ext).''' Un colosse de pierre peut dépenser une utilisation de pouvoir mythique par une action rapide pour gagner une guérison accélérée 20 pendant 5 rounds.
+* '''Forme alternative (Ext)'''. Par une action complexe, le colosse de pierre peut se transformer en une petite forteresse. Sa RD passe à 20/ épique et il gagne guérison accélérée 10. Sous cette forme, il ne peut pas effectuer d’attaque au corps à corps.
+* '''Forteresse mobile (Ext).''' Le colosse de pierre peut abriter 12 créatures de taille M, quelle que soit la forme sous laquelle il se trouve. Les créatures qui se trouvent sur ses remparts bénéficient d’un abri. Toutes celles qui se trouvent à l’intérieur du colosse au moment de sa destruction subissent 3d10+20 points de dégâts.
+* '''Tour de siège (Ext). '''La baliste du colosse ne provoque pas d’attaque d’opportunité et se recharge au début du tour du colosse.
+
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Colosse|colosses]].'''''</li></ul>
+''Cette gigantesque créature de pierre ressemble à une citadelle qui se serait déracinée pour aller faire un tour.''
+
+
+Le colosse de pierre est une forteresse ambulante de vingt et un mètres de haut pour trois cent tonnes.
+
+===Construction===
+
+Le corps du colosse de pierre coûte 40 000 po.
+
+'''NLS '''15 ; '''Prix''' 300 000 po{br}
+'''Conditions requises''' [[Création de créatures artificielles]], Artisan mythique de rang ou de grade mythique 8, ''[[manoir somptueux]], [[mur de pierre]], [[réparation intégrale]], [[souhait]], [[zone dantimagie|zone d’antimagie]]'' ; '''Compétence''' [[Artisanat]] (constructions en pierre) [[DD]] 30 ; '''Coût''' 170 000 po 
+
+</div>
+
+
+{s:ImageCentre|Bestiaire/Colosse de pierre.jpg|90%}
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Colosse de pierre</fullName>
+</wikiPage>

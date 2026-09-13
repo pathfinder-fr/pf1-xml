@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Crachat venimeux</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort chaman 4</category><category>Pathfinder-RPG.Sort druide 3</category><category>Pathfinder-RPG.Sort prêtre 4</category><category>Pathfinder-RPG.Sort sorcière 3</category><category>Pathfinder-RPG.Src Art de la magie</category></categories>
+  <lastModified>2022-06-12 02:28:27Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.AdM-sorts-classe-temporaire</link><link>Pathfinder-RPG.Crachat venimeux (nagaji)</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.LArt de la magie (Contenu)</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de chaman</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Moine qinggong (moine)</link><link>Pathfinder-RPG.Seigneur momie humain</link><link>Pathfinder-RPG.sorts-temporaires</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Crachat venimeux (nagaji)</link><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.instantanée</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.attaque de contact à distance</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.poison</link><link>Pathfinder-RPG.DD</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Il existe un &lt;a class=&quot;pagelink&quot; href=&quot;Crachat-Venimeux-(Nagaji).html&quot; title=&quot;Crachat venimeux&quot;&gt;don&lt;/a&gt; du m&#234;me nom.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.LArt de la magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Magic/Art de la Magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoUM.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;poison&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Cham&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Effet&lt;/b&gt; un jet de venin&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Duree.html&quot; title=&quot;instantan&#233;e&quot;&gt;instantan&#233;e&lt;/a&gt;, voir texte&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partielle&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage crache un jet de venin sur une cible gr&#226;ce &#224; une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquesdecontact.html&quot; title=&quot;attaque de contact &#224; distance&quot;&gt;attaque de contact &#224; distance&lt;/a&gt;. S’il touche, la cible est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Aveugl&#233;.html&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugle&lt;/a&gt; pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. La cible doit aussi r&#233;ussir un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;poison&quot;&gt;empoisonn&#233;e&lt;/a&gt; par du venin de vip&#232;re noire. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;poison&quot;&gt;poison&lt;/a&gt; successifs est &#233;gal au &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du sort.
+]]></body>
+  <raw><![CDATA[{s:Desambi|Il existe un [[crachat venimeux (nagaji)|don]] du même nom.}{s:UM}
+'''École''' [[Transmutation]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; '''Niveau''' [[Chaman|Cham]] 4, [[Druide|Dru]] 3, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 3<br/>
+'''Temps d’incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V]]<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Effet''' un jet de venin<br/>
+'''Durée''' [[instantanée]], voir texte<br/>
+'''Jet de sauvegarde''' [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] ; '''Résistance à la magie''' non
+
+Le personnage crache un jet de venin sur une cible grâce à une [[attaque de contact à distance]]. S’il touche, la cible est [[aveuglé|aveugle]] pendant 1 [[round]]. La cible doit aussi réussir un [[jet de sauvegarde]] ou être [[poison|empoisonnée]] par du venin de vipère noire. Le [[DD]] des [[round|rounds]] de [[poison]] successifs est égal au [[DD]] du sort.]]></raw>
+  <fullName>Pathfinder-RPG.Crachat venimeux</fullName>
+</wikiPage>

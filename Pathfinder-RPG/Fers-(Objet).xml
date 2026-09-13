@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fers</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-16 20:51:13Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Hobgobelin (race)</link><link>Pathfinder-RPG.Menottes à pointes (objet)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Menottes (objet)</link><link>Pathfinder-RPG.Enchevêtré</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.À terre</link><link>Pathfinder-RPG.Hobgobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Hobgobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Hobgobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Hobgobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Hobgobelin-(Race).html&quot; title=&quot;Les hobgobelins&quot;&gt;hobgobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 15 po (standards), 50 po (de ma&#238;tre) ; &lt;b&gt;Poids&lt;/b&gt; 1 kg (standards), 1 kg (de ma&#238;tre)  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quipement-Daventurier.html&quot; title=&quot;&#201;quipement d&amp;#39;aventurier&quot;&gt;&#201;quipement d&#39;aventurier&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Les fers sont des &lt;a class=&quot;pagelink&quot; href=&quot;Menottes-(Objet).html&quot; title=&quot;Menottes&quot;&gt;menottes&lt;/a&gt; pour les chevilles plut&#244;t que pour les poignets et r&#233;pondent aux m&#234;mes r&#232;gles quand il s&#39;agit de les casser, de s&#39;en lib&#233;rer et en ce qui concerne leur co&#251;t en fonction de la taille. Une cr&#233;ature mise aux fers est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Enchev&#234;tr&#233;.html&quot; title=&quot;Enchev&#234;tr&#233;&quot;&gt;enchev&#234;tr&#233;e&lt;/a&gt; et ne peut se d&#233;placer qu&#39;&#224; la moiti&#233; de sa vitesse. En outre, une cr&#233;ature encha&#238;n&#233;e doit r&#233;ussir un test d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour se d&#233;placer &#224; plus de sa vitesse (r&#233;duite) en un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Si elle rate son test de 5 ou plus, elle tombe &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#192;terre.html&quot; title=&quot;&#192; terre&quot;&gt;&#224; terre&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:MR}'''Prix''' 15 po (standards), 50 po (de maître) ; '''Poids''' 1 kg (standards), 1 kg (de maître)  
+<span class="Catégorie">'''Catégorie''' [[Équipement daventurier|Équipement d'aventurier]]</span>
+<hr>
+Les fers sont des [[Menottes (objet)|menottes]] pour les chevilles plutôt que pour les poignets et répondent aux mêmes règles quand il s'agit de les casser, de s'en libérer et en ce qui concerne leur coût en fonction de la taille. Une créature mise aux fers est [[enchevêtré|enchevêtrée]] et ne peut se déplacer qu'à la moitié de sa vitesse. En outre, une créature enchaînée doit réussir un test d'[[Acrobaties]] [[DD]] 15 pour se déplacer à plus de sa vitesse (réduite) en un [[round]]. Si elle rate son test de 5 ou plus, elle tombe [[à terre]].]]></raw>
+  <fullName>Pathfinder-RPG.Fers (objet)</fullName>
+</wikiPage>

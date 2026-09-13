@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Arme alignée (partagé)</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort inquisiteur 3</category><category>Pathfinder-RPG.Sort prêtre 3</category><category>Pathfinder-RPG.Src Manuel des joueurs - Classes avancées</category></categories>
+  <lastModified>2025-04-04 16:46:17Z</lastModified>
+  <version>11</version>
+  <inLinks><link>Pathfinder-RPG.Arme alignée</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Manuel des joueurs - Classes avancées (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Arme alignée</link><link>Pathfinder-RPG.Alignement</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.arme naturelle</link><link>Pathfinder-RPG.Registre</link></outLinks>
+  <body><![CDATA[&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Ce sort intitul&#233; officiellement &lt;i&gt;Arme align&#233;e commune&lt;/i&gt; a &#233;t&#233; renomm&#233; par souci d&#39;homog&#233;n&#233;&#239;t&#233; avec la pr&#233;sentation des sorts qui se partagent entre plusieurs armes&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; [voir texte] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 3  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;  
+&lt;b&gt;Effet&lt;/b&gt; arme touch&#233;e ou 50 projectiles devant &#234;tre en contact les uns avec les autres au moment de l’incantation  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (voir description)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;, objet) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; Oui (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;, objet)
+&lt;hr&gt;
+Ce sort fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Align&#233;e.html&quot; title=&quot;Arme align&#233;e&quot;&gt;arme align&#233;e&lt;/a&gt;&lt;/i&gt;, &#224; la seule diff&#233;rence que le personnage divise la dur&#233;e entre toutes les armes touch&#233;es par incr&#233;ment de 1 minute. Chaque groupe de 50 projectiles au maximum (qui doivent &#234;tre regroup&#233;s au moment du lancement) compte comme une arme pour la division de la dur&#233;e du sort.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;
+&lt;h1 class=&quot;separator&quot;&gt;Arme align&#233;e&lt;a class=&quot;headeranchor&quot; id=&quot;Arme_align&#233;e_0&quot; href=&quot;#Arme_align&#233;e_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; [voir texte] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 2  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;contact&lt;/a&gt;  
+&lt;b&gt;Effet&lt;/b&gt; arme touch&#233;e ou 50 projectiles devant &#234;tre en contact les uns avec les autres au moment de l’incantation  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;, objet) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; Oui (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;inoffensif&lt;/a&gt;, objet)
+&lt;hr&gt;
+Ce sort rend une arme Bonne, Chaotique, Loyale ou Mauvaise, au choix du &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;. Une arme dot&#233;e d’un &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; ne tient pas compte de la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;duction des d&#233;g&#226;ts&lt;/a&gt; de certaines cr&#233;atures, g&#233;n&#233;ralement les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieurs&lt;/a&gt; d’&lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt; oppos&#233;. Ce sort n’a aucun effet s’il est jet&#233; sur une arme d&#233;j&#224; dot&#233;e d’un &lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;alignement&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Il est impossible de jeter ce sort sur une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Attaquenaturelle.html&quot; title=&quot;arme naturelle&quot;&gt;arme naturelle&lt;/a&gt;, comme des poings. Quand le &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; rend une arme Bonne, Chaotique, Loyale ou Mauvaise, le sort est respectivement consid&#233;r&#233; comme &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;Bon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;Chaotique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;Loyal&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;Mauvais&lt;/a&gt;.
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:MCA}{s:Desambi|Ce sort intitulé officiellement ''Arme alignée commune'' a été renommé par souci d'homogénéïté avec la présentation des sorts qui se partagent entre plusieurs armes}'''École''' [[Transmutation]] <nowiki>[voir texte]</nowiki> ; '''Niveau''' [[Inquisiteur|Inq]] 3, [[Prêtre|Prê]] 3  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[COMPOSANTES|V, G, FD]]  
+'''Portée''' [[présentation des sorts#PORTEE|contact]]  
+'''Effet''' arme touchée ou 50 projectiles devant être en contact les uns avec les autres au moment de l’incantation  
+'''Durée''' 1 minute/[[niveau]] (voir description)  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; '''Résistance à la magie''' Oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
+<hr>
+Ce sort fonctionne comme ''[[arme alignée]]'', à la seule différence que le personnage divise la durée entre toutes les armes touchées par incrément de 1 minute. Chaque groupe de 50 projectiles au maximum (qui doivent être regroupés au moment du lancement) compte comme une arme pour la division de la durée du sort.
+
+
+
+(((
+==Arme alignée==
+'''École''' [[Transmutation]] <nowiki>[voir texte]</nowiki> ; '''Niveau''' [[inquisiteur|Inq]] 2, [[prêtre|Prê]] 2  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[COMPOSANTES|V, G, FD]]  
+'''Portée''' [[présentation des sorts#PORTEE|contact]]  
+'''Effet''' arme touchée ou 50 projectiles devant être en contact les uns avec les autres au moment de l’incantation  
+'''Durée''' 1 minute/[[niveau]]  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; '''Résistance à la magie''' Oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
+<hr>
+Ce sort rend une arme Bonne, Chaotique, Loyale ou Mauvaise, au choix du [[prêtre]]. Une arme dotée d’un [[alignement]] ne tient pas compte de la [[RD|réduction des dégâts]] de certaines créatures, généralement les [[type Extérieur|Extérieurs]] d’[[alignement]] opposé. Ce sort n’a aucun effet s’il est jeté sur une arme déjà dotée d’un [[alignement]].
+
+Il est impossible de jeter ce sort sur une [[arme naturelle]], comme des poings. Quand le [[prêtre]] rend une arme Bonne, Chaotique, Loyale ou Mauvaise, le sort est respectivement considéré comme [[registre|Bon]], [[registre|Chaotique]], [[registre|Loyal]] ou [[registre|Mauvais]].
+)))]]></raw>
+  <fullName>Pathfinder-RPG.Arme alignée (partagé)</fullName>
+</wikiPage>

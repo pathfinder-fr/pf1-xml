@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Changelin</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2017-05-12 23:24:04Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.changelin (race)</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Temp-bestiaire4</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type changelin</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Hypnose</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.Fatigue</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Préparation de potions</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.changelin (race)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Changelin&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4&lt;/i&gt; p.28
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Changelin (f), sorci&#232;re 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Changelin.html&quot; title=&quot;Changelin (sous-type)&quot;&gt;changelin&lt;/a&gt;) de taille M, LN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt;  10, contact 9, pris au d&#233;pourvu 10 (Dex -1, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 8 (1d6+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; -1, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; griffes x2 +0 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; mal&#233;fices (chaudron)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts de sorci&#232;re pr&#233;par&#233;s&lt;/b&gt; (NLS 1 ; concentration +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (2/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnose.html&quot; title=&quot;Hypnose&quot;&gt;hypnose&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil.html&quot; title=&quot;Sommeil&quot;&gt;sommeil&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fatigue.html&quot; title=&quot;Fatigue&quot;&gt;fatigue&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement.html&quot; title=&quot;H&#233;b&#233;tement&quot;&gt;h&#233;b&#233;tement&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Protecteur&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Protecteurs.html&quot; title=&quot;Les protecteurs de la sorci&#232;re&quot;&gt;transformation&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; +0, &lt;b&gt;DMD&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;paration-De-Potions.html&quot; title=&quot;Pr&#233;paration de potions&quot;&gt;Pr&#233;paration de potions&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;re) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, draconique, elfe, orque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; familier de sorci&#232;re (araign&#233;e), imposante
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement (b&#226;ton, sacoche &#224; composantes, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;center&gt;&lt;img src=&quot;/wiki/public/upload/Bestiaire/Changeling02.jpg&quot; width=&quot;95%&quot; style=&quot;float: none; margin: 5px;&quot;/&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;br /&gt;&lt;br /&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;La peau de cette mince jeune femme est d’une p&#226;leur inhabituelle. Elle a
+des cheveux noirs de jais et des yeux vairons.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Enfants &#224; l’origine myst&#233;rieuse &#233;lev&#233;es par des parents adoptifs involontaires, les
+changelins sont les rejetons des guenaudes et
+de leurs amants dup&#233;s. La plupart des changelins
+ignorent leurs origines monstrueuses mais
+toutes finissent par ressentir l’appel de leur sang qui
+les plonge en pleine confusion et les pousse &#224; atteindre
+un objectif qu’elles n’arrivent pas &#224; d&#233;finir. Quand
+une guenaude, peu importe son esp&#232;ce, con&#231;oit un
+enfant avec un homme, elle enfante une changelin. Le parent
+masculin se fait g&#233;n&#233;ralement tuer et d&#233;vorer par la guenaude
+avant d’avoir vu sa fille.
+Les changelins sont toujours de sexe f&#233;minin et presque invariablement
+grandes et minces. Elles ont de longs cheveux sombres
+et une peau d’une p&#226;leur inhabituelle mais, en dehors de cela,
+elles ressemblent tout &#224; fait aux membres normaux de la race
+de leur p&#232;re. Elles ont souvent (mais pas toujours) les yeux vairons,
+chacun d’une couleur fr&#233;quente chez la race paternelle. Une
+changelin n&#233;e d’un p&#232;re humain mesure un m&#232;tre soixante-dix
+pour cinquante-cinq kilos une fois adolescente ou adulte.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Les Changelins en tant que PJ&lt;a class=&quot;headeranchor&quot; id=&quot;Les_Changelins_en_tant_que_PJ_0&quot; href=&quot;#Les_Changelins_en_tant_que_PJ_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les changelins sont d&#233;finies par leur niveau de classe, elles ne poss&#232;dent pas de DV raciaux. Elles poss&#232;dent toutes les traits raciaux suivants.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;–2 Constitution, +2 Sagesse, +2 Charisme.&lt;/b&gt; Les changelins sont fr&#234;les mais elles sont sens&#233;es et agr&#233;ables.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Traits de guenaude.&lt;/b&gt; La changelin poss&#232;de l’un des traits suivants, en fonction de l’esp&#232;ce de sa m&#232;re.&lt;ul&gt;&lt;li&gt;&lt;i&gt;Imposante (guenaude annis).&lt;/i&gt; La changelin gagne un bonus racial de +1 aux jets de d&#233;g&#226;ts au corps &#224; corps.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Veuve verte (guenaude verte).&lt;/i&gt; La changelin gagne un bonus racial de +2 aux tests de Bluff envers les cr&#233;atures sexuellement attir&#233;es par elle.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Souffle de la mer (guenaude marine)&lt;/i&gt;. La changelin peut retenir sa respiration pendant un nombre de rounds &#233;gal &#224; 3 &#215; sa valeur de Constitution avant de risquer la noyade.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Griffes.&lt;/b&gt; Les mains et les ongles de la changelin sont tr&#232;s solides et ac&#233;r&#233;s, ce qui lui donne deux attaques de griffe infligeant chacune 1d4 points de d&#233;g&#226;ts.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Armure naturelle.&lt;/b&gt; Les changelins ont un bonus d’armure naturelle de +1.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vision dans le noir.&lt;/b&gt; Les changelins voient dans le noir jusqu’&#224; 18 m&#232;tres.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues.&lt;/b&gt; Les changelins commencent le jeu en parlant le commun et la langue principale de leur soci&#233;t&#233; adoptive. Celles qui poss&#232;dent une valeur d’Intelligence &#233;lev&#233;e peuvent choisir leurs langues suppl&#233;mentaires parmi les suivantes : aklo, draconique, elfe, g&#233;ant, gnoll, gobelin, nain et orque.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;div class=&quot;voiraussi&quot;&gt;
+&lt;h4&gt;Voir aussi&lt;/h4&gt;La page de la race &lt;a class=&quot;pagelink&quot; href=&quot;Changelin-(Race).html&quot; title=&quot;Les changelins&quot;&gt;Changelin&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Changelin|FP 1/2}
+{s:pucem|Humanoïde|Ruines-donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 4'' p.28}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|Changelin (f), sorcière 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type changelin|changelin]]) de taille M, LN}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA'''  10, contact 9, pris au dépourvu 10 (Dex -1, naturelle +1)}
+{s:BDTexte|'''pv''' 8 (1d6+2)}
+{s:BDTexte|'''Réf''' -1, '''Vig''' +1, '''Vol''' +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' griffes x2 +0 (1d4+1)}
+{s:BDTexte|'''Attaques spéciales''' maléfices (chaudron)}
+{s:BDTexte|'''Sorts de sorcière préparés''' (NLS 1 ; concentration +3)}
+{s:BDSorts|1<sup>er</sup> (2/jour) — ''[[hypnose]]'' ([[DD]] 14), ''[[sommeil]]'' ([[DD]] 14)}
+{s:BDSorts|0 (à volonté) — ''[[fatigue]]'' ([[DD]] 13), ''[[hébétement]]'' ([[DD]] 13), ''[[lumière]]''}
+{s:BDTexte|'''Protecteur''' [[protecteurs|transformation]]}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 8, '''Con''' 12, '''Int''' 15, '''Sag''' 14, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +0, '''BMO''' +0, '''DMD''' 9}
+{s:BDTexte|'''Dons''' [[Magie de guerre]], [[Préparation de potions]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +6, [[Artisanat]] (alchimie) +10, [[Connaissances]] (mystère) +6, [[Premiers secours]] +6}
+{s:BDTexte|'''Langues''' commun, draconique, elfe, orque}
+{s:BDTexte|'''Particularités''' familier de sorcière (araignée), imposante}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' équipement (bâton, sacoche à composantes, autres trésors)}
+</div>
+
+{s:ImageCentre|Bestiaire/Changeling02.jpg|95%}
+
+</td>
+
+<td><div>
+''La peau de cette mince jeune femme est d’une pâleur inhabituelle. Elle a
+des cheveux noirs de jais et des yeux vairons.''
+
+Enfants à l’origine mystérieuse élevées par des parents adoptifs involontaires, les
+changelins sont les rejetons des guenaudes et
+de leurs amants dupés. La plupart des changelins
+ignorent leurs origines monstrueuses mais
+toutes finissent par ressentir l’appel de leur sang qui
+les plonge en pleine confusion et les pousse à atteindre
+un objectif qu’elles n’arrivent pas à définir. Quand
+une guenaude, peu importe son espèce, conçoit un
+enfant avec un homme, elle enfante une changelin. Le parent
+masculin se fait généralement tuer et dévorer par la guenaude
+avant d’avoir vu sa fille.
+Les changelins sont toujours de sexe féminin et presque invariablement
+grandes et minces. Elles ont de longs cheveux sombres
+et une peau d’une pâleur inhabituelle mais, en dehors de cela,
+elles ressemblent tout à fait aux membres normaux de la race
+de leur père. Elles ont souvent (mais pas toujours) les yeux vairons,
+chacun d’une couleur fréquente chez la race paternelle. Une
+changelin née d’un père humain mesure un mètre soixante-dix
+pour cinquante-cinq kilos une fois adolescente ou adulte.
+
+====Les Changelins en tant que PJ====
+Les changelins sont définies par leur niveau de classe, elles ne possèdent pas de DV raciaux. Elles possèdent toutes les traits raciaux suivants.
+* '''–2 Constitution, +2 Sagesse, +2 Charisme.''' Les changelins sont frêles mais elles sont sensées et agréables.
+* '''Traits de guenaude.''' La changelin possède l’un des traits suivants, en fonction de l’espèce de sa mère.
+** ''Imposante (guenaude annis).'' La changelin gagne un bonus racial de +1 aux jets de dégâts au corps à corps.
+** ''Veuve verte (guenaude verte).'' La changelin gagne un bonus racial de +2 aux tests de Bluff envers les créatures sexuellement attirées par elle.
+** ''Souffle de la mer (guenaude marine)''. La changelin peut retenir sa respiration pendant un nombre de rounds égal à 3 × sa valeur de Constitution avant de risquer la noyade.
+* '''Griffes.''' Les mains et les ongles de la changelin sont très solides et acérés, ce qui lui donne deux attaques de griffe infligeant chacune 1d4 points de dégâts.
+* '''Armure naturelle.''' Les changelins ont un bonus d’armure naturelle de +1.
+* '''Vision dans le noir.''' Les changelins voient dans le noir jusqu’à 18 mètres.
+* '''Langues.''' Les changelins commencent le jeu en parlant le commun et la langue principale de leur société adoptive. Celles qui possèdent une valeur d’Intelligence élevée peuvent choisir leurs langues supplémentaires parmi les suivantes : aklo, draconique, elfe, géant, gnoll, gobelin, nain et orque.
+
+{s:VoirAussiAvant}La page de la race [[Changelin (race)|Changelin]]{s:VoirAussiAprès}
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Changelin</fullName>
+</wikiPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Lâcher de munition</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don combat</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2020-07-25 18:39:27Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Descriptions individuelles des armes</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.dons raciaux</link><link>Pathfinder-RPG.double fronde (arme)</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Rechargement acrobatique</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.fronde (arme)</link><link>Pathfinder-RPG.double fronde (arme)</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Halfelin</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Halfelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Halfelin.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;halfelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;La coordination du halfelin est si parfaite qu’il peut tout simplement l&#226;cher une munition au bon moment afin qu’elle tombe dans la fronde ouverte tandis qu’il la fait tournoyer.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCOMBAT&quot; title=&quot;Les dons&quot;&gt;combat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; 1 rang en &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt;, maniement de la &lt;a class=&quot;pagelink&quot; href=&quot;Fronde-(Arme).html&quot; title=&quot;Fronde&quot;&gt;fronde&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Le halfelin peut charger une &lt;a class=&quot;pagelink&quot; href=&quot;Fronde-(Arme).html&quot; title=&quot;Fronde&quot;&gt;fronde&lt;/a&gt; ou une extr&#233;mit&#233; de &lt;a class=&quot;pagelink&quot; href=&quot;Double-Fronde-(Arme).html&quot; title=&quot;Double fronde&quot;&gt;double fronde&lt;/a&gt; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt; ou par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;. Ceci ne provoque pas d’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}''La coordination du halfelin est si parfaite qu’il peut tout simplement lâcher une munition au bon moment afin qu’elle tombe dans la fronde ouverte tandis qu’il la fait tournoyer.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' 1 rang en [[Escamotage]], maniement de la [[fronde (arme)|fronde]]
+
+'''Avantage.''' Le halfelin peut charger une [[fronde (arme)|fronde]] ou une extrémité de [[double fronde (arme)|double fronde]] par une [[action rapide]] ou par une [[action de mouvement]]. Ceci ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]].]]></raw>
+  <fullName>Pathfinder-RPG.Lâcher de munition</fullName>
+</wikiPage>

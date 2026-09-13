@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Trousse de tueur de vampires</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 14:53:43Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dhampir (race)</link><link>Pathfinder-RPG.Trousses déquipement</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Trousses déquipement</link><link>Pathfinder-RPG.Vampire</link><link>Pathfinder-RPG.pieu de bois (arme)</link><link>Pathfinder-RPG.arme de maître</link><link>Pathfinder-RPG.Marteau (objet)</link><link>Pathfinder-RPG.Miroir (objet)</link><link>Pathfinder-RPG.Eau bénite (objet)</link><link>Pathfinder-RPG.Lustrargent</link><link>Pathfinder-RPG.Symbole sacré (objet)</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Dhampir (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Dhampir.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Dhampir (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Dhampir.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Dhampir-(Race).html&quot; title=&quot;Les dhampirs&quot;&gt;dhampirs&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 500 po ; &lt;b&gt;Poids&lt;/b&gt; 4 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Trousses-D&#233;quipement.html&quot; title=&quot;Trousses d&amp;#39;&#233;quipement&quot;&gt;Trousses d&#39;&#233;quipement&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette petite mallette en bois verrouill&#233;e contient de nombreux outils et appareils utilis&#233;s par les chasseurs et tueurs de &lt;a class=&quot;pagelink&quot; href=&quot;Vampire.html&quot; title=&quot;Vampire&quot;&gt;vampires&lt;/a&gt;. Elle contient 10 gousses d&#39;ail, 4 &lt;a class=&quot;pagelink&quot; href=&quot;Pieu-De-Bois-(Arme).html&quot; title=&quot;Pieu de bois&quot;&gt;pieux de bois&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armesmaitre.html&quot; title=&quot;arme de ma&#238;tre&quot;&gt;de ma&#238;tre&lt;/a&gt;, un &lt;a class=&quot;pagelink&quot; href=&quot;Marteau-(Objet).html&quot; title=&quot;Marteau&quot;&gt;marteau&lt;/a&gt;, un &lt;a class=&quot;pagelink&quot; href=&quot;Miroir-(Objet).html&quot; title=&quot;Miroir&quot;&gt;miroir&lt;/a&gt; en argent, 4 fioles d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Eau-B&#233;nite-(Objet).html&quot; title=&quot;Eau b&#233;nite&quot;&gt;eau b&#233;nite&lt;/a&gt;, une application de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lustrargent.html&quot; title=&quot;Lustrargent&quot;&gt;lustrargent&lt;/a&gt;&lt;/i&gt; et un &lt;a class=&quot;pagelink&quot; href=&quot;Symbole-Sacr&#233;-(Objet).html&quot; title=&quot;Symbole sacr&#233;&quot;&gt;symbole sacr&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html#OBJETMAITRE&quot; title=&quot;Artisanat&quot;&gt;de ma&#238;tre&lt;/a&gt;. Elle contient &#233;galement de nombreux agents r&#233;actifs et des poudres pour traiter les blessures et cr&#233;er des enchantements de protection, des baumes et autres concoctions. En plus de son utilit&#233; g&#233;n&#233;rale, la trousse de tueur de vampires d&#233;ploy&#233;e accorde un bonus de +2 &#224; tous les tests de comp&#233;tences bas&#233;es sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; pour enqu&#234;ter sur les vampires ou les traquer.
+]]></body>
+  <raw><![CDATA[{s:racial|Dhampir (race)|dhampirs|Illustrations/PNJ/Dhampir.jpg}{s:MR}'''Prix''' 500 po ; '''Poids''' 4 kg  
+<span class="Catégorie">'''Catégorie''' [[Trousses déquipement|Trousses d'équipement]]</span>
+<hr>
+Cette petite mallette en bois verrouillée contient de nombreux outils et appareils utilisés par les chasseurs et tueurs de [[Vampire|vampires]]. Elle contient 10 gousses d'ail, 4 [[Pieu de bois (arme)|pieux de bois]] [[arme de maître|de maître]], un [[Marteau (objet)|marteau]], un [[Miroir (objet)|miroir]] en argent, 4 fioles d'[[Eau bénite (objet)|eau bénite]], une application de ''[[lustrargent]]'' et un [[Symbole sacré (objet)|symbole sacré]] [[Artisanat#OBJETMAITRE|de maître]]. Elle contient également de nombreux agents réactifs et des poudres pour traiter les blessures et créer des enchantements de protection, des baumes et autres concoctions. En plus de son utilité générale, la trousse de tueur de vampires déployée accorde un bonus de +2 à tous les tests de compétences basées sur le [[Charisme]] pour enquêter sur les vampires ou les traquer.]]></raw>
+  <fullName>Pathfinder-RPG.Trousse de tueur de vampires (objet)</fullName>
+</wikiPage>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cristal blafard</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-31 16:13:22Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux portés autour du cou</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Objets merveilleux portés autour du cou</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Urgathoa (technique)</link><link>Pathfinder-RPG.Mise à mort</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Blessure légère</link><link>Pathfinder-RPG.Purification de nourriture et deau</link><link>Pathfinder-RPG.Urgathoa (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fUrgathoa.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Urgathoa (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fUrgathoa.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Urgathoa-(Technique).html&quot; title=&quot;Urgathoa&quot;&gt;Urgathoa&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cristal blafard&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; l&#233;g&#232;re ; &lt;b&gt;NLS&lt;/b&gt; 3 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Autour-Du-Cou.html&quot; title=&quot;Objets merveilleux port&#233;s autour du cou&quot;&gt;cou&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 3 300 po ; &lt;b&gt;Poids&lt;/b&gt; —
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ce cristal grand comme un doigt est d’un rose p&#226;le opaque lorsqu’il est port&#233; par une cr&#233;ature vivante, mais il tourne lentement au violet profond translucide lorsque c’est un mort-vivant qui le porte. Le personnage peut manger de la nourriture avari&#233;e et boire de l’eau croupie comme si elles &#233;taient fra&#238;ches et saines, dont le go&#251;t est celui qu’elles avaient avant d’&#234;tre g&#226;t&#233;es. Quiconque poss&#232;de la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (cuisinier) peut utiliser le cristal pour donner &#224; un plat le go&#251;t du sal&#233;, du sucr&#233;, de la cannelle, du gingembre ou du poivre (ou les &#233;pices &#233;quivalentes pour le palais d’un mort-vivant : souffle de terreur, tormentille, &#233;corce de thileu ou volute de haine).&lt;br /&gt;&lt;br /&gt;Si le personnage est un suivant d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Urgathoa-(Technique).html&quot; title=&quot;Urgathoa&quot;&gt;Urgathoa&lt;/a&gt;, il peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt;&lt;/i&gt; une fois par jour. Les sorts de soins et de blessure soignent le personnage de la m&#234;me mani&#232;re, qu’il soit mort ou vivant ; le cristal luit d’une &#233;nergie noire ou blanche lorsqu’il convertit cette &#233;nergie en une forme inoffensive pour lui. Le cristal n’a aucun effet sur d’autres utilisations de l’&#233;nergie positive ou n&#233;gative et agit seulement sur les sorts de soins et de blessure (ou les effets qui r&#233;pliquent ces sorts).
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-L&#233;g&#232;re.html&quot; title=&quot;Blessure l&#233;g&#232;re&quot;&gt;blessure l&#233;g&#232;re&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Purification-De-Nourriture-Et-Deau.html&quot; title=&quot;Purification de nourriture et d&amp;#39;eau&quot;&gt;purification de nourriture et d’eau&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 650 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Urgathoa|%2fPCUP%2fReligion-PNG%2fUrgathoa.png}<div class="BD">
+{s:BDTitre|Cristal blafard|{s:ISG}{s:GeM}}
+'''Aura''' [[Nécromancie]] légère ; '''NLS''' 3 ; '''Emplacement''' [[Objets merveilleux portés autour du cou|cou]] ; '''Prix''' 3 300 po ; '''Poids''' —
+(((Description)))
+Ce cristal grand comme un doigt est d’un rose pâle opaque lorsqu’il est porté par une créature vivante, mais il tourne lentement au violet profond translucide lorsque c’est un mort-vivant qui le porte. Le personnage peut manger de la nourriture avariée et boire de l’eau croupie comme si elles étaient fraîches et saines, dont le goût est celui qu’elles avaient avant d’être gâtées. Quiconque possède la compétence [[Profession]] (cuisinier) peut utiliser le cristal pour donner à un plat le goût du salé, du sucré, de la cannelle, du gingembre ou du poivre (ou les épices équivalentes pour le palais d’un mort-vivant : souffle de terreur, tormentille, écorce de thileu ou volute de haine).
+
+Si le personnage est un suivant d'[[Urgathoa (technique)|Urgathoa]], il peut utiliser ''[[mise à mort]]'' une fois par jour. Les sorts de soins et de blessure soignent le personnage de la même manière, qu’il soit mort ou vivant ; le cristal luit d’une énergie noire ou blanche lorsqu’il convertit cette énergie en une forme inoffensive pour lui. Le cristal n’a aucun effet sur d’autres utilisations de l’énergie positive ou négative et agit seulement sur les sorts de soins et de blessure (ou les effets qui répliquent ces sorts).
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[soins légers]]'', ''[[mise à mort]]'', ''[[blessure légère]]'', ''[[purification de nourriture et deau|purification de nourriture et d’eau]]'' ; '''Coût''' 1 650 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Cristal blafard</fullName>
+</wikiPage>

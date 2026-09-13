@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Déchaînement de débris</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 3</category><category>Pathfinder-RPG.Sort druide 3</category><category>Pathfinder-RPG.Sort magicien 3</category><category>Pathfinder-RPG.Sort prêtre 3</category><category>Pathfinder-RPG.Sort sanguin 3</category><category>Pathfinder-RPG.Sort sorcière 3</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2022-06-12 13:56:11Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts dassassin des mantes rouges</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de sanguin</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts du Manuel des Races</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Oréade (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Créer un sort</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Résistance à la magie (capacité)</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Petites et grandes créatures</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Sous-types de créatures</link><link>Pathfinder-RPG.Oréade (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Or&#233;ade.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Or&#233;ade (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Or&#233;ade.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Or&#233;ade-(Race).html&quot; title=&quot;Les or&#233;ades&quot;&gt;or&#233;ades&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt;  [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#TERRE&quot; title=&quot;Cr&#233;er un sort&quot;&gt;terre&lt;/a&gt;] ;
+ &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;San&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor&lt;/a&gt; 3&lt;/br&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#PORTEE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;courte&lt;/a&gt; (7,5 m + 1,5 m/2 niveau)&lt;br/&gt;
+&lt;b&gt;Effet&lt;/b&gt; une nu&#233;e de pierres&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; + 2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la magie (Ext)&quot;&gt;Oui&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Le lanceur de sorts anime une zone de d&#233;bris, de graviers ou autres
+petits cailloux, et cr&#233;e une zone dangereuse de d&#233;bris d&#233;ferlant. Les
+d&#233;bris anim&#233;s occupent un espace de 3 m&#232;tres de c&#244;t&#233; et agissent
+comme une &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;, blessant (1d6 points de vie) et distrayant (DD 12)
+tout ce qui s’y trouve. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;, le lanceur peut
+diriger les d&#233;bris, les d&#233;pla&#231;ant de 3 m&#232;tres maximum. Si les d&#233;bris
+sont attaqu&#233;s, ils sont consid&#233;r&#233;s comme un objet anim&#233; de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html#TABLEAUDESTAILLES&quot; title=&quot;Cr&#233;atures de taille inf&#233;rieure ou sup&#233;rieure &#224; la moyenne&quot;&gt;taille M&lt;/a&gt;
+ayant l’&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;Les arch&#233;types&quot;&gt;arch&#233;type&lt;/a&gt; simple &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREJEUNE&quot; title=&quot;Les arch&#233;types&quot;&gt;jeune cr&#233;ature&lt;/a&gt; et le &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Types-De-Cr&#233;atures.html&quot; title=&quot;Les sous-types de cr&#233;atures&quot;&gt;sous-type&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Oréade (race)|oréades|Illustrations/PNJ/Oréade.jpg}{s:MR}
+'''École''' [[Transmutation]]  <nowiki>[</nowiki>[[Créer un sort#TERRE|terre]]<nowiki>]</nowiki> ;
+ '''Niveau''' [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3</br>
+'''Temps d'incantation''' 1 [[round]]<br/>
+'''Composantes''' [[composantes|V, G, FD]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|courte]] (7,5 m + 1,5 m/2 niveau)<br/>
+'''Effet''' une nuée de pierres<br/>
+'''Durée''' [[concentration]] + 2 [[round|rounds]]<br/>
+'''Jet de sauvegarde''' [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; '''Résistance à la magie''' [[Résistance à la magie (capacité)|Oui]]
+
+Le lanceur de sorts anime une zone de débris, de graviers ou autres
+petits cailloux, et crée une zone dangereuse de débris déferlant. Les
+débris animés occupent un espace de 3 mètres de côté et agissent
+comme une [[sous-type nuée|nuée]], blessant (1d6 points de vie) et distrayant (DD 12)
+tout ce qui s’y trouve. Par une [[action de mouvement]], le lanceur peut
+diriger les débris, les déplaçant de 3 mètres maximum. Si les débris
+sont attaqués, ils sont considérés comme un objet animé de [[Petites et grandes créatures#TABLEAUDESTAILLES|taille M]]
+ayant l’[[Archétypes|archétype]] simple [[Archétypes#CREATUREJEUNE|jeune créature]] et le [[Sous-types de créatures|sous-type]] [[sous-type nuée|nuée]].]]></raw>
+  <fullName>Pathfinder-RPG.Déchaînement de débris</fullName>
+</wikiPage>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sceau de poussière</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 6</category><category>Pathfinder-RPG.Sort prêtre 6</category><category>Pathfinder-RPG.Sort sorcière 6</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2020-10-03 16:25:28Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Bandeau de contrôle de la vermine</link><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.duergar (race)</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Types de créatures</link><link>Pathfinder-RPG.Miracle</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.duergar (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Duergar.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Duergar (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Duergar.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Duergar-(Race).html&quot; title=&quot;Les duergars&quot;&gt;duergars&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 6, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 6, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor&lt;/a&gt; 6  
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 10 minutes  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une pinc&#233;e de pierre ponce)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact  
+&lt;b&gt;Cible&lt;/b&gt; un objet magique  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; permanente  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage prot&#232;ge un objet magique contre les autres cr&#233;atures qui voudraient l’utiliser ou le copier. Quand il lance le sort, il d&#233;signe un &lt;a class=&quot;pagelink&quot; href=&quot;Types-De-Cr&#233;atures.html&quot; title=&quot;Les types et sous type de cr&#233;atures&quot;&gt;type de cr&#233;ature&lt;/a&gt;, un sous-type ou m&#234;me un individu sp&#233;cifique. Si une cr&#233;ature ne correspondant pas au param&#232;tre choisi porte ou transporte l’objet pendant plus d’une heure, le sceau de poussi&#232;re r&#233;duit l’objet en poussi&#232;re grise sans valeur. Cela se produit &#233;galement si la cr&#233;ature tente d’&#233;tudier l’objet pour d&#233;couvrir ses propri&#233;t&#233;s ou pour savoir comment le fabriquer par magie (un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Miracle.html&quot; title=&quot;Miracle&quot;&gt;miracle&lt;/a&gt;&lt;/i&gt; ou de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;&lt;/i&gt; lanc&#233; sur la poussi&#232;re r&#233;v&#232;le tout de m&#234;me ces informations). La destruction de l’objet ne blesse pas la cr&#233;ature qui le porte ou le transporte (cependant, cela peut la mettre en danger, par exemple si l’objet magique est une corde qui se r&#233;duit en poussi&#232;re alors que la cr&#233;ature s’en sert pour traverser un gouffre). Si la cr&#233;ature non habilit&#233;e &#224; utiliser l’objet le porte ou le transporte pendant moins d’une heure et le remet &#224; une autre cr&#233;ature, le compte &#224; rebours avant destruction reprend &#224; 0. Le sort ne peut pas affecter un objet magique poss&#233;dant un &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sort&lt;/a&gt; sup&#233;rieur &#224; la moiti&#233; de celui du mage &#224; l’origine du sort.
+]]></body>
+  <raw><![CDATA[{s:racial|Duergar (race)|duergars|Illustrations/PNJ/Duergar.jpg}{s:CM}'''École''' [[Abjuration]] ; '''Niveau''' [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[prêtre|Prê]] 6, [[sorcière|Sor]] 6  
+'''Temps d’incantation''' 10 minutes  
+'''Composantes''' [[composantes|V, G, M]] (une pincée de pierre ponce)  
+'''Portée''' contact  
+'''Cible''' un objet magique  
+'''Durée''' permanente  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Le personnage protège un objet magique contre les autres créatures qui voudraient l’utiliser ou le copier. Quand il lance le sort, il désigne un [[Types de créatures|type de créature]], un sous-type ou même un individu spécifique. Si une créature ne correspondant pas au paramètre choisi porte ou transporte l’objet pendant plus d’une heure, le sceau de poussière réduit l’objet en poussière grise sans valeur. Cela se produit également si la créature tente d’étudier l’objet pour découvrir ses propriétés ou pour savoir comment le fabriquer par magie (un sort de ''[[miracle]]'' ou de ''[[souhait]]'' lancé sur la poussière révèle tout de même ces informations). La destruction de l’objet ne blesse pas la créature qui le porte ou le transporte (cependant, cela peut la mettre en danger, par exemple si l’objet magique est une corde qui se réduit en poussière alors que la créature s’en sert pour traverser un gouffre). Si la créature non habilitée à utiliser l’objet le porte ou le transporte pendant moins d’une heure et le remet à une autre créature, le compte à rebours avant destruction reprend à 0. Le sort ne peut pas affecter un objet magique possédant un [[NLS|niveau de lanceur de sort]] supérieur à la moitié de celui du mage à l’origine du sort.]]></raw>
+  <fullName>Pathfinder-RPG.Sceau de poussière</fullName>
+</wikiPage>

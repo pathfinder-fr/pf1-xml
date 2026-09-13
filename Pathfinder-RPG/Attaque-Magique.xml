@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Attaque magique</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs - Règles avancées</category></categories>
+  <lastModified>2024-07-13 17:58:01Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Attaque magique</link><link>Pathfinder-RPG.Attaque magique (mythique)</link><link>Pathfinder-RPG.Bandeau dÉnergie Magique</link><link>Pathfinder-RPG.Campagnes mythiques (Contenu)</link><link>Pathfinder-RPG.dons de magie divers</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs - Règles avancées</link><link>Pathfinder-RPG.Glossaire des dons</link><link>Pathfinder-RPG.Manuel des joueurs - Règles avancées (Contenu)</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons - Temp</link><link>Pathfinder-RPG.Tableau récapitulatif des dons mythiques</link><link>Pathfinder-RPG.TMP Dons APG</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs - Règles avancées</link><link>Pathfinder-RPG.Attaque magique</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.rayon</link><link>Pathfinder-RPG.attaque de contact à distance</link><link>Pathfinder-RPG.Manœuvre offensive</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Charisme</link></outLinks>
+  <body><![CDATA[&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - R&#232;gles avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Player&#39;s Guide/Manuel des joueurs - R&#232;gles avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAPG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Le personnage peut convertir des sorts en attaques magiques.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; Lanceur de sorts profanes, &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 10.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; padding-left: 6px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;&lt;u&gt;Ce texte a &#233;t&#233; modifi&#233; suite &#224; la FAQ suivante :&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs---R&#232;gles-Avanc&#233;es.html#60&quot; title=&quot;FAQ du Manuel des joueurs - R&#232;gles avanc&#233;es&quot;&gt;→&lt;/a&gt; Attaque magique : Utiliser ce don (page 156) est-il consid&#233;r&#233; comme une un pouvoir magique ou une capacit&#233; surnaturelle ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Il s&#39;agit d&#39;une capacit&#233; surnaturelle.  
+Mise &#224; jour : Page 156, ajoutez cette phrase &#224; la fin de la description du don &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Magique.html&quot; title=&quot;Attaque magique&quot;&gt;Attaque magique&lt;/a&gt;&lt;/u&gt; : &#171; Cette attaque est une capacit&#233; surnaturelle. &#187;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:50px; cursor:pointer&quot; src=&quot;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&quot; title=&quot;Cliquez pour afficher/cacher une FAQ officielle relative &#224; ce texte&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqalt1.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&#39;;&quot; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;b&gt;Avantage.&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le personnage peut sacrifier un sort pr&#233;par&#233; (ou un emplacement de sort inutilis&#233;) de niveau sup&#233;rieur ou &#233;gal &#224;&#160;1 et le transformer en un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Rayon.html&quot; title=&quot;rayon&quot;&gt;rayon&lt;/a&gt; ciblant n’importe quel ennemi situ&#233; dans un rayon de 9&#160;m&#232;tres (6 cases) et n&#233;cessitant une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquesdecontact.html&quot; title=&quot;attaque de contact &#224; distance&quot;&gt;attaque de contact &#224; distance&lt;/a&gt;. Cette attaque inflige 2d6&#160;points de d&#233;g&#226;ts plus 1d6&#160;points de d&#233;g&#226;ts par niveau du sort (ou de l’emplacement) sacrifi&#233;. Les sorts de niveau&#160;0 ne peuvent pas &#234;tre sacrifi&#233;s dans le cadre de ce don. Cette attaque est une capacit&#233; surnaturelle.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Campagnes mythiques (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Mythic Adventures, Mythic Origins/Campagnes mythiques&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoCMy.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Version mythique&lt;a class=&quot;headeranchor&quot; id=&quot;Version_mythique_0&quot; href=&quot;#Version_mythique_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;i&gt;Le personnage peut manipuler l’&#233;nergie magique brute pour produire davantage que des d&#233;g&#226;ts.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Condition.&lt;/b&gt; Attaque magique&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Quand il utilise Attaque magique, le personnage peut diminuer de moiti&#233; les d&#233;s de d&#233;g&#226;ts pour accomplir en plus une &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Manoeuvreoffensive.html&quot; title=&quot;Manœuvre offensive&quot;&gt;manœuvre offensive&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt; contre la cible de l’attaque. Il gagne un bonus &#224; ce test de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Manoeuvreoffensive.html&quot; title=&quot;Manœuvre offensive&quot;&gt;manœuvre offensive&lt;/a&gt; &#233;gal &#224; la moiti&#233; du niveau du sort sacrifi&#233; pour lancer Attaque magique et peut remplacer son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; par son modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; pour d&#233;terminer le bonus dont il b&#233;n&#233;ficie pour effectuer cette &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Manoeuvreoffensive.html&quot; title=&quot;Manœuvre offensive&quot;&gt;manœuvre offensive&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:apg}''Le personnage peut convertir des sorts en attaques magiques.''
+
+'''Conditions.''' Lanceur de sorts profanes, [[NLS]] 10.
+
+{s:FAQ|'''''__Ce texte a été modifié suite à la FAQ suivante :__
+
+[[FAQ- Manuel des joueurs - Règles avancées#60|→]] Attaque magique : Utiliser ce don (page 156) est-il considéré comme une un pouvoir magique ou une capacité surnaturelle ?'''''
+
+Il s'agit d'une capacité surnaturelle.  
+Mise à jour : Page 156, ajoutez cette phrase à la fin de la description du don __[[Attaque magique]]__ : « Cette attaque est une capacité surnaturelle. »}'''Avantage.''' Par une [[action simple]], le personnage peut sacrifier un sort préparé (ou un emplacement de sort inutilisé) de niveau supérieur ou égal à 1 et le transformer en un [[rayon]] ciblant n’importe quel ennemi situé dans un rayon de 9 mètres (6 cases) et nécessitant une [[attaque de contact à distance]]. Cette attaque inflige 2d6 points de dégâts plus 1d6 points de dégâts par niveau du sort (ou de l’emplacement) sacrifié. Les sorts de niveau 0 ne peuvent pas être sacrifiés dans le cadre de ce don. Cette attaque est une capacité surnaturelle.
+
+{s:CMy}
+===Version mythique===
+''Le personnage peut manipuler l’énergie magique brute pour produire davantage que des dégâts.''
+
+'''Condition.''' Attaque magique
+
+'''Avantage.''' Quand il utilise Attaque magique, le personnage peut diminuer de moitié les dés de dégâts pour accomplir en plus une [[manœuvre offensive]] de [[croc-en-jambe]] ou de [[bousculade]] contre la cible de l’attaque. Il gagne un bonus à ce test de [[manœuvre offensive]] égal à la moitié du niveau du sort sacrifié pour lancer Attaque magique et peut remplacer son modificateur de [[Force]] par son modificateur d’[[Intelligence]] ou de [[Charisme]] pour déterminer le bonus dont il bénéficie pour effectuer cette [[manœuvre offensive]].]]></raw>
+  <fullName>Pathfinder-RPG.Attaque magique</fullName>
+</wikiPage>

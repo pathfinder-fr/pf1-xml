@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fractionnement des soins et des blessures</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 3</category><category>Pathfinder-RPG.Sort magicien 3</category><category>Pathfinder-RPG.Sort prêtre 3</category><category>Pathfinder-RPG.Sort sanguin 3</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:26:53Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts dassassin des mantes rouges</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de sanguin</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Boule de feu</link><link>Pathfinder-RPG.Néthys (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fNethys.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.N&#233;thys (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fNethys.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;N&#233;thys-(Technique).html&quot; title=&quot;N&#233;thys&quot;&gt;N&#233;thys&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;San&lt;/a&gt; 3  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; personnelle  
+&lt;b&gt;Cibles&lt;/b&gt; le lanceur de sorts  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; instantan&#233;e&lt;br /&gt;&lt;br /&gt;Ce sort canalise une partie du prochain sort que le personnage lance en magie gu&#233;risseuse. Le prochain sort instantan&#233; de 3e niveau ou inf&#233;rieur infligeant des d&#233;g&#226;ts de zone que le personnage lance n&#39;inflige que 75 % de ses d&#233;g&#226;ts, mais le soigne d&#39;un montant &#233;gal aux 25 % restants des d&#233;g&#226;ts du sort. Par exemple, s&#39;il lance ce sort puis une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Boule-De-Feu.html&quot; title=&quot;Boule de feu&quot;&gt;boule de feu&lt;/a&gt;&lt;/i&gt; qui devrait normalement infliger 40 points de d&#233;g&#226;ts, la boule de feu inflige 30 points de d&#233;g&#226;ts et lui rend 10 points de vie. Le sort affect&#233; par celui-ci doit &#234;tre lanc&#233; avant la fin du prochain tour du personnage. Ce sort n&#39;a aucun effet sur les sorts qui n&#39;infligent pas de d&#233;g&#226;ts ou sur les sorts d&#39;un niveau sup&#233;rieur au 3e. Cette gu&#233;rison est trait&#233;e comme si le personnage avait &#233;t&#233; affect&#233; par un sort de &#171; soins &#187; ou de &#171; blessure &#187; (selon celui qui le soignerait), et est trait&#233;e comme ayant le m&#234;me niveau de sort que le sort de zone utilis&#233; pour ce qui est des effets li&#233;s au niveau de sort des sorts de &#171; soins &#187; ou de &#171; blessure &#187;.
+]]></body>
+  <raw><![CDATA[{s:divin|Néthys|%2fPCUP%2fReligion-PNG%2fNethys.png}{s:cs}{s:ISG}'''École''' [[Transmutation]] ; '''Niveau''' [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Sanguin|San]] 3  
+'''Temps d'incantation''' 1 [[action rapide]]  
+'''Composantes''' [[composantes|V, G]]  
+'''Portée''' personnelle  
+'''Cibles''' le lanceur de sorts  
+'''Durée''' instantanée
+
+Ce sort canalise une partie du prochain sort que le personnage lance en magie guérisseuse. Le prochain sort instantané de 3e niveau ou inférieur infligeant des dégâts de zone que le personnage lance n'inflige que 75 % de ses dégâts, mais le soigne d'un montant égal aux 25 % restants des dégâts du sort. Par exemple, s'il lance ce sort puis une ''[[boule de feu]]'' qui devrait normalement infliger 40 points de dégâts, la boule de feu inflige 30 points de dégâts et lui rend 10 points de vie. Le sort affecté par celui-ci doit être lancé avant la fin du prochain tour du personnage. Ce sort n'a aucun effet sur les sorts qui n'infligent pas de dégâts ou sur les sorts d'un niveau supérieur au 3e. Cette guérison est traitée comme si le personnage avait été affecté par un sort de « soins » ou de « blessure » (selon celui qui le soignerait), et est traitée comme ayant le même niveau de sort que le sort de zone utilisé pour ce qui est des effets liés au niveau de sort des sorts de « soins » ou de « blessure ».]]></raw>
+  <fullName>Pathfinder-RPG.Fractionnement des soins et des blessures</fullName>
+</wikiPage>

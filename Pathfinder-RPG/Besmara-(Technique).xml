@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Besmara</title>
+  <categories><category>Pathfinder-RPG.Divinité</category></categories>
+  <lastModified>2023-09-07 16:10:30Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bicorne de Besmara</link><link>Pathfinder-RPG.Bicorne de Besmara</link><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Manteau de la banshee des mers</link><link>Pathfinder-RPG.Objets merveilleux portés sur la tête</link><link>Pathfinder-RPG.Traits religieux</link><link>Pathfinder-RPG.Tricorne de Besmara</link><link>Pathfinder-RPG.Tricorne de Besmara</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.rapière (arme)</link><link>Pathfinder-RPG.Domaine du Chaos</link><link>Pathfinder-RPG.Domaine du Climat</link><link>Pathfinder-RPG.Domaine de la Duperie</link><link>Pathfinder-RPG.Domaine de lEau</link><link>Pathfinder-RPG.Domaine de la Guerre</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Familiers</link><link>Pathfinder-RPG.Pieuvre à anneaux bleus</link><link>Pathfinder-RPG.Crabe royal</link><link>Pathfinder-RPG.Singe</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Malédiction de dégoût</link><link>Pathfinder-RPG.Mission</link><link>Pathfinder-RPG.Convocation de monstres II</link><link>Pathfinder-RPG.Griffe du récif</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Convocation de monstres V</link><link>Pathfinder-RPG.Merrow</link><link>Pathfinder-RPG.Convocation de monstres VI</link><link>Pathfinder-RPG.Tylosaure</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fBesmara.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;%2fPCUP%2fReligion-PNG%2fBesmara.png&lt;/i&gt;&quot;); }
+  let align = &quot;Chaotique Neutre&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Besmara,&lt;br/&gt;La Reine Pirate&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fBesmara.png&quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#AUTRES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Autres divinit&#233;s&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Chaotique Neutre&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Conflit, monstres marins et piraterie
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Pirates&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Perroquet
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapi&#232;re-(Arme).html&quot; title=&quot;Rapi&#232;re&quot;&gt;Rapi&#232;re&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Climat.html&quot; title=&quot;Domaine du Climat&quot;&gt;Climat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Duperie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Leau.html&quot; title=&quot;Domaine de l&amp;#39;Eau&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Guerre&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Duels&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Insinuation&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Leau.html&quot; title=&quot;Domaine de l&amp;#39;Eau&quot;&gt;Oc&#233;ans&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;Prot&#233;ens&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Supercherie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Tactique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Climat.html&quot; title=&quot;Domaine du Climat&quot;&gt;Temp&#234;tes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Voleurs&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;pagelink&quot; href=&quot;../Golarion/Besmara.html&quot; title=&quot;Besmara, la Reine-Pirate&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;Besmara, &#233;galement connue sous le nom de Reine Pirate, est une d&#233;esse commun&#233;ment v&#233;n&#233;r&#233;e par les marins des Cha&#238;nes ou d&#39;Ilizmagorti. On dit qu&#39;elle dirige son l&#233;gendaire navire le &lt;i&gt;Spectre des Mers&lt;/i&gt; &#224; travers les mers et les voies navigables du Grand Au-del&#224; (en particulier le Maelstr&#246;m), effectuant des raids sur des lieux tels que l&#39;Enfer, l&#39;&#201;lys&#233;e, Axis et le Paradis. Les pirates ne sont pas tr&#232;s religieux et ne font g&#233;n&#233;ralement appel &#224; elle que sur leur lit de mort ou en cas de danger extr&#234;me. Les quelques pr&#234;tres qui se consacrent &#224; elle sont g&#233;n&#233;ralement aussi les capitaines de leurs propres navires de guerre et jouissent d&#39;une r&#233;putation f&#233;roce. Son symbole est le jolly roger, embl&#232;me universel de la piraterie, normalement une t&#234;te de mort blanche et des os crois&#233;s sur fond noir.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles uniques aux suivants&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_uniques_aux_suivants_0&quot; href=&quot;#R&#232;gles_uniques_aux_suivants_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Capacit&#233;s de classe.&lt;/b&gt;  
+• Les &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; de Besmara peuvent abandonner un domaine afin d&#39;obtenir un &lt;a class=&quot;pagelink&quot; href=&quot;Familiers.html&quot; title=&quot;Les familiers&quot;&gt;familier&lt;/a&gt; oiseau, &lt;a class=&quot;pagelink&quot; href=&quot;Pieuvre-&#192;-Anneaux-Bleus.html&quot; title=&quot;Pieuvre &#224; anneaux bleus&quot;&gt;pieuvre &#224; anneaux bleus&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Crabe-Royal.html&quot; title=&quot;Crabe royal&quot;&gt;crabe royal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Singe.html&quot; title=&quot;Singe&quot;&gt;singe&lt;/a&gt; ou tout autre familier pr&#233;sent&#233; dans le &lt;i&gt;Manuel des joueurs&lt;/i&gt;. Ils utilisent leur niveau de pr&#234;tre comme niveau effectif de &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt;.
+• Les &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deurs&lt;/a&gt; fid&#232;les &#224; Besmara peuvent choisir d&#39;obtenir un &lt;a class=&quot;pagelink&quot; href=&quot;Familiers.html&quot; title=&quot;Les familiers&quot;&gt;familier&lt;/a&gt; oiseau, &lt;a class=&quot;pagelink&quot; href=&quot;Pieuvre-&#192;-Anneaux-Bleus.html&quot; title=&quot;Pieuvre &#224; anneaux bleus&quot;&gt;pieuvre &#224; anneaux bleus&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Crabe-Royal.html&quot; title=&quot;Crabe royal&quot;&gt;crabe royal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Singe.html&quot; title=&quot;Singe&quot;&gt;singe&lt;/a&gt; ou tout autre familier pr&#233;sent&#233; dans le &lt;i&gt;Manuel des joueurs&lt;/i&gt; &#224; la place d&#39;un compagnon animal. Ils utilisent leur niveau de r&#244;deur - 3 comme niveau effectif de &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;pr&#234;tre combattant&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;diction-De-D&#233;go&#251;t.html&quot; title=&quot;Mal&#233;diction de d&#233;go&#251;t&quot;&gt;Mal&#233;diction de d&#233;go&#251;t&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau. (uniquement pour causer un d&#233;go&#251;t profond des b&#226;teaux, des narives de guerre et des &#233;tendues d&#39;eau)  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mission.html&quot; title=&quot;Mission&quot;&gt;Mission&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau. (uniquement pour causer un d&#233;go&#251;t profond des b&#226;teaux, des narives de guerre et des &#233;tendues d&#39;eau)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Convocations &#233;tendues.&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Ii.html&quot; title=&quot;Convocation de monstres II&quot;&gt;Convocation de monstres II&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Griffe-Du-R&#233;cif.html&quot; title=&quot;Griffe du r&#233;cif&quot;&gt;Griffe du r&#233;cif&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREENTROPIQUE&quot; title=&quot;Les arch&#233;types&quot;&gt;entropique&lt;/a&gt; - CN  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-V.html&quot; title=&quot;Convocation de monstres V&quot;&gt;Convocation de monstres V&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Merrow.html&quot; title=&quot;Merrow&quot;&gt;Merrow d&#39;eau de mer&lt;/a&gt; - NM  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Vi.html&quot; title=&quot;Convocation de monstres VI&quot;&gt;Convocation de monstres VI&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tylosaure.html&quot; title=&quot;Dinosaure, Tylosaure&quot;&gt;Tylosaure&lt;/a&gt; - N&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Options de personnage th&#233;matiques&lt;a class=&quot;headeranchor&quot; id=&quot;Options_de_personnage_th&#233;matiques_1&quot; href=&quot;#Options_de_personnage_th&#233;matiques_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;i&gt;&#192; VENIR&lt;/i&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Besmara|Besmara,<br/>La Reine Pirate|%2fPCUP%2fReligion-PNG%2fBesmara.png|[[Divinités#AUTRES|Autres divinités]]
+|Chaotique Neutre|Conflit, monstres marins et piraterie
+|Pirates|Perroquet
+|[[Rapière (arme)|Rapière]]
+|[[Domaine du Chaos|Chaos]], [[Domaine du Climat|Climat]], [[Domaine de la Duperie|Duperie]], [[Domaine de lEau|Eau]], [[Domaine de la Guerre|Guerre]]
+|[[Domaine de la Guerre|Duels]], [[Domaine de la Duperie|Insinuation]], [[Domaine de lEau|Océans]], [[Domaine du Chaos|Protéens]], [[Domaine de la Duperie|Supercherie]], [[Domaine de la Guerre|Tactique]], [[Domaine du Climat|Tempêtes]], [[Domaine de la Duperie|Voleurs]]
+|—}{s:cs}{s:ISG}Besmara, également connue sous le nom de Reine Pirate, est une déesse communément vénérée par les marins des Chaînes ou d'Ilizmagorti. On dit qu'elle dirige son légendaire navire le ''Spectre des Mers'' à travers les mers et les voies navigables du Grand Au-delà (en particulier le Maelström), effectuant des raids sur des lieux tels que l'Enfer, l'Élysée, Axis et le Paradis. Les pirates ne sont pas très religieux et ne font généralement appel à elle que sur leur lit de mort ou en cas de danger extrême. Les quelques prêtres qui se consacrent à elle sont généralement aussi les capitaines de leurs propres navires de guerre et jouissent d'une réputation féroce. Son symbole est le jolly roger, emblème universel de la piraterie, normalement une tête de mort blanche et des os croisés sur fond noir.
+
+===Règles uniques aux suivants===
+'''Capacités de classe.'''  
+• Les [[Prêtre|prêtre]] de Besmara peuvent abandonner un domaine afin d'obtenir un [[Familiers|familier]] oiseau, [[pieuvre à anneaux bleus]], [[crabe royal]], [[singe]] ou tout autre familier présenté dans le ''Manuel des joueurs''. Ils utilisent leur niveau de prêtre comme niveau effectif de [[magicien]].
+• Les [[Rôdeur|rôdeurs]] fidèles à Besmara peuvent choisir d'obtenir un [[Familiers|familier]] oiseau, [[pieuvre à anneaux bleus]], [[crabe royal]], [[singe]] ou tout autre familier présenté dans le ''Manuel des joueurs'' à la place d'un compagnon animal. Ils utilisent leur niveau de rôdeur - 3 comme niveau effectif de [[magicien]].
+
+'''Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).'''  
+• ''[[Malédiction de dégoût]]'' peut être préparé comme un sort de 4e niveau. (uniquement pour causer un dégoût profond des bâteaux, des narives de guerre et des étendues d'eau)  
+• ''[[Mission]]'' peut être préparé comme un sort de 4e niveau. (uniquement pour causer un dégoût profond des bâteaux, des narives de guerre et des étendues d'eau)
+
+'''Convocations étendues.'''  
+• ''[[Convocation de monstres II]].'' [[Griffe du récif]] [[Archétypes#CREATUREENTROPIQUE|entropique]] - CN  
+• ''[[Convocation de monstres V]].'' [[Merrow|Merrow d'eau de mer]] - NM  
+• ''[[Convocation de monstres VI]].'' [[Tylosaure]] - N
+
+===Options de personnage thématiques===
+''À VENIR'']]></raw>
+  <fullName>Pathfinder-RPG.Besmara (technique)</fullName>
+</wikiPage>

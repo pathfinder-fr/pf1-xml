@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Gant de jet</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-24 22:07:57Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Outils de compétences</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils de compétences</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.attaque dopportunité</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Gobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 1 pa ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-De-Comp&#233;tences.html&quot; title=&quot;Outils de comp&#233;tences&quot;&gt;Outils de comp&#233;tences&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cet objet est un lourd gant en m&#233;tal et en cuir con&#231;u pour &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;agripper&lt;/a&gt; et pour lancer un insecte, un serpent ou une cr&#233;ature minuscule qui ne perdra pas une occasion de mordre son porteur. Les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt; qui ne portent pas de gant de jet provoquent une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;attaque d&amp;#39;opportunit&#233;&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt; de la part de la cr&#233;ature qu’ils tentent de cacher ou de lancer. Le gant de jet dispose de plaques superpos&#233;es qui couvrent l’avant-bras de son porteur. Il faut une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pour enfiler ou pour retirer un gant de jet. La main ainsi prot&#233;g&#233;e ne peut &#234;tre utilis&#233;e pour accomplir des actions qui demandent de la pr&#233;cision (tels que des tests de &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; ou de tir &#224; l’arc). On peut toutefois se servir de la main gant&#233;e pour brandir une arme.
+]]></body>
+  <raw><![CDATA[{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}'''Prix''' 1 pa ; '''Poids''' 0,5 kg  
+<span class="Catégorie">'''Catégorie''' [[Outils de compétences]]</span>
+<hr>
+Cet objet est un lourd gant en métal et en cuir conçu pour [[lutte|agripper]] et pour lancer un insecte, un serpent ou une créature minuscule qui ne perdra pas une occasion de mordre son porteur. Les [[Gobelin (race)|gobelins]] qui ne portent pas de gant de jet provoquent une [[attaque dopportunité|attaque d’opportunité]] de la part de la créature qu’ils tentent de cacher ou de lancer. Le gant de jet dispose de plaques superposées qui couvrent l’avant-bras de son porteur. Il faut une [[action complexe]] pour enfiler ou pour retirer un gant de jet. La main ainsi protégée ne peut être utilisée pour accomplir des actions qui demandent de la précision (tels que des tests de [[Sabotage]] ou de tir à l’arc). On peut toutefois se servir de la main gantée pour brandir une arme.]]></raw>
+  <fullName>Pathfinder-RPG.Gant de jet (objet)</fullName>
+</wikiPage>

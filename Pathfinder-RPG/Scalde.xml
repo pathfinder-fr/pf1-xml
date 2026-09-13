@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Le scalde</title>
+  <categories><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs - Classes avancées</category></categories>
+  <lastModified>2026-07-27 13:58:28Z</lastModified>
+  <version>16</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Adepte démoniaque</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Armures magiques spécifiques</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Bracelets hurlants</link><link>Pathfinder-RPG.Bravades</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Buveur dâmes</link><link>Pathfinder-RPG.Cape du poète</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Champion prédestiné (Scalde)</link><link>Pathfinder-RPG.Champion prédestiné (Scalde)</link><link>Pathfinder-RPG.Chant funeste supérieur</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.Chef de guerre (scalde)</link><link>Pathfinder-RPG.Chef de guerre (scalde)</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Coeur vaillant</link><link>Pathfinder-RPG.Combines déquipement</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Compagnons vermines</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Compréhension approfondie des sorts</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.Danseur démoniaque bekyar (scalde)</link><link>Pathfinder-RPG.Danseur démoniaque bekyar (scalde)</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Descriptions individuelles des propriétés spéciales des armes</link><link>Pathfinder-RPG.Destructeur de sorts (Scalde)</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Diaboliste</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Épithète du poète (objet)</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs - Classes avancées</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Flamme du bakrakhan</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Haubert du héros</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héraut du cor (Scalde)</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Instigateur (scalde)</link><link>Pathfinder-RPG.Instigateur (scalde)</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Légionnaire infernal</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Manteau de calme</link><link>Pathfinder-RPG.Manuel des joueurs - Classes avancées (Contenu)</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Objets merveilleux portés autour du cou</link><link>Pathfinder-RPG.Objets merveilleux portés aux poignets</link><link>Pathfinder-RPG.Objets merveilleux portés sur les épaules</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement liste</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Organisateur intrépide (scalde)</link><link>Pathfinder-RPG.Organisateur intrépide (scalde)</link><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Rage</link><link>Pathfinder-RPG.Rage imprudente</link><link>Pathfinder-RPG.Rage morte-vivante</link><link>Pathfinder-RPG.Rage retrouvée</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Rejeton des batailles (scalde)</link><link>Pathfinder-RPG.Rejeton des batailles (scalde)</link><link>Pathfinder-RPG.Représentation intimidante</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Rune de la foi antique</link><link>Pathfinder-RPG.Runes du sabbat de la mégère</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Scalde des dragons (scalde)</link><link>Pathfinder-RPG.Scalde des dragons (scalde)</link><link>Pathfinder-RPG.Scalde totémique (Scalde)</link><link>Pathfinder-RPG.Science du chant funeste</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Surconsommation</link><link>Pathfinder-RPG.Tableau récapitulatif des compétences</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons - Temp</link><link>Pathfinder-RPG.Tableau récapitulatif des dons des classes avancées</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.Tambour de guerre de Belkzen (scalde)</link><link>Pathfinder-RPG.Tambour de guerre de Belkzen (scalde)</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Temp-aventures occultes</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Terreur inspiratrice</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Torque du chant primal</link><link>Pathfinder-RPG.Traits de race</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Vigueur du scalde</link><link>Pathfinder-RPG.Voeux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.armure légère</link><link>Pathfinder-RPG.armure intermédiaire</link><link>Pathfinder-RPG.Caractéristiques des armes</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs - Classes avancées</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Rage</link><link>Pathfinder-RPG.branche métamorphose</link><link>Pathfinder-RPG.Sauvage enragé (barbare)</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.Assourdi</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Écriture de parchemins</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Pouvoir de rage supplémentaire</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Pris au dépourvu</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Invisible</link><link>Pathfinder-RPG.Immobilisé</link><link>Pathfinder-RPG.feinte</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.faire 10</link><link>Pathfinder-RPG.Pris en tenaille</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.attaque à outrance</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.compagnon animal</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Voeux</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Champion prédestiné (Scalde)</link><link>Pathfinder-RPG.Chef de guerre (scalde)</link><link>Pathfinder-RPG.Danseur démoniaque bekyar (scalde)</link><link>Pathfinder-RPG.Destructeur de sorts (Scalde)</link><link>Pathfinder-RPG.Héraut du cor (Scalde)</link><link>Pathfinder-RPG.Instigateur (scalde)</link><link>Pathfinder-RPG.Organisateur intrépide (scalde)</link><link>Pathfinder-RPG.Rejeton des batailles (scalde)</link><link>Pathfinder-RPG.Scalde des dragons (scalde)</link><link>Pathfinder-RPG.Scalde totémique (Scalde)</link><link>Pathfinder-RPG.Tambour de guerre de Belkzen (scalde)</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;13%&quot;&gt;&lt;center&gt;&lt;img ID=&quot;menuclasseIMG3&quot; src=&quot;/wiki/public/upload/Illustrations/Autres/Head.jpg&quot; WIDTH=&quot;90%&quot; style=&quot;border: 1px solid #4b3124&quot; /&gt;&lt;/center&gt;&lt;/td&gt;&lt;td width=&quot;86%&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les classes hybrides&lt;a class=&quot;headeranchor&quot; id=&quot;Les_classes_hybrides_0&quot; href=&quot;#Les_classes_hybrides_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Arcaniste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;L&#39;arcaniste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;exploitations&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Bretteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bretteur.html&quot; title=&quot;Le bretteur&quot;&gt;Le bretteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits-(Bretteur).html&quot; title=&quot;Les exploits du bretteur&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chaman.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Le chaman&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(Chaman).html&quot; title=&quot;Les esprits du chaman&quot;&gt;esprits&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices-(Chaman).html&quot; title=&quot;Les mal&#233;fices du chaman&quot;&gt;mal&#233;fices&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur.html&quot; title=&quot;Le chasseur&quot;&gt;Le chasseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;compagnon animal&quot;&gt;compagnon animal&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Enqu&#234;teur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enqu&#234;teur.html&quot; title=&quot;L&amp;#39;enqu&#234;teur&quot;&gt;L&#39;enqu&#234;teur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Enqu&#234;teur).html&quot; title=&quot;Les talents d&amp;#39;enqu&#234;teur&quot;&gt;talents d’enqu&#234;teur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Lutteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lutteur.html&quot; title=&quot;Le lutteur&quot;&gt;Le lutteur&lt;/a&gt; &lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre combattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Le pr&#234;tre combattant&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;dictions.html&quot; title=&quot;Les b&#233;n&#233;dictions du pr&#234;tre combattant&quot;&gt;b&#233;n&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sanguin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;Le sanguin&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages-(Sanguin).html&quot; title=&quot;Les lignages du sanguin&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Scalde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html&quot; title=&quot;Le scalde&quot;&gt;Le scalde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html&quot; title=&quot;Les chants de rage du scalde&quot;&gt;chants de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Tueur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tueur.html&quot; title=&quot;Le tueur&quot;&gt;Le tueur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Tueur).html&quot; title=&quot;Les talents de tueur&quot;&gt;talents de tueur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESDEBASE&quot; title=&quot;Les classes&quot;&gt;Classes de base&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barbare.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;Le barbare&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;pouvoirs de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Le barde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html&quot; title=&quot;Les repr&#233;sentations bardiques du barde&quot;&gt;repr&#233;sentations&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Les chefs d&amp;#39;œuvre du barde&quot;&gt;chefs d&#39;oeuvre&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Druide.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Le druide&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaines-Animaux-Et-Environnementaux.html&quot; title=&quot;Les domaines animaux et environnementaux du druide&quot;&gt;Domaines animaux et environnementaux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ensorceleur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;L&#39;ensorceleur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages.html&quot; title=&quot;Les lignages d&amp;#39;ensorceleur&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Guerrier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;Le guerrier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Groupe-Darmes.html&quot; title=&quot;Les groupes d&amp;#39;arme du guerrier&quot;&gt;groupes d&#39;armes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Entra&#238;nements-Avanc&#233;s.html&quot; title=&quot;Les entra&#238;nements avanc&#233;s du guerrier&quot;&gt;entra&#238;nements avanc&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magicien.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Le magicien&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-De-Magie.html&quot; title=&quot;Les &#233;coles de magie du magicien&quot;&gt;&#233;coles de magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes-Arcaniques.html&quot; title=&quot;Les d&#233;couvertes arcaniques du magicien&quot;&gt;d&#233;couvertes arcaniques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Moine.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine.html&quot; title=&quot;Le moine&quot;&gt;Le moine&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Voeux.html&quot; title=&quot;Les vœux du moine&quot;&gt;voeux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Paladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Le paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Le pr&#234;tre&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variantes-De-Canalisation.html&quot; title=&quot;Les variantes de canalisation du pr&#234;tre&quot;&gt;variantes de canalisation&lt;/a&gt;&lt;/i&gt;) (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines du pr&#234;tre&quot;&gt;domaines&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/R&#244;deur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;Le r&#244;deur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges-De-R&#244;deur.html&quot; title=&quot;Pi&#232;ges de r&#244;deur&quot;&gt;Pi&#232;ges de r&#244;deur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Roublard.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;Le roublard&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html&quot; title=&quot;Les talents de roublard&quot;&gt;talents&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESSUPPLEMENTAIRES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESSUPPLEMENTAIRES&quot; title=&quot;Les classes&quot;&gt;Classes suppl&#233;mentaires&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESSUPPLEMENTAIRES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Alchimiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;L&#39;alchimiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes.html&quot; title=&quot;Les d&#233;couvertes d&amp;#39;alchimiste&quot;&gt;d&#233;couvertes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Antipaladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;L&#39;anti-paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur de vampire.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur-De-Vampire.html&quot; title=&quot;Le chasseur de vampire&quot;&gt;Le chasseur de vampire&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Techniques-De-Chasseur-De-Vampire.html&quot; title=&quot;les techniques de chasseur de vampire&quot;&gt;techniques de chasseur de vampire&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chevalier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier.html&quot; title=&quot;Le chevalier&quot;&gt;Le chevalier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Conjurateur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;Le conjurateur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon.html&quot; title=&quot;L&amp;#39;eidolon du conjurateur&quot;&gt;eidolon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mod&#232;les-Deidolon.html&quot; title=&quot;Les mod&#232;les d&amp;#39;eidolon du conjurateur&quot;&gt;mod&#232;les d&#39;eidolon&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Inquisiteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;L&#39;inquisiteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html&quot; title=&quot;Les inquisitions d&amp;#39;inquisiteur&quot;&gt;inquisitions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Justicier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Justicier.html&quot; title=&quot;Le justicier&quot;&gt;Le justicier&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sociaux.html&quot; title=&quot;Les talents sociaux du justicier&quot;&gt;talents sociaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talents-De-Justicier.html&quot; title=&quot;Les talents de justicier&quot;&gt;talents de justicier&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magus.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le magus&quot;&gt;Le magus&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcanes.html&quot; title=&quot;Les arcanes du magus&quot;&gt;arcanes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;tamorphe.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphe.html&quot; title=&quot;Le m&#233;tamorphe&quot;&gt;Le m&#233;tamorphe&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Aspects.html&quot; title=&quot;Les aspects du m&#233;tamorphe&quot;&gt;aspects du m&#233;tamorphe&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ninja.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ninja.html&quot; title=&quot;Le ninja&quot;&gt;Le ninja&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Astuces.html&quot; title=&quot;Les astuces de ninja&quot;&gt;astuces&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Oracle.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;L&#39;oracle&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;res&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions-Doracle.html&quot; title=&quot;Les mal&#233;dictions d&amp;#39;oracle&quot;&gt;mal&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pistolier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html&quot; title=&quot;Le pistolier&quot;&gt;Le pistolier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits.html&quot; title=&quot;Les exploits du pistolier&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Samoura&#239;.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html&quot; title=&quot;Le samoura&#239;&quot;&gt;Le samoura&#239;&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sorci&#232;re.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;La sorci&#232;re&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices.html&quot; title=&quot;Les mal&#233;fices de la sorci&#232;re&quot;&gt;mal&#233;fices&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Protecteurs.html&quot; title=&quot;Les protecteurs de la sorci&#232;re&quot;&gt;protecteurs&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESOCCULTES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESOCCULTES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESOCCULTES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESOCCULTES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESOCCULTES&quot; title=&quot;Les classes&quot;&gt;Classes occultes&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESOCCULTES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Cin&#233;tiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cin&#233;tiste.html&quot; title=&quot;Le cin&#233;tiste&quot;&gt;Le cin&#233;tiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;ments.html&quot; title=&quot;Les &#233;l&#233;ments du cin&#233;tiste&quot;&gt;&#233;l&#233;ments&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sauvages.html&quot; title=&quot;Les talents sauvages du cin&#233;tiste&quot;&gt;talents sauvages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Hypnotiseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;L&#39;hypnotiseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inductions.html&quot; title=&quot;Les inductions d&amp;#39;hypnotiseur&quot;&gt;inductions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;dium.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;dium.html&quot; title=&quot;Le m&#233;dium&quot;&gt;Le m&#233;dium&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(M&#233;dium).html&quot; title=&quot;Les esprits du m&#233;dium&quot;&gt;esprits&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-L&#233;gendaires.html&quot; title=&quot;Les esprits l&#233;gendaires de m&#233;dium&quot;&gt;esprits l&#233;gendaires&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Occultiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Occultiste.html&quot; title=&quot;L&amp;#39;occultiste&quot;&gt;L&#39;occultiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-Instrumentales.html&quot; title=&quot;&#201;coles instrumentales&quot;&gt;&#233;coles instrumentales&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Instruments-Sacr&#233;s.html&quot; title=&quot;Les instruments sacr&#233;s d&amp;#39;occultiste&quot;&gt;instruments sacr&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Psychiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Le psychiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Amplifications-Phr&#233;niques.html&quot; title=&quot;Les amplifications phr&#233;niques du psychiste&quot;&gt;amplifications phr&#233;niques&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciplines-Psychiques.html&quot; title=&quot;Les disciplines psychiques du psychiste&quot;&gt;disciplines psychiques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Spirite.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Spirite.html&quot; title=&quot;Le spirite&quot;&gt;Le spirite&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fant&#244;mes-(Spirite).html&quot; title=&quot;Le fant&#244;me du spirite&quot;&gt;fant&#244;mes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPRESTIGE3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPRESTIGE3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPRESTIGE3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPRESTIGE3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Prestige.html&quot; title=&quot;Les classes de prestige&quot;&gt;Classes de prestige&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPRESTIGE3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Acolyte-De-La-Foi-Verte.html&quot; title=&quot;Acolyte de la Nature&quot;&gt;Acolyte de la Nature&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte-De-La-Flamme-Noire.html&quot; title=&quot;Adepte de la Flamme noire&quot;&gt;Adepte de la Flamme noire&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-La-Cour-Des-Ombres.html&quot; title=&quot;Agent de l&amp;#39;Ombre&quot;&gt;Agent de l&#39;Ombre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-Terrain-Des-&#201;claireurs.html&quot; title=&quot;Agent de terrain des Explorateurs&quot;&gt;Agent de terrain des Explorateurs&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-Consortium-De-Laspis.html&quot; title=&quot;Agent du consortium&quot;&gt;Agent du consortium&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-R&#233;seau-Campanule.html&quot; title=&quot;Agent du r&#233;seau&quot;&gt;Agent du r&#233;seau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste-De-Magaambya.html&quot; title=&quot;Arcaniste de l&amp;#39;acad&#233;mie du Vieux-Mage&quot;&gt;Arcaniste de l&#39;acad&#233;mie du Vieux-Mage&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Archer-Mage.html&quot; title=&quot;L&amp;#39;archer-mage&quot;&gt;Archer-mage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arpenteur-Dhorizon.html&quot; title=&quot;L&amp;#39;arpenteur d&amp;#39;horizon&quot;&gt;Arpenteur d&#39;horizon&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aspirant-&#192;-Lillumination.html&quot; title=&quot;Aspirant &#224; l&amp;#39;Illumination&quot;&gt;Aspirant &#224; l&#39;Illumination&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin-Des-Mantes-Rouges.html&quot; title=&quot;Assassin pourpre&quot;&gt;Assassin pourpre&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin.html&quot; title=&quot;L&amp;#39;assassin&quot;&gt;Assassin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Attiseur-De-Temp&#234;tes.html&quot; title=&quot;Attiseur de temp&#234;tes&quot;&gt;Attiseur de temp&#234;tes&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jardinier-Gris.html&quot; title=&quot;Bourreau gris&quot;&gt;Bourreau gris&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Dirori.html&quot; title=&quot;Champion de la perfection&quot;&gt;Champion de la perfection&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Occultiste.html&quot; title=&quot;Le champion occultiste&quot;&gt;Champion occultiste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Dozem.html&quot; title=&quot;Chevalier de la vie&quot;&gt;Chevalier de la vie&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevaucheur-De-Mammouth.html&quot; title=&quot;Chevaucheur de mammouth&quot;&gt;Chevaucheur de mammouth&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chroniqueur.html&quot; title=&quot;Le chroniqueur&quot;&gt;Chroniqueur&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Daivrat.html&quot; title=&quot;Daivrat&quot;&gt;Daivrat&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tective-Des-Insomniaques.html&quot; title=&quot;D&#233;tective des Insomniaques&quot;&gt;D&#233;tective des Insomniaques&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-De-Kalistrade.html&quot; title=&quot;Disciple des Proph&#233;ties&quot;&gt;Disciple des Proph&#233;ties&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciple-Draconien.html&quot; title=&quot;Le disciple draconien&quot;&gt;Disciple draconien&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissident-De-La-Fleur-De-Laube.html&quot; title=&quot;Dissident de l&amp;#39;aube&quot;&gt;Dissident de l&#39;aube&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duelliste.html&quot; title=&quot;Le duelliste&quot;&gt;Duelliste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Empoisonneur-De-Dague.html&quot; title=&quot;Empoisonneur de la guilde&quot;&gt;Empoisonneur de la guilde&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enfant-Divin.html&quot; title=&quot;Enfant divin&quot;&gt;Enfant divin&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Estimateur-Dabadar.html&quot; title=&quot;Estimateur l&#233;gal&quot;&gt;Estimateur l&#233;gal&lt;/a&gt; (CSU)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tudiant-De-La-Guerre.html&quot; title=&quot;&#201;tudiant de la guerre&quot;&gt;&#201;tudiant de la guerre&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;vang&#233;liste.html&quot; title=&quot;&#201;vang&#233;liste&quot;&gt;&#201;vang&#233;liste&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exalt&#233;.html&quot; title=&quot;Exalt&#233;&quot;&gt;Exalt&#233;&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Explorateur.html&quot; title=&quot;Explorateur&quot;&gt;Explorateur&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Savant.html&quot; title=&quot;Explorateur savant&quot;&gt;Explorateur savant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Razmirien.html&quot; title=&quot;Faux pr&#234;tre&quot;&gt;Faux pr&#234;tre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fid&#232;le-D&#233;fenseur.html&quot; title=&quot;Le fid&#232;le d&#233;fenseur&quot;&gt;Fid&#232;le d&#233;fenseur&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fr&#232;re-Du-Sceau.html&quot; title=&quot;Fr&#232;re du Sceau&quot;&gt;Fr&#232;re du Sceau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;gionnaire-Dor&#233;.html&quot; title=&quot;Garde de la libert&#233;&quot;&gt;Garde de la libert&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-De-La-Nature.html&quot; title=&quot;Le gardien de la nature&quot;&gt;Gardien de la nature&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Des-Failles.html&quot; title=&quot;Gardien des failles&quot;&gt;Gardien des failles&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html&quot; title=&quot;Le gardien du savoir&quot;&gt;Gardien du savoir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier-De-La-Fosse.html&quot; title=&quot;Guerrier de la fosse&quot;&gt;Guerrier de la fosse&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;raut.html&quot; title=&quot;Le h&#233;raut&quot;&gt;H&#233;raut&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ritier-Noble.html&quot; title=&quot;H&#233;ritier noble&quot;&gt;H&#233;ritier noble&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Illusionniste-Voil&#233;.html&quot; title=&quot;Illusionniste voil&#233;&quot;&gt;Illusionniste voil&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lame-Des-Lions.html&quot; title=&quot;Lame des lions&quot;&gt;Lame des lions&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Infernal.html&quot; title=&quot;L&#233;gionnaire infernal&quot;&gt;L&#233;gionnaire infernal&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mage-Des-Glyphes.html&quot; title=&quot;Mage des glyphes&quot;&gt;Mage des glyphes&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Chymiste.html&quot; title=&quot;Le ma&#238;tre chymiste&quot;&gt;Ma&#238;tre chymiste&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Des-Ombres.html&quot; title=&quot;Le ma&#238;tre des ombres&quot;&gt;Ma&#238;tre des ombres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Espion.html&quot; title=&quot;Le ma&#238;tre espion&quot;&gt;Ma&#238;tre espion&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mar&#233;chal-Bouclier.html&quot; title=&quot;Mar&#233;chal-bouclier&quot;&gt;Mar&#233;chal-bouclier&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faucon-Dacier.html&quot; title=&quot;Missionnaire de la libert&#233;&quot;&gt;Missionnaire de la libert&#233;&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monolithe-Vivant.html&quot; title=&quot;Monolithe vivant&quot;&gt;Monolithe vivant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystificateur-Profane.html&quot; title=&quot;Le mystificateur profane&quot;&gt;Mystificateur profane&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystique-Tatou&#233;.html&quot; title=&quot;Mystique tatou&#233;&quot;&gt;Mystique tatou&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Opportuniste-Halfelin.html&quot; title=&quot;Opportuniste halfelin&quot;&gt;Opportuniste halfelin&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pirate-De-La-Mer-Int&#233;rieure.html&quot; title=&quot;Pirate de Haute Mer&quot;&gt;Pirate de Haute mer&lt;/a&gt; (PMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porteur-De-Lanterne.html&quot; title=&quot;Porteur de lanterne&quot;&gt;Porteur de lanterne&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-Enrag&#233;.html&quot; title=&quot;Le proph&#232;te enrag&#233;&quot;&gt;Proph&#232;te enrag&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prospecteur-C&#233;leste.html&quot; title=&quot;Prospecteur c&#233;leste&quot;&gt;Prospecteur c&#233;leste&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sentinelle.html&quot; title=&quot;Sentinelle&quot;&gt;Sentinelle&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-De-Larche-Du-Nex.html&quot; title=&quot;Seigneur de l&amp;#39;arche&quot;&gt;Seigneur de l&#39;arche&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-Des-&#201;p&#233;es-Aldori.html&quot; title=&quot;Seigneur des &#233;p&#233;es&quot;&gt;Seigneur des &#233;p&#233;es&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signifer-Infernal.html&quot; title=&quot;Signifer infernal&quot;&gt;Signifer infernal&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re-De-Lhiver.html&quot; title=&quot;Sorci&#232;re de l&amp;#39;hiver&quot;&gt;Sorci&#232;re de l&#39;hiver&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Templier-D&#233;chu.html&quot; title=&quot;Templier parjure&quot;&gt;Templier parjure&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Th&#233;urge-Mystique.html&quot; title=&quot;Le th&#233;urge mystique&quot;&gt;Th&#233;urge mystique&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vengeur-Sacr&#233;.html&quot; title=&quot;Le vengeur sacr&#233;&quot;&gt;Vengeur sacr&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liseuse-De-Tourment.html&quot; title=&quot;Voyante&quot;&gt;Voyante&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPNJ3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPNJ3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPNJ3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPNJ3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Classes de PNJ&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPNJ3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniAdepte.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;L&#39;adepte&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniExpert.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;L&#39;expert&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniCombattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;L&#39;homme d&#39;arme&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniHomme du Peuple.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Du-Peuple.html&quot; title=&quot;L&amp;#39;homme du peuple&quot;&gt;L&#39;homme du peuple&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniNoble.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Noble.html&quot; title=&quot;Le noble&quot;&gt;Le noble&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fright&quot;&gt;&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html&quot; title=&quot;Les chants de rage du scalde&quot;&gt;chants de rage&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Les chefs d&amp;#39;œuvre du barde&quot;&gt;chefs d&#39;œuvre&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Bardes.html&quot; title=&quot;Liste des sorts de barde&quot;&gt;liste des sorts de barde&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonscalde&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onclick=&quot;expandMenu(&#39;scalde&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;Voir les arch&#233;types du scalde&lt;/b&gt;&amp;emsp;
+  &lt;li ID=&quot;scalde&quot; CLASS=&quot;listecach&#233;e&quot; STYLE=&quot;display:none&quot;&gt;&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les arch&#233;types de scalde&lt;a class=&quot;headeranchor&quot; id=&quot;Les_arch&#233;types_de_scalde_0&quot; href=&quot;#Les_arch&#233;types_de_scalde_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&amp;nbsp;Retour &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html&quot; title=&quot;Le scalde&quot;&gt;classe&lt;/a&gt;.
+&lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Pr&#233;destin&#233;-(Scalde).html&quot; title=&quot;Champion pr&#233;destin&#233;&quot;&gt;Champion pr&#233;destin&#233;&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chef-De-Guerre-(Scalde).html&quot; title=&quot;Chef de guerre&quot;&gt;Chef de guerre&lt;/a&gt; (&lt;i&gt;UI&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Danseur-D&#233;moniaque-Bekyar-(Scalde).html&quot; title=&quot;Danseur d&#233;moniaque bekyar&quot;&gt;Danseur d&#233;moniaque bekyar&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Destructeur-De-Sorts-(Scalde).html&quot; title=&quot;Destructeur de sorts&quot;&gt;Destructeur de sorts&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;raut-Du-Cor-(Scalde).html&quot; title=&quot;H&#233;raut du cor&quot;&gt;H&#233;raut du cor&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Instigateur-(Scalde).html&quot; title=&quot;Instigateur&quot;&gt;Instigateur&lt;/a&gt; (&lt;i&gt;UI&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Organisateur-Intr&#233;pide-(Scalde).html&quot; title=&quot;Organisateur intr&#233;pide&quot;&gt;Organisateur intr&#233;pide&lt;/a&gt; (&lt;i&gt;UI&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rejeton-Des-Batailles-(Scalde).html&quot; title=&quot;Rejeton des batailles&quot;&gt;Rejeton des batailles&lt;/a&gt; (&lt;i&gt;UI&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde-Des-Dragons-(Scalde).html&quot; title=&quot;Scalde des dragons&quot;&gt;Scalde des dragons&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde-Tot&#233;mique-(Scalde).html&quot; title=&quot;Scalde tot&#233;mique&quot;&gt;Scalde tot&#233;mique&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tambour-De-Guerre-De-Belkzen-(Scalde).html&quot; title=&quot;Tambour de guerre des Terres des F&#233;roces&quot;&gt;Tambour de guerre des Terres des F&#233;roces&lt;/a&gt; (MCA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Les scaldes sont des po&#232;tes, des historiens et des gardiens du savoir qui mettent leurs dons oratoires et leurs chants &#224; profit pour plonger leurs alli&#233;s dans une rage fr&#233;n&#233;tique. Ils temp&#232;rent leur violence int&#233;rieure avec un vernis de civilisation, chroniquent les batailles h&#233;ro&#239;ques et les exploits de leurs plus grands chefs et racontent ces histoires une fois am&#233;lior&#233;es pour remporter de nouvelles victoires encore plus sanglantes. La po&#233;sie du scalde est tout en nuance et s’interpr&#232;te souvent de plusieurs mani&#232;res. Ce personnage dispose de divers talents pour imiter la magie des autres lanceurs de sorts.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre&quot;&gt;&lt;caption&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TABLESCALDE&quot; href=&quot;#TABLESCALDE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;Le scalde&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td COLSPAN=&quot;6&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#CHANTDERAGE&quot; title=&quot;Le scalde&quot;&gt;Chant de rage&lt;/a&gt;,&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#ECRITUREDEPARCHEMINS&quot; title=&quot;Le scalde&quot;&gt;&#233;criture de parchemins&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html#RAGEINSPIREE&quot; title=&quot;Les chants de rage du scalde&quot;&gt;rage inspir&#233;e&lt;/a&gt; +1 (+2 For/Con), &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#SAVOIRBARDIQUE&quot; title=&quot;Le scalde&quot;&gt;savoir bardique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#TOURSDEMAGIE&quot; title=&quot;Le scalde&quot;&gt;tours de magie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#ERUDITION&quot; title=&quot;Le scalde&quot;&gt;&#201;rudition&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le scalde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html#CHANTDEMARCHE&quot; title=&quot;Les chants de rage du scalde&quot;&gt;Chant de marche&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#POUVOIRDERAGE&quot; title=&quot;Le scalde&quot;&gt;pouvoir de rage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#ESQUIVEINSTINCTIVE&quot; title=&quot;Le scalde&quot;&gt;Esquive instinctive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#RAGEINSPIREE&quot; title=&quot;Le scalde&quot;&gt;rage inspir&#233;e&lt;/a&gt; +2&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#COMPREHENSIONDESSORTS&quot; title=&quot;Le scalde&quot;&gt;Compr&#233;hension des sorts&lt;/a&gt; 1/jour&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html#CHANTDEFORCE&quot; title=&quot;Les chants de rage du scalde&quot;&gt;Chant de force&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#POUVOIRDERAGE&quot; title=&quot;Le scalde&quot;&gt;pouvoir de rage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#MAITREDUSAVOIR&quot; title=&quot;Le scalde&quot;&gt;Ma&#238;tre du savoir&lt;/a&gt; 1/jour, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le scalde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#ESQUIVEINSTINCTIVESUPERIEURE&quot; title=&quot;Le scalde&quot;&gt;Esquive instinctive sup&#233;rieure&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#RAGEINSPIREE&quot; title=&quot;Le scalde&quot;&gt;rage inspir&#233;e&lt;/a&gt; +3 (+4 For/Con)&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#POUVOIRDERAGE&quot; title=&quot;Le scalde&quot;&gt;Pouvoir de rage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#REDUCTIONDEDEGATS&quot; title=&quot;Le scalde&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;1/-&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html#CHANTFUNESTE&quot; title=&quot;Les chants de rage du scalde&quot;&gt;Chant funeste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#COMPREHENSIONDESSORTS&quot; title=&quot;Le scalde&quot;&gt;Compr&#233;hension des sorts&lt;/a&gt; 2/jour&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#POUVOIRDERAGE&quot; title=&quot;Le scalde&quot;&gt;Pouvoir de rage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#RAGEINSPIREE&quot; title=&quot;Le scalde&quot;&gt;rage inspir&#233;e&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le scalde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#MAITREDUSAVOIR&quot; title=&quot;Le scalde&quot;&gt;Ma&#238;tre du savoir&lt;/a&gt; 2/jour&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html#CHANTDESDEFUNTS&quot; title=&quot;Les chants de rage du scalde&quot;&gt;Chant des d&#233;funts&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#REDUCTIONDEDEGATS&quot; title=&quot;Le scalde&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt; 2/-&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#POUVOIRDERAGE&quot; title=&quot;Le scalde&quot;&gt;Pouvoir de rage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#RAGEINSPIREE&quot; title=&quot;Le scalde&quot;&gt;Rage inspir&#233;e&lt;/a&gt; +5 (+6 For/Con)&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#COMPREHENSIONDESSORTS&quot; title=&quot;Le scalde&quot;&gt;Compr&#233;hension des sorts&lt;/a&gt; 3/jour, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le scalde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+13/+8/+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#POUVOIRDERAGE&quot; title=&quot;Le scalde&quot;&gt;Pouvoir de rage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#MAITREDUSAVOIR&quot; title=&quot;Le scalde&quot;&gt;Ma&#238;tre du savoir&lt;/a&gt; 3/jour, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#REDUCTIONDEDEGATS&quot; title=&quot;Le scalde&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt; 3/-&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+15/+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#MAITRESCALDE&quot; title=&quot;Le scalde&quot;&gt;Ma&#238;tre scalde&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#RAGEINSPIREE&quot; title=&quot;Le scalde&quot;&gt;rage inspir&#233;e&lt;/a&gt; +6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;b&gt;R&#244;le.&lt;/b&gt; Le scalde inspire ses alli&#233;s et les pousse souvent &#224; engager l’ennemi au corps &#224; corps. En dehors des combats, c’est un gu&#233;risseur et un &#233;rudit un peu moins polyvalent qu’un barde mais plus r&#233;sistant.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Classes m&#232;res.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;Barbare&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; Tous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233; de vie.&lt;/b&gt; d8.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Argent de d&#233;part.&lt;/b&gt; 3d6 x 10 po (moyenne 105 po).&lt;br /&gt;&lt;br /&gt;&lt;IMG SRC=&quot;/wiki/public/upload/Illustrations/PNJ/Hakon.jpg&quot; WIDTH=&quot;30%&quot; STYLE=&quot;float: right; background-color: white; padding: 0 0 5px 5px;&quot;/&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Comp&#233;tences de classes&lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classes_15&quot; href=&quot;#Comp&#233;tences_de_classes_15&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les comp&#233;tences de classe du scalde : &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (toutes) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (chant, d&#233;clamation, instruments &#224; cordes, percussions, vents) (Cha) et &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; (Cha).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de comp&#233;tence par niveau.&lt;/b&gt; 4 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Descriptif de la classe&lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_16&quot; href=&quot;#Descriptif_de_la_classe_16&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les aptitudes de classe du scalde.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le scalde est form&#233; au maniement de toutes les armes courantes et de guerre ainsi qu’au port des armures l&#233;g&#232;res et interm&#233;diaires et au maniement des boucliers (mais pas des pavois). &lt;br /&gt;&lt;br /&gt;Il peut lancer des sorts de scalde alors qu’il porte une &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures#Legeres.html&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armure l&#233;g&#232;re&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures#Intermediaires.html&quot; title=&quot;armure interm&#233;diaire&quot;&gt;interm&#233;diaire&lt;/a&gt; et m&#234;me un bouclier sans risquer de voir son sort &#233;chouer. Cela n’annule pas les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;risques d’&#233;chec des sorts profanes&lt;/a&gt; &#233;ventuellement impos&#233;s par d’autres classes. Comme les autres lanceurs de sorts profanes, ses sorts &#224; composante gestuelle risquent d’&#233;chouer s’il les lance en armure lourde.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SAVOIRBARDIQUE&quot; href=&quot;#SAVOIRBARDIQUE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Savoir bardique (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Savoir_bardique_Ext_1&quot; href=&quot;#Savoir_bardique_Ext_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le scalde ajoute la moiti&#233; de son niveau de classe (1 au minimum) &#224; tous ses tests de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; et peut les faire m&#234;me sans formation.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TOURSDEMAGIE&quot; href=&quot;#TOURSDEMAGIE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Tours de magie&lt;a class=&quot;headeranchor&quot; id=&quot;Tours_de_magie_2&quot; href=&quot;#Tours_de_magie_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Un scalde conna&#238;t un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqu&#233; dans la table des sorts connus de scalde ci-contre. Il lance ces sorts comme les autres mais il ne les d&#233;pense pas lors de l’incantation et peut les lancer de nouveau par la suite.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot;&gt;&lt;caption&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TABLESORTSCONNUSSCALDE&quot; href=&quot;#TABLESORTSCONNUSSCALDE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;Sorts de scalde connus&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td COLSPAN=&quot;7&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts connus&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SORTS&quot; href=&quot;#SORTS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_3&quot; href=&quot;#Sorts_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le scalde lance des sorts profanes tir&#233;s de la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Bardes.html&quot; title=&quot;Liste des sorts de barde&quot;&gt;liste des sorts de barde&lt;/a&gt;. Il peut lancer n’importe quel sort connu sans le pr&#233;parer &#224; l’avance. Tous les sorts de barde poss&#232;dent une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;composante verbale&lt;/a&gt; qui peut prendre la forme d’une chanson, d’une d&#233;clamation ou d’une musique non-verbale comme des percussions. Pour apprendre ou lancer un sort, le scalde doit poss&#233;der une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; &#233;gale ou sup&#233;rieure &#224; 10 + niveau du sort. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; contre les sorts du scalde est de 10 + niveau du sort + modificateur de Charisme du scalde.&lt;br /&gt;&lt;br /&gt;Comme d’autres lanceurs de sorts, le scalde ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour. Ce nombre figure dans la table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#TABLESCALDE&quot; title=&quot;Le scalde&quot;&gt;Le scalde&lt;/a&gt;&quot;. De plus, s’il a une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; &#233;lev&#233;e, il re&#231;oit des sorts quotidiens suppl&#233;mentaires (voir la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#TABLEAUCARACTERISTIQUES&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;Modificateurs de caract&#233;ristique et sorts en bonus&lt;/a&gt;&quot;).&lt;br /&gt;&lt;br /&gt;L’&#233;ventail de sorts du scalde est limit&#233;. Au d&#233;but du jeu, il conna&#238;t quatre sorts de niveau 0 et deux de niveau 1. &#192; chaque fois qu’il gagne un niveau dans sa classe, il apprend de nouveaux sorts, comme indiqu&#233; dans la table ci-contre. Le Charisme n’affecte pas le nombre de sorts que le scalde conna&#238;t, contrairement &#224; son nombre de sorts quotidiens. Les valeurs de la
+table ci-contre sont fixes.&lt;br /&gt;&lt;br /&gt;Au niveau 5 puis tous les trois niveaux, le scalde peut remplacer un sort qu’il conna&#238;t par un autre. En pratique, il efface l’ancien sort et ajoute le nouveau. Le nouveau sort doit &#234;tre du m&#234;me niveau que celui qu’il remplace et d’au moins un niveau de moins que le sort de plus haut niveau que le scalde conna&#238;t. Le scalde ne peut &#233;changer qu’un seul sort &#224; chaque fois qu’il en a l’occasion et doit le faire (ou non) quand il obtient ses nouveaux sorts connus lors de sa mont&#233;e de niveau.&lt;br /&gt;&lt;br /&gt;Le scalde n’a pas besoin de pr&#233;parer ses sorts &#224; l’avance, il peut lancer n’importe quel sort connu quand il le d&#233;sire, &#224; condition d’avoir encore une utilisation de sort du niveau requis disponible pour la journ&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CHANTDERAGE&quot; href=&quot;#CHANTDERAGE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Chant de rage (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Chant_de_rage_Sur_4&quot; href=&quot;#Chant_de_rage_Sur_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float:right; padding-left: 6px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs---Classes-Avanc&#233;es.html#5&quot; title=&quot;FAQ du Manuel des joueurs - Classes avanc&#233;es&quot;&gt;→&lt;/a&gt; Gestion de la col&#232;re : Si je suis en rage, en rage unchained, en rage sanguine ou sous toute autre forme de rage similaire, puis-je cumuler autant d&#39;avantages que possible ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Non. Lorsqu&#39;un personnage active ou est affect&#233; par une nouvelle forme de rage (comme la &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html#RAGE&quot; title=&quot;Le barbare&quot;&gt;rage&lt;/a&gt;&lt;/u&gt; du barbare, le &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#CHANTDERAGE&quot; title=&quot;Le scalde&quot;&gt;chant de rage&lt;/a&gt;&lt;/u&gt; du scalde, la &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html#RAGESANGUINE&quot; title=&quot;Le sanguin&quot;&gt;rage sanguine&lt;/a&gt;&lt;/u&gt; du sanguin, et le sort &lt;u&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rage.html&quot; title=&quot;Rage&quot;&gt;rage&lt;/a&gt;&lt;/i&gt;&lt;/u&gt;), il peut choisir entre conserver sa rage actuelle ou accepter la nouvelle rage &#224; la place, de la m&#234;me fa&#231;on qu&#39;une cr&#233;ature affect&#233;e par plusieurs effets de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Metamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;. Si le personnage est soumis aux pulsions d&#39;une rage qu&#39;il est incapable d&#39;arr&#234;ter automatiquement par lui-m&#234;me, comme la rage incontr&#244;l&#233;e d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Sauvage-Enrag&#233;-(Barbare).html&quot; title=&quot;Sauvage enrag&#233;&quot;&gt;sauvage enrag&#233;&lt;/a&gt;, il ne peut pas choisir d&#39;y mettre fin pour la remplacer par le nouvel effet de rage. La seule exception &#224; cette r&#232;gle est la capacit&#233; &lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#MAITRESCALDE&quot; title=&quot;Le scalde&quot;&gt;ma&#238;tre scalde&lt;/a&gt; du scalde, qui permet explicitement au chant de rage du scalde de se cumuler &#224; d&#39;autres effets de rage.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:50px; cursor:pointer&quot; src=&quot;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&quot; title=&quot;Cliquez pour afficher/cacher une FAQ officielle relative &#224; ce texte&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqalt1.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&#39;;&quot; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;Le scalde est form&#233; &#224; jouer de la musique, d&#233;clamer ou donner une repr&#233;sentation similaire pour inspirer ses alli&#233;s et les pousser &#224; accomplir des exploits en mati&#232;re de force et de f&#233;rocit&#233;. Chaque jour, &#224; partir du niveau 1, le scalde peut utiliser ce pouvoir un nombre de rounds &#233;gal &#224; 3 + son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Ensuite, &#224; chaque fois qu’il gagne un niveau, il peut utiliser le chant de rage 2 rounds de plus par jour.&lt;br /&gt;&lt;br /&gt;Il faut accomplir une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; pour entonner le chant de rage mais, ensuite, il suffit d’une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; pour le maintenir &#224; chaque round. Une tierce personne ne peut pas interrompre le chant de rage mais il se termine automatiquement si le scalde est tu&#233;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Paralys&#233;.html&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;tourdi.html&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Inconscient.html&quot; title=&quot;Inconscient&quot;&gt;inconscient&lt;/a&gt; ou si quelque chose l’emp&#234;che d’accomplir une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; par round pour le maintenir. Le chant de rage est assimil&#233; au pouvoir sp&#233;cial de &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html#REPRESENTATIONSBARSIQUES&quot; title=&quot;Le barde&quot;&gt;repr&#233;sentation bardique&lt;/a&gt; en ce qui concerne les effets affectant ces repr&#233;sentations. Le scalde peut apprendre les &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Les chefs d&amp;#39;œuvre du barde&quot;&gt;chefs d’œuvre&lt;/a&gt; du barde.&lt;br /&gt;&lt;br /&gt;Le chant de rage a des composantes auditives mais pas visuelles : pour que le chant affecte les alli&#233;s il leur suffit de l’entendre. Un scalde sourd a 20% de chances de rater ses tentatives d’utilisation du chant de rage. S’il rate le test, sa tentative est tout de m&#234;me d&#233;compt&#233;e de ses utilisations quotidiennes. Les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Assourdi.html&quot; title=&quot;Assourdi&quot;&gt;sourdes&lt;/a&gt; sont immunis&#233;es contre le chant de rage.&lt;br /&gt;&lt;br /&gt;Si le chant de rage affecte des alli&#233;s, ces derniers doivent accepter ou refuser ses effets quand le scalde commence &#224; chanter et au d&#233;but de chacun de leur tour tant qu’ils entendent la chanson. Ce n’est pas une action. Un alli&#233; inconscient accepte automatiquement les effets du chant. Si un alli&#233; accepte les effets du chant de rage, ceux-ci durent jusqu’&#224; la fin de son tour ou jusqu’&#224; ce que le chant s’arr&#234;te, selon ce qui se produit en premier.&lt;br /&gt;&lt;br /&gt;Au niveau 7, le scalde entame son chant de rage par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; au lieu d’une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; et par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt; au niveau 13.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html&quot; title=&quot;Les chants de rage du scalde&quot;&gt;liste des chants de rage&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ECRITUREDEPARCHEMINS&quot; href=&quot;#ECRITUREDEPARCHEMINS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&#201;criture de parchemins&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;criture_de_parchemins_5&quot; href=&quot;#&#201;criture_de_parchemins_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 1, le scalde gagne &lt;a class=&quot;pagelink&quot; href=&quot;&#201;criture-De-Parchemins.html&quot; title=&quot;&#201;criture de parchemins&quot;&gt;&#201;criture de parchemins&lt;/a&gt; comme don suppl&#233;mentaire.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;VERSATILITEARTISTIQUE&quot; href=&quot;#VERSATILITEARTISTIQUE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Versatilit&#233; artistique (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Versatilit&#233;_artistique_Ext_6&quot; href=&quot;#Versatilit&#233;_artistique_Ext_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float:right; padding-left: 6px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;&lt;u&gt;Ce texte a &#233;t&#233; modifi&#233; suite &#224; la FAQ suivante :&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs---Classes-Avanc&#233;es.html#11&quot; title=&quot;FAQ du Manuel des joueurs - Classes avanc&#233;es&quot;&gt;→&lt;/a&gt; Scalde, Versatilit&#233; artistique : Le scalde peut-il utiliser Repr&#233;sentation (instruments &#224; vent) comme versatilit&#233; artistique ? Devrait-elle &#234;tre une comp&#233;tence de classe ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Oui, les scaldes devrait avoir &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (instruments &#224; vent) comme comp&#233;tence de classe, et ils devraient pouvoir l&#39;utiliser comme &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#VERSATILITEARTISTIQUE&quot; title=&quot;Le scalde&quot;&gt;versatilit&#233; artistique&lt;/a&gt;&lt;/u&gt; pour la &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; et le &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt;. Cela sera refl&#233;t&#233; dans le futur errata.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:50px; cursor:pointer&quot; src=&quot;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&quot; title=&quot;Cliquez pour afficher/cacher une FAQ officielle relative &#224; ce texte&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqalt1.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&#39;;&quot; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+Au niveau 2, le scalde choisit un type de repr&#233;sentation associ&#233; &#224; sa classe. Il peut utiliser le bonus qu’il poss&#232;de dans cette comp&#233;tence &#224; la place du bonus dans la comp&#233;tence associ&#233;e indiqu&#233;e plus loin. Dans ce cas, il utilise la totalit&#233; de son bonus de &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt;, y compris son bonus de comp&#233;tence de classe, au lieu du bonus de comp&#233;tence remplac&#233;, qu’il ait investi ou non des rangs dans cette comp&#233;tence et que celle-ci soit ou non une comp&#233;tence de classe. &lt;br /&gt;&lt;br /&gt;Il choisit un type de &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; de remplacement au niveau 7 puis, tous les cinq niveaux par la suite.&lt;br /&gt;&lt;br /&gt;Voici les types de Repr&#233;sentation et les comp&#233;tences qu’elles remplacent : Chant (&lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt;), d&#233;clamation (&lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt;), instruments &#224; cordes (&lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt;), percussions (&lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;) et vents (&lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ERUDITION&quot; href=&quot;#ERUDITION&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&#201;rudition (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;rudition_Ext_7&quot; href=&quot;#&#201;rudition_Ext_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; 
+Au niveau 2, le scalde r&#233;siste aux effets sonores. Il gagne un bonus de +4 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html&quot; title=&quot;Les repr&#233;sentations bardiques du barde&quot;&gt;repr&#233;sentations&lt;/a&gt; bardiques et contre les effets d&#233;pendant du son ou du langage.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;POUVOIRDERAGE&quot; href=&quot;#POUVOIRDERAGE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Pouvoirs de rage (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Pouvoirs_de_rage_Ext_8&quot; href=&quot;#Pouvoirs_de_rage_Ext_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float:right; padding-left: 6px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs---Classes-Avanc&#233;es.html#10&quot; title=&quot;FAQ du Manuel des joueurs - Classes avanc&#233;es&quot;&gt;→&lt;/a&gt; Scalde, Pouvoirs de rage : La classe de scalde indique &#171; Si le scalde poss&#232;de des pouvoirs de rage provenant d&#39;une autre source, il peut les utiliser durant sa rage inspir&#233;e mais ses alli&#233;s n&#39;en disposent pas. &#187; que signifie &#171; autre source &#187; exactement ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Une autre source implique toute source diff&#233;rente des &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#POUVOIRSDERAGE&quot; title=&quot;Le scalde&quot;&gt;pouvoirs de rage&lt;/a&gt;&lt;/u&gt; obtenus au niveau 3 et tous les 3 niveuax par la suite. Quelques exemples d&#39;autres sources sont les pouvoirs de rage obtenus gr&#226;ce &#224; un multiclassage en &lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;barbare&lt;/a&gt;, les pouvoirs de rage obtenus gr&#226;ce au don &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-De-Rage-Suppl&#233;mentaire.html&quot; title=&quot;Pouvoir de rage suppl&#233;mentaire&quot;&gt;Pouvoir de rage suppl&#233;mentaire&lt;/a&gt;, et les pouvoirs de rage obtenus par le biais d&#39;un objet magique.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:50px; cursor:pointer&quot; src=&quot;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&quot; title=&quot;Cliquez pour afficher/cacher une FAQ officielle relative &#224; ce texte&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqalt1.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&#39;;&quot; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;Au niveau 3 puis tous les trois niveaux, le scalde apprend un &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;pouvoir de rage&lt;/a&gt; qui affecte sa personne et les alli&#233;s sous l’influence de sa rage inspir&#233;e. &lt;br /&gt;&lt;br /&gt;Il ne peut pas apprendre un pouvoir de rage qui s’active par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; ou par une d&#233;pense en rounds de rage. Par exemple, il ne peut pas apprendre hurlement terrifiant (puisqu’il faut l’activer par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;), en revanche, il peut choisir &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html#REPOUSSERLENNEMI&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;repousser l&#39;ennemi&lt;/a&gt; (qui remplace une attaque au corps &#224; corps). Sauf indication contraire, le scalde ne peut pas choisir un m&#234;me pouvoir de rage &#224; plusieurs reprises.&lt;br /&gt;&lt;br /&gt;Le scalde choisit les &#233;ventuels pouvoirs de rage qu’il ajoute &#224; son chant quand il entame le chant de rage. Tous les alli&#233;s affect&#233;s b&#233;n&#233;ficient de ces pouvoirs de rage, en utilisant le niveau du scalde comme niveau de barbare effectif. Le scalde utilise son niveau de classe en guise de niveau de &lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;barbare&lt;/a&gt; quand il choisit un pouvoir de rage qui n&#233;cessite un niveau de barbare minimum. &lt;br /&gt;&lt;br /&gt;Si l’effet du pouvoir de rage d&#233;pend du modificateur de caract&#233;ristique du scalde (comme &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html#TOTEMSPIRITUELINFERIEUR&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;totem spirituel inf&#233;rieur&lt;/a&gt;), les alli&#233;s affect&#233;s utilisent aussi le modificateur de caract&#233;ristique du scalde au lieu du leur. Si un pouvoir de rage en exige un autre (comme &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html#PERTURBATEUR&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;perturbateur&lt;/a&gt; qui n&#233;cessite &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html#SUPERSTITION&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;superstition&lt;/a&gt;), le scalde ne peut pas accorder ce pouvoir &#224; ses alli&#233;s, &#224; moins qu’il ne leur accorde aussi sa condition requise. Gr&#226;ce &#224; cette aptitude, il peut ajouter plusieurs pouvoirs de rage &#224; la fois &#224; sa rage inspir&#233;e (et donc offrir simultan&#233;ment superstition et perturbateur). &lt;br /&gt;&lt;br /&gt;Si un pouvoir de rage s’utilise seulement un certain nombre de fois par jour ou par rage (comme &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html#NOUVELLEVIGUEUR&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;nouvelle vigueur&lt;/a&gt;), chaque alli&#233; affect&#233; par le chant de rage inspir&#233;e est soumis &#224; cette limitation (les pouvoirs limit&#233;s &#224; une utilisation par rage &#233;tant limit&#233;s &#224; une utilisation par rage inspir&#233;e). Si le scalde poss&#232;de des pouvoirs de rage provenant d’une autre source, il peut les utiliser durant sa rage inspir&#233;e mais ses alli&#233;s n’en disposent pas. Il ne peut pas choisir un pouvoir de rage en double, &#224; moins qu’un personnage ne puisse choisir ce pouvoir &#224; plusieurs reprises.&lt;br /&gt;&lt;br /&gt;Si le personnage peut devenir enrag&#233; gr&#226;ce &#224; une autre source, il peut utiliser ses pouvoirs de rage de scalde lorsqu’il d&#233;cha&#238;ne son autre rage.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ESQUIVEINSTINCTIVE&quot; href=&quot;#ESQUIVEINSTINCTIVE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Esquive instinctive (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Esquive_instinctive_Ext_9&quot; href=&quot;#Esquive_instinctive_Ext_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; partir du niveau 4, le scalde r&#233;agit au danger plus vite que ses sens devraient normalement le lui permettre. Il n’est jamais &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Prisaud&#233;pourvu.html&quot; title=&quot;Pris au d&#233;pourvu&quot;&gt;pris au d&#233;pourvu&lt;/a&gt; et ne perd pas son bonus de Dext&#233;rit&#233; &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; si son adversaire est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Invisible.html&quot; title=&quot;Invisible&quot;&gt;invisible&lt;/a&gt;, en revanche, il le perd s’il est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Immobilis&#233;.html&quot; title=&quot;Immobilis&#233;&quot;&gt;immobilis&#233;&lt;/a&gt;. M&#234;me avec ce pouvoir, le scalde perd son bonus de Dext&#233;rit&#233; &#224; la CA si son adversaire r&#233;ussit une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Feinte.html&quot; title=&quot;feinte&quot;&gt;feinte&lt;/a&gt; contre lui.&lt;br /&gt;&lt;br /&gt;Si le scalde poss&#232;de d&#233;j&#224; le pouvoir d’esquive instinctive gr&#226;ce &#224; une autre classe, il gagne automatiquement l’&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html#ESQUIVEINSTINCTIVESUPERIEURE&quot; title=&quot;Le scalde&quot;&gt;esquive instinctive sup&#233;rieure&lt;/a&gt; &#224; la place de celle-ci. &lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;COMPREHENSIONDESSORTS&quot; href=&quot;#COMPREHENSIONDESSORTS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Compr&#233;hension des sorts (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Compr&#233;hension_des_sorts_Sur_10&quot; href=&quot;#Compr&#233;hension_des_sorts_Sur_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 5, le scalde conna&#238;t bien la magie des autres lanceurs de sorts et peut utiliser la sienne pour reproduire leurs sorts. Une fois par jour, le scalde peut lancer un sort issu de la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Bardes.html&quot; title=&quot;Liste des sorts de barde&quot;&gt;liste du barde&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Pr&#234;tres.html&quot; title=&quot;Liste des sorts de pr&#234;tre/pr&#234;tre combattant/oracle&quot;&gt;du pr&#234;tre&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Densorceleursmagiciens.html&quot; title=&quot;Liste des sorts d&amp;#39;arcaniste/ensorceleur/magicien&quot;&gt;l’ensorceleur/magicien&lt;/a&gt; comme s’il faisait partie de ses sorts de scalde connus. &lt;br /&gt;&lt;br /&gt;Pour cela, il doit d&#233;penser un emplacement de sort de scalde du m&#234;me niveau que le sort lanc&#233;. L’incantation d’un sort issu de la compr&#233;hension des sorts exige au minimum une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, quelle que soit la dur&#233;e d’incantation normale du sort.&lt;br /&gt;&lt;br /&gt;Le scalde peut utiliser ce pouvoir deux fois par jour au niveau 11 et trois fois par jour au niveau 17. &lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MAITREDUSAVOIR&quot; href=&quot;#MAITREDUSAVOIR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Ma&#238;tre du savoir (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Ma&#238;tre_du_savoir_Ext_11&quot; href=&quot;#Ma&#238;tre_du_savoir_Ext_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; 
+Au niveau 7, le scalde ma&#238;trise de nombreux savoirs et peut &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences#Faire10.html&quot; title=&quot;faire 10&quot;&gt;faire 10&lt;/a&gt; &#224; n’importe quel test de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; tant qu’il poss&#232;de des rangs dans cette comp&#233;tence. Une fois par jour, il peut &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences#Faire10.html&quot; title=&quot;faire 10&quot;&gt;faire 20&lt;/a&gt; sur un test de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; au lieu d’y passer le temps habituellement requis. Il peut utiliser cette aptitude pour faire 20 &#224; un test de Connaissances deux fois par jour &#224; partir du niveau 13 et trois fois par jour &#224; partir du niveau 19. &lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ESQUIVEINSTINCTIVESUPERIEURE&quot; href=&quot;#ESQUIVEINSTINCTIVESUPERIEURE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Esquive instinctive sup&#233;rieure (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Esquive_instinctive_sup&#233;rieure_Ext_12&quot; href=&quot;#Esquive_instinctive_sup&#233;rieure_Ext_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 8, le scalde ne peut plus &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat#Priseentenaille.html&quot; title=&quot;Pris en tenaille&quot;&gt;pris en tenaille&lt;/a&gt;. Ce pouvoir emp&#234;che les cr&#233;atures de le prendre en tenaille avec une &lt;a class=&quot;pagelink&quot; href=&quot;Roublard#Attaquesournoise.html&quot; title=&quot;attaque sournoise&quot;&gt;attaque sournoise&lt;/a&gt;, &#224; moins que l’assaillant n’ait au moins quatre niveaux dans une classe offrant l’attaque sournoise de plus que la cible n’a de niveaux de scalde.&lt;br /&gt;&lt;br /&gt;Si le personnage poss&#232;de d&#233;j&#224; l’esquive instinctive (voir plus haut) gr&#226;ce &#224; une autre classe, les niveaux qu’il poss&#232;de dans cette classe se cumulent avec ceux de scalde quand il s’agit de d&#233;terminer le niveau n&#233;cessaire pour le prendre en tenaille.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;REDUCTIONDEDEGATS&quot; href=&quot;#REDUCTIONDEDEGATS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;R&#233;duction de d&#233;g&#226;ts (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;duction_de_d&#233;g&#226;ts_Ext_13&quot; href=&quot;#R&#233;duction_de_d&#233;g&#226;ts_Ext_13&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 9, le scalde gagne une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;. &#192; chaque fois qu’il subit des d&#233;g&#226;ts inflig&#233;e par une attaque naturelle ou une attaque port&#233;e avec une arme, soustrayez un point aux d&#233;g&#226;ts re&#231;us. Cette r&#233;duction augmente d’un point aux niveaux 14 et 19. Elle peut r&#233;duire les d&#233;g&#226;ts &#224; 0 mais jamais les faire passer en dessous de 0. De plus, le scalde conf&#232;re la m&#234;me &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; aux alli&#233;s sous l’effet de sa rage inspir&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MAITRESCALDE&quot; href=&quot;#MAITRESCALDE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Ma&#238;tre scalde (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Ma&#238;tre_scalde_Sur_14&quot; href=&quot;#Ma&#238;tre_scalde_Sur_14&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 20, la rage inspir&#233;e du scalde n’inflige plus de malus &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; et ne limite plus l’utilisation des pouvoirs et des comp&#233;tences. Les alli&#233;s poss&#233;dant des pouvoirs de rage peuvent utiliser les capacit&#233;s associ&#233;es (comme les pouvoirs de rage du barbare et les pouvoirs de rage sanguine et de lignage du sanguin) sans restriction. Enfin, quand un alli&#233; affect&#233; porte une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes#Attaqueaoutrance.html&quot; title=&quot;attaque &#224; outrance&quot;&gt;attaque &#224; outrance&lt;/a&gt;, il a droit &#224; une attaque de plus par round (comme avec &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt;).
+]]></body>
+  <raw><![CDATA[{s:menuclasseshybrides}
+<div class="fright">'''''Voir aussi les [[Chants de rage|chants de rage]].'''''  
+'''''Voir aussi les [[Chefs doeuvre|chefs d'œuvre]].'''''  
+'''''Voir aussi la [[Liste des sorts de bardes|liste des sorts de barde]].'''''  
+{s:PM0|scalde}'''Voir les archétypes du scalde'''&emsp;
+  <li ID="scalde" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypescalde}</li>
+</div>{s:mca}''Les scaldes sont des poètes, des historiens et des gardiens du savoir qui mettent leurs dons oratoires et leurs chants à profit pour plonger leurs alliés dans une rage frénétique. Ils tempèrent leur violence intérieure avec un vernis de civilisation, chroniquent les batailles héroïques et les exploits de leurs plus grands chefs et racontent ces histoires une fois améliorées pour remporter de nouvelles victoires encore plus sanglantes. La poésie du scalde est tout en nuance et s’interprète souvent de plusieurs manières. Ce personnage dispose de divers talents pour imiter la magie des autres lanceurs de sorts.''
+
+{| CLASS="tablo centre"
+|+ {s:Reference|TABLESCALDE}Le scalde
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" | Spécial
+| COLSPAN="6" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +2
+| +2
+| CLASS="gauche" | [[Scalde#CHANTDERAGE|Chant de rage]],[[Scalde#ECRITUREDEPARCHEMINS|écriture de parchemins]], [[Chants de rage#RAGEINSPIREE|rage inspirée]] +1 (+2 For/Con), [[Scalde#SAVOIRBARDIQUE|savoir bardique]], [[Scalde#TOURSDEMAGIE|tours de magie]]
+| 1
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +3
+| +3
+| CLASS="gauche" | [[Scalde#ERUDITION|Érudition]], [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]
+| 2
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +1
+| +3
+| +3
+| CLASS="gauche" | [[Chants de rage#CHANTDEMARCHE|Chant de marche]], [[Scalde#POUVOIRDERAGE|pouvoir de rage]]
+| 3
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +3
+| +1
+| +4
+| +4
+| CLASS="gauche" | [[Scalde#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[Scalde#RAGEINSPIREE|rage inspirée]] +2
+| 3
+| 1
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +1
+| +4
+| +4
+| CLASS="gauche" | [[Scalde#COMPREHENSIONDESSORTS|Compréhension des sorts]] 1/jour
+| 4
+| 2
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +4
+| +2
+| +5
+| +5
+| CLASS="gauche" | [[Chants de rage#CHANTDEFORCE|Chant de force]], [[Scalde#POUVOIRDERAGE|pouvoir de rage]]
+| 4
+| 3
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +2
+| +5
+| +5
+| CLASS="gauche" | [[Scalde#MAITREDUSAVOIR|Maître du savoir]] 1/jour, [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]
+| 4
+| 3
+| 1
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +6/+1
+| +2
+| +6
+| +6
+| CLASS="gauche" | [[Scalde#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]], [[Scalde#RAGEINSPIREE|rage inspirée]] +3 (+4 For/Con)
+| 4
+| 4
+| 2
+| -
+| -
+| -
+|-
+| 9
+| +6/+1
+| +3
+| +6
+| +6
+| CLASS="gauche" | [[Scalde#POUVOIRDERAGE|Pouvoir de rage]], [[Scalde#REDUCTIONDEDEGATS|réduction de dégâts]]1/-
+| 5
+| 4
+| 3
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +7/+2
+| +3
+| +7
+| +7
+| CLASS="gauche" | [[Chants de rage#CHANTFUNESTE|Chant funeste]]
+| 5
+| 4
+| 3
+| 1
+| -
+| -
+|-
+| 11
+| +8/+3
+| +3
+| +7
+| +7
+| CLASS="gauche" | [[Scalde#COMPREHENSIONDESSORTS|Compréhension des sorts]] 2/jour
+| 5
+| 4
+| 4
+| 2
+| -
+| -
+|- CLASS="alt"
+| 12
+| +9/+4
+| +4
+| +8
+| +8
+| CLASS="gauche" | [[Scalde#POUVOIRDERAGE|Pouvoir de rage]], [[Scalde#RAGEINSPIREE|rage inspirée]] +4, [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]
+| 5
+| 5
+| 4
+| 3
+| -
+| -
+|-
+| 13
+| +9/+4
+| +4
+| +8
+| +8
+| CLASS="gauche" | [[Scalde#MAITREDUSAVOIR|Maître du savoir]] 2/jour
+| 5
+| 5
+| 4
+| 3
+| 1
+| -
+|- CLASS="alt"
+| 14
+| +10/+5
+| +4
+| +9
+| +9
+| CLASS="gauche" | [[Chants de rage#CHANTDESDEFUNTS|Chant des défunts]], [[Scalde#REDUCTIONDEDEGATS|réduction de dégâts]] 2/-
+| 5
+| 5
+| 4
+| 4
+| 2
+| -
+|-
+| 15
+| +11/+6/+1
+| +5
+| +9
+| +9
+| CLASS="gauche" | [[Scalde#POUVOIRDERAGE|Pouvoir de rage]]
+| 5
+| 5
+| 5
+| 4
+| 3
+| -
+|- CLASS="alt"
+| 16
+| +12/+7/+2
+| +5
+| +10
+| +10
+| CLASS="gauche" | [[Scalde#RAGEINSPIREE|Rage inspirée]] +5 (+6 For/Con)
+| 5
+| 5
+| 5
+| 4
+| 3
+| 1
+|-
+| 17
+| +12/+7/+2
+| +5
+| +10
+| +10
+| CLASS="gauche" | [[Scalde#COMPREHENSIONDESSORTS|Compréhension des sorts]] 3/jour, [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]
+| 5
+| 5
+| 5
+| 4
+| 4
+| 2
+|- CLASS="alt"
+| 18
+| +13/+8/+3
+| +6
+| +11
+| +11
+| CLASS="gauche" | [[Scalde#POUVOIRDERAGE|Pouvoir de rage]]
+| 5
+| 5
+| 5
+| 5
+| 4
+| 3
+|-
+| 19
+| +14/+9/+4
+| +6
+| +11
+| +11
+| CLASS="gauche" | [[Scalde#MAITREDUSAVOIR|Maître du savoir]] 3/jour, [[Scalde#REDUCTIONDEDEGATS|réduction de dégâts]] 3/-
+| 5
+| 5
+| 5
+| 5
+| 5
+| 4
+|- CLASS="alt"
+| 20
+| +15/+10/+5
+| +6
+| +12
+| +12
+| CLASS="gauche" | [[Scalde#MAITRESCALDE|Maître scalde]], [[Scalde#RAGEINSPIREE|rage inspirée]] +6
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+|}
+
+'''Rôle.''' Le scalde inspire ses alliés et les pousse souvent à engager l’ennemi au corps à corps. En dehors des combats, c’est un guérisseur et un érudit un peu moins polyvalent qu’un barde mais plus résistant.
+
+'''Classes mères.''' [[Barbare]] et [[Barde|barde]].
+
+'''Alignement.''' Tous.
+
+'''Dé de vie.''' d8.
+
+'''Argent de départ.''' 3d6 x 10 po (moyenne 105 po).
+
+{s:ImageDroite|Illustrations/PNJ/Hakon.jpg|30%}
+===Compétences de classes===
+Voici les compétences de classe du scalde : [[Acrobaties]] (Dex), [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (toutes) (Int), [[Diplomatie]] (Cha), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Estimation]] (Int), [[Évasion]] (Dex), [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Natation]] (For), [[Perception]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Représentation]] (chant, déclamation, instruments à cordes, percussions, vents) (Cha) et [[Utilisation dobjets magiques|Utilisation d’objets magiques]] (Cha).
+
+'''Points de compétence par niveau.''' 4 + modificateur d’[[Intelligence]].
+
+===Descriptif de la classe===
+Voici les aptitudes de classe du scalde.
+
+====Armes et armures====
+Le scalde est formé au maniement de toutes les armes courantes et de guerre ainsi qu’au port des armures légères et intermédiaires et au maniement des boucliers (mais pas des pavois). 
+
+Il peut lancer des sorts de scalde alors qu’il porte une [[armure légère]] ou [[armure intermédiaire|intermédiaire]] et même un bouclier sans risquer de voir son sort échouer. Cela n’annule pas les [[Caractéristiques des armes#RISQUEECHECPROFANE|risques d’échec des sorts profanes]] éventuellement imposés par d’autres classes. Comme les autres lanceurs de sorts profanes, ses sorts à composante gestuelle risquent d’échouer s’il les lance en armure lourde.
+
+{s:Reference|SAVOIRBARDIQUE}
+====Savoir bardique (Ext)====
+Le scalde ajoute la moitié de son niveau de classe (1 au minimum) à tous ses tests de [[Connaissances]] et peut les faire même sans formation.
+
+{s:Reference|TOURSDEMAGIE}
+====Tours de magie====
+Un scalde connaît un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqué dans la table des sorts connus de scalde ci-contre. Il lance ces sorts comme les autres mais il ne les dépense pas lors de l’incantation et peut les lancer de nouveau par la suite.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|+ {s:Reference|TABLESORTSCONNUSSCALDE}Sorts de scalde connus
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="7" CLASS="avecsoustitre" | Sorts connus
+|- CLASS="soustitre"
+| 0 || 1er || 2e || 3e || 4e || 5e || 6e
+|- CLASS="premier"
+| 1 || 4 || 2 || - || - || - || - || -
+|-
+| 2 || 5 || 3 || - || - || - || - || -
+|-
+| 3 || 6 || 4 || - || - || - || - || -
+|-
+| 4 || 6 || 4 || 2 || - || - || - || -
+|-
+| 5 || 6 || 4 || 3 || - || - || - || -
+|-
+| 6 || 6 || 4 || 4 || - || - || - || -
+|-
+| 7 || 6 || 5 || 4 || 2 || - || - || -
+|-
+| 8 || 6 || 5 || 4 || 3 || - || - || -
+|-
+| 9 || 6 || 5 || 4 || 4 || - || - || -
+|-
+| 10 || 6 || 5 || 5 || 4 || 2 || - || -
+|-
+| 11 || 6 || 6 || 5 || 4 || 3 || - || -
+|-
+| 12 || 6 || 6 || 5 || 4 || 4 || - || -
+|-
+| 13 || 6 || 6 || 5 || 5 || 4 || 2 || -
+|-
+| 14 || 6 || 6 || 6 || 5 || 4 || 3 || -
+|-
+| 15 || 6 || 6 || 6 || 5 || 4 || 4 || -
+|-
+| 16 || 6 || 6 || 6 || 5 || 5 || 4 || 2
+|-
+| 17 || 6 || 6 || 6 || 6 || 5 || 4 || 3
+|-
+| 18 || 6 || 6 || 6 || 6 || 5 || 4 || 4
+|-
+| 19 || 6 || 6 || 6 || 6 || 5 || 5 || 4
+|-
+| 20 || 6 || 6 || 6 || 6 || 6 || 5 || 5
+|}
+</div></div>{s:Reference|SORTS}
+====Sorts====
+Le scalde lance des sorts profanes tirés de la [[liste des sorts de bardes|liste des sorts de barde]]. Il peut lancer n’importe quel sort connu sans le préparer à l’avance. Tous les sorts de barde possèdent une [[composantes|composante verbale]] qui peut prendre la forme d’une chanson, d’une déclamation ou d’une musique non-verbale comme des percussions. Pour apprendre ou lancer un sort, le scalde doit posséder une valeur de [[Charisme]] égale ou supérieure à 10 + niveau du sort. Le [[DD]] du [[jds|jet de sauvegarde]] contre les sorts du scalde est de 10 + niveau du sort + modificateur de Charisme du scalde.
+
+Comme d’autres lanceurs de sorts, le scalde ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour. Ce nombre figure dans la table "[[scalde#TABLESCALDE|Le scalde]]". De plus, s’il a une valeur de [[Charisme]] élevée, il reçoit des sorts quotidiens supplémentaires (voir la Table "[[caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
+
+L’éventail de sorts du scalde est limité. Au début du jeu, il connaît quatre sorts de niveau 0 et deux de niveau 1. À chaque fois qu’il gagne un niveau dans sa classe, il apprend de nouveaux sorts, comme indiqué dans la table ci-contre. Le Charisme n’affecte pas le nombre de sorts que le scalde connaît, contrairement à son nombre de sorts quotidiens. Les valeurs de la
+table ci-contre sont fixes.
+
+Au niveau 5 puis tous les trois niveaux, le scalde peut remplacer un sort qu’il connaît par un autre. En pratique, il efface l’ancien sort et ajoute le nouveau. Le nouveau sort doit être du même niveau que celui qu’il remplace et d’au moins un niveau de moins que le sort de plus haut niveau que le scalde connaît. Le scalde ne peut échanger qu’un seul sort à chaque fois qu’il en a l’occasion et doit le faire (ou non) quand il obtient ses nouveaux sorts connus lors de sa montée de niveau.
+
+Le scalde n’a pas besoin de préparer ses sorts à l’avance, il peut lancer n’importe quel sort connu quand il le désire, à condition d’avoir encore une utilisation de sort du niveau requis disponible pour la journée.
+
+{s:Reference|CHANTDERAGE}
+====Chant de rage (Sur)====
+{s:FAQ|'''''[[FAQ- Manuel des joueurs - Classes avancées#5|→]] Gestion de la colère : Si je suis en rage, en rage unchained, en rage sanguine ou sous toute autre forme de rage similaire, puis-je cumuler autant d'avantages que possible ?'''''
+
+Non. Lorsqu'un personnage active ou est affecté par une nouvelle forme de rage (comme la __[[Barbare#RAGE|rage]]__ du barbare, le __[[Scalde#CHANTDERAGE|chant de rage]]__ du scalde, la __[[Sanguin#RAGESANGUINE|rage sanguine]]__ du sanguin, et le sort __''[[rage]]''__), il peut choisir entre conserver sa rage actuelle ou accepter la nouvelle rage à la place, de la même façon qu'une créature affectée par plusieurs effets de [[branche métamorphose|métamorphose]]. Si le personnage est soumis aux pulsions d'une rage qu'il est incapable d'arrêter automatiquement par lui-même, comme la rage incontrôlée d'un [[Sauvage enragé (barbare)|sauvage enragé]], il ne peut pas choisir d'y mettre fin pour la remplacer par le nouvel effet de rage. La seule exception à cette règle est la capacité [[Scalde#MAITRESCALDE|maître scalde]] du scalde, qui permet explicitement au chant de rage du scalde de se cumuler à d'autres effets de rage.}Le scalde est formé à jouer de la musique, déclamer ou donner une représentation similaire pour inspirer ses alliés et les pousser à accomplir des exploits en matière de force et de férocité. Chaque jour, à partir du niveau 1, le scalde peut utiliser ce pouvoir un nombre de rounds égal à 3 + son modificateur de [[Charisme]]. Ensuite, à chaque fois qu’il gagne un niveau, il peut utiliser le chant de rage 2 rounds de plus par jour.
+
+Il faut accomplir une [[action simple]] pour entonner le chant de rage mais, ensuite, il suffit d’une [[action libre]] pour le maintenir à chaque round. Une tierce personne ne peut pas interrompre le chant de rage mais il se termine automatiquement si le scalde est tué, [[paralysé]], [[étourdi]], [[inconscient]] ou si quelque chose l’empêche d’accomplir une [[action libre]] par round pour le maintenir. Le chant de rage est assimilé au pouvoir spécial de [[Barde#REPRESENTATIONSBARSIQUES|représentation bardique]] en ce qui concerne les effets affectant ces représentations. Le scalde peut apprendre les [[chefs doeuvre|chefs d’œuvre]] du barde.
+
+Le chant de rage a des composantes auditives mais pas visuelles : pour que le chant affecte les alliés il leur suffit de l’entendre. Un scalde sourd a 20% de chances de rater ses tentatives d’utilisation du chant de rage. S’il rate le test, sa tentative est tout de même décomptée de ses utilisations quotidiennes. Les créatures [[assourdi|sourdes]] sont immunisées contre le chant de rage.
+
+Si le chant de rage affecte des alliés, ces derniers doivent accepter ou refuser ses effets quand le scalde commence à chanter et au début de chacun de leur tour tant qu’ils entendent la chanson. Ce n’est pas une action. Un allié inconscient accepte automatiquement les effets du chant. Si un allié accepte les effets du chant de rage, ceux-ci durent jusqu’à la fin de son tour ou jusqu’à ce que le chant s’arrête, selon ce qui se produit en premier.
+
+Au niveau 7, le scalde entame son chant de rage par une [[action de mouvement]] au lieu d’une [[action simple]] et par une [[action rapide]] au niveau 13.
+
+''Voir la [[Chants de rage|liste des chants de rage]].''
+
+{s:Reference|ECRITUREDEPARCHEMINS}
+====Écriture de parchemins====
+Au niveau 1, le scalde gagne [[Écriture de parchemins]] comme don supplémentaire.
+
+{s:Reference|VERSATILITEARTISTIQUE}
+====Versatilité artistique (Ext)====
+{s:FAQ|'''''__Ce texte a été modifié suite à la FAQ suivante :__
+
+[[FAQ- Manuel des joueurs - Classes avancées#11|→]] Scalde, Versatilité artistique : Le scalde peut-il utiliser Représentation (instruments à vent) comme versatilité artistique ? Devrait-elle être une compétence de classe ?'''''
+
+Oui, les scaldes devrait avoir [[Représentation]] (instruments à vent) comme compétence de classe, et ils devraient pouvoir l'utiliser comme __[[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]__ pour la [[Diplomatie]] et le [[Dressage]]. Cela sera reflété dans le futur errata.}
+Au niveau 2, le scalde choisit un type de représentation associé à sa classe. Il peut utiliser le bonus qu’il possède dans cette compétence à la place du bonus dans la compétence associée indiquée plus loin. Dans ce cas, il utilise la totalité de son bonus de [[Représentation]], y compris son bonus de compétence de classe, au lieu du bonus de compétence remplacé, qu’il ait investi ou non des rangs dans cette compétence et que celle-ci soit ou non une compétence de classe. 
+
+Il choisit un type de [[Représentation]] de remplacement au niveau 7 puis, tous les cinq niveaux par la suite.
+
+Voici les types de Représentation et les compétences qu’elles remplacent : Chant ([[Bluff]], [[Psychologie]]), déclamation ([[Diplomatie]], [[Psychologie]]), instruments à cordes ([[Bluff]], [[Diplomatie]]), percussions ([[Dressage]], [[Intimidation]]) et vents ([[Diplomatie]], [[Dressage]]).
+
+{s:Reference|ERUDITION}
+====Érudition (Ext)==== 
+Au niveau 2, le scalde résiste aux effets sonores. Il gagne un bonus de +4 aux [[jds|jets de sauvegarde]] contre les [[représentations]] bardiques et contre les effets dépendant du son ou du langage.
+
+{s:Reference|POUVOIRDERAGE}
+====Pouvoirs de rage (Ext)====
+{s:FAQ|'''''[[FAQ- Manuel des joueurs - Classes avancées#10|→]] Scalde, Pouvoirs de rage : La classe de scalde indique « Si le scalde possède des pouvoirs de rage provenant d'une autre source, il peut les utiliser durant sa rage inspirée mais ses alliés n'en disposent pas. » que signifie « autre source » exactement ?'''''
+
+Une autre source implique toute source différente des __[[Scalde#POUVOIRSDERAGE|pouvoirs de rage]]__ obtenus au niveau 3 et tous les 3 niveuax par la suite. Quelques exemples d'autres sources sont les pouvoirs de rage obtenus grâce à un multiclassage en [[barbare]], les pouvoirs de rage obtenus grâce au don [[Pouvoir de rage supplémentaire]], et les pouvoirs de rage obtenus par le biais d'un objet magique.}Au niveau 3 puis tous les trois niveaux, le scalde apprend un [[pouvoirs de rage|pouvoir de rage]] qui affecte sa personne et les alliés sous l’influence de sa rage inspirée. 
+
+Il ne peut pas apprendre un pouvoir de rage qui s’active par une [[action simple]] ou par une dépense en rounds de rage. Par exemple, il ne peut pas apprendre hurlement terrifiant (puisqu’il faut l’activer par une [[action simple]]), en revanche, il peut choisir [[Pouvoirs de rage#REPOUSSERLENNEMI|repousser l'ennemi]] (qui remplace une attaque au corps à corps). Sauf indication contraire, le scalde ne peut pas choisir un même pouvoir de rage à plusieurs reprises.
+
+Le scalde choisit les éventuels pouvoirs de rage qu’il ajoute à son chant quand il entame le chant de rage. Tous les alliés affectés bénéficient de ces pouvoirs de rage, en utilisant le niveau du scalde comme niveau de barbare effectif. Le scalde utilise son niveau de classe en guise de niveau de [[barbare]] quand il choisit un pouvoir de rage qui nécessite un niveau de barbare minimum. 
+
+Si l’effet du pouvoir de rage dépend du modificateur de caractéristique du scalde (comme [[Pouvoirs de rage#TOTEMSPIRITUELINFERIEUR|totem spirituel inférieur]]), les alliés affectés utilisent aussi le modificateur de caractéristique du scalde au lieu du leur. Si un pouvoir de rage en exige un autre (comme [[Pouvoirs de rage#PERTURBATEUR|perturbateur]] qui nécessite [[Pouvoirs de rage#SUPERSTITION|superstition]]), le scalde ne peut pas accorder ce pouvoir à ses alliés, à moins qu’il ne leur accorde aussi sa condition requise. Grâce à cette aptitude, il peut ajouter plusieurs pouvoirs de rage à la fois à sa rage inspirée (et donc offrir simultanément superstition et perturbateur). 
+
+Si un pouvoir de rage s’utilise seulement un certain nombre de fois par jour ou par rage (comme [[Pouvoirs de rage#NOUVELLEVIGUEUR|nouvelle vigueur]]), chaque allié affecté par le chant de rage inspirée est soumis à cette limitation (les pouvoirs limités à une utilisation par rage étant limités à une utilisation par rage inspirée). Si le scalde possède des pouvoirs de rage provenant d’une autre source, il peut les utiliser durant sa rage inspirée mais ses alliés n’en disposent pas. Il ne peut pas choisir un pouvoir de rage en double, à moins qu’un personnage ne puisse choisir ce pouvoir à plusieurs reprises.
+
+Si le personnage peut devenir enragé grâce à une autre source, il peut utiliser ses pouvoirs de rage de scalde lorsqu’il déchaîne son autre rage.
+
+{s:Reference|ESQUIVEINSTINCTIVE}
+====Esquive instinctive (Ext)====
+À partir du niveau 4, le scalde réagit au danger plus vite que ses sens devraient normalement le lui permettre. Il n’est jamais [[pris au dépourvu]] et ne perd pas son bonus de Dextérité à la [[CA]] si son adversaire est [[invisible]], en revanche, il le perd s’il est [[immobilisé]]. Même avec ce pouvoir, le scalde perd son bonus de Dextérité à la CA si son adversaire réussit une [[feinte]] contre lui.
+
+Si le scalde possède déjà le pouvoir d’esquive instinctive grâce à une autre classe, il gagne automatiquement l’[[Scalde#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]] à la place de celle-ci. 
+
+{s:Reference|COMPREHENSIONDESSORTS}
+====Compréhension des sorts (Sur)====
+Au niveau 5, le scalde connaît bien la magie des autres lanceurs de sorts et peut utiliser la sienne pour reproduire leurs sorts. Une fois par jour, le scalde peut lancer un sort issu de la [[Liste des sorts de bardes|liste du barde]], [[Liste des sorts de prêtres|du prêtre]] ou de [[Liste des sorts densorceleursmagiciens|l’ensorceleur/magicien]] comme s’il faisait partie de ses sorts de scalde connus. 
+
+Pour cela, il doit dépenser un emplacement de sort de scalde du même niveau que le sort lancé. L’incantation d’un sort issu de la compréhension des sorts exige au minimum une [[action complexe]], quelle que soit la durée d’incantation normale du sort.
+
+Le scalde peut utiliser ce pouvoir deux fois par jour au niveau 11 et trois fois par jour au niveau 17. 
+
+{s:Reference|MAITREDUSAVOIR}
+====Maître du savoir (Ext)==== 
+Au niveau 7, le scalde maîtrise de nombreux savoirs et peut [[faire 10]] à n’importe quel test de [[Connaissances]] tant qu’il possède des rangs dans cette compétence. Une fois par jour, il peut [[faire 10|faire 20]] sur un test de [[Connaissances]] par une [[action simple]] au lieu d’y passer le temps habituellement requis. Il peut utiliser cette aptitude pour faire 20 à un test de Connaissances deux fois par jour à partir du niveau 13 et trois fois par jour à partir du niveau 19. 
+
+{s:Reference|ESQUIVEINSTINCTIVESUPERIEURE}
+====Esquive instinctive supérieure (Ext)====
+Au niveau 8, le scalde ne peut plus être [[pris en tenaille]]. Ce pouvoir empêche les créatures de le prendre en tenaille avec une [[attaque sournoise]], à moins que l’assaillant n’ait au moins quatre niveaux dans une classe offrant l’attaque sournoise de plus que la cible n’a de niveaux de scalde.
+
+Si le personnage possède déjà l’esquive instinctive (voir plus haut) grâce à une autre classe, les niveaux qu’il possède dans cette classe se cumulent avec ceux de scalde quand il s’agit de déterminer le niveau nécessaire pour le prendre en tenaille.
+
+{s:Reference|REDUCTIONDEDEGATS}
+====Réduction de dégâts (Ext)====
+Au niveau 9, le scalde gagne une [[RD|réduction de dégâts]]. À chaque fois qu’il subit des dégâts infligée par une attaque naturelle ou une attaque portée avec une arme, soustrayez un point aux dégâts reçus. Cette réduction augmente d’un point aux niveaux 14 et 19. Elle peut réduire les dégâts à 0 mais jamais les faire passer en dessous de 0. De plus, le scalde confère la même [[RD]] aux alliés sous l’effet de sa rage inspirée.
+
+{s:Reference|MAITRESCALDE}
+====Maître scalde (Sur)====
+Au niveau 20, la rage inspirée du scalde n’inflige plus de malus à la [[CA]] et ne limite plus l’utilisation des pouvoirs et des compétences. Les alliés possédant des pouvoirs de rage peuvent utiliser les capacités associées (comme les pouvoirs de rage du barbare et les pouvoirs de rage sanguine et de lignage du sanguin) sans restriction. Enfin, quand un allié affecté porte une [[attaque à outrance]], il a droit à une attaque de plus par round (comme avec ''[[rapidité]]'').]]></raw>
+  <fullName>Pathfinder-RPG.Scalde</fullName>
+</wikiPage>

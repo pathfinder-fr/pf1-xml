@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Griffes métalliques</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-16 21:34:24Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Griffes métalliques de lacération</link><link>Pathfinder-RPG.homme-félin (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.homme-félin (race)</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.arme légère</link><link>Pathfinder-RPG.arme de maître</link><link>Pathfinder-RPG.homme-félin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Homme-f&#233;lin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Homme-f&#233;lin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Homme-f&#233;lin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Homme-F&#233;lin-(Race).html&quot; title=&quot;Les hommes-f&#233;lins&quot;&gt;h-f&#233;lins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 305 po ; &lt;b&gt;Poids&lt;/b&gt; 1 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quipement-Daventurier.html&quot; title=&quot;&#201;quipement d&amp;#39;aventurier&quot;&gt;&#201;quipement d&#39;aventurier&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Ces lames subtiles ne peuvent &#234;tre utilis&#233;es que par les &lt;a class=&quot;pagelink&quot; href=&quot;Homme-F&#233;lin-(Race).html&quot; title=&quot;Les hommes-f&#233;lins&quot;&gt;hommes-f&#233;lins&lt;/a&gt; ayant le trait racial griffes du f&#233;lin. Achet&#233;es par lots de cinq, elles s&#39;adaptent aux griffes du porteur sur une main. Les lames accordent un bonus d&#39;alt&#233;ration de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt; de griffe que le porteur effectue de cette main et modifient le type d&#39;arme : d&#39;arme naturelle, elle devient une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armelegere.html&quot; title=&quot;arme l&#233;g&#232;re&quot;&gt;arme l&#233;g&#232;re&lt;/a&gt; tranchante. Les hommes-f&#233;lins ayant le trait racial griffes du f&#233;lin sont form&#233;s au maniement de cette arme. Il est possible d&#39;am&#233;liorer les griffes m&#233;talliques comme une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armesmaitre.html&quot; title=&quot;arme de ma&#238;tre&quot;&gt;arme de ma&#238;tre&lt;/a&gt; au prix normal. Le co&#251;t indiqu&#233; pour l&#39;objet s&#39;applique &#224; un ensemble de cinq lames pour une main.
+]]></body>
+  <raw><![CDATA[{s:racial|Homme-félin (race)|h-félins|Illustrations/PNJ/Homme-félin.jpg}{s:MR}'''Prix''' 305 po ; '''Poids''' 1 kg  
+<span class="Catégorie">'''Catégorie''' [[Équipement daventurier|Équipement d'aventurier]]</span>
+<hr>
+Ces lames subtiles ne peuvent être utilisées que par les [[Homme-félin (race)|hommes-félins]] ayant le trait racial griffes du félin. Achetées par lots de cinq, elles s'adaptent aux griffes du porteur sur une main. Les lames accordent un bonus d'altération de +1 aux [[jet dattaque|jets d'attaque]] de griffe que le porteur effectue de cette main et modifient le type d'arme : d'arme naturelle, elle devient une [[arme légère]] tranchante. Les hommes-félins ayant le trait racial griffes du félin sont formés au maniement de cette arme. Il est possible d'améliorer les griffes métalliques comme une [[arme de maître]] au prix normal. Le coût indiqué pour l'objet s'applique à un ensemble de cinq lames pour une main.]]></raw>
+  <fullName>Pathfinder-RPG.Griffes métalliques (objet)</fullName>
+</wikiPage>

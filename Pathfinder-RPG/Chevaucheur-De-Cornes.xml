@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chevaucheur de cornes</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don combat</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2021-10-05 23:59:34Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Charge du chevaucheur de cornes</link><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Harnais à corne (objet)</link><link>Pathfinder-RPG.Tir monté</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Combat monté</link><link>Pathfinder-RPG.orque (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Orque (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;i&gt;L’orque peut se d&#233;fendre en utilisant les cornes ou les d&#233;fenses d’une cr&#233;ature &#224; laquelle il est attach&#233;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCOMBAT&quot; title=&quot;Les dons&quot;&gt;combat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Bonusdebasealattaque.html&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; +1&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; L’orque gagne un bonus de bouclier de +1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; quand il est fix&#233; &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Harnais-&#192;-Corne-(Objet).html&quot; title=&quot;Harnais &#224; corne&quot;&gt;harnais &#224; corne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Sp&#233;cial.&lt;/b&gt; Une cr&#233;ature qui poss&#232;de ce don peut prendre le don &lt;a class=&quot;pagelink&quot; href=&quot;Tir-Mont&#233;.html&quot; title=&quot;Tir mont&#233;&quot;&gt;Tir mont&#233;&lt;/a&gt; m&#234;me si elle ne poss&#232;de pas de rang dans la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; ou le don &lt;a class=&quot;pagelink&quot; href=&quot;Combat-Mont&#233;.html&quot; title=&quot;Combat mont&#233;&quot;&gt;Combat mont&#233;&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:cm}''L’orque peut se défendre en utilisant les cornes ou les défenses d’une créature à laquelle il est attaché.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[BBA]] +1
+
+'''Avantages.''' L’orque gagne un bonus de bouclier de +1 à la [[CA]] quand il est fixé à un [[Harnais à corne (objet)|harnais à corne]].
+
+'''Spécial.''' Une créature qui possède ce don peut prendre le don [[Tir monté]] même si elle ne possède pas de rang dans la compétence [[Équitation]] ou le don [[Combat monté]].]]></raw>
+  <fullName>Pathfinder-RPG.Chevaucheur de cornes</fullName>
+</wikiPage>

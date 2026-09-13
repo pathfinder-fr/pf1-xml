@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Robe de voyage stellaire</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-30 15:43:43Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux portés sur le corps</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux portés sur le corps</link><link>Pathfinder-RPG.Collier dadaptation</link><link>Pathfinder-RPG.Ailes de vol</link><link>Pathfinder-RPG.MJ</link><link>Pathfinder-RPG.Animation suspendue</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Téléportation interplanétaire</link><link>Pathfinder-RPG.sort Vol</link><link>Pathfinder-RPG.Desna (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fDesna.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Desna (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fDesna.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Desna-(Technique).html&quot; title=&quot;Desna&quot;&gt;Desna&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Robe de voyage stellaire&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; puissante ; &lt;b&gt;NLS&lt;/b&gt; 17 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Sur-Le-Corps.html&quot; title=&quot;Objets merveilleux port&#233;s sur le corps&quot;&gt;corps&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 82 000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette simple robe bleue semble banale le jour, mais elle brille sous la lumi&#232;re des &#233;toiles ou de la lune. Le porteur est constamment prot&#233;g&#233; comme s&#39;il portait un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Collier-Dadaptation.html&quot; title=&quot;Collier d&amp;#39;adaptation&quot;&gt;collier d&#39;adaptation&lt;/a&gt;&lt;/i&gt;. Sur commande, la robe d&#233;ploie de p&#226;les ailes de phal&#232;ne, permettant au porteur de voler comme s&#39;il utilisait des &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ailes-De-Vol.html&quot; title=&quot;Ailes de vol&quot;&gt;ailes de vol&lt;/a&gt;&lt;/i&gt;. Dans le vide spatial, le porteur peut voler &#224; une vitesse incroyable. Bien que la dur&#233;e exacte du voyage varie, un voyage &#224; l&#39;int&#233;rieur d&#39;un syst&#232;me solaire prend normalement 3d20 mois, tandis qu&#39;un voyage au-del&#224; devrait prendre 3d20 ans (ou plus, &#224; la discr&#233;tion du &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Maitredujeu.html&quot; title=&quot;MJ&quot;&gt;MJ&lt;/a&gt;), &#224; condition que le porteur connaisse le chemin jusqu&#39;&#224; sa destination. Lorsqu&#39;il vole de cette mani&#232;re, le porteur peut entrer dans un &#233;tat d&#39;hibernation (similaire &#224; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animation-Suspendue.html&quot; title=&quot;Animation suspendue&quot;&gt;animation suspendue&lt;/a&gt;&lt;/i&gt;), se r&#233;veillant instantan&#233;ment s&#39;il est attaqu&#233;, lorsqu&#39;il atteint sa destination, ou apr&#232;s une p&#233;riode de temps d&#233;termin&#233;e (comme un mois ou une ann&#233;e).
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animation-Suspendue.html&quot; title=&quot;Animation suspendue&quot;&gt;animation suspendue&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d&#39;apparence&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Interplan&#233;taire.html&quot; title=&quot;T&#233;l&#233;portation interplan&#233;taire&quot;&gt;t&#233;l&#233;portation interplan&#233;taire&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Vol.html&quot; title=&quot;Vol&quot;&gt;vol&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 41 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Desna|%2fPCUP%2fReligion-PNG%2fDesna.png}<div class="BD">
+{s:BDTitre|Robe de voyage stellaire|{s:ISG}}
+'''Aura''' [[Transmutation]] puissante ; '''NLS''' 17 ; '''Emplacement''' [[Objets merveilleux portés sur le corps|corps]] ; '''Prix''' 82 000 po ; '''Poids''' 0,5 kg
+(((Description)))
+{s:cs}Cette simple robe bleue semble banale le jour, mais elle brille sous la lumière des étoiles ou de la lune. Le porteur est constamment protégé comme s'il portait un ''[[collier dadaptation|collier d'adaptation]]''. Sur commande, la robe déploie de pâles ailes de phalène, permettant au porteur de voler comme s'il utilisait des ''[[ailes de vol]]''. Dans le vide spatial, le porteur peut voler à une vitesse incroyable. Bien que la durée exacte du voyage varie, un voyage à l'intérieur d'un système solaire prend normalement 3d20 mois, tandis qu'un voyage au-delà devrait prendre 3d20 ans (ou plus, à la discrétion du [[MJ]]), à condition que le porteur connaisse le chemin jusqu'à sa destination. Lorsqu'il vole de cette manière, le porteur peut entrer dans un état d'hibernation (similaire à ''[[animation suspendue]]''), se réveillant instantanément s'il est attaqué, lorsqu'il atteint sa destination, ou après une période de temps déterminée (comme un mois ou une année).
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[animation suspendue]]'', ''[[modification dapparence|modification d'apparence]]'', ''[[téléportation interplanétaire]]'', ''[[sort Vol|vol]]'' ; '''Coût''' 41 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Robe de voyage stellaire</fullName>
+</wikiPage>

@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Compétences fusionnées, Perception</title>
+  <categories><category>Pathfinder-RPG.Src Pathfinder unchained</category></categories>
+  <lastModified>2021-09-26 19:31:10Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences fusionnées, Art de la magie</link><link>Pathfinder-RPG.Compétences fusionnées, Finesse</link><link>Pathfinder-RPG.Compétences fusionnées, Influence</link><link>Pathfinder-RPG.Compétences fusionnées, Perception</link><link>Pathfinder-RPG.Compétences fusionnées, Survie</link><link>Pathfinder-RPG.Compétences groupées</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Compétences fusionnées, Perception</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Compétences fusionnées, Discrétion</link><link>Pathfinder-RPG.Exploration</link><link>Pathfinder-RPG.Torche (objet)</link><link>Pathfinder-RPG.Bougie (objet)</link><link>Pathfinder-RPG.Compétences fusionnées, Influence</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.Règles alternatives unchained</link><link>Pathfinder-RPG.Classes unchained</link><link>Pathfinder-RPG.Barbare unchained</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Moine unchained</link><link>Pathfinder-RPG.Roublard unchained</link><link>Pathfinder-RPG.Bonus de base fractionnaires</link><link>Pathfinder-RPG.Progression échelonnée</link><link>Pathfinder-RPG.Compétences et options unchained</link><link>Pathfinder-RPG.Compétences contextuelles</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Artisanat et Profession alternatives</link><link>Pathfinder-RPG.Extensions de compétences</link><link>Pathfinder-RPG.Variante de multiclassage</link><link>Pathfinder-RPG.Mécanismes de jeu unchained</link><link>Pathfinder-RPG.Alignement unchained</link><link>Pathfinder-RPG.Éliminer lalignement</link><link>Pathfinder-RPG.Gestion dactions révisée</link><link>Pathfinder-RPG.Éliminer les attaques multiples</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Seuils de blessure</link><link>Pathfinder-RPG.Maladies et poisons unchained</link><link>Pathfinder-RPG.Magie unchained</link><link>Pathfinder-RPG.Incantation simplifiée</link><link>Pathfinder-RPG.Altérations de la magie</link><link>Pathfinder-RPG.Composantes matérielles ésotériques</link><link>Pathfinder-RPG.Bonus de progression automatique</link><link>Pathfinder-RPG.Bonus intrinsèques des objets</link><link>Pathfinder-RPG.Objets évolutifs</link><link>Pathfinder-RPG.Création dynamique dobjets magiques</link><link>Pathfinder-RPG.Création de monstres simplifiée</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 1</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 3</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 4</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 5</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 6</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 7</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 8</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 9</link><link>Pathfinder-RPG.Création de monstres simplifiée, Exemple</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles alternatives unchained&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_alternatives_unchained_0&quot; href=&quot;#R&#232;gles_alternatives_unchained_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Alternatives-Unchained.html&quot; title=&quot;R&#232;gles alternatives unchained&quot;&gt;Pr&#233;sentation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonClasses&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Classes&#39;);&quot; onmouseout=&quot;outButton(&#39;Classes&#39;);&quot; onclick=&quot;expandMenu(&#39;Classes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-Unchained.html&quot; title=&quot;Classes unchained&quot;&gt;Classes unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Classes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare-Unchained.html&quot; title=&quot;Le barbare unchained&quot;&gt;Barbare unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;Conjurateur unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine-Unchained.html&quot; title=&quot;Le moine unchained&quot;&gt;Moine unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard-Unchained.html&quot; title=&quot;Le roublard unchained&quot;&gt;Roublard unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Base-Fractionnaires.html&quot; title=&quot;Bonus de base fractionnaires&quot;&gt;Bonus de base fractionnaires&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Progression-&#201;chelonn&#233;e.html&quot; title=&quot;Progression &#233;chelonn&#233;e&quot;&gt;Progression &#233;chelonn&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonComp&#233;tences&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Comp&#233;tences&#39;);&quot; onmouseout=&quot;outButton(&#39;Comp&#233;tences&#39;);&quot; onclick=&quot;expandMenu(&#39;Comp&#233;tences&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Et-Options-Unchained.html&quot; title=&quot;Comp&#233;tences et options unchained&quot;&gt;Comp&#233;tences et options unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Comp&#233;tences&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Contextuelles.html&quot; title=&quot;Comp&#233;tences contextuelles&quot;&gt;Comp&#233;tences contextuelles&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es&quot;&gt;Comp&#233;tences fusionn&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Group&#233;es.html&quot; title=&quot;Comp&#233;tences group&#233;es&quot;&gt;Comp&#233;tences group&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat-Et-Profession-Alternatives.html&quot; title=&quot;Artisanat et Profession alternatives&quot;&gt;Artisanat et Profession alternatives&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extensions-De-Comp&#233;tences.html&quot; title=&quot;Extensions de comp&#233;tences&quot;&gt;Extensions de comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variante-De-Multiclassage.html&quot; title=&quot;Variante de multiclassage&quot;&gt;Variante de multiclassage&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonM&#233;canismes&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;M&#233;canismes&#39;);&quot; onmouseout=&quot;outButton(&#39;M&#233;canismes&#39;);&quot; onclick=&quot;expandMenu(&#39;M&#233;canismes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;canismes-De-Jeu-Unchained.html&quot; title=&quot;M&#233;canismes de jeu unchained&quot;&gt;M&#233;canismes de jeu unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;M&#233;canismes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Unchained.html&quot; title=&quot;L&amp;#39;alignement unchained&quot;&gt;Alignement unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Lalignement.html&quot; title=&quot;&#201;liminer l&amp;#39;alignement&quot;&gt;&#201;liminer l&#39;alignement&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gestion-Dactions-R&#233;vis&#233;e.html&quot; title=&quot;Gestion d&amp;#39;actions r&#233;vis&#233;e&quot;&gt;Gestion d&#39;actions r&#233;vis&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Les-Attaques-Multiples.html&quot; title=&quot;&#201;liminer les attaques multiples&quot;&gt;&#201;liminer les attaques multiples&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Et-Astuces-Martiales.html&quot; title=&quot;Endurance et Astuces martiales&quot;&gt;Endurance et Astuces martiales&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seuils-De-Blessure.html&quot; title=&quot;Seuils de blessure&quot;&gt;Seuils de blessure&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies-Et-Poisons-Unchained.html&quot; title=&quot;Maladies et poisons unchained&quot;&gt;Maladies et poisons unchained&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMagie&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Magie&#39;);&quot; onmouseout=&quot;outButton(&#39;Magie&#39;);&quot; onclick=&quot;expandMenu(&#39;Magie&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Unchained.html&quot; title=&quot;Magie unchained&quot;&gt;Magie unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Magie&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Simplifi&#233;e.html&quot; title=&quot;Incantation simplifi&#233;e&quot;&gt;Incantation simplifi&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alt&#233;rations-De-La-Magie.html&quot; title=&quot;Alt&#233;rations de la magie&quot;&gt;Alt&#233;rations de la magie&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Composantes-Mat&#233;rielles-&#201;sot&#233;riques.html&quot; title=&quot;Composantes mat&#233;rielles &#233;sot&#233;riques&quot;&gt;Composantes mat&#233;rielles &#233;sot&#233;riques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Progression-Automatique.html&quot; title=&quot;Bonus de progression automatique&quot;&gt;Bonus de progression automatique&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-Intrins&#232;ques-Des-Objets.html&quot; title=&quot;Bonus intrins&#232;ques des objets&quot;&gt;Bonus intrins&#232;ques des objets&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-&#201;volutifs.html&quot; title=&quot;Objets &#233;volutifs&quot;&gt;Objets &#233;volutifs&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dynamique-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation dynamique d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation dynamique d&#39;objets magiques&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMonstres&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Monstres&#39;);&quot; onmouseout=&quot;outButton(&#39;Monstres&#39;);&quot; onclick=&quot;expandMenu(&#39;Monstres&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e&quot;&gt;Cr&#233;ation de monstres simplifi&#233;e&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Monstres&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-1.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 1 : La gamme&quot;&gt;&#201;tape 1. La gamme&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-2.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 2 : La greffe de type de cr&#233;ature ou de classe&quot;&gt;&#201;tape 2. La greffe de type de cr&#233;ature ou de classe&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-3.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 3 : La greffe de sous-type&quot;&gt;&#201;tape 3. La greffe de sous-type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-4.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 4 : La greffe d&amp;#39;arch&#233;type&quot;&gt;&#201;tape 4. La greffe d’arch&#233;type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-5.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 5 : La greffe de taille&quot;&gt;&#201;tape 5. La greffe de taille&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-6.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 6&quot;&gt;&#201;tape 6. Les sorts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-7.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 7 : Les options de monstre&quot;&gt;&#201;tape 7. Les options de monstre&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-8.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 8&quot;&gt;&#201;tape 8. Les comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-9.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 9&quot;&gt;&#201;tape 9. Les d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-Exemple.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, Exemple&quot;&gt;Exemples de cr&#233;ation de monstres&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Pathfinder unchained (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Pathfinder unchained&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoPU.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Les sens du personnage lui permettent de rep&#233;rer certains d&#233;tails, le pr&#233;viennent des dangers imminents et lui indiquent quand les gens lui mentent ou se comportent de mani&#232;re suspecte.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Caract&#233;ristique associ&#233;e :&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; ; &lt;b&gt;Formation n&#233;cessaire :&lt;/b&gt; Non ; &lt;b&gt;Malus d&#39;armure :&lt;/b&gt; Non&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Fonctions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#AVOIRUNPRESSENTIMENT&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;Avoir un pressentiment&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;d&#233;tecter la pr&#233;sence de cr&#233;atures et autres d&#233;tails&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#DETECTERLESMENSONGES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;d&#233;tecter les mensonges&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#FOUILLER&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;fouiller&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#INTERCEPTERUNMESSAGESECRET&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;intercepter un message secret&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#PERCEVOIRUNENCHANTEMENT&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;percevoir un enchantement&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Comp&#233;tences de base.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;AVOIRUNPRESSENTIMENT&quot; href=&quot;#AVOIRUNPRESSENTIMENT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Avoir un pressentiment&lt;a class=&quot;headeranchor&quot; id=&quot;Avoir_un_pressentiment_0&quot; href=&quot;#Avoir_un_pressentiment_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le personnage peut analyser de mani&#232;re instinctive une situation sociale en r&#233;ussissant un test de Perception &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20. Il peut ainsi sentir que quelque chose ne va pas ou &#233;prouver une sensation de malaise lorsqu’il interagit avec un imposteur, ou bien sentir que quelqu’un est digne de confiance. Il n’obtient pas pour autant d’informations d&#233;taill&#233;es. Utilisez la fonction &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#DETECTERLESMENSONGES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;d&#233;tecter les mensonges&lt;/a&gt; quand le personnage tente de d&#233;terminer si une affirmation particuli&#232;re est un mensonge.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Une minute.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS&quot; href=&quot;#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;D&#233;tecter la pr&#233;sence de cr&#233;atures et autres d&#233;tails&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;tecter_la_pr&#233;sence_de_cr&#233;atures_et_autres_d&#233;tails_1&quot; href=&quot;#D&#233;tecter_la_pr&#233;sence_de_cr&#233;atures_et_autres_d&#233;tails_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le personnage peut d&#233;tecter la pr&#233;sence d’une cr&#233;ature qui utilise la comp&#233;tence de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Discr&#233;tion.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; s’il r&#233;ussit un test de Perception oppos&#233;. Le personnage peut rep&#233;rer certains d&#233;tails de son environnement par le biais des cinq sens. Utilisez la fonction &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#FOUILLER&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;fouiller&lt;/a&gt; de la comp&#233;tence de Perception pour trouver des objets cach&#233;s, des pi&#232;ges, des portes secr&#232;tes et d’autres &#233;l&#233;ments que l’on d&#233;tecte seulement en y consacrant du temps.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Aucune. La plupart des tests de Perception s’effectuent en r&#233;action &#224; un stimulus observable.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; Les conditions favorables, d&#233;favorables et ex&#233;crables d&#233;pendent du sens employ&#233;. Une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#VISIONLUMIERE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;lumi&#232;re vive&lt;/a&gt; peut constituer une condition favorable pour les tests li&#233;s &#224; la vue alors qu’une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#VISIONLUMIERE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;lumi&#232;re faible&lt;/a&gt;, comme celle produite par une &lt;a class=&quot;pagelink&quot; href=&quot;Torche-(Objet).html&quot; title=&quot;Torche&quot;&gt;torche&lt;/a&gt; ou la lune, est une condition d&#233;favorable. Des bruits de fond peuvent augmenter le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d’un test bas&#233; sur l’ou&#239;e et un m&#233;lange d’odeurs peut augmenter ceux bas&#233;s sur l’odorat. Un test li&#233; &#224; la vue effectu&#233; &#224; la lueur d’une &lt;a class=&quot;pagelink&quot; href=&quot;Bougie-(Objet).html&quot; title=&quot;Bougie&quot;&gt;bougie&lt;/a&gt;, le rugissement d’un dragon noyant tout autre bruit ou une puanteur &#233;crasante couvrant une odeur plus subtile, voil&#224; autant d’exemples de conditions ex&#233;crables.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Stimulus&lt;/td&gt;&lt;td&gt;DD du test de Perception&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Entendre les bruits d’un combat&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sentir l’odeur de d&#233;tritus en putr&#233;faction&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Entendre les d&#233;tails d’une conversation&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Voir une cr&#233;ature visible&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sentir l’odeur de la fum&#233;e&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&#233;terminer si la nourriture est avari&#233;e&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Entendre les pas d’une cr&#233;ature&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Entendre les d&#233;tails d’une conversation &#224; voix basse&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Identifier les effets d’une potion en la go&#251;tant&lt;/td&gt;&lt;td&gt;15 + NLS de la potion&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Entendre le son d’une clef tournant dans une serrure&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Entendre le son d’un arc dont on tend la corde&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Percevoir les vibrations d’une cr&#233;ature souterraine passant sous le personnage&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Remarquer un pickpocket&lt;/td&gt;&lt;td&gt;Oppos&#233; au test de Finesse&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Remarquer une cr&#233;ature qui tente d’&#234;tre discr&#232;te&lt;/td&gt;&lt;td&gt;Oppos&#233; au test de Discr&#233;tion&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;On applique les modificateurs indiqu&#233;s dans la table suivante sur le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des tests de Perception effectu&#233;s pour d&#233;tecter (et pour &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#FOUILLER&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;fouiller&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Circonstances&lt;/td&gt;&lt;td&gt;Mod au DD du test de Perception&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Distance entre le personnage et la source, l’objet ou la cr&#233;ature&lt;/td&gt;&lt;td&gt;+1 par 3 m&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#192; travers une porte ferm&#233;e&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#192; travers un mur&lt;/td&gt;&lt;td&gt;+10 par 30 cm d’&#233;paisseur&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Conditions favorables&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Conditions d&#233;favorables&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Conditions ex&#233;crables&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Le personnage qui effectue le test est distrait&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Le personnage qui effectue le test est endormi&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;La cr&#233;ature, l’objet ou la source est invisible&lt;/td&gt;&lt;td&gt;+20&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;DETECTERLESMENSONGES&quot; href=&quot;#DETECTERLESMENSONGES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;D&#233;tecter les mensonges&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;tecter_les_mensonges_2&quot; href=&quot;#D&#233;tecter_les_mensonges_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Gr&#226;ce &#224; la r&#233;ussite d’un test de Perception oppos&#233;, un personnage peut savoir si une cr&#233;ature lui ment. Voir la fonction &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#MENTIR&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;mentir&lt;/a&gt; de la comp&#233;tence d’Influence.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Aucune.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Non, mais le personnage peut effectuer un test de Perception contre chaque mensonge.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;FOUILLER&quot; href=&quot;#FOUILLER&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Fouiller&lt;a class=&quot;headeranchor&quot; id=&quot;Fouiller_3&quot; href=&quot;#Fouiller_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Objet cach&#233;&lt;/td&gt;&lt;td&gt;DD du test de&lt;br /&gt;Perception&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Trouver une porte moyennement&lt;br /&gt;bien dissimul&#233;e&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trouver une porte secr&#232;te&lt;br /&gt;moyennement bien con&#231;ue&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trouver un pi&#232;ge&lt;/td&gt;&lt;td&gt;Variable en fonction&lt;br /&gt;du pi&#232;ge&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Le personnage peut fouiller minutieusement une zone &#224; la recherche de pi&#232;ges et de portes secr&#232;tes, entre autres. On applique les m&#234;mes modificateurs au &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de ces tests de Perception qu’&#224; la fonction &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;d&#233;tecter la pr&#233;sence de cr&#233;atures et autres d&#233;tails&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;Action de mouvement&lt;/a&gt;. Chacune de ces actions permet au personnage de fouiller une zone de 3 m&#232;tres de c&#244;t&#233;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui.&lt;br /&gt;&lt;br /&gt;&lt;br style=&quot;clear:right&quot; /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;INTERCEPTERUNMESSAGESECRET&quot; href=&quot;#INTERCEPTERUNMESSAGESECRET&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Intercepter un message secret&lt;a class=&quot;headeranchor&quot; id=&quot;Intercepter_un_message_secret_4&quot; href=&quot;#Intercepter_un_message_secret_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le personnage peut utiliser la comp&#233;tence de Perception pour se rendre compte qu’une personne &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#TRANSMETTREUNMESSAGESECRET&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;transmet un message secret&lt;/a&gt; &#224; l’aide de la comp&#233;tence d’&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;Influence&lt;/a&gt;. Le test de Perception du personnage est oppos&#233; au test d’Influence de la personne qui formule le message. Le personnage subit un malus de -2 au test pour chaque information relative au message dont il ne dispose pas. Si le test est r&#233;ussi de 4 points ou moins, le personnage sait qu’un message a &#233;t&#233; transmis mais en ignore la teneur. S’il est r&#233;ussi de 5 points ou plus, le personnage comprend le message. En cas d’&#233;chec de 4 points ou moins, le personnage ne per&#231;oit aucune communication secr&#232;te. Enfin, en cas d’&#233;chec de 5 points ou plus, il d&#233;duit des informations erron&#233;es. Voir la fonction &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#TRANSMETTREUNMESSAGESECRET&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;transmettre un message secret&lt;/a&gt; de la comp&#233;tence d’&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;Influence&lt;/a&gt;, pour savoir comment transmettre un message secret.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Aucune. Cette fonction s’utilise pendant le temps pass&#233; &#224; essayer d’intercepter le message.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Non, mais le personnage peut effectuer un test pour intercepter un autre message secret.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;PERCEVOIRUNENCHANTEMENT&quot; href=&quot;#PERCEVOIRUNENCHANTEMENT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Percevoir un enchantement&lt;a class=&quot;headeranchor&quot; id=&quot;Percevoir_un_enchantement_5&quot; href=&quot;#Percevoir_un_enchantement_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le personnage se rend compte que le comportement de l’individu qu’il observe est influenc&#233; par un effet d’&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;enchantement&lt;/a&gt; s’il r&#233;ussit un test de Perception &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 25 (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 s’il est domin&#233;).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Une minute.
+]]></body>
+  <raw><![CDATA[{s:MenuPathfinderunchained}{s:PU}''Les sens du personnage lui permettent de repérer certains détails, le préviennent des dangers imminents et lui indiquent quand les gens lui mentent ou se comportent de manière suspecte.''
+
+'''Caractéristique associée :''' [[Sagesse]] ; '''Formation nécessaire :''' Non ; '''Malus d'armure :''' Non
+
+'''Fonctions.''' [[Compétences fusionnées, Perception#AVOIRUNPRESSENTIMENT|Avoir un pressentiment]], [[Compétences fusionnées, Perception#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS|détecter la présence de créatures et autres détails]], [[Compétences fusionnées, Perception#DETECTERLESMENSONGES|détecter les mensonges]], [[Compétences fusionnées, Perception#FOUILLER|fouiller]], [[Compétences fusionnées, Perception#INTERCEPTERUNMESSAGESECRET|intercepter un message secret]], [[Compétences fusionnées, Perception#PERCEVOIRUNENCHANTEMENT|percevoir un enchantement]].
+
+'''Compétences de base.''' [[Perception]], [[Psychologie]].
+
+{s:Reference|AVOIRUNPRESSENTIMENT}
+===Avoir un pressentiment===
+Le personnage peut analyser de manière instinctive une situation sociale en réussissant un test de Perception [[DD]] 20. Il peut ainsi sentir que quelque chose ne va pas ou éprouver une sensation de malaise lorsqu’il interagit avec un imposteur, ou bien sentir que quelqu’un est digne de confiance. Il n’obtient pas pour autant d’informations détaillées. Utilisez la fonction [[Compétences fusionnées, Perception#DETECTERLESMENSONGES|détecter les mensonges]] quand le personnage tente de déterminer si une affirmation particulière est un mensonge.
+
+'''Action.''' Une minute.
+
+{s:Reference|DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS}
+===Détecter la présence de créatures et autres détails===
+Le personnage peut détecter la présence d’une créature qui utilise la compétence de [[Compétences fusionnées, Discrétion|Discrétion]] s’il réussit un test de Perception opposé. Le personnage peut repérer certains détails de son environnement par le biais des cinq sens. Utilisez la fonction [[Compétences fusionnées, Perception#FOUILLER|fouiller]] de la compétence de Perception pour trouver des objets cachés, des pièges, des portes secrètes et d’autres éléments que l’on détecte seulement en y consacrant du temps.
+
+'''Action.''' Aucune. La plupart des tests de Perception s’effectuent en réaction à un stimulus observable.
+
+'''Nouvelles tentatives.''' Oui.
+
+'''Conditions.''' Les conditions favorables, défavorables et exécrables dépendent du sens employé. Une [[Exploration#VISIONLUMIERE|lumière vive]] peut constituer une condition favorable pour les tests liés à la vue alors qu’une [[Exploration#VISIONLUMIERE|lumière faible]], comme celle produite par une [[Torche (objet)|torche]] ou la lune, est une condition défavorable. Des bruits de fond peuvent augmenter le [[DD]] d’un test basé sur l’ouïe et un mélange d’odeurs peut augmenter ceux basés sur l’odorat. Un test lié à la vue effectué à la lueur d’une [[Bougie (objet)|bougie]], le rugissement d’un dragon noyant tout autre bruit ou une puanteur écrasante couvrant une odeur plus subtile, voilà autant d’exemples de conditions exécrables.
+
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Stimulus || DD du test de Perception
+|- CLASS="premier"
+| Entendre les bruits d’un combat || -10
+|-
+| Sentir l’odeur de détritus en putréfaction || -10
+|-
+| Entendre les détails d’une conversation || 0
+|-
+| Voir une créature visible || 0
+|-
+| Sentir l’odeur de la fumée || 0
+|-
+| Déterminer si la nourriture est avariée || 5
+|-
+| Entendre les pas d’une créature || 10
+|-
+| Entendre les détails d’une conversation à voix basse || 15
+|-
+| Identifier les effets d’une potion en la goûtant || 15 + NLS de la potion
+|-
+| Entendre le son d’une clef tournant dans une serrure || 20
+|-
+| Entendre le son d’un arc dont on tend la corde || 25
+|-
+| Percevoir les vibrations d’une créature souterraine passant sous le personnage || 25
+|-
+| Remarquer un pickpocket || Opposé au test de Finesse
+|-
+| Remarquer une créature qui tente d’être discrète || Opposé au test de Discrétion
+|}
+</center>
+
+On applique les modificateurs indiqués dans la table suivante sur le [[DD]] des tests de Perception effectués pour détecter (et pour [[Compétences fusionnées, Perception#FOUILLER|fouiller]]).
+
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Circonstances || Mod au DD du test de Perception
+|- CLASS="premier"
+| Distance entre le personnage et la source, l’objet ou la créature || +1 par 3 m
+|-
+| À travers une porte fermée || +5
+|-
+| À travers un mur || +10 par 30 cm d’épaisseur
+|-
+| Conditions favorables || -2
+|-
+| Conditions défavorables || +2
+|-
+| Conditions exécrables || +5
+|-
+| Le personnage qui effectue le test est distrait || +5
+|-
+| Le personnage qui effectue le test est endormi || +10
+|-
+| La créature, l’objet ou la source est invisible || +20
+|}
+</center>
+
+{s:Reference|DETECTERLESMENSONGES}
+===Détecter les mensonges===
+Grâce à la réussite d’un test de Perception opposé, un personnage peut savoir si une créature lui ment. Voir la fonction [[Compétences fusionnées, Influence#MENTIR|mentir]] de la compétence d’Influence.
+
+'''Action.''' Aucune.
+
+'''Nouvelles tentatives.''' Non, mais le personnage peut effectuer un test de Perception contre chaque mensonge.
+
+{s:Reference|FOUILLER}
+===Fouiller===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Objet caché || DD du test de<br>Perception
+|- CLASS="premier"
+| Trouver une porte moyennement<br>bien dissimulée || 15
+|-
+| Trouver une porte secrète<br>moyennement bien conçue || 20
+|-
+| Trouver un piège || Variable en fonction<br>du piège
+|}
+</center></div></div>Le personnage peut fouiller minutieusement une zone à la recherche de pièges et de portes secrètes, entre autres. On applique les mêmes modificateurs au [[DD]] de ces tests de Perception qu’à la fonction [[Compétences fusionnées, Perception#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS|détecter la présence de créatures et autres détails]].
+
+'''Action.''' [[Action de mouvement]]. Chacune de ces actions permet au personnage de fouiller une zone de 3 mètres de côté.
+
+'''Nouvelles tentatives.''' Oui.
+
+{s:ClearRight}{s:Reference|INTERCEPTERUNMESSAGESECRET}
+===Intercepter un message secret===
+Le personnage peut utiliser la compétence de Perception pour se rendre compte qu’une personne [[Compétences fusionnées, Influence#TRANSMETTREUNMESSAGESECRET|transmet un message secret]] à l’aide de la compétence d’[[Compétences fusionnées, Influence|Influence]]. Le test de Perception du personnage est opposé au test d’Influence de la personne qui formule le message. Le personnage subit un malus de -2 au test pour chaque information relative au message dont il ne dispose pas. Si le test est réussi de 4 points ou moins, le personnage sait qu’un message a été transmis mais en ignore la teneur. S’il est réussi de 5 points ou plus, le personnage comprend le message. En cas d’échec de 4 points ou moins, le personnage ne perçoit aucune communication secrète. Enfin, en cas d’échec de 5 points ou plus, il déduit des informations erronées. Voir la fonction [[Compétences fusionnées, Influence#TRANSMETTREUNMESSAGESECRET|transmettre un message secret]] de la compétence d’[[Compétences fusionnées, Influence|Influence]], pour savoir comment transmettre un message secret.
+
+'''Action.''' Aucune. Cette fonction s’utilise pendant le temps passé à essayer d’intercepter le message.
+
+'''Nouvelles tentatives.''' Non, mais le personnage peut effectuer un test pour intercepter un autre message secret.
+
+{s:Reference|PERCEVOIRUNENCHANTEMENT}
+===Percevoir un enchantement===
+Le personnage se rend compte que le comportement de l’individu qu’il observe est influencé par un effet d’[[enchantement]] s’il réussit un test de Perception [[DD]] 25 ([[DD]] 15 s’il est dominé).
+
+'''Action.''' Une minute.]]></raw>
+  <fullName>Pathfinder-RPG.Compétences fusionnées, Perception</fullName>
+</wikiPage>

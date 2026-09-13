@@ -1,0 +1,392 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Détermination aléatoire des potions et des huiles magiques</title>
+  <categories><category>Pathfinder-RPG.Détermination aléatoire</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Armes et équipement</category></categories>
+  <lastModified>2025-03-14 06:13:48Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Afflictions</link><link>Pathfinder-RPG.Apparitions</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Courses poursuites</link><link>Pathfinder-RPG.Description des plaies magiques</link><link>Pathfinder-RPG.Détermination aléatoire des anneaux magiques</link><link>Pathfinder-RPG.Détermination aléatoire des armes</link><link>Pathfinder-RPG.Détermination aléatoire des armures et des boucliers</link><link>Pathfinder-RPG.Détermination aléatoire des baguettes magiques</link><link>Pathfinder-RPG.Détermination aléatoire des bâtons magiques</link><link>Pathfinder-RPG.Détermination aléatoire des objets merveilleux</link><link>Pathfinder-RPG.Détermination aléatoire des parchemins magiques</link><link>Pathfinder-RPG.Détermination aléatoire des potions et des huiles magiques</link><link>Pathfinder-RPG.Détermination aléatoire des sceptres magiques</link><link>Pathfinder-RPG.Détermination aléatoire dobjets magiques</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Galerie de PNJ</link><link>Pathfinder-RPG.Gemmes et bijoux</link><link>Pathfinder-RPG.Générateur de trésors</link><link>Pathfinder-RPG.Générateur de trésors</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Objets dArt</link><link>Pathfinder-RPG.Plaies</link><link>Pathfinder-RPG.Profil des monstres</link><link>Pathfinder-RPG.Règles de monstres universelles</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Types de créatures</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Signature magique</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Purification de nourriture et deau</link><link>Pathfinder-RPG.résistance</link><link>Pathfinder-RPG.Stabilisation</link><link>Pathfinder-RPG.Stimulant</link><link>Pathfinder-RPG.Bénédiction darme</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Endurance aux énergies destructives</link><link>Pathfinder-RPG.Agrandissement</link><link>Pathfinder-RPG.Saut</link><link>Pathfinder-RPG.Armure de mage</link><link>Pathfinder-RPG.Morsure magique</link><link>Pathfinder-RPG.Arme magique</link><link>Pathfinder-RPG.passage sans trace</link><link>Pathfinder-RPG.Protection contre le Chaos</link><link>Pathfinder-RPG.Protection contre le Mal</link><link>Pathfinder-RPG.Protection contre le Bien</link><link>Pathfinder-RPG.Protection contre la Loi</link><link>Pathfinder-RPG.Rapetissement</link><link>Pathfinder-RPG.Regain dassurance</link><link>Pathfinder-RPG.Sanctuaire</link><link>Pathfinder-RPG.Bouclier de la foi</link><link>Pathfinder-RPG.Corde animée</link><link>Pathfinder-RPG.Charge de fourmi</link><link>Pathfinder-RPG.Manteau dombre</link><link>Pathfinder-RPG.Effacement</link><link>Pathfinder-RPG.Démarche aérienne</link><link>Pathfinder-RPG.Baie nourricière</link><link>Pathfinder-RPG.Graisse</link><link>Pathfinder-RPG.Invisibilité pour les animaux</link><link>Pathfinder-RPG.Invisibilité pour les morts-vivants</link><link>Pathfinder-RPG.Verrouillage</link><link>Pathfinder-RPG.Revigorer</link><link>Pathfinder-RPG.Sens surdéveloppés</link><link>Pathfinder-RPG.Pierre magique</link><link>Pathfinder-RPG.Dissipation de la fièvre</link><link>Pathfinder-RPG.Sanctification de cadavre</link><link>Pathfinder-RPG.Gourdin magique</link><link>Pathfinder-RPG.Caresse de la mer</link><link>Pathfinder-RPG.Disparition</link><link>Pathfinder-RPG.Aide</link><link>Pathfinder-RPG.Arme alignée</link><link>Pathfinder-RPG.Peau décorce</link><link>Pathfinder-RPG.Endurance de lours</link><link>Pathfinder-RPG.Flou</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.Grâce féline</link><link>Pathfinder-RPG.Soins modérés</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Ralentissement du poison</link><link>Pathfinder-RPG.Splendeur de laigle</link><link>Pathfinder-RPG.Ruse du renard</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Lévitation</link><link>Pathfinder-RPG.Sagesse du hibou</link><link>Pathfinder-RPG.Protection contre les projectiles</link><link>Pathfinder-RPG.Délivrance de la paralysie</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Pattes daraignée</link><link>Pathfinder-RPG.Alignement indétectable</link><link>Pathfinder-RPG.Barrière protectrice</link><link>Pathfinder-RPG.Sens aiguisés</link><link>Pathfinder-RPG.Verrou du mage</link><link>Pathfinder-RPG.Bouclier pare-balles</link><link>Pathfinder-RPG.Poigne sûre</link><link>Pathfinder-RPG.Flamme éternelle</link><link>Pathfinder-RPG.Résistance à la corruption</link><link>Pathfinder-RPG.Déguiser autrui</link><link>Pathfinder-RPG.Préservation des morts</link><link>Pathfinder-RPG.Réparation intégrale</link><link>Pathfinder-RPG.Dissimulation dobjet</link><link>Pathfinder-RPG.Rapetissement danimal</link><link>Pathfinder-RPG.Corde enchantée</link><link>Pathfinder-RPG.Vague</link><link>Pathfinder-RPG.Rapport</link><link>Pathfinder-RPG.Distorsion du bois</link><link>Pathfinder-RPG.Façonnage du bois</link><link>Pathfinder-RPG.Soins importants</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Déplacement</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.État gazeux</link><link>Pathfinder-RPG.Espoir</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Héroïsme</link><link>Pathfinder-RPG.Affûtage</link><link>Pathfinder-RPG.Morsure magique suprême</link><link>Pathfinder-RPG.Panoplie magique</link><link>Pathfinder-RPG.Neutralisation du poison</link><link>Pathfinder-RPG.Protection contre les énergies destructives</link><link>Pathfinder-RPG.Rage</link><link>Pathfinder-RPG.Guérison de la cécitésurdité</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.Guérison des maladies</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Respiration aquatique</link><link>Pathfinder-RPG.Marche sur londe</link><link>Pathfinder-RPG.Creusement</link><link>Pathfinder-RPG.Innombrables yeux</link><link>Pathfinder-RPG.Lumière du jour</link><link>Pathfinder-RPG.Réservoir draconique</link><link>Pathfinder-RPG.Flèches enflammées</link><link>Pathfinder-RPG.Réduction dobjet</link><link>Pathfinder-RPG.Façonnage de la pierre</link><link>Pathfinder-RPG.Piège à feu</link><link>Pathfinder-RPG.Antidétection</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.Gemmes et bijoux</link><link>Pathfinder-RPG.Objets dArt</link><link>Pathfinder-RPG.Générateur de trésors</link><link>Pathfinder-RPG.Détermination aléatoire des armes</link><link>Pathfinder-RPG.Détermination aléatoire des armures et des boucliers</link><link>Pathfinder-RPG.Détermination aléatoire des anneaux magiques</link><link>Pathfinder-RPG.Détermination aléatoire des bâtons magiques</link><link>Pathfinder-RPG.Détermination aléatoire des sceptres magiques</link><link>Pathfinder-RPG.Détermination aléatoire des baguettes magiques</link><link>Pathfinder-RPG.Détermination aléatoire des parchemins magiques</link><link>Pathfinder-RPG.Détermination aléatoire des potions et des huiles magiques</link><link>Pathfinder-RPG.Détermination aléatoire des objets merveilleux</link><link>Pathfinder-RPG.Profil des monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Types de créatures</link><link>Pathfinder-RPG.Règles de monstres universelles</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Galerie de PNJ</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Apparitions</link><link>Pathfinder-RPG.Afflictions</link><link>Pathfinder-RPG.Drogues</link><link>Pathfinder-RPG.Maladies</link><link>Pathfinder-RPG.Malédictions</link><link>Pathfinder-RPG.Poisons</link><link>Pathfinder-RPG.Santé mentale</link><link>Pathfinder-RPG.Courses poursuites</link><link>Pathfinder-RPG.Plaies</link><link>Pathfinder-RPG.Description des plaies magiques</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Acc&#232;s rapide aux sections sur l&#39;opposition&lt;a class=&quot;headeranchor&quot; id=&quot;Acc&#232;s_rapide_aux_sections_sur_lopposition_0&quot; href=&quot;#Acc&#232;s_rapide_aux_sections_sur_lopposition_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top; text-align: left&quot;&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html&quot; title=&quot;Les rencontres&quot;&gt;Les rencontres&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#EXPERIENCE&quot; title=&quot;Les rencontres&quot;&gt;L&#39;exp&#233;rience&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#TRESOR&quot; title=&quot;Les rencontres&quot;&gt;Les tr&#233;sors&lt;/a&gt;&lt;/li&gt;
+    &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gemmes-Et-Bijoux.html&quot; title=&quot;Gemmes et bijoux&quot;&gt;Les gemmes et les bijoux&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Dart.html&quot; title=&quot;Les objets d&amp;#39;art&quot;&gt;Les objets d&#39;art&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonGENERATEURTRESOR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;GENERATEURTRESOR&#39;);&quot; onmouseout=&quot;outButton(&#39;GENERATEURTRESOR&#39;);&quot; onclick=&quot;expandMenu(&#39;GENERATEURTRESOR&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;G&#233;n&#233;rateur-De-Tr&#233;sors.html&quot; title=&quot;G&#233;n&#233;rateur de tr&#233;sors&quot;&gt;Le g&#233;n&#233;rateur al&#233;atoire de tr&#233;sors&lt;/a&gt;
+        &lt;ul ID=&quot;GENERATEURTRESOR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Armes.html&quot; title=&quot;D&#233;termination al&#233;atoire des armes&quot;&gt;armes&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Armures-Et-Des-Boucliers.html&quot; title=&quot;D&#233;termination al&#233;atoire des armures et des boucliers&quot;&gt;armures et boucliers&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Anneaux-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des anneaux magiques&quot;&gt;anneaux magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-B&#226;tons-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des b&#226;tons magiques&quot;&gt;b&#226;tons magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Sceptres-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des sceptres magiques&quot;&gt;sceptres magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Baguettes-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des baguettes magiques&quot;&gt;baguettes magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Parchemins-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des parchemins magiques&quot;&gt;parchemins magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Potions-Et-Des-Huiles-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des potions et des huiles magiques&quot;&gt;potions et huiles magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Objets-Merveilleux.html&quot; title=&quot;D&#233;termination al&#233;atoire des objets merveilleux&quot;&gt;objets merveilleux&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Profil-Des-Monstres.html&quot; title=&quot;Lire le profil des monstres&quot;&gt;Lire le profil des monstres&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonLISTESMONSTRES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;LISTESMONSTRES&#39;);&quot; onmouseout=&quot;outButton(&#39;LISTESMONSTRES&#39;);&quot; onclick=&quot;expandMenu(&#39;LISTESMONSTRES&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Alphab&#233;tique-Des-Monstres.html&quot; title=&quot;Liste alphab&#233;tique des monstres&quot;&gt;Liste alphab&#233;tique des monstres&lt;/a&gt;
+    &lt;ul ID=&quot;LISTESMONSTRES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Fp.html&quot; title=&quot;Liste des monstres par FP&quot;&gt;Liste des monstres par FP&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Fp-Avec-Familles.html&quot; title=&quot;Liste des monstres par FP avec familles&quot;&gt;avec familles&lt;/a&gt;)&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Milieu-Naturel.html&quot; title=&quot;Liste des monstres par milieu naturel&quot;&gt;Liste des monstres par milieu naturel&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Milieu-Naturel-Avec-Familles.html&quot; title=&quot;Liste des monstres par milieu naturel avec familles&quot;&gt;avec familles&lt;/a&gt;)&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Type.html&quot; title=&quot;Liste des monstres par type&quot;&gt;Liste des monstres par type&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Familles-De-Monstres.html&quot; title=&quot;Les familles de monstres&quot;&gt;Les familles de monstres&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-De-Cr&#233;atures.html&quot; title=&quot;Les types et sous type de cr&#233;atures&quot;&gt;Les types et sous type de cr&#233;atures&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-De-Monstres-Universelles.html&quot; title=&quot;R&#232;gles de monstres universelles&quot;&gt;Les r&#232;gles de monstres universelles&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;Les arch&#233;types&quot;&gt;Les arch&#233;types de cr&#233;ature&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Galerie-De-Pnj.html&quot; title=&quot;Galerie de PNJ&quot;&gt;Galerie de PNJ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPNJ&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PNJ&#39;);&quot; onmouseout=&quot;outButton(&#39;PNJ&#39;);&quot; onclick=&quot;expandMenu(&#39;PNJ&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Les classes de PNJ&lt;/a&gt;
+    &lt;ul ID=&quot;PNJ&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;L&#39;adepte&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;L&#39;expert&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;L&#39;homme d&#39;arme&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Du-Peuple.html&quot; title=&quot;L&amp;#39;homme du peuple&quot;&gt;L&#39;homme du peuple&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Noble.html&quot; title=&quot;Le noble&quot;&gt;Le noble&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Apparitions.html&quot; title=&quot;Les apparitions&quot;&gt;Les apparitions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonAFFLICTIONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;AFFLICTIONS&#39;);&quot; onmouseout=&quot;outButton(&#39;AFFLICTIONS&#39;);&quot; onclick=&quot;expandMenu(&#39;AFFLICTIONS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Afflictions.html&quot; title=&quot;Les afflictions&quot;&gt;Les afflictions&lt;/a&gt;
+    &lt;ul ID=&quot;AFFLICTIONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Les drogues&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;Les maladies&quot;&gt;Les maladies&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions.html&quot; title=&quot;Les mal&#233;dictions&quot;&gt;Les mal&#233;dictions&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;Les poisons  &quot;&gt;Le poison&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;La sant&#233; mentale et la folie&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Courses-Poursuites.html&quot; title=&quot;Les courses poursuites&quot;&gt;Les courses poursuites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plaies.html&quot; title=&quot;Les plaies magiques&quot;&gt;Les plaies magiques&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Plaies-Magiques.html&quot; title=&quot;Description des plaies magiques&quot;&gt;descriptions individuelles&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;72%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Potions et huiles al&#233;atoires&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Faible inf&#233;rieure&lt;/td&gt;&lt;td&gt;Faible sup&#233;rieure&lt;/td&gt;&lt;td&gt;Interm&#233;diaire inf&#233;rieure&lt;/td&gt;&lt;td&gt;Interm&#233;diaire sup&#233;rieure&lt;/td&gt;&lt;td&gt;Puissante inf&#233;rieure&lt;/td&gt;&lt;td&gt;Puissante sup&#233;rieure&lt;/td&gt;&lt;td&gt;Niveau de sort*&lt;/td&gt;&lt;td&gt;NLS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-40&lt;/td&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-100&lt;/td&gt;&lt;td&gt;11-60&lt;/td&gt;&lt;td&gt;01-25&lt;/td&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;61-100&lt;/td&gt;&lt;td&gt;26-85&lt;/td&gt;&lt;td&gt;11-50&lt;/td&gt;&lt;td&gt;01-35&lt;/td&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;86-100&lt;/td&gt;&lt;td&gt;51-100&lt;/td&gt;&lt;td&gt;36-100&lt;/td&gt;&lt;td&gt;11-100&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;note&quot;&gt;&lt;td | COLSPAN=&quot;8&quot;&gt;&lt;i&gt;(*) Consultez la table ci-contre pour d&#233;terminer la raret&#233; des potions et des huiles, puis les tables ci-dessous pour d&#233;terminer le sort.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;28%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Type de potion ou d&#39;huile&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Type de potion ou d&#39;huile*&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-75&lt;/td&gt;&lt;td&gt;commun(e)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75-100&lt;/td&gt;&lt;td&gt;hors du commun&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;note&quot;&gt;&lt;td | COLSPAN=&quot;2&quot;&gt;&lt;i&gt;(*) Sauf pour les potions et huiles de niveau 0 qui sont toujours communes.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Potions et huiles magiques par niveau de sort&lt;a class=&quot;headeranchor&quot; id=&quot;Potions_et_huiles_magiques_par_niveau_de_sort_0&quot; href=&quot;#Potions_et_huiles_magiques_par_niveau_de_sort_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Potions et huiles de niveau 0&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Potion ou huile commune&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-14&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signature-Magique.html&quot; title=&quot;Signature magique&quot;&gt;signature magique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-28&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assistance-Divine.html&quot; title=&quot;Assistance divine&quot;&gt;assistance divine&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;29-44&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-58&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Purification-De-Nourriture-Et-Deau.html&quot; title=&quot;Purification de nourriture et d&amp;#39;eau&quot;&gt;purification de nourriture et d’eau&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-72&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;r&#233;sistance&quot;&gt;r&#233;sistance&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-86&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;stabilisation&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stimulant.html&quot; title=&quot;Stimulant&quot;&gt;stimulant&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Potions et huiles de niveau 1&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Potion ou huile commune&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-04&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction-Darme.html&quot; title=&quot;B&#233;n&#233;diction d&amp;#39;arme&quot;&gt;b&#233;n&#233;diction d’arme&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-14&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-19&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;Endurance aux &#233;nergies destructives&quot;&gt;endurance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20-27&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agrandissement.html&quot; title=&quot;Agrandissement&quot;&gt;agrandissement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;28-33&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Saut.html&quot; title=&quot;Saut&quot;&gt;saut&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;34-41&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Mage.html&quot; title=&quot;Armure de mage&quot;&gt;armure de mage&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;42-47&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Morsure-Magique.html&quot; title=&quot;Morsure magique&quot;&gt;morsure magique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;48-55&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Magique.html&quot; title=&quot;Arme magique&quot;&gt;arme magique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;56-60&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Passage-Sans-Traces.html&quot; title=&quot;passage sans trace&quot;&gt;passage sans trace&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-64&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Chaos.html&quot; title=&quot;Protection contre le Chaos&quot;&gt;protection contre le Chaos&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-68&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Mal.html&quot; title=&quot;Protection contre le Mal&quot;&gt;protection contre le Mal&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-72&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Bien.html&quot; title=&quot;Protection contre le Bien&quot;&gt;protection contre le Bien&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-76&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-La-Loi.html&quot; title=&quot;Protection contre la Loi&quot;&gt;protection contre la Loi&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-81&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapetissement.html&quot; title=&quot;Rapetissement&quot;&gt;rapetissement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;82-87&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Regain-Dassurance.html&quot; title=&quot;Regain d&amp;#39;assurance&quot;&gt;regain d’assurance&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;88-92&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctuaire.html&quot; title=&quot;Sanctuaire&quot;&gt;sanctuaire&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-De-La-Foi.html&quot; title=&quot;Bouclier de la foi&quot;&gt;bouclier de la foi&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Potion ou huile hors du commun&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-04&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Corde-Anim&#233;e.html&quot; title=&quot;Corde anim&#233;e&quot;&gt;corde anim&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-11&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charge-De-Fourmi.html&quot; title=&quot;Charge de fourmi&quot;&gt;charge de fourmi&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12-16&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manteau-Dombre.html&quot; title=&quot;Manteau d&amp;#39;ombre&quot;&gt;manteau d’ombre&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-20&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Effacement.html&quot; title=&quot;Effacement&quot;&gt;effacement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-26&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;marche-A&#233;rienne.html&quot; title=&quot;D&#233;marche a&#233;rienne&quot;&gt;d&#233;marche a&#233;rienne&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27-30&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Baie-Nourrici&#232;re.html&quot; title=&quot;Baie nourrici&#232;re&quot;&gt;baie nourrici&#232;re&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-34&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Graisse.html&quot; title=&quot;Graisse&quot;&gt;graisse&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;35-41&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;-Pour-Les-Animaux.html&quot; title=&quot;Invisibilit&#233; pour les animaux&quot;&gt;invisibilit&#233; pour les animaux&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;42-49&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;-Pour-Les-Morts-Vivants.html&quot; title=&quot;Invisibilit&#233; pour les morts-vivants&quot;&gt;invisibilit&#233; pour les morts-vivants&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;50-53&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Verrouillage.html&quot; title=&quot;Verrouillage&quot;&gt;verrouillage&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;54-58&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Revigorer.html&quot; title=&quot;Revigorer&quot;&gt;revigorer&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-64&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sens-Surd&#233;velopp&#233;s.html&quot; title=&quot;Sens surd&#233;velopp&#233;s&quot;&gt;sens surd&#233;velopp&#233;s&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-68&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pierre-Magique.html&quot; title=&quot;Pierre magique&quot;&gt;pierre magique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-75&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Fi&#232;vre.html&quot; title=&quot;Dissipation de la fi&#232;vre&quot;&gt;dissipation de la fi&#232;vre&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;76-80&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctification-De-Cadavre.html&quot; title=&quot;Sanctification de cadavre&quot;&gt;sanctification de cadavre&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-84&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gourdin-Magique.html&quot; title=&quot;Gourdin magique&quot;&gt;gourdin magique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-92&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caresse-De-La-Mer.html&quot; title=&quot;Caresse de la mer&quot;&gt;caresse de la mer&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disparition.html&quot; title=&quot;Disparition&quot;&gt;disparition&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Potions et huiles de niveau 2&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Potion ou huile commune&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-04&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aide.html&quot; title=&quot;Aide&quot;&gt;aide&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-07&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Align&#233;e.html&quot; title=&quot;Arme align&#233;e&quot;&gt;arme align&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;08-11&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Peau-D&#233;corce.html&quot; title=&quot;Peau d&amp;#39;&#233;corce&quot;&gt;peau d’&#233;corce&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12-16&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-De-Lours.html&quot; title=&quot;Endurance de l&amp;#39;ours&quot;&gt;endurance de l’ours&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-20&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flou.html&quot; title=&quot;Flou&quot;&gt;flou&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-25&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Force-De-Taureau.html&quot; title=&quot;Force de taureau&quot;&gt;force de taureau&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;26-30&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gr&#226;ce-F&#233;line.html&quot; title=&quot;Gr&#226;ce f&#233;line&quot;&gt;gr&#226;ce f&#233;line&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-37&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;38-41&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;42-44&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ralentissement-Du-Poison.html&quot; title=&quot;Ralentissement du poison&quot;&gt;ralentissement du poison&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-49&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Splendeur-De-Laigle.html&quot; title=&quot;Splendeur de l&amp;#39;aigle&quot;&gt;splendeur de l’aigle&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;50-54&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ruse-Du-Renard.html&quot; title=&quot;Ruse du renard&quot;&gt;ruse du renard&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;55-61&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;62-66&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;vitation.html&quot; title=&quot;L&#233;vitation&quot;&gt;l&#233;vitation&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-71&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sagesse-Du-Hibou.html&quot; title=&quot;Sagesse du hibou&quot;&gt;sagesse du hibou&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;72-73&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Les-Projectiles.html&quot; title=&quot;Protection contre les projectiles&quot;&gt;protection contre les projectiles&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;tr&gt;&lt;td&gt;74-76&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-De-La-Paralysie.html&quot; title=&quot;D&#233;livrance de la paralysie&quot;&gt;d&#233;livrance de la paralysie&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-80&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;, acide&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-84&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;, froid&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-88&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;, &#233;lectricit&#233;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-92&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;, feu&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-94&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;, son&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;95-98&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Daraign&#233;e.html&quot; title=&quot;Pattes d&amp;#39;araign&#233;e&quot;&gt;pattes d’araign&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;99-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Ind&#233;tectable.html&quot; title=&quot;Alignement ind&#233;tectable&quot;&gt;alignement ind&#233;tectable&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Potion ou huile hors du commun&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-06&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barri&#232;re-Protectrice.html&quot; title=&quot;Barri&#232;re protectrice&quot;&gt;barri&#232;re protectrice&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-14&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sens-Aiguis&#233;s.html&quot; title=&quot;Sens aiguis&#233;s&quot;&gt;sens aiguis&#233;s&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-19&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Verrou-Du-Mage.html&quot; title=&quot;Verrou du mage&quot;&gt;verrou du mage&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20-24&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Pare-Balles.html&quot; title=&quot;Bouclier pare-balles&quot;&gt;bouclier pare-balles&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-30&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poigne-S&#251;re.html&quot; title=&quot;Poigne s&#251;re&quot;&gt;poigne s&#251;re&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-35&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flamme-&#201;ternelle.html&quot; title=&quot;Flamme &#233;ternelle&quot;&gt;flamme &#233;ternelle&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36-40&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Corruption.html&quot; title=&quot;R&#233;sistance &#224; la corruption&quot;&gt;r&#233;sistance &#224; la corruption&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-48&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guiser-Autrui.html&quot; title=&quot;D&#233;guiser autrui&quot;&gt;d&#233;guiser autrui&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-56&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;servation-Des-Morts.html&quot; title=&quot;Pr&#233;servation des morts&quot;&gt;pr&#233;servation des morts&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57-61&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration-Int&#233;grale.html&quot; title=&quot;R&#233;paration int&#233;grale&quot;&gt;r&#233;paration int&#233;grale&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;62-67&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissimulation-Dobjet.html&quot; title=&quot;Dissimulation d&amp;#39;objet&quot;&gt;dissimulation d’objet&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;68-72&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapetissement-Danimal.html&quot; title=&quot;Rapetissement d&amp;#39;animal&quot;&gt;rapetissement d’animal&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-76&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Corde-Enchant&#233;e.html&quot; title=&quot;Corde enchant&#233;e&quot;&gt;corde enchant&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-82&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vague.html&quot; title=&quot;Vague&quot;&gt;vague&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-90&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapport.html&quot; title=&quot;Rapport&quot;&gt;rapport&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-95&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Distorsion-Du-Bois.html&quot; title=&quot;Distorsion du bois&quot;&gt;distorsion du bois&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;96-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fa&#231;onnage-Du-Bois.html&quot; title=&quot;Fa&#231;onnage du bois&quot;&gt;fa&#231;onnage du bois&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Potions et huiles de niveau 3&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Potion ou huile commune&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-06&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Importants.html&quot; title=&quot;Soins importants&quot;&gt;soins importants&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-10&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-14&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement.html&quot; title=&quot;D&#233;placement&quot;&gt;d&#233;placement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-20&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;vol&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-25&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tat-Gazeux.html&quot; title=&quot;&#201;tat gazeux&quot;&gt;&#233;tat gazeux&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;26-29&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Espoir.html&quot; title=&quot;Espoir&quot;&gt;espoir&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;30-35&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36-40&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ro&#239;sme.html&quot; title=&quot;H&#233;ro&#239;sme&quot;&gt;h&#233;ro&#239;sme&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-44&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aff&#251;tage.html&quot; title=&quot;Aff&#251;tage&quot;&gt;aff&#251;tage&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-48&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Morsure-Magique-Supr&#234;me.html&quot; title=&quot;Morsure magique supr&#234;me&quot;&gt;morsure magique supr&#234;me&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-52&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Panoplie-Magique.html&quot; title=&quot;Panoplie magique&quot;&gt;panoplie magique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-57&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Neutralisation-Du-Poison.html&quot; title=&quot;Neutralisation du poison&quot;&gt;neutralisation du poison&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;58-60&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Les-&#201;nergies-Destructives.html&quot; title=&quot;Protection contre les &#233;nergies destructives&quot;&gt;protection contre les &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;,&lt;br /&gt;acide&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-63&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Les-&#201;nergies-Destructives.html&quot; title=&quot;Protection contre les &#233;nergies destructives&quot;&gt;protection contre les &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;,&lt;br /&gt;froid&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;64-66&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Les-&#201;nergies-Destructives.html&quot; title=&quot;Protection contre les &#233;nergies destructives&quot;&gt;protection contre les &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;,&lt;br /&gt;&#233;lectricit&#233;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-69&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Les-&#201;nergies-Destructives.html&quot; title=&quot;Protection contre les &#233;nergies destructives&quot;&gt;protection contre les &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;,&lt;br /&gt;feu&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;70-71&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Les-&#201;nergies-Destructives.html&quot; title=&quot;Protection contre les &#233;nergies destructives&quot;&gt;protection contre les &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;,&lt;br /&gt;son&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;72-74&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rage.html&quot; title=&quot;Rage&quot;&gt;rage&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75-77&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-De-La-C&#233;cit&#233;surdit&#233;.html&quot; title=&quot;Gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&quot;&gt;gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;78-81&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-Des-Mal&#233;dictions.html&quot; title=&quot;D&#233;livrance des mal&#233;dictions&quot;&gt;d&#233;livrance des mal&#233;dictions&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;82-86&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Des-Maladies.html&quot; title=&quot;Gu&#233;rison des maladies&quot;&gt;gu&#233;rison des maladies&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-91&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;don des langues&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;92-96&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Respiration-Aquatique.html&quot; title=&quot;Respiration aquatique&quot;&gt;respiration aquatique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;97-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marche-Sur-Londe.html&quot; title=&quot;Marche sur l&amp;#39;onde&quot;&gt;marche sur l’onde&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Potion ou huile hors du commun&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-12&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Creusement.html&quot; title=&quot;Creusement&quot;&gt;creusement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13-22&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Innombrables-Yeux.html&quot; title=&quot;Innombrables yeux&quot;&gt;innombrables yeux&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23-34&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Du-Jour.html&quot; title=&quot;Lumi&#232;re du jour&quot;&gt;lumi&#232;re du jour&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;35-49&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;servoir-Draconique.html&quot; title=&quot;R&#233;servoir draconique&quot;&gt;r&#233;servoir draconique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;50-58&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#232;ches-Enflamm&#233;es.html&quot; title=&quot;Fl&#232;ches enflamm&#233;es&quot;&gt;fl&#232;ches enflamm&#233;es&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-67&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-Dobjet.html&quot; title=&quot;R&#233;duction d&amp;#39;objet&quot;&gt;r&#233;duction d’objet&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;68-77&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fa&#231;onnage-De-La-Pierre.html&quot; title=&quot;Fa&#231;onnage de la pierre&quot;&gt;fa&#231;onnage de la pierre&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;750&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;78-87&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ge-&#192;-Feu.html&quot; title=&quot;Pi&#232;ge &#224; feu&quot;&gt;pi&#232;ge &#224; feu&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;775&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;88-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antid&#233;tection.html&quot; title=&quot;Antid&#233;tection&quot;&gt;antid&#233;tection&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;800&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuOpposition}{s:AE}
+
+<table width="100%"><tr><td width="72%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Potions et huiles aléatoires
+|- CLASS="titre"
+| Faible inférieure || Faible supérieure || Intermédiaire inférieure || Intermédiaire supérieure || Puissante inférieure || Puissante supérieure || Niveau de sort* || NLS
+|- CLASS="premier"
+| 01-40 || 01-10 || — || — || — || — || 0 || 1
+|-
+| 41-100 || 11-60 || 01-25 || 01-10 || — || — || 1 || 1
+|-
+| — || 61-100 || 26-85 || 11-50 || 01-35 || 01-10 || 2 || 3
+|-
+| — || — || 86-100 || 51-100 || 36-100 || 11-100 || 3 || 5
+|- CLASS="note"
+| | COLSPAN="8" | ''(*) Consultez la table ci-contre pour déterminer la rareté des potions et des huiles, puis les tables ci-dessous pour déterminer le sort.''
+|}
+</td><td width="28%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Type de potion ou d'huile
+|- CLASS="titre"
+| D100 || Type de potion ou d'huile*
+|- CLASS="premier"
+| 01-75 || commun(e)
+|-
+| 75-100 || hors du commun
+|- CLASS="note"
+| | COLSPAN="2" | ''(*) Sauf pour les potions et huiles de niveau 0 qui sont toujours communes.''
+|}
+</td></tr></table>
+
+===Potions et huiles magiques par niveau de sort===
+<table width="100%"><tr><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Potions et huiles de niveau 0
+|- CLASS="titre"
+| D100 || Potion ou huile commune || Prix(po)
+|- CLASS="premier"
+| 01-14 || ''[[signature magique]]'' || 25
+|-
+| 15-28 || ''[[assistance divine]]'' || 25
+|-
+| 29-44 || ''[[lumière]]'' || 25
+|-
+| 45-58 || ''[[purification de nourriture et deau|purification de nourriture et d’eau]]'' || 25
+|-
+| 59-72 || ''[[résistance]]'' || 25
+|-
+| 73-86 || ''[[stabilisation]]'' || 25
+|-
+| 87-100 || ''[[stimulant]]'' || 25
+|}
+
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Potions et huiles de niveau 1
+|- CLASS="titre"
+| D100 || Potion ou huile commune || Prix(po)
+|- CLASS="premier"
+| 01-04 || ''[[bénédiction darme|bénédiction d’arme]]'' || 50
+|- 
+| 05-14 || ''[[soins légers]]'' || 50
+|- 
+| 15-19 || ''[[endurance aux énergies destructives]]'' || 50
+|- 
+| 20-27 || ''[[agrandissement]]'' || 50
+|- 
+| 28-33 || ''[[saut]]'' || 50
+|- 
+| 34-41 || ''[[armure de mage]]'' || 50
+|- 
+| 42-47 || ''[[morsure magique]]'' || 50
+|- 
+| 48-55 || ''[[arme magique]]'' || 50
+|- 
+| 56-60 || ''[[passage sans trace]]'' || 50
+|-
+| 61-64 || ''[[protection contre le Chaos]]'' || 50
+|-
+| 65-68 || ''[[protection contre le Mal]]'' || 50
+|-
+| 69-72 || ''[[protection contre le Bien]]'' || 50
+|-
+| 73-76 || ''[[protection contre la Loi]]'' || 50
+|-
+| 77-81 || ''[[rapetissement]]'' || 50
+|-
+| 82-87 || ''[[regain dassurance|regain d’assurance]]'' || 50
+|-
+| 88-92 || ''[[sanctuaire]]'' || 50
+|-
+| 93-100 || ''[[bouclier de la foi]]'' || 50
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Potion ou huile hors du commun || Prix(po)
+|- CLASS="premier"
+| 01-04 || ''[[corde animée]]'' || 50
+|-
+| 05-11 || ''[[charge de fourmi]]'' || 50
+|-
+| 12-16 || ''[[manteau dombre|manteau d’ombre]]'' || 50
+|-
+| 17-20 || ''[[effacement]]'' || 50
+|-
+| 21-26 || ''[[démarche aérienne]]'' || 50
+|-
+| 27-30 || ''[[baie nourricière]]'' || 50
+|-
+| 31-34 || ''[[graisse]]'' || 50
+|-
+| 35-41 || ''[[invisibilité pour les animaux]]'' || 50
+|-
+| 42-49 || ''[[invisibilité pour les morts-vivants]]'' || 50
+|-
+| 50-53 || ''[[verrouillage]]'' || 50
+|-
+| 54-58 || ''[[revigorer]]'' || 50
+|-
+| 59-64 || ''[[sens surdéveloppés]]'' || 50
+|-
+| 65-68 || ''[[pierre magique]]'' || 50
+|-
+| 69-75 || ''[[dissipation de la fièvre]]'' || 50
+|-
+| 76-80 || ''[[sanctification de cadavre]]'' || 50
+|-
+| 81-84 || ''[[gourdin magique]]'' || 50
+|-
+| 85-92 || ''[[caresse de la mer]]'' || 50
+|-
+| 93-100 || ''[[disparition]]'' || 50
+|}
+
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Potions et huiles de niveau 2
+|- CLASS="titre"
+| D100 || Potion ou huile commune || Prix(po)
+|- CLASS="premier"
+| 01-04 || ''[[aide]]'' || 300
+|-
+| 05-07 || ''[[arme alignée]]'' || 300
+|-
+| 08-11 || ''[[peau décorce|peau d’écorce]]'' || 300
+|-
+| 12-16 || ''[[endurance de lours|endurance de l’ours]]'' || 300
+|-
+| 17-20 || ''[[flou]]'' || 300
+|-
+| 21-25 || ''[[force de taureau]]'' || 300
+|-
+| 26-30 || ''[[grâce féline]]'' || 300
+|-
+| 31-37 || ''[[soins modérés]]'' || 300
+|-
+| 38-41 || ''[[vision dans le noir]]'' || 300
+|-
+| 42-44 || ''[[ralentissement du poison]]'' || 300
+|-
+| 45-49 || ''[[splendeur de laigle|splendeur de l’aigle]]'' || 300
+|-
+| 50-54 || ''[[ruse du renard]]'' || 300
+|-
+| 55-61 || ''[[invisibilité]]'' || 300
+|-
+| 62-66 || ''[[lévitation]]'' || 300
+|-
+| 67-71 || ''[[sagesse du hibou]]'' || 300
+|-
+| 72-73 || ''[[protection contre les projectiles]]'' || 300
+|}
+</td><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+| 74-76 || ''[[délivrance de la paralysie]]'' || 300
+|-
+| 77-80 || ''[[résistance aux énergies destructives]]'', acide || 300
+|-
+| 81-84 || ''[[résistance aux énergies destructives]]'', froid || 300
+|-
+| 85-88 || ''[[résistance aux énergies destructives]]'', électricité || 300
+|-
+| 89-92 || ''[[résistance aux énergies destructives]]'', feu || 300
+|-
+| 93-94 || ''[[résistance aux énergies destructives]]'', son || 300
+|-
+| 95-98 || ''[[pattes daraignée|pattes d’araignée]]'' || 300
+|-
+| 99-100 || ''[[alignement indétectable]]'' || 300
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Potion ou huile hors du commun || Prix(po)
+|- CLASS="premier"
+| 01-06 || ''[[barrière protectrice]]'' || 300
+|-
+| 07-14 || ''[[sens aiguisés]]'' || 300
+|-
+| 15-19 || ''[[verrou du mage]]'' || 300
+|-
+| 20-24 || ''[[bouclier pare-balles]]'' || 300
+|-
+| 25-30 || ''[[poigne sûre]]'' || 300
+|-
+| 31-35 || ''[[flamme éternelle]]'' || 300
+|-
+| 36-40 || ''[[résistance à la corruption]]'' || 300
+|-
+| 41-48 || ''[[déguiser autrui]]'' || 300
+|-
+| 49-56 || ''[[préservation des morts]]'' || 300
+|-
+| 57-61 || ''[[réparation intégrale]]'' || 300
+|-
+| 62-67 || ''[[dissimulation dobjet|dissimulation d’objet]]'' || 300
+|-
+| 68-72 || ''[[rapetissement danimal|rapetissement d’animal]]'' || 300
+|-
+| 73-76 || ''[[corde enchantée]]'' || 300
+|-
+| 77-82 || ''[[vague]]'' || 300
+|-
+| 83-90 || ''[[rapport]]'' || 300
+|-
+| 91-95 || ''[[distorsion du bois]]'' || 300
+|-
+| 96-100 || ''[[façonnage du bois]]'' || 300
+|}
+
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Potions et huiles de niveau 3
+|- CLASS="titre"
+| D100 || Potion ou huile commune || Prix(po)
+|- CLASS="premier"
+| 01-06 || ''[[soins importants]]'' || 750
+|-
+| 07-10 || ''[[dissipation de la magie]]'' || 750
+|-
+| 11-14 || ''[[déplacement]]'' || 750
+|-
+| 15-20 || ''[[vol]]'' || 750
+|-
+| 21-25 || ''[[état gazeux]]'' || 750
+|-
+| 26-29 || ''[[espoir]]'' || 750
+|-
+| 30-35 || ''[[rapidité]]'' || 750
+|-
+| 36-40 || ''[[héroïsme]]'' || 750
+|-
+| 41-44 || ''[[affûtage]]'' || 750
+|-
+| 45-48 || ''[[morsure magique suprême]]'' || 750
+|-
+| 49-52 || ''[[panoplie magique]]'' || 750
+|-
+| 53-57 || ''[[neutralisation du poison]]'' || 750
+|-
+| 58-60 || ''[[protection contre les énergies destructives]]'',<br>acide || 750
+|-
+| 61-63 || ''[[protection contre les énergies destructives]]'',<br>froid || 750
+|-
+| 64-66 || ''[[protection contre les énergies destructives]]'',<br>électricité || 750
+|-
+| 67-69 || ''[[protection contre les énergies destructives]]'',<br>feu || 750
+|-
+| 70-71 || ''[[protection contre les énergies destructives]]'',<br>son || 750
+|-
+| 72-74 || ''[[rage]]'' || 750
+|-
+| 75-77 || ''[[guérison de la cécitésurdité|guérison de la cécité/surdité]]'' || 750
+|-
+| 78-81 || ''[[délivrance des malédictions]]'' || 750
+|-
+| 82-86 || ''[[guérison des maladies]]'' || 750
+|-
+| 87-91 || ''[[don des langues]]'' || 750
+|-
+| 92-96 || ''[[respiration aquatique]]'' || 750
+|-
+| 97-100 || ''[[marche sur londe|marche sur l’onde]]'' || 750
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Potion ou huile hors du commun || Prix(po)
+|- CLASS="premier"
+| 01-12 || ''[[creusement]]'' || 750
+|-
+| 13-22 || ''[[innombrables yeux]]'' || 750
+|-
+| 23-34 || ''[[lumière du jour]]'' || 750
+|-
+| 35-49 || ''[[réservoir draconique]]'' || 750
+|-
+| 50-58 || ''[[flèches enflammées]]'' || 750
+|-
+| 59-67 || ''[[réduction dobjet|réduction d’objet]]'' || 750
+|-
+| 68-77 || ''[[façonnage de la pierre]]'' || 750
+|-
+| 78-87 || ''[[piège à feu]]'' || 775
+|-
+| 88-100 || ''[[antidétection]]'' || 800
+|}
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Détermination aléatoire des potions et des huiles magiques</fullName>
+</wikiPage>

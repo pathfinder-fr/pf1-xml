@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Morse</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2020-09-21 16:35:03Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Morse</link><link>Pathfinder-RPG.Morse empereur</link><link>Pathfinder-RPG.Temp-bestiaire4</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Retenir son souffle (capacité)</link><link>Pathfinder-RPG.Morse</link><link>Pathfinder-RPG.Morse empereur</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Morse&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4 p.190&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 9, pris au d&#233;pourvu 17 (naturelle +8, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +8 (1d8+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 1,5 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +9, &lt;b&gt;DMD&lt;/b&gt; 19 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Retenir-Son-Souffle-(Capacit&#233;).html&quot; title=&quot;Retenir son souffle (Ext)&quot;&gt;retenir son souffle&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans froids
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou troupeau (3-24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de morse&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Morse.html&quot; title=&quot;Morse&quot;&gt;Morse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Morse-Empereur.html&quot; title=&quot;Morse, Morse empereur&quot;&gt;Morse empereur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Deux longues d&#233;fenses d&#233;passent de la gueule barbue de cette cr&#233;ature
+volumineuse. Elle se d&#233;place maladroitement &#224; l’aide de ses nageoires.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le cuir des morses est le plus souvent gris ou brun, mais il devient presque
+blanc lorsqu’ils entrent dans l’eau froide et tourne au rose &#224; cause
+de l’afflux de sang augment&#233; lorsqu’ils prennent le
+soleil. Une &#233;paisse couche de graisse les prot&#232;ge
+&#224; la fois contre les pr&#233;dateurs et le froid.
+Un m&#226;le typique p&#232;se entre 1 et 2 tonnes
+pour une longueur de 3 m&#232;tres, tandis que
+les femelles sont un tiers moins lourdes
+pour une longueur de 2,70 m&#232;tres. M&#226;les
+et femelles sont dot&#233;s de d&#233;fenses pouvant
+atteindre les 90 centim&#232;tres et d’&#233;paisses
+moustaches qui leur permettent de d&#233;busquer
+les crustac&#233;s cach&#233;s. Un morse peut
+vivre jusqu’&#224; 40 ans.&lt;br /&gt;&lt;br /&gt;Gr&#226;ce &#224; ses d&#233;fenses impressionnantes,
+sa force prodigieuse et sa capacit&#233; &#224; combattre
+en troupeau, seuls les pr&#233;dateurs
+arctiques les plus agressifs ou les plus
+affam&#233;s prennent le risque de s’en
+prendre &#224; un morse adulte. Les gens
+les chassent pour leur viande et pour
+leurs d&#233;fenses, de l’ivoire pr&#233;cieux
+qu’ils conservent parfois tel quel en
+guise de prestigieux troph&#233;es.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le morse comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_morse_comme_compagnon_animal_0&quot; href=&quot;#Le_morse_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +4 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 12, Dex 13, Con 14, Int 2, Sag 13, Cha 6 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Retenir-Son-Souffle-(Capacit&#233;).html&quot; title=&quot;Retenir son souffle (Ext)&quot;&gt;retenir son souffle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;volution au niveau 7.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +4 ; &lt;b&gt;Attaque&lt;/b&gt; morsures(1d8); &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +8, Dex -2, Con +4.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Morse|FP 3}
+{s:pucem|Animal|Aquatique|Froid}
+{s:BDTexte|''Source : Bestiaire 4 p.190''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +7}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 9, pris au dépourvu 17 (naturelle +8, taille -1)}
+{s:BDTexte|'''pv''' 30 (4d8+12)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +7, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c}), nage 12 m (8 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +8 (1d8+7)}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,5 m (1 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 21, '''Dex''' 11, '''Con''' 16, '''Int''' 2, '''Sag''' 13, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +9, '''DMD''' 19 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Endurance]]}
+{s:BDTexte|'''Compétences''' [[Natation]] +17, [[Perception]] +7}
+{s:BDTexte|<b>Particularités</b> [[retenir son souffle (capacité)|retenir son souffle]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans froids}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou troupeau (3-24)}
+{s:BDTexte|'''Trésor''' aucun}
+
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de morse
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Morse]] || 3
+|-
+| [[Morse empereur]] || 8
+|}
+</div>''Deux longues défenses dépassent de la gueule barbue de cette créature
+volumineuse. Elle se déplace maladroitement à l’aide de ses nageoires.''
+
+Le cuir des morses est le plus souvent gris ou brun, mais il devient presque
+blanc lorsqu’ils entrent dans l’eau froide et tourne au rose à cause
+de l’afflux de sang augmenté lorsqu’ils prennent le
+soleil. Une épaisse couche de graisse les protège
+à la fois contre les prédateurs et le froid.
+Un mâle typique pèse entre 1 et 2 tonnes
+pour une longueur de 3 mètres, tandis que
+les femelles sont un tiers moins lourdes
+pour une longueur de 2,70 mètres. Mâles
+et femelles sont dotés de défenses pouvant
+atteindre les 90 centimètres et d’épaisses
+moustaches qui leur permettent de débusquer
+les crustacés cachés. Un morse peut
+vivre jusqu’à 40 ans.
+
+Grâce à ses défenses impressionnantes,
+sa force prodigieuse et sa capacité à combattre
+en troupeau, seuls les prédateurs
+arctiques les plus agressifs ou les plus
+affamés prennent le risque de s’en
+prendre à un morse adulte. Les gens
+les chassent pour leur viande et pour
+leurs défenses, de l’ivoire précieux
+qu’ils conservent parfois tel quel en
+guise de prestigieux trophées.
+
+====Le morse comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' M ; '''Vitesse''' 3 m (2 {s:c}), nage 12 m (8 {s:c}) ; '''CA''' armure naturelle +4 ; '''Attaque''' morsure (1d6) ; '''Caractéristiques''' For 12, Dex 13, Con 14, Int 2, Sag 13, Cha 6 ; '''Particularités''' [[retenir son souffle (capacité)|retenir son souffle]], [[vision nocturne]].
+
+'''Évolution au niveau 7.''' '''Taille''' G ; '''CA''' armure naturelle +4 ; '''Attaque''' morsures(1d8); '''Caractéristiques''' For +8, Dex -2, Con +4.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Morse</fullName>
+</wikiPage>

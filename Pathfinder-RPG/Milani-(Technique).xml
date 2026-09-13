@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Milani</title>
+  <categories><category>Pathfinder-RPG.Divinité</category></categories>
+  <lastModified>2023-09-07 16:10:09Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Armure milanite</link><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Éclosion immuable</link><link>Pathfinder-RPG.Symbole despérance</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Thaïs</link><link>Pathfinder-RPG.Traits religieux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.morgenstern (arme)</link><link>Pathfinder-RPG.Domaine du Bien</link><link>Pathfinder-RPG.Domaine du Chaos</link><link>Pathfinder-RPG.Domaine de la Guérison</link><link>Pathfinder-RPG.Domaine de la Libération</link><link>Pathfinder-RPG.Domaine de la Protection</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Espoir</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Mythes et légendes</link><link>Pathfinder-RPG.Efforts coordonnés</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Regain dassurance</link><link>Pathfinder-RPG.Transfert de sorts</link><link>Pathfinder-RPG.Convocation de monstres I</link><link>Pathfinder-RPG.Grand-duc</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.Convocation de monstres IV</link><link>Pathfinder-RPG.Archon canin</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fMilani.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;%2fPCUP%2fReligion-PNG%2fMilani.png&lt;/i&gt;&quot;); }
+  let align = &quot;Chaotique Bon&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Milani,&lt;br/&gt;Celle qui fleurit sans cesse&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fMilani.png&quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#AUTRES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Autres divinit&#233;s&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Chaotique Bon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;D&#233;votion, espoir et r&#233;volte
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;D&#233;fenseur de la libert&#233;, majoritairement &lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Elfe.html&quot; title=&quot;Les demi-elfes&quot;&gt;demi-elfes&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;demi-orques&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Souris
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Morgenstern-(Arme).html&quot; title=&quot;Morgenstern&quot;&gt;Morgenstern&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Bien.html&quot; title=&quot;Domaine du Bien&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Gu&#233;rison.html&quot; title=&quot;Domaine de la Gu&#233;rison&quot;&gt;Gu&#233;rison&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Lib&#233;ration.html&quot; title=&quot;Domaine de la Lib&#233;ration&quot;&gt;Lib&#233;ration&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Protection.html&quot; title=&quot;Domaine de la Protection&quot;&gt;Protection&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Bien.html&quot; title=&quot;Domaine du Bien&quot;&gt;Azatas (Bien)&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;Azatas (Chaos)&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Protection.html&quot; title=&quot;Domaine de la Protection&quot;&gt;D&#233;fense&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;&#201;meutes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Lib&#233;ration.html&quot; title=&quot;Domaine de la Lib&#233;ration&quot;&gt;Libert&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Protection.html&quot; title=&quot;Domaine de la Protection&quot;&gt;Puret&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Gu&#233;rison.html&quot; title=&quot;Domaine de la Gu&#233;rison&quot;&gt;Restauration&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Lib&#233;ration.html&quot; title=&quot;Domaine de la Lib&#233;ration&quot;&gt;R&#233;volution&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html#CLANDESTINITE&quot; title=&quot;Les inquisitions d&amp;#39;inquisiteur&quot;&gt;Clandestinit&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html#SEDITION&quot; title=&quot;Les inquisitions d&amp;#39;inquisiteur&quot;&gt;S&#233;dition&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;pagelink&quot; href=&quot;../Golarion/Milani.html&quot; title=&quot;Milani, celle qui fleurit sans cesse&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;La d&#233;esse mineure Milani, &#233;galement connue sous le nom de Celle qui fleurit sans cesse, est la protectrice de tous ceux qui luttent contre l&#39;oppression et les r&#232;gles injustes. Son symbole est une rose poussant dans une rue macul&#233;e de sang.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles uniques aux suivants&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_uniques_aux_suivants_0&quot; href=&quot;#R&#232;gles_uniques_aux_suivants_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Espoir.html&quot; title=&quot;Espoir&quot;&gt;Espoir&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 3e niveau.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;pr&#234;tre combattant&lt;/a&gt;).&lt;/b&gt;  
+• Les pr&#234;tres de Milani comprennent que le travail d&#39;un r&#233;volutionnaire est souvent r&#233;compens&#233; par la mort, et ils acceptent qu&#39;ils puissent un jour &#234;tre appel&#233;s &#224; mourir pour une cause. Heureusement, la d&#233;esse enseigne que les vrais d&#233;vots qui sont martyris&#233;s en sauvant d&#39;autres personnes de la mort ou de la tyrannie ressusciteront d&#39;une mani&#232;re ou d&#39;une autre - peut-&#234;tre m&#234;me imm&#233;diatement, bien qu&#39;il soit beaucoup plus probable qu&#39;ils renaissent dans la foi.&lt;br /&gt;&lt;br /&gt;Certains pr&#234;tres pr&#233;tendent &#234;tre les incarnations d&#39;anciens disciples de la d&#233;esse, capables d&#39;acc&#233;der aux souvenirs de leurs vies ant&#233;rieures gr&#226;ce &#224; la magie et &#224; la m&#233;ditation appropri&#233;es. Un adepte n&#233; apr&#232;s l&#39;accession de Milani (il y a environ un si&#232;cle) peut tenter de rechercher les souvenirs de ses vies ant&#233;rieures en lan&#231;ant un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mythes-Et-L&#233;gendes.html&quot; title=&quot;Mythes et l&#233;gendes&quot;&gt;mythes et l&#233;gendes&lt;/a&gt;&lt;/i&gt;, que Milani n&#39;accorde que dans ce but aux inquisiteurs, pr&#234;tres et pr&#234;tres combattants, en tant que sort divin de 4e niveau. La premi&#232;re fois qu&#39;un lanceur de sorts tente d&#39;utiliser ce sort, il lance 1d4-1 pour d&#233;terminer le nombre d&#39;adeptes de Milani dont il acc&#232;de aux souvenirs ; chaque fois qu&#39;il utilise le sort, celui-ci ne r&#233;v&#232;le que les informations connues de ces individus. Si le r&#233;sultat du jet est 0, le lanceur ne peut acc&#233;der &#224; aucun souvenir, soit parce qu&#39;il n&#39;est pas un adepte r&#233;incarn&#233; de Milani, soit parce que la d&#233;esse n&#39;a pas mis &#224; sa disposition les souvenirs de ses vies ant&#233;rieures.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;pr&#234;tre combattant&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Efforts-Coordonn&#233;s.html&quot; title=&quot;Efforts coordonn&#233;s&quot;&gt;Efforts coordonn&#233;s&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 3e niveau.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Espoir.html&quot; title=&quot;Espoir&quot;&gt;Espoir&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 3e niveau.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Efforts-Coordonn&#233;s.html&quot; title=&quot;Efforts coordonn&#233;s&quot;&gt;Efforts coordonn&#233;s&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 3e niveau.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Espoir.html&quot; title=&quot;Espoir&quot;&gt;Espoir&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 3e niveau.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Regain-Dassurance.html&quot; title=&quot;Regain d&amp;#39;assurance&quot;&gt;Regain d&#39;assurance&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 1er niveau.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transfert-De-Sorts.html&quot; title=&quot;Transfert de sorts&quot;&gt;Transfert de sorts&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 3e niveau.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Convocations &#233;tendues.&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-I.html&quot; title=&quot;Convocation de monstres I&quot;&gt;Convocation de monstres I&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Grand-Duc.html&quot; title=&quot;Chouette, Grand-duc&quot;&gt;Grand-duc&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;)  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Iv.html&quot; title=&quot;Convocation de monstres IV&quot;&gt;Convocation de monstres IV&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Archon-Canin.html&quot; title=&quot;Archon, Archon canin&quot;&gt;Archon canin&lt;/a&gt; - CB&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Options de personnage th&#233;matiques&lt;a class=&quot;headeranchor&quot; id=&quot;Options_de_personnage_th&#233;matiques_1&quot; href=&quot;#Options_de_personnage_th&#233;matiques_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;i&gt;&#192; VENIR&lt;/i&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Milani|Milani,<br/>Celle qui fleurit sans cesse|%2fPCUP%2fReligion-PNG%2fMilani.png|[[Divinités#AUTRES|Autres divinités]]
+|Chaotique Bon|Dévotion, espoir et révolte
+|Défenseur de la liberté, majoritairement [[Humain|humains]], [[Demi-elfe|demi-elfes]] et [[Demi-orque|demi-orques]]|Souris
+|[[Morgenstern (arme)|Morgenstern]]
+|[[Domaine du Bien|Bien]], [[Domaine du Chaos|Chaos]], [[Domaine de la Guérison|Guérison]], [[Domaine de la Libération|Libération]], [[Domaine de la Protection|Protection]]
+|[[Domaine du Bien|Azatas (Bien)]], [[Domaine du Chaos|Azatas (Chaos)]], [[Domaine de la Protection|Défense]], [[Domaine du Chaos|Émeutes]], [[Domaine de la Libération|Liberté]], [[Domaine de la Protection|Pureté]], [[Domaine de la Guérison|Restauration]], [[Domaine de la Libération|Révolution]]
+|[[Inquisitions#CLANDESTINITE|Clandestinité]], [[Inquisitions#SEDITION|Sédition]]}{s:cs}{s:ISG}La déesse mineure Milani, également connue sous le nom de Celle qui fleurit sans cesse, est la protectrice de tous ceux qui luttent contre l'oppression et les règles injustes. Son symbole est une rose poussant dans une rue maculée de sang.
+
+===Règles uniques aux suivants===
+'''Lancement de sorts ([[inquisiteur]]).'''  
+• ''[[Espoir]]'' peut être préparé comme un sort de 3e niveau.
+
+'''Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).'''  
+• Les prêtres de Milani comprennent que le travail d'un révolutionnaire est souvent récompensé par la mort, et ils acceptent qu'ils puissent un jour être appelés à mourir pour une cause. Heureusement, la déesse enseigne que les vrais dévots qui sont martyrisés en sauvant d'autres personnes de la mort ou de la tyrannie ressusciteront d'une manière ou d'une autre - peut-être même immédiatement, bien qu'il soit beaucoup plus probable qu'ils renaissent dans la foi.
+
+Certains prêtres prétendent être les incarnations d'anciens disciples de la déesse, capables d'accéder aux souvenirs de leurs vies antérieures grâce à la magie et à la méditation appropriées. Un adepte né après l'accession de Milani (il y a environ un siècle) peut tenter de rechercher les souvenirs de ses vies antérieures en lançant un sort de ''[[mythes et légendes]]'', que Milani n'accorde que dans ce but aux inquisiteurs, prêtres et prêtres combattants, en tant que sort divin de 4e niveau. La première fois qu'un lanceur de sorts tente d'utiliser ce sort, il lance 1d4-1 pour déterminer le nombre d'adeptes de Milani dont il accède aux souvenirs ; chaque fois qu'il utilise le sort, celui-ci ne révèle que les informations connues de ces individus. Si le résultat du jet est 0, le lanceur ne peut accéder à aucun souvenir, soit parce qu'il n'est pas un adepte réincarné de Milani, soit parce que la déesse n'a pas mis à sa disposition les souvenirs de ses vies antérieures.
+
+'''Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).'''  
+• ''[[Efforts coordonnés]]'' peut être préparé comme un sort de 3e niveau.  
+• ''[[Espoir]]'' peut être préparé comme un sort de 3e niveau.
+
+'''Lancement de sorts ([[rôdeur]]).'''  
+• ''[[Efforts coordonnés]]'' peut être préparé comme un sort de 3e niveau.  
+• ''[[Espoir]]'' peut être préparé comme un sort de 3e niveau.  
+• ''[[Regain dassurance|Regain d'assurance]]'' peut être préparé comme un sort de 1er niveau.  
+• ''[[Transfert de sorts]]'' peut être préparé comme un sort de 3e niveau.
+
+'''Convocations étendues.'''  
+• ''[[Convocation de monstres I]].'' [[Grand-duc]] ([[sous-type extraplanaire|extraplanaire]])  
+• ''[[Convocation de monstres IV]].'' [[Archon canin]] - CB
+
+===Options de personnage thématiques===
+''À VENIR'']]></raw>
+  <fullName>Pathfinder-RPG.Milani (technique)</fullName>
+</wikiPage>

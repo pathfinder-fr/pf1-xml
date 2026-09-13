@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Casque bélier nain</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-01 17:47:06Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.arme légère</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Caractéristiques des armures</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 20 po ; &lt;b&gt;Poids&lt;/b&gt; 5 kg ; &lt;b&gt;Groupes&lt;/b&gt; —  
+&lt;b&gt;D&#233;g&#226;ts&lt;/b&gt; 1d3 (P), 1d4 (M) ; &lt;b&gt;Critique&lt;/b&gt; &#215;2 ; &lt;b&gt;Port&#233;e&lt;/b&gt; — ; &lt;b&gt;Type&lt;/b&gt; C ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; voir texte  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABEXOTIQUES&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Armes exotiques&lt;/a&gt; ; &lt;b&gt;Maniement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armelegere.html&quot; title=&quot;arme l&#233;g&#232;re&quot;&gt;arme de corps &#224; corps l&#233;g&#232;re&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+On peut utiliser ce lourd casque renforc&#233; pour faire des attaques de corps &#224; corps. Il sert aussi &#224; faire des manœuvres de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt;. Son propri&#233;taire b&#233;n&#233;ficie alors d’un bonus de circonstances de +2 au test, mais, une fois la manœuvre termin&#233;e, qu’elle soit couronn&#233;e de succ&#232;s ou non, le personnage est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Chancelant.html&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt; jusqu’&#224; la fin de son prochain tour. De plus, le casque donne un bonus de circonstances de +2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; contre les confirmations de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Coupcritique.html&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt;. Le casque b&#233;lier nain augmente les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;risques d’&#233;chec des sorts profanes&lt;/a&gt; de 20 %. Il se place sur la t&#234;te et il est fait de m&#233;tal et non de pierre, ce qui veut dire qu’on peut en fabriquer &#224; partir de mat&#233;riaux inhabituels, comme pour les armes m&#233;talliques. On peut aussi l’&lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html&quot; title=&quot;Les armes magiques&quot;&gt;enchanter&lt;/a&gt; comme une arme (et non comme une armure, malgr&#233; la protection qu’il offre).
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}'''Prix''' 20 po ; '''Poids''' 5 kg ; '''Groupes''' —  
+'''Dégâts''' 1d3 (P), 1d4 (M) ; '''Critique''' ×2 ; '''Portée''' — ; '''Type''' C ; '''Spécial''' voir texte  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; '''Maniement''' [[arme légère|arme de corps à corps légère]]</span>
+<hr>
+On peut utiliser ce lourd casque renforcé pour faire des attaques de corps à corps. Il sert aussi à faire des manœuvres de [[bousculade]]. Son propriétaire bénéficie alors d’un bonus de circonstances de +2 au test, mais, une fois la manœuvre terminée, qu’elle soit couronnée de succès ou non, le personnage est [[chancelant]] jusqu’à la fin de son prochain tour. De plus, le casque donne un bonus de circonstances de +2 à la [[CA]] contre les confirmations de [[coup critique]]. Le casque bélier nain augmente les [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]] de 20 %. Il se place sur la tête et il est fait de métal et non de pierre, ce qui veut dire qu’on peut en fabriquer à partir de matériaux inhabituels, comme pour les armes métalliques. On peut aussi l’[[armes magiques|enchanter]] comme une arme (et non comme une armure, malgré la protection qu’il offre).]]></raw>
+  <fullName>Pathfinder-RPG.casque bélier nain (arme)</fullName>
+</wikiPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Jouet du destin</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src La mer Intérieure</category></categories>
+  <lastModified>2021-02-27 20:22:08Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.dons issus du cadre de campagne</link><link>Pathfinder-RPG.La Mer Intérieure (Contenu)</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.jet dattaque</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Les pr&#233;requis de Charisme et de niveau ont &#233;t&#233; retir&#233;s dans les plus r&#233;cents ouvrages.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.La Mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea World Guide/La Mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISWG.gif&quot; style=&quot;opacity: 0.7&quot;/&gt;
+&lt;/a&gt;&lt;i&gt;Dans la jeunesse du personnage, de nombreuses divinations semblent avoir fait mouche et ont renforc&#233; sa conviction : il est vou&#233; &#224; accomplir un grand destin. &lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages&lt;/b&gt;. Le personnage gagne un bonus de +1 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; destin&#233;s &#224; r&#233;sister aux effets d’enchantement. Une fois par jour, il peut lancer 1d6 pour d&#233;signer une de ses caract&#233;ristiques. Pendant le reste de la journ&#233;e, il pourra appliquer un bonus de +2 &#224; n’importe quel jet de d20 modifiable bas&#233; sur la Caract&#233;ristique tir&#233;e au hasard. Par exemple, si le tirage au sort d&#233;signe la Dext&#233;rit&#233;, il pourra appliquer son bonus de +2 &#224; un test d’Initiative, un jet de R&#233;flexes, un test de comp&#233;tence bas&#233; sur la Dext&#233;rit&#233; ou un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt; &#224; distance. Il peut assigner son bonus une fois le jet effectu&#233;, mais obligatoirement avant de savoir si c’est une r&#233;ussite ou un &#233;chec.
+]]></body>
+  <raw><![CDATA[{s:cs}{s:Desambi|Les prérequis de Charisme et de niveau ont été retirés dans les plus récents ouvrages.}{s:ccmi}''Dans la jeunesse du personnage, de nombreuses divinations semblent avoir fait mouche et ont renforcé sa conviction : il est voué à accomplir un grand destin. ''
+
+'''Avantages'''. Le personnage gagne un bonus de +1 aux jets de [[Volonté]] destinés à résister aux effets d’enchantement. Une fois par jour, il peut lancer 1d6 pour désigner une de ses caractéristiques. Pendant le reste de la journée, il pourra appliquer un bonus de +2 à n’importe quel jet de d20 modifiable basé sur la Caractéristique tirée au hasard. Par exemple, si le tirage au sort désigne la Dextérité, il pourra appliquer son bonus de +2 à un test d’Initiative, un jet de Réflexes, un test de compétence basé sur la Dextérité ou un [[jet dattaque|jet d'attaque]] à distance. Il peut assigner son bonus une fois le jet effectué, mais obligatoirement avant de savoir si c’est une réussite ou un échec.]]></raw>
+  <fullName>Pathfinder-RPG.Jouet du destin</fullName>
+</wikiPage>

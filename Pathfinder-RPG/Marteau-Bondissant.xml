@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Marteau bondissant</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don combat</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2020-07-28 13:58:05Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.dons raciaux</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Capture de projectiles</link><link>Pathfinder-RPG.spectrale (propriété)</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Le personnage sait lancer un marteau de fa&#231;on &#224; ce qu’il ricoche pour revenir dans sa direction.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCOMBAT&quot; title=&quot;Les dons&quot;&gt;combat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; Maniement du marteau, &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Bonusdebasealattaque.html&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; +6&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le personnage peut lancer un marteau sur un adversaire qui se trouve &#224; 6 m&#232;tres ou moins. S’il touche (que l’attaque inflige des d&#233;g&#226;ts ou non), le marteau rebondit sur la cr&#233;ature et revient dans la case du personnage. S’il poss&#232;de le don &lt;a class=&quot;pagelink&quot; href=&quot;Capture-De-Projectiles.html&quot; title=&quot;Capture de projectiles&quot;&gt;Capture de projectiles&lt;/a&gt;, il peut choisir d’attraper le marteau d&#232;s que celui-ci entre dans sa case (mais ceci ne lui donne pas l’occasion de relancer imm&#233;diatement le marteau). Cet avantage ne fonctionne pas contre certaines cr&#233;atures ou dans certaines circonstances, &#224; la discr&#233;tion du MJ ; par exemple, l’arme du personnage peut ne pas rebondir sur des cr&#233;atures intangibles (&#224; moins qu’elle ne poss&#232;de la propri&#233;t&#233; &lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Spectrale.html&quot; title=&quot;spectrale (propri&#233;t&#233;)&quot;&gt;spectrale&lt;/a&gt;), elle peut rester coll&#233;e sur des cr&#233;atures poss&#233;dant la particularit&#233; substance adh&#233;sive, l’effet de ralentissement provoqu&#233; par le combat dans l’eau peut emp&#234;cher l’utilisation de ce don, etc.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Normal.&lt;/b&gt; Une arme lanc&#233;e atterrit dans la case o&#249; elle a touch&#233; sa cible.
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}''Le personnage sait lancer un marteau de façon à ce qu’il ricoche pour revenir dans sa direction.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' Maniement du marteau, [[BBA]] +6
+
+'''Avantage.''' Par une [[action simple]], le personnage peut lancer un marteau sur un adversaire qui se trouve à 6 mètres ou moins. S’il touche (que l’attaque inflige des dégâts ou non), le marteau rebondit sur la créature et revient dans la case du personnage. S’il possède le don [[Capture de projectiles]], il peut choisir d’attraper le marteau dès que celui-ci entre dans sa case (mais ceci ne lui donne pas l’occasion de relancer immédiatement le marteau). Cet avantage ne fonctionne pas contre certaines créatures ou dans certaines circonstances, à la discrétion du MJ ; par exemple, l’arme du personnage peut ne pas rebondir sur des créatures intangibles (à moins qu’elle ne possède la propriété [[spectrale (propriété)|spectrale]]), elle peut rester collée sur des créatures possédant la particularité substance adhésive, l’effet de ralentissement provoqué par le combat dans l’eau peut empêcher l’utilisation de ce don, etc.
+
+'''Normal.''' Une arme lancée atterrit dans la case où elle a touché sa cible.]]></raw>
+  <fullName>Pathfinder-RPG.Marteau bondissant</fullName>
+</wikiPage>

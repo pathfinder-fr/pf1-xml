@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Minotaure mythique</title>
+  <categories><category>Pathfinder-RPG.Monstre mythique</category><category>Pathfinder-RPG.Src Campagnes mythiques</category></categories>
+  <lastModified>2021-04-08 21:37:06Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Campagnes mythiques (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres mythiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.sous-type mythique</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.RDépique</link><link>Pathfinder-RPG.Charge puissante (capacité)</link><link>Pathfinder-RPG.Pouvoir mythique (capacité)</link><link>Pathfinder-RPG.Montée en puissance (capacité)</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Bousculade supérieure</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Grande hache (arme)</link><link>Pathfinder-RPG.arme de maître</link><link>Pathfinder-RPG.Dédale</link><link>Pathfinder-RPG.Pris au dépourvu</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Minotaure</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Minotaure mythique&lt;div style=&quot;float:right;&quot;&gt;FP 6/RMy 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de monstrueux&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de monstrueux.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Campagnes mythiques p.209&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 9, pris au d&#233;pourvu 17 (+8 naturelle, -1 taille)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 72 (7d10+34)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; instinct ; &lt;b&gt;RD&lt;/b&gt; 5/&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Rdepique.html&quot; title=&quot;RD&#233;pique&quot;&gt;&#233;pique&lt;/a&gt; ; &lt;b&gt;RM&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; grande hache de ma&#238;tre, +12/+7 (3d6+7/&#215;3) et corne, +11 (1d6+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante (Ext)&quot;&gt;charge puissante&lt;/a&gt; (corne, 2d6+7), oubliettes, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (2/jour, &lt;a class=&quot;pagelink&quot; href=&quot;Mont&#233;e-En-Puissance-(Capacit&#233;).html&quot; title=&quot;Mont&#233;e en puissance (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;mont&#233;e en puissance&lt;/a&gt; +1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +13 (+17 pour la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 23 (25 contre la bousculade)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Bousculade-Sup&#233;rieure.html&quot; title=&quot;Bousculade sup&#233;rieure&quot;&gt;Bousculade sup&#233;rieure&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +10 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Perception, +4 en Survie
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; science du labyrinthe
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrains ou ruines temp&#233;r&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou gang (3-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&lt;a class=&quot;pagelink&quot; href=&quot;Grande-Hache-(Arme).html&quot; title=&quot;Grande hache&quot;&gt;grande hache&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armesmaitre.html&quot; title=&quot;arme de ma&#238;tre&quot;&gt;de ma&#238;tre&lt;/a&gt;, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Instinct (Ext).&lt;/b&gt; Bien que le minotaure mythique ne soit pas sp&#233;cialement intelligent, il poss&#232;de une logique et un instinct naturels qui l’immunisent contre les sorts de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;dale.html&quot; title=&quot;D&#233;dale&quot;&gt;d&#233;dale&lt;/a&gt;&lt;/i&gt; et l’emp&#234;chent toujours de se perdre. En outre, il n’est jamais &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Prisaud&#233;pourvu.html&quot; title=&quot;Pris au d&#233;pourvu&quot;&gt;pris au d&#233;pourvu&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Oubliettes (Sur).&lt;/b&gt; Quand le minotaure mythique touche une cr&#233;ature avec une attaque de corne lors d’une charge puissante, la cible doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour ne pas &#234;tre envoy&#233;e dans une prison extradimensionnelle, comme pour le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;dale.html&quot; title=&quot;D&#233;dale&quot;&gt;d&#233;dale&lt;/a&gt;&lt;/i&gt;, mais pendant 1d4+1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Le DD du jet de sauvegarde est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; et inclut un modificateur racial de +2.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Science du labyrinthe (Sur).&lt;/b&gt; Le minotaure mythique peut choisir une zone ne faisant pas plus de 30 m&#232;tres de c&#244;t&#233; (g&#233;n&#233;ralement un labyrinthe, un d&#233;dale souterrain ou une autre structure compliqu&#233;e) dont il fait son antre personnel. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;, le minotaure peut se t&#233;l&#233;porter d’un point de son repaire &#224; un autre, toujours dans son repaire, comme s’il utilisait &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt;. De plus, quand le minotaure doit faire un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; dans son repaire, il peut le faire deux fois et garder le meilleur r&#233;sultat. Le minotaure mythique peut changer de repaire une fois par semaine et le partager avec d’autres cr&#233;atures (y compris avec d’autres &lt;a class=&quot;pagelink&quot; href=&quot;Minotaure.html&quot; title=&quot;Minotaure&quot;&gt;minotaures&lt;/a&gt; ou minotaures mythiques) sans que cela n’interf&#232;re avec ce pouvoir.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;En plus de ses yeux rougeoyants et des runes magiques qui brillent sur ses cornes, cette cr&#233;ature puissante a un corps d’homme et une t&#234;te de taureau.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+Le minotaure mythique est post&#233;rieur d’une ou deux g&#233;n&#233;rations aux &lt;a class=&quot;pagelink&quot; href=&quot;Minotaure.html&quot; title=&quot;Minotaure&quot;&gt;minotaures&lt;/a&gt; originaux, maudits de naissance, qui ont fond&#233; la race. Cr&#233;&#233;s pour punir ceux qui d&#233;sob&#233;issent aux dieux et outrepassent leurs ordres, ils utilisent leur magie inn&#233;e pour emprisonner, traquer et d&#233;vorer les humano&#239;des, notamment les descendants de la lign&#233;e royale dont les blasph&#232;mes sont &#224; l’origine de la cr&#233;ation de cette nouvelle race. Des humano&#239;des primitifs vivant dans la crainte v&#233;n&#232;rent certains minotaures mythiques et leur offrent de jeunes hommes et femmes en sacrifice, pour apaiser leur faim. Les minotaures mythiques portent souvent des armures personnalis&#233;es et des armes adapt&#233;es &#224; leur grande musculature inhumaine. Elles leur sont offertes par des adorateurs ou sont fabriqu&#233;es par des forgerons r&#233;duits en esclavage.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Minotaure mythique|FP 6/RMy 2}
+{s:pucem|Humanoïde monstrueux|Ruines-Donjons|Tempéré}
+{s:BDtexte|''Source : Campagnes mythiques p.209''}
+{s:BDtexte|'''PX''' 2400}
+{s:BDtexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type mythique|mythique]]) de taille G, CM}
+{s:BDtexte|'''Init''' +0 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +12}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 17, contact 9, pris au dépourvu 17 (+8 naturelle, -1 taille)}
+{s:BDtexte|'''pv''' 72 (7d10+34)}
+{s:BDtexte|'''Réf''' +5, '''Vig''' +6, '''Vol''' +5}
+{s:BDtexte|'''Capacités défensives''' instinct ; '''RD''' 5/[[RDépique|épique]] ; '''RM''' 17}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 9 m}
+{s:BDtexte|'''Corps à corps''' grande hache de maître, +12/+7 (3d6+7/×3) et corne, +11 (1d6+2)}
+{s:BDtexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDtexte|'''Attaques spéciales''' [[Charge puissante (capacité)|charge puissante]] (corne, 2d6+7), oubliettes, [[Pouvoir mythique (capacité)|pouvoir mythique]] (2/jour, [[Montée en puissance (capacité)|montée en puissance]] +1d6)}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 21, '''Dex''' 10, '''Con''' 15, '''Int''' 7, '''Sag''' 10, '''Cha''' 8}
+{s:BDtexte|'''BBA''' +7, '''BMO''' +13 (+17 pour la [[bousculade]]), '''DMD''' 23 (25 contre la bousculade)}
+{s:BDtexte|'''Dons''' [[Attaque en puissance]]<sup>M</sup>, [[Bousculade supérieure]], [[Science de la bousculade]], [[Vigueur surhumaine]]}
+{s:BDtexte|'''Compétences''' [[Discrétion]] +2, [[Intimidation]] +5, [[Perception]] +12, [[Survie]] +10 ; '''Modificateurs raciaux''' +4 en Perception, +4 en Survie}
+{s:BDtexte|'''Langues''' géant}
+{s:BDtexte|'''Particularités''' science du labyrinthe}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' souterrains ou ruines tempérés}
+{s:BDtexte|'''Organisation sociale''' solitaire, couple ou gang (3-4)}
+{s:BDtexte|'''Trésor''' standard ([[grande hache (arme)|grande hache]] [[arme de maître|de maître]], autre trésor)}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Instinct (Ext).''' Bien que le minotaure mythique ne soit pas spécialement intelligent, il possède une logique et un instinct naturels qui l’immunisent contre les sorts de ''[[dédale]]'' et l’empêchent toujours de se perdre. En outre, il n’est jamais [[pris au dépourvu]].}
+{s:BDtexte|'''Oubliettes (Sur).''' Quand le minotaure mythique touche une créature avec une attaque de corne lors d’une charge puissante, la cible doit réussir un jet de [[Volonté]] [[DD]] 15 pour ne pas être envoyée dans une prison extradimensionnelle, comme pour le sort ''[[dédale]]'', mais pendant 1d4+1 [[round|rounds]]. Le DD du jet de sauvegarde est basé sur la [[Sagesse]] et inclut un modificateur racial de +2.}
+{s:BDtexte|'''Science du labyrinthe (Sur).''' Le minotaure mythique peut choisir une zone ne faisant pas plus de 30 mètres de côté (généralement un labyrinthe, un dédale souterrain ou une autre structure compliquée) dont il fait son antre personnel. Par une [[action de mouvement]], le minotaure peut se téléporter d’un point de son repaire à un autre, toujours dans son repaire, comme s’il utilisait ''[[téléportation suprême]]''. De plus, quand le minotaure doit faire un [[jds|jet de sauvegarde]] dans son repaire, il peut le faire deux fois et garder le meilleur résultat. Le minotaure mythique peut changer de repaire une fois par semaine et le partager avec d’autres créatures (y compris avec d’autres [[Minotaure|minotaures]] ou minotaures mythiques) sans que cela n’interfère avec ce pouvoir.}
+</div>
+</td>
+<td>
+<div>
+''En plus de ses yeux rougeoyants et des runes magiques qui brillent sur ses cornes, cette créature puissante a un corps d’homme et une tête de taureau.''
+
+
+Le minotaure mythique est postérieur d’une ou deux générations aux [[Minotaure|minotaures]] originaux, maudits de naissance, qui ont fondé la race. Créés pour punir ceux qui désobéissent aux dieux et outrepassent leurs ordres, ils utilisent leur magie innée pour emprisonner, traquer et dévorer les humanoïdes, notamment les descendants de la lignée royale dont les blasphèmes sont à l’origine de la création de cette nouvelle race. Des humanoïdes primitifs vivant dans la crainte vénèrent certains minotaures mythiques et leur offrent de jeunes hommes et femmes en sacrifice, pour apaiser leur faim. Les minotaures mythiques portent souvent des armures personnalisées et des armes adaptées à leur grande musculature inhumaine. Elles leur sont offertes par des adorateurs ou sont fabriquées par des forgerons réduits en esclavage.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Minotaure mythique</fullName>
+</wikiPage>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Copain de boue</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Sort druide 2</category><category>Pathfinder-RPG.Sort magicien 2</category><category>Pathfinder-RPG.Sort sorcière 2</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2024-10-09 20:56:15Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche création</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.For</link><link>Pathfinder-RPG.VD</link><link>Pathfinder-RPG.Serviteur invisible</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Gobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Creation.html&quot; title=&quot;cr&#233;ation&quot;&gt;cr&#233;ation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor&lt;/a&gt; 2  
+&lt;b&gt;Temps d’incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (0,5 l d’eau)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 niveaux)  
+&lt;b&gt;Cible&lt;/b&gt; 0,15 m&#232;tre cube de terre ou de boue  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 heure/niveau (T), voir texte&lt;br /&gt;&lt;br /&gt;Le personnage cr&#233;e un sbire de taille P fait de boue. Cette cr&#233;ature ob&#233;it &#224; tous ses ordres. Le &lt;i&gt;copain de boue&lt;/i&gt; a : &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; 12, 10 pv, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; 5 et &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Vitessededeplacement.html&quot; title=&quot;VD&quot;&gt;VD&lt;/a&gt; 9 m. Il peut accomplir les m&#234;mes t&#226;ches qu’un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Serviteur-Invisible.html&quot; title=&quot;Serviteur invisible&quot;&gt;serviteur invisible&lt;/a&gt;&lt;/i&gt; et celles que sa &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; lui autorise (il peut soulever jusqu’&#224; 25 kilos), mais au lieu de marcher sur l’eau, il a une vitesse de nage de 9 m&#232;tres.&lt;br /&gt;&lt;br /&gt;Le personnage peut ordonner &#224; son copain de boue de s’avancer de 1,50 m au maximum et de faire un &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; &#224; un adversaire (BMO = &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; du personnage + son modificateur de caract&#233;ristique d’incantation). Le sort se dissipe apr&#232;s la r&#233;solution du &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;. Quand le sort se termine, le &lt;i&gt;copain de boue&lt;/i&gt; redevient une flaque de terre humide.
+]]></body>
+  <raw><![CDATA[{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:cm}'''École''' [[Invocation]] ([[branche création|création]]) ; '''Niveau''' [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[sorcière|Sor]] 2  
+'''Temps d’incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, M]] (0,5 l d’eau)  
+'''Portée''' courte (7,50 m + 1,50 m/2 niveaux)  
+'''Cible''' 0,15 mètre cube de terre ou de boue  
+'''Durée''' 1 heure/niveau (T), voir texte
+
+Le personnage crée un sbire de taille P fait de boue. Cette créature obéit à tous ses ordres. Le ''copain de boue'' a : [[CA]] 12, 10 pv, [[For]] 5 et [[VD]] 9 m. Il peut accomplir les mêmes tâches qu’un ''[[serviteur invisible]]'' et celles que sa [[Force]] lui autorise (il peut soulever jusqu’à 25 kilos), mais au lieu de marcher sur l’eau, il a une vitesse de nage de 9 mètres.
+
+Le personnage peut ordonner à son copain de boue de s’avancer de 1,50 m au maximum et de faire un [[croc-en-jambe]] à un adversaire (BMO = [[NLS|niveau de lanceur de sorts]] du personnage + son modificateur de caractéristique d’incantation). Le sort se dissipe après la résolution du [[croc-en-jambe]]. Quand le sort se termine, le ''copain de boue'' redevient une flaque de terre humide.]]></raw>
+  <fullName>Pathfinder-RPG.Copain de boue</fullName>
+</wikiPage>

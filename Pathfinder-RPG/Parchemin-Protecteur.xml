@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Parchemin protecteur</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-21 15:57:53Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles (capacité)</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Saignement (capacité)</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.Enveloppement (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Arme magique</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.Mission</link><link>Pathfinder-RPG.Réparation intégrale</link><link>Pathfinder-RPG.Simulacre de vie</link><link>Pathfinder-RPG.sort Vol</link><link>Pathfinder-RPG.Linguistique</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Parchemin protecteur&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature artificielle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature artificielle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.202&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 15, pris au d&#233;pourvu 12 (Dex +2, esquive +1, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 27 (5d10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/magie ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; d&#233;g&#226;ts contondants, d’&#233;crasement et de chute, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles (Ext)&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; sensible aux effets mentaux, &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 12 m (parfaite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; tranche, +9 (1d4+3 plus 1d2 &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 0,75 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (1d4+3), &#233;treinte (taille M), &lt;a class=&quot;pagelink&quot; href=&quot;Enveloppement-(Capacit&#233;).html&quot; title=&quot;Enveloppement (Ext)&quot;&gt;enveloppement&lt;/a&gt; et asphyxie, saignement (1d2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5 ; &lt;b&gt;BMO&lt;/b&gt; +5 (+9 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun (ne peut pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou collection (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Enveloppement et asphyxie (Ext).&lt;/b&gt; Quand un parchemin protecteur agrippe une cr&#233;ature en situation de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;, elle enveloppe enti&#232;rement la t&#234;te de son adversaire pour l’emp&#234;cher de respirer. Une cr&#233;ature agripp&#233;e de la sorte par un parchemin protecteur ne peut plus voir, parler ou lancer des sorts avec des &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;composantes verbales&lt;/a&gt;. En outre, elle doit retenir sa respiration (voir les r&#232;gles relatives &#224; l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ASPHYXIE&quot; title=&quot;Les dangers naturels&quot;&gt;asphyxie&lt;/a&gt;). Les cr&#233;atures dont la ou les t&#234;tes ne leur servent pas &#224; respirer ou &#224; parler ne sont pas affect&#233;es par ce pouvoir. Les cr&#233;atures aveugles qui voient par d’autres moyens ne sont pas affect&#233;es non plus. Les attaques qui prennent pour cible un parchemin protecteur engag&#233; dans une lutte infligent la moiti&#233; de leurs points de d&#233;g&#226;ts au parchemin et l’autre moiti&#233; &#224; la cr&#233;ature contre laquelle il lutte.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sensible aux effets mentaux (Ext).&lt;/b&gt; En tant que cr&#233;ature artificielle intelligente, un parchemin protecteur peut &#234;tre la cible d’&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effets mentaux&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce parchemin d’aspect inoffensif, mais aux bords extr&#234;mement tranchants, volette avec gr&#226;ce en ondulant comme un serpent.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les parchemins protecteurs sont des cr&#233;atures artificielles trompeuses cr&#233;&#233;es &#224; partir de papier ou de papyrus enchant&#233; et con&#231;ues pour prot&#233;ger les repaires, les biblioth&#232;ques et les textes sacr&#233;s poss&#233;d&#233;s par les pratiquants de la magie. Le parchemin protecteur passe &#224; l’attaque d&#232;s qu’un intrus p&#233;n&#232;tre dans une zone proscrite ou touche un objet proscrit sans avoir au pr&#233;alable prononc&#233; un mot de passe ou exprim&#233;, d’une fa&#231;on ou d’une autre, qu’il a la permission d’entrer. Les parchemins protecteurs au repos passent pour diff&#233;rents types de parchemins magiques ou ordinaires. Actifs, ils prennent leur envol et d&#233;ploient toute leur longueur de presque 1,20 m&#232;tre. Ils se d&#233;placent vers leur cible en volant avec facilit&#233; et pr&#233;cision. Lorsqu’ils passent &#224; l’attaque, la tranche du parchemin se durcit et devient extr&#234;mement coupante. Ils passent &#224; grande vitesse pr&#232;s de leur cible et d&#233;ploient toute leur longueur sur un point faible de chair expos&#233;e, en laissant une longue, profonde et douloureuse coupure au saignement important. Ils peuvent envelopper en un clin d’oeil une cr&#233;ature de taille moyenne ou plus petite et commencer la constriction. M&#234;me si la force investie dans cette constriction n’est pas aussi importante que celle d’un serpent g&#233;ant, les parchemins protecteurs sont suffisamment intelligents pour appliquer la strat&#233;gie qui consiste &#224; envelopper la t&#234;te de leur cible afin de l’aveugler et de l’asphyxier.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Cr&#233;ation&lt;a class=&quot;headeranchor&quot; id=&quot;Cr&#233;ation_0&quot; href=&quot;#Cr&#233;ation_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Un parchemin protecteur est g&#233;n&#233;ralement fait de papier fabriqu&#233; &#224; partir d’une cr&#233;ature v&#233;g&#233;tale intelligente et vivante. Le processus de fabrication du papier d&#233;truit normalement cette cr&#233;ature. La cr&#233;ation d’un parchemin protecteur est donc consid&#233;r&#233;e, pour cette raison, comme un acte mal&#233;fique. Une cr&#233;ature de taille M ou G peut servir &#224; la fabrication d’une quantit&#233; suffisante de papier pour cr&#233;er plusieurs dizaines de parchemins protecteurs. Le papier utilis&#233; pour la cr&#233;ation de parchemins protecteurs peut &#233;galement &#234;tre fabriqu&#233; par des moyens alchimiques &#224; partir de p&#226;tes ordinaires. Ce proc&#233;d&#233; est plus co&#251;teux et n&#233;cessite la r&#233;ussite d’un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) DD 25. Le prix et le co&#251;t suppl&#233;mentaires occasionn&#233;s par ce proc&#233;d&#233; alternatif sont indiqu&#233;s entre parenth&#232;ses dans le profil ci-dessous.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;NLS&lt;/b&gt; 8 ; &lt;b&gt;Prix&lt;/b&gt; 5 000 po (7 500 po)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Magique.html&quot; title=&quot;Arme magique&quot;&gt;arme magique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Force-De-Taureau.html&quot; title=&quot;Force de taureau&quot;&gt;force de taureau&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mission.html&quot; title=&quot;Mission&quot;&gt;mission&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration-Int&#233;grale.html&quot; title=&quot;R&#233;paration int&#233;grale&quot;&gt;r&#233;paration int&#233;grale&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Simulacre-De-Vie.html&quot; title=&quot;Simulacre de vie&quot;&gt;simulacre de vie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Vol.html&quot; title=&quot;Vol&quot;&gt;vol&lt;/a&gt;&lt;/i&gt; ; papier fabriqu&#233; &#224; partir d’une cr&#233;ature v&#233;g&#233;tale intelligente qui meurt ou est mise &#224; mort lors du processus de fabrication, utilisation possible mais plus co&#251;teuse de l’alchimie pour fabriquer le papier ; le cr&#233;ateur doit poss&#233;der 5 rangs au moins en &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (calligraphie) DD 15 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 2 500 po (3 750 po)&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Parchemin protecteur|FP 3}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.202]]''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille TP, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 15, pris au dépourvu 12 (Dex +2, esquive +1, taille +2)}
+{s:BDTexte|'''pv''' 27 (5d10)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +1, '''Vol''' +1}
+{s:BDTexte|'''RD''' 5/magie ; '''Immunités''' dégâts contondants, d’écrasement et de chute, [[Traits des créatures artificielles (capacité)|traits des créatures artificielles]]}
+{s:BDTexte|'''Faiblesses''' sensible aux effets mentaux, [[Vulnérabilités (capacité)|vulnérabilité]] au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m, [[Vol (capacité)|vol]] 12 m (parfaite)}
+{s:BDTexte|'''Corps à corps''' tranche, +9 (1d4+3 plus 1d2 [[Saignement (capacité)|saignement]] et [[Étreinte (capacité)|étreinte]])}
+{s:BDTexte|'''Espace occupé''' 0,75 m ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' [[Constriction (capacité)|constriction]] (1d4+3), étreinte (taille M), [[Enveloppement (capacité)|enveloppement]] et asphyxie, saignement (1d2)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 15, '''Con''' —, '''Int''' 4, '''Sag''' 10, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +5 ; '''BMO''' +5 (+9 en [[lutte]]) ; '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Attaque en vol]], [[Esquive]], [[Réflexes surhumains]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +4, [[Vol]] +20}
+{s:BDTexte|'''Langues''' commun (ne peut pas parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation''' solitaire, couple ou collection (3-6)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Enveloppement et asphyxie (Ext).''' Quand un parchemin protecteur agrippe une créature en situation de [[lutte]], elle enveloppe entièrement la tête de son adversaire pour l’empêcher de respirer. Une créature agrippée de la sorte par un parchemin protecteur ne peut plus voir, parler ou lancer des sorts avec des [[composantes|composantes verbales]]. En outre, elle doit retenir sa respiration (voir les règles relatives à l'[[Dangers naturels#ASPHYXIE|asphyxie]]). Les créatures dont la ou les têtes ne leur servent pas à respirer ou à parler ne sont pas affectées par ce pouvoir. Les créatures aveugles qui voient par d’autres moyens ne sont pas affectées non plus. Les attaques qui prennent pour cible un parchemin protecteur engagé dans une lutte infligent la moitié de leurs points de dégâts au parchemin et l’autre moitié à la créature contre laquelle il lutte.}
+{s:BDTexte|'''Sensible aux effets mentaux (Ext).''' En tant que créature artificielle intelligente, un parchemin protecteur peut être la cible d’[[registre|effets mentaux]].}
+
+</div></td>
+<td><div>''Ce parchemin d’aspect inoffensif, mais aux bords extrêmement tranchants, volette avec grâce en ondulant comme un serpent.''
+
+Les parchemins protecteurs sont des créatures artificielles trompeuses créées à partir de papier ou de papyrus enchanté et conçues pour protéger les repaires, les bibliothèques et les textes sacrés possédés par les pratiquants de la magie. Le parchemin protecteur passe à l’attaque dès qu’un intrus pénètre dans une zone proscrite ou touche un objet proscrit sans avoir au préalable prononcé un mot de passe ou exprimé, d’une façon ou d’une autre, qu’il a la permission d’entrer. Les parchemins protecteurs au repos passent pour différents types de parchemins magiques ou ordinaires. Actifs, ils prennent leur envol et déploient toute leur longueur de presque 1,20 mètre. Ils se déplacent vers leur cible en volant avec facilité et précision. Lorsqu’ils passent à l’attaque, la tranche du parchemin se durcit et devient extrêmement coupante. Ils passent à grande vitesse près de leur cible et déploient toute leur longueur sur un point faible de chair exposée, en laissant une longue, profonde et douloureuse coupure au saignement important. Ils peuvent envelopper en un clin d’oeil une créature de taille moyenne ou plus petite et commencer la constriction. Même si la force investie dans cette constriction n’est pas aussi importante que celle d’un serpent géant, les parchemins protecteurs sont suffisamment intelligents pour appliquer la stratégie qui consiste à envelopper la tête de leur cible afin de l’aveugler et de l’asphyxier.
+
+===Création===
+Un parchemin protecteur est généralement fait de papier fabriqué à partir d’une créature végétale intelligente et vivante. Le processus de fabrication du papier détruit normalement cette créature. La création d’un parchemin protecteur est donc considérée, pour cette raison, comme un acte maléfique. Une créature de taille M ou G peut servir à la fabrication d’une quantité suffisante de papier pour créer plusieurs dizaines de parchemins protecteurs. Le papier utilisé pour la création de parchemins protecteurs peut également être fabriqué par des moyens alchimiques à partir de pâtes ordinaires. Ce procédé est plus coûteux et nécessite la réussite d’un test d’[[Artisanat]] (alchimie) DD 25. Le prix et le coût supplémentaires occasionnés par ce procédé alternatif sont indiqués entre parenthèses dans le profil ci-dessous.
+* '''NLS''' 8 ; '''Prix''' 5 000 po (7 500 po)
+* '''Conditions''' [[Création de créatures artificielles]], ''[[arme magique]]'', ''[[force de taureau]]'', ''[[mission]]'', ''[[réparation intégrale]]'', ''[[simulacre de vie]]'', ''[[sort Vol|vol]]'' ; papier fabriqué à partir d’une créature végétale intelligente qui meurt ou est mise à mort lors du processus de fabrication, utilisation possible mais plus coûteuse de l’alchimie pour fabriquer le papier ; le créateur doit posséder 5 rangs au moins en [[Linguistique]] ; '''Compétence''' [[Artisanat]] (calligraphie) DD 15 ; '''Coût''' 2 500 po (3 750 po)
+</div>
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Parchemin protecteur</fullName>
+</wikiPage>

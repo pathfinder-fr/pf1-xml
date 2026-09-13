@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dévoreur de pensées</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2021-02-07 19:42:21Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Magie psychique (capacité)</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.Hébétement de monstre</link><link>Pathfinder-RPG.Identification</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.AO</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;D&#233;voreur de pens&#233;es&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Aberration&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Souterrain&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.81&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 16, pris au d&#233;pourvu 12 (Dex +4, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 18 (4d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, vol 9 m (parfaite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +9 (1d3-3 plus d&#233;gustation de pens&#233;es)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 0,75 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Magie psychique&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 4 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+5 &lt;a class=&quot;pagelink&quot; href=&quot;Magie-Psychique-(Capacit&#233;).html&quot; title=&quot;Magie psychique (Mag)&quot;&gt;EP&lt;/a&gt; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt; (2 EP, DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement-De-Monstre.html&quot; title=&quot;H&#233;b&#233;tement de monstre&quot;&gt;h&#233;b&#233;tement de monstre&lt;/a&gt;&lt;/i&gt; (2 EP, DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Identification.html&quot; title=&quot;Identification&quot;&gt;identification&lt;/a&gt;&lt;/i&gt; (1 EP), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt; (2 EP)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 4, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +5, &lt;b&gt;DMD&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo (incapable de parler) ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; &#224; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (plan &#201;th&#233;r&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou groupe (1-3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#233;th&#233;r&#233; (Sur).&lt;/b&gt; La peau et les organes du d&#233;voreur de pens&#233;es sont principalement compos&#233;s de tissu &#233;th&#233;r&#233;. Il subit donc seulement la moiti&#233; des d&#233;g&#226;ts inflig&#233;s par des armes non-magiques mais les armes magiques et les sorts l’affectent normalement. &#192; chaque fois que le d&#233;voreur de pens&#233;es passe une minute sur un plan autre que le plan &#201;th&#233;r&#233;, il doit d&#233;penser 1 EP, sans quoi il subit 1d6 points de d&#233;g&#226;ts alors que son corps commence &#224; se dissiper.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;gustation de pens&#233;es (Sur).&lt;/b&gt; Une cr&#233;ature vivante et tangible qui subit des d&#233;g&#226;ts inflig&#233;s par la morsure d’un d&#233;voreur de pens&#233;es perd une partie de ses pens&#233;es, que la cr&#233;ature absorbe pour se nourrir. Si la victime est un lanceur de sorts, elle perd un unique sort pr&#233;par&#233; ou un unique emplacement de sort non-utilis&#233; (pour les lanceurs de sorts spontan&#233;s) de niveau 1 ou sup&#233;rieur. C’est au lanceur de sorts de choisir quel sort ou emplacement dispara&#238;t &#224; cause de ce pouvoir. Si la victime n’est pas un lanceur de sorts ou si elle n’a pas de sort pr&#233;par&#233; ou d’emplacement disponible et rate son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; contre ce pouvoir, elle subit un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;, de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; de 1 point (c’est &#224; elle de choisir la caract&#233;ristique affect&#233;e). Quand une cr&#233;ature perd un sort, un emplacement de sort ou subit un affaiblissement de caract&#233;ristique &#224; cause de ce pouvoir, le d&#233;voreur de pens&#233;es gagne 1 EP (sans d&#233;passer son total quotidien maximal qui est de 5 pour la plupart des d&#233;voreurs).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Travers&#233;e de l’&#233;ther (Mag).&lt;/b&gt; Un d&#233;voreur de pens&#233;es peut passer du plan &#201;th&#233;r&#233; au plan Mat&#233;riel par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; et du plan Mat&#233;riel au plan &#201;th&#233;r&#233; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;. Il doit d&#233;penser 1 EP pour effectuer ce dernier d&#233;placement tandis que le passage du plan &#201;th&#233;r&#233; au plan Mat&#233;riel ne lui co&#251;te rien. Ces deux types de d&#233;placements provoquent des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;Attaque d&amp;#39;opportunit&#233; (redirection)&quot;&gt;attaques d’opportunit&#233;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Un nimbe de mati&#232;re intangible et luisante enveloppe cette &#233;trange cr&#233;ature au bec d’oiseau.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+Ces tout petits pr&#233;dateurs intellectuels passent la majeure partie de leur vie sur le plan &#201;th&#233;r&#233;. Ils sont li&#233;s &#224; cette r&#233;gion car, sans l’&#233;nergie qui la compose, leurs pouvoirs psychiques s’estompent jusqu’&#224; ce que le tissu-m&#234;me de leur r&#233;alit&#233; personnelle s’effiloche pour finalement dispara&#238;tre. Cependant, m&#234;me s’ils ont besoin du plan &#201;th&#233;r&#233; pour survivre, cette r&#233;gion est si vaste et les proies y sont si rares qu’ils sont parfois contraints de se rendre sur le plan Mat&#233;riel pour chasser.&lt;br /&gt;&lt;br /&gt;Lors de ces voyages, ils ont souvent tendance &#224; se goinfrer ; ils cherchent certes &#224; se nourrir mais surtout &#224; manger en quantit&#233; suffisante pour lutter contre la d&#233;gradation psychique et physique qui les guette dans cet environnement hostile.&lt;br /&gt;&lt;br /&gt;En temps normal, un d&#233;voreur de pens&#233;es est une cr&#233;ature d&#233;termin&#233;e mais le danger qui accompagne chaque voyage dans le plan Mat&#233;riel le pousse &#224; chercher des proies faciles. Si quelqu’un prend le temps d’offrir des repas copieux et faciles d’acc&#232;s &#224; un d&#233;voreur, ce dernier a de grandes chances de le suivre &#224; travers tout le plan &#201;th&#233;r&#233;, en attendant le prochain repas. &#201;tant donn&#233; que chaque minute pass&#233;e sur le plan Mat&#233;riel &#233;puise le d&#233;voreur, il y a peu de chances qu’il prenne le temps de discuter avec la personne qu’il suit mais, si quelque chose menace la s&#233;curit&#233; de sa source de nourriture, il peut tr&#232;s bien tenter de la prot&#233;ger. Dans ce cas, il utilise son pouvoir h&#233;b&#233;tement de monstre pour l’aider &#224; s’enfuir et peut aller jusqu’&#224; lui lancer r&#233;sistance aux &#233;nergies destructives. Si cette &#233;trange amiti&#233; persiste dans le temps, le d&#233;voreur de pens&#233;es peut m&#234;me proposer son aide pour identifier des objets magiques (contre une compensation appropri&#233;e, bien s&#251;r).
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Dévoreur de pensées|FP 2}
+{s:pucem|Aberration|Souterrain|Extraplanaire}
+{s:BDtexte|''Source : Bestiaire 5 p.81''}
+{s:BDtexte|'''PX''' 600}
+{s:BDtexte|[[type Aberration|Aberration]] ([[sous-type extraplanaire|extraplanaire]]) de taille TP, N}
+{s:BDtexte|'''Init''' +8 ; '''Sens''' [[vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +8}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 16, contact 16, pris au dépourvu 12 (Dex +4, taille +2)}
+{s:BDtexte|'''pv''' 18 (4d8)}
+{s:BDtexte|'''Réf''' +5, '''Vig''' +1, '''Vol''' +5}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 3 m, vol 9 m (parfaite)}
+{s:BDtexte|'''Corps à corps''' morsure, +9 (1d3-3 plus dégustation de pensées)}
+{s:BDtexte|'''Espace occupé''' 0,75 m ; '''Allonge''' 0 m}
+{s:BDtexte|'''Magie psychique''' ([[NLS]] 4 ; [[concentration]] +6)}
+{s:BDsorts|5 [[Magie psychique (capacité)|EP]] — ''[[détection de pensées]]'' (2 EP, DD 14), ''[[hébétement de monstre]]'' (2 EP, DD 14), ''[[identification]]'' (1 EP), ''[[résistance aux énergies destructives]]'' (2 EP)}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 4, '''Dex''' 19, '''Con''' 10, '''Int''' 7, '''Sag''' 12, '''Cha''' 15}
+{s:BDtexte|'''BBA''' +3, '''BMO''' +5, '''DMD''' 12}
+{s:BDtexte|'''Dons''' [[Attaque en finesse]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDtexte|'''Compétences''' [[Discrétion]] +19, [[Perception]] +8, [[Vol]] +16}
+{s:BDtexte|'''Langues''' aklo (incapable de parler) ; [[Télépathie (capacité)|télépathie]] à 9 m}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' tous (plan Éthéré)}
+{s:BDtexte|'''Organisation sociale''' solitaire ou groupe (1-3)}
+{s:BDtexte|'''Trésor''' aucun}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Corps éthéré (Sur).''' La peau et les organes du dévoreur de pensées sont principalement composés de tissu éthéré. Il subit donc seulement la moitié des dégâts infligés par des armes non-magiques mais les armes magiques et les sorts l’affectent normalement. À chaque fois que le dévoreur de pensées passe une minute sur un plan autre que le plan Éthéré, il doit dépenser 1 EP, sans quoi il subit 1d6 points de dégâts alors que son corps commence à se dissiper.}
+{s:BDtexte|'''Dégustation de pensées (Sur).''' Une créature vivante et tangible qui subit des dégâts infligés par la morsure d’un dévoreur de pensées perd une partie de ses pensées, que la créature absorbe pour se nourrir. Si la victime est un lanceur de sorts, elle perd un unique sort préparé ou un unique emplacement de sort non-utilisé (pour les lanceurs de sorts spontanés) de niveau 1 ou supérieur. C’est au lanceur de sorts de choisir quel sort ou emplacement disparaît à cause de ce pouvoir. Si la victime n’est pas un lanceur de sorts ou si elle n’a pas de sort préparé ou d’emplacement disponible et rate son [[jet de sauvegarde]] contre ce pouvoir, elle subit un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] d’[[Intelligence]], de [[Sagesse]] ou de [[Charisme]] de 1 point (c’est à elle de choisir la caractéristique affectée). Quand une créature perd un sort, un emplacement de sort ou subit un affaiblissement de caractéristique à cause de ce pouvoir, le dévoreur de pensées gagne 1 EP (sans dépasser son total quotidien maximal qui est de 5 pour la plupart des dévoreurs).}
+{s:BDtexte|'''Traversée de l’éther (Mag).''' Un dévoreur de pensées peut passer du plan Éthéré au plan Matériel par une [[action de mouvement]] et du plan Matériel au plan Éthéré par une [[action complexe]]. Il doit dépenser 1 EP pour effectuer ce dernier déplacement tandis que le passage du plan Éthéré au plan Matériel ne lui coûte rien. Ces deux types de déplacements provoquent des [[AO|attaques d’opportunité]].}
+</div>
+</td>
+<td>
+<div>
+''Un nimbe de matière intangible et luisante enveloppe cette étrange créature au bec d’oiseau.''
+
+
+Ces tout petits prédateurs intellectuels passent la majeure partie de leur vie sur le plan Éthéré. Ils sont liés à cette région car, sans l’énergie qui la compose, leurs pouvoirs psychiques s’estompent jusqu’à ce que le tissu-même de leur réalité personnelle s’effiloche pour finalement disparaître. Cependant, même s’ils ont besoin du plan Éthéré pour survivre, cette région est si vaste et les proies y sont si rares qu’ils sont parfois contraints de se rendre sur le plan Matériel pour chasser.
+
+Lors de ces voyages, ils ont souvent tendance à se goinfrer ; ils cherchent certes à se nourrir mais surtout à manger en quantité suffisante pour lutter contre la dégradation psychique et physique qui les guette dans cet environnement hostile.
+
+En temps normal, un dévoreur de pensées est une créature déterminée mais le danger qui accompagne chaque voyage dans le plan Matériel le pousse à chercher des proies faciles. Si quelqu’un prend le temps d’offrir des repas copieux et faciles d’accès à un dévoreur, ce dernier a de grandes chances de le suivre à travers tout le plan Éthéré, en attendant le prochain repas. Étant donné que chaque minute passée sur le plan Matériel épuise le dévoreur, il y a peu de chances qu’il prenne le temps de discuter avec la personne qu’il suit mais, si quelque chose menace la sécurité de sa source de nourriture, il peut très bien tenter de la protéger. Dans ce cas, il utilise son pouvoir hébétement de monstre pour l’aider à s’enfuir et peut aller jusqu’à lui lancer résistance aux énergies destructives. Si cette étrange amitié persiste dans le temps, le dévoreur de pensées peut même proposer son aide pour identifier des objets magiques (contre une compensation appropriée, bien sûr).
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Dévoreur de pensées</fullName>
+</wikiPage>

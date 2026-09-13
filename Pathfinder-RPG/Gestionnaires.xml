@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les gestionnaires</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Guide de campagne</category></categories>
+  <lastModified>2020-12-31 18:38:48Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Acquisition des capitaux</link><link>Pathfinder-RPG.Activités dintermède</link><link>Pathfinder-RPG.Alignement</link><link>Pathfinder-RPG.Améliorations de terrain</link><link>Pathfinder-RPG.Bâtiments abandonnés (royaume)</link><link>Pathfinder-RPG.Bâtiments et organisations</link><link>Pathfinder-RPG.Combat de masse</link><link>Pathfinder-RPG.Commandants (guerre)</link><link>Pathfinder-RPG.Communautés et quartiers</link><link>Pathfinder-RPG.compagnons</link><link>Pathfinder-RPG.Compétences des membres du gouvernement (royaume)</link><link>Pathfinder-RPG.contacts</link><link>Pathfinder-RPG.Création dobjets magiques GC</link><link>Pathfinder-RPG.Développer les modificateurs de communauté (royaume)</link><link>Pathfinder-RPG.Différentes formes de gouvernement (royaume)</link><link>Pathfinder-RPG.Divers types de relations diplomatiques (royaume)</link><link>Pathfinder-RPG.Divinités et sites sacrés (royaume)</link><link>Pathfinder-RPG.Édits (royaume)</link><link>Pathfinder-RPG.Édits spéciaux (royaume)</link><link>Pathfinder-RPG.Évènements (royaume)</link><link>Pathfinder-RPG.Évènements dintermède</link><link>Pathfinder-RPG.Exemples darmées (guerre)</link><link>Pathfinder-RPG.Exploration GC</link><link>Pathfinder-RPG.Fonder un royaume</link><link>Pathfinder-RPG.gestionnaires</link><link>Pathfinder-RPG.Gloire et Infamie (royaume)</link><link>Pathfinder-RPG.honneur</link><link>Pathfinder-RPG.Indépendance et unification (royaume)</link><link>Pathfinder-RPG.Intermèdes</link><link>Pathfinder-RPG.investissement</link><link>Pathfinder-RPG.Jeunes personnages</link><link>Pathfinder-RPG.Lignée</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.marchandage</link><link>Pathfinder-RPG.Perte dhexagones (royaume)</link><link>Pathfinder-RPG.Phases dintermède</link><link>Pathfinder-RPG.Phases dintermède</link><link>Pathfinder-RPG.Phases dune bataille (guerre)</link><link>Pathfinder-RPG.Points de construction (royaume)</link><link>Pathfinder-RPG.Pouvoirs spéciaux (guerre)</link><link>Pathfinder-RPG.Réapprentissage</link><link>Pathfinder-RPG.Règles de royaume optionnelles</link><link>Pathfinder-RPG.Règles optionnelles du combat de masse (guerre)</link><link>Pathfinder-RPG.relations</link><link>Pathfinder-RPG.Réputation et renommée</link><link>Pathfinder-RPG.Responsables gouvernementaux</link><link>Pathfinder-RPG.Ressources des armées (guerre)</link><link>Pathfinder-RPG.retraite</link><link>Pathfinder-RPG.Royaumes et guerre</link><link>Pathfinder-RPG.Salles et employés</link><link>Pathfinder-RPG.Salles et employés</link><link>Pathfinder-RPG.Systèmes de campagne</link><link>Pathfinder-RPG.Tactiques des armées (guerre)</link><link>Pathfinder-RPG.Taille de la communauté (royaume)</link><link>Pathfinder-RPG.taxation</link><link>Pathfinder-RPG.Temp-Guide de campagne</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Tour de royaume</link><link>Pathfinder-RPG.Victoire déroute et défaite (guerre)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Salles et employés</link><link>Pathfinder-RPG.Phases dintermède</link><link>Pathfinder-RPG.Intermèdes</link><link>Pathfinder-RPG.Acquisition des capitaux</link><link>Pathfinder-RPG.Phases dintermède</link><link>Pathfinder-RPG.Activités dintermède</link><link>Pathfinder-RPG.gestionnaires</link><link>Pathfinder-RPG.Salles et employés</link><link>Pathfinder-RPG.Bâtiments et organisations</link><link>Pathfinder-RPG.Évènements dintermède</link><link>Pathfinder-RPG.Systèmes de campagne</link><link>Pathfinder-RPG.Alignement</link><link>Pathfinder-RPG.marchandage</link><link>Pathfinder-RPG.compagnons</link><link>Pathfinder-RPG.contacts</link><link>Pathfinder-RPG.Exploration GC</link><link>Pathfinder-RPG.honneur</link><link>Pathfinder-RPG.investissement</link><link>Pathfinder-RPG.Lignée</link><link>Pathfinder-RPG.Création dobjets magiques GC</link><link>Pathfinder-RPG.relations</link><link>Pathfinder-RPG.Réputation et renommée</link><link>Pathfinder-RPG.retraite</link><link>Pathfinder-RPG.Réapprentissage</link><link>Pathfinder-RPG.taxation</link><link>Pathfinder-RPG.Jeunes personnages</link><link>Pathfinder-RPG.Royaumes et guerre</link><link>Pathfinder-RPG.Fonder un royaume</link><link>Pathfinder-RPG.Responsables gouvernementaux</link><link>Pathfinder-RPG.Points de construction (royaume)</link><link>Pathfinder-RPG.Tour de royaume</link><link>Pathfinder-RPG.Édits (royaume)</link><link>Pathfinder-RPG.Perte dhexagones (royaume)</link><link>Pathfinder-RPG.Améliorations de terrain</link><link>Pathfinder-RPG.Communautés et quartiers</link><link>Pathfinder-RPG.Évènements (royaume)</link><link>Pathfinder-RPG.Règles de royaume optionnelles</link><link>Pathfinder-RPG.Bâtiments abandonnés (royaume)</link><link>Pathfinder-RPG.Divinités et sites sacrés (royaume)</link><link>Pathfinder-RPG.Édits spéciaux (royaume)</link><link>Pathfinder-RPG.Gloire et Infamie (royaume)</link><link>Pathfinder-RPG.Différentes formes de gouvernement (royaume)</link><link>Pathfinder-RPG.Indépendance et unification (royaume)</link><link>Pathfinder-RPG.Compétences des membres du gouvernement (royaume)</link><link>Pathfinder-RPG.Taille de la communauté (royaume)</link><link>Pathfinder-RPG.Divers types de relations diplomatiques (royaume)</link><link>Pathfinder-RPG.Développer les modificateurs de communauté (royaume)</link><link>Pathfinder-RPG.Combat de masse</link><link>Pathfinder-RPG.Phases dune bataille (guerre)</link><link>Pathfinder-RPG.Tactiques des armées (guerre)</link><link>Pathfinder-RPG.Victoire déroute et défaite (guerre)</link><link>Pathfinder-RPG.Commandants (guerre)</link><link>Pathfinder-RPG.Ressources des armées (guerre)</link><link>Pathfinder-RPG.Pouvoirs spéciaux (guerre)</link><link>Pathfinder-RPG.Exemples darmées (guerre)</link><link>Pathfinder-RPG.Règles optionnelles du combat de masse (guerre)</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles du Guide de campagne&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_du_Guide_de_campagne_0&quot; href=&quot;#R&#232;gles_du_Guide_de_campagne_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonInterm&#232;des&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Interm&#232;des&#39;);&quot; onmouseout=&quot;outButton(&#39;Interm&#232;des&#39;);&quot; onclick=&quot;expandMenu(&#39;Interm&#232;des&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Interm&#232;des.html&quot; title=&quot;Les interm&#232;des&quot;&gt;Les interm&#232;des&lt;/a&gt;
+        &lt;ul ID=&quot;Interm&#232;des&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Acquisition-Des-Capitaux.html&quot; title=&quot;Acquisition des capitaux&quot;&gt;L&#39;acquisition des capitaux&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dinterm&#232;de.html&quot; title=&quot;Les phases d&amp;#39;interm&#232;de&quot;&gt;Les phases d&#39;interm&#232;de&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Activit&#233;s-Dinterm&#232;de.html&quot; title=&quot;Les activit&#233;s d&amp;#39;interm&#232;de&quot;&gt;Les activit&#233;s d&#39;interm&#232;de&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gestionnaires.html&quot; title=&quot;Les gestionnaires&quot;&gt;Les gestionnaires&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Salles-Et-Employ&#233;s.html&quot; title=&quot;Salles et employ&#233;s&quot;&gt;Salles et employ&#233;s&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#226;timents-Et-Organisations.html&quot; title=&quot;B&#226;timents et organisations&quot;&gt;B&#226;timents et organisations&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;v&#232;nements-Dinterm&#232;de.html&quot; title=&quot;Les &#233;v&#232;nements d&amp;#39;interm&#232;de&quot;&gt;Les &#233;v&#232;nements d&#39;interm&#232;de&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCampagne&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Campagne&#39;);&quot; onmouseout=&quot;outButton(&#39;Campagne&#39;);&quot; onclick=&quot;expandMenu(&#39;Campagne&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Syst&#232;mes-De-Campagne.html&quot; title=&quot;Les syst&#232;mes de campagne&quot;&gt;Les syst&#232;mes de campagne&lt;/a&gt;
+        &lt;ul ID=&quot;Campagne&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement.html&quot; title=&quot;L&amp;#39;alignement&quot;&gt;L’alignement&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marchandage.html&quot; title=&quot;Le marchandage&quot;&gt;Le marchandage&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons.html&quot; title=&quot;Les compagnons&quot;&gt;Les compagnons&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contacts.html&quot; title=&quot;Les contacts&quot;&gt;Les contacts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploration-Gc.html&quot; title=&quot;L&amp;#39;exploration (GC)&quot;&gt;L’exploration (GC)&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Honneur.html&quot; title=&quot;L&amp;#39;honneur&quot;&gt;L’honneur&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Investissement.html&quot; title=&quot;L&amp;#39;investissement&quot;&gt;L’investissement&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lign&#233;e.html&quot; title=&quot;La lign&#233;e&quot;&gt;La lign&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Magiques-Gc.html&quot; title=&quot;La cr&#233;ation d&amp;#39;objets magiques (GC)&quot;&gt;La cr&#233;ation d’objets magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Relations.html&quot; title=&quot;Les relations&quot;&gt;Les relations&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;putation-Et-Renomm&#233;e.html&quot; title=&quot;R&#233;putation et renomm&#233;e&quot;&gt;R&#233;putation et renomm&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Retraite.html&quot; title=&quot;La retraite&quot;&gt;La retraite&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;apprentissage.html&quot; title=&quot;Le r&#233;apprentissage&quot;&gt;Le r&#233;apprentissage&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Taxation.html&quot; title=&quot;La taxation&quot;&gt;La taxation&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jeunes-Personnages.html&quot; title=&quot;Les jeunes personnages&quot;&gt;Les jeunes personnages&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonRoyaumes&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Royaumes&#39;);&quot; onmouseout=&quot;outButton(&#39;Royaumes&#39;);&quot; onclick=&quot;expandMenu(&#39;Royaumes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Royaumes-Et-Guerre.html&quot; title=&quot;Les royaumes et la guerre&quot;&gt;Les royaumes et la guerre&lt;/a&gt;
+        &lt;ul ID=&quot;Royaumes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fonder-Un-Royaume.html&quot; title=&quot;Fonder un royaume&quot;&gt;Fonder un royaume&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Responsables-Gouvernementaux.html&quot; title=&quot;Les responsables gouvernementaux&quot;&gt;Les responsables gouvernementaux&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Points-De-Construction-(Royaume).html&quot; title=&quot;Les points de construction&quot;&gt;Les points de construction&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tour-De-Royaume.html&quot; title=&quot;Un tour de royaume&quot;&gt;Un tour de royaume&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;dits-(Royaume).html&quot; title=&quot;Les &#233;dits&quot;&gt;Les &#233;dits&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perte-Dhexagones-(Royaume).html&quot; title=&quot;La perte d&amp;#39;hexagones&quot;&gt;La perte d&#39;hexagones&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Am&#233;liorations-De-Terrain.html&quot; title=&quot;Les am&#233;liorations de terrain&quot;&gt;Les am&#233;liorations de terrain&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communaut&#233;s-Et-Quartiers.html&quot; title=&quot;Les communaut&#233;s et les quartiers&quot;&gt;Les communaut&#233;s et les quartiers&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communaut&#233;s-Et-Quartiers.html#BATIMENTS&quot; title=&quot;Les communaut&#233;s et les quartiers&quot;&gt;Les b&#226;timents&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;v&#232;nements-(Royaume).html&quot; title=&quot;Les &#233;v&#232;nements&quot;&gt;Les &#233;v&#232;nements&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-De-Royaume-Optionnelles.html&quot; title=&quot;Les r&#232;gles de royaume optionnelles&quot;&gt;Les r&#232;gles de royaume optionnelles&lt;/a&gt;&lt;/li&gt;
+            &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#226;timents-Abandonn&#233;s-(Royaume).html&quot; title=&quot;B&#226;timents abandonn&#233;s (r&#232;gle optionnelle)&quot;&gt;Les b&#226;timents abandonn&#233;s&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s-Et-Sites-Sacr&#233;s-(Royaume).html&quot; title=&quot;Les divinit&#233;s et les sites sacr&#233;s (r&#232;gle optionnelle)&quot;&gt;Les divinit&#233;s et les sites sacr&#233;s&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;dits-Sp&#233;ciaux-(Royaume).html&quot; title=&quot;Les &#233;dits sp&#233;ciaux (r&#232;gle optionnelle)&quot;&gt;Les &#233;dits sp&#233;ciaux&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gloire-Et-Infamie-(Royaume).html&quot; title=&quot;Gloire et Infamie (r&#232;gle optionnelle)&quot;&gt;Gloire et Infamie&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Diff&#233;rentes-Formes-De-Gouvernement-(Royaume).html&quot; title=&quot;Les diff&#233;rentes formes de gouvernement (r&#232;gle optionnelle)&quot;&gt;Les diff&#233;rentes formes de gouvernement&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ind&#233;pendance-Et-Unification-(Royaume).html&quot; title=&quot;Ind&#233;pendance et unification (r&#232;gle optionnelle)&quot;&gt;Ind&#233;pendance et unification&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Des-Membres-Du-Gouvernement-(Royaume).html&quot; title=&quot;Les comp&#233;tences des membres du gouvernement (r&#232;gle optionnelle)&quot;&gt;Les comp&#233;tences des membres du gouvernement&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Taille-De-La-Communaut&#233;-(Royaume).html&quot; title=&quot;Taille de la communaut&#233; (r&#232;gle optionnelle)&quot;&gt;Taille de la communaut&#233;&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divers-Types-De-Relations-Diplomatiques-(Royaume).html&quot; title=&quot;Les divers types de relations diplomatiques (r&#232;gle optionnelle)&quot;&gt;Les divers types de relations diplomatiques&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;velopper-Les-Modificateurs-De-Communaut&#233;-(Royaume).html&quot; title=&quot;D&#233;velopper les modificateurs de communaut&#233; (r&#232;gle optionnelle)&quot;&gt;D&#233;velopper les modificateurs de communaut&#233;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/ul&gt;
+     &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCombat&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Combat&#39;);&quot; onmouseout=&quot;outButton(&#39;Combat&#39;);&quot; onclick=&quot;expandMenu(&#39;Combat&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Combat-De-Masse.html&quot; title=&quot;Le combat de masse&quot;&gt;Le combat de masse&lt;/a&gt;
+        &lt;ul ID=&quot;Combat&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dune-Bataille-(Guerre).html&quot; title=&quot;Les phases d&amp;#39;une bataille&quot;&gt;Les phases d&#39;une bataille&lt;/a&gt;&lt;/li&gt;
+            &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dune-Bataille-(Guerre).html#L&#233;chelle_de_strat&#233;gie_0&quot; title=&quot;Les phases d&amp;#39;une bataille&quot;&gt;L&#39;&#233;chelle de strat&#233;gie&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dune-Bataille-(Guerre).html#ATTAQUERETSUBIRDESDEGATS&quot; title=&quot;Les phases d&amp;#39;une bataille&quot;&gt;Attaquer et subir des d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dune-Bataille-(Guerre).html#CONDITIONS&quot; title=&quot;Les phases d&amp;#39;une bataille&quot;&gt;Les conditions du champ de bataille&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dune-Bataille-(Guerre).html#RECUPERATION&quot; title=&quot;Les phases d&amp;#39;une bataille&quot;&gt;La r&#233;cup&#233;ration&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dune-Bataille-(Guerre).html#PJDANSLESBATAILLES&quot; title=&quot;Les phases d&amp;#39;une bataille&quot;&gt;Les personnages joueurs dans les batailles&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tactiques-Des-Arm&#233;es-(Guerre).html&quot; title=&quot;Les tactiques des arm&#233;es&quot;&gt;Les tactiques des arm&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Victoire-D&#233;route-Et-D&#233;faite-(Guerre).html&quot; title=&quot;Victoire, d&#233;route et d&#233;faite&quot;&gt;La victoire, la d&#233;route et la d&#233;faite&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Commandants-(Guerre).html&quot; title=&quot;Les commandants&quot;&gt;Les commandants&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ressources-Des-Arm&#233;es-(Guerre).html&quot; title=&quot;Les ressources des arm&#233;es&quot;&gt;Les ressources des arm&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-Sp&#233;ciaux-(Guerre).html&quot; title=&quot;Les pouvoirs sp&#233;ciaux&quot;&gt;Les pouvoirs sp&#233;ciaux&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exemples-Darm&#233;es-(Guerre).html&quot; title=&quot;Exemples d&amp;#39;arm&#233;es&quot;&gt;Exemples d&#39;arm&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Optionnelles-Du-Combat-De-Masse-(Guerre).html&quot; title=&quot;Les r&#232;gles optionnelles du combat de masse&quot;&gt;Les r&#232;gles optionnelles du combat de masse&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Description_du_profil_dun_gestionnaire_0&quot;&gt;Description du profil d&#39;un gestionnaire&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Exemples_de_gestionnaires_1&quot;&gt;Exemples de gestionnaires&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;Un gestionnaire est un &lt;a class=&quot;pagelink&quot; href=&quot;Salles%20et%20employ%C3%A9s.ashx#Cr&#233;ation d’une organisation par le recrutement des employ&#233;s&quot; title=&quot;Salles et employ&#233;s&quot;&gt;employ&#233;&lt;/a&gt; qualifi&#233; capable de g&#233;rer une entreprise &#224; la place de votre personnage s’il doit s’absenter plusieurs semaines, voire plusieurs mois. Un gestionnaire est autoris&#233; &#224; prendre certaines d&#233;cisions en son nom concernant son entreprise. Il est ainsi en droit de payer les taxes aux percepteurs, de bannir les fid&#232;les d’un culte de votre magasin et de g&#233;rer au mieux les impr&#233;vus.&lt;br /&gt;&lt;br /&gt;Le recrutement d’un gestionnaire retarde l’usure des capitaux (voir la troisi&#232;me &#233;tape de la &lt;a class=&quot;pagelink&quot; href=&quot;Phases%20dinterm%C3%A8de.ashx#Phase d’entretien&quot; title=&quot;Les phases d&amp;#39;interm&#232;de&quot;&gt;phase d’entretien&lt;/a&gt;). Celle-ci, qui s’&#233;l&#232;ve normalement &#224; 1 tous les sept jours passe &#224; 1 tous les quatorze jours. Tant que votre personnage continue de r&#233;mun&#233;rer ses gestionnaires en temps et en heure, ces derniers veillent au bon fonctionnement de ses entreprises et emp&#234;chent leur usure (voir la quatri&#232;me &#233;tape de la &lt;a class=&quot;pagelink&quot; href=&quot;Phases%20dinterm%C3%A8de.ashx#Phase d’entretien&quot; title=&quot;Les phases d&amp;#39;interm&#232;de&quot;&gt;phase d’entretien&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;&#192; la diff&#233;rence des &lt;a class=&quot;pagelink&quot; href=&quot;Salles%20et%20employ%C3%A9s.ashx#Cr&#233;ation d’une organisation par le recrutement des employ&#233;s&quot; title=&quot;Salles et employ&#233;s&quot;&gt;employ&#233;s&lt;/a&gt;, un gestionnaire doit &#234;tre pay&#233; chaque jour en po. La coutume veut que votre personnage paye &#224; l’avance ses gestionnaires ou s’arrange pour verser leur salaire en passant par une banque ou un comptable s’il compte s’absenter. S’il fait confiance &#224; ses gestionnaires, il peut m&#234;me les autoriser &#224; pr&#233;lever eux-m&#234;mes leur salaire sur les recettes produites ou sur la tr&#233;sorerie que votre personnage a pr&#233;vue pour le b&#226;timent ou l’organisation concern&#233;.&lt;br /&gt;&lt;br /&gt;Il est judicieux de fournir aux gestionnaires un moyen de contacter votre personnage pendant ses absences. Une simple adresse dans la ville le plus proche de l’endroit o&#249; il part en aventure peut suffire. Il peut &#233;galement leur fournir un moyen de contact magique (et pr&#233;voir la tr&#233;sorerie n&#233;cessaire &#224; son entretien) au cas o&#249; une situation v&#233;ritablement urgente n&#233;cessiterait son attention.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Descriptionduprofild&#39;ungestionnaire&quot; href=&quot;#Descriptionduprofild&#39;ungestionnaire&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Description du profil d&#39;un gestionnaire&lt;a class=&quot;headeranchor&quot; id=&quot;Description_du_profil_dun_gestionnaire_0&quot; href=&quot;#Description_du_profil_dun_gestionnaire_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le profil d’un gestionnaire s’articule de la fa&#231;on suivante :
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Salaire.&lt;/b&gt; Cette somme exprim&#233;e en po est le salaire journalier du gestionnaire. Ce salaire lui est vers&#233; en &#233;change de la gestion quotidienne de l’entreprise de votre personnage&#160;; il n’inclut pas le paiement de services exceptionnels. Par exemple, ce n’est pas parce que votre personnage verse un salaire quotidien &#224; son abb&#233; que cela l’autorise &#224; l’emmener avec lui en aventure pour qu’il lance des sorts (en r&#233;alit&#233;, la plupart de ses sorts sont probablement lanc&#233;s au cours de son travail qui consiste &#224; g&#233;rer le temple du personnage).&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences.&lt;/b&gt; Cette section donne la liste des principales comp&#233;tences dans lesquelles le gestionnaire poss&#232;de des rangs, ce qui permet, &#224; vous et au MJ, d’effectuer ses tests de comp&#233;tence en cas d’&#233;v&#232;nements ou de rencontres impr&#233;vus. Le gestionnaire peut &#233;galement poss&#233;der des rangs dans des comp&#233;tences diff&#233;rentes de celles normalement pr&#233;vues par sa fonction. Les gestionnaires propos&#233;s dans cette rubrique sont des exemples, le gestionnaire que votre personnage embauche peut poss&#233;der des comp&#233;tences de classe diff&#233;rentes et plus adapt&#233;es &#224; son entreprise. En r&#232;gle g&#233;n&#233;rale, un gestionnaire est un personnage de niveau 3 avec 3 rangs dans les comp&#233;tences appropri&#233;es et les valeurs de caract&#233;ristique normales d’un PNJ. Il b&#233;n&#233;ficie donc d’un modificateur total de +7 ou +8 &#224; ses comp&#233;tences de classe et d’un modificateur total de +4 ou +5 &#224; ses autres comp&#233;tences.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Les fonctions de nombreux gestionnaires ressemblent &#224; celles de certains employ&#233;s. Par exemple, un abb&#233; est un cur&#233; qualifi&#233; pour g&#233;rer un temple ou une organisation religieuse. Voici la principale diff&#233;rence entre l’abb&#233; et le cur&#233;&#160;: votre personnage paye l’abb&#233; pour que celui-ci veille au bon fonctionnement de son b&#226;timent ou de son organisation en son absence tandis que le cur&#233; fait juste partie d’une &#233;quipe appartenant &#224; l’organisation du personnage et regroupant des individus charg&#233;s de m&#234;mes t&#226;ches. Avec l’accord du MJ, vous pouvez &#233;lever un simple employ&#233; au rang de gestionnaire (ou vice-versa) en versant au(x) PNJ(s) le salaire correspondant.&lt;br /&gt;&lt;br /&gt;Votre personnage peut s&#233;lectionner un compagnon d’armes ou un &#233;minent suivant pour en faire un gestionnaire mais il doit alors lui verser le salaire correspondant. Dans ce cas, votre personnage saura qu’il pourra faire confiance au compagnon d’armes ou au suivant s&#233;lectionn&#233;, mais cela ne veut pas dire qu’il accomplira les t&#226;ches de gestionnaire gratuitement pendant que votre personnage partira &#224; l’aventure. &lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Exemplesdegestionnaires&quot; href=&quot;#Exemplesdegestionnaires&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Exemples de gestionnaires&lt;a class=&quot;headeranchor&quot; id=&quot;Exemples_de_gestionnaires_1&quot; href=&quot;#Exemples_de_gestionnaires_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les gestionnaires propos&#233;s ci-dessous sont des exemples d’individus que votre personnage peut embaucher pour g&#233;rer une entreprise ou pour veiller au bon fonctionnement d’un b&#226;timent ou d’une organisation.&lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;page espace-col deuxcol&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ABB&#201;&quot; href=&quot;#ABB&#201;&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Abb&#233;&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 4 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Diplomatie, Premiers secours, Connaissances (folklore local), Connaissances (religion).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un abb&#233; est un lanceur de sorts divins form&#233; pour g&#233;rer les activit&#233;s quotidiennes d’un temple ou d’une organisation
+religieuse, ainsi que celles de ses membres. C’est le plus souvent un adepte, un pr&#234;tre, un druide ou un oracle de
+niveau 3 qui poss&#232;de une armure l&#233;g&#232;re (ou aucune armure dans le cas d’un adepte) et une arme appropri&#233;e &#224; sa foi.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;AUBERGISTE&quot; href=&quot;#AUBERGISTE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Aubergiste&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 2 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Estimation, Diplomatie, Connaissances (folklore local), Profession (une au choix).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un aubergiste g&#232;re un &#233;tablissement principalement con&#231;u pour nourrir et loger ses clients. C’est le plus souvent un
+homme du peuple ou un expert de niveau 3, mais il peut &#233;galement &#234;tre un guerrier, un roublard ou un homme
+d’armes &#224; la retraite. Un aubergiste supervise les activit&#233;s quotidiennes d’une auberge, d’une taverne, d’un h&#244;tel, d’un restaurant ou d’un club social priv&#233; et &#233;litiste.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;AVOCATASSOCI&#201;&quot; href=&quot;#AVOCATASSOCI&#201;&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Avocat associ&#233;&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 4 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Bluff, Diplomatie, Connaissances (une au choix), Profession (avocat).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un avocat associ&#233; est le directeur d’un cabinet d’avocats. C’est le plus souvent un barde, un expert, un roublard,
+un ensorceleur, un magicien ou un membre d’une autre classe sp&#233;cialis&#233;e de niveau 3 qui s’appuie sur des valeurs
+de caract&#233;ristiques mentales &#233;lev&#233;es. Un avocat associ&#233; r&#233;pond aux besoins juridiques d’une organisation.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CAPITAINE&quot; href=&quot;#CAPITAINE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Capitaine&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 5 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Acrobaties, Diplomatie, Connaissances(g&#233;ographie), Profession (marin).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un capitaine est un ma&#238;tre en mati&#232;re de navigation maritime capable de g&#233;rer l’&#233;quipage et les activit&#233;s d’un navire. C’est le plus souvent un expert, un roublard ou un guerrier de niveau 3. Un capitaine peut g&#233;rer une organisation commerciale, une flotte pirate ou une entreprise maritime ou fluviale de transport de passagers.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;COMPTABLE&quot; href=&quot;#COMPTABLE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Comptable&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 3 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Estimation, Connaissances (folklore local),Linguistique, Profession (comptable).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un comptable tient &#224; jour les comptes et veille &#224; l’&#233;quilibre du budget d’un b&#226;timent ou d’une organisation. C’est le plus souvent un expert de niveau 3 qui ne sait pas combattre mais il appartenir &#224; n’importe quelle classe qualifi&#233;e qui fait bon usage des caract&#233;ristiques mentales.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CONTREBANDIER&quot; href=&quot;#CONTREBANDIER&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Contrebandier&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 3 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Estimation, Bluff, Connaissances (folklore local), Escamotage.
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un contrebandier est un marchand qui a l’habitude de pratiquer sa profession sans se faire remarquer par les
+autorit&#233;s locales. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une classe de niveau 3
+sp&#233;cialis&#233;e dans les subterfuges. Un contrebandier peut g&#233;rer les activit&#233;s d’un march&#233; noir, d’une caravane ill&#233;gale
+ou d’une flottille de navires de contrebande.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;GARDIEN&quot; href=&quot;#GARDIEN&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gardien&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 2 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Diplomatie, Intimidation, Connaissances (folklore local), Psychologie.
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un gardien supervise le fonctionnement d’une prison, d’un donjon ou d’un endroit o&#249; sont d&#233;tenus des prisonniers.
+C’est le plus souvent un pr&#234;tre, un expert, un guerrier, un inquisiteur, un homme d’armes de niveau 3 ou un membre
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;INTENDANT&quot; href=&quot;#INTENDANT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Intendant&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 2 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Diplomatie, Connaissances (folklore local), Connaissances (noblesse), Psychologie.
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un intendant s’occupe d’un grand b&#226;timent r&#233;sidentiel comme un ch&#226;teau, un manoir ou une villa de noble. C’est
+le plus souvent un adepte, un homme du peuple ou un expert de niveau 3. Il g&#232;re les activit&#233;s quotidiennes d’un
+domaine, coordonne le travail des domestiques, discipline ceux dont le travail n’est pas satisfaisant et veille &#224; ce que les d&#233;sirs des seigneurs et des dames de la demeure soient toujours satisfaits.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;LIEUTENANT&quot; href=&quot;#LIEUTENANT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Lieutenant&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 4 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Diplomatie, Intimidation, Connaissances (ing&#233;nierie), Perception.
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un lieutenant dirige une unit&#233; de gardes, de mercenaires ou de soldats. C’est le plus souvent un chevalier, un guerrier ou un r&#244;deur de niveau 3, mais il peut &#233;galement &#234;tre barbare, barde, inquisiteur, homme d’armes ou membre d’une classe experte en mati&#232;re de combat. Un lieutenant g&#232;re les divers besoins et assignements des troupes, supervise leur entra&#238;nement et participe aux manœuvres militaires.
+&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MA&#206;TRE-FORGERON&quot; href=&quot;#MA&#206;TRE-FORGERON&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ma&#238;tre-forgeron&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 4 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Estimation, Artisanat (un au choix), Perception, Profession (une au choix).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un ma&#238;tre-forgeron g&#232;re une entreprise de fabrication. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une autre classe sp&#233;cialis&#233;e de niveau 3. Un ma&#238;tre-forgeron g&#232;re les activit&#233;s quotidiennes d’un site de production vou&#233; &#224; un artisanat en particulier, forme les apprentis et travaille sur les articles les plus exigeants et les plus difficiles &#224; fabriquer.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MA&#206;TREDEGUILDE(GUILDED’ARTISANS)&quot; href=&quot;#MA&#206;TREDEGUILDE(GUILDED’ARTISANS)&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ma&#238;tre de guilde (guilde d’artisans)&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 3 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Estimation, Artisanat (un au choix), Diplomatie, Profession (une au choix).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un ma&#238;tre de guilde d’artisans est un expert dans son domaine qui peut diriger un groupe d’artisans de m&#234;me
+mentalit&#233;. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une autre classe de niveau 3. Un
+ma&#238;tre de guilde se charge de la gestion quotidienne d’une guilde d’artisans : l’administration de base, la formation des membres de la guilde et la pratique de son artisanat.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MA&#206;TREDEGUILDE(GUILDEDEVOLEURS)&quot; href=&quot;#MA&#206;TREDEGUILDE(GUILDEDEVOLEURS)&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ma&#238;tre de guilde (guilde de voleurs)&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 5 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Estimation, Bluff, Sabotage, Connaissances (folklore local).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un ma&#238;tre de guilde de voleurs g&#232;re les activit&#233;s d’une organisation criminelle. C’est le plus souvent un barde, un
+pr&#234;tre, un expert, un roublard ou un ensorceleur de niveau 3. Un ma&#238;tre de guilde se charge de la gestion quotidienne d’une guilde de voleurs : l’administration de base, la formation des recrues et la pr&#233;paration de nouvelles manigances.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;M&#201;DECIN&quot; href=&quot;#M&#201;DECIN&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;M&#233;decin&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 5 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Premiers secours, Perception, Psychologie, Survie.
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un m&#233;decin est form&#233; pour traiter toutes sortes de maladie et de blessures. C’est le plus souvent un adepte, un pr&#234;tre, un druide ou un oracle de niveau 3. Un expert peut &#233;galement faire un m&#233;decin convenable qui traitera les maladies et soignera les blessures par l’application de moyens ordinaires seulement ou par l’utilisation d’objets magiques. Un m&#233;decin est g&#233;n&#233;ralement responsable d’un h&#244;pital ou d’une organisation qui d&#233;livre des soins m&#233;dicaux.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;PROVISEUR&quot; href=&quot;#PROVISEUR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Proviseur&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 3 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Diplomatie, Connaissances (deux au choix),Profession (une au choix).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un proviseur g&#232;re un lieu d’enseignement tel qu’une &#233;cole de bardes, une acad&#233;mie de mages ou une Universit&#233;. C’est le plus souvent un alchimiste, un barde, un expert, un roublard, un ensorceleur, un magicien ou une sorci&#232;re de niveau 3. La gestion d’un &#233;tablissement d’enseignement sup&#233;rieur consiste &#224; s’occuper de l’administration de base, &#224; enseigner et &#224; effectuer des recherches.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;R&#201;GISSEUR&quot; href=&quot;#R&#201;GISSEUR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;R&#233;gisseur&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 2 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Diplomatie, D&#233;guisement, Repr&#233;sentation (deux au choix).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un r&#233;gisseur supervise les activit&#233;s d’une organisation artistique ou d’un b&#226;timent consacr&#233; aux pratiques artistiques. C’est le plus souvent un expert de niveau 3, mais il peut &#233;galement &#234;tre barde, roublard ou membre d’une classe poss&#233;dant des comp&#233;tences adapt&#233;es &#224; la pratique des beaux-arts. Un r&#233;gisseur passe ses journ&#233;es &#224; superviser les activit&#233;s d’un th&#233;&#226;tre, &#224; former les acteurs et &#224; promouvoir les spectacles de l’&#233;tablissement.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SECONDDESYNDICATDUCRIME&quot; href=&quot;#SECONDDESYNDICATDUCRIME&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Second de syndicat du crime&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 2 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Estimation, Bluff, Intimidation,Connaissances (folklore local).
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un second de syndicat du crime applique les ordres directs d’un parrain du crime ou d’un individu &#224; la t&#234;te d’une organisation criminelle violente. C’est le plus souvent un barde, un pr&#234;tre, un expert, un guerrier ou un roublard de niveau 3. Il applique les ordres de son sup&#233;rieur, poursuit les objectifs de l’organisation et supervise les subordonn&#233;s.
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SENSEI&quot; href=&quot;#SENSEI&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=BD&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sensei&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Salaire&lt;/b&gt; 2 po/jour  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; Acrobaties, Intimidation, Connaissances (histoire), Perception.
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Un sensei est en charge d’un dojo ou d’un monast&#232;re vou&#233; &#224; la pratique des arts martiaux. C’est le plus souvent un moine de niveau 3 mais il peut &#233;galement poss&#233;der plusieurs niveaux dans une classe martiale ou qui s’appuie sur une valeur de Sagesse &#233;lev&#233;e. Un sensei supervise l’entra&#238;nement des &#233;l&#232;ves et g&#232;re les activit&#233;s quotidiennes de l’&#233;tablissement.
+&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuGC}{s:GC}{toc}Un gestionnaire est un [[Salles et employés#Création d’une organisation par le recrutement des employés|employé]] qualifié capable de gérer une entreprise à la place de votre personnage s’il doit s’absenter plusieurs semaines, voire plusieurs mois. Un gestionnaire est autorisé à prendre certaines décisions en son nom concernant son entreprise. Il est ainsi en droit de payer les taxes aux percepteurs, de bannir les fidèles d’un culte de votre magasin et de gérer au mieux les imprévus.
+
+Le recrutement d’un gestionnaire retarde l’usure des capitaux (voir la troisième étape de la [[Phases dintermède#Phase d’entretien|phase d’entretien]]). Celle-ci, qui s’élève normalement à 1 tous les sept jours passe à 1 tous les quatorze jours. Tant que votre personnage continue de rémunérer ses gestionnaires en temps et en heure, ces derniers veillent au bon fonctionnement de ses entreprises et empêchent leur usure (voir la quatrième étape de la [[Phases dintermède#Phase d’entretien|phase d’entretien]]).
+
+À la différence des [[Salles et employés#Création d’une organisation par le recrutement des employés|employés]], un gestionnaire doit être payé chaque jour en po. La coutume veut que votre personnage paye à l’avance ses gestionnaires ou s’arrange pour verser leur salaire en passant par une banque ou un comptable s’il compte s’absenter. S’il fait confiance à ses gestionnaires, il peut même les autoriser à prélever eux-mêmes leur salaire sur les recettes produites ou sur la trésorerie que votre personnage a prévue pour le bâtiment ou l’organisation concerné.
+
+Il est judicieux de fournir aux gestionnaires un moyen de contacter votre personnage pendant ses absences. Une simple adresse dans la ville le plus proche de l’endroit où il part en aventure peut suffire. Il peut également leur fournir un moyen de contact magique (et prévoir la trésorerie nécessaire à son entretien) au cas où une situation véritablement urgente nécessiterait son attention.
+
+{s:Reference|Descriptionduprofild'ungestionnaire}
+===Description du profil d'un gestionnaire===
+Le profil d’un gestionnaire s’articule de la façon suivante :
+* '''Salaire.''' Cette somme exprimée en po est le salaire journalier du gestionnaire. Ce salaire lui est versé en échange de la gestion quotidienne de l’entreprise de votre personnage ; il n’inclut pas le paiement de services exceptionnels. Par exemple, ce n’est pas parce que votre personnage verse un salaire quotidien à son abbé que cela l’autorise à l’emmener avec lui en aventure pour qu’il lance des sorts (en réalité, la plupart de ses sorts sont probablement lancés au cours de son travail qui consiste à gérer le temple du personnage).
+
+* '''Compétences.''' Cette section donne la liste des principales compétences dans lesquelles le gestionnaire possède des rangs, ce qui permet, à vous et au MJ, d’effectuer ses tests de compétence en cas d’évènements ou de rencontres imprévus. Le gestionnaire peut également posséder des rangs dans des compétences différentes de celles normalement prévues par sa fonction. Les gestionnaires proposés dans cette rubrique sont des exemples, le gestionnaire que votre personnage embauche peut posséder des compétences de classe différentes et plus adaptées à son entreprise. En règle générale, un gestionnaire est un personnage de niveau 3 avec 3 rangs dans les compétences appropriées et les valeurs de caractéristique normales d’un PNJ. Il bénéficie donc d’un modificateur total de +7 ou +8 à ses compétences de classe et d’un modificateur total de +4 ou +5 à ses autres compétences.
+
+Les fonctions de nombreux gestionnaires ressemblent à celles de certains employés. Par exemple, un abbé est un curé qualifié pour gérer un temple ou une organisation religieuse. Voici la principale différence entre l’abbé et le curé : votre personnage paye l’abbé pour que celui-ci veille au bon fonctionnement de son bâtiment ou de son organisation en son absence tandis que le curé fait juste partie d’une équipe appartenant à l’organisation du personnage et regroupant des individus chargés de mêmes tâches. Avec l’accord du MJ, vous pouvez élever un simple employé au rang de gestionnaire (ou vice-versa) en versant au(x) PNJ(s) le salaire correspondant.
+
+Votre personnage peut sélectionner un compagnon d’armes ou un éminent suivant pour en faire un gestionnaire mais il doit alors lui verser le salaire correspondant. Dans ce cas, votre personnage saura qu’il pourra faire confiance au compagnon d’armes ou au suivant sélectionné, mais cela ne veut pas dire qu’il accomplira les tâches de gestionnaire gratuitement pendant que votre personnage partira à l’aventure. 
+
+{s:Reference|Exemplesdegestionnaires}
+===Exemples de gestionnaires===
+Les gestionnaires proposés ci-dessous sont des exemples d’individus que votre personnage peut embaucher pour gérer une entreprise ou pour veiller au bon fonctionnement d’un bâtiment ou d’une organisation.
+
+<table class="page espace-col deuxcol"><tr><td>
+{s:Reference|ABBÉ}
+<div class=BD>
+{s:BDTitre|Abbé|{s:GC}}
+'''Salaire''' 4 po/jour  
+'''Compétences''' Diplomatie, Premiers secours, Connaissances (folklore local), Connaissances (religion).
+(((Description)))
+Un abbé est un lanceur de sorts divins formé pour gérer les activités quotidiennes d’un temple ou d’une organisation
+religieuse, ainsi que celles de ses membres. C’est le plus souvent un adepte, un prêtre, un druide ou un oracle de
+niveau 3 qui possède une armure légère (ou aucune armure dans le cas d’un adepte) et une arme appropriée à sa foi.
+</div>
+
+{s:Reference|AUBERGISTE}
+<div class=BD>
+{s:BDTitre|Aubergiste|{s:GC}}
+'''Salaire''' 2 po/jour  
+'''Compétences''' Estimation, Diplomatie, Connaissances (folklore local), Profession (une au choix).
+(((Description)))
+Un aubergiste gère un établissement principalement conçu pour nourrir et loger ses clients. C’est le plus souvent un
+homme du peuple ou un expert de niveau 3, mais il peut également être un guerrier, un roublard ou un homme
+d’armes à la retraite. Un aubergiste supervise les activités quotidiennes d’une auberge, d’une taverne, d’un hôtel, d’un restaurant ou d’un club social privé et élitiste.
+</div>
+
+{s:Reference|AVOCATASSOCIÉ}
+<div class=BD>
+{s:BDTitre|Avocat associé|{s:GC}}
+'''Salaire''' 4 po/jour  
+'''Compétences''' Bluff, Diplomatie, Connaissances (une au choix), Profession (avocat).
+(((Description)))
+Un avocat associé est le directeur d’un cabinet d’avocats. C’est le plus souvent un barde, un expert, un roublard,
+un ensorceleur, un magicien ou un membre d’une autre classe spécialisée de niveau 3 qui s’appuie sur des valeurs
+de caractéristiques mentales élevées. Un avocat associé répond aux besoins juridiques d’une organisation.
+</div>
+
+{s:Reference|CAPITAINE}
+<div class=BD>
+{s:BDTitre|Capitaine|{s:GC}}
+'''Salaire''' 5 po/jour  
+'''Compétences''' Acrobaties, Diplomatie, Connaissances(géographie), Profession (marin).
+(((Description)))
+Un capitaine est un maître en matière de navigation maritime capable de gérer l’équipage et les activités d’un navire. C’est le plus souvent un expert, un roublard ou un guerrier de niveau 3. Un capitaine peut gérer une organisation commerciale, une flotte pirate ou une entreprise maritime ou fluviale de transport de passagers.
+</div>
+
+{s:Reference|COMPTABLE}
+<div class=BD>
+{s:BDTitre|Comptable|{s:GC}}
+'''Salaire''' 3 po/jour  
+'''Compétences''' Estimation, Connaissances (folklore local),Linguistique, Profession (comptable).
+(((Description)))
+Un comptable tient à jour les comptes et veille à l’équilibre du budget d’un bâtiment ou d’une organisation. C’est le plus souvent un expert de niveau 3 qui ne sait pas combattre mais il appartenir à n’importe quelle classe qualifiée qui fait bon usage des caractéristiques mentales.
+</div>
+
+{s:Reference|CONTREBANDIER}
+<div class=BD>
+{s:BDTitre|Contrebandier|{s:GC}}
+'''Salaire''' 3 po/jour  
+'''Compétences''' Estimation, Bluff, Connaissances (folklore local), Escamotage.
+(((Description)))
+Un contrebandier est un marchand qui a l’habitude de pratiquer sa profession sans se faire remarquer par les
+autorités locales. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une classe de niveau 3
+spécialisée dans les subterfuges. Un contrebandier peut gérer les activités d’un marché noir, d’une caravane illégale
+ou d’une flottille de navires de contrebande.
+</div>
+
+{s:Reference|GARDIEN}
+<div class=BD>
+{s:BDTitre|Gardien|{s:GC}}
+'''Salaire''' 2 po/jour  
+'''Compétences''' Diplomatie, Intimidation, Connaissances (folklore local), Psychologie.
+(((Description)))
+Un gardien supervise le fonctionnement d’une prison, d’un donjon ou d’un endroit où sont détenus des prisonniers.
+C’est le plus souvent un prêtre, un expert, un guerrier, un inquisiteur, un homme d’armes de niveau 3 ou un membre
+</div>
+
+{s:Reference|INTENDANT}
+<div class=BD>
+{s:BDTitre|Intendant|{s:GC}}
+'''Salaire''' 2 po/jour  
+'''Compétences''' Diplomatie, Connaissances (folklore local), Connaissances (noblesse), Psychologie.
+(((Description)))
+Un intendant s’occupe d’un grand bâtiment résidentiel comme un château, un manoir ou une villa de noble. C’est
+le plus souvent un adepte, un homme du peuple ou un expert de niveau 3. Il gère les activités quotidiennes d’un
+domaine, coordonne le travail des domestiques, discipline ceux dont le travail n’est pas satisfaisant et veille à ce que les désirs des seigneurs et des dames de la demeure soient toujours satisfaits.
+</div>
+
+{s:Reference|LIEUTENANT}
+<div class=BD>
+{s:BDTitre|Lieutenant|{s:GC}}
+'''Salaire''' 4 po/jour  
+'''Compétences''' Diplomatie, Intimidation, Connaissances (ingénierie), Perception.
+(((Description)))
+Un lieutenant dirige une unité de gardes, de mercenaires ou de soldats. C’est le plus souvent un chevalier, un guerrier ou un rôdeur de niveau 3, mais il peut également être barbare, barde, inquisiteur, homme d’armes ou membre d’une classe experte en matière de combat. Un lieutenant gère les divers besoins et assignements des troupes, supervise leur entraînement et participe aux manœuvres militaires.
+</div>
+
+</td><td>
+{s:Reference|MAÎTRE-FORGERON}
+<div class=BD>
+{s:BDTitre|Maître-forgeron|{s:GC}}
+'''Salaire''' 4 po/jour  
+'''Compétences''' Estimation, Artisanat (un au choix), Perception, Profession (une au choix).
+(((Description)))
+Un maître-forgeron gère une entreprise de fabrication. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une autre classe spécialisée de niveau 3. Un maître-forgeron gère les activités quotidiennes d’un site de production voué à un artisanat en particulier, forme les apprentis et travaille sur les articles les plus exigeants et les plus difficiles à fabriquer.
+</div>
+
+{s:Reference|MAÎTREDEGUILDE(GUILDED’ARTISANS)}
+<div class=BD>
+{s:BDTitre|Maître de guilde (guilde d’artisans)|{s:GC}}
+'''Salaire''' 3 po/jour  
+'''Compétences''' Estimation, Artisanat (un au choix), Diplomatie, Profession (une au choix).
+(((Description)))
+Un maître de guilde d’artisans est un expert dans son domaine qui peut diriger un groupe d’artisans de même
+mentalité. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une autre classe de niveau 3. Un
+maître de guilde se charge de la gestion quotidienne d’une guilde d’artisans : l’administration de base, la formation des membres de la guilde et la pratique de son artisanat.
+</div>
+
+{s:Reference|MAÎTREDEGUILDE(GUILDEDEVOLEURS)}
+<div class=BD>
+{s:BDTitre|Maître de guilde (guilde de voleurs)|{s:GC}}
+'''Salaire''' 5 po/jour  
+'''Compétences''' Estimation, Bluff, Sabotage, Connaissances (folklore local).
+(((Description)))
+Un maître de guilde de voleurs gère les activités d’une organisation criminelle. C’est le plus souvent un barde, un
+prêtre, un expert, un roublard ou un ensorceleur de niveau 3. Un maître de guilde se charge de la gestion quotidienne d’une guilde de voleurs : l’administration de base, la formation des recrues et la préparation de nouvelles manigances.
+</div>
+
+{s:Reference|MÉDECIN}
+<div class=BD>
+{s:BDTitre|Médecin|{s:GC}}
+'''Salaire''' 5 po/jour  
+'''Compétences''' Premiers secours, Perception, Psychologie, Survie.
+(((Description)))
+Un médecin est formé pour traiter toutes sortes de maladie et de blessures. C’est le plus souvent un adepte, un prêtre, un druide ou un oracle de niveau 3. Un expert peut également faire un médecin convenable qui traitera les maladies et soignera les blessures par l’application de moyens ordinaires seulement ou par l’utilisation d’objets magiques. Un médecin est généralement responsable d’un hôpital ou d’une organisation qui délivre des soins médicaux.
+</div>
+
+{s:Reference|PROVISEUR}
+<div class=BD>
+{s:BDTitre|Proviseur|{s:GC}}
+'''Salaire''' 3 po/jour  
+'''Compétences''' Diplomatie, Connaissances (deux au choix),Profession (une au choix).
+(((Description)))
+Un proviseur gère un lieu d’enseignement tel qu’une école de bardes, une académie de mages ou une Université. C’est le plus souvent un alchimiste, un barde, un expert, un roublard, un ensorceleur, un magicien ou une sorcière de niveau 3. La gestion d’un établissement d’enseignement supérieur consiste à s’occuper de l’administration de base, à enseigner et à effectuer des recherches.
+</div>
+
+{s:Reference|RÉGISSEUR}
+<div class=BD>
+{s:BDTitre|Régisseur|{s:GC}}
+'''Salaire''' 2 po/jour  
+'''Compétences''' Diplomatie, Déguisement, Représentation (deux au choix).
+(((Description)))
+Un régisseur supervise les activités d’une organisation artistique ou d’un bâtiment consacré aux pratiques artistiques. C’est le plus souvent un expert de niveau 3, mais il peut également être barde, roublard ou membre d’une classe possédant des compétences adaptées à la pratique des beaux-arts. Un régisseur passe ses journées à superviser les activités d’un théâtre, à former les acteurs et à promouvoir les spectacles de l’établissement.
+</div>
+
+{s:Reference|SECONDDESYNDICATDUCRIME}
+<div class=BD>
+{s:BDTitre|Second de syndicat du crime|{s:GC}}
+'''Salaire''' 2 po/jour  
+'''Compétences''' Estimation, Bluff, Intimidation,Connaissances (folklore local).
+(((Description)))
+Un second de syndicat du crime applique les ordres directs d’un parrain du crime ou d’un individu à la tête d’une organisation criminelle violente. C’est le plus souvent un barde, un prêtre, un expert, un guerrier ou un roublard de niveau 3. Il applique les ordres de son supérieur, poursuit les objectifs de l’organisation et supervise les subordonnés.
+</div>
+
+{s:Reference|SENSEI}
+<div class=BD>
+{s:BDTitre|Sensei|{s:GC}}
+'''Salaire''' 2 po/jour  
+'''Compétences''' Acrobaties, Intimidation, Connaissances (histoire), Perception.
+(((Description)))
+Un sensei est en charge d’un dojo ou d’un monastère voué à la pratique des arts martiaux. C’est le plus souvent un moine de niveau 3 mais il peut également posséder plusieurs niveaux dans une classe martiale ou qui s’appuie sur une valeur de Sagesse élevée. Un sensei supervise l’entraînement des élèves et gère les activités quotidiennes de l’établissement.
+</div>
+
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.gestionnaires</fullName>
+</wikiPage>

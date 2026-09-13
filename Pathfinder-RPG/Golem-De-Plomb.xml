@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Golem, Golem de plomb</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-19 16:18:08Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Golem</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles (capacité)</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.repositionnement</link><link>Pathfinder-RPG.école divination</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Neutralisation du poison</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Golem</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Brume mortelle</link><link>Pathfinder-RPG.Dissimulation suprême</link><link>Pathfinder-RPG.Quête</link><link>Pathfinder-RPG.Souhait limité</link><link>Pathfinder-RPG.Artisanat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Golem de plomb&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature artificielle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature artificielle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.141&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 26, contact 7, pris au d&#233;pourvu 26 (Dex -2, naturelle +19, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 107 (14d10+30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/adamantium ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, &#233;lectricit&#233;, magie, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles (Ext)&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +21 (2d10+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; miasmes punitifs
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 26, &lt;b&gt;Dex&lt;/b&gt; 7, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14 ; &lt;b&gt;BMO&lt;/b&gt; +23 ; &lt;b&gt;DMD&lt;/b&gt; 31 (39 contre la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt; et le &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Repositionnement.html&quot; title=&quot;repositionnement&quot;&gt;repositionnement&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; densit&#233; inflexible, &#233;cran de protection contre la divination
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou fa&#231;ade (2-4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Champ de protection contre la divination (Ext).&lt;/b&gt; Les sorts de l’&#233;cole de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Divination.html&quot; title=&quot;Divination&quot;&gt;divination&lt;/a&gt; lanc&#233;s &#224; 18 m&#232;tres ou moins d’un golem de plomb &#233;chouent automatiquement.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Densit&#233; inflexible (Ext).&lt;/b&gt; Le poids et la solidit&#233; du golem lui conf&#232;rent un bonus racial de +8 au &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Dmd.html&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; contre les manœuvres offensives de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Repositionnement.html&quot; title=&quot;repositionnement&quot;&gt;repositionnement&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233; contre la magie (Ext).&lt;/b&gt; Un golem de plomb est immunis&#233; contre les sorts et les pouvoirs magiques qui autorisent la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt;. Certains sorts et effets fonctionnent diff&#233;remment sur lui, comme indiqu&#233; ci-dessous.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;• Une attaque magique qui inflige des d&#233;g&#226;ts d’acide imbibe le golem de plomb de cette substance &#224; la place. Les attaques de coup du golem infligent alors 1d6 points de d&#233;g&#226;ts d’acide suppl&#233;mentaires pendant 1d4 rounds.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;• Un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt; ou de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Neutralisation-Du-Poison.html&quot; title=&quot;Neutralisation du poison&quot;&gt;neutralisation du poison&lt;/a&gt;&lt;/i&gt; lanc&#233; sur le golem de plomb dissipe les nuages g&#233;n&#233;r&#233;s par son pouvoir de miasmes punitifs et emp&#234;che le golem d’utiliser ce pouvoir pendant 1d6 rounds.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Miasmes punitifs (Ext).&lt;/b&gt; Les attaques qui ignorent la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;duction des d&#233;g&#226;ts&lt;/a&gt; du golem de plomb provoquent l’apparition d’un nuage de fines particules de plomb dans un rayon de 1,50 m&#232;tre autour du golem. Le nuage reste en place pendant 1 round ; les cr&#233;atures situ&#233;es dans la zone du nuage ou qui le traversent sont expos&#233;es aux effets toxiques de ce pouvoir. Les attaques suivantes qui blessent le golem augmentent la dur&#233;e du nuage d’un round chacune.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;Nuage de poison — inhal&#233; ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; 16 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; et 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Golem.html&quot; title=&quot;Les golems&quot;&gt;golems&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Ressemblant plus &#224; une veine brute d’un minerai gris terne, cet humano&#239;de bossu et grossi&#232;rement taill&#233; se sert de ses bras pour soutenir sa masse.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les golems de plomb sont des amas de plomb fa&#231;onn&#233; en forme d’humano&#239;de &#224; la d&#233;marche pataude. Un golem de plomb fait 3,30 m&#232;tres de haut lorsqu’il se tient debout et p&#232;se 5 tonnes.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Cr&#233;ation&lt;a class=&quot;headeranchor&quot; id=&quot;Cr&#233;ation_0&quot; href=&quot;#Cr&#233;ation_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Il faut se procurer 5 000 kilos de plomb, d’une valeur de 7 500 po, et les sculpter selon la forme du golem de plomb.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;NLS&lt;/b&gt; 13 ; &lt;b&gt;Prix&lt;/b&gt; 57 500 po&lt;/li&gt;&lt;li&gt;&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-Mortelle.html&quot; title=&quot;Brume mortelle&quot;&gt;brume mortelle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissimulation-Supr&#234;me.html&quot; title=&quot;Dissimulation supr&#234;me&quot;&gt;dissimulation supr&#234;me&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Qu&#234;te.html&quot; title=&quot;Qu&#234;te&quot;&gt;qu&#234;te&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait-Limit&#233;.html&quot; title=&quot;Souhait limit&#233;&quot;&gt;souhait limit&#233;&lt;/a&gt;&lt;/i&gt;, le NLS du cr&#233;ateur doit &#234;tre au moins &#233;gal &#224; 13 ; &lt;b&gt;Comp&#233;tence&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (armes) ou &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (armures) DD 18 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 32 500 po&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Golem de plomb|FP 10}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.141]]''}
+{s:BDTexte|'''PX''' 9 600}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|'''Init''' -2 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 26, contact 7, pris au dépourvu 26 (Dex -2, naturelle +19, taille -1)}
+{s:BDTexte|'''pv''' 107 (14d10+30)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +4, '''Vol''' +4}
+{s:BDTexte|'''RD''' 10/adamantium ; '''Immunités''' acide, électricité, magie, [[Traits des créatures artificielles (capacité)|traits des créatures artificielles]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m}
+{s:BDTexte|'''Corps à corps''' 2 coups, +21 (2d10+8)}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDTexte|'''Attaques spéciales''' miasmes punitifs}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 26, '''Dex''' 7, '''Con''' —, '''Int''' —, '''Sag''' 11, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +14 ; '''BMO''' +23 ; '''DMD''' 31 (39 contre la [[bousculade]] et le [[repositionnement]])}
+{s:BDTexte|'''Particularités''' densité inflexible, écran de protection contre la divination}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation''' solitaire ou façade (2-4)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Champ de protection contre la divination (Ext).''' Les sorts de l’école de [[école Divination|divination]] lancés à 18 mètres ou moins d’un golem de plomb échouent automatiquement.}
+{s:BDTexte|'''Densité inflexible (Ext).''' Le poids et la solidité du golem lui confèrent un bonus racial de +8 au [[DMD]] contre les manœuvres offensives de [[bousculade]] et de [[repositionnement]].}
+{s:BDTexte|'''Immunité contre la magie (Ext).''' Un golem de plomb est immunisé contre les sorts et les pouvoirs magiques qui autorisent la [[RM|résistance à la magie]]. Certains sorts et effets fonctionnent différemment sur lui, comme indiqué ci-dessous.}
+{s:BDTexte|* • Une attaque magique qui inflige des dégâts d’acide imbibe le golem de plomb de cette substance à la place. Les attaques de coup du golem infligent alors 1d6 points de dégâts d’acide supplémentaires pendant 1d4 rounds.}
+{s:BDTexte|* • Un sort de ''[[bourrasque]]'' ou de ''[[neutralisation du poison]]'' lancé sur le golem de plomb dissipe les nuages générés par son pouvoir de miasmes punitifs et empêche le golem d’utiliser ce pouvoir pendant 1d6 rounds.}
+{s:BDTexte|'''Miasmes punitifs (Ext).''' Les attaques qui ignorent la [[RD|réduction des dégâts]] du golem de plomb provoquent l’apparition d’un nuage de fines particules de plomb dans un rayon de 1,50 mètre autour du golem. Le nuage reste en place pendant 1 round ; les créatures situées dans la zone du nuage ou qui le traversent sont exposées aux effets toxiques de ce pouvoir. Les attaques suivantes qui blessent le golem augmentent la durée du nuage d’un round chacune.}
+{s:BDTexte|* Nuage de poison — inhalé ; ''JdS'' [[Vigueur]] 16 ; ''fréquence'' 1/round pendant 6 rounds ; ''effet'' [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 [[Constitution]] et 1d3 [[Sagesse]] ; ''guérison'' 2 réussites. Le DD du jet de sauvegarde est basé sur la Constitution.}
+
+</div></td>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Golem|golems]].'''''</li></ul>''Ressemblant plus à une veine brute d’un minerai gris terne, cet humanoïde bossu et grossièrement taillé se sert de ses bras pour soutenir sa masse.''
+
+Les golems de plomb sont des amas de plomb façonné en forme d’humanoïde à la démarche pataude. Un golem de plomb fait 3,30 mètres de haut lorsqu’il se tient debout et pèse 5 tonnes.
+
+===Création===
+Il faut se procurer 5 000 kilos de plomb, d’une valeur de 7 500 po, et les sculpter selon la forme du golem de plomb.
+* '''NLS''' 13 ; '''Prix''' 57 500 po
+* '''Conditions''' [[Création de créatures artificielles]], ''[[brume mortelle]]'', ''[[dissimulation suprême]]'', ''[[quête]]'', ''[[souhait limité]]'', le NLS du créateur doit être au moins égal à 13 ; '''Compétence''' [[Artisanat]] (armes) ou [[Artisanat]] (armures) DD 18 ; '''Coût''' 32 500 po
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Golem de plomb</fullName>
+</wikiPage>

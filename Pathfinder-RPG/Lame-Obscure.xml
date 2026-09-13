@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Lame obscure</title>
+  <categories></categories>
+  <lastModified>2024-05-21 18:17:09Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Armes et équipement (Contenu)</link><link>Pathfinder-RPG.Armes magiques spécifiques</link><link>Pathfinder-RPG.Détermination aléatoire des armes</link><link>Pathfinder-RPG.Drow (race)</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Armes magiques spécifiques</link><link>Pathfinder-RPG.épée courte (arme)</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Drow (race)</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right&quot;&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Drow.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Drow (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Drow.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Drow-(Race).html&quot; title=&quot;Les drows&quot;&gt;drows&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Cet objet est apparu dans le &lt;a class=&quot;pagelink&quot; href=&quot;Manuel-Des-Races-(Contenu).html&quot; title=&quot;Manuel des races (Contenu)&quot;&gt;Manuel des races&lt;/a&gt; sous le nom &quot;Lame de t&#233;n&#232;bres&quot;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Lame obscure&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Evocation.html&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; puissante ; &lt;b&gt;NLS&lt;/b&gt; 13 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques-Sp&#233;cifiques.html&quot; title=&quot;Armes magiques sp&#233;cifiques&quot;&gt;aucun (arme)&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 8.810 po ; &lt;b&gt;Poids&lt;/b&gt; 1 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette &#233;p&#233;e courte aussi noire que le charbon voit son efficacit&#233; augmenter lorsqu’elle est plong&#233;e dans l’obscurit&#233;. C’est une &lt;a class=&quot;pagelink&quot; href=&quot;&#201;p&#233;e-Courte-(Arme).html&quot; title=&quot;&#201;p&#233;e courte&quot;&gt;&#233;p&#233;e courte&lt;/a&gt; +1 lorsqu’elle se trouve dans une zone faiblement &#233;clair&#233;e et une &#233;p&#233;e courte +2 dans les t&#233;n&#232;bres. En cas d’obscurit&#233; magique, telle que celle cr&#233;&#233;e par un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/i&gt;, cette &#233;p&#233;e courte +2 octroie &#224; son possesseur le don &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;. Tant qu’elle demeure dans des zones vivement &#233;clair&#233;es ou expos&#233;es &#224; la lumi&#232;re du jour, l’&#233;p&#233;e perd la totalit&#233; de ses bonus d’alt&#233;ration et fonctionne comme une arme de ma&#238;tre. Elle r&#233;cup&#232;re toutefois ses propri&#233;t&#233;s magiques d&#232;s qu’elle n’est plus expos&#233;e &#224; une lumi&#232;re vive. 
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et armures magiques&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/i&gt;  ; &lt;b&gt;Co&#251;t&lt;/b&gt; 4.560 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[<div style="float:right">{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:Desambi|Cet objet est apparu dans le [[Manuel des races (Contenu)|Manuel des races]] sous le nom "Lame de ténèbres".}</div><div class="BD">
+{s:BDTitre|Lame obscure|{s:AE}}
+'''Aura''' [[Évocation]] puissante ; '''NLS''' 13 ; '''Emplacement''' [[Armes magiques spécifiques|aucun (arme)]] ; '''Prix''' 8.810 po ; '''Poids''' 1 kg
+(((Description)))
+Cette épée courte aussi noire que le charbon voit son efficacité augmenter lorsqu’elle est plongée dans l’obscurité. C’est une [[Épée courte (arme)|épée courte]] +1 lorsqu’elle se trouve dans une zone faiblement éclairée et une épée courte +2 dans les ténèbres. En cas d’obscurité magique, telle que celle créée par un sort de ''[[ténèbres profondes]]'', cette épée courte +2 octroie à son possesseur le don [[Combat en aveugle]]. Tant qu’elle demeure dans des zones vivement éclairées ou exposées à la lumière du jour, l’épée perd la totalité de ses bonus d’altération et fonctionne comme une arme de maître. Elle récupère toutefois ses propriétés magiques dès qu’elle n’est plus exposée à une lumière vive. 
+(((Création)))
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et armures magiques]], ''[[ténèbres profondes]]''  ; '''Coût''' 4.560 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Lame Obscure</fullName>
+</wikiPage>

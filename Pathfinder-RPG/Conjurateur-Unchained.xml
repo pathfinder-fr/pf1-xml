@@ -1,0 +1,694 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Le conjurateur unchained</title>
+  <categories><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Pathfinder unchained</category></categories>
+  <lastModified>2022-08-23 20:49:36Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Abri de toile</link><link>Pathfinder-RPG.Adaptation planaire</link><link>Pathfinder-RPG.Adaptation planaire de groupe</link><link>Pathfinder-RPG.Agonie</link><link>Pathfinder-RPG.Agrandissement</link><link>Pathfinder-RPG.Agrandissement de groupe</link><link>Pathfinder-RPG.Aire de laigle</link><link>Pathfinder-RPG.Alarme</link><link>Pathfinder-RPG.Alarme dinvisibilité</link><link>Pathfinder-RPG.Alarme sélective</link><link>Pathfinder-RPG.Alignement unchained</link><link>Pathfinder-RPG.Allègement dobjet</link><link>Pathfinder-RPG.Allègement dobjet de groupe</link><link>Pathfinder-RPG.Altérations de la magie</link><link>Pathfinder-RPG.Âme daigle</link><link>Pathfinder-RPG.Âme parasite</link><link>Pathfinder-RPG.Ancre dimensionnelle</link><link>Pathfinder-RPG.Anneau scindé</link><link>Pathfinder-RPG.Antidétection</link><link>Pathfinder-RPG.Antidétection (partagé)</link><link>Pathfinder-RPG.Appel des nixes</link><link>Pathfinder-RPG.Appel purifié</link><link>Pathfinder-RPG.Arme protectrice</link><link>Pathfinder-RPG.Armure de mage</link><link>Pathfinder-RPG.Armure de sang</link><link>Pathfinder-RPG.Artisanat et Profession alternatives</link><link>Pathfinder-RPG.Artisanat unchained</link><link>Pathfinder-RPG.Aspersion acide</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Bandes de protection</link><link>Pathfinder-RPG.Bannissement</link><link>Pathfinder-RPG.Barbare unchained</link><link>Pathfinder-RPG.Barrière protectrice</link><link>Pathfinder-RPG.Bénédiction de Baphomet</link><link>Pathfinder-RPG.Bond dimensionnel (sort)</link><link>Pathfinder-RPG.Bonus de base fractionnaires</link><link>Pathfinder-RPG.Bonus de progression automatique</link><link>Pathfinder-RPG.Bonus intrinsèques des objets</link><link>Pathfinder-RPG.Bouche magique</link><link>Pathfinder-RPG.Bouclier</link><link>Pathfinder-RPG.Bouclier de feu</link><link>Pathfinder-RPG.Bouclier de pierre</link><link>Pathfinder-RPG.Bras long</link><link>Pathfinder-RPG.Brouillard dense</link><link>Pathfinder-RPG.Brume acide</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.Brume de vitriol</link><link>Pathfinder-RPG.Brume mortelle</link><link>Pathfinder-RPG.Cercle magique contre la Loi</link><link>Pathfinder-RPG.Cercle magique contre le Bien</link><link>Pathfinder-RPG.Cercle magique contre le Chaos</link><link>Pathfinder-RPG.cercle magique contre le Mal</link><link>Pathfinder-RPG.Cercle thaumaturgique</link><link>Pathfinder-RPG.Champ de force</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Charge de fourmi</link><link>Pathfinder-RPG.Charge de fourmi (partagé)</link><link>Pathfinder-RPG.Charme-monstre</link><link>Pathfinder-RPG.Charme-monstre de groupe</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Chien de garde</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes unchained</link><link>Pathfinder-RPG.Classes unchained</link><link>Pathfinder-RPG.Communication à distance</link><link>Pathfinder-RPG.Compétences contextuelles</link><link>Pathfinder-RPG.Compétences et options unchained</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences fusionnées, Acrobaties</link><link>Pathfinder-RPG.Compétences fusionnées, Art de la magie</link><link>Pathfinder-RPG.Compétences fusionnées, Athlétisme</link><link>Pathfinder-RPG.Compétences fusionnées, Discrétion</link><link>Pathfinder-RPG.Compétences fusionnées, Finesse</link><link>Pathfinder-RPG.Compétences fusionnées, Influence</link><link>Pathfinder-RPG.Compétences fusionnées, Nature</link><link>Pathfinder-RPG.Compétences fusionnées, Perception</link><link>Pathfinder-RPG.Compétences fusionnées, Religion</link><link>Pathfinder-RPG.Compétences fusionnées, Représentation</link><link>Pathfinder-RPG.Compétences fusionnées, Société</link><link>Pathfinder-RPG.Compétences fusionnées, Survie</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Composantes matérielles ésotériques</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Contact avec les plans</link><link>Pathfinder-RPG.contact corrosif</link><link>Pathfinder-RPG.Contrat</link><link>Pathfinder-RPG.Contrat de sage</link><link>Pathfinder-RPG.Contrat intermédiaire</link><link>Pathfinder-RPG.Contrat suprême</link><link>Pathfinder-RPG.Contrôle des créatures convoquées</link><link>Pathfinder-RPG.Convocation daccusateur</link><link>Pathfinder-RPG.Convocation de cacodaémon</link><link>Pathfinder-RPG.Convocation de cacodaémon suprême</link><link>Pathfinder-RPG.Convocation de ceustodaémon</link><link>Pathfinder-RPG.Convocation de créature totémique</link><link>Pathfinder-RPG.Convocation de diligence</link><link>Pathfinder-RPG.Convocation de méladaémon</link><link>Pathfinder-RPG.Convocation de monstre mineur</link><link>Pathfinder-RPG.Convocation de monstres I</link><link>Pathfinder-RPG.Convocation de monstres II</link><link>Pathfinder-RPG.Convocation de monstres III</link><link>Pathfinder-RPG.Convocation de monstres IV</link><link>Pathfinder-RPG.Convocation de monstres IX</link><link>Pathfinder-RPG.Convocation de monstres V</link><link>Pathfinder-RPG.Convocation de monstres VI</link><link>Pathfinder-RPG.Convocation de monstres VII</link><link>Pathfinder-RPG.Convocation de monstres VIII</link><link>Pathfinder-RPG.Convocation de pudding noir</link><link>Pathfinder-RPG.Convocation deidolon</link><link>Pathfinder-RPG.Convocation dérodaémon</link><link>Pathfinder-RPG.Convocation dhôte infernal</link><link>Pathfinder-RPG.Convocation dun vol daigle</link><link>Pathfinder-RPG.Couronne de lames</link><link>Pathfinder-RPG.Coursier fantôme</link><link>Pathfinder-RPG.Coursier fantôme (partagé)</link><link>Pathfinder-RPG.Création de demi-plan</link><link>Pathfinder-RPG.Création de demi-plan mineure</link><link>Pathfinder-RPG.Création de demi-plan supérieure</link><link>Pathfinder-RPG.Création de fosse</link><link>Pathfinder-RPG.Création de monstres simplifiée</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 1</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 3</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 4</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 5</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 6</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 7</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 8</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 9</link><link>Pathfinder-RPG.Création de monstres simplifiée, Exemple</link><link>Pathfinder-RPG.Création dynamique dobjets magiques</link><link>Pathfinder-RPG.Création majeure</link><link>Pathfinder-RPG.Création mineure</link><link>Pathfinder-RPG.Dague de stalactite</link><link>Pathfinder-RPG.Dard vengeur</link><link>Pathfinder-RPG.Déclaration</link><link>Pathfinder-RPG.Déplacement</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Détection de la magie suprême</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.Détection faussée</link><link>Pathfinder-RPG.Disparition</link><link>Pathfinder-RPG.Dissimulation suprême</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Dissipation suprême</link><link>Pathfinder-RPG.Distorsion spatiale</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Don des langues (partagé)</link><link>Pathfinder-RPG.Échange dobjet</link><link>Pathfinder-RPG.eidolon unchained</link><link>Pathfinder-RPG.Éliminer lalignement</link><link>Pathfinder-RPG.Éliminer les attaques multiples</link><link>Pathfinder-RPG.Empathie de la meute</link><link>Pathfinder-RPG.Endurance aux énergies destructives</link><link>Pathfinder-RPG.Endurance aux énergies destructives (partagé)</link><link>Pathfinder-RPG.Endurance de lours</link><link>Pathfinder-RPG.Endurance de lours de groupe</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Enfant magique (justicier)</link><link>Pathfinder-RPG.Engeance de génie</link><link>Pathfinder-RPG.Équipage de squelettes</link><link>Pathfinder-RPG.Équipage invisible</link><link>Pathfinder-RPG.Évolution</link><link>Pathfinder-RPG.Évolution mineure</link><link>Pathfinder-RPG.Évolution supérieure</link><link>Pathfinder-RPG.Exemples de monstres en création simplifiée</link><link>Pathfinder-RPG.Exigence</link><link>Pathfinder-RPG.Extensions de compétences</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.Fléau dinsectes</link><link>Pathfinder-RPG.Flot obsidien</link><link>Pathfinder-RPG.Flou</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.Force de taureau de groupe</link><link>Pathfinder-RPG.Force décuplée</link><link>Pathfinder-RPG.Forme éthérée</link><link>Pathfinder-RPG.Fosse acide</link><link>Pathfinder-RPG.Fosse affamée</link><link>Pathfinder-RPG.Fosse hérissée de pieux</link><link>Pathfinder-RPG.Fouet daraignées</link><link>Pathfinder-RPG.Fouet de fourmis</link><link>Pathfinder-RPG.Fouet de mille-pattes</link><link>Pathfinder-RPG.Foulée urbaine</link><link>Pathfinder-RPG.Frissonnement du temps</link><link>Pathfinder-RPG.Fuite du barde</link><link>Pathfinder-RPG.Gestion dactions révisée</link><link>Pathfinder-RPG.Glace insidieuse</link><link>Pathfinder-RPG.Gloire partagée</link><link>Pathfinder-RPG.Grâce féline</link><link>Pathfinder-RPG.Grâce féline de groupe</link><link>Pathfinder-RPG.Graisse</link><link>Pathfinder-RPG.Guérison diabolique</link><link>Pathfinder-RPG.Guérison diabolique supérieure</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Hébétement de groupe</link><link>Pathfinder-RPG.Hébétement de monstre</link><link>Pathfinder-RPG.Héraut des fées (conjurateur unchained)</link><link>Pathfinder-RPG.Héraut des fées (conjurateur unchained)</link><link>Pathfinder-RPG.Héroïsme</link><link>Pathfinder-RPG.Héroïsme insipide</link><link>Pathfinder-RPG.Héroïsme suprême</link><link>Pathfinder-RPG.Hostilité forcée</link><link>Pathfinder-RPG.Identification</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Immobilisation de monstre de groupe</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Incantation simplifiée</link><link>Pathfinder-RPG.Insectes espions</link><link>Pathfinder-RPG.Insectes espions suprême</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Invisibilité de groupe</link><link>Pathfinder-RPG.Invisibilité suprême</link><link>Pathfinder-RPG.Jumeau de vomi</link><link>Pathfinder-RPG.Juxtaposition hostile</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.Lévitation</link><link>Pathfinder-RPG.Libération</link><link>Pathfinder-RPG.Lien avec linvocateur</link><link>Pathfinder-RPG.Lien de vie</link><link>Pathfinder-RPG.Lien de vie supérieur</link><link>Pathfinder-RPG.Liste des objets évolutifs</link><link>Pathfinder-RPG.Liste des sorts du conjurateur unchained</link><link>Pathfinder-RPG.Localisation de créature</link><link>Pathfinder-RPG.loup fantomatique</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Magie unchained</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maladies et poisons unchained</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Marteau de réparation</link><link>Pathfinder-RPG.Mécanismes de jeu unchained</link><link>Pathfinder-RPG.Message</link><link>Pathfinder-RPG.Message suggestif</link><link>Pathfinder-RPG.Message suggestif de groupe</link><link>Pathfinder-RPG.Métamorphe ajustable</link><link>Pathfinder-RPG.Métamorphose funeste</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Moine unchained</link><link>Pathfinder-RPG.Monture</link><link>Pathfinder-RPG.Monture (partagé)</link><link>Pathfinder-RPG.Mordre la main de son maître</link><link>Pathfinder-RPG.Mordre la main de son maître de groupe</link><link>Pathfinder-RPG.Morsure magique</link><link>Pathfinder-RPG.Morsure magique suprême</link><link>Pathfinder-RPG.Mort rampante</link><link>Pathfinder-RPG.Mouvement flou</link><link>Pathfinder-RPG.Mur de fer</link><link>Pathfinder-RPG.Mur de feu</link><link>Pathfinder-RPG.Mur de glace</link><link>Pathfinder-RPG.Mur de pierre</link><link>Pathfinder-RPG.Mur de vent</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Nappe de goudron</link><link>Pathfinder-RPG.Nuage nauséabond</link><link>Pathfinder-RPG.Nuée de crocs</link><link>Pathfinder-RPG.Nuée distordante</link><link>Pathfinder-RPG.Nuée grouillante</link><link>Pathfinder-RPG.Nuit de lames</link><link>Pathfinder-RPG.Objet fantomatique majeur</link><link>Pathfinder-RPG.objet fantomatique mineur</link><link>Pathfinder-RPG.Objets évolutifs</link><link>Pathfinder-RPG.Orbe aqueux</link><link>Pathfinder-RPG.Ouverturefermeture</link><link>Pathfinder-RPG.Pathfinder unchained (Contenu)</link><link>Pathfinder-RPG.Pattes daraignée</link><link>Pathfinder-RPG.Pattes daraignée (partagé)</link><link>Pathfinder-RPG.Peau de pierre</link><link>Pathfinder-RPG.Peau de pierre (partagé)</link><link>Pathfinder-RPG.Peau décorce</link><link>Pathfinder-RPG.Perturbation des invocations</link><link>Pathfinder-RPG.Planer</link><link>Pathfinder-RPG.Pluie de grenouilles</link><link>Pathfinder-RPG.Pluie de plomb</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Possession</link><link>Pathfinder-RPG.Possession de marionnette</link><link>Pathfinder-RPG.Possession dobjet</link><link>Pathfinder-RPG.Poussière scintillante</link><link>Pathfinder-RPG.Profession unchained</link><link>Pathfinder-RPG.Progression échelonnée</link><link>Pathfinder-RPG.Protection contre la Loi</link><link>Pathfinder-RPG.Protection contre la Loi (partagé)</link><link>Pathfinder-RPG.Protection contre le Bien</link><link>Pathfinder-RPG.Protection contre le Bien (partagé)</link><link>Pathfinder-RPG.Protection contre le Chaos</link><link>Pathfinder-RPG.Protection contre le Chaos (partagé)</link><link>Pathfinder-RPG.Protection contre le Mal</link><link>Pathfinder-RPG.Protection contre le Mal (partagé)</link><link>Pathfinder-RPG.Protection contre les énergies destructives</link><link>Pathfinder-RPG.Protection contre les énergies destructives (partagé)</link><link>Pathfinder-RPG.Protection contre les projectiles</link><link>Pathfinder-RPG.Protection contre les projectiles (partagé)</link><link>Pathfinder-RPG.Protection du compagnon</link><link>Pathfinder-RPG.Rage</link><link>Pathfinder-RPG.Rage morte-vivante</link><link>Pathfinder-RPG.Rapetissement</link><link>Pathfinder-RPG.Rapetissement danimal</link><link>Pathfinder-RPG.Rapetissement de groupe</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Rayon de fièvre</link><link>Pathfinder-RPG.Recherche de pensées</link><link>Pathfinder-RPG.Régénération deidolon</link><link>Pathfinder-RPG.Régénération deidolon mineure</link><link>Pathfinder-RPG.Régénération deidolon supérieure</link><link>Pathfinder-RPG.Règles alternatives unchained</link><link>Pathfinder-RPG.Règles alternatives unchained</link><link>Pathfinder-RPG.Régression</link><link>Pathfinder-RPG.Renvoi</link><link>Pathfinder-RPG.Renvoi des sorts</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Réparation improvisée</link><link>Pathfinder-RPG.Repli expéditif</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Résistance aux énergies destructives (partagé)</link><link>Pathfinder-RPG.Respiration aquatique</link><link>Pathfinder-RPG.Respiration dair</link><link>Pathfinder-RPG.Restauration</link><link>Pathfinder-RPG.Restauration deidolon</link><link>Pathfinder-RPG.Restauration deidolon mineure</link><link>Pathfinder-RPG.Restauration partielle</link><link>Pathfinder-RPG.Roublard unchained</link><link>Pathfinder-RPG.Ruse du renard</link><link>Pathfinder-RPG.Ruse du renard de groupe</link><link>Pathfinder-RPG.Sacrifice partagé</link><link>Pathfinder-RPG.Sagesse du hibou</link><link>Pathfinder-RPG.Sagesse du hibou de groupe</link><link>Pathfinder-RPG.Sang caustique</link><link>Pathfinder-RPG.Saut</link><link>Pathfinder-RPG.Sceau de colle</link><link>Pathfinder-RPG.Science du lien de vie</link><link>Pathfinder-RPG.Sentier de la damnation</link><link>Pathfinder-RPG.Serviteur invisible</link><link>Pathfinder-RPG.Seuils de blessure</link><link>Pathfinder-RPG.Signature magique</link><link>Pathfinder-RPG.Singes fous</link><link>Pathfinder-RPG.Sombres murmures</link><link>Pathfinder-RPG.sort Résistance</link><link>Pathfinder-RPG.sort Vol</link><link>Pathfinder-RPG.Sphère dinvisibilité</link><link>Pathfinder-RPG.Splendeur de laigle</link><link>Pathfinder-RPG.Splendeur de laigle de groupe</link><link>Pathfinder-RPG.téléportation</link><link>Pathfinder-RPG.Téléportation dobjet</link><link>Pathfinder-RPG.Téléportation interplanétaire</link><link>Pathfinder-RPG.Téléportation par cristal de glace</link><link>Pathfinder-RPG.Téléportation perfide</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Tentacules noirs</link><link>Pathfinder-RPG.thaumaturgie associative</link><link>Pathfinder-RPG.Transfert de voie</link><link>Pathfinder-RPG.Transformation</link><link>Pathfinder-RPG.Variante de multiclassage</link><link>Pathfinder-RPG.Ventriloquie</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Vol supérieur</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.eidolon unchained</link><link>Pathfinder-RPG.Liste des sorts du conjurateur unchained</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.UOM</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Convocation de monstres I</link><link>Pathfinder-RPG.pouvoirs magiques</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Convocation de monstres IX</link><link>Pathfinder-RPG.Portail</link><link>Pathfinder-RPG.Règles relatives aux objets magiques</link><link>Pathfinder-RPG.Création dobjets magiques</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Protection contre le Mal</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Renvoi</link><link>Pathfinder-RPG.Bannissement</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Sans défense</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Métamorphose funeste</link><link>Pathfinder-RPG.Pétrification</link><link>Pathfinder-RPG.Emprisonnement</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Règles alternatives unchained</link><link>Pathfinder-RPG.Classes unchained</link><link>Pathfinder-RPG.Barbare unchained</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Moine unchained</link><link>Pathfinder-RPG.Roublard unchained</link><link>Pathfinder-RPG.Bonus de base fractionnaires</link><link>Pathfinder-RPG.Progression échelonnée</link><link>Pathfinder-RPG.Compétences et options unchained</link><link>Pathfinder-RPG.Compétences contextuelles</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Artisanat et Profession alternatives</link><link>Pathfinder-RPG.Extensions de compétences</link><link>Pathfinder-RPG.Variante de multiclassage</link><link>Pathfinder-RPG.Mécanismes de jeu unchained</link><link>Pathfinder-RPG.Alignement unchained</link><link>Pathfinder-RPG.Éliminer lalignement</link><link>Pathfinder-RPG.Gestion dactions révisée</link><link>Pathfinder-RPG.Éliminer les attaques multiples</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Seuils de blessure</link><link>Pathfinder-RPG.Maladies et poisons unchained</link><link>Pathfinder-RPG.Magie unchained</link><link>Pathfinder-RPG.Incantation simplifiée</link><link>Pathfinder-RPG.Altérations de la magie</link><link>Pathfinder-RPG.Composantes matérielles ésotériques</link><link>Pathfinder-RPG.Bonus de progression automatique</link><link>Pathfinder-RPG.Bonus intrinsèques des objets</link><link>Pathfinder-RPG.Objets évolutifs</link><link>Pathfinder-RPG.Création dynamique dobjets magiques</link><link>Pathfinder-RPG.Création de monstres simplifiée</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 1</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 3</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 4</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 5</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 6</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 7</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 8</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 9</link><link>Pathfinder-RPG.Création de monstres simplifiée, Exemple</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles alternatives unchained&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_alternatives_unchained_0&quot; href=&quot;#R&#232;gles_alternatives_unchained_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Alternatives-Unchained.html&quot; title=&quot;R&#232;gles alternatives unchained&quot;&gt;Pr&#233;sentation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonClasses&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Classes&#39;);&quot; onmouseout=&quot;outButton(&#39;Classes&#39;);&quot; onclick=&quot;expandMenu(&#39;Classes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-Unchained.html&quot; title=&quot;Classes unchained&quot;&gt;Classes unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Classes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare-Unchained.html&quot; title=&quot;Le barbare unchained&quot;&gt;Barbare unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;Conjurateur unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine-Unchained.html&quot; title=&quot;Le moine unchained&quot;&gt;Moine unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard-Unchained.html&quot; title=&quot;Le roublard unchained&quot;&gt;Roublard unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Base-Fractionnaires.html&quot; title=&quot;Bonus de base fractionnaires&quot;&gt;Bonus de base fractionnaires&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Progression-&#201;chelonn&#233;e.html&quot; title=&quot;Progression &#233;chelonn&#233;e&quot;&gt;Progression &#233;chelonn&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonComp&#233;tences&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Comp&#233;tences&#39;);&quot; onmouseout=&quot;outButton(&#39;Comp&#233;tences&#39;);&quot; onclick=&quot;expandMenu(&#39;Comp&#233;tences&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Et-Options-Unchained.html&quot; title=&quot;Comp&#233;tences et options unchained&quot;&gt;Comp&#233;tences et options unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Comp&#233;tences&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Contextuelles.html&quot; title=&quot;Comp&#233;tences contextuelles&quot;&gt;Comp&#233;tences contextuelles&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es&quot;&gt;Comp&#233;tences fusionn&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Group&#233;es.html&quot; title=&quot;Comp&#233;tences group&#233;es&quot;&gt;Comp&#233;tences group&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat-Et-Profession-Alternatives.html&quot; title=&quot;Artisanat et Profession alternatives&quot;&gt;Artisanat et Profession alternatives&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extensions-De-Comp&#233;tences.html&quot; title=&quot;Extensions de comp&#233;tences&quot;&gt;Extensions de comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variante-De-Multiclassage.html&quot; title=&quot;Variante de multiclassage&quot;&gt;Variante de multiclassage&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonM&#233;canismes&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;M&#233;canismes&#39;);&quot; onmouseout=&quot;outButton(&#39;M&#233;canismes&#39;);&quot; onclick=&quot;expandMenu(&#39;M&#233;canismes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;canismes-De-Jeu-Unchained.html&quot; title=&quot;M&#233;canismes de jeu unchained&quot;&gt;M&#233;canismes de jeu unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;M&#233;canismes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Unchained.html&quot; title=&quot;L&amp;#39;alignement unchained&quot;&gt;Alignement unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Lalignement.html&quot; title=&quot;&#201;liminer l&amp;#39;alignement&quot;&gt;&#201;liminer l&#39;alignement&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gestion-Dactions-R&#233;vis&#233;e.html&quot; title=&quot;Gestion d&amp;#39;actions r&#233;vis&#233;e&quot;&gt;Gestion d&#39;actions r&#233;vis&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Les-Attaques-Multiples.html&quot; title=&quot;&#201;liminer les attaques multiples&quot;&gt;&#201;liminer les attaques multiples&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Et-Astuces-Martiales.html&quot; title=&quot;Endurance et Astuces martiales&quot;&gt;Endurance et Astuces martiales&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seuils-De-Blessure.html&quot; title=&quot;Seuils de blessure&quot;&gt;Seuils de blessure&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies-Et-Poisons-Unchained.html&quot; title=&quot;Maladies et poisons unchained&quot;&gt;Maladies et poisons unchained&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMagie&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Magie&#39;);&quot; onmouseout=&quot;outButton(&#39;Magie&#39;);&quot; onclick=&quot;expandMenu(&#39;Magie&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Unchained.html&quot; title=&quot;Magie unchained&quot;&gt;Magie unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Magie&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Simplifi&#233;e.html&quot; title=&quot;Incantation simplifi&#233;e&quot;&gt;Incantation simplifi&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alt&#233;rations-De-La-Magie.html&quot; title=&quot;Alt&#233;rations de la magie&quot;&gt;Alt&#233;rations de la magie&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Composantes-Mat&#233;rielles-&#201;sot&#233;riques.html&quot; title=&quot;Composantes mat&#233;rielles &#233;sot&#233;riques&quot;&gt;Composantes mat&#233;rielles &#233;sot&#233;riques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Progression-Automatique.html&quot; title=&quot;Bonus de progression automatique&quot;&gt;Bonus de progression automatique&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-Intrins&#232;ques-Des-Objets.html&quot; title=&quot;Bonus intrins&#232;ques des objets&quot;&gt;Bonus intrins&#232;ques des objets&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-&#201;volutifs.html&quot; title=&quot;Objets &#233;volutifs&quot;&gt;Objets &#233;volutifs&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dynamique-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation dynamique d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation dynamique d&#39;objets magiques&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMonstres&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Monstres&#39;);&quot; onmouseout=&quot;outButton(&#39;Monstres&#39;);&quot; onclick=&quot;expandMenu(&#39;Monstres&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e&quot;&gt;Cr&#233;ation de monstres simplifi&#233;e&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Monstres&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-1.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 1 : La gamme&quot;&gt;&#201;tape 1. La gamme&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-2.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 2 : La greffe de type de cr&#233;ature ou de classe&quot;&gt;&#201;tape 2. La greffe de type de cr&#233;ature ou de classe&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-3.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 3 : La greffe de sous-type&quot;&gt;&#201;tape 3. La greffe de sous-type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-4.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 4 : La greffe d&amp;#39;arch&#233;type&quot;&gt;&#201;tape 4. La greffe d’arch&#233;type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-5.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 5 : La greffe de taille&quot;&gt;&#201;tape 5. La greffe de taille&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-6.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 6&quot;&gt;&#201;tape 6. Les sorts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-7.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 7 : Les options de monstre&quot;&gt;&#201;tape 7. Les options de monstre&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-8.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 8&quot;&gt;&#201;tape 8. Les comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-9.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 9&quot;&gt;&#201;tape 9. Les d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-Exemple.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, Exemple&quot;&gt;Exemples de cr&#233;ation de monstres&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Pathfinder unchained (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Pathfinder unchained&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoPU.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Il y a des individus qui s’engagent sur une voie diff&#233;rente lorsqu’ils apprennent les arts magiques. Ils d&#233;passent les fronti&#232;res du monde et entrent en contact avec des plans recul&#233;s pour invoquer et plier toutes sortes de cr&#233;atures &#224; leur volont&#233;. Appel&#233;s conjurateurs, ces pratiquants de la magie nouent des liens &#233;troits avec des ext&#233;rieurs particuliers que l’on appelle eidolons et qui augmentent en puissance en m&#234;me temps que ceux qui les ont invoqu&#233;s. Les conjurateurs et leurs eidolons finissent par devenir tellement proches qu’ils partagent certains aspects de leur &#226;me.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Version unchained&lt;a class=&quot;headeranchor&quot; id=&quot;Version_unchained_16&quot; href=&quot;#Version_unchained_16&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; margin:8px 6px 0px 10px&quot;&gt;&lt;b&gt;&lt;i&gt;Voir aussi l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;eidolon&lt;/a&gt; du conjurateur unchained.&lt;/i&gt;&lt;/b&gt;  
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Du-Conjurateur-Unchained.html&quot; title=&quot;Liste des sorts de conjurateur unchained&quot;&gt;liste des sorts du conjurateur unchained&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;
+&lt;/div&gt;La plupart des aptitudes de classe du conjurateur sont les m&#234;mes que celles de la classe d’origine. Les changements les plus importants concernent l’eidolon. Le conjurateur unchained s&#233;lectionne un sous-type pour son eidolon (comme ange, d&#233;mon ou prot&#233;en). Ce sous-type d&#233;termine un certain nombre d’&#233;volutions et aide &#224; imaginer l’attitude et l’apparence g&#233;n&#233;rales de la cr&#233;ature. De plus, certaines &#233;volutions sont maintenant li&#233;es &#224; un ou plusieurs sous-types et aspects g&#233;n&#233;raux pour que l’apparence et les pouvoirs des eidolons correspondent mieux &#224; ceux des cr&#233;atures imit&#233;es. Enfin, la liste de sorts des conjurateurs a &#233;t&#233; presque enti&#232;rement r&#233;vis&#233;e et les &#233;l&#233;ments d&#233;s&#233;quilibr&#233;s ont &#233;t&#233; retir&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TABLECONJURATEUR&quot; href=&quot;#TABLECONJURATEUR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;Le conjurateur&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;					&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA	&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td COLSPAN=&quot;6&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1	&lt;/td&gt;&lt;td&gt;+0	&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2	 &lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;convocation de monstres I&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#EIDOLON&quot; title=&quot;Le conjurateur unchained&quot;&gt;eidolon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#TOURSDEMAGIE&quot; title=&quot;Le conjurateur unchained&quot;&gt;tours de magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#LIENVITAL&quot; title=&quot;Le conjurateur unchained&quot;&gt;lien vital&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-					&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0	&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#SENSLIES&quot; title=&quot;Le conjurateur unchained&quot;&gt;sens li&#233;s&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;convocation de monstres II&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4	&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#PROTECTIONDALLIE&quot; title=&quot;Le conjurateur unchained&quot;&gt;protection d’alli&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;convocation de monstres III&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#APPELDUCREATEUR&quot; title=&quot;Le conjurateur unchained&quot;&gt;appel du cr&#233;ateur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3	&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;convocation de monstres IV&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8	&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#TRANSPOSITION&quot; title=&quot;Le conjurateur unchained&quot;&gt;transposition&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9	&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;convocation de monstres V&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#ASPECT&quot; title=&quot;Le conjurateur unchained&quot;&gt;aspect&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;convocation de monstres VI&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#PROTECTIONDALLIESUPERIEURE&quot; title=&quot;Le conjurateur unchained&quot;&gt;protection d’alli&#233; sup&#233;rieure&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;convocation de monstres VII&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+10/+5	&lt;/td&gt;&lt;td&gt;+4	&lt;/td&gt;&lt;td&gt;+4	&lt;/td&gt;&lt;td&gt;+9	&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#VIESLIEES&quot; title=&quot;Le conjurateur unchained&quot;&gt;vies li&#233;es&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9	&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;convocation de monstres VIII&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16	&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5	&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10	&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#FUSIONDESFORMES&quot; title=&quot;Le conjurateur unchained&quot;&gt;fusion des formes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17	&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10	&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;convocation de monstres IX&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+13/+8/+3	&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#ASPECTSUPERIEUR&quot; title=&quot;Le conjurateur unchained&quot;&gt;aspect sup&#233;rieur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11	&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#CONVOCATIONDEMONSTRE&quot; title=&quot;Le conjurateur unchained&quot;&gt;portail&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;15/+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#EIDOLONJUMELE&quot; title=&quot;Le conjurateur unchained&quot;&gt;eidolon jumel&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; Tous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;s de vie.&lt;/b&gt; d8.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Argent de d&#233;part.&lt;/b&gt; 2d6 x 10 po (moyenne 70 po).&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Comp&#233;tences de classe&lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_17&quot; href=&quot;#Comp&#233;tences_de_classe_17&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+Les comp&#233;tences de classe du conjurateur sont les suivantes : &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (toutes) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;UOM&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; (Cha) et &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; (Dex).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Rangs de comp&#233;tence par niveau.&lt;/b&gt; 2 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Descriptif de la classe&lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_18&quot; href=&quot;#Descriptif_de_la_classe_18&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les aptitudes du conjurateur sont d&#233;crites ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le conjurateur est form&#233; au maniement de toutes les armes courantes et au port des armures l&#233;g&#232;res. Il peut lancer des sorts d’&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;invocation&lt;/a&gt; alors qu’il porte une armure l&#233;g&#232;re sans subir le risque d’&#233;chec habituel des sorts profanes. Comme tout autre lanceur de sorts profanes, s’il porte une armure interm&#233;diaire ou lourde ou s’il manie un bouclier, il y a un risque d’&#233;chec du sort si l’incantation de ce dernier comporte une composante gestuelle. Un conjurateur multiclass&#233; court les risques d’&#233;chec habituels pour les sorts profanes issus d’autres classes.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;caption&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TABLESORTSCONNUSCONJURATEUR&quot; href=&quot;#TABLESORTSCONNUSCONJURATEUR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;Sorts de conjurateurs connus&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td COLSPAN=&quot;7&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts connus&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Un conjurateur lance des sorts profanes issus de la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Du-Conjurateur-Unchained.html&quot; title=&quot;Liste des sorts de conjurateur unchained&quot;&gt;liste de sorts du conjurateur unchained&lt;/a&gt;. (La liste des sorts du conjurateur unchained est diff&#233;rente de celle du conjurateur). Il peut lancer tous les sorts de sa connaissance sans avoir besoin de les pr&#233;parer &#224; l’avance. &lt;br /&gt;&lt;br /&gt;Pour apprendre ou lancer un sort, le conjurateur doit avoir une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; au moins &#233;gale &#224; 10 + le niveau du sort. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; contre les sorts du conjurateur est &#233;gal &#224; 10 + le niveau du sort + le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; du conjurateur. &lt;br /&gt;&lt;br /&gt;Un conjurateur ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour. Ce nombre d’emplacements de sort quotidiens est donn&#233; dans la table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#TABLECONJURATEUR&quot; title=&quot;Le conjurateur unchained&quot;&gt;Le conjurateur&lt;/a&gt;&quot;. De plus, il re&#231;oit des sorts suppl&#233;mentaires quotidiens s’il poss&#232;de une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; &#233;lev&#233;e (voir la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#TABLEAUCARACTERISTIQUES&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;Modificateurs de caract&#233;ristique et sorts en bonus&lt;/a&gt;&quot;).&lt;br /&gt;&lt;br /&gt;L’&#233;ventail de sorts du conjurateur est limit&#233;. Un conjurateur commence le jeu en connaissant quatre sorts de niveau 0 et deux sorts de niveau 1 de son choix. Chaque fois qu’il gagne un niveau de conjurateur, il gagne &#233;galement un ou plusieurs sorts, comme indiqu&#233; dans la table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#TABLESORTSCONNUSCONJURATEUR&quot; title=&quot;Le conjurateur unchained&quot;&gt;Sorts de conjurateur connus&lt;/a&gt;&quot; (contrairement aux sorts quotidiens, le nombre de sorts que conna&#238;t le conjurateur ne d&#233;pend pas de son &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Les chiffres de la table sont fixes).&lt;br /&gt;&lt;br /&gt;Au niveau 5 et tous les 3 niveaux par la suite (aux niveaux 8, 11, etc.), le conjurateur peut apprendre un nouveau sort &#224; la place d’un autre qu’il conna&#238;t d&#233;j&#224;. Le conjurateur oublie l’ancien sort au profit du nouveau. Le niveau du nouveau sort doit &#234;tre identique &#224; celui du sort oubli&#233; et il ne peut s’agir d’un sort appartenant au plus haut niveau de sorts que le conjurateur peut lancer. Un conjurateur ne peut &#233;changer qu’un seul sort quand son niveau le lui permet et doit choisir s’il proc&#232;de &#224; cet &#233;change au moment o&#249; il apprend de nouveaux sorts lors de sa mont&#233;e de niveau.&lt;br /&gt;&lt;br /&gt;Un conjurateur n’a pas besoin de pr&#233;parer ses sorts &#224; l’avance. Il peut lancer n’importe quel sort de son r&#233;pertoire &#224; n’importe quel moment, pour autant qu’il n’ait pas d&#233;pens&#233; la totalit&#233; de son quota d’emplacements de sort de ce niveau pour la journ&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TOURSDEMAGIE&quot; href=&quot;#TOURSDEMAGIE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Tours de magie&lt;a class=&quot;headeranchor&quot; id=&quot;Tours_de_magie_2&quot; href=&quot;#Tours_de_magie_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le conjurateur conna&#238;t un certain nombre de tours de magie, ou sorts de niveau 0, comme indiqu&#233; dans la table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#TABLESORTSCONNUSCONJURATEUR&quot; title=&quot;Le conjurateur unchained&quot;&gt;Sorts de conjurateur connus&lt;/a&gt;&quot;. Ces sorts se lancent de la m&#234;me mani&#232;re que les autres mais ils ne n&#233;cessitent aucun emplacement de sort et peuvent &#234;tre utilis&#233;s de mani&#232;re illimit&#233;e. Les tours de magie pr&#233;par&#233;s en utilisant d’autres emplacements de sort (gr&#226;ce aux &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONMETAMAGIE&quot; title=&quot;Les dons&quot;&gt;dons de m&#233;tamagie&lt;/a&gt;, par exemple) d&#233;pensent ces emplacements comme &#224; l’accoutum&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CONVOCATIONDEMONSTRE&quot; href=&quot;#CONVOCATIONDEMONSTRE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Convocation de monstres I (Mag)&lt;a class=&quot;headeranchor&quot; id=&quot;Convocation_de_monstres_I_Mag_3&quot; href=&quot;#Convocation_de_monstres_I_Mag_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Chaque jour, &#224; partir du niveau 1, un conjurateur peut lancer &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-I.html&quot; title=&quot;Convocation de monstres I&quot;&gt;convocation de monstres I&lt;/a&gt;&lt;/i&gt; comme un &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-Sp&#233;ciaux.html&quot; title=&quot;pouvoirs magiques&quot;&gt;pouvoir magique&lt;/a&gt; un nombre fois &#233;gal &#224; 3 + son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Pour utiliser ce pouvoir, le conjurateur doit puiser dans la m&#234;me puissance que celle qui lui permet de convoquer son &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#EIDOLON&quot; title=&quot;Le conjurateur unchained&quot;&gt;eidolon&lt;/a&gt;. Par cons&#233;quent, il ne peut pas se servir de ce pouvoir si son eidolon est &#224; ses c&#244;t&#233;s. Il utilise ce pouvoir magique par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; et les cr&#233;atures convoqu&#233;es apparaissent pendant une minute par niveau (au lieu d’un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; par niveau avec le sort). Au niveau 3 et tous les 2 niveaux par la suite, la force de ce pouvoir augmente d’un niveau de sort, ce qui permet au conjurateur de convoquer des cr&#233;atures plus puissantes (avec, au maximum, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Ix.html&quot; title=&quot;Convocation de monstres IX&quot;&gt;convocation de monstres IX&lt;/a&gt;&lt;/i&gt; au niveau 17). Au niveau 19, le conjurateur peut utiliser ce pouvoir magique pour lancer &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Ix.html&quot; title=&quot;Convocation de monstres IX&quot;&gt;convocation de monstres IX&lt;/a&gt;&lt;/i&gt; ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Portail.html&quot; title=&quot;Portail&quot;&gt;portail&lt;/a&gt;&lt;/i&gt;. S’il choisit cette derni&#232;re option, il doit se procurer les composantes mat&#233;rielles n&#233;cessaires. Il ne peut pas avoir plus d’un sort de &lt;i&gt;convocation de monstres&lt;/i&gt; ou de &lt;i&gt;portail&lt;/i&gt; actif en m&#234;me temps. S’il en utilise un &#224; nouveau, le &lt;i&gt;portail&lt;/i&gt; ou la &lt;i&gt;convocation de monstres&lt;/i&gt; pr&#233;c&#233;demment issu de ce pouvoir magique prend fin imm&#233;diatement. En ce qui concerne l’utilisation des &lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html#OBJETSAPOTENTIELMAGIQUE&quot; title=&quot;R&#232;gles relatives aux objets magiques&quot;&gt;objets &#224; potentiel magique&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html#OBJETSAFINDINCANTATION&quot; title=&quot;R&#232;gles relatives aux objets magiques&quot;&gt;&#224; fin d’incantation&lt;/a&gt;, ces sorts de convocation sont consid&#233;r&#233;s comme appartenant &#224; la liste des sorts du conjurateur. De plus, il peut utiliser ce pouvoir magique pour remplir toute condition impos&#233;e par la &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets magiques&quot;&gt;cr&#233;ation d’objets magiques&lt;/a&gt;, tant qu’il est en mesure d’utiliser son pouvoir pour lancer le sort requis.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;EIDOLON&quot; href=&quot;#EIDOLON&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Eidolon&lt;a class=&quot;headeranchor&quot; id=&quot;Eidolon_4&quot; href=&quot;#Eidolon_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;D&#232;s le d&#233;but du jeu, le conjurateur est capable d’invoquer un puissant ext&#233;rieur appel&#233; un eidolon. Ce dernier forge un lien avec son conjurateur qui, par la suite, invoquera toujours un aspect de cette m&#234;me cr&#233;ature. Chaque eidolon poss&#232;de un sous-type, choisi lors de sa premi&#232;re invocation, qui d&#233;termine son origine et nombre de ses pouvoirs. L’alignement d’un eidolon ne doit pas s’&#233;carter de plus d’une cat&#233;gorie de celui du conjurateur qui l’appelle (ainsi, un conjurateur Neutre Bon peut appeler un eidolon Neutre, Loyal Bon ou Chaotique Bon). L’eidolon parle toutes les langues pratiqu&#233;es par son conjurateur. Un eidolon est consid&#233;r&#233; comme une cr&#233;ature convoqu&#233;e, mais il retourne vers son plan d’origine seulement lorsque son nombre actuel de points de vie atteint une valeur n&#233;gative &#233;gale ou inf&#233;rieure &#224; sa valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;. De plus, gr&#226;ce &#224; son lien avec le conjurateur, l’eidolon peut toucher et attaquer des cr&#233;atures prot&#233;g&#233;es par une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Mal.html&quot; title=&quot;Protection contre le Mal&quot;&gt;protection contre le Mal&lt;/a&gt;&lt;/i&gt; et autres effets similaires qui emp&#234;chent normalement tout contact avec des cr&#233;atures convoqu&#233;es.&lt;br /&gt;&lt;br /&gt;Un conjurateur peut convoquer son eidolon &#224; l’aide d’un rituel d’une minute. Quand l’eidolon est convoqu&#233; de cette fa&#231;on, son total actuel de points de vie est le m&#234;me que celui qu’il avait la derni&#232;re fois qu’il a &#233;t&#233; convoqu&#233;. Par contre, s’il s’est fait tuer, il revient avec la moiti&#233; de ses points de vie. Un eidolon ne gu&#233;rit pas naturellement. Il reste aupr&#232;s de son conjurateur jusqu’&#224; ce que celui-ci le renvoie (par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;). Si l’eidolon retourne vers son plan d’origine parce qu’il s’est fait tuer, il est impossible de le convoquer avant le lendemain. Il est impossible de renvoyer un eidolon vers son plan d’origine avec une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;&lt;/i&gt; mais les sorts comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Renvoi.html&quot; title=&quot;Renvoi&quot;&gt;renvoi&lt;/a&gt;&lt;/i&gt; et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bannissement.html&quot; title=&quot;Bannissement&quot;&gt;bannissement&lt;/a&gt;&lt;/i&gt; fonctionnent normalement. L’eidolon est automatiquement banni si le conjurateur tombe inconscient, s’endort ou meurt.&lt;br /&gt;&lt;br /&gt;L’apparence de l’eidolon d&#233;pend des souhaits de son conjurateur. Ses DV, ses jets de sauvegarde, ses comp&#233;tences, ses dons et ses pouvoirs d&#233;pendent du niveau de classe du conjurateur et s’am&#233;liorent au fur et &#224; mesure qu’il prend des niveaux. De plus, chaque eidolon poss&#232;de une r&#233;serve de points d’&#233;volution bas&#233;e sur le niveau de classe de son conjurateur. Elle lui permet d’acqu&#233;rir divers pouvoirs et capacit&#233;s. Le conjurateur choisit comment d&#233;penser ces points quand il gagne un niveau et cela ne change plus jusqu’&#224; sa prochaine mont&#233;e de niveau.&lt;br /&gt;&lt;br /&gt;C’est au conjurateur de d&#233;cider de l’apparence physique de son eidolon, mais ce dernier ressemble toujours &#224; une cr&#233;ature fantastique de son sous-type. Le contr&#244;le exerc&#233; par le conjurateur n’est cependant pas assez pr&#233;cis pour lui donner l’apparence d’une cr&#233;ature particuli&#232;re. L’eidolon porte une rune luisante identique &#224; celle qui appara&#238;t sur le front du conjurateur tant que l’eidolon est aupr&#232;s de lui. Le personnage peut cacher cette rune par des m&#233;thodes ordinaires mais pas en utilisant une magie qui modifie l’aspect comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d’apparence&lt;/a&gt;&lt;/i&gt; ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt; (mais l’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt; la dissimule pendant toute la dur&#233;e de ce sort).&lt;br /&gt;&lt;br /&gt;Voir les caract&#233;ristiques de l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;eidolon du conjurateur unchained&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;LIENVITAL&quot; href=&quot;#LIENVITAL&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Lien vital (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Lien_vital_Sur_5&quot; href=&quot;#Lien_vital_Sur_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; partir du niveau 1, le conjurateur tisse un lien &#233;troit avec son eidolon. &#192; chaque fois que l’eidolon subit assez de d&#233;g&#226;ts pour l’obliger &#224; retourner dans son plan d’origine, le conjurateur peut sacrifier autant de points de vie qu’il le d&#233;sire sans m&#234;me effectuer d’action. Chaque point de vie sacrifi&#233; de la sorte &#233;pargne 1 point de d&#233;g&#226;ts &#224; l’eidolon, ce qui peut lui &#233;viter de retourner dans son plan d’origine. En revanche l’eidolon et son conjurateur doivent rester &#224; 30 m&#232;tres ou moins l’un de l’autre, sans quoi l’eidolon ne dispose plus de toute sa puissance. Si l’eidolon est &#224; plus de 30 m&#232;tres de son conjurateur mais &#224; moins de 300, ses totaux de points de vie actuels et maximum sont r&#233;duits de 50%. Si l’eidolon se trouve &#224; plus de 300 m&#232;tres de son conjurateur mais &#224; moins de 3 kilom&#232;tres, ces totaux sont r&#233;duits de 75%. Si l’eidolon d&#233;passe cette distance de 3 kilom&#232;tres, il retourne imm&#233;diatement vers son plan d’origine. Les points de vie actuels de l’eidolon ne remontent pas quand il se rapproche de son conjurateur, mais son total maximum remonte en fonction des paliers de distance indiqu&#233;s ci-dessus, jusqu’&#224; revenir &#224; la normale.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SENSLIES&quot; href=&quot;#SENSLIES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sens li&#233;s (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Sens_li&#233;s_Sur_6&quot; href=&quot;#Sens_li&#233;s_Sur_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; partir du niveau 2, un conjurateur peut, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, partager les sens de son eidolon. Il entend, voit, sent, go&#251;te et touche les m&#234;mes choses que lui. Il peut utiliser cette aptitude un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; par jour &#233;gal &#224; son niveau de conjurateur. Cet effet n’a pas de limite de port&#233;e mais l’eidolon et le conjurateur doivent se trouver sur le m&#234;me plan. Le conjurateur peut mettre un terme &#224; cette aptitude par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;PROTECTIONDALLIE&quot; href=&quot;#PROTECTIONDALLIE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Protection d’alli&#233; (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Protection_d’alli&#233;_Ext_7&quot; href=&quot;#Protection_d’alli&#233;_Ext_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 4, quand le conjurateur se trouve &#224; port&#233;e d’allonge de son eidolon, il b&#233;n&#233;ficie d’un bonus de
+bouclier de +2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;classe d’armure&lt;/a&gt; et d’un bonus de circonstances de +2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt;. Ce bonus ne s’applique pas si l’eidolon est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Agripp&#233;.html&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Sansd&#233;fense.html&quot; title=&quot;Sans d&#233;fense&quot;&gt;sans d&#233;fense&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Paralys&#233;.html&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;tourdi.html&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdi&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Inconscient.html&quot; title=&quot;Inconscient&quot;&gt;inconscient&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;APPELDUCREATEUR&quot; href=&quot;#APPELDUCREATEUR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Appel du cr&#233;ateur (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Appel_du_cr&#233;ateur_Sur_8&quot; href=&quot;#Appel_du_cr&#233;ateur_Sur_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 6, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le conjurateur peut appeler son eidolon &#224; ses c&#244;t&#233;s. Cette aptitude fonctionne comme une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;&lt;/i&gt; qui applique le &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; du conjurateur. L’eidolon appara&#238;t alors dans une case adjacente au conjurateur (ou aussi pr&#232;s que possible si toutes les cases adjacentes sont occup&#233;es). Si l’eidolon est hors de port&#233;e de cette aptitude, celle-ci est g&#226;ch&#233;e. Le conjurateur peut utiliser cette aptitude une fois par jour au niveau 6 et une fois de plus par jour toutes les 4 niveaux par la suite.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TRANSPOSITION&quot; href=&quot;#TRANSPOSITION&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Transposition (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Transposition_Sur_9&quot; href=&quot;#Transposition_Sur_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 8, le conjurateur peut utiliser l’aptitude &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#APPELDUCREATEUR&quot; title=&quot;Le conjurateur unchained&quot;&gt;appel du cr&#233;ateur&lt;/a&gt; pour changer de place avec son eidolon. Si l’eidolon occupe plus d’espace que le conjurateur, ce dernier peut appara&#238;tre dans n’importe quelle case pr&#233;c&#233;demment occup&#233;e par l’eidolon. L’eidolon doit occuper la case o&#249; se trouvait le conjurateur ou la case la plus proche possible s’il ne peut pas.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ASPECT&quot; href=&quot;#ASPECT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Aspect (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Aspect_Sur_10&quot; href=&quot;#Aspect_Sur_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 10, le conjurateur peut pr&#233;lever jusqu’&#224; deux points de la r&#233;serve d’&#233;volution de son eidolon pour en b&#233;n&#233;ficier lui-m&#234;me. Il ne peut pas choisir les &#233;volutions inaccessibles &#224; son eidolon et il doit &#233;galement remplir leurs conditions requises (sauf pour les conditions li&#233;es au sous-type tant que son eidolon les satisfait). Il ne peut pas choisir l’&#233;volution &lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#AUGMENTATIONDECARACTERISTIQUE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;augmentation de caract&#233;ristique&lt;/a&gt; gr&#226;ce &#224; cette aptitude. Tout point ainsi d&#233;pens&#233; est soustrait de la r&#233;serve de points d’&#233;volution de l’eidolon (et r&#233;duit donc le nombre de points auxquels il a acc&#232;s). Le conjurateur peut changer les &#233;volutions conf&#233;r&#233;es par ces points &#224; chaque fois qu’il a la possibilit&#233; de changer les &#233;volutions de son eidolon.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;PROTECTIONDALLIESUPERIEURE&quot; href=&quot;#PROTECTIONDALLIESUPERIEURE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Protection d’alli&#233; sup&#233;rieure (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Protection_d’alli&#233;_sup&#233;rieure_Sur_11&quot; href=&quot;#Protection_d’alli&#233;_sup&#233;rieure_Sur_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 12, quand un alli&#233; se trouve &#224; port&#233;e d’allonge de son eidolon, celui-ci b&#233;n&#233;ficie d’un bonus de bouclier de +2 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;classe d’armure&lt;/a&gt; et d’un bonus de circonstance de +2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt;. Si l’alli&#233; est le conjurateur, ces bonus s’&#233;l&#232;vent &#224; +4. Ces bonus ne s’appliquent pas si l’eidolon est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Agripp&#233;.html&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Sansd&#233;fense.html&quot; title=&quot;Sans d&#233;fense&quot;&gt;sans d&#233;fense&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Paralys&#233;.html&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;tourdi.html&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdi&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Inconscient.html&quot; title=&quot;Inconscient&quot;&gt;inconscient&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;VIESLIEES&quot; href=&quot;#VIESLIEES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Vies li&#233;es (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Vies_li&#233;es_Sur_12&quot; href=&quot;#Vies_li&#233;es_Sur_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 14, la vie du conjurateur se lie &#224; celle de son eidolon. Tant qu’il reste 1 point de vie ou plus &#224; ce dernier, il est impossible de tuer le conjurateur. Une fois le conjurateur &#224; 0 point de vie, les d&#233;g&#226;ts suppl&#233;mentaires sont transf&#233;r&#233;s &#224; son eidolon. Ils se transmettent 1 point par 1 point, ce qui veut dire que, d&#232;s que le nombre de points de vie de l’eidolon d&#233;passe, en n&#233;gatif, sa valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;, tous les d&#233;g&#226;ts en exc&#232;s sont appliqu&#233;s au conjurateur. Cette aptitude n’affecte pas les effets qui provoquent la mort sans infliger de d&#233;g&#226;ts. Elle n’affecte pas non plus les sorts comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose-Funeste.html&quot; title=&quot;M&#233;tamorphose funeste&quot;&gt;m&#233;tamorphose funeste&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;P&#233;trification.html&quot; title=&quot;P&#233;trification&quot;&gt;p&#233;trification&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Emprisonnement.html&quot; title=&quot;Emprisonnement&quot;&gt;emprisonnement&lt;/a&gt;&lt;/i&gt; ou autres sorts qui n’infligent pas de d&#233;g&#226;ts.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;FUSIONDESFORMES&quot; href=&quot;#FUSIONDESFORMES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Fusion des formes (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Fusion_des_formes_Sur_13&quot; href=&quot;#Fusion_des_formes_Sur_13&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 16, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, le conjurateur peut toucher son eidolon afin de fusionner avec. Cette
+transformation absorbe tout l’&#233;quipement du conjurateur. Une fois fondu dans son eidolon, le conjurateur est prot&#233;g&#233; contre tout d&#233;g&#226;t et il est impossible de le prendre pour cible avec un sort ou un effet. Tous les sorts et effets en cours d’effet sur le conjurateur sont suspendus jusqu’&#224; la fin de la fusion (mais leur dur&#233;e continue de s’&#233;couler et ils peuvent expirer).&lt;br /&gt;&lt;br /&gt;Le conjurateur peut lancer des sorts depuis l’int&#233;rieur de son eidolon en prenant son contr&#244;le pour la dur&#233;e de l’incantation. Les composantes mat&#233;rielles sont soustraites de l’&#233;quipement du conjurateur, m&#234;me si elles sont autrement inaccessibles. Tant que le conjurateur fusionne avec son eidolon, il peut diriger toutes ses actions, utiliser ses sens et parler par sa bouche. Chaque jour, le conjurateur peut utiliser cette aptitude un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; &#233;gal &#224; son niveau de conjurateur. Il peut mettre un terme &#224; l’effet par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt; et &#233;merge alors dans une case adjacente &#224; l’eidolon, si possible. Si l’eidolon est renvoy&#233; sur son plan d’origine alors qu’il fusionne avec le conjurateur, ce dernier est imm&#233;diatement &#233;ject&#233;, subit 4d6 points de d&#233;g&#226;ts et se retrouve &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;tourdi.html&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdi&lt;/a&gt; pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ASPECTSUPERIEUR&quot; href=&quot;#ASPECTSUPERIEUR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Aspect sup&#233;rieur (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Aspect_sup&#233;rieur_Sur_14&quot; href=&quot;#Aspect_sup&#233;rieur_Sur_14&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 18, le conjurateur peut s’arroger une plus grande part des points d’&#233;volution de son eidolon. Cette aptitude fonctionne comme celle d’&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html#ASPECT&quot; title=&quot;Le conjurateur unchained&quot;&gt;aspect&lt;/a&gt; mais permet de s’approprier jusqu’&#224; 6 points d’&#233;volution au maximum. De plus, l’eidolon perd 1 point de sa r&#233;serve d’&#233;volution pour 2 points (ou fraction) attribu&#233;s au conjurateur au lieu de perdre 1 point pour chaque 1 point transmis au conjurateur.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;EIDOLONJUMELE&quot; href=&quot;#EIDOLONJUMELE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Eidolon jumel&#233; (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Eidolon_jumel&#233;_Sur_15&quot; href=&quot;#Eidolon_jumel&#233;_Sur_15&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 20, le conjurateur et son eidolon partagent un v&#233;ritable lien. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le conjurateur peut prendre la forme de son eidolon et reproduire la totalit&#233; de ses &#233;volutions, de sa forme et de ses pouvoirs. Ses valeurs de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;, de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; changent pour &#233;galer celles de l’eidolon. Il peut choisir de fusionner tout son &#233;quipement dans sa nouvelle forme, comme avec un sort du registre de la &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;m&#233;tamorphose&lt;/a&gt;. Les objets &#224; effet continu continuent de fonctionner quand ils sont absorb&#233;s de la sorte. Le conjurateur perd ses attaques naturelles et tous ses traits raciaux (sauf les dons suppl&#233;mentaires, les comp&#233;tences et les langues connues) en faveur des pouvoirs conf&#233;r&#233;s par les &#233;volutions de l’eidolon. Il conserve toutes ses aptitudes de classe. Chaque jour, le conjurateur peut conserver cette forme un nombre de minutes &#233;gal &#224; son niveau de conjurateur. Cette dur&#233;e n’est pas forc&#233;ment cons&#233;cutive mais doit se d&#233;couper en fractions d’une minute au minimum. Le conjurateur peut y mettre un terme par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:MenuPathfinderunchained}{s:PU}''Il y a des individus qui s’engagent sur une voie différente lorsqu’ils apprennent les arts magiques. Ils dépassent les frontières du monde et entrent en contact avec des plans reculés pour invoquer et plier toutes sortes de créatures à leur volonté. Appelés conjurateurs, ces pratiquants de la magie nouent des liens étroits avec des extérieurs particuliers que l’on appelle eidolons et qui augmentent en puissance en même temps que ceux qui les ont invoqués. Les conjurateurs et leurs eidolons finissent par devenir tellement proches qu’ils partagent certains aspects de leur âme.''
+
+===Version unchained===
+<div style="float:right; margin:8px 6px 0px 10px">'''''Voir aussi l'[[eidolon unchained|eidolon]] du conjurateur unchained.'''''  
+'''''Voir aussi la [[Liste des sorts du conjurateur unchained|liste des sorts du conjurateur unchained]].'''''
+</div>La plupart des aptitudes de classe du conjurateur sont les mêmes que celles de la classe d’origine. Les changements les plus importants concernent l’eidolon. Le conjurateur unchained sélectionne un sous-type pour son eidolon (comme ange, démon ou protéen). Ce sous-type détermine un certain nombre d’évolutions et aide à imaginer l’attitude et l’apparence générales de la créature. De plus, certaines évolutions sont maintenant liées à un ou plusieurs sous-types et aspects généraux pour que l’apparence et les pouvoirs des eidolons correspondent mieux à ceux des créatures imitées. Enfin, la liste de sorts des conjurateurs a été presque entièrement révisée et les éléments déséquilibrés ont été retirés.
+
+<center>
+{| CLASS="tablo autoalt"
+|+ {s:Reference|TABLECONJURATEUR}Le conjurateur
+|- CLASS="titre"					
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA	
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" | Spécial
+| COLSPAN="6" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+|- CLASS="premier"
+| 1	
+| +0	
+| +0
+| +0
+| +2	 
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|convocation de monstres I]], [[Conjurateur unchained#EIDOLON|eidolon]], [[Conjurateur unchained#TOURSDEMAGIE|tours de magie]], [[Conjurateur unchained#LIENVITAL|lien vital]]
+| 1
+| -
+| -
+| -
+| -
+| -					
+|-
+| 2
+| +1
+| +0	
+| +0
+| +3
+| CLASS="gauche" | [[Conjurateur unchained#SENSLIES|sens liés]]
+| 2
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +1
+| +1
+| +3
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|convocation de monstres II]]
+| 3
+| -
+| -
+| -
+| -
+| -
+|-
+| 4	
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" | [[Conjurateur unchained#PROTECTIONDALLIE|protection d’allié]]
+| 3
+| 1
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|convocation de monstres III]]
+| 4
+| 2
+| -
+| -
+| -
+| -
+|-
+| 6
+| +4
+| +2
+| +2
+| +5
+| CLASS="gauche" | [[Conjurateur unchained#APPELDUCREATEUR|appel du créateur]]
+| 4
+| 3	
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +2
+| +2
+| +5
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|convocation de monstres IV]]
+| 4
+| 3
+| 1
+| -
+| -
+| -
+|-
+| 8	
+| +6/+1
+| +2
+| +2
+| +6
+| CLASS="gauche" | [[Conjurateur unchained#TRANSPOSITION|transposition]]
+| 4
+| 4
+| 2
+| -
+| -
+| -
+|-
+| 9	
+| +6/+1
+| +3
+| +3
+| +6
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|convocation de monstres V]]
+| 5
+| 4
+| 3
+| -
+| -
+| -
+|-
+| 10
+| +7/+2
+| +3
+| +3
+| +7
+| CLASS="gauche" | [[Conjurateur unchained#ASPECT|aspect]]
+| 5
+| 4
+| 3
+| 1
+| -
+| -
+|-
+| 11
+| +8/+3
+| +3
+| +3
+| +7
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|convocation de monstres VI]]
+| 5
+| 4
+| 4
+| 2
+| -
+| -
+|-
+| 12
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" | [[Conjurateur unchained#PROTECTIONDALLIESUPERIEURE|protection d’allié supérieure]]
+| 5
+| 5
+| 4
+| 3
+| -
+| -
+|-
+| 13
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|convocation de monstres VII]]
+| 5
+| 5
+| 4
+| 3
+| 1
+| -
+|-
+| 14
+| +10/+5	
+| +4	
+| +4	
+| +9	
+| CLASS="gauche" | [[Conjurateur unchained#VIESLIEES|vies liées]]
+| 5
+| 5
+| 4
+| 4
+| 2
+| -
+|-
+| 15
+| +11/+6/+1
+| +5
+| +5
+| +9	
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|convocation de monstres VIII]]
+| 5
+| 5
+| 5
+| 4
+| 3
+| -
+|-
+| 16	
+| +12/+7/+2
+| +5	
+| +5
+| +10	
+| CLASS="gauche" | [[Conjurateur unchained#FUSIONDESFORMES|fusion des formes]]
+| 5
+| 5
+| 5
+| 4
+| 3
+| 1
+|-
+| 17	
+| +12/+7/+2
+| +5
+| +5
+| +10	
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|convocation de monstres IX]]
+| 5
+| 5
+| 5
+| 4
+| 4
+| 2
+|-
+| 18
+| +13/+8/+3	
+| +6
+| +6
+| +11
+| CLASS="gauche" | [[Conjurateur unchained#ASPECTSUPERIEUR|aspect supérieur]]
+| 5
+| 5
+| 5
+| 5
+| 4
+| 3
+|-
+| 19
+| +14/+9/+4
+| +6
+| +6
+| +11	
+| CLASS="gauche" | [[Conjurateur unchained#CONVOCATIONDEMONSTRE|portail]]
+| 5
+| 5
+| 5
+| 5
+| 5
+| 4
+|-
+| 20
+| 15/+10/+5
+| +6
+| +6
+| +12
+| CLASS="gauche" | [[Conjurateur unchained#EIDOLONJUMELE|eidolon jumelé]]
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+|}
+</center>
+
+'''Alignement.''' Tous.
+
+'''Dés de vie.''' d8.
+
+'''Argent de départ.''' 2d6 x 10 po (moyenne 70 po).
+
+===Compétences de classe===
+
+Les compétences de classe du conjurateur sont les suivantes : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Dressage]] (Cha), [[Connaissances]] (toutes) (Int), [[Linguistique]] (Int), [[Profession]] (Sag), [[Équitation]] (Dex), [[UOM|Utilisation d’objets magiques]] (Cha) et [[Vol]] (Dex).
+
+'''Rangs de compétence par niveau.''' 2 + modificateur d’[[Intelligence]]
+
+===Descriptif de la classe===
+Les aptitudes du conjurateur sont décrites ci-dessous.
+
+====Armes et armures====
+Le conjurateur est formé au maniement de toutes les armes courantes et au port des armures légères. Il peut lancer des sorts d’[[invocation]] alors qu’il porte une armure légère sans subir le risque d’échec habituel des sorts profanes. Comme tout autre lanceur de sorts profanes, s’il porte une armure intermédiaire ou lourde ou s’il manie un bouclier, il y a un risque d’échec du sort si l’incantation de ce dernier comporte une composante gestuelle. Un conjurateur multiclassé court les risques d’échec habituels pour les sorts profanes issus d’autres classes.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|+ {s:Reference|TABLESORTSCONNUSCONJURATEUR}Sorts de conjurateurs connus
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="7" CLASS="avecsoustitre" | Sorts connus
+|- CLASS="soustitre"
+| 0
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+|- CLASS="premier"
+| 1
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| 6
+| 4
+| 2
+| -
+| -
+| -
+| -
+|-
+| 5
+| 6
+| 4
+| 3
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| 6
+| 4
+| 4
+| -
+| -
+| -
+| -
+|-
+| 7
+| 6
+| 5
+| 4
+| 2
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| 6
+| 5
+| 4
+| 3
+| -
+| -
+| -
+|-
+| 9
+| 6
+| 5
+| 4
+| 4
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| 6
+| 5
+| 5
+| 4
+| 2
+| -
+| -
+|-
+| 11
+| 6
+| 6
+| 5
+| 4
+| 3
+| -
+| -
+|- CLASS="alt"
+| 12
+| 6
+| 6
+| 5
+| 4
+| 4
+| -
+| -
+|-
+| 13
+| 6
+| 6
+| 5
+| 5
+| 4
+| 2
+| -
+|- CLASS="alt"
+| 14
+| 6
+| 6
+| 6
+| 5
+| 4
+| 3
+| -
+|-
+| 15
+| 6
+| 6
+| 6
+| 5
+| 4
+| 4
+| -
+|- CLASS="alt"
+| 16
+| 6
+| 6
+| 6
+| 5
+| 5
+| 4
+| 2
+|-
+| 17
+| 6
+| 6
+| 6
+| 6
+| 5
+| 4
+| 3
+|- CLASS="alt"
+| 18
+| 6
+| 6
+| 6
+| 6
+| 5
+| 4
+| 4
+|-
+| 19
+| 6
+| 6
+| 6
+| 6
+| 5
+| 5
+| 4
+|- CLASS="alt"
+| 20
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 5
+|}
+</center></div></div>
+====Sorts====
+Un conjurateur lance des sorts profanes issus de la [[Liste des sorts du conjurateur unchained|liste de sorts du conjurateur unchained]]. (La liste des sorts du conjurateur unchained est différente de celle du conjurateur). Il peut lancer tous les sorts de sa connaissance sans avoir besoin de les préparer à l’avance. 
+
+Pour apprendre ou lancer un sort, le conjurateur doit avoir une valeur de [[Charisme]] au moins égale à 10 + le niveau du sort. Le [[DD]] du [[jds|jet de sauvegarde]] contre les sorts du conjurateur est égal à 10 + le niveau du sort + le modificateur de [[Charisme]] du conjurateur. 
+
+Un conjurateur ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour. Ce nombre d’emplacements de sort quotidiens est donné dans la table "[[Conjurateur unchained#TABLECONJURATEUR|Le conjurateur]]". De plus, il reçoit des sorts supplémentaires quotidiens s’il possède une valeur de [[Charisme]] élevée (voir la Table "[[caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
+
+L’éventail de sorts du conjurateur est limité. Un conjurateur commence le jeu en connaissant quatre sorts de niveau 0 et deux sorts de niveau 1 de son choix. Chaque fois qu’il gagne un niveau de conjurateur, il gagne également un ou plusieurs sorts, comme indiqué dans la table "[[Conjurateur unchained#TABLESORTSCONNUSCONJURATEUR|Sorts de conjurateur connus]]" (contrairement aux sorts quotidiens, le nombre de sorts que connaît le conjurateur ne dépend pas de son [[Charisme]]. Les chiffres de la table sont fixes).
+
+Au niveau 5 et tous les 3 niveaux par la suite (aux niveaux 8, 11, etc.), le conjurateur peut apprendre un nouveau sort à la place d’un autre qu’il connaît déjà. Le conjurateur oublie l’ancien sort au profit du nouveau. Le niveau du nouveau sort doit être identique à celui du sort oublié et il ne peut s’agir d’un sort appartenant au plus haut niveau de sorts que le conjurateur peut lancer. Un conjurateur ne peut échanger qu’un seul sort quand son niveau le lui permet et doit choisir s’il procède à cet échange au moment où il apprend de nouveaux sorts lors de sa montée de niveau.
+
+Un conjurateur n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire à n’importe quel moment, pour autant qu’il n’ait pas dépensé la totalité de son quota d’emplacements de sort de ce niveau pour la journée.
+
+{s:Reference|TOURSDEMAGIE}
+====Tours de magie====
+Le conjurateur connaît un certain nombre de tours de magie, ou sorts de niveau 0, comme indiqué dans la table "[[Conjurateur unchained#TABLESORTSCONNUSCONJURATEUR|Sorts de conjurateur connus]]". Ces sorts se lancent de la même manière que les autres mais ils ne nécessitent aucun emplacement de sort et peuvent être utilisés de manière illimitée. Les tours de magie préparés en utilisant d’autres emplacements de sort (grâce aux [[Dons#DONMETAMAGIE|dons de métamagie]], par exemple) dépensent ces emplacements comme à l’accoutumée.
+
+{s:Reference|CONVOCATIONDEMONSTRE}
+====Convocation de monstres I (Mag)====
+Chaque jour, à partir du niveau 1, un conjurateur peut lancer ''[[convocation de monstres I]]'' comme un [[pouvoirs magiques|pouvoir magique]] un nombre fois égal à 3 + son modificateur de [[Charisme]]. Pour utiliser ce pouvoir, le conjurateur doit puiser dans la même puissance que celle qui lui permet de convoquer son [[Conjurateur unchained#EIDOLON|eidolon]]. Par conséquent, il ne peut pas se servir de ce pouvoir si son eidolon est à ses côtés. Il utilise ce pouvoir magique par une [[action simple]] et les créatures convoquées apparaissent pendant une minute par niveau (au lieu d’un [[round]] par niveau avec le sort). Au niveau 3 et tous les 2 niveaux par la suite, la force de ce pouvoir augmente d’un niveau de sort, ce qui permet au conjurateur de convoquer des créatures plus puissantes (avec, au maximum, ''[[convocation de monstres IX]]'' au niveau 17). Au niveau 19, le conjurateur peut utiliser ce pouvoir magique pour lancer ''[[convocation de monstres IX]]'' ou ''[[portail]]''. S’il choisit cette dernière option, il doit se procurer les composantes matérielles nécessaires. Il ne peut pas avoir plus d’un sort de ''convocation de monstres'' ou de ''portail'' actif en même temps. S’il en utilise un à nouveau, le ''portail'' ou la ''convocation de monstres'' précédemment issu de ce pouvoir magique prend fin immédiatement. En ce qui concerne l’utilisation des [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|objets à potentiel magique]] et [[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|à fin d’incantation]], ces sorts de convocation sont considérés comme appartenant à la liste des sorts du conjurateur. De plus, il peut utiliser ce pouvoir magique pour remplir toute condition imposée par la [[Création dobjets magiques|création d’objets magiques]], tant qu’il est en mesure d’utiliser son pouvoir pour lancer le sort requis.
+
+{s:Reference|EIDOLON}
+====Eidolon====
+Dès le début du jeu, le conjurateur est capable d’invoquer un puissant extérieur appelé un eidolon. Ce dernier forge un lien avec son conjurateur qui, par la suite, invoquera toujours un aspect de cette même créature. Chaque eidolon possède un sous-type, choisi lors de sa première invocation, qui détermine son origine et nombre de ses pouvoirs. L’alignement d’un eidolon ne doit pas s’écarter de plus d’une catégorie de celui du conjurateur qui l’appelle (ainsi, un conjurateur Neutre Bon peut appeler un eidolon Neutre, Loyal Bon ou Chaotique Bon). L’eidolon parle toutes les langues pratiquées par son conjurateur. Un eidolon est considéré comme une créature convoquée, mais il retourne vers son plan d’origine seulement lorsque son nombre actuel de points de vie atteint une valeur négative égale ou inférieure à sa valeur de [[Constitution]]. De plus, grâce à son lien avec le conjurateur, l’eidolon peut toucher et attaquer des créatures protégées par une ''[[protection contre le Mal]]'' et autres effets similaires qui empêchent normalement tout contact avec des créatures convoquées.
+
+Un conjurateur peut convoquer son eidolon à l’aide d’un rituel d’une minute. Quand l’eidolon est convoqué de cette façon, son total actuel de points de vie est le même que celui qu’il avait la dernière fois qu’il a été convoqué. Par contre, s’il s’est fait tuer, il revient avec la moitié de ses points de vie. Un eidolon ne guérit pas naturellement. Il reste auprès de son conjurateur jusqu’à ce que celui-ci le renvoie (par une [[action simple]]). Si l’eidolon retourne vers son plan d’origine parce qu’il s’est fait tuer, il est impossible de le convoquer avant le lendemain. Il est impossible de renvoyer un eidolon vers son plan d’origine avec une ''[[dissipation de la magie]]'' mais les sorts comme ''[[renvoi]]'' et ''[[bannissement]]'' fonctionnent normalement. L’eidolon est automatiquement banni si le conjurateur tombe inconscient, s’endort ou meurt.
+
+L’apparence de l’eidolon dépend des souhaits de son conjurateur. Ses DV, ses jets de sauvegarde, ses compétences, ses dons et ses pouvoirs dépendent du niveau de classe du conjurateur et s’améliorent au fur et à mesure qu’il prend des niveaux. De plus, chaque eidolon possède une réserve de points d’évolution basée sur le niveau de classe de son conjurateur. Elle lui permet d’acquérir divers pouvoirs et capacités. Le conjurateur choisit comment dépenser ces points quand il gagne un niveau et cela ne change plus jusqu’à sa prochaine montée de niveau.
+
+C’est au conjurateur de décider de l’apparence physique de son eidolon, mais ce dernier ressemble toujours à une créature fantastique de son sous-type. Le contrôle exercé par le conjurateur n’est cependant pas assez précis pour lui donner l’apparence d’une créature particulière. L’eidolon porte une rune luisante identique à celle qui apparaît sur le front du conjurateur tant que l’eidolon est auprès de lui. Le personnage peut cacher cette rune par des méthodes ordinaires mais pas en utilisant une magie qui modifie l’aspect comme ''[[modification dapparence|modification d’apparence]]'' ou ''[[métamorphose]]'' (mais l’''[[invisibilité]]'' la dissimule pendant toute la durée de ce sort).
+
+Voir les caractéristiques de l'[[Eidolon unchained|eidolon du conjurateur unchained]].
+
+{s:Reference|LIENVITAL}
+====Lien vital (Sur)====
+À partir du niveau 1, le conjurateur tisse un lien étroit avec son eidolon. À chaque fois que l’eidolon subit assez de dégâts pour l’obliger à retourner dans son plan d’origine, le conjurateur peut sacrifier autant de points de vie qu’il le désire sans même effectuer d’action. Chaque point de vie sacrifié de la sorte épargne 1 point de dégâts à l’eidolon, ce qui peut lui éviter de retourner dans son plan d’origine. En revanche l’eidolon et son conjurateur doivent rester à 30 mètres ou moins l’un de l’autre, sans quoi l’eidolon ne dispose plus de toute sa puissance. Si l’eidolon est à plus de 30 mètres de son conjurateur mais à moins de 300, ses totaux de points de vie actuels et maximum sont réduits de 50%. Si l’eidolon se trouve à plus de 300 mètres de son conjurateur mais à moins de 3 kilomètres, ces totaux sont réduits de 75%. Si l’eidolon dépasse cette distance de 3 kilomètres, il retourne immédiatement vers son plan d’origine. Les points de vie actuels de l’eidolon ne remontent pas quand il se rapproche de son conjurateur, mais son total maximum remonte en fonction des paliers de distance indiqués ci-dessus, jusqu’à revenir à la normale.
+
+{s:Reference|SENSLIES}
+====Sens liés (Sur)====
+À partir du niveau 2, un conjurateur peut, par une [[action simple]], partager les sens de son eidolon. Il entend, voit, sent, goûte et touche les mêmes choses que lui. Il peut utiliser cette aptitude un nombre de [[round|rounds]] par jour égal à son niveau de conjurateur. Cet effet n’a pas de limite de portée mais l’eidolon et le conjurateur doivent se trouver sur le même plan. Le conjurateur peut mettre un terme à cette aptitude par une [[action libre]].
+
+{s:Reference|PROTECTIONDALLIE}
+====Protection d’allié (Ext)====
+Au niveau 4, quand le conjurateur se trouve à portée d’allonge de son eidolon, il bénéficie d’un bonus de
+bouclier de +2 à la [[CA|classe d’armure]] et d’un bonus de circonstances de +2 aux [[jds|jets de sauvegarde]]. Ce bonus ne s’applique pas si l’eidolon est [[agrippé]], [[sans défense]], [[paralysé]], [[étourdi]] ou [[inconscient]].
+
+{s:Reference|APPELDUCREATEUR}
+====Appel du créateur (Sur)====
+Au niveau 6, par une [[action simple]], le conjurateur peut appeler son eidolon à ses côtés. Cette aptitude fonctionne comme une ''[[porte dimensionnelle]]'' qui applique le [[NLS|niveau de lanceur de sorts]] du conjurateur. L’eidolon apparaît alors dans une case adjacente au conjurateur (ou aussi près que possible si toutes les cases adjacentes sont occupées). Si l’eidolon est hors de portée de cette aptitude, celle-ci est gâchée. Le conjurateur peut utiliser cette aptitude une fois par jour au niveau 6 et une fois de plus par jour toutes les 4 niveaux par la suite.
+
+{s:Reference|TRANSPOSITION}
+====Transposition (Sur)====
+Au niveau 8, le conjurateur peut utiliser l’aptitude [[Conjurateur unchained#APPELDUCREATEUR|appel du créateur]] pour changer de place avec son eidolon. Si l’eidolon occupe plus d’espace que le conjurateur, ce dernier peut apparaître dans n’importe quelle case précédemment occupée par l’eidolon. L’eidolon doit occuper la case où se trouvait le conjurateur ou la case la plus proche possible s’il ne peut pas.
+
+{s:Reference|ASPECT}
+====Aspect (Sur)====
+Au niveau 10, le conjurateur peut prélever jusqu’à deux points de la réserve d’évolution de son eidolon pour en bénéficier lui-même. Il ne peut pas choisir les évolutions inaccessibles à son eidolon et il doit également remplir leurs conditions requises (sauf pour les conditions liées au sous-type tant que son eidolon les satisfait). Il ne peut pas choisir l’évolution [[Eidolon unchained#AUGMENTATIONDECARACTERISTIQUE|augmentation de caractéristique]] grâce à cette aptitude. Tout point ainsi dépensé est soustrait de la réserve de points d’évolution de l’eidolon (et réduit donc le nombre de points auxquels il a accès). Le conjurateur peut changer les évolutions conférées par ces points à chaque fois qu’il a la possibilité de changer les évolutions de son eidolon.
+
+{s:Reference|PROTECTIONDALLIESUPERIEURE}
+====Protection d’allié supérieure (Sur)====
+Au niveau 12, quand un allié se trouve à portée d’allonge de son eidolon, celui-ci bénéficie d’un bonus de bouclier de +2 à la [[CA|classe d’armure]] et d’un bonus de circonstance de +2 aux [[jds|jets de sauvegarde]]. Si l’allié est le conjurateur, ces bonus s’élèvent à +4. Ces bonus ne s’appliquent pas si l’eidolon est [[agrippé]], [[sans défense]], [[paralysé]], [[étourdi]] ou [[inconscient]].
+
+{s:Reference|VIESLIEES}
+====Vies liées (Sur)====
+Au niveau 14, la vie du conjurateur se lie à celle de son eidolon. Tant qu’il reste 1 point de vie ou plus à ce dernier, il est impossible de tuer le conjurateur. Une fois le conjurateur à 0 point de vie, les dégâts supplémentaires sont transférés à son eidolon. Ils se transmettent 1 point par 1 point, ce qui veut dire que, dès que le nombre de points de vie de l’eidolon dépasse, en négatif, sa valeur de [[Constitution]], tous les dégâts en excès sont appliqués au conjurateur. Cette aptitude n’affecte pas les effets qui provoquent la mort sans infliger de dégâts. Elle n’affecte pas non plus les sorts comme ''[[métamorphose funeste]]'', ''[[pétrification]]'', ''[[emprisonnement]]'' ou autres sorts qui n’infligent pas de dégâts.
+
+{s:Reference|FUSIONDESFORMES}
+====Fusion des formes (Sur)====
+Au niveau 16, par une [[action complexe]], le conjurateur peut toucher son eidolon afin de fusionner avec. Cette
+transformation absorbe tout l’équipement du conjurateur. Une fois fondu dans son eidolon, le conjurateur est protégé contre tout dégât et il est impossible de le prendre pour cible avec un sort ou un effet. Tous les sorts et effets en cours d’effet sur le conjurateur sont suspendus jusqu’à la fin de la fusion (mais leur durée continue de s’écouler et ils peuvent expirer).
+
+Le conjurateur peut lancer des sorts depuis l’intérieur de son eidolon en prenant son contrôle pour la durée de l’incantation. Les composantes matérielles sont soustraites de l’équipement du conjurateur, même si elles sont autrement inaccessibles. Tant que le conjurateur fusionne avec son eidolon, il peut diriger toutes ses actions, utiliser ses sens et parler par sa bouche. Chaque jour, le conjurateur peut utiliser cette aptitude un nombre de [[round|rounds]] égal à son niveau de conjurateur. Il peut mettre un terme à l’effet par une [[action rapide]] et émerge alors dans une case adjacente à l’eidolon, si possible. Si l’eidolon est renvoyé sur son plan d’origine alors qu’il fusionne avec le conjurateur, ce dernier est immédiatement éjecté, subit 4d6 points de dégâts et se retrouve [[étourdi]] pendant 1 [[round]].
+
+{s:Reference|ASPECTSUPERIEUR}
+====Aspect supérieur (Sur)====
+Au niveau 18, le conjurateur peut s’arroger une plus grande part des points d’évolution de son eidolon. Cette aptitude fonctionne comme celle d’[[Conjurateur unchained#ASPECT|aspect]] mais permet de s’approprier jusqu’à 6 points d’évolution au maximum. De plus, l’eidolon perd 1 point de sa réserve d’évolution pour 2 points (ou fraction) attribués au conjurateur au lieu de perdre 1 point pour chaque 1 point transmis au conjurateur.
+
+{s:Reference|EIDOLONJUMELE}
+====Eidolon jumelé (Sur)====
+Au niveau 20, le conjurateur et son eidolon partagent un véritable lien. Par une [[action simple]], le conjurateur peut prendre la forme de son eidolon et reproduire la totalité de ses évolutions, de sa forme et de ses pouvoirs. Ses valeurs de [[Force]], de [[Dextérité]] et de [[Constitution]] changent pour égaler celles de l’eidolon. Il peut choisir de fusionner tout son équipement dans sa nouvelle forme, comme avec un sort du registre de la [[registre|métamorphose]]. Les objets à effet continu continuent de fonctionner quand ils sont absorbés de la sorte. Le conjurateur perd ses attaques naturelles et tous ses traits raciaux (sauf les dons supplémentaires, les compétences et les langues connues) en faveur des pouvoirs conférés par les évolutions de l’eidolon. Il conserve toutes ses aptitudes de classe. Chaque jour, le conjurateur peut conserver cette forme un nombre de minutes égal à son niveau de conjurateur. Cette durée n’est pas forcément consécutive mais doit se découper en fractions d’une minute au minimum. Le conjurateur peut y mettre un terme par une [[action libre]].]]></raw>
+  <fullName>Pathfinder-RPG.conjurateur unchained</fullName>
+</wikiPage>

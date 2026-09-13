@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Anneau de stockage de sort mineur néthysien</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag anneau</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-25 17:48:27Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Anneaux magiques</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Anneaux magiques</link><link>Pathfinder-RPG.Néthys (technique)</link><link>Pathfinder-RPG.Anneau de stockage de sorts</link><link>Pathfinder-RPG.Création danneaux magiques</link><link>Pathfinder-RPG.Transfert de sorts</link><link>Pathfinder-RPG.Néthys (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fNethys.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.N&#233;thys (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fNethys.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;N&#233;thys-(Technique).html&quot; title=&quot;N&#233;thys&quot;&gt;N&#233;thys&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Anneau n&#233;thysien de stockage de sort mineur&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;Bien, Chaos, Loi, Mal&lt;/a&gt;] mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Anneaux-Magiques.html&quot; title=&quot;Les anneaux magiques&quot;&gt;anneau&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 20 000 po ; &lt;b&gt;Poids&lt;/b&gt; —
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cet anneau est fait de plusieurs m&#233;taux martel&#233;s ensemble pour former un motif tachet&#233;, avec le symbole sacr&#233; de &lt;a class=&quot;pagelink&quot; href=&quot;N&#233;thys-(Technique).html&quot; title=&quot;N&#233;thys&quot;&gt;N&#233;thys&lt;/a&gt; estampill&#233; &#224; une extr&#233;mit&#233;. Il fonctionne comme un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Stockage-De-Sorts.html&quot; title=&quot;Anneau de stockage de sort&quot;&gt;anneau de stockage de sorts mineur&lt;/a&gt;&lt;/i&gt;, si ce n&#39;est que les sorts des domaines de N&#233;thys sont trait&#233;s comme d&#39;un niveau de sort inf&#233;rieur (minimum 1er niveau) pour ce qui est de les stocker dans l&#39;anneau.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Danneaux-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;anneaux magiques&quot;&gt;Cr&#233;ation d&#39;anneaux magiques&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transfert-De-Sorts.html&quot; title=&quot;Transfert de sorts&quot;&gt;transfert de sorts&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 10 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Néthys|%2fPCUP%2fReligion-PNG%2fNethys.png}<div class="BD">
+{s:BDTitre|Anneau néthysien de stockage de sort mineur|{s:ISG}}
+'''Aura''' [[Abjuration]] et [[Transmutation]] <nowiki>[</nowiki>[[registre|Bien, Chaos, Loi, Mal]]<nowiki>]</nowiki> modérée ; '''NLS''' 5 ; '''Emplacement''' [[Anneaux magiques|anneau]] ; '''Prix''' 20 000 po ; '''Poids''' —
+(((Description)))
+{s:cs}Cet anneau est fait de plusieurs métaux martelés ensemble pour former un motif tacheté, avec le symbole sacré de [[Néthys (technique)|Néthys]] estampillé à une extrémité. Il fonctionne comme un ''[[anneau de stockage de sorts|anneau de stockage de sorts mineur]]'', si ce n'est que les sorts des domaines de Néthys sont traités comme d'un niveau de sort inférieur (minimum 1er niveau) pour ce qui est de les stocker dans l'anneau.
+(((Création)))
+'''Conditions''' [[Création danneaux magiques|Création d'anneaux magiques]], ''[[transfert de sorts]]'' ; '''Coût''' 10 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Anneau de stockage de sort mineur néthysien</fullName>
+</wikiPage>

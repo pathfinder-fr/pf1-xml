@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Vase d'œil de guenaude</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-22 16:54:30Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.Vision aveugle (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des vases (capacité)</link><link>Pathfinder-RPG.Paralysie (capacité)</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Détection du Bien</link><link>Pathfinder-RPG.Détection du Chaos</link><link>Pathfinder-RPG.Détection de la Loi</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Message</link><link>Pathfinder-RPG.Don des langues</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.Coup fabuleux</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vase d&#39;œil de guenaude&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vase&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Marais&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.276&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;Vision aveugle (Ext)&quot;&gt;vision aveugle&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 6, contact 6, pris au d&#233;pourvu 6 (Dex -5, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 38 (4d8+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; -4, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; -4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, froid, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Vases-(Capacit&#233;).html&quot; title=&quot;Traits des vases (Ext)&quot;&gt;traits des vases&lt;/a&gt; ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, escalade 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +8 (1d6+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;Paralysie (Ext ou Sur)&quot;&gt;paralysie&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;Paralysie (Ext ou Sur)&quot;&gt;paralysie&lt;/a&gt; (1d4 rounds, DD 17), canalisation des sorts
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 1, &lt;b&gt;Con&lt;/b&gt; 20, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 1, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +6 ; &lt;b&gt;DMD&lt;/b&gt; 11 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; effet de ventouse, transparence
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrains ou marais temp&#233;r&#233;s
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Canalisation des sorts (Sur).&lt;/b&gt; Une guenaude qui cr&#233;e une vase d’œil de guenaude peut voir par l’interm&#233;diaire de l’oeil ench&#226;ss&#233; dans la vase comme s’il s’agissait du sien. Pour pouvoir utiliser cette capacit&#233;, la guenaude et la vase d’œil de guenaude doivent se trouver sur le m&#234;me plan. Si la guenaude qui a cr&#233;&#233; la vase d’œil de guenaude fait partie d’un cercle, les sorts suivants ont 5 % de chances par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau du lanceur de sorts&lt;/a&gt; de pouvoir &#234;tre lanc&#233;s par l’interm&#233;diaire de la vase d’œil de guenaude : &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Bien.html&quot; title=&quot;D&#233;tection du Bien&quot;&gt;d&#233;tection du Bien&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Chaos.html&quot; title=&quot;D&#233;tection du Chaos&quot;&gt;d&#233;tection du Chaos&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Loi.html&quot; title=&quot;D&#233;tection de la Loi&quot;&gt;d&#233;tection de la Loi&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Message.html&quot; title=&quot;Message&quot;&gt;message&lt;/a&gt;&lt;/i&gt; et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Don-Des-Langues.html&quot; title=&quot;Don des langues&quot;&gt;don des langues&lt;/a&gt;&lt;/i&gt;. Si la cr&#233;ature qui contr&#244;le la vase d’œil de guenaude n’est pas une guenaude, elle ne peut pas voir ou lancer de sorts par son interm&#233;diaire.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Effet de ventouse (Ext).&lt;/b&gt; Une vase d’œil de guenaude peut cr&#233;er un puissant effet de ventouse sur toutes les surfaces sur lesquelles elle se trouve, ce qui lui permet d’adh&#233;rer facilement &#224; des murs ou au plafond. Elle peut provoquer ou stopper cet effet de ventouse par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt; et, tant qu’elle utilise l’effet ventouse, elle ne se d&#233;place qu’&#224; la moiti&#233; de sa vitesse. Gr&#226;ce &#224; l’effet de ventouse, une vase d’œil de guenaude gagne un bonus +10 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Dmd.html&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; pour r&#233;sister aux tentatives de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt;, de &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;coups fabuleux&lt;/a&gt; et de toute autre attaque ou effet qui a pour objectif de la faire se d&#233;placer physiquement.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Transparence (Ext).&lt;/b&gt; Une vase d’œil de guenaude est difficilement rep&#233;rable dans la plupart des environnements. Pour arriver &#224; la remarquer, il faut r&#233;ussir un test de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; DD 20. Une cr&#233;ature qui ne remarque pas une vase d’œil de guenaude et marche dessus subit automatiquement des d&#233;g&#226;ts comme si elle avait &#233;t&#233; frapp&#233;e par l’attaque de coup du monstre.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Un œil unique perdu au milieu d’une masse informe vous regarde fixement alors qu’un pseudopode transparent s’en extrait et se dirige vers vous.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Certaines guenaudes cr&#233;ent des vases d’œil de guenaude afin d’en faire des &#233;claireurs et des espions. Elles pr&#233;f&#232;rent ces serviteurs aux sbires humano&#239;des, car ils sont bien plus faciles &#224; contr&#244;ler. La capacit&#233; des vases d’œil de guenaude &#224; passer inaper&#231;ues et &#224; escalader presque toutes les surfaces en fait des cr&#233;atures id&#233;ales pour surveiller le territoire et le repaire des guenaudes. Les vases d’œil de guenaude semblent poss&#233;der une once de prudence, car elles observent les intrus &#224; distance et &#233;vitent le combat tant qu’elles ne sont pas directement prises &#224; partie. Cela dit, une fois qu’on leur a donn&#233; un ordre, elles le suivent aveugl&#233;ment.&lt;br /&gt;&lt;br /&gt;Il arrive que les vases d’œil de guenaude grandissent pour atteindre des dimensions d’environ 0,15 m3, ce qui correspond &#224; un volume de 150 litres donc, par exemple, &#224; un cube de 50 cm d’ar&#234;te. Cependant, la plupart sont plus petites et occupent un espace deux fois moindre.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Cr&#233;ation&lt;a class=&quot;headeranchor&quot; id=&quot;Cr&#233;ation_0&quot; href=&quot;#Cr&#233;ation_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;La cr&#233;ation d’une vase d’œil de guenaude requiert un &#233;tonnant m&#233;lange de cuisine et de sombres rituels &#233;tal&#233;s sur deux semaines. Pour chaque membre suppl&#233;mentaire d’un cercle qui participe au processus, le temps n&#233;cessaire pour cr&#233;er une vase d’œil de guenaude est diminu&#233; de 2 jours, jusqu’&#224; un minimum de 3 jours. Pendant toute cette dur&#233;e, la guenaude qui cr&#233;e la vase doit ajouter diff&#233;rents ingr&#233;dients dans un chaudron en train de mijoter. Dans le m&#234;me temps, elle doit consulter des textes &#233;tranges et des recettes immondes pour s’assurer qu’elle ne fait pas d’erreur dans sa pr&#233;paration. Si elle manque une &#233;tape ou se trompe dans la quantit&#233; d’un ingr&#233;dient, les &#233;nergies magiques n&#233;cessaires pour cr&#233;er la vase d’œil de guenaude ne viennent pas se lier &#224; la cr&#233;ature embryonnaire. Si la guenaude r&#233;ussit &#224; cr&#233;er la vase, elle entame alors un rituel de 24 heures pendant lequel elle bombarde le chaudron de sorts. Ce rituel incantatoire culmine avec l’ajout d’un œil de guenaude, de pr&#233;f&#233;rence un œil de la guenaude qui cr&#233;e cette vase. Si le rituel r&#233;ussit, la vase d’œil de guenaude est contr&#244;l&#233;e par sa cr&#233;atrice. Mais dans le cas o&#249; un cercle participe &#224; la cr&#233;ation de la vase, c’est la guenaude qui a donn&#233; son œil qui garde le contr&#244;le de la cr&#233;ature.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Vase d'œil de guenaude|FP 3}
+{s:pucem|Vase|Marais|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.276]]''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Vase|Vase]] de taille P, N}
+{s:BDTexte|'''Init''' -5 ; '''Sens''' [[Vision aveugle (capacité)|vision aveugle]] à 18 m ; [[Perception]] -5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 6, contact 6, pris au dépourvu 6 (Dex -5, taille +1)}
+{s:BDTexte|'''pv''' 38 (4d8+20)}
+{s:BDTexte|'''Réf''' -4, '''Vig''' +6, '''Vol''' -4}
+{s:BDTexte|'''Immunités''' acide, froid, [[Traits des vases (capacité)|traits des vases]] ; '''Résistances''' feu 5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m, escalade 6 m}
+{s:BDTexte|'''Corps à corps''' coup, +8 (1d6+6 plus [[Paralysie (capacité)|paralysie]])}
+{s:BDTexte|'''Attaques spéciales''' [[Paralysie (capacité)|paralysie]] (1d4 rounds, DD 17), canalisation des sorts}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 1, '''Con''' 20, '''Int''' —, '''Sag''' 1, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +6 ; '''DMD''' 11 (croc-en-jambe impossible)}
+{s:BDTexte|'''Compétences''' [[Escalade]] +10}
+{s:BDTexte|'''Particularités''' effet de ventouse, transparence}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrains ou marais tempérés}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Canalisation des sorts (Sur).''' Une guenaude qui crée une vase d’œil de guenaude peut voir par l’intermédiaire de l’oeil enchâssé dans la vase comme s’il s’agissait du sien. Pour pouvoir utiliser cette capacité, la guenaude et la vase d’œil de guenaude doivent se trouver sur le même plan. Si la guenaude qui a créé la vase d’œil de guenaude fait partie d’un cercle, les sorts suivants ont 5 % de chances par [[NLS|niveau du lanceur de sorts]] de pouvoir être lancés par l’intermédiaire de la vase d’œil de guenaude : ''[[détection du Bien]]'', ''[[détection du Chaos]]'', ''[[détection de la Loi]]'', ''[[détection du Mal]]'', ''[[détection de la magie]]'', ''[[lecture de la magie]]'', ''[[message]]'' et ''[[don des langues]]''. Si la créature qui contrôle la vase d’œil de guenaude n’est pas une guenaude, elle ne peut pas voir ou lancer de sorts par son intermédiaire.}
+{s:BDTexte|'''Effet de ventouse (Ext).''' Une vase d’œil de guenaude peut créer un puissant effet de ventouse sur toutes les surfaces sur lesquelles elle se trouve, ce qui lui permet d’adhérer facilement à des murs ou au plafond. Elle peut provoquer ou stopper cet effet de ventouse par une [[action rapide]] et, tant qu’elle utilise l’effet ventouse, elle ne se déplace qu’à la moitié de sa vitesse. Grâce à l’effet de ventouse, une vase d’œil de guenaude gagne un bonus +10 en [[DMD]] pour résister aux tentatives de [[bousculade]], de [[COup fabuleux|coups fabuleux]] et de toute autre attaque ou effet qui a pour objectif de la faire se déplacer physiquement.}
+{s:BDTexte|'''Transparence (Ext).''' Une vase d’œil de guenaude est difficilement repérable dans la plupart des environnements. Pour arriver à la remarquer, il faut réussir un test de [[Perception]] DD 20. Une créature qui ne remarque pas une vase d’œil de guenaude et marche dessus subit automatiquement des dégâts comme si elle avait été frappée par l’attaque de coup du monstre.}
+
+</div></td>
+<td><div>''Un œil unique perdu au milieu d’une masse informe vous regarde fixement alors qu’un pseudopode transparent s’en extrait et se dirige vers vous.''
+
+Certaines guenaudes créent des vases d’œil de guenaude afin d’en faire des éclaireurs et des espions. Elles préfèrent ces serviteurs aux sbires humanoïdes, car ils sont bien plus faciles à contrôler. La capacité des vases d’œil de guenaude à passer inaperçues et à escalader presque toutes les surfaces en fait des créatures idéales pour surveiller le territoire et le repaire des guenaudes. Les vases d’œil de guenaude semblent posséder une once de prudence, car elles observent les intrus à distance et évitent le combat tant qu’elles ne sont pas directement prises à partie. Cela dit, une fois qu’on leur a donné un ordre, elles le suivent aveuglément.
+
+Il arrive que les vases d’œil de guenaude grandissent pour atteindre des dimensions d’environ 0,15 m3, ce qui correspond à un volume de 150 litres donc, par exemple, à un cube de 50 cm d’arête. Cependant, la plupart sont plus petites et occupent un espace deux fois moindre.
+
+===Création===
+La création d’une vase d’œil de guenaude requiert un étonnant mélange de cuisine et de sombres rituels étalés sur deux semaines. Pour chaque membre supplémentaire d’un cercle qui participe au processus, le temps nécessaire pour créer une vase d’œil de guenaude est diminué de 2 jours, jusqu’à un minimum de 3 jours. Pendant toute cette durée, la guenaude qui crée la vase doit ajouter différents ingrédients dans un chaudron en train de mijoter. Dans le même temps, elle doit consulter des textes étranges et des recettes immondes pour s’assurer qu’elle ne fait pas d’erreur dans sa préparation. Si elle manque une étape ou se trompe dans la quantité d’un ingrédient, les énergies magiques nécessaires pour créer la vase d’œil de guenaude ne viennent pas se lier à la créature embryonnaire. Si la guenaude réussit à créer la vase, elle entame alors un rituel de 24 heures pendant lequel elle bombarde le chaudron de sorts. Ce rituel incantatoire culmine avec l’ajout d’un œil de guenaude, de préférence un œil de la guenaude qui crée cette vase. Si le rituel réussit, la vase d’œil de guenaude est contrôlée par sa créatrice. Mais dans le cas où un cercle participe à la création de la vase, c’est la guenaude qui a donné son œil qui garde le contrôle de la créature.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Vase dœil de guenaude</fullName>
+</wikiPage>

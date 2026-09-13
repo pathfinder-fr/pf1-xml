@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Octopode laineux</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-24 14:47:16Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.contact</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Attaques naturelles (capacité)</link><link>Pathfinder-RPG.Piétinement (capacité)</link><link>Pathfinder-RPG.liste des compagnons animaux</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Octopode laineux&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.196&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 11, pris au d&#233;pourvu 13 (Dex +2, naturelle +4, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; corne, +1 (1d8+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; crachat, +4 contact
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 20 (32 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou troupeau (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Crachat (Ext).&lt;/b&gt; Une fois par heure, l’octopode laineux peut r&#233;gurgiter le contenu de son estomac, crachant l’immonde bouillie sur une unique cible situ&#233;e dans un rayon de 3 m&#232;tres par une attaque de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquesdecontact.html&quot; title=&quot;contact&quot;&gt;contact&lt;/a&gt; &#224; distance. S’il touche sa cible, cette derni&#232;re doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 15, sans quoi elle est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Fi&#233;vreux.html&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuse&lt;/a&gt; pendant 1d4 rounds. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Docile (Ext).&lt;/b&gt; Les octopodes laineux ne sont pas belliqueux par nature et, &#224; moins qu’on ne les dresse au combat (voir la comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt;), leur corne est consid&#233;r&#233;e comme une &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Naturelles-(Capacit&#233;).html&quot; title=&quot;Attaques naturelles&quot;&gt;attaque secondaire&lt;/a&gt; et ils ne disposent pas du pouvoir &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement-(Capacit&#233;).html&quot; title=&quot;Pi&#233;tinement (Ext)&quot;&gt;pi&#233;tinement&lt;/a&gt;. Si l’octopode est form&#233; au combat, son attaque de corne devient corne, +6 (1d8+6) et il gagne le pouvoir pi&#233;tinement (1d6+6, DD 16).
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature hirsute aux nombreuses pattes a une t&#234;te aplatie dot&#233;e de larges nasaux et de quatre yeux. Sa gueule est flanqu&#233;e de d&#233;fenses d’ivoire dirig&#233;es vers le bas.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Certains disent qu’au d&#233;part, les octopodes laineux n’ont pas &#233;t&#233; domestiqu&#233;s pour servir d’animaux de travail mais pour leur toison laineuse, chaude et fournie. Quelles que soient les origines de ces cr&#233;atures, les habitants des r&#233;gions arctiques les utilisent depuis longtemps pour de nombreuses choses, allant jusqu’&#224; en faire de magnifiques montures de guerre. Un octopode ordinaire mesure entre 1,50 et 1,80 m&#232;tre au garrot et p&#232;se jusqu’&#224; 500 kilos.&lt;br /&gt;&lt;br /&gt;Les octopodes laineux sont des animaux gr&#233;gaires tr&#232;s sociables qui se nourrissent d’herbe, de feuilles et autres mati&#232;res v&#233;g&#233;tales. En haute montagne, ils mangent principalement du lichen et de la mousse tandis que dans les plaines, ils broutent une herbe plus nourrissante. Les octopodes laineux sauvages ont tendance &#224; migrer vers des p&#226;turages plus riches quand l’hiver devient particuli&#232;rement rude mais ils ont parfois du mal &#224; en trouver.&lt;br /&gt;&lt;br /&gt;Avec ses huit pattes robustes, l’octopode laineux a le pied particuli&#232;rement s&#251;r. Ces cr&#233;atures sont capables de gravir des sentiers de montagne escarp&#233;s et de se d&#233;placer sans mal dans une neige &#233;paisse. Les cavaleries arctiques gravissent souvent des &#233;boulis au galop de charge pour donner l’assaut sur une forteresse, mont&#233;es sur des octopodes capara&#231;onn&#233;s. Comme l’octopode se d&#233;place facilement dans les environnements les plus rudes et pr&#233;sente une nature soumise, il a d&#233;velopp&#233; une longue histoire d’amiti&#233; avec les humano&#239;des qui partagent son foyer glac&#233;. Un octopode laineux vit dans les 15 ans. Il s’accouple et met bas tous les onze mois, sachant qu’on peut le monter jusqu’au dernier mois de gestation.&lt;br /&gt;&lt;br /&gt;Les octopodes laineux sont des animaux gr&#233;gaires qui se regroupent pour se prot&#233;ger mutuellement. Quand ils sont menac&#233;s, ils se rassemblent, les petits au milieu. Un octopode domestique sert de monture ou d’animal de trait pour tirer une charrue ou faire tourner un moulin.&lt;br /&gt;&lt;br /&gt;La laine d’octopode est un textile polyvalent car ses fibres repoussent l’eau et continuent de fournir une douce chaleur m&#234;me une fois tremp&#233;es. L’&#233;ventail de robes des octopodes en mati&#232;re de texture et de couleurs offrent de nombreuses possibilit&#233;s pour les stylistes.&lt;br /&gt;&lt;br /&gt;Les octopodes laineux sont connus pour utiliser leur crachat comme moyen de communication ou comme m&#233;thode de d&#233;fense. La plupart des octopodes crachent seulement &#224; l’adresse de leurs cong&#233;n&#232;res, surtout lors de leurs affrontements &#224; coups de d&#233;fense pour prouver leur domination, mais quand ils sont menac&#233;s, ils r&#233;gurgitent une immonde bouillie pr&#233;dig&#233;r&#233;e sur leurs assaillants pour les &#233;cœurer et les distraire.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;L&#39;octopode laineux comme &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Compagnons-Animaux.html&quot; title=&quot;Liste des compagnons animaux du druide&quot;&gt;compagnon animal&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;Loctopode_laineux_comme_compagnon_animal__0&quot; href=&quot;#Loctopode_laineux_comme_compagnon_animal__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;b&gt;Caract&#233;ristiques de d&#233;part :&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 15 m ; &lt;b&gt;CA&lt;/b&gt; naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; corne (1d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 14, Dex 16, Con 12, Int 2, Sag 11, Cha 4 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 7 :&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +3 ; &lt;b&gt;Attaque&lt;/b&gt; corne (1d8) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +4, Dex -2, Con +4 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; crachat, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement-(Capacit&#233;).html&quot; title=&quot;Pi&#233;tinement (Ext)&quot;&gt;pi&#233;tinement&lt;/a&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Octopode laineux|FP 3}
+{s:pucem|Animal|Collines|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.196]]''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille -1)}
+{s:BDTexte|'''pv''' 30 (4d8+12)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +7, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m}
+{s:BDTexte|'''Corps à corps''' corne, +1 (1d8+2)}
+{s:BDTexte|'''Distance''' crachat, +4 contact}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 1,50 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 14, '''Con''' 17, '''Int''' 2, '''Sag''' 11, '''Cha''' 3}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +8 ; '''DMD''' 20 (32 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Course]], [[Endurance]]<sup>S</sup>, [[Talent]] (Perception)}
+{s:BDTexte|'''Compétences''' [[Escalade]] +8, [[Perception]] +9}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines tempérées}
+{s:BDTexte|'''Organisation''' solitaire, couple ou troupeau (3-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Crachat (Ext).''' Une fois par heure, l’octopode laineux peut régurgiter le contenu de son estomac, crachant l’immonde bouillie sur une unique cible située dans un rayon de 3 mètres par une attaque de [[contact]] à distance. S’il touche sa cible, cette dernière doit réussir un jet de [[Vigueur]] DD 15, sans quoi elle est [[fiévreux|fiévreuse]] pendant 1d4 rounds. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|'''Docile (Ext).''' Les octopodes laineux ne sont pas belliqueux par nature et, à moins qu’on ne les dresse au combat (voir la compétence [[Dressage]]), leur corne est considérée comme une [[Attaques naturelles (capacité)|attaque secondaire]] et ils ne disposent pas du pouvoir [[Piétinement (capacité)|piétinement]]. Si l’octopode est formé au combat, son attaque de corne devient corne, +6 (1d8+6) et il gagne le pouvoir piétinement (1d6+6, DD 16).}
+
+</div></td>
+<td><div>''Cette créature hirsute aux nombreuses pattes a une tête aplatie dotée de larges nasaux et de quatre yeux. Sa gueule est flanquée de défenses d’ivoire dirigées vers le bas.''
+
+Certains disent qu’au départ, les octopodes laineux n’ont pas été domestiqués pour servir d’animaux de travail mais pour leur toison laineuse, chaude et fournie. Quelles que soient les origines de ces créatures, les habitants des régions arctiques les utilisent depuis longtemps pour de nombreuses choses, allant jusqu’à en faire de magnifiques montures de guerre. Un octopode ordinaire mesure entre 1,50 et 1,80 mètre au garrot et pèse jusqu’à 500 kilos.
+
+Les octopodes laineux sont des animaux grégaires très sociables qui se nourrissent d’herbe, de feuilles et autres matières végétales. En haute montagne, ils mangent principalement du lichen et de la mousse tandis que dans les plaines, ils broutent une herbe plus nourrissante. Les octopodes laineux sauvages ont tendance à migrer vers des pâturages plus riches quand l’hiver devient particulièrement rude mais ils ont parfois du mal à en trouver.
+
+Avec ses huit pattes robustes, l’octopode laineux a le pied particulièrement sûr. Ces créatures sont capables de gravir des sentiers de montagne escarpés et de se déplacer sans mal dans une neige épaisse. Les cavaleries arctiques gravissent souvent des éboulis au galop de charge pour donner l’assaut sur une forteresse, montées sur des octopodes caparaçonnés. Comme l’octopode se déplace facilement dans les environnements les plus rudes et présente une nature soumise, il a développé une longue histoire d’amitié avec les humanoïdes qui partagent son foyer glacé. Un octopode laineux vit dans les 15 ans. Il s’accouple et met bas tous les onze mois, sachant qu’on peut le monter jusqu’au dernier mois de gestation.
+
+Les octopodes laineux sont des animaux grégaires qui se regroupent pour se protéger mutuellement. Quand ils sont menacés, ils se rassemblent, les petits au milieu. Un octopode domestique sert de monture ou d’animal de trait pour tirer une charrue ou faire tourner un moulin.
+
+La laine d’octopode est un textile polyvalent car ses fibres repoussent l’eau et continuent de fournir une douce chaleur même une fois trempées. L’éventail de robes des octopodes en matière de texture et de couleurs offrent de nombreuses possibilités pour les stylistes.
+
+Les octopodes laineux sont connus pour utiliser leur crachat comme moyen de communication ou comme méthode de défense. La plupart des octopodes crachent seulement à l’adresse de leurs congénères, surtout lors de leurs affrontements à coups de défense pour prouver leur domination, mais quand ils sont menacés, ils régurgitent une immonde bouillie prédigérée sur leurs assaillants pour les écœurer et les distraire.
+
+====L'octopode laineux comme [[Liste des compagnons animaux|compagnon animal]]====
+'''Caractéristiques de départ :''' '''Taille''' M ; '''Vitesse''' 15 m ; '''CA''' naturelle +1 ; '''Attaque''' corne (1d6) ; '''Caractéristiques''' For 14, Dex 16, Con 12, Int 2, Sag 11, Cha 4 ; '''Particularités''' [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]]
+
+'''Développement au niveau 7 :''' '''Taille''' G ; '''CA''' armure naturelle +3 ; '''Attaque''' corne (1d8) ; '''Caractéristiques''' For +4, Dex -2, Con +4 ; '''Particularités''' crachat, [[Piétinement (capacité)|piétinement]]
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Octopode laineux</fullName>
+</wikiPage>

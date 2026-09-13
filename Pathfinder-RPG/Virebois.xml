@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Virebois</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2017-11-26 01:08:55Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Temp-bestiaire4</link><link>Pathfinder-RPG.Virebois (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.Traits des créatures artificielles</link><link>Pathfinder-RPG.Doigts de fée</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.2</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Virebois&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Selon les suppl&#233;ments et les Univers, on les appellent aussi : Vilebois ou Forgeliers&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature artificielle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature artificielle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4 page 281&lt;/i&gt;
+&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;200 PX&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Virebois roublard 1&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; de taille P, N&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init &lt;/b&gt;+3 ; &lt;b&gt;Sens&lt;/b&gt; vision dans le noir 18 m, vision nocturne ; Perception +5&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA&lt;/b&gt; 16, contact 14, pris au d&#233;pourvu 13 (armure +2, Dex +3, taille +1)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv&lt;/b&gt; 18 (1d8+10)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f &lt;/b&gt;+5 (+1 contre les pi&#232;ges), &lt;b&gt;Vig &lt;/b&gt;+0, &lt;b&gt;Vol &lt;/b&gt;+1&lt;/li&gt;&lt;li&gt;&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD&lt;/b&gt; 9 m&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; dague, +3 (1d3+2/19-20)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Distance&lt;/b&gt; dague, +4 (1d3+2/19-20)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; attaque sournoise +1d6&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 6&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA &lt;/b&gt;+0 ; &lt;b&gt;BMO &lt;/b&gt;+1 ; &lt;b&gt;DMD&lt;/b&gt; 14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Doigts-De-F&#233;e.html&quot; title=&quot;Doigts de f&#233;e&quot;&gt;Doigts de f&#233;e&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (exploration souterraine) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; +2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; commun&lt;/li&gt;&lt;li&gt;&lt;b&gt;Particularit&#233;s&lt;/b&gt; recherche de pi&#232;ges +1&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; ruines ou souterrains&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation&lt;/b&gt; solitaire ou cabale (2-8)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (dagues &lt;a class=&quot;unknownlink&quot; href=&quot;2.html&quot; title=&quot;Pathfinder-RPG.2&quot;&gt;2&lt;/a&gt;, armure de cuir, outils de cambrioleur, autres tr&#233;sors)&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Malgr&#233; son apparence &#233;vidente de cr&#233;ature artificielle en bois, cette petite cr&#233;ature se meut de mani&#232;re fluide, agile et d&#233;termin&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Cette race relativement r&#233;cente a &#233;t&#233; cr&#233;&#233;e par une cabale de magiciens qui avaient besoin de serviteurs artificiels comp&#233;tents et agiles pour effectuer le sale boulot &#224; leur place. Ces magiciens &#233;taient int&#233;ress&#233;s par la cr&#233;ation de machines magiques, voil&#224; pourquoi ils ont construit ces outils de fa&#231;on &#224; ce qu’ils soient petits, agiles et rus&#233;s. La cabale a fini par aller trop loin et cr&#233;er des s&#233;ides dou&#233;s de libre-arbitre et ces premiers virebois ont commenc&#233; &#224; se demander pourquoi ils &#233;taient impliqu&#233;s dans les mesquines intrigues de leurs ma&#238;tres. Lorsque les magiciens ont forc&#233; les virebois &#224; se battre entre eux pour d&#233;fendre leur ma&#238;tre respectif, les cr&#233;atures artificielles ont d&#233;cid&#233; de tuer &#224; la place leurs cr&#233;ateurs et de s’emparer des manuscrits r&#233;v&#233;lant comment cr&#233;er d’autres membres de leur esp&#232;ce, ce qui leur a permis d’assurer l’avenir de leur race. &lt;br /&gt;&lt;br /&gt;Les virebois sont des cr&#233;atures secr&#232;tes et quelque peu x&#233;nophobes. Ils peuvent para&#238;tre froids et calculateurs, un trait qui inspire respect ou inimit&#233; en fonction des cr&#233;atures rencontr&#233;es. Purement rationnels et d&#233;nu&#233;s d’&#233;motion, les virebois consid&#232;rent la survie de leur race comme leur principal objectif. M&#234;me les quelques virebois qui comprennent le sens de l’empathie et de l’altruisme consid&#232;rent ces concepts comme de simples outils utiles pour assurer leur propre survie ou celle de leur peuple. Tous les virebois savent comment cr&#233;er des membres de leur esp&#232;ce, mais ils gardent le secret sur le processus de fabrication pour veiller &#224; ce que les membres de leur race ne retombent pas en l’esclavage. &lt;br /&gt;&lt;br /&gt;La plupart des virebois sont des magiciens ou des roublards. Les quelques rares virebois attir&#233;s par la religion ont tendance &#224; v&#233;n&#233;rer les divinit&#233;s Loyales qui imposent un code de conduite strict. Ils respectent alors ce code &#224; la lettre plut&#244;t que de respecter son esprit.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Personnages Virebois&lt;a class=&quot;headeranchor&quot; id=&quot;Personnages_Virebois_0&quot; href=&quot;#Personnages_Virebois_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les virebois ne poss&#232;dent pas de d&#233;s de vie raciaux et progressent en acqu&#233;rant des niveaux de classe. Voici leurs traits raciaux : &lt;br /&gt;
+&lt;b&gt;+2 en Dext&#233;rit&#233;, +2 en Intelligence, -2 en Charisme&lt;/b&gt;. Les virebois sont rapides et calculateurs. En tant que &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;atures artificielles&lt;/a&gt;, ils ne poss&#232;dent pas de valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;. &lt;br /&gt;
+&lt;b&gt;Vitesse normale&lt;/b&gt;. Les virebois ont une vitesse de d&#233;placement de base de 9 m&#232;tres. &lt;br /&gt;
+&lt;b&gt;Petite taille&lt;/b&gt;. Les virebois sont des cr&#233;atures de taille P et gagnent donc un bonus de taille de +1 &#224; la CA et aux jets d’attaque, un bonus de taille de +4 aux tests de Discr&#233;tion, un bonus de taille de +2 aux tests de Vol, mais un malus de -1 aux tests de manoeuvre offensive et au degr&#233; de manoeuvre d&#233;fensive.&lt;br /&gt;
+&lt;b&gt;Vision dans le noir jusqu’&#224; 18 m&#232;tres&lt;/b&gt;. Les virebois peuvent voir dans le noir jusqu’&#224; 18 m&#232;tres. &lt;br /&gt;
+&lt;b&gt;Vision nocturne&lt;/b&gt;. Les virebois sont dot&#233;s de la vision nocturne. &lt;br /&gt;
+&lt;b&gt;Langues.&lt;/b&gt; Les virebois commencent le jeu en sachant parler le commun. Ceux avec une valeur d’Intelligence suffisamment &#233;lev&#233;e peuvent s&#233;lectionner des langues suppl&#233;mentaires parmi la liste suivante : draconique, nain, elfique, gnome, gobelin et orque.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Virebois|FP 1/2}
+{s:Desambi|Selon les suppléments et les Univers, on les appellent aussi : Vilebois ou Forgeliers}
+{s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
+{s:BDTexte|''Source : Bestiaire 4 page 281''}
+* '''200 PX'''
+* Virebois roublard 1
+* [[type créature artificielle|Créature artificielle]] de taille P, N
+* '''Init '''+3 ; '''Sens''' vision dans le noir 18 m, vision nocturne ; Perception +5
+(((Défense)))
+* '''CA''' 16, contact 14, pris au dépourvu 13 (armure +2, Dex +3, taille +1)
+* '''pv''' 18 (1d8+10)
+* '''Réf '''+5 (+1 contre les pièges), '''Vig '''+0, '''Vol '''+1
+* '''Immunités''' [[traits des créatures artificielles]]
+(((Attaque)))
+* '''VD''' 9 m
+* '''Corps à corps''' dague, +3 (1d3+2/19-20)
+* '''Distance''' dague, +4 (1d3+2/19-20)
+* '''Attaques spéciales''' attaque sournoise +1d6
+(((Statistiques)))
+* '''For''' 14, '''Dex''' 17, '''Con''' -, '''Int''' 15, '''Sag''' 12, '''Cha''' 6
+* '''BBA '''+0 ; '''BMO '''+1 ; '''DMD''' 14
+* '''Dons''' [[Doigts de fée]]
+* '''Compétences''' [[Acrobaties]] +7, [[Artisanat]] (alchimie) +6, [[Connaissances]] (exploration souterraine) +6, [[Discrétion]] +11, [[Escalade]] +6, [[Escamotage]] +9, [[Estimation]] +6, [[Évasion]] +7, [[Perception]] +5, [[Sabotage]] +9, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +2
+* '''Langues''' commun
+* '''Particularités''' recherche de pièges +1
+(((Écologie)))
+* '''Environnement''' ruines ou souterrains
+* '''Organisation''' solitaire ou cabale (2-8)
+* '''Trésor''' équipement de PNJ (dagues [2], armure de cuir, outils de cambrioleur, autres trésors)
+
+
+</div>
+</td><td><div>
+''Malgré son apparence évidente de créature artificielle en bois, cette petite créature se meut de manière fluide, agile et déterminée.''
+
+Cette race relativement récente a été créée par une cabale de magiciens qui avaient besoin de serviteurs artificiels compétents et agiles pour effectuer le sale boulot à leur place. Ces magiciens étaient intéressés par la création de machines magiques, voilà pourquoi ils ont construit ces outils de façon à ce qu’ils soient petits, agiles et rusés. La cabale a fini par aller trop loin et créer des séides doués de libre-arbitre et ces premiers virebois ont commencé à se demander pourquoi ils étaient impliqués dans les mesquines intrigues de leurs maîtres. Lorsque les magiciens ont forcé les virebois à se battre entre eux pour défendre leur maître respectif, les créatures artificielles ont décidé de tuer à la place leurs créateurs et de s’emparer des manuscrits révélant comment créer d’autres membres de leur espèce, ce qui leur a permis d’assurer l’avenir de leur race. 
+
+Les virebois sont des créatures secrètes et quelque peu xénophobes. Ils peuvent paraître froids et calculateurs, un trait qui inspire respect ou inimité en fonction des créatures rencontrées. Purement rationnels et dénués d’émotion, les virebois considèrent la survie de leur race comme leur principal objectif. Même les quelques virebois qui comprennent le sens de l’empathie et de l’altruisme considèrent ces concepts comme de simples outils utiles pour assurer leur propre survie ou celle de leur peuple. Tous les virebois savent comment créer des membres de leur espèce, mais ils gardent le secret sur le processus de fabrication pour veiller à ce que les membres de leur race ne retombent pas en l’esclavage. 
+
+La plupart des virebois sont des magiciens ou des roublards. Les quelques rares virebois attirés par la religion ont tendance à vénérer les divinités Loyales qui imposent un code de conduite strict. Ils respectent alors ce code à la lettre plutôt que de respecter son esprit.
+
+===Personnages Virebois===
+Les virebois ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Voici leurs traits raciaux : {br}
+'''+2 en Dextérité, +2 en Intelligence, -2 en Charisme'''. Les virebois sont rapides et calculateurs. En tant que [[type Créature artificielle|Créatures artificielles]], ils ne possèdent pas de valeur de [[Constitution]]. {br}
+'''Vitesse normale'''. Les virebois ont une vitesse de déplacement de base de 9 mètres. {br}
+'''Petite taille'''. Les virebois sont des créatures de taille P et gagnent donc un bonus de taille de +1 à la CA et aux jets d’attaque, un bonus de taille de +4 aux tests de Discrétion, un bonus de taille de +2 aux tests de Vol, mais un malus de -1 aux tests de manoeuvre offensive et au degré de manoeuvre défensive.{br}
+'''Vision dans le noir jusqu’à 18 mètres'''. Les virebois peuvent voir dans le noir jusqu’à 18 mètres. {br}
+'''Vision nocturne'''. Les virebois sont dotés de la vision nocturne. {br}
+'''Langues.''' Les virebois commencent le jeu en sachant parler le commun. Ceux avec une valeur d’Intelligence suffisamment élevée peuvent sélectionner des langues supplémentaires parmi la liste suivante : draconique, nain, elfique, gnome, gobelin et orque.
+
+</div></td></tr></table>
+
+]]></raw>
+  <fullName>Pathfinder-RPG.Virebois</fullName>
+</wikiPage>

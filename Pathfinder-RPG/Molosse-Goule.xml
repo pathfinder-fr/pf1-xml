@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Molosse goule</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2026-04-28 23:26:50Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Antique fossoyeur</link><link>Pathfinder-RPG.Assassin masqué</link><link>Pathfinder-RPG.Chauve-souris aile de suie</link><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Commandant goule</link><link>Pathfinder-RPG.Goule</link><link>Pathfinder-RPG.Goule sournoise</link><link>Pathfinder-RPG.Goule traqueuse</link><link>Pathfinder-RPG.Grand-veneur goule</link><link>Pathfinder-RPG.Molosse goule</link><link>Pathfinder-RPG.Monarque goule</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Résistance à la canalisation (capacité)</link><link>Pathfinder-RPG.Traits des morts-vivants (capacité)</link><link>Pathfinder-RPG.Goule</link><link>Pathfinder-RPG.paralysie</link><link>Pathfinder-RPG.Manœuvres offensives</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Chauve-souris aile de suie</link><link>Pathfinder-RPG.Molosse goule</link><link>Pathfinder-RPG.Goule sournoise</link><link>Pathfinder-RPG.Goule traqueuse</link><link>Pathfinder-RPG.Grand-veneur goule</link><link>Pathfinder-RPG.Assassin masqué</link><link>Pathfinder-RPG.Commandant goule</link><link>Pathfinder-RPG.Antique fossoyeur</link><link>Pathfinder-RPG.Monarque goule</link><link>Pathfinder-RPG.Archétypes</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Molosse goule&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Mort-vivant&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Codex Monstrueux p.112&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 12, pris au d&#233;pourvu 12 (Dex +2, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Canalisation-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la canalisation (Ext)&quot;&gt;r&#233;sistance &#224; la canalisation&lt;/a&gt; +2 ; &lt;b&gt;Immunit&#233;&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants (Ext)&quot;&gt;traits des morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +5 (1d6+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html#FIEVREDESGOULES&quot; title=&quot;Goule&quot;&gt;maladie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;paralysie&quot;&gt;paralysie&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives.html#CROCENJAMBE&quot; title=&quot;Les manœuvres offensives&quot;&gt;Manœuvres offensives&lt;/a&gt;croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html#FIEVREDESGOULES&quot; title=&quot;Goule&quot;&gt;maladie&lt;/a&gt; (DD 13), &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;paralysie&quot;&gt;paralysie&lt;/a&gt; (1d4+1 rounds, DD 13, elfes immunis&#233;s contre cet effet)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +5, &lt;b&gt;DMD&lt;/b&gt; 17 (21 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, garde (2-4 plus 2-4 goules) ou meute (4-6 plus 2-4 goules)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Sur).&lt;/b&gt; Fi&#232;vre des goules : voir &lt;i&gt;Bestiaire Pathfinder&lt;/i&gt; p. &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;173&lt;/a&gt;)
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de goule&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chauve-Souris-Aile-De-Suie.html&quot; title=&quot;Chauve-souris aile de suie&quot;&gt;Chauve-souris aile de suie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1/2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Molosse-Goule.html&quot; title=&quot;Molosse goule&quot;&gt;Molosse goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;Goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Goule-Sournoise.html&quot; title=&quot;Goule sournoise&quot;&gt;Goule sournoise&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Goule-Traqueuse.html&quot; title=&quot;Goule traqueuse&quot;&gt;Goule traqueuse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grand-Veneur-Goule.html&quot; title=&quot;Grand-veneur goule&quot;&gt;Grand-veneur goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin-Masqu&#233;.html&quot; title=&quot;Assassin masqu&#233;&quot;&gt;Assassin masqu&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Commandant-Goule.html&quot; title=&quot;Commandant goule&quot;&gt;Commandant goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antique-Fossoyeur.html&quot; title=&quot;Antique fossoyeur&quot;&gt;Antique fossoyeur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monarque-Goule.html&quot; title=&quot;Monarque goule&quot;&gt;Monarque goule&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt; Cette cr&#233;ature canine a une peau morte, cireuse, tendue sur sa carcasse. Ses crocs jaunis sont d’une longueur impressionnante.&lt;br /&gt;&lt;br /&gt;Les goules ont des molosses morts-vivants comme les humains ont des chiens de chasse : certaines les consid&#232;rent comme des outils, d’autres, plus sentimentales, comme des animaux de compagnie tr&#232;s appr&#233;ci&#233;s. Un molosse goule ob&#233;it sagement &#224; son ma&#238;tre mort-vivant.
+&lt;b&gt;Grathkoll (FP 2).&lt;/b&gt; Il existe une esp&#232;ce de molosses goules plus imposante, appel&#233;e le grathkoll, capable de servir de monture &#224; une cr&#233;ature de taille M. Le grathkoll est un molosse goule dot&#233; de l’arch&#233;type simple de &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREGEANTE&quot; title=&quot;Les arch&#233;types&quot;&gt;cr&#233;ature g&#233;ante&lt;/a&gt; et b&#233;n&#233;ficie d’un bonus de +3 &#224; sa vitesse de d&#233;placement terrestre de base.
+Les goules sont des ennemis rus&#233;s et polyvalents, tr&#232;s utiles dans de nombreux sc&#233;narios pour une campagne bas&#233;e sur les morts-vivants.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Molosse goule|FP 1}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : Codex Monstrueux p.112''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
+{s:BDTexte|'''pv''' 13 (2d8+4)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +2, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' [[Résistance à la canalisation (capacité)|résistance à la canalisation]] +2 ; '''Immunité''' [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +5 (1d6+6 plus [[Goule#FIEVREDESGOULES|maladie]], [[paralysie]] et [[Manœuvres offensives#CROCENJAMBE]]croc-en-jambe)}
+{s:BDTexte|'''Attaques spéciales''' [[Goule#FIEVREDESGOULES|maladie]] (DD 13), [[paralysie]] (1d4+1 rounds, DD 13, elfes immunisés contre cet effet)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 15, '''Con''' -, '''Int''' 2, '''Sag''' 14, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +5, '''DMD''' 17 (21 contre le croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +6, [[Perception]] +6}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation''' solitaire, garde (2-4 plus 2-4 goules) ou meute (4-6 plus 2-4 goules)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Maladie (Sur).''' Fièvre des goules : voir ''Bestiaire Pathfinder'' p. [[Goule|173]])}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de goule
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Chauve-souris aile de suie]] || 1/2
+|-
+| [[Molosse goule]] || 1
+|-
+| [[Goule]] || 1
+|-
+| [[Goule sournoise]] || 3
+|-
+| [[Goule traqueuse]] || 6
+|-
+| [[Grand-veneur goule]] || 7
+|-
+| [[Assassin masqué]] || 8
+|-
+| [[Commandant goule]] || 8
+|-
+| [[Antique fossoyeur]] || 10
+|-
+| [[Monarque goule]] || 12
+|}
+</div> Cette créature canine a une peau morte, cireuse, tendue sur sa carcasse. Ses crocs jaunis sont d’une longueur impressionnante.
+
+Les goules ont des molosses morts-vivants comme les humains ont des chiens de chasse : certaines les considèrent comme des outils, d’autres, plus sentimentales, comme des animaux de compagnie très appréciés. Un molosse goule obéit sagement à son maître mort-vivant.
+'''Grathkoll (FP 2).''' Il existe une espèce de molosses goules plus imposante, appelée le grathkoll, capable de servir de monture à une créature de taille M. Le grathkoll est un molosse goule doté de l’archétype simple de [[Archétypes#CREATUREGEANTE|créature géante]] et bénéficie d’un bonus de +3 à sa vitesse de déplacement terrestre de base.
+Les goules sont des ennemis rusés et polyvalents, très utiles dans de nombreux scénarios pour une campagne basée sur les morts-vivants.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Molosse goule</fullName>
+</wikiPage>

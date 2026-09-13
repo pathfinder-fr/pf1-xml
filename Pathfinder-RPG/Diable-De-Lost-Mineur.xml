@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Diable, Diable de l'ost mineur</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Livre des damnés</category></categories>
+  <lastModified>2023-03-21 14:45:12Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Diable</link><link>Pathfinder-RPG.Diable de lost</link><link>Pathfinder-RPG.Diable de lost Majeur</link><link>Pathfinder-RPG.Diable de lost mineur</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Livre des damnés 1 (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type diable</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Vision dans les ténèbres</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Lumières dansantes</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Ventriloquie</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Diable de lost</link><link>Pathfinder-RPG.Diable de lost Majeur</link><link>Pathfinder-RPG.Diable de lost mineur</link><link>Pathfinder-RPG.Diable</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;GAAV&quot; href=&quot;#GAAV&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Diable de l&#39;ost mineur (Gaav)&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Livre des damn&#233;s p.62&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;XP 800&lt;/b&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Diable.html&quot; title=&quot;Diable (sous-type)&quot;&gt;diable&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;) de taille P, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init &lt;/b&gt;+3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Les-T&#233;n&#232;bres-(Capacit&#233;).html&quot; title=&quot;Vision dans les t&#233;n&#232;bres&quot;&gt;vision dans les t&#233;n&#232;bres&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 15, pris au d&#233;pourvu 13 (Dex +3, esquive +1, naturelle +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pv&lt;/b&gt; 30 (4d10+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f &lt;/b&gt;+7, &lt;b&gt;Vig &lt;/b&gt;+6, &lt;b&gt;Vol &lt;/b&gt;+0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/Bien
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;&lt;/b&gt; feu, poison
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sistance&lt;/b&gt; acide 10, froid 10
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1,50m, vol 18m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps &lt;/b&gt;lance de ma&#238;tre, +7 (1d8+1) et 2 griffes +6 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle nocif, convocation de diable
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;b&gt;NLS&lt;/b&gt; 4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; – &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;res-Dansantes.html&quot; title=&quot;Lumi&#232;res dansantes&quot;&gt;lumi&#232;res dansantes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (personnelle plus 25kg d’objets uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ventriloquie.html&quot; title=&quot;Ventriloquie&quot;&gt;ventriloquie&lt;/a&gt;&lt;/i&gt; (DD 10)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 9, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA &lt;/b&gt;+4 ; &lt;b&gt;BMO &lt;/b&gt;+4 ; &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; infernal ; t&#233;l&#233;pathie 30m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; ma&#238;tre lutteur, sens partag&#233;s, grouillement
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; Enfer
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire or troupeau (2d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (lance de ma&#238;tre, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Lutteur sup&#233;rieur (Ext)&lt;/b&gt; Un gaav peut porter une arme et n&#233;anmoins faire des tests de Lutte. S’il ne porte pas d’arme, le gaav b&#233;n&#233;ficie d’un bonus de +4 &#224; ses tests de Lutte. De plus, jusqu’&#224; huit gaavs peuvent coop&#233;rer pour soulever une cr&#233;ature qu’un ou plusieurs d’entre eux ont saisie, chaque gaav pouvant soulever jusqu’&#224; 15 kilogrammes et continuer &#224; voler sans &#234;tre g&#234;n&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle nocif (Sur) &lt;/b&gt;Trois fois par jour, un gaav peut exhaler un souffle qui empeste la corruption sur une cr&#233;ature situ&#233;e &#224; moins de 1,50 m&#232;tre. La cible doit r&#233;ussir un jet de Vigueur DD 14 pour ne pas &#234;tre fi&#233;vreuse pour 1d4 rounds. Le DD du jet est bas&#233; sur la Constitution. Les cr&#233;atures qui r&#233;ussissent le jet de sauvegarde ne peuvent &#234;tre affect&#233;es par le souffle nocif de ce gaav pendant 24 heures. Un sort de ralentissement du poison ou de neutralisation du poison dissipe les effets sur la victime. Les cr&#233;atures immunis&#233;es contre le poison ne sont pas affect&#233;es et les cr&#233;atures r&#233;sistantes au poison re&#231;oivent leur bonus normal aux jets de sauvegarde. Une fois qu’un gaav a utilis&#233; son arme de souffle, il ne peut plus souffler &#224; nouveau avant 1d4 rounds.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sens partag&#233;s (Sur)&lt;/b&gt; Tous les gaavs et magaavs situ&#233;s &#224; moins de 30 m&#232;tres les uns des autres partagent les m&#234;mes sens. Ainsi, si un individu per&#231;oit quelque chose (par exemple gr&#226;ce &#224; un test de Perception), tous ceux qui sont situ&#233;s &#224; port&#233;e en sont imm&#233;diatement conscients. Les perceptions sont relay&#233;es instantan&#233;ment d’un gaav ou magaav &#224; l’autre, permettant aux perceptions d’un seul diable de se r&#233;pandre potentiellement dans un gros essaim tout entier et de l’informer instantan&#233;ment. Il reste possible de surprendre un gaav ou de le prendre au d&#233;pourvu m&#234;me si d’autres gaavs situ&#233;s &#224; proximit&#233; ne le sont pas.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Convocation de diable (Sur)&lt;/b&gt; Une fois par jour, un gaav peut tenter d’invoquer un diablotin avec 35% de chance de r&#233;ussite. Cette capacit&#233; est l’&#233;quivalent d’un sort de 3e niveau.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Grouillement (Ext)&lt;/b&gt; Jusqu’&#224; deux gaavs peuvent partager le m&#234;me espace au m&#234;me moment. Si deux gaavs situ&#233;s sur la m&#234;me case attaquent le m&#234;me ennemi, on consid&#232;re qu’ils le prennent en tenaille comme s’ils &#233;taient sur des carr&#233;s oppos&#233;s.
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Les variantes de Diable de l&#39;ost&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Diable-De-Lost.html&quot; title=&quot;Diable, Diable de l&amp;#39;ost (Magaav)&quot;&gt;Diable de l&#39;ost&lt;/a&gt; (Magaav)&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Diable-De-Lost-Majeur.html&quot; title=&quot;Diable, Diable de l&amp;#39;ost majeur&quot;&gt;Diable de l&#39;ost majeur&lt;/a&gt; (Magaav)&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Diable-De-Lost-Mineur.html&quot; title=&quot;Diable, Diable de l&amp;#39;ost mineur&quot;&gt;Diable de l&#39;ost mineur&lt;/a&gt; (Gaav)&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Diable.html&quot; title=&quot;Les diables&quot;&gt;diables&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Une double paire d’ailes de vautour s’agite furieusement dans un fouillis
+de membres d’oiseau couverts d’&#233;cailles alors que la cr&#233;ature tient
+bien haut sa t&#234;te osseuse et cornue de fi&#233;lon. Alors qu’un souffle f&#233;tide
+s’&#233;chappe de son visage repoussant couvert de mouches, des bras griffus
+travaillent ensemble pour fendre l’air avec une lance &#224; l’air vicieux.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Tous les magaavs peuvent communiquer par t&#233;l&#233;pathie avec tous les autres &lt;a class=&quot;pagelink&quot; href=&quot;Diable-De-Lost-Mineur.html&quot; title=&quot;Diable, Diable de l&amp;#39;ost mineur&quot;&gt;gaavs&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Diable-De-Lost-Majeur.html&quot; title=&quot;Diable, Diable de l&amp;#39;ost majeur&quot;&gt;magaavs&lt;/a&gt; situ&#233;s &#224; moins de 30 m&#232;tres en simultan&#233;, permettant aux diables l&#233;gionnaires majeurs de commander des essaims entiers. Bien que les magaavs se contredisent rarement les uns les autres, si des gaavs sont confront&#233;s &#224; des ordres en concurrence, ils suivent ceux du magaav le plus proche.&lt;br /&gt;&lt;br /&gt;Chasseurs d’&#226;mes, les diables l&#233;gionnaires r&#233;cup&#232;rent les propri&#233;t&#233;s des Enfers qui ont le plus tendance &#224; fuir. Qu’il s’agisse d’&#226;mes qui &#233;chappent &#224; la capture depuis longtemps sur les plaines de l’Averne, d’&#234;tres damn&#233;s qui sont parvenus, d’une fa&#231;on ou d’une autre, &#224; &#233;chapper aux Enfers ou de cr&#233;atures qui ont manqu&#233; &#224; leurs engagements dans un contrat infernal, de tr&#232;s grands troupeaux de ces fi&#233;lons ail&#233;s jaillissent de la Fosse pour r&#233;cup&#233;rer leurs proies. &lt;br /&gt;&lt;br /&gt;Rarement seuls, les diables l&#233;gionnaires voyagent en grands essaims qui se composent souvent de milliers d’individus. Parmi ces grandes arm&#233;es vol&#232;tent les meneurs de l’essaim, les magaavs, parodies cruelles de l’apparence ang&#233;lique, capables de diriger et rediriger d’imposantes colonnes de leurs fr&#232;res tels le cerveau d’une unique b&#234;te infernale de taille colossale. &lt;br /&gt;&lt;br /&gt;Les gaavs mesurent 1,20 m&#232;tre et p&#232;sent approximativement 55 kilogrammes, leur envergure faisant un peu plus d’1,80 m&#232;tre.
+&lt;/div&gt;
+&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;D&#39;abord apparue dans le Livre des Damn&#233;s sous le nom &#171; Diable l&#233;gionnaire &#187;, cette cr&#233;ature a &#233;t&#233; renomm&#233;e &#171; Diable de l&#39;ost &#187; dans le Bestiaire 4..&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|GAAV}
+{s:BDTitre|Diable de l'ost mineur (Gaav)|FP 3}
+{s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
+{s:BDTexte|''Source : Livre des damnés p.62''}
+{s:BDTexte|'''XP 800'''}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type loi|Loi]]) de taille P, LM}
+{s:BDTexte|'''Init '''+3 ; '''Sens''' [[vision dans le noir]] à 18m, [[vision dans les ténèbres]] ; [[Perception]] +6}
+(((Défense)))
+{s:BDTexte|'''CA''' 17, contact 15, pris au dépourvu 13 (Dex +3, esquive +1, naturelle +2, taille +1)}
+{s:BDTexte|'''Pv''' 30 (4d10+8)}
+{s:BDTexte|'''Réf '''+7, '''Vig '''+6, '''Vol '''+0}
+{s:BDTexte|'''RD''' 5/Bien}
+{s:BDTexte|'''Immunité''' feu, poison}
+{s:BDTexte|'''Résistance''' acide 10, froid 10}
+(((Attaque)))
+{s:BDTexte|'''VD''' 1,50m, vol 18m (bonne)}
+{s:BDTexte|'''Corps à corps '''lance de maître, +7 (1d8+1) et 2 griffes +6 (1d4+1)}
+{s:BDTexte|'''Attaques spéciales''' souffle nocif, convocation de diable}
+{s:BDTexte|'''Pouvoirs magiques''' ('''NLS''' 4)}
+{s:BDSorts|À volonté – ''[[lumières dansantes]], [[détection de la magie]], [[téléportation suprême]]'' (personnelle plus 25kg d’objets uniquement), ''[[manipulation à distance]], [[ventriloquie]]'' (DD 10)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 13, '''Dex''' 17, '''Con''' 14, '''Int''' 7, '''Sag''' 9, '''Cha''' 8}
+{s:BDTexte|'''BBA '''+4 ; '''BMO '''+4 ; '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Esquive]], [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +9, [[Discrétion]] +13, [[Évasion]] +9, [[Perception]] +6, [[Vol]] +11}
+{s:BDTexte|'''Langues''' infernal ; télépathie 30m}
+{s:BDTexte|'''Particularités''' maître lutteur, sens partagés, grouillement}
+(((Écologie)))
+{s:BDTexte|'''Environnement''' Enfer}
+{s:BDTexte|'''Organisation''' solitaire or troupeau (2d4)}
+{s:BDTexte|'''Trésor''' standard (lance de maître, autres trésors)}
+(((Pouvoirs spéciaux)))
+{s:BDTexte|'''Lutteur supérieur (Ext)''' Un gaav peut porter une arme et néanmoins faire des tests de Lutte. S’il ne porte pas d’arme, le gaav bénéficie d’un bonus de +4 à ses tests de Lutte. De plus, jusqu’à huit gaavs peuvent coopérer pour soulever une créature qu’un ou plusieurs d’entre eux ont saisie, chaque gaav pouvant soulever jusqu’à 15 kilogrammes et continuer à voler sans être gêné.}
+{s:BDTexte|'''Souffle nocif (Sur) '''Trois fois par jour, un gaav peut exhaler un souffle qui empeste la corruption sur une créature située à moins de 1,50 mètre. La cible doit réussir un jet de Vigueur DD 14 pour ne pas être fiévreuse pour 1d4 rounds. Le DD du jet est basé sur la Constitution. Les créatures qui réussissent le jet de sauvegarde ne peuvent être affectées par le souffle nocif de ce gaav pendant 24 heures. Un sort de ralentissement du poison ou de neutralisation du poison dissipe les effets sur la victime. Les créatures immunisées contre le poison ne sont pas affectées et les créatures résistantes au poison reçoivent leur bonus normal aux jets de sauvegarde. Une fois qu’un gaav a utilisé son arme de souffle, il ne peut plus souffler à nouveau avant 1d4 rounds.}
+{s:BDTexte|'''Sens partagés (Sur)''' Tous les gaavs et magaavs situés à moins de 30 mètres les uns des autres partagent les mêmes sens. Ainsi, si un individu perçoit quelque chose (par exemple grâce à un test de Perception), tous ceux qui sont situés à portée en sont immédiatement conscients. Les perceptions sont relayées instantanément d’un gaav ou magaav à l’autre, permettant aux perceptions d’un seul diable de se répandre potentiellement dans un gros essaim tout entier et de l’informer instantanément. Il reste possible de surprendre un gaav ou de le prendre au dépourvu même si d’autres gaavs situés à proximité ne le sont pas.}
+{s:BDTexte|'''Convocation de diable (Sur)''' Une fois par jour, un gaav peut tenter d’invoquer un diablotin avec 35% de chance de réussite. Cette capacité est l’équivalent d’un sort de 3e niveau.}
+{s:BDTexte|'''Grouillement (Ext)''' Jusqu’à deux gaavs peuvent partager le même espace au même moment. Si deux gaavs situés sur la même case attaquent le même ennemi, on considère qu’ils le prennent en tenaille comme s’ils étaient sur des carrés opposés.}
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Les variantes de Diable de l'ost
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Diable de lost|Diable de l'ost]] (Magaav) || 6
+|-
+| [[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav) || 6
+|-
+| [[Diable de lost mineur|Diable de l'ost mineur]] (Gaav) || 3
+|}
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[diable|diables]].'''''</li></ul>
+''Une double paire d’ailes de vautour s’agite furieusement dans un fouillis
+de membres d’oiseau couverts d’écailles alors que la créature tient
+bien haut sa tête osseuse et cornue de fiélon. Alors qu’un souffle fétide
+s’échappe de son visage repoussant couvert de mouches, des bras griffus
+travaillent ensemble pour fendre l’air avec une lance à l’air vicieux.''
+
+Tous les magaavs peuvent communiquer par télépathie avec tous les autres [[Diable de lost mineur|gaavs]] et [[Diable de lost Majeur|magaavs]] situés à moins de 30 mètres en simultané, permettant aux diables légionnaires majeurs de commander des essaims entiers. Bien que les magaavs se contredisent rarement les uns les autres, si des gaavs sont confrontés à des ordres en concurrence, ils suivent ceux du magaav le plus proche.
+
+Chasseurs d’âmes, les diables légionnaires récupèrent les propriétés des Enfers qui ont le plus tendance à fuir. Qu’il s’agisse d’âmes qui échappent à la capture depuis longtemps sur les plaines de l’Averne, d’êtres damnés qui sont parvenus, d’une façon ou d’une autre, à échapper aux Enfers ou de créatures qui ont manqué à leurs engagements dans un contrat infernal, de très grands troupeaux de ces fiélons ailés jaillissent de la Fosse pour récupérer leurs proies. 
+
+Rarement seuls, les diables légionnaires voyagent en grands essaims qui se composent souvent de milliers d’individus. Parmi ces grandes armées volètent les meneurs de l’essaim, les magaavs, parodies cruelles de l’apparence angélique, capables de diriger et rediriger d’imposantes colonnes de leurs frères tels le cerveau d’une unique bête infernale de taille colossale. 
+
+Les gaavs mesurent 1,20 mètre et pèsent approximativement 55 kilogrammes, leur envergure faisant un peu plus d’1,80 mètre.
+</div>
+{s:Desambi|D'abord apparue dans le Livre des Damnés sous le nom « Diable légionnaire », cette créature a été renommée « Diable de l'ost » dans le Bestiaire 4..}
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Diable de lost mineur</fullName>
+</wikiPage>

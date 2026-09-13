@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Abri</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 3</category><category>Pathfinder-RPG.Sort magicien 3</category><category>Pathfinder-RPG.Sort occultiste 3</category><category>Pathfinder-RPG.Src Manuel des joueurs</category></categories>
+  <lastModified>2023-08-30 23:35:32Z</lastModified>
+  <version>11</version>
+  <inLinks><link>Pathfinder-RPG.Bosquet reposant</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Modificateurs de combat</link><link>Pathfinder-RPG.PNJ Érudit distant</link><link>Pathfinder-RPG.Secrétaire escamotable</link><link>Pathfinder-RPG.Sorts doccultiste</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.abri</link><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.sphère</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.taille M</link><link>Pathfinder-RPG.zone deffet</link><link>Pathfinder-RPG.Climat</link><link>Pathfinder-RPG.Vents</link><link>Pathfinder-RPG.mot de commande</link><link>Pathfinder-RPG.camouflage total</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Abri est &#233;galement une &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat#Abri.html&quot; title=&quot;abri&quot;&gt;notion relative au combat&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Evocation.html&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;force&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Occultiste.html&quot; title=&quot;L&amp;#39;occultiste&quot;&gt;Occ&lt;/a&gt; 3&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une petite perle de cristal)&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)&lt;br/&gt;
+&lt;b&gt;Effet&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defsphere.html&quot; title=&quot;sph&#232;re&quot;&gt;sph&#232;re&lt;/a&gt; de 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon centr&#233;e sur la position du personnage&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 2 heures/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T)&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;En lan&#231;ant ce sort, le personnage fait appara&#238;tre autour de lui une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defsphere.html&quot; title=&quot;sph&#232;re&quot;&gt;sph&#232;re&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;force&lt;/a&gt;, opaque et immobile, de la couleur de son choix. La moiti&#233; sup&#233;rieure du globe est visible, le reste se trouvant sous terre. En plus du personnage, l’&lt;i&gt;abri&lt;/i&gt; peut accueillir jusqu’&#224; neuf cr&#233;atures de &lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures#Tableautailles.html&quot; title=&quot;taille M&quot;&gt;taille M&lt;/a&gt;. Tous ces invit&#233;s peuvent entrer ou sortir comme bon leur semble. Par contre, si le personnage sort de la sph&#232;re, celle-ci dispara&#238;t aussit&#244;t.&lt;br /&gt;&lt;br /&gt;Si la temp&#233;rature ext&#233;rieure est comprise entre -15&#176; C et +35&#176; C, la temp&#233;rature &#224; l’int&#233;rieur de la sph&#232;re est constante &#224; 20&#176; C. En cas de temp&#233;rature plus extr&#234;me, l’int&#233;rieur de l’&lt;i&gt;abri&lt;/i&gt; &#233;volue de la m&#234;me fa&#231;on, &#224; raison de 1&#176; C pour 1&#176; C (s’il fait -25&#176; C dehors, il fera donc 10&#176; C dans les limites de la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Zonedeffet.html&quot; title=&quot;zone deffet&quot;&gt;zone d’effet&lt;/a&gt; du sort). Les occupants sont &#233;galement prot&#233;g&#233;s contre les &lt;a class=&quot;pagelink&quot; href=&quot;Climat.html&quot; title=&quot;Le climat&quot;&gt;&#233;l&#233;ments&lt;/a&gt; (pluie, gr&#234;le, temp&#234;te de sable, etc.). Il r&#233;siste aux &lt;a class=&quot;pagelink&quot; href=&quot;Climat#Vents_4.html&quot; title=&quot;Les vents&quot;&gt;vents&lt;/a&gt; inf&#233;rieurs &#224; la force d’un ouragan (120 km/h). Au-del&#224;, il est d&#233;truit.&lt;br /&gt;&lt;br /&gt;L’int&#233;rieur de l’&lt;i&gt;abri&lt;/i&gt; est de forme h&#233;misph&#233;rique, le personnage pouvant l’&#233;clairer de mani&#232;re diffuse ou l’&#233;teindre sur &lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques#Objetsamotdecommande.html&quot; title=&quot;mot de commande&quot;&gt;commande&lt;/a&gt;. Bien qu’il soit opaque vu du dehors, le champ de force est transparent de l’int&#233;rieur. Les projectiles, les armes et la plupart des sorts peuvent franchir la sph&#232;re, les occupants ne pouvant &#234;tre vus de l’ext&#233;rieur (ils b&#233;n&#233;ficient d’un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat#Camouflagetotal.html&quot; title=&quot;camouflage total&quot;&gt;camouflage total&lt;/a&gt;).
+]]></body>
+  <raw><![CDATA[{s:Desambi|Abri est également une [[abri|notion relative au combat]].}
+'''École''' [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; '''Niveau''' [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[COMPOSANTES|V, G, M]] (une petite perle de cristal)<br/>
+'''Portée''' 6 m (4 {s:c})<br/>
+'''Effet''' [[sphère]] de 6 m (4 {s:c}) de rayon centrée sur la position du personnage<br/>
+'''Durée''' 2 heures/[[niveau]] (T)<br/>
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+En lançant ce sort, le personnage fait apparaître autour de lui une [[sphère]] de [[registre|force]], opaque et immobile, de la couleur de son choix. La moitié supérieure du globe est visible, le reste se trouvant sous terre. En plus du personnage, l’''abri'' peut accueillir jusqu’à neuf créatures de [[taille M]]. Tous ces invités peuvent entrer ou sortir comme bon leur semble. Par contre, si le personnage sort de la sphère, celle-ci disparaît aussitôt.
+
+Si la température extérieure est comprise entre -15° C et +35° C, la température à l’intérieur de la sphère est constante à 20° C. En cas de température plus extrême, l’intérieur de l’''abri'' évolue de la même façon, à raison de 1° C pour 1° C (s’il fait -25° C dehors, il fera donc 10° C dans les limites de la [[zone deffet|zone d’effet]] du sort). Les occupants sont également protégés contre les [[Climat|éléments]] (pluie, grêle, tempête de sable, etc.). Il résiste aux [[vents]] inférieurs à la force d’un ouragan (120 km/h). Au-delà, il est détruit.
+
+L’intérieur de l’''abri'' est de forme hémisphérique, le personnage pouvant l’éclairer de manière diffuse ou l’éteindre sur [[mot de commande|commande]]. Bien qu’il soit opaque vu du dehors, le champ de force est transparent de l’intérieur. Les projectiles, les armes et la plupart des sorts peuvent franchir la sphère, les occupants ne pouvant être vus de l’extérieur (ils bénéficient d’un [[camouflage total]]).
+]]></raw>
+  <fullName>Pathfinder-RPG.sort Abri</fullName>
+</wikiPage>

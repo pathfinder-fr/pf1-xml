@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chuspiki</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-24 14:11:05Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.sous-type Air</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Modification des vents</link><link>Pathfinder-RPG.Vent de murmures</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Tir à bout portant</link><link>Pathfinder-RPG.Tir de précision</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Poisons</link><link>Pathfinder-RPG.attaque sournoise</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Familier supérieur</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chuspiki&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Montagnes&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Montagnes.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.62&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;) de taille TP, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, vision dans le noir 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 15, pris au d&#233;pourvu 12 (Dex +3, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (3d10+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; b&#233;ni des vents, forme venteuse
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, vol 18 m (parfaite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;ventail caudal, +8 (1d4-2/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; explosion d’air, +8 (2d6+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 0,75 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m (1,50 m avec l’&#233;ventail caudal)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Magie psychique&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 3 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+5 EP — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt; (2 EP, DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Des-Vents.html&quot; title=&quot;Modification des vents&quot;&gt;modification des vents&lt;/a&gt;&lt;/i&gt; (1 EP, DD 12), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vent-De-Murmures.html&quot; title=&quot;Vent de murmures&quot;&gt;vent de murmures&lt;/a&gt;&lt;/i&gt; (2 EP)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 3 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 6, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 9, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +4, &lt;b&gt;DMD&lt;/b&gt; 12 (16 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-De-Pr&#233;cision.html&quot; title=&quot;Tir de pr&#233;cision&quot;&gt;Tir de pr&#233;cision&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines ou montagnes chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou vol&#233;e (6-10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; a&#233;rocin&#233;tique simple
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A&#233;rocin&#233;tique simple (Mag).&lt;/b&gt; Un chuspiki peut utiliser l’&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sauvages.html#A&#201;ROCINETIQUESIMPLE&quot; title=&quot;Les talents sauvages du cin&#233;tiste&quot;&gt;a&#233;rocin&#233;tique simple&lt;/a&gt;, comme le talent sauvage de cin&#233;tiste du m&#234;me nom.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;B&#233;ni des vents (Sur).&lt;/b&gt; On consid&#232;re qu’un chuspiki est une cr&#233;ature de taille G lorsqu’il s’agit de d&#233;terminer les effets que le vent produit sur lui.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Explosion d’air (Mag).&lt;/b&gt; Un chuspiki peut effectuer une attaque &#224; distance en d&#233;clenchant une puissante &lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sauvages.html#EXPLOSIONDAIR&quot; title=&quot;Les talents sauvages du cin&#233;tiste&quot;&gt;explosion d’air&lt;/a&gt;, comme s’il utilisait le talent sauvage de &lt;a class=&quot;pagelink&quot; href=&quot;Cin&#233;tiste.html&quot; title=&quot;Le cin&#233;tiste&quot;&gt;cin&#233;tiste&lt;/a&gt; du m&#234;me nom, et en consid&#233;rant que son niveau de cin&#233;tiste est &#233;gal &#224; son nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;d&#233;s de vie&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Forme venteuse (Sur).&lt;/b&gt; Trois fois par jour, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Immediate.html&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;, un chuspiki peut prendre une forme immat&#233;rielle pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Il obtient une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 10/magie et une &lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;immunit&#233;&lt;/a&gt; contre le &lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;Les poisons  &quot;&gt;poison&lt;/a&gt;, les &lt;a class=&quot;pagelink&quot; href=&quot;Roublard#Attaquesournoise.html&quot; title=&quot;attaque sournoise&quot;&gt;attaques sournoises&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Coupcritique.html&quot; title=&quot;coup critique&quot;&gt;coups critiques&lt;/a&gt;. Il ne peut pas attaquer ou utiliser ses pouvoirs magiques, &#224; l’exception de l’a&#233;rocin&#233;tique simple, tant qu’il est sous forme venteuse.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Cette minuscule cr&#233;ature, &#224; la fourrure &#233;paisse et soyeuse, plane dans les airs en exploitant les courants invisibles avec sa queue en forme d’&#233;ventail.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+Les chuspikis sont des cr&#233;atures intelligentes ressemblant &#224; des souris dot&#233;es d’une fourrure brun-roux duveteuse qui les fait passer pour des cr&#233;atures bien plus grosses qu’elles ne le sont en r&#233;alit&#233;. La queue d’un chuspiki est consid&#233;rablement plus longue que le reste de son corps et s’&#233;largit pour ressembler &#224; une voile. La base de sa queue est puissante et souple, ce qui permet au chuspiki d’agiter &#224; un rythme surprenant l’&#233;ventail qui se trouve &#224; son extr&#233;mit&#233;. Il peut utiliser ces mouvements caudaux pour cr&#233;er de violentes explosions d’air ou pour blesser ses adversaires avec les barbelures positionn&#233;es sur les phalanges du dessous de sa queue.&lt;br /&gt;&lt;br /&gt;Tel le vent, les chuspikis sont toujours en mouvement et prennent leur envol en utilisant leur &#233;ventail pour planer et en invoquant des petites bourrasques pour se diriger. Ils font de courtes pauses d’&#224; peine une heure entre chaque vol.&lt;br /&gt;&lt;br /&gt;Les chuspikis sautent sur chaque occasion de vivre une nouvelle exp&#233;rience. Ce sont des cr&#233;atures sociables qui pr&#233;f&#232;rent voyager avec leurs semblables ou sinon avec les membres d’autres esp&#232;ces. Les chuspikis ressentent une forte affinit&#233; avec les cr&#233;atures qui partagent leur lien avec le ciel, telles que les &#233;l&#233;mentaires de l’Air et les sylphes. Les chuspikis aiment explorer des endroits uniques et, quand ils trouvent un site particuli&#232;rement fascinant, ils confient leur d&#233;couverte au vent pour inciter les autres &#224; partager cette trouvaille. Un chuspiki peut tout &#224; fait &#234;tre &#224; l’origine d’une myst&#233;rieuse voix d&#233;sincarn&#233;e murmurant des promesses d’aventures glorieuses. Toutefois, ces cr&#233;atures espi&#232;gles peuvent tout aussi bien jouer des tours aux malheureuses cr&#233;atures de passage que fournir leur aide sans arri&#232;re-pens&#233;e.&lt;br /&gt;&lt;br /&gt;Un chuspiki moyen fait 30 centim&#232;tres de long, sans compter sa queue de 1,50 m&#232;tre, pour un poids de 250 grammes. Ses os sont creux comme ceux des oiseaux.&lt;br /&gt;&lt;br /&gt;Un chuspiki s’alliera parfois avec un lanceur de sorts en devenant son familier. Un lanceur de sorts chaotique de niveau 7 peut obtenir un chuspiki en guise de familier s’il choisit le don &lt;a class=&quot;pagelink&quot; href=&quot;Familier-Sup&#233;rieur.html&quot; title=&quot;Familier sup&#233;rieur&quot;&gt;Familier sup&#233;rieur&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Chuspiki|FP 2}
+{s:pucem|Créature magique|Montagnes|Tropical}
+{s:BDtexte|''Source : Bestiaire 5 p.62''}
+{s:BDtexte|'''PX''' 600}
+{s:BDtexte|[[type Créature magique|Créature magique]] ([[sous-type Air|Air]]) de taille TP, CN}
+{s:BDtexte|'''Init''' +3 ; '''Sens''' [[odorat]], vision dans le noir 18 m, [[vision nocturne]] ; [[Perception]] +3}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
+{s:BDtexte|'''pv''' 19 (3d10+3)}
+{s:BDtexte|'''Réf''' +6, '''Vig''' +4, '''Vol''' +0}
+{s:BDtexte|'''Capacités défensives''' béni des vents, forme venteuse}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 9 m, vol 18 m (parfaite)}
+{s:BDtexte|'''Corps à corps''' éventail caudal, +8 (1d4-2/×3)}
+{s:BDtexte|'''À distance''' explosion d’air, +8 (2d6+3)}
+{s:BDtexte|'''Espace occupé''' 0,75 m ; '''Allonge''' 0 m (1,50 m avec l’éventail caudal)}
+{s:BDtexte|'''Magie psychique''' ([[NLS]] 3 ; [[concentration]] +4)}
+{s:BDsorts|5 EP — ''[[bourrasque]]'' (2 EP, DD 13), ''[[modification des vents]]'' (1 EP, DD 12), ''[[vent de murmures]]'' (2 EP)}
+{s:BDtexte|'''Pouvoirs magiques''' ([[NLS]] 3 ; [[concentration]] +4)}
+{s:BDsorts|Constant — ''[[feuille morte]]''}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 6, '''Dex''' 17, '''Con''' 12, '''Int''' 12, '''Sag''' 9, '''Cha''' 13}
+{s:BDtexte|'''BBA''' +3, '''BMO''' +4, '''DMD''' 12 (16 contre le croc-en-jambe)}
+{s:BDtexte|'''Dons''' [[Attaque en finesse]], [[Tir à bout portant]], [[Tir de précision]]}
+{s:BDtexte|'''Compétences''' [[Acrobaties]] +9, [[Discrétion]] +16, [[Perception]] +3, [[Vol]] +13}
+{s:BDtexte|'''Langues''' aérien, commun}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' collines ou montagnes chaudes}
+{s:BDtexte|'''Organisation sociale''' solitaire, couple ou volée (6-10)}
+{s:BDtexte|'''Trésor''' standard}
+{s:BDtexte|'''Particularités''' aérocinétique simple}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Aérocinétique simple (Mag).''' Un chuspiki peut utiliser l’[[Talents sauvages#AÉROCINETIQUESIMPLE|aérocinétique simple]], comme le talent sauvage de cinétiste du même nom.}
+{s:BDtexte|'''Béni des vents (Sur).''' On considère qu’un chuspiki est une créature de taille G lorsqu’il s’agit de déterminer les effets que le vent produit sur lui.}
+{s:BDtexte|'''Explosion d’air (Mag).''' Un chuspiki peut effectuer une attaque à distance en déclenchant une puissante [[Talents sauvages#EXPLOSIONDAIR|explosion d’air]], comme s’il utilisait le talent sauvage de [[cinétiste]] du même nom, et en considérant que son niveau de cinétiste est égal à son nombre de [[DV|dés de vie]].}
+{s:BDtexte|'''Forme venteuse (Sur).''' Trois fois par jour, par une [[action immédiate]], un chuspiki peut prendre une forme immatérielle pendant 1 [[round]]. Il obtient une [[RD]] 10/magie et une [[Immunité (capacité)|immunité]] contre le [[Poisons|poison]], les [[attaque sournoise|attaques sournoises]] et les [[coup critique|coups critiques]]. Il ne peut pas attaquer ou utiliser ses pouvoirs magiques, à l’exception de l’aérocinétique simple, tant qu’il est sous forme venteuse.}
+</div>
+</td>
+<td>
+<div>
+''Cette minuscule créature, à la fourrure épaisse et soyeuse, plane dans les airs en exploitant les courants invisibles avec sa queue en forme d’éventail.''
+
+
+Les chuspikis sont des créatures intelligentes ressemblant à des souris dotées d’une fourrure brun-roux duveteuse qui les fait passer pour des créatures bien plus grosses qu’elles ne le sont en réalité. La queue d’un chuspiki est considérablement plus longue que le reste de son corps et s’élargit pour ressembler à une voile. La base de sa queue est puissante et souple, ce qui permet au chuspiki d’agiter à un rythme surprenant l’éventail qui se trouve à son extrémité. Il peut utiliser ces mouvements caudaux pour créer de violentes explosions d’air ou pour blesser ses adversaires avec les barbelures positionnées sur les phalanges du dessous de sa queue.
+
+Tel le vent, les chuspikis sont toujours en mouvement et prennent leur envol en utilisant leur éventail pour planer et en invoquant des petites bourrasques pour se diriger. Ils font de courtes pauses d’à peine une heure entre chaque vol.
+
+Les chuspikis sautent sur chaque occasion de vivre une nouvelle expérience. Ce sont des créatures sociables qui préfèrent voyager avec leurs semblables ou sinon avec les membres d’autres espèces. Les chuspikis ressentent une forte affinité avec les créatures qui partagent leur lien avec le ciel, telles que les élémentaires de l’Air et les sylphes. Les chuspikis aiment explorer des endroits uniques et, quand ils trouvent un site particulièrement fascinant, ils confient leur découverte au vent pour inciter les autres à partager cette trouvaille. Un chuspiki peut tout à fait être à l’origine d’une mystérieuse voix désincarnée murmurant des promesses d’aventures glorieuses. Toutefois, ces créatures espiègles peuvent tout aussi bien jouer des tours aux malheureuses créatures de passage que fournir leur aide sans arrière-pensée.
+
+Un chuspiki moyen fait 30 centimètres de long, sans compter sa queue de 1,50 mètre, pour un poids de 250 grammes. Ses os sont creux comme ceux des oiseaux.
+
+Un chuspiki s’alliera parfois avec un lanceur de sorts en devenant son familier. Un lanceur de sorts chaotique de niveau 7 peut obtenir un chuspiki en guise de familier s’il choisit le don [[Familier supérieur]].
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Chuspiki</fullName>
+</wikiPage>

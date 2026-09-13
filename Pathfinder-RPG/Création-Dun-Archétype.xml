@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Création d'un archétype</title>
+  <categories></categories>
+  <lastModified>2017-05-05 14:08:43Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Création dune classe</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Manuel des joueurs - Classes avancées (Contenu)</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks></outLinks>
+  <body><![CDATA[&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;La cr&#233;ation d’arch&#233;type est similaire &#224; la cr&#233;ation de classe mais,
+pour vous faciliter la t&#226;che, l’essentiel du travail a d&#233;j&#224; &#233;t&#233; fait. &#192;
+l’identique d’une classe, un arch&#233;type doit r&#233;pondre &#224; un concept
+et s’appuyer sur un ensemble de r&#232;gles qui lui sont propres mais,
+&#224; la diff&#233;rence d’une classe, ses caract&#233;ristiques ne doivent pas
+forc&#233;ment &#234;tre sp&#233;cifiques &#224; ce seul arch&#233;type. L’arch&#233;type se
+rapproche souvent d’une classe existante en termes de concept
+ou de r&#232;gles, mais il donne une orientation l&#233;g&#232;rement diff&#233;rente
+&#224; cette classe en modifiant quelques-uns de ses pouvoirs de
+classe afin d’am&#233;liorer l’expression de son propre concept.&lt;br /&gt;&lt;br /&gt;&lt;h4 class=&quot;separator&quot;&gt;Cr&#233;ation et r&#232;gles&lt;a class=&quot;headeranchor&quot; id=&quot;Cr&#233;ation_et_r&#232;gles_0&quot; href=&quot;#Cr&#233;ation_et_r&#232;gles_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;La plupart des arch&#233;types sont, au d&#233;part, de nouvelles id&#233;es de
+classes, jusqu’&#224; ce que l’on regroupe les &#233;l&#233;ments qui les composent
+et qu’il apparaisse &#233;vident qu’ils ressemblent beaucoup &#224;
+certaines classes d&#233;j&#224; existantes. Lorsque la situation se pr&#233;sente,
+mieux vaut cr&#233;er un arch&#233;type plut&#244;t qu’une classe compl&#232;tement
+nouvelle qui empi&#232;tera sur les platebandes d’une autre.
+Prenons comme exemple l’arch&#233;type du r&#244;deur tirailleur.
+Le concept du tirailleur est tr&#232;s proche de celui du r&#244;deur : il s’&#233;panouit dans les environnements naturels et disposent de pouvoirs g&#233;n&#233;ralement utiles en combat. D’un point de vue technique, presque toutes les r&#232;gles du r&#244;deur s’appliquent au tirailleur, mais ce dernier b&#233;n&#233;ficie d’un ensemble de bottes secr&#232;tes qui remplace la capacit&#233; de lancement de sorts du r&#244;deur. Il serait injustifi&#233; de cr&#233;er une toute nouvelle classe autour de ce concept quand il suffit d’apporter
+quelques simples modifications de r&#232;gles au r&#244;deur.&lt;br /&gt;&lt;br /&gt;&lt;h4 class=&quot;separator&quot;&gt;Principes de cr&#233;ation&lt;a class=&quot;headeranchor&quot; id=&quot;Principes_de_cr&#233;ation_1&quot; href=&quot;#Principes_de_cr&#233;ation_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;L’essentiel du travail de cr&#233;ation d’arch&#233;type tourne autour des
+pouvoirs de classe. En r&#232;gle g&#233;n&#233;rale, la plupart des principes
+m&#233;caniques de base restent les m&#234;mes. Les bonus de base &#224;
+l’attaque, les d&#233;s de vie et les jets de sauvegarde ne changent
+pratiquement jamais. Quant aux comp&#233;tences et &#224; la capacit&#233; de
+lancer des sorts, il n’est pas n&#233;cessaire de les modifier &#224; moins
+que l’arch&#233;type ne l’exige sp&#233;cifiquement.&lt;br /&gt;&lt;br /&gt;&lt;h4 class=&quot;separator&quot;&gt;Remplacement des pouvoirs de classe&lt;a class=&quot;headeranchor&quot; id=&quot;Remplacement_des_pouvoirs_de_classe_2&quot; href=&quot;#Remplacement_des_pouvoirs_de_classe_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;Pour cr&#233;er un arch&#233;type
+r&#233;ussi, il faut d&#233;terminer quels sont les pouvoirs de classe
+&#224; remplacer et par quels autres pouvoirs les remplacer. En r&#232;gle
+g&#233;n&#233;rale, les pouvoirs de classe primaires &#233;tant plus compliqu&#233;s
+&#224; remplacer, vous devriez agir avec prudence. Quant aux
+pouvoirs secondaires, ils ont une importance moindre pour la
+classe et sont donc plus faciles &#224; remplacer.
+Quand vous d&#233;cidez des pouvoirs &#224; remplacer, gardez bien
+en t&#234;te le th&#232;me de l’arch&#233;type. S’agit-il d’un pouvoir important
+pour le r&#244;le de l’arch&#233;type ? Si on le retire, la classe fonctionnera-
+t-elle toujours ? Existe-t-il d’autres pouvoirs dont le fonctionnement
+d&#233;pend du pouvoir s&#233;lectionn&#233; et faut-il, eux aussi,
+les remplacer ? Ces questions vous aideront &#224; d&#233;terminer quels
+sont les pouvoirs essentiels &#224; une classe et ceux qu’il est possible
+de remplacer avec un impact minimal.
+Pour un arch&#233;type, la cr&#233;ation d’un nouveau pouvoir de classe
+qui vient remplacer un pouvoir existant suit un grand nombre
+des r&#232;gles qui s’appliquent &#224; la cr&#233;ation d’un pouvoir pour une
+toute nouvelle classe. Il faut n&#233;anmoins tenir compte de la puissance
+et de la polyvalence du pouvoir que vous remplacez. Il ne
+serait pas &#233;quitable de remplacer le pouvoir de classe de courage
+du guerrier par un nouveau pouvoir conf&#233;rant un bonus &#224; la CA
+car cet &#233;change donnerait lieu &#224; un arch&#233;type plus puissant que
+la classe de base. M&#234;me si vous faites tout votre possible pour
+&#233;quilibrer cet &#233;change en rempla&#231;ant un autre pouvoir de classe
+par une solution moins puissante, il vaut mieux &#233;viter ce genre
+de remplacements. Dans le cas o&#249; vous y seriez contraint, veillez
+&#224; ce que la solution moins puissante soit accessible &#224; un niveau
+inf&#233;rieur &#224; celui qui permet de gagner la solution plus puissante.
+Ainsi, le personnage s’acquittera du &#171; co&#251;t &#187; du nouveau
+pouvoir plus puissant avant de profiter de ses avantages et vous
+&#233;viterez les situations o&#249; les personnages d&#233;cident de gagner
+quelques niveaux dans un arch&#233;type, pour obtenir le puissant
+pouvoir de classe, puis changent de classe pour ne pas en payer
+le prix. Pour indication, le r&#244;le et la puissance des pouvoirs de
+remplacement devraient &#234;tre &#224; peu pr&#232;s similaires &#224; ceux des
+pouvoirs qu’ils remplacent. Ce n’est pas toujours le cas mais,
+m&#234;me si vous d&#233;viez de ce r&#244;le, veillez &#224; ce que l’&#233;cart de puissance
+entre le pouvoir de remplacement que vous cr&#233;ez et le
+pouvoir remplac&#233; ne soit pas trop important.&lt;br /&gt;&lt;br /&gt;&lt;h4 class=&quot;separator&quot;&gt;Remplacements partiels&lt;a class=&quot;headeranchor&quot; id=&quot;Remplacements_partiels_3&quot; href=&quot;#Remplacements_partiels_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;Selon les circonstances, il est parfois
+acceptable de n’&#233;changer qu’une partie d’un
+pouvoir de classe, mais uniquement si ce pouvoir
+conf&#232;re des bonus ou des capacit&#233;s particuli&#232;res
+au fil des niveaux. Par exemple, le
+guerrier dispose du pouvoir de classe don
+suppl&#233;mentaire, qui conf&#232;re un don suppl&#233;mentaire
+au niveau 1, au niveau 2 et tous les
+niveaux pairs apr&#232;s cela. Un arch&#233;type pourrait
+&#233;changer certains ou la totalit&#233; de ces
+dons suppl&#233;mentaires contre de nouveaux
+pouvoirs de classe.
+Soyez prudent lorsque vous effectuez un remplacement
+partiel. Il se peut que les r&#232;gles du pouvoir dont vous remplacez
+une partie ne pr&#233;cisent pas quoi faire des it&#233;rations ult&#233;rieures
+du pouvoir qui n’auront pas &#233;t&#233; remplac&#233;es. Prenons
+l’exemple du pouvoir de classe de canalisation d’&#233;nergie des
+pr&#234;tres. Si vous remplacez l’augmentation de 2d6 obtenue au
+niveau 3, que se passe-t-il au niveau 5 ? Le personnage gagne-t-il
+2d6 avec ce pouvoir ou gagne-t-il directement 3d6 ? Dans ces
+cas-l&#224;, il vaut mieux remplacer le pouvoir de classe dans sa totalit&#233;
+ou veiller &#224; ce que la description du remplacement explique
+clairement comment traiter les autres aspects du pouvoir de
+classe existant.&lt;br /&gt;&lt;br /&gt;&lt;h4 class=&quot;separator&quot;&gt;Classes alternatives&lt;a class=&quot;headeranchor&quot; id=&quot;Classes_alternatives_4&quot; href=&quot;#Classes_alternatives_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;Il arrive parfois qu’un arch&#233;type remplace
+un si grand nombre de pouvoirs de classe qu’il pourrait
+presque &#234;tre consid&#233;r&#233; comme une nouvelle classe. Dans ce
+cas, la classe propose une forme diff&#233;rente de tous les pouvoirs
+de classe, m&#234;me de ceux qu’elle partage avec sa classe de base.
+Bien que cette classe soit toujours consid&#233;r&#233;e comme un arch&#233;type
+d’un point de vue technique, les joueurs qui l’endossent
+disposent de tous les outils n&#233;cessaires pour faire &#233;voluer leur
+personnage de la fa&#231;on qui leur convient. L’antipaladin, le ninja
+et le samoura&#239; sont tous des exemples de classes alternatives.&lt;br /&gt;&lt;br /&gt;&lt;h4 class=&quot;separator&quot;&gt;Classes hybrides&lt;a class=&quot;headeranchor&quot; id=&quot;Classes_hybrides_5&quot; href=&quot;#Classes_hybrides_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;Une classe hybride est un peu comme un arch&#233;type
+dans le sens o&#249; l’arch&#233;type s’inspire fortement des classes
+existantes tandis que la classe hybride s’inspire de deux classes diff&#233;rentes
+pour former la base de ses pouvoirs. Il en r&#233;sulte une classe
+compl&#232;tement nouvelle avec ses propres r&#232;gles et pouvoirs.
+]]></body>
+  <raw><![CDATA[{s:mca}La création d’archétype est similaire à la création de classe mais,
+pour vous faciliter la tâche, l’essentiel du travail a déjà été fait. À
+l’identique d’une classe, un archétype doit répondre à un concept
+et s’appuyer sur un ensemble de règles qui lui sont propres mais,
+à la différence d’une classe, ses caractéristiques ne doivent pas
+forcément être spécifiques à ce seul archétype. L’archétype se
+rapproche souvent d’une classe existante en termes de concept
+ou de règles, mais il donne une orientation légèrement différente
+à cette classe en modifiant quelques-uns de ses pouvoirs de
+classe afin d’améliorer l’expression de son propre concept.
+
+=====Création et règles=====
+La plupart des archétypes sont, au départ, de nouvelles idées de
+classes, jusqu’à ce que l’on regroupe les éléments qui les composent
+et qu’il apparaisse évident qu’ils ressemblent beaucoup à
+certaines classes déjà existantes. Lorsque la situation se présente,
+mieux vaut créer un archétype plutôt qu’une classe complètement
+nouvelle qui empiètera sur les platebandes d’une autre.
+Prenons comme exemple l’archétype du rôdeur tirailleur.
+Le concept du tirailleur est très proche de celui du rôdeur : il s’épanouit dans les environnements naturels et disposent de pouvoirs généralement utiles en combat. D’un point de vue technique, presque toutes les règles du rôdeur s’appliquent au tirailleur, mais ce dernier bénéficie d’un ensemble de bottes secrètes qui remplace la capacité de lancement de sorts du rôdeur. Il serait injustifié de créer une toute nouvelle classe autour de ce concept quand il suffit d’apporter
+quelques simples modifications de règles au rôdeur.
+
+=====Principes de création=====
+L’essentiel du travail de création d’archétype tourne autour des
+pouvoirs de classe. En règle générale, la plupart des principes
+mécaniques de base restent les mêmes. Les bonus de base à
+l’attaque, les dés de vie et les jets de sauvegarde ne changent
+pratiquement jamais. Quant aux compétences et à la capacité de
+lancer des sorts, il n’est pas nécessaire de les modifier à moins
+que l’archétype ne l’exige spécifiquement.
+
+=====Remplacement des pouvoirs de classe=====
+Pour créer un archétype
+réussi, il faut déterminer quels sont les pouvoirs de classe
+à remplacer et par quels autres pouvoirs les remplacer. En règle
+générale, les pouvoirs de classe primaires étant plus compliqués
+à remplacer, vous devriez agir avec prudence. Quant aux
+pouvoirs secondaires, ils ont une importance moindre pour la
+classe et sont donc plus faciles à remplacer.
+Quand vous décidez des pouvoirs à remplacer, gardez bien
+en tête le thème de l’archétype. S’agit-il d’un pouvoir important
+pour le rôle de l’archétype ? Si on le retire, la classe fonctionnera-
+t-elle toujours ? Existe-t-il d’autres pouvoirs dont le fonctionnement
+dépend du pouvoir sélectionné et faut-il, eux aussi,
+les remplacer ? Ces questions vous aideront à déterminer quels
+sont les pouvoirs essentiels à une classe et ceux qu’il est possible
+de remplacer avec un impact minimal.
+Pour un archétype, la création d’un nouveau pouvoir de classe
+qui vient remplacer un pouvoir existant suit un grand nombre
+des règles qui s’appliquent à la création d’un pouvoir pour une
+toute nouvelle classe. Il faut néanmoins tenir compte de la puissance
+et de la polyvalence du pouvoir que vous remplacez. Il ne
+serait pas équitable de remplacer le pouvoir de classe de courage
+du guerrier par un nouveau pouvoir conférant un bonus à la CA
+car cet échange donnerait lieu à un archétype plus puissant que
+la classe de base. Même si vous faites tout votre possible pour
+équilibrer cet échange en remplaçant un autre pouvoir de classe
+par une solution moins puissante, il vaut mieux éviter ce genre
+de remplacements. Dans le cas où vous y seriez contraint, veillez
+à ce que la solution moins puissante soit accessible à un niveau
+inférieur à celui qui permet de gagner la solution plus puissante.
+Ainsi, le personnage s’acquittera du « coût » du nouveau
+pouvoir plus puissant avant de profiter de ses avantages et vous
+éviterez les situations où les personnages décident de gagner
+quelques niveaux dans un archétype, pour obtenir le puissant
+pouvoir de classe, puis changent de classe pour ne pas en payer
+le prix. Pour indication, le rôle et la puissance des pouvoirs de
+remplacement devraient être à peu près similaires à ceux des
+pouvoirs qu’ils remplacent. Ce n’est pas toujours le cas mais,
+même si vous déviez de ce rôle, veillez à ce que l’écart de puissance
+entre le pouvoir de remplacement que vous créez et le
+pouvoir remplacé ne soit pas trop important.
+
+=====Remplacements partiels=====
+Selon les circonstances, il est parfois
+acceptable de n’échanger qu’une partie d’un
+pouvoir de classe, mais uniquement si ce pouvoir
+confère des bonus ou des capacités particulières
+au fil des niveaux. Par exemple, le
+guerrier dispose du pouvoir de classe don
+supplémentaire, qui confère un don supplémentaire
+au niveau 1, au niveau 2 et tous les
+niveaux pairs après cela. Un archétype pourrait
+échanger certains ou la totalité de ces
+dons supplémentaires contre de nouveaux
+pouvoirs de classe.
+Soyez prudent lorsque vous effectuez un remplacement
+partiel. Il se peut que les règles du pouvoir dont vous remplacez
+une partie ne précisent pas quoi faire des itérations ultérieures
+du pouvoir qui n’auront pas été remplacées. Prenons
+l’exemple du pouvoir de classe de canalisation d’énergie des
+prêtres. Si vous remplacez l’augmentation de 2d6 obtenue au
+niveau 3, que se passe-t-il au niveau 5 ? Le personnage gagne-t-il
+2d6 avec ce pouvoir ou gagne-t-il directement 3d6 ? Dans ces
+cas-là, il vaut mieux remplacer le pouvoir de classe dans sa totalité
+ou veiller à ce que la description du remplacement explique
+clairement comment traiter les autres aspects du pouvoir de
+classe existant.
+
+=====Classes alternatives=====
+Il arrive parfois qu’un archétype remplace
+un si grand nombre de pouvoirs de classe qu’il pourrait
+presque être considéré comme une nouvelle classe. Dans ce
+cas, la classe propose une forme différente de tous les pouvoirs
+de classe, même de ceux qu’elle partage avec sa classe de base.
+Bien que cette classe soit toujours considérée comme un archétype
+d’un point de vue technique, les joueurs qui l’endossent
+disposent de tous les outils nécessaires pour faire évoluer leur
+personnage de la façon qui leur convient. L’antipaladin, le ninja
+et le samouraï sont tous des exemples de classes alternatives.
+
+=====Classes hybrides=====
+Une classe hybride est un peu comme un archétype
+dans le sens où l’archétype s’inspire fortement des classes
+existantes tandis que la classe hybride s’inspire de deux classes différentes
+pour former la base de ses pouvoirs. Il en résulte une classe
+complètement nouvelle avec ses propres règles et pouvoirs.]]></raw>
+  <fullName>Pathfinder-RPG.Création dun archétype</fullName>
+</wikiPage>

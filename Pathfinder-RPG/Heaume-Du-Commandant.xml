@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Heaume du commandant</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Inner Sea Races</category></categories>
+  <lastModified>2024-12-30 15:50:45Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Objets merveilleux portés sur la tête</link><link>Pathfinder-RPG.Races de la mer Intérieure (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.Objets merveilleux portés sur la tête</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.mot de commande</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Perspicacité tactique</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Heaume du commandant&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Races de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Races/Races de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 4 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Sur-La-T&#234;te.html&quot; title=&quot;Objets merveilleux port&#233;s sur la t&#234;te&quot;&gt;t&#234;te&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 10.000 po (inf&#233;rieur), 16.000 po (sup&#233;rieur), 24.000 po (supr&#234;me) ; &lt;b&gt;Poids&lt;/b&gt; 0.5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ce casque int&#233;gral est marqu&#233; d&#39;insignes militaires naines archa&#239;ques. Lorsque chaque heaume est cr&#233;&#233;, il est associ&#233; &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONEQUIPE&quot; title=&quot;Les dons&quot;&gt;don de travail d&#39;&#233;quipe&lt;/a&gt;. Le porteur gagne ce don tant qu&#39;il porte le heaume et remplit ses conditions. Sur &lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques#Objetsamotdecommande.html&quot; title=&quot;mot de commande&quot;&gt;commande&lt;/a&gt;, le porteur peut accorder ce don &#224; tous les alli&#233;s qui en remplissent les conditions dans un rayon de 9 m&#232;tres pendant 1 minute. Le heaume peut &#234;tre activ&#233; jusqu&#39;&#224; trois fois par jour.&lt;br /&gt;&lt;br /&gt;Si le porteur est un &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nain&lt;/a&gt;, il peut choisir n&#39;importe lequel des &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONEQUIPE&quot; title=&quot;Les dons&quot;&gt;dons de travail d&#39;&#233;quipe&lt;/a&gt; qu&#39;il poss&#232;de pour l&#39;accorder de cette fa&#231;on. Le heaume ne peut pas accorder plus d&#39;un don &#224; la fois ; lorsqu&#39;un nouveau don est choisit, tous les sujets perdent les dons pr&#233;c&#233;demment accord&#233;s.&lt;br /&gt;&lt;br /&gt;Un &lt;i&gt;heaume du commandant inf&#233;rieur&lt;/i&gt; peut &#234;tre associ&#233; &#224; un don qui a soit une condition de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Bonusdebasealattaque.html&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; de +5 ou moins soit une condition de rangs de comp&#233;tence de 5 ou moins. Un &lt;i&gt;heaume du commandant sup&#233;rieur&lt;/i&gt; peut &#234;tre associ&#233; &#224; un don qui a soit une condition de BBA de +10 ou moins soit une condition de rangs de comp&#233;tence de 10 ou moins. Un &lt;i&gt;heaume du commandant supr&#234;me&lt;/i&gt; peut &#234;tre associ&#233; &#224; n&#39;importe quel &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONEQUIPE&quot; title=&quot;Les dons&quot;&gt;don de travail d&#39;&#233;quipe&lt;/a&gt;. Les m&#234;mes restrictions s&#39;appliquent aux dons qu&#39;un porteur &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nain&lt;/a&gt; peut accorder lorsqu&#39;il choisit parmi les dons qu&#39;il poss&#232;de.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, le &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONEQUIPE&quot; title=&quot;Les dons&quot;&gt;don de travail d&#39;&#233;quipe&lt;/a&gt; doit &#234;tre impr&#233;gn&#233;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perspicacit&#233;-Tactique.html&quot; title=&quot;Perspicacit&#233; tactique&quot;&gt;perspicacit&#233; tactique&lt;/a&gt;&lt;/i&gt;, le cr&#233;ateur doit &#234;tre un &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nain&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 5.000 po (inf&#233;rieur), 8.000 po (sup&#233;rieur), 12.000 po (supr&#234;me)
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}<div class="BD">
+{s:BDTitre|Heaume du commandant|{s:ISR}}
+'''Aura''' [[Enchantement]] faible ; '''NLS''' 4 ; '''Emplacement''' [[Objets merveilleux portés sur la tête|tête]] ; '''Prix''' 10.000 po (inférieur), 16.000 po (supérieur), 24.000 po (suprême) ; '''Poids''' 0.5 kg
+(((Description)))
+{s:cs}Ce casque intégral est marqué d'insignes militaires naines archaïques. Lorsque chaque heaume est créé, il est associé à un [[Dons#DONEQUIPE|don de travail d'équipe]]. Le porteur gagne ce don tant qu'il porte le heaume et remplit ses conditions. Sur [[mot de commande|commande]], le porteur peut accorder ce don à tous les alliés qui en remplissent les conditions dans un rayon de 9 mètres pendant 1 minute. Le heaume peut être activé jusqu'à trois fois par jour.
+
+Si le porteur est un [[nain]], il peut choisir n'importe lequel des [[Dons#DONEQUIPE|dons de travail d'équipe]] qu'il possède pour l'accorder de cette façon. Le heaume ne peut pas accorder plus d'un don à la fois ; lorsqu'un nouveau don est choisit, tous les sujets perdent les dons précédemment accordés.
+
+Un ''heaume du commandant inférieur'' peut être associé à un don qui a soit une condition de [[BBA]] de +5 ou moins soit une condition de rangs de compétence de 5 ou moins. Un ''heaume du commandant supérieur'' peut être associé à un don qui a soit une condition de BBA de +10 ou moins soit une condition de rangs de compétence de 10 ou moins. Un ''heaume du commandant suprême'' peut être associé à n'importe quel [[Dons#DONEQUIPE|don de travail d'équipe]]. Les mêmes restrictions s'appliquent aux dons qu'un porteur [[nain]] peut accorder lorsqu'il choisit parmi les dons qu'il possède.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], le [[Dons#DONEQUIPE|don de travail d'équipe]] doit être imprégné, ''[[perspicacité tactique]]'', le créateur doit être un [[nain]] ; '''Coût''' 5.000 po (inférieur), 8.000 po (supérieur), 12.000 po (suprême)
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Heaume du commandant</fullName>
+</wikiPage>

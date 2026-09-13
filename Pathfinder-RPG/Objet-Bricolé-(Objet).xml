@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Objet bricolé</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-16 22:00:21Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Gobelin (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.test de compétence</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.MJ</link><link>Pathfinder-RPG.Gobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; sp&#233;cial ; &lt;b&gt;Poids&lt;/b&gt; sp&#233;cial  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quipement-Daventurier.html&quot; title=&quot;&#201;quipement d&amp;#39;aventurier&quot;&gt;&#201;quipement d&#39;aventurier&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt; sont particuli&#232;rement dou&#233;s pour fabriquer des objets &#224; partir de d&#233;bris r&#233;cup&#233;r&#233;s. La cat&#233;gorie &#171; objet bricol&#233; &#187; regroupe tous les &#233;quipements r&#233;par&#233;s ou modifi&#233;s par les gobelins. Ces objets sont de moindre qualit&#233; et lorsqu&#39;ils sont utilis&#233;s dans le cadre d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences#Testsdecompetences.html&quot; title=&quot;test de comp&#233;tence&quot;&gt;test de comp&#233;tence&lt;/a&gt; ou d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt;, ils ont 10 % de chances de se casser. Les objets bricol&#233;s ne peuvent jamais &#234;tre des &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html#OBJETMAITRE&quot; title=&quot;Artisanat&quot;&gt;objets de ma&#238;tre&lt;/a&gt;. La qualit&#233; de ces objets est inf&#233;rieure &#224; celle de leur &#233;quivalent normal ; leur prix est donc &#233;gal &#224; 75 % du prix de leur &#233;quivalent normal. Par contre, les objets bricol&#233;s sont plus encombrants. Tout objet bricol&#233; pesant 500 g ou plus p&#232;se en r&#233;alit&#233; deux fois plus que son &#233;quivalent normal. Tout objet dont le prix est sup&#233;rieur &#224; 50 po ne peut jamais &#234;tre bricol&#233;, tout comme l&#39;ensemble des produits alchimiques. &#192; la discr&#233;tion du &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Maitredujeu.html&quot; title=&quot;MJ&quot;&gt;MJ&lt;/a&gt;, certains objets seront tout simplement impossibles &#224; bricoler.
+]]></body>
+  <raw><![CDATA[{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}'''Prix''' spécial ; '''Poids''' spécial  
+<span class="Catégorie">'''Catégorie''' [[Équipement daventurier|Équipement d'aventurier]]</span>
+<hr>
+Les [[Gobelin (race)|gobelins]] sont particulièrement doués pour fabriquer des objets à partir de débris récupérés. La catégorie « objet bricolé » regroupe tous les équipements réparés ou modifiés par les gobelins. Ces objets sont de moindre qualité et lorsqu'ils sont utilisés dans le cadre d'un [[test de compétence]] ou d'un [[jet dattaque|jet d'attaque]], ils ont 10 % de chances de se casser. Les objets bricolés ne peuvent jamais être des [[Artisanat#OBJETMAITRE|objets de maître]]. La qualité de ces objets est inférieure à celle de leur équivalent normal ; leur prix est donc égal à 75 % du prix de leur équivalent normal. Par contre, les objets bricolés sont plus encombrants. Tout objet bricolé pesant 500 g ou plus pèse en réalité deux fois plus que son équivalent normal. Tout objet dont le prix est supérieur à 50 po ne peut jamais être bricolé, tout comme l'ensemble des produits alchimiques. À la discrétion du [[MJ]], certains objets seront tout simplement impossibles à bricoler.]]></raw>
+  <fullName>Pathfinder-RPG.Objet bricolé (objet)</fullName>
+</wikiPage>

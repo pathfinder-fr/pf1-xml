@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sacoche du piégeur</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2024-08-25 15:30:26Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Kobold (race)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Exemples de pièges</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Conception de pièges</link><link>Pathfinder-RPG.Donjons</link><link>Pathfinder-RPG.Pièges</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Fabrication</link><link>Pathfinder-RPG.Kobold (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Kobold.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Kobold (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Kobold.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Kobold-(Race).html&quot; title=&quot;Les kobolds&quot;&gt;kobolds&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sacoche du pi&#233;geur&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 9 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 20 000 ; &lt;b&gt;Poids&lt;/b&gt; 1 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette lourde sacoche de cuir ne gonfle que l&#233;g&#232;rement, mais si on l’observe de plus pr&#232;s, elle est pleine de couteaux, de rouages, de pioches, de pelles et de fl&#232;ches. Une fois par jour, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, le porteur peut commander au sac de cr&#233;er &lt;a class=&quot;pagelink&quot; href=&quot;Exemples-De-Pi&#232;ges.html&quot; title=&quot;Exemples de pi&#232;ges&quot;&gt;n’importe quel pi&#232;ge m&#233;canique&lt;/a&gt; de FP 4 ou moins qui appara&#238;t &#224; l’emplacement d&#233;sign&#233; dans un rayon de 15 m&#232;tres (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Le porteur doit r&#233;ussir un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt;(pi&#232;ges) d’un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; &#233;gal au DD normal de &lt;a class=&quot;pagelink&quot; href=&quot;Conception-De-Pi&#232;ges.html&quot; title=&quot;Conception d&amp;#39;un pi&#232;ge&quot;&gt;cr&#233;ation du pi&#232;ge&lt;/a&gt;. S’il r&#233;ussit, le pi&#232;ge fusionne instantan&#233;ment avec la zone choisie, exactement comme si quelqu’un avait construit ce pi&#232;ge &#224; cet endroit. S’il rate son test, aucun pi&#232;ge n’appara&#238;t. La sacoche peut alt&#233;rer la terre, la pierre et le bois pour adapter le pi&#232;ge sans modifier le terrain alentour (y compris les &lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_portes_2&quot; title=&quot;Les donjons&quot;&gt;portes&lt;/a&gt;, les &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#EFFETS&quot; title=&quot;Les pi&#232;ges&quot;&gt;fosses&lt;/a&gt;, etc.)
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d’objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fabrication.html&quot; title=&quot;Fabrication&quot;&gt;fabrication&lt;/a&gt;&lt;/i&gt;, le cr&#233;ateur doit avoir 5 rangs en &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (pi&#232;ges) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 10 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Kobold (race)|kobolds|Illustrations/PNJ/Kobold.jpg}<div class="BD">
+{s:BDTitre|Sacoche du piégeur|{s:MR}}
+'''Aura''' [[Transmutation]] modérée ; '''NLS''' 9 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 20 000 ; '''Poids''' 1 kg
+(((Description)))
+Cette lourde sacoche de cuir ne gonfle que légèrement, mais si on l’observe de plus près, elle est pleine de couteaux, de rouages, de pioches, de pelles et de flèches. Une fois par jour, par une [[action complexe]], le porteur peut commander au sac de créer [[Exemples de pièges|n’importe quel piège mécanique]] de FP 4 ou moins qui apparaît à l’emplacement désigné dans un rayon de 15 mètres (10 {s:c}). Le porteur doit réussir un test d’[[Artisanat]](pièges) d’un [[DD]] égal au DD normal de [[Conception de pièges|création du piège]]. S’il réussit, le piège fusionne instantanément avec la zone choisie, exactement comme si quelqu’un avait construit ce piège à cet endroit. S’il rate son test, aucun piège n’apparaît. La sacoche peut altérer la terre, la pierre et le bois pour adapter le piège sans modifier le terrain alentour (y compris les [[Donjons#Les_portes_2|portes]], les [[Pièges#EFFETS|fosses]], etc.)
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d’objets merveilleux]], ''[[fabrication]]'', le créateur doit avoir 5 rangs en [[Artisanat]] (pièges) ; '''Coût''' 10 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Sacoche du piégeur</fullName>
+</wikiPage>

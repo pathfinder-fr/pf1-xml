@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bousier, Nuée de bousiers</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-20 17:32:47Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Bousier géant</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Nuée de bousiers</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Distraction (capacité)</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Bousier géant</link><link>Pathfinder-RPG.Nuée de bousiers</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e de bousiers&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vermine&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vermine.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;D&#233;sert&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/D&#233;sert.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.49&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille I, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 18, pris au d&#233;pourvu 18 (taille +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (4d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +1 ; +4 contre maladie et paralysie
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; traits des nu&#233;es ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux, armes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, escalade 3 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 6 m (maladroite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e (1d6 plus maladie et distraction)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction (Ext)&quot;&gt;distraction&lt;/a&gt; (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 1, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; — ; &lt;b&gt;DMD&lt;/b&gt; —
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +0 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Perception
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; d&#233;serts chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, paire ou infestation (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Ext).&lt;/b&gt; &lt;i&gt;Fi&#232;vre des marais&lt;/i&gt; : Morsure — blessure ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vig&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13 ; &lt;i&gt;incubation&lt;/i&gt; 1d3 jours ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1 jour ; &lt;i&gt;effet&lt;/i&gt; affaiblissement temporaire de 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt; et de 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 jets de sauvegarde cons&#233;cutifs.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de bousier&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bousier-G&#233;ant.html&quot; title=&quot;Bousier, Bousier g&#233;ant&quot;&gt;Bousier g&#233;ant&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-De-Bousiers.html&quot; title=&quot;Bousier, Nu&#233;e de bousiers&quot;&gt;Nu&#233;e de bousiers&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;De cette masse d’insectes iridescents d’un noir bleut&#233; se d&#233;gage une puanteur naus&#233;abonde. Elle est accompagn&#233;e d’un nuage de poussi&#232;re sale.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les bousiers se regroupent souvent en nu&#233;es et terrorisent les r&#233;gions d&#233;sertiques isol&#233;es. Ces vermines sont une menace pour les tombeaux antiques, car elles se frayent un chemin &#224; coups de mandibules &#224; travers les corps enterr&#233;s.&lt;br /&gt;&lt;br /&gt;Une nu&#233;e de bousiers rassemble des milliers d’individus, chacun sali par ses contacts constants avec le crottin et les ca- davres. Alors qu’individuellement ils ne font g&#233;n&#233;ralement pas attention aux autres cr&#233;atures, quand ils se trouvent en nu&#233;e, les bousiers infligent des milliers de morsures vives &#224; ceux qui se trouvent sur leur chemin et leur transmettent au passage une maladie infectieuse. Les morsures de la nu&#233;e devraient &#234;tre que le cadets des soucis des victimes de ces col&#233;opt&#232;res, car c’est surtout de la maladie qu’elles v&#233;hiculent qu’il faut se m&#233;fier, sachant qu’elle cause bien plus de morts que l’app&#233;tit des insectes.&lt;br /&gt;&lt;br /&gt;Certains &#233;rudits religieux ont &#233;mis la th&#233;orie selon laquelle ces bousiers s’assemblent en nu&#233;es sous l’influence de la m&#234;me &#233;nergie mal&#233;fique qui est &#224; l’origine des morts-vivants. N&#233;anmoins, la plupart des gens consid&#232;rent une telle supposition comme une simple superstition. Certains adeptes des dieux de la mort voient dans l’arriv&#233;e d’une nu&#233;e de bousiers un signe de mauvaise fortune.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de bousiers|FP 3}
+{s:pucem|Vermine|Désert|Tropical}
+{s:BDTexte|''Source : Bestiaire 5 p.49''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille I, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 18, pris au dépourvu 18 (taille +8)}
+{s:BDTexte|'''pv''' 22 (4d8+4)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +5, '''Vol''' +1 ; +4 contre maladie et paralysie}
+{s:BDTexte|'''Capacités défensives''' traits des nuées ; '''Immunités''' effets mentaux, armes}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, escalade 3 m, [[Vol (capacité)|vol]] 6 m (maladroite)}
+{s:BDTexte|'''Corps à corps''' nuée (1d6 plus maladie et distraction)}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 0 m.}
+{s:BDTexte|'''Attaques spéciales''' [[Distraction (capacité)|distraction]] (DD 13)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 1, '''Dex''' 10, '''Con''' 13, '''Int''' —, '''Sag''' 11, '''Cha''' 2}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' — ; '''DMD''' —}
+{s:BDTexte|'''Compétences''' [[Escalade]] +8, [[Perception]] +4, [[Vol]] +0 ; '''Modificateurs raciaux''' +4 en Perception}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' déserts chauds}
+{s:BDTexte|'''Organisation''' solitaire, paire ou infestation (3-6)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Maladie (Ext).''' ''Fièvre des marais'' : Morsure — blessure ; ''[[jet de sauvegarde]]'' [[Vigueur|Vig]] [[DD]] 13 ; ''incubation'' 1d3 jours ; ''fréquence'' 1 jour ; ''effet'' affaiblissement temporaire de 1d3 [[Dextérité|Dex]] et de 1d3 [[Constitution|Con]] ; ''guérison'' 2 jets de sauvegarde consécutifs.}
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de bousier
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Bousier géant]] || 6
+|-
+| [[Nuée de bousiers]] || 3
+|}
+</div>''De cette masse d’insectes iridescents d’un noir bleuté se dégage une puanteur nauséabonde. Elle est accompagnée d’un nuage de poussière sale.''
+
+Les bousiers se regroupent souvent en nuées et terrorisent les régions désertiques isolées. Ces vermines sont une menace pour les tombeaux antiques, car elles se frayent un chemin à coups de mandibules à travers les corps enterrés.
+
+Une nuée de bousiers rassemble des milliers d’individus, chacun sali par ses contacts constants avec le crottin et les ca- davres. Alors qu’individuellement ils ne font généralement pas attention aux autres créatures, quand ils se trouvent en nuée, les bousiers infligent des milliers de morsures vives à ceux qui se trouvent sur leur chemin et leur transmettent au passage une maladie infectieuse. Les morsures de la nuée devraient être que le cadets des soucis des victimes de ces coléoptères, car c’est surtout de la maladie qu’elles véhiculent qu’il faut se méfier, sachant qu’elle cause bien plus de morts que l’appétit des insectes.
+
+Certains érudits religieux ont émis la théorie selon laquelle ces bousiers s’assemblent en nuées sous l’influence de la même énergie maléfique qui est à l’origine des morts-vivants. Néanmoins, la plupart des gens considèrent une telle supposition comme une simple superstition. Certains adeptes des dieux de la mort voient dans l’arrivée d’une nuée de bousiers un signe de mauvaise fortune.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nuée de bousiers</fullName>
+</wikiPage>

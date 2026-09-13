@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Apallie</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-16 00:09:15Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.Amorphe (capacité)</link><link>Pathfinder-RPG.Traits des vases (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Fourberie</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Perception</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Apallie&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vase&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.30&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; Perception +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 13 (Dex +2, naturelle +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (4d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Amorphe-(Capacit&#233;).html&quot; title=&quot;Amorphe (Ext)&quot;&gt;amorphe&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Vases-(Capacit&#233;).html&quot; title=&quot;Traits des vases (Ext)&quot;&gt;traits des vases&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; allergie au soleil
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, escalade 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +6 (1d3+2 plus 1d4 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 4 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d&#39;apparence&lt;/a&gt;&lt;/i&gt; (humano&#239;des de taille P seulement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Fourberie.html&quot; title=&quot;Fourberie&quot;&gt;Fourberie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; r&#233;gions temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou colonie (4-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Allergie au soleil (Sur).&lt;/b&gt; La lumi&#232;re du soleil dissipe automatiquement le pouvoir magique de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d’apparence&lt;/a&gt;&lt;/i&gt; de l’apallie.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;La forme de cette petite vase verte change constamment, mais elle adopte souvent un aspect vaguement humano&#239;de avec deux jambes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La plupart des vases sont d&#233;c&#233;r&#233;br&#233;es et n’existent que pour d&#233;vorer. M&#234;me les rares vases dot&#233;es d’une intelligence pr&#233;f&#232;rent tout de m&#234;me d&#233;vorer, et non c&#244;toyer d’autres cr&#233;atures. Parfois, cependant, une vase en pr&#233;sence d’un puissant lanceur de sorts psychiques se voit investie d’un semblant de conscience et de personnalit&#233; et aspire &#224; c&#244;toyer des cr&#233;atures civilis&#233;es. Quand un lanceur de sorts termine un rituel particuli&#232;rement stressant ou accomplit un incroyable exploit mental &#224; proximit&#233; du m&#233;lange appropri&#233; de substances gluantes primordiales susceptibles de produire une vase, un fragment de l’esprit du lanceur de sorts se d&#233;tache et investit la vase pour cr&#233;er une entit&#233; appel&#233;e apallie.&lt;br /&gt;&lt;br /&gt;Une apallie r&#233;cemment form&#233;e est g&#233;n&#233;ralement convaincue d’&#234;tre un membre de la race de son cr&#233;ateur. Elle souhaite avant tout rejoindre la soci&#233;t&#233; de son cr&#233;ateur et change de forme pour s’infiltrer dans les communaut&#233;s d’humano&#239;des. De tels imposteurs sont toutefois facilement identifi&#233;s, car une apallie ne peut cacher sa v&#233;ritable nature lorsque le soleil commence &#224; se lever. Une vase d&#233;voil&#233;e de cette fa&#231;on est souvent oblig&#233;e de quitter pr&#233;cipitamment les lieux et de tenter sa chance dans la communaut&#233; suivante. Il existe n&#233;anmoins quelques apallies particuli&#232;rement d&#233;termin&#233;es qui prennent simplement une nouvelle apparence et reviennent la nuit suivante sous un d&#233;guisement diff&#233;rent.&lt;br /&gt;&lt;br /&gt;Les apallies sont des cr&#233;atures nocturnes, car tout contact avec les rayons du soleil les oblige &#224; reprendre leur v&#233;ritable apparence informe. M&#234;me lorsqu’elle est oblig&#233;e de reprendre sa forme, une apallie insiste en se faisant passer pour un membre de la race de son cr&#233;ateur et en affirmant qu’elle est sous le joug, on ne sait comment, d’une terrible mal&#233;diction. Malgr&#233; l’intelligence relativement &#233;lev&#233;e d’une apallie, cet attachement irraisonn&#233; vis-&#224;-vis de son image persiste, m&#234;me dans les situations les plus compliqu&#233;es. Si le cr&#233;ateur de l’apallie &#233;tait d’une taille diff&#233;rente de la sienne, celle-ci tente quand m&#234;me d’endosser son apparence, en essayant de passer pour un petit elfe, humain ou membre de la race de son cr&#233;ateur, et refuse de reconna&#238;tre la diff&#233;rence de taille.&lt;br /&gt;&lt;br /&gt;Les apallies sont plus nombreuses dans les grandes villes dot&#233;es d’&#233;gouts et d’autres lieux confin&#233;s, pour pouvoir s’y cacher le jour et pour mener une vie nocturne anim&#233;e lors de laquelle elles peuvent passer pour des humano&#239;des tant qu’il fait sombre. Certaines apallies parviennent &#224; se faire accepter, et m&#234;me &#224; r&#233;ussir leur vie, dans ce type d’environnements. Les petites vases n’arr&#234;tent cependant pas de croire qu’elles sont des humano&#239;des et les relations qu’elles initient (qu’elles soient platoniques ou romantiques) se terminent presque toutes par un d&#233;sastre pr&#233;visible.&lt;br /&gt;&lt;br /&gt;Dans sa forme v&#233;ritable, une apallie p&#232;se 20 kilos environ pour une hauteur approximative d’un m&#232;tre.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Apallie|FP 2}
+{s:pucem|Vase|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire 5 p.30''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Vase|Vase]] de taille P, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' Perception +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 13, pris au dépourvu 13 (Dex +2, naturelle +2, taille +1)}
+{s:BDTexte|'''pv''' 22 (4d8+4)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +2, '''Vol''' +2}
+{s:BDTexte|'''Capacités défensives''' [[Amorphe (capacité)|amorphe]] ; '''Immunités''' [[Traits des vases (capacité)|traits des vases]]}
+{s:BDTexte|'''Faiblesses''' allergie au soleil}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m, escalade 6 m}
+{s:BDTexte|'''Corps à corps''' 2 coups, +6 (1d3+2 plus 1d4 acide)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 4 ; [[concentration]] +4)}
+{s:BDSorts|À volonté — ''[[modification dapparence|modification d'apparence]]'' (humanoïdes de taille P seulement)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 15, '''Con''' 12, '''Int''' 13, '''Sag''' 12, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +4 ; '''DMD''' 16}
+{s:BDTexte|'''Dons''' [[Fourberie]], [[Réflexes surhumains]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +2, [[Déguisement]] +6, [[Discrétion]] +10, [[Escalade]] +10, [[Perception]] +5}
+{s:BDTexte|'''Langues''' sylvestre}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' régions tempérées}
+{s:BDTexte|'''Organisation''' solitaire, couple ou colonie (4-12)}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Allergie au soleil (Sur).''' La lumière du soleil dissipe automatiquement le pouvoir magique de ''[[modification dapparence|modification d’apparence]]'' de l’apallie.}
+</div></td>
+<td><div>''La forme de cette petite vase verte change constamment, mais elle adopte souvent un aspect vaguement humanoïde avec deux jambes.''
+
+La plupart des vases sont décérébrées et n’existent que pour dévorer. Même les rares vases dotées d’une intelligence préfèrent tout de même dévorer, et non côtoyer d’autres créatures. Parfois, cependant, une vase en présence d’un puissant lanceur de sorts psychiques se voit investie d’un semblant de conscience et de personnalité et aspire à côtoyer des créatures civilisées. Quand un lanceur de sorts termine un rituel particulièrement stressant ou accomplit un incroyable exploit mental à proximité du mélange approprié de substances gluantes primordiales susceptibles de produire une vase, un fragment de l’esprit du lanceur de sorts se détache et investit la vase pour créer une entité appelée apallie.
+
+Une apallie récemment formée est généralement convaincue d’être un membre de la race de son créateur. Elle souhaite avant tout rejoindre la société de son créateur et change de forme pour s’infiltrer dans les communautés d’humanoïdes. De tels imposteurs sont toutefois facilement identifiés, car une apallie ne peut cacher sa véritable nature lorsque le soleil commence à se lever. Une vase dévoilée de cette façon est souvent obligée de quitter précipitamment les lieux et de tenter sa chance dans la communauté suivante. Il existe néanmoins quelques apallies particulièrement déterminées qui prennent simplement une nouvelle apparence et reviennent la nuit suivante sous un déguisement différent.
+
+Les apallies sont des créatures nocturnes, car tout contact avec les rayons du soleil les oblige à reprendre leur véritable apparence informe. Même lorsqu’elle est obligée de reprendre sa forme, une apallie insiste en se faisant passer pour un membre de la race de son créateur et en affirmant qu’elle est sous le joug, on ne sait comment, d’une terrible malédiction. Malgré l’intelligence relativement élevée d’une apallie, cet attachement irraisonné vis-à-vis de son image persiste, même dans les situations les plus compliquées. Si le créateur de l’apallie était d’une taille différente de la sienne, celle-ci tente quand même d’endosser son apparence, en essayant de passer pour un petit elfe, humain ou membre de la race de son créateur, et refuse de reconnaître la différence de taille.
+
+Les apallies sont plus nombreuses dans les grandes villes dotées d’égouts et d’autres lieux confinés, pour pouvoir s’y cacher le jour et pour mener une vie nocturne animée lors de laquelle elles peuvent passer pour des humanoïdes tant qu’il fait sombre. Certaines apallies parviennent à se faire accepter, et même à réussir leur vie, dans ce type d’environnements. Les petites vases n’arrêtent cependant pas de croire qu’elles sont des humanoïdes et les relations qu’elles initient (qu’elles soient platoniques ou romantiques) se terminent presque toutes par un désastre prévisible.
+
+Dans sa forme véritable, une apallie pèse 20 kilos environ pour une hauteur approximative d’un mètre.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Apallie</fullName>
+</wikiPage>

@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Grenouille, Grenouille goliath</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-20 17:20:04Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Grenouille géante</link><link>Pathfinder-RPG.Grenouille goliath</link><link>Pathfinder-RPG.Grenouille venimeuse</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Père grenouille</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Attirer (capacité)</link><link>Pathfinder-RPG.Engloutissement (capacité)</link><link>Pathfinder-RPG.Engloutissement rapide (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Grenouille géante</link><link>Pathfinder-RPG.Grenouille goliath</link><link>Pathfinder-RPG.Grenouille venimeuse</link><link>Pathfinder-RPG.Père grenouille</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Attirer</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Respiration aquatique (capacité)</link><link>Pathfinder-RPG.Engloutissement</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Grenouille goliath&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Marais&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.145&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 10, pris au d&#233;pourvu 14 (Dex +1, naturelle +5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 34 (4d8+16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, escalade 6 m, nage 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +6 (2d6+6 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;) ou langue, +6 (&#233;treinte)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (4,50 m avec la langue)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attirer-(Capacit&#233;).html&quot; title=&quot;Attirer (Ext)&quot;&gt;attirer&lt;/a&gt; (langue, 1,50 m), &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement (Ext)&quot;&gt;engloutissement&lt;/a&gt; (1d6 d&#233;g&#226;ts contondants, CA 12, 3 pv), &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-Rapide-(Capacit&#233;).html&quot; title=&quot;Engloutissement rapide (Ext)&quot;&gt;engloutissement rapide&lt;/a&gt;, langue
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 1, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +8 (+12 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 19 (23 contre les crocs-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Acrobaties)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +12 (+20 pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Acrobaties (+12 pour sauter), +4 en Discr&#233;tion, +4 en Perception
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; eaux ou marais chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou arm&#233;e (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langue (Ext).&lt;/b&gt; La langue d’une grenouille goliath est une attaque primaire dont l’allonge est &#233;gale &#224; trois fois celle de sa morsure. Son attaque de langue n’inflige aucun point de d&#233;g&#226;ts, mais elle peut l’utiliser pour &#233;treindre une cr&#233;ature. La grenouille n’est pas affubl&#233;e de l’&#233;tat pr&#233;judiciable agripp&#233; lorsqu’elle &#233;treint une cr&#233;ature avec sa langue.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de grenouille&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grenouille-G&#233;ante.html&quot; title=&quot;Grenouille, Grenouille g&#233;ante&quot;&gt;Grenouille g&#233;ante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grenouille-Goliath.html&quot; title=&quot;Grenouille, Grenouille goliath&quot;&gt;Grenouille goliath&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grenouille-Venimeuse.html&quot; title=&quot;Grenouille, Grenouille venimeuse&quot;&gt;Grenouille venimeuse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1/2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;P&#232;re-Grenouille.html&quot; title=&quot;Grenouille, P&#232;re grenouille&quot;&gt;P&#232;re grenouille&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Cet amphibien imposant et bigarr&#233; est recouvert de vase luisante et sa langue d&#233;gouline de salive.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces grenouilles imposantes hantent les mar&#233;cages et les rivi&#232;res peu profondes aux eaux chaudes o&#249; elles peuvent se cacher dans les broussailles &#233;paisses. Ce sont des pr&#233;dateurs agressifs et dangereux qui se gavent de cr&#233;atures plus petites qu’elles ou qui se rassemblent pour abattre des proies plus grandes. Elles grimpent souvent sur les branches basses de vieux arbres couverts de mousse et attrapent les proies qui passent au niveau du sol humide avant m&#234;me que celles-ci ne suspectent leur pr&#233;sence.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;La grenouille goliath comme &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Compagnons-Animaux.html&quot; title=&quot;Liste des compagnons animaux du druide&quot;&gt;compagnon animal&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;La_grenouille_goliath_comme_compagnon_animal__0&quot; href=&quot;#La_grenouille_goliath_comme_compagnon_animal__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;b&gt;Caract&#233;ristiques de d&#233;part :&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 15, Dex 13, Con 16, Int 1, Sag 9, Cha 6 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attirer-(Capacit&#233;).html&quot; title=&quot;Attirer&quot;&gt;attirer&lt;/a&gt;, langue, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Respiration-Aquatique-(Capacit&#233;).html&quot; title=&quot;Respiration aquatique (Ext)&quot;&gt;respiration aquatique&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 4 :&lt;/b&gt; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +1, Dex +2 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Engloutissement-(Capacit&#233;).html&quot; title=&quot;Engloutissement&quot;&gt;engloutissement&lt;/a&gt;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Grenouille goliath|FP 3}
+{s:pucem|Animal|Marais|Tropical}
+{s:BDTexte|''Source : Bestiaire 5 p.145''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 10, pris au dépourvu 14 (Dex +1, naturelle +5, taille -1)}
+{s:BDTexte|'''pv''' 34 (4d8+16)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +8, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, escalade 6 m, nage 9 m}
+{s:BDTexte|'''Corps à corps''' morsure, +6 (2d6+6 plus [[Étreinte (capacité)|étreinte]]) ou langue, +6 (étreinte)}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 1,50 m (4,50 m avec la langue)}
+{s:BDTexte|'''Attaques spéciales''' [[Attirer (capacité)|attirer]] (langue, 1,50 m), [[Engloutissement (capacité)|engloutissement]] (1d6 dégâts contondants, CA 12, 3 pv), [[Engloutissement rapide (capacité)|engloutissement rapide]], langue}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 19, '''Dex''' 13, '''Con''' 18, '''Int''' 1, '''Sag''' 10, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +8 (+12 en [[lutte]]) ; '''DMD''' 19 (23 contre les crocs-en-jambe)}
+{s:BDTexte|'''Dons''' [[Réflexes surhumains]], [[Talent]] (Acrobaties)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +12 (+20 pour sauter), [[Discrétion]] +5, [[Escalade]] +16, [[Natation]] +12, [[Perception]] +8 ; '''Modificateurs raciaux''' +4 en Acrobaties (+12 pour sauter), +4 en Discrétion, +4 en Perception}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' eaux ou marais chauds}
+{s:BDTexte|'''Organisation''' solitaire, couple ou armée (3-6)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Langue (Ext).''' La langue d’une grenouille goliath est une attaque primaire dont l’allonge est égale à trois fois celle de sa morsure. Son attaque de langue n’inflige aucun point de dégâts, mais elle peut l’utiliser pour étreindre une créature. La grenouille n’est pas affublée de l’état préjudiciable agrippé lorsqu’elle étreint une créature avec sa langue.}
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de grenouille
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Grenouille géante]] || 1
+|-
+| [[Grenouille goliath]] || 3
+|-
+| [[Grenouille venimeuse]] || 1/2
+|-
+| [[Père grenouille]] || 5
+|}
+</div>''Cet amphibien imposant et bigarré est recouvert de vase luisante et sa langue dégouline de salive.''
+
+Ces grenouilles imposantes hantent les marécages et les rivières peu profondes aux eaux chaudes où elles peuvent se cacher dans les broussailles épaisses. Ce sont des prédateurs agressifs et dangereux qui se gavent de créatures plus petites qu’elles ou qui se rassemblent pour abattre des proies plus grandes. Elles grimpent souvent sur les branches basses de vieux arbres couverts de mousse et attrapent les proies qui passent au niveau du sol humide avant même que celles-ci ne suspectent leur présence.
+
+====La grenouille goliath comme [[Liste des compagnons animaux|compagnon animal]]====
+'''Caractéristiques de départ :''' '''Taille''' M ; '''Vitesse''' 9 m (6 {s:c}), nage 9 m (6 {s:c}) ; '''CA''' armure naturelle +1 ; '''Attaque''' morsure (1d6) ; '''Caractéristiques''' For 15, Dex 13, Con 16, Int 1, Sag 9, Cha 6 ; '''Particularités''' [[attirer]], langue, [[odorat]], [[vision nocturne]], [[respiration aquatique (capacité)|respiration aquatique]].
+
+'''Développement au niveau 4 :''' '''Caractéristiques''' For +1, Dex +2 ; '''Particularités''' [[engloutissement]].
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Grenouille goliath</fullName>
+</wikiPage>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cape de plumécailles</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-06-01 16:28:01Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux portés sur les épaules</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux portés sur les épaules</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.Forme bestiale I</link><link>Pathfinder-RPG.Invisibilité pour les animaux</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Gozreh (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fGozreh.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gozreh (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fGozreh.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Gozreh-(Technique).html&quot; title=&quot;Gozreh&quot;&gt;Gozreh&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cape de plum&#233;cailles&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; faibles ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Sur-Les-&#201;paules.html&quot; title=&quot;Objets merveilleux port&#233;s sur les &#233;paules&quot;&gt;&#233;paules&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 4 000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette cape en lin &#233;pais est orn&#233;e d&#39;un motif en &#233;cailles de poisson qui s&#39;assombrit vers le bas et de plumes blanches sur les &#233;paules. Une fois par jour, le porteur peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-Bestiale-I.html&quot; title=&quot;Forme bestiale I&quot;&gt;forme bestiale I&lt;/a&gt;&lt;/i&gt; (pour se transformer en oiseau ou en poisson uniquement) et &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;-Pour-Les-Animaux.html&quot; title=&quot;Invisibilit&#233; pour les animaux&quot;&gt;invisibilit&#233; pour les animaux&lt;/a&gt;&lt;/i&gt; (sur lui-m&#234;me uniquement). Le porteur b&#233;n&#233;ficie d&#39;un bonus de comp&#233;tence de +5 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-Bestiale-I.html&quot; title=&quot;Forme bestiale I&quot;&gt;forme bestiale I&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;-Pour-Les-Animaux.html&quot; title=&quot;Invisibilit&#233; pour les animaux&quot;&gt;invisibilit&#233; pour les animaux&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 2 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}<div class="BD">
+{s:BDTitre|Cape de plumécailles|{s:ISG}}
+'''Aura''' [[Abjuration]] et [[Transmutation]] faibles ; '''NLS''' 5 ; '''Emplacement''' [[Objets merveilleux portés sur les épaules|épaules]] ; '''Prix''' 4 000 po ; '''Poids''' 0,5 kg
+(((Description)))
+{s:cs}Cette cape en lin épais est ornée d'un motif en écailles de poisson qui s'assombrit vers le bas et de plumes blanches sur les épaules. Une fois par jour, le porteur peut utiliser ''[[feuille morte]]'', ''[[forme bestiale I]]'' (pour se transformer en oiseau ou en poisson uniquement) et ''[[invisibilité pour les animaux]]'' (sur lui-même uniquement). Le porteur bénéficie d'un bonus de compétence de +5 aux tests de [[Natation]].
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[feuille morte]]'', ''[[forme bestiale I]]'', ''[[invisibilité pour les animaux]]'' ; '''Coût''' 2 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Cape de plumécailles</fullName>
+</wikiPage>

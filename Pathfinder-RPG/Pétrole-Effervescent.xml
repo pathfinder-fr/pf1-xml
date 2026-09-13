@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pétrole effervescent</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-21 16:06:04Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.Vision aveugle (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des vases (capacité)</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Combustion (capacité)</link><link>Pathfinder-RPG.camouflage</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Action complexe</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;P&#233;trole effervescent&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vase&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Souterrain&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.204&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;Vision aveugle (Ext)&quot;&gt;vision aveugle&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 4, contact 4, pris au d&#233;pourvu 4 (Dex -5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 103 (9d8+63)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; -2, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; -2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/tranchant ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, feu, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Vases-(Capacit&#233;).html&quot; title=&quot;Traits des vases (Ext)&quot;&gt;traits des vases&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, escalade 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +15 (3d6+15 plus film &#233;coeurant)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; film &#233;coeurant, brasier mouvant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 30, &lt;b&gt;Dex&lt;/b&gt; 1, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 1, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6 ; &lt;b&gt;BMO&lt;/b&gt; +17 ; &lt;b&gt;DMD&lt;/b&gt; 22 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrains
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Brasier mouvant (Sur).&lt;/b&gt; Le p&#233;trole effervescent est &#224; la fois volatile et inflammable. La vase est &lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;immunis&#233;e&lt;/a&gt; aux d&#233;g&#226;ts de feu et d’&#233;lectricit&#233;, mais si elle se trouve au contact de l’une de ces &#233;nergies, qu’elle soit d’origine naturelle ou magique, elle s’enflammera dans une explosion qui inflige 5d6 points de d&#233;g&#226;ts de feu &#224; tous les objets et cr&#233;atures qui se trouvent dans un rayon de 6 m&#232;tres (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 21 diminue de moiti&#233;). Une fois qu’il a pris feu, un p&#233;trole effervescent perd son pouvoir film &#233;cœurant, mais les coups qu’il porte infligent 2d6 points de d&#233;g&#226;ts de feu suppl&#233;mentaires et la vase gagne l’attaque sp&#233;ciale &lt;a class=&quot;pagelink&quot; href=&quot;Combustion-(Capacit&#233;).html&quot; title=&quot;Combustion (Ext)&quot;&gt;combustion&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 21 annule). Les deux DD sont bas&#233;s sur la Constitution. Tant qu’il est enflamm&#233;, le p&#233;trole effervescent d&#233;gage une fum&#233;e qui constitue un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat#Camouflage.html&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; dans l’espace qu’il occupe et sur un rayon suppl&#233;mentaire de 1,5 m&#232;tre. Cette fum&#233;e se comporte comme une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt; sur la port&#233;e indiqu&#233;e. L&#39;eau ne permet pas d›&#233;teindre les flammes, mais des d&#233;g&#226;ts de froid, une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt; ou un effet similaire peuvent permettre d’&#233;touffer les flammes. En l’absence d’intervention ext&#233;rieure, un p&#233;trole effervescent br&#251;le pendant 1 minute avant de revenir &#224; son &#233;tat originel. Tant que la vase est enflamm&#233;e, tout d&#233;g&#226;t suppl&#233;mentaire de feu ou d’&#233;lectricit&#233; &#233;tend la dur&#233;e de combustion, mais ne cause pas de nouvelle explosion.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Film &#233;cœurant (Sur).&lt;/b&gt; Quand un p&#233;trole effervescent r&#233;ussit &#224; porter un coup, il recouvre une portion de sa cible d’un film collant et naus&#233;abond. Les cr&#233;atures affect&#233;es doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 19 ou elles seront &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Naus&#233;eux.html&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euses&lt;/a&gt; pendant 1d4+1 rounds. Si le jet de sauvegarde est r&#233;ussi, elles seront quand m&#234;me naus&#233;euses pendant 1 round. Il s’agit d’un effet de poison. Une autre cr&#233;ature peut r&#233;aliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pour gratter une partie du film et r&#233;duire la dur&#233;e de l’&#233;tat pr&#233;judiciable naus&#233;eux d’un 1 round.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet amas visqueux s’&#233;tale comme une tache d’encre. Sa couleur est celle d’un ciel d&#233;pourvu d’&#233;toiles et l’air qui l’entoure est charg&#233; d’une puissante odeur.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le p&#233;trole effervescent, une vase volatile et dangereuse, est un m&#233;lange magique de poix et de feu gr&#233;geois. Cette vase chasse dans les tunnels souterrains et on en trouve m&#234;me dans les &#233;gouts et les voies navigables urbaines, &#224; la recherche d’animaux et de mati&#232;res v&#233;g&#233;tales. &#201;pais et visqueux, le p&#233;trole effervescent ressemble &#224; une tache de cire noire. Il se d&#233;place lentement sur les surfaces planes et les murs &#224; la recherche de proies qu’il pourra assommer &#224; l’aide de ses pseudopodes graisseux. Quand une flaque de p&#233;trole effervescent attaque, elle s’&#233;tire et se d&#233;forme, exposant des portions de sa masse interne &#224; l›oxyg&#232;ne et d&#233;gageant une odeur &#226;cre de p&#233;trole et de graisse rance. Quand un p&#233;trole effervescent frappe sa cible, il la couvre d›un film malodorant capable de la rendre naus&#233;euse. S›il le peut, un p&#233;trole effervescent pr&#233;f&#232;re recouvrir sa victime int&#233;gralement de cette substance avant de la d&#233;vorer. L’aspect le plus dangereux de cette cr&#233;ature est peut-&#234;tre que ceux qui tentent de la br&#251;ler la rendent en r&#233;alit&#233; encore plus mortelle. M&#234;me la plus petite &#233;tincelle peut en effet transformer cette vase vorace en un v&#233;ritable brasier mobile contre lequel seuls le froid ou des vents violents peuvent offrir une quelconque protection. La vase elle-m&#234;me est insensible &#224; la douleur que peuvent causer les flammes et celles-ci ne la handicapent pas. De telles tentatives de se d&#233;barrasser d’un p&#233;trole effervescent ne r&#233;ussissent g&#233;n&#233;ralement qu’&#224; br&#251;ler tout ce et ceux qui se trouvent autour de la cr&#233;ature.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Pétrole effervescent|FP 6}
+{s:pucem|Vase|Souterrain|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.204]]''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Vase|Vase]] de taille G, N}
+{s:BDTexte|'''Init''' -5 ; '''Sens''' [[Vision aveugle (capacité)|vision aveugle]] à 18 m ; [[Perception]] -5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 4, contact 4, pris au dépourvu 4 (Dex -5, taille -1)}
+{s:BDTexte|'''pv''' 103 (9d8+63)}
+{s:BDTexte|'''Réf''' -2, '''Vig''' +10, '''Vol''' -2}
+{s:BDTexte|'''RD''' 10/tranchant ; '''Immunités''' électricité, feu, [[Traits des vases (capacité)|traits des vases]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m, escalade 3 m}
+{s:BDTexte|'''Corps à corps''' coup, +15 (3d6+15 plus film écoeurant)}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDTexte|'''Attaques spéciales''' film écoeurant, brasier mouvant}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 30, '''Dex''' 1, '''Con''' 24, '''Int''' —, '''Sag''' 1, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +17 ; '''DMD''' 22 (croc-en-jambe impossible)}
+{s:BDTexte|'''Compétences''' [[Escalade]] +18}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrains}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Brasier mouvant (Sur).''' Le pétrole effervescent est à la fois volatile et inflammable. La vase est [[Immunité (capacité)|immunisée]] aux dégâts de feu et d’électricité, mais si elle se trouve au contact de l’une de ces énergies, qu’elle soit d’origine naturelle ou magique, elle s’enflammera dans une explosion qui inflige 5d6 points de dégâts de feu à tous les objets et créatures qui se trouvent dans un rayon de 6 mètres ([[Réflexes]] DD 21 diminue de moitié). Une fois qu’il a pris feu, un pétrole effervescent perd son pouvoir film écœurant, mais les coups qu’il porte infligent 2d6 points de dégâts de feu supplémentaires et la vase gagne l’attaque spéciale [[Combustion (capacité)|combustion]] ([[Réflexes]] DD 21 annule). Les deux DD sont basés sur la Constitution. Tant qu’il est enflammé, le pétrole effervescent dégage une fumée qui constitue un [[camouflage]] dans l’espace qu’il occupe et sur un rayon supplémentaire de 1,5 mètre. Cette fumée se comporte comme une ''[[nappe de brouillard]]'' sur la portée indiquée. L'eau ne permet pas d›éteindre les flammes, mais des dégâts de froid, une ''[[bourrasque]]'' ou un effet similaire peuvent permettre d’étouffer les flammes. En l’absence d’intervention extérieure, un pétrole effervescent brûle pendant 1 minute avant de revenir à son état originel. Tant que la vase est enflammée, tout dégât supplémentaire de feu ou d’électricité étend la durée de combustion, mais ne cause pas de nouvelle explosion.}
+{s:BDTexte|'''Film écœurant (Sur).''' Quand un pétrole effervescent réussit à porter un coup, il recouvre une portion de sa cible d’un film collant et nauséabond. Les créatures affectées doivent réussir un jet de [[Vigueur]] DD 19 ou elles seront [[nauséeux|nauséeuses]] pendant 1d4+1 rounds. Si le jet de sauvegarde est réussi, elles seront quand même nauséeuses pendant 1 round. Il s’agit d’un effet de poison. Une autre créature peut réaliser une [[action complexe]] pour gratter une partie du film et réduire la durée de l’état préjudiciable nauséeux d’un 1 round.}
+
+</div></td>
+<td><div>''Cet amas visqueux s’étale comme une tache d’encre. Sa couleur est celle d’un ciel dépourvu d’étoiles et l’air qui l’entoure est chargé d’une puissante odeur.''
+
+Le pétrole effervescent, une vase volatile et dangereuse, est un mélange magique de poix et de feu grégeois. Cette vase chasse dans les tunnels souterrains et on en trouve même dans les égouts et les voies navigables urbaines, à la recherche d’animaux et de matières végétales. Épais et visqueux, le pétrole effervescent ressemble à une tache de cire noire. Il se déplace lentement sur les surfaces planes et les murs à la recherche de proies qu’il pourra assommer à l’aide de ses pseudopodes graisseux. Quand une flaque de pétrole effervescent attaque, elle s’étire et se déforme, exposant des portions de sa masse interne à l›oxygène et dégageant une odeur âcre de pétrole et de graisse rance. Quand un pétrole effervescent frappe sa cible, il la couvre d›un film malodorant capable de la rendre nauséeuse. S›il le peut, un pétrole effervescent préfère recouvrir sa victime intégralement de cette substance avant de la dévorer. L’aspect le plus dangereux de cette créature est peut-être que ceux qui tentent de la brûler la rendent en réalité encore plus mortelle. Même la plus petite étincelle peut en effet transformer cette vase vorace en un véritable brasier mobile contre lequel seuls le froid ou des vents violents peuvent offrir une quelconque protection. La vase elle-même est insensible à la douleur que peuvent causer les flammes et celles-ci ne la handicapent pas. De telles tentatives de se débarrasser d’un pétrole effervescent ne réussissent généralement qu’à brûler tout ce et ceux qui se trouvent autour de la créature.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Pétrole effervescent</fullName>
+</wikiPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bière Pattefolle</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-22 17:01:05Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Nourriture et Boissons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nourriture et Boissons</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Halfelin</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Halfelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Halfelin.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;halfelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 4 pa (la chope), 1 po (le gallon) ; &lt;b&gt;Poids&lt;/b&gt; — (la chope), — (le gallon)  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Nourriture-Et-Boissons.html&quot; title=&quot;Nourriture et Boissons&quot;&gt;Nourriture et boissons&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+La plupart des races trouvent cette bi&#232;re p&#226;le et mousseuse trop sal&#233;e &#224; leur go&#251;t, mais les halfelins consid&#232;rent que c’est un go&#251;t qu’il faut simplement apprendre &#224; aimer. Le fait de boire trois verres ou plus de Pattefolle en l’espace d’une minute donne au halfelin un malus de -2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et un bonus de +1 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; et aux tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; pendant 10 minutes.
+]]></body>
+  <raw><![CDATA[{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}'''Prix''' 4 pa (la chope), 1 po (le gallon) ; '''Poids''' — (la chope), — (le gallon)  
+<span class="Catégorie">'''Catégorie''' [[Nourriture et boissons]]</span>
+<hr>
+La plupart des races trouvent cette bière pâle et mousseuse trop salée à leur goût, mais les halfelins considèrent que c’est un goût qu’il faut simplement apprendre à aimer. Le fait de boire trois verres ou plus de Pattefolle en l’espace d’une minute donne au halfelin un malus de -2 aux tests de [[Perception]] et un bonus de +1 aux jets de [[Réflexes]] et aux tests d’[[Acrobaties]] pendant 10 minutes.]]></raw>
+  <fullName>Pathfinder-RPG.Bière Pattefolle (objet)</fullName>
+</wikiPage>

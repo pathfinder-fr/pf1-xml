@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Larme du soleil fou</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Cités perdues de Golarion</category></categories>
+  <lastModified>2021-08-01 15:34:56Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.sous-type Feu</link><link>Pathfinder-RPG.Vision aveugle (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Combustion (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.Flammes</link><link>Pathfinder-RPG.Lumière brûlante</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque spéciale renforcée</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Anneau de subsistance</link><link>Pathfinder-RPG.Résistance à la magie (capacité)</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Possession</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Larme de Nuruu’gal&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vase&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Courts-Suppl&#233;ments-Univers-(Contenu).html&quot; title=&quot;Courts suppl&#233;ments univers (Contenu)&quot;&gt;Cit&#233;s perdues de Golarion p.53&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Feu.html&quot; title=&quot;Feu (sous-type)&quot;&gt;feu&lt;/a&gt;) de taille P, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;Vision aveugle (Ext)&quot;&gt;vision aveugle&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 6, contact 6, pris au d&#233;pourvu 6 (-5 Dex, +1 taille)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 62 (5d8+40)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; -4, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; -2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/— ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; feu, &lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;traits des vases&lt;/a&gt; ; &lt;b&gt;RM&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Faiblesses vuln&#233;rable au froid
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, escalade 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup +7 (1d6+3 plus combustion et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; contact &#224; distance -1 (sort)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Combustion-(Capacit&#233;).html&quot; title=&quot;Combustion (Ext)&quot;&gt;combustion&lt;/a&gt; (1d6, DD 19), &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (1d6+3), symbiose
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +0)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt; (DD 7), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flammes.html&quot; title=&quot;Flammes&quot;&gt;flammes&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re-Br&#251;lante.html&quot; title=&quot;Lumi&#232;re br&#251;lante&quot;&gt;lumi&#232;re br&#251;lante&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 1, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; 4, &lt;b&gt;Sag&lt;/b&gt; 5, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +4 (+8 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 9 (&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (coup), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (symbiose), &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; toutes les terres
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou meute (2-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Symbiose (Ext).&lt;/b&gt; Lors d’une attaque de constriction, la larme de Nuruu’gal peut essayer de prendre possession du corps d’un humano&#239;de par la force. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 21 permet de r&#233;sister &#224; cette intrusion et de s’immuniser contre la capacit&#233; de symbiose de cette vase pendant 24 heures. En cas d’&#233;chec, la vase d&#233;pense une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pour poss&#233;der son nouvel h&#244;te. Une fois absorb&#233;e, la vase accorde d’incroyables bienfaits aux h&#244;tes volontaires ou incin&#232;re lentement les h&#244;tes non-consentants. L’h&#244;te consentant cesse de vieillir, est nourri comme s’il portait un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anneau-De-Subsistance.html&quot; title=&quot;Anneau de subsistance&quot;&gt;anneau de subsistance&lt;/a&gt;&lt;/i&gt; et devient st&#233;rile. Il gagne le sous-type &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Feu.html&quot; title=&quot;Feu (sous-type)&quot;&gt;feu&lt;/a&gt;, une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la magie (Ext)&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt; et la capacit&#233; de t&#233;l&#233;pathie des larmes de Nuruu’gal. L’h&#244;te peut utiliser les pouvoirs magiques de la cr&#233;ature dont les DD des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; sont calcul&#233;s sur la base des &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; et du score de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; de l’h&#244;te, bien que les limites d’utilisation journali&#232;re des pouvoirs s’appliquent toujours. Les d&#233;g&#226;ts inflig&#233;s &#224; l’h&#244;te ne blessent pas la vase.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les victimes non-consentantes ne se voient accord&#233;es aucune capacit&#233; et sont, &#224; la place, tortur&#233;es par une douleur br&#251;lante. Elles re&#231;oivent les d&#233;g&#226;ts automatiques de la combustion tous les &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; et doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 21 ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Naus&#233;eux.html&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euses&lt;/a&gt; pendant 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Lorsque cela arrive, la vase peut t&#233;l&#233;pathiquement demander &#224; l’h&#244;te de lui c&#233;der le contr&#244;le de son corps pour lui &#233;pargner davantage de souffrance (traitez ce contr&#244;le comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Possession.html&quot; title=&quot;Possession&quot;&gt;possession&lt;/a&gt;&lt;/i&gt;, sans r&#233;ceptacle n&#233;cessaire). La vase peut quitter le corps de l’h&#244;te en une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, dans une expulsion protoplasmique infligeant le double des d&#233;g&#226;ts de combustion.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La victime peut tenter d’expulser la cr&#233;ature de son corps en une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; avec un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 21 mais chaque tentative lui inflige des d&#233;g&#226;ts automatiques de combustion de la vase, ainsi que les d&#233;g&#226;ts de la violente expulsion de la vase si elle est r&#233;ussie (comme si la vase s’&#233;tait expuls&#233;e volontairement). &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-Des-Mal&#233;dictions.html&quot; title=&quot;D&#233;livrance des mal&#233;dictions&quot;&gt;D&#233;livrance des mal&#233;dictions&lt;/a&gt;&lt;/i&gt; permet d’expulser la cr&#233;ature, si le lanceur r&#233;ussit un test de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; DD 21. Les DD de sauvegarde sont bas&#233;s sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Il s’agit d’une masse amibique protoplasmique informe et rampante qui flamboie en distordant l’air autour d’elle pour former des mirages br&#251;lants.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Initialement engendr&#233;es par l’entit&#233; divine primordiale qui fut la premi&#232;re incarnation du seigneur d&#233;mon du soleil dans la cit&#233; perdue des premiers hommes, ces vases parasitaires enflamm&#233;es contiennent une portion de l’essence et de la conscience r&#233;pugnante de la divinit&#233;. Elles chassent inlassablement, cherchant &#224; entrer de force dans le corps des humano&#239;des pour les transformer en h&#244;tes au service de leur ma&#238;tre, qu’ils soient consentants ou non. Apr&#232;s des ann&#233;es de possession, il arrive que l’h&#244;te et le symbiote subissent une &#233;trange m&#233;tamorphose, explosant en une horrible lumi&#232;re qui catalyse l’apparition d’un &#234;tre qu’on appelle un enfant lumineux.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Larme de Nuruu’gal|FP 6}
+{s:pucem|Vase|Ville|Tempéré}
+{s:BDtexte|''Source : [[Courts suppléments univers (Contenu)|Cités perdues de Golarion p.53]]''}
+{s:BDtexte|'''PX''' 2 400}
+{s:BDtexte|[[type Vase|Vase]] ([[sous-type Feu|feu]]) de taille P, CN}
+{s:BDtexte|'''Init''' -5 ; '''Sens''' [[Vision aveugle (capacité)|vision aveugle]] à 18 m ; [[Perception]] -3}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 6, contact 6, pris au dépourvu 6 (-5 Dex, +1 taille)}
+{s:BDtexte|'''pv''' 62 (5d8+40)}
+{s:BDtexte|'''Réf''' -4, '''Vig''' +8, '''Vol''' -2}
+{s:BDtexte|'''RD''' 5/— ; '''Immunités''' feu, [[type Vase|traits des vases]] ; '''RM''' 17}
+{s:BDtexte|Faiblesses vulnérable au froid}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 3 m, escalade 3 m}
+{s:BDtexte|'''Corps à corps''' coup +7 (1d6+3 plus combustion et [[Étreinte (capacité)|étreinte]])}
+{s:BDtexte|'''À distance''' contact à distance -1 (sort)}
+{s:BDtexte|'''Attaques spéciales''' [[Combustion (capacité)|combustion]] (1d6, DD 19), [[Constriction (capacité)|constriction]] (1d6+3), symbiose}
+{s:BDtexte|'''Pouvoirs magiques''' ([[NLS]] 5 ; [[concentration]] +0)}
+{s:BDsorts|À volonté — ''[[détection de pensées]]'' (DD 7), ''[[flammes]]''}
+{s:BDsorts|3/jour — ''[[lumière brûlante]]''}
+{s:BDsoustitre|Statistiques}
+{s:BDtexte|'''For''' 14, '''Dex''' 1, '''Con''' 24, '''Int''' 4, '''Sag''' 5, '''Cha''' 1}
+{s:BDtexte|'''BBA''' +3 ; '''BMO''' +4 (+8 en [[lutte]]) ; '''DMD''' 9 ([[croc-en-jambe]] impossible)}
+{s:BDtexte|'''Dons''' [[Arme de prédilection]] (coup), [[Attaque spéciale renforcée]] (symbiose), [[Robustesse]]}
+{s:BDtexte|'''Compétences''' [[Escalade]] +12, [[Discrétion]] +2}
+{s:BDtexte|'''Langues''' [[Télépathie (capacité)|télépathie]] 30 m}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' toutes les terres}
+{s:BDtexte|'''Organisation''' solitaire ou meute (2-6)}
+{s:BDtexte|'''Trésor''' aucun}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Symbiose (Ext).''' Lors d’une attaque de constriction, la larme de Nuruu’gal peut essayer de prendre possession du corps d’un humanoïde par la force. Un jet de [[Vigueur]] [[DD]] 21 permet de résister à cette intrusion et de s’immuniser contre la capacité de symbiose de cette vase pendant 24 heures. En cas d’échec, la vase dépense une [[action complexe]] pour posséder son nouvel hôte. Une fois absorbée, la vase accorde d’incroyables bienfaits aux hôtes volontaires ou incinère lentement les hôtes non-consentants. L’hôte consentant cesse de vieillir, est nourri comme s’il portait un ''[[anneau de subsistance]]'' et devient stérile. Il gagne le sous-type [[sous-type Feu|feu]], une [[Résistance à la magie (capacité)|résistance à la magie]] et la capacité de télépathie des larmes de Nuruu’gal. L’hôte peut utiliser les pouvoirs magiques de la créature dont les DD des [[jds|jets de sauvegarde]] sont calculés sur la base des [[DV]] et du score de [[Charisme]] de l’hôte, bien que les limites d’utilisation journalière des pouvoirs s’appliquent toujours. Les dégâts infligés à l’hôte ne blessent pas la vase.}
+{s:BDtexte|Les victimes non-consentantes ne se voient accordées aucune capacité et sont, à la place, torturées par une douleur brûlante. Elles reçoivent les dégâts automatiques de la combustion tous les [[round|rounds]] et doivent réussir un jet de [[Vigueur]] [[DD]] 21 ou être [[nauséeux|nauséeuses]] pendant 1d4 [[round|rounds]]. Lorsque cela arrive, la vase peut télépathiquement demander à l’hôte de lui céder le contrôle de son corps pour lui épargner davantage de souffrance (traitez ce contrôle comme ''[[possession]]'', sans réceptacle nécessaire). La vase peut quitter le corps de l’hôte en une [[action complexe]], dans une expulsion protoplasmique infligeant le double des dégâts de combustion.}
+{s:BDtexte|La victime peut tenter d’expulser la créature de son corps en une [[action complexe]] avec un jet de [[Vigueur]] [[DD]] 21 mais chaque tentative lui inflige des dégâts automatiques de combustion de la vase, ainsi que les dégâts de la violente expulsion de la vase si elle est réussie (comme si la vase s’était expulsée volontairement). ''[[Délivrance des malédictions]]'' permet d’expulser la créature, si le lanceur réussit un test de [[NLS|niveau de lanceur de sorts]] DD 21. Les DD de sauvegarde sont basés sur la [[Constitution]].}
+</div>
+</td>
+<td>
+<div>
+''Il s’agit d’une masse amibique protoplasmique informe et rampante qui flamboie en distordant l’air autour d’elle pour former des mirages brûlants.''
+
+Initialement engendrées par l’entité divine primordiale qui fut la première incarnation du seigneur démon du soleil dans la cité perdue des premiers hommes, ces vases parasitaires enflammées contiennent une portion de l’essence et de la conscience répugnante de la divinité. Elles chassent inlassablement, cherchant à entrer de force dans le corps des humanoïdes pour les transformer en hôtes au service de leur maître, qu’ils soient consentants ou non. Après des années de possession, il arrive que l’hôte et le symbiote subissent une étrange métamorphose, explosant en une horrible lumière qui catalyse l’apparition d’un être qu’on appelle un enfant lumineux.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Larme de Nuruugal</fullName>
+</wikiPage>

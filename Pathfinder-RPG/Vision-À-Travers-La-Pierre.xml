@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Vision à travers la pierre</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 4</category><category>Pathfinder-RPG.Sort rôdeur 3</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2020-07-28 19:59:20Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Nain</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.école divination</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Capacités spéciales</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Divination.html&quot; title=&quot;Divination&quot;&gt;Divination&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;R&#244;d&lt;/a&gt; 3  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 action simple  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact  
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature touch&#233;e  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; concentration, jusqu’&#224; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/niveau (T)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, annule (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif)&lt;br /&gt;&lt;br /&gt;Le personnage gagne le pouvoir de voir &#224; travers la roche solide comme si c’&#233;tait du verre transparent. Il peut voir &#224; travers 30 centim&#232;tres de pierre par &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt;. Il voit &#224; l’int&#233;rieur de la pierre comme si l’endroit &#233;tait &#233;clair&#233; normalement, m&#234;me si aucune lumi&#232;re n’est pr&#233;sente, mais la &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; et la &lt;a class=&quot;pagelink&quot; href=&quot;Capacit&#233;s-Sp&#233;ciales.html#VISIONDANSLENOIR&quot; title=&quot;Les capacit&#233;s sp&#233;ciales&quot;&gt;vision dans le noir&lt;/a&gt; n’ont aucun effet sur le pouvoir du personnage &#224; voir &#224; travers la pierre. Une couche de m&#233;tal de 2,50 centim&#232;tres d’&#233;paisseur ou une couche de bois ou de terre de 90 centim&#232;tres d’&#233;paisseur bloquent la vision.&lt;br /&gt;&lt;br /&gt;Le sort n’annule pas le camouflage des cr&#233;atures qui se cachent derri&#232;re des obstacles en pierre (la pierre reste un obstacle si le personnage attaque une cr&#233;ature camoufl&#233;e de la sorte).
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}'''École''' [[école divination|Divination]] ; '''Niveau''' [[druide|Dru]] 4, [[rôdeur|Rôd]] 3  
+'''Temps d'incantation''' 1 action simple  
+'''Composantes''' [[composantes|V, G, FD]]  
+'''Portée''' contact  
+'''Cible''' créature touchée  
+'''Durée''' concentration, jusqu’à 1 [[round]]/niveau (T)  
+'''Jet de sauvegarde''' [[Volonté]], annule (inoffensif) ; '''Résistance à la magie''' oui (inoffensif)
+
+Le personnage gagne le pouvoir de voir à travers la roche solide comme si c’était du verre transparent. Il peut voir à travers 30 centimètres de pierre par [[NLS|niveau de lanceur de sorts]]. Il voit à l’intérieur de la pierre comme si l’endroit était éclairé normalement, même si aucune lumière n’est présente, mais la [[vision nocturne (capacité)|vision nocturne]] et la [[capacités spéciales#VISIONDANSLENOIR|vision dans le noir]] n’ont aucun effet sur le pouvoir du personnage à voir à travers la pierre. Une couche de métal de 2,50 centimètres d’épaisseur ou une couche de bois ou de terre de 90 centimètres d’épaisseur bloquent la vision.
+
+Le sort n’annule pas le camouflage des créatures qui se cachent derrière des obstacles en pierre (la pierre reste un obstacle si le personnage attaque une créature camouflée de la sorte).]]></raw>
+  <fullName>Pathfinder-RPG.Vision à travers la pierre</fullName>
+</wikiPage>

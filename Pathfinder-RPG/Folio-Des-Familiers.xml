@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Folio des Familiers (Familiar Folio)</title>
+  <categories><category>Pathfinder-RPG.Archétype</category><category>Pathfinder-RPG.Archétype barde</category><category>Pathfinder-RPG.Archétype druide</category><category>Pathfinder-RPG.Archétype Familier</category><category>Pathfinder-RPG.Archétype guerrier</category><category>Pathfinder-RPG.Archétype magicien</category><category>Pathfinder-RPG.Archétype magus</category><category>Pathfinder-RPG.Archétype paladin</category><category>Pathfinder-RPG.Archétype sorcière</category><category>Pathfinder-RPG.Contenu supplémentaire</category><category>Pathfinder-RPG.Liste de dons</category><category>Pathfinder-RPG.Liste de sorts</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Familiar Folio</category></categories>
+  <lastModified>2026-08-04 03:16:59Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Creer des familiers</link><link>Pathfinder-RPG.Gardien des Leshys (druide)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Creer des familiers</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Dénué dintelligence</link><link>Pathfinder-RPG.Lame bestiale (magus)</link><link>Pathfinder-RPG.Elu (paladin)</link><link>Pathfinder-RPG.Duettiste (barde)</link><link>Pathfinder-RPG.Gardien occulte (guerrier)</link><link>Pathfinder-RPG.Adepte du familier (magicien)</link><link>Pathfinder-RPG.Homonculiste (alchimiste)</link><link>Pathfinder-RPG.Gardien des Leshys (druide)</link><link>Pathfinder-RPG.Mage de Pacte (magicien)</link><link>Pathfinder-RPG.Lieur Esprits (magicien)</link><link>Pathfinder-RPG.Synergiste (sorcier)</link><link>Pathfinder-RPG.Abjuration  (familier)</link><link>Pathfinder-RPG.Invocation (familier)</link><link>Pathfinder-RPG.Leurre (familier)</link><link>Pathfinder-RPG.Divination (familier)</link><link>Pathfinder-RPG.Emissaire (familier)</link><link>Pathfinder-RPG.Enchantement (familier)</link><link>Pathfinder-RPG.Evocation (familier)</link><link>Pathfinder-RPG.Chimere (familier)</link><link>Pathfinder-RPG.Illusion (familier)</link><link>Pathfinder-RPG.Mascotte (familier)</link><link>Pathfinder-RPG.Cogneur (familier)</link><link>Pathfinder-RPG.Necromancie (familier)</link><link>Pathfinder-RPG.Protecteur (familier)</link><link>Pathfinder-RPG.Sage (familier)</link><link>Pathfinder-RPG.Transmutation (familier)</link><link>Pathfinder-RPG.Familier de lignage (familier)</link><link>Pathfinder-RPG.Familier protecteur (familier)</link><link>Pathfinder-RPG.Affinité avec le familier</link><link>Pathfinder-RPG.Affinité supérieure avec le familier</link><link>Pathfinder-RPG.Amour de mascotte</link><link>Pathfinder-RPG.onseils du sage</link><link>Pathfinder-RPG.Diversion du leurre</link><link>Pathfinder-RPG.Encouragement de l’émissaire</link><link>Pathfinder-RPG.Familier d’école</link><link>Pathfinder-RPG.Familier d’école supérieur</link><link>Pathfinder-RPG.Familier polyglotte</link><link>Pathfinder-RPG.Familier vagabond</link><link>Pathfinder-RPG.Fluidité chimérique</link><link>Pathfinder-RPG.Lien télépathique</link><link>Pathfinder-RPG.Retour du gardien</link><link>Pathfinder-RPG.Sort de contact collectif</link><link>Pathfinder-RPG.Sort partagé collectif</link><link>Pathfinder-RPG.Bardage plumefeuillu</link><link>Pathfinder-RPG.Bocal</link><link>Pathfinder-RPG.Bocal régénérant</link><link>Pathfinder-RPG.Brume vaguesprit</link><link>Pathfinder-RPG.Collier de sorts</link><link>Pathfinder-RPG.Colorant pour cuir</link><link>Pathfinder-RPG.Concentré vaguesprit</link><link>Pathfinder-RPG.Gants de toucher de familier</link><link>Pathfinder-RPG.Graisse mondaine</link><link>Pathfinder-RPG.Herbe à chat</link><link>Pathfinder-RPG.Sifflet bestial</link><link>Pathfinder-RPG.Conduit empathique</link><link>Pathfinder-RPG.Duplication de familier</link><link>Pathfinder-RPG.Fusion avec le familier</link><link>Pathfinder-RPG.Lien perturbé</link><link>Pathfinder-RPG.Rappel de familier</link><link>Pathfinder-RPG.Rappel de familier supérieur</link><link>Pathfinder-RPG.Transfert d'âme</link><link>Pathfinder-RPG.Transfert de familier</link><link>Pathfinder-RPG.Poulet</link><link>Pathfinder-RPG.points de vie</link><link>Pathfinder-RPG.Kakapo</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Taupe</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Tetraodon</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Dauphin popoto</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Koala</link><link>Pathfinder-RPG.Paon</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Wallaby</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Manchot</link><link>Pathfinder-RPG.Chat féérique</link><link>Pathfinder-RPG.Chiot de Cayden</link><link>Pathfinder-RPG.Pseudosphinx</link><link>Pathfinder-RPG.Wyrd Ioun</link><link>Pathfinder-RPG.Limace léopard</link><link>Pathfinder-RPG.Pétrifougère</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;description&quot;&gt;&lt;b&gt;Source :&lt;/b&gt; Familiar Folio (FF).&lt;/div&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;D&#233;tails de l&#39;ouvrage&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;tails_de_louvrage_25&quot; href=&quot;#D&#233;tails_de_louvrage_25&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;br /&gt;Titre original : Pathfinder Player Companion: Familiar Folio
+&lt;br /&gt;&#201;diteur VO : Paizo Inc.
+&lt;br /&gt;Date de sortie VO : 17 f&#233;vrier 2015&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt; &lt;/h1&gt;&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt;Introduction&lt;a class=&quot;headeranchor&quot; id=&quot;Introduction_27&quot; href=&quot;#Introduction_27&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;
+Dans tout Golarion, les familiers font office de serviteurs et de compagnons pour toutes sortes de lanceurs de sorts. Leurs origines et les liens qui les unissent &#224; leurs ma&#238;tres sont aussi vari&#233;s et myst&#233;rieux que les pouvoirs occultes de n’importe quel lanceur de sorts, et ces cr&#233;atures, petites mais polyvalentes, inspirent autant la fascination que la m&#233;fiance. Dans le jeu de r&#244;le Pathfinder, les familiers remplissent un r&#244;le bien d&#233;fini et disposent d’un ensemble pr&#233;visible de pouvoirs. G&#233;n&#233;ralement compagnons des magiciens et des sorci&#232;res — et parfois des ensorceleurs, des alchimistes et des magus —, ils peuvent assister leur ma&#238;tre, servir d&#39;&#233;claireurs, et servir de conduit magique contre ses ennemis. Mais tout cela ne fait qu’effleurer le potentiel d’un familier. Les pages qui suivent pr&#233;sentent une multitude de mani&#232;res de red&#233;finir les familiers et de restituer le myst&#232;re ainsi que le caract&#232;re surnaturel de ces &#233;tranges et magnifiques alli&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Les Familiers en Jeu&lt;a class=&quot;headeranchor&quot; id=&quot;Les_Familiers_en_Jeu_26&quot; href=&quot;#Les_Familiers_en_Jeu_26&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+En plus de toutes les options destin&#233;es aux lanceurs de sorts que contient cet ouvrage, certaines des nouvelles possibilit&#233;s pr&#233;sent&#233;es ici permettent &#233;galement aux personnages qui ne lancent pas de sorts d’obtenir leur propre familier. Si le r&#244;le de l’oiseau transmettant les sorts de son ma&#238;tre ou du serpent espion a d&#233;j&#224; &#233;t&#233; clairement &#233;tabli par d’innombrables personnages accompagn&#233;s d’un familier, les possibilit&#233;s permettant &#224; ces cr&#233;atures d’aider les autres classes sont presque infinies. Que vous incarniez un roublard rus&#233; avec des animaux magiques pour complices, ou un guerrier &#233;laborant d&#39;astucieuses tactiques avec ses f&#233;roces compagnons, avoir un alli&#233; malin et facilement sous-estim&#233; peut vous &#234;tre utile dans bien d’autres domaines que la magie.&lt;br /&gt;&lt;br /&gt;Au-del&#224; des avantages qu’ils procurent sur le champ de bataille, les familiers offrent &#233;galement aux joueurs des occasions uniques d’interpr&#233;ter des cr&#233;atures tr&#232;s diff&#233;rentes de leurs personnages habituels. Consultez votre MJ pour savoir comment il compte int&#233;grer le familier &#224; la partie : demandez-lui si il pr&#233;voit de l&#39;interpr&#233;ter lui m&#234;me, ou si vous en aurez le contr&#244;le. Dans le deuxi&#232;me cas, vous pourriez faire de votre familier davantage qu’un simple pouvoir suppl&#233;mentaire. R&#233;fl&#233;chissez au caract&#232;re de votre familier et &#224; la fa&#231;on dont sa personnalit&#233; &#233;voluera &#224; mesure qu’il progressera. Votre familier pourrait &#234;tre un corbeau qui recueille des babioles dans les cimeti&#232;res, ou une vip&#232;re irritable qui sursaute facilement. Sans aller jusqu&#39;&#224; &#233;clipser votre personnage, votre familier peut devenir bien plus qu’un simple ensemble de valeurs chiffr&#233;es.&lt;br /&gt;&lt;br /&gt;Les familiers peuvent &#233;galement compl&#233;ter leur ma&#238;tre de fa&#231;on significative que ce soit par leur style, un historique partag&#233;, ou bien d’autres mani&#232;res encore. La sagesse que l’on associe &#224; un hibou pourra &#234;tre impartie &#224; son propri&#233;taire, de la m&#234;me fa&#231;on qu’un familier fi&#233;lon peut sugg&#233;rer l’existence d’un pacte insidieux. Un personnage pourrait &#234;tre issu d’une lign&#233;e de lanceurs de sorts r&#233;put&#233;s pour leur lien avec les aigles, ou dont les membres partagent le m&#234;me alli&#233; surnaturel depuis des g&#233;n&#233;rations . R&#233;fl&#233;chissez &#224; ce que votre familier repr&#233;sente pour votre personnage, et &#224; la mani&#232;re dont cette relation peut transpara&#238;tre lorsque vous l’interpr&#233;tez.&lt;br /&gt;&lt;br /&gt;Il existe des dizaines de familiers diff&#233;rents parmi lesquels choisir. Consultez le chapitre &quot;Pour votre personnage&quot; pour obtenir la liste compl&#232;te des familiers et des familiers sup&#233;rieurs, puis choisissez celui qui correspond le mieux &#224; votre personnage !&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt; &lt;/h1&gt;&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt;Pour votre personnage&lt;a class=&quot;headeranchor&quot; id=&quot;Pour_votre_personnage_28&quot; href=&quot;#Pour_votre_personnage_28&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;
+Classes principalement concern&#233;es&lt;br /&gt;&lt;br /&gt;Ce volume de la collection Pathfinder Player Companion pr&#233;sente de nouvelles options propres aux personnages des classes suivantes, ainsi que des &#233;l&#233;ments pouvant s’appliquer &#224; un large &#233;ventail de personnages.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#autres_options&quot; title=&quot;Sanguins&quot;&gt;Sanguins&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Sanguins__0&quot; href=&quot;#_Sanguins__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les Sanguins ont acc&#232;s &#224; une grande vari&#233;t&#233; de familiers gr&#226;ce aux r&#232;gles des familiers de lignage. Combin&#233;es &#224; des arch&#233;types de familier orient&#233;s vers le combat, tels que le Cogneur ou le Protecteur, ces r&#232;gles permettent aux Sanguins d’utiliser leurs familiers comme de pr&#233;cieux auxiliaires au combat.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#archetypes_personnages&quot; title=&quot;Guerriers&quot;&gt;Guerriers&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Guerriers__1&quot; href=&quot;#_Guerriers__1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Bien que les Guerriers ne disposent que d’un seul arch&#233;type, le Gardien Occulte, son inclusion est importante, car les guerriers n’ont normalement acc&#232;s &#224; aucune forme de familier ni de compagnon animal. Cet arch&#233;type leur permet donc de profiter des nombreuses options propos&#233;es dans ce volume.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#archetypes_personnages&quot; title=&quot;Sorci&#232;res&quot;&gt;Sorci&#232;res&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Sorci&#232;res__2&quot; href=&quot;#_Sorci&#232;res__2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+La Sorci&#232;re &#233;tant la seule classe pour laquelle le familier constitue une partie int&#233;grante de ses aptitudes plut&#244;t qu’une option facultative, elle b&#233;n&#233;ficie d&#39;autant plus des possibilit&#233;s pr&#233;sent&#233;es dans ce volume. La liste &#233;tendue des familiers offre aux joueurs davantage de choix lorsqu’ils cherchent un familier correspondant &#224; un concept pr&#233;cis de sorci&#232;re. Les familiers de protecteur spirituel entretiennent des liens particuliers avec les protecteurs des sorci&#232;res, renfor&#231;ant encore davantage le lien entre la sorci&#232;re et son familier.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#archetypes_personnages&quot; title=&quot;Magiciens&quot;&gt;Magiciens&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Magiciens__3&quot; href=&quot;#_Magiciens__3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Ces ma&#238;tres de la magie ont beaucoup &#224; gagner dans les pages de ce volume. Les arch&#233;types de mage Adepte du Familier, Mage de Pacte, et Lieur d&#39;Esprit, ainsi que les familiers propres aux diff&#233;rentes &#233;coles de magie, permettent &#224; chaque magicien de personnaliser son familier afin qu’il soutienne au mieux ses choix de sorts et ses tactiques de combat.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#autres_options&quot; title=&quot;Pour tous les personnages&quot;&gt;Pour tous les personnages&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Pour_tous_les_personnages__4&quot; href=&quot;#_Pour_tous_les_personnages__4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Certains &#233;l&#233;ments de jeu transcendent les particularit&#233;s de la race ou de la classe d’un personnage. Les &#233;l&#233;ments suivants, d&#233;taill&#233;s dans cet ouvrage, conviennent tout aussi bien &#224; n’importe quel personnage que vous souhaiteriez jouer, et offrent m&#234;me aux aventuriers d&#233;pourvus de familier de nouvelles mani&#232;res d’interagir avec ceux des autres.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#creer_familiers&quot; title=&quot;Cr&#233;er des nouveaux familiers&quot;&gt;Cr&#233;er des nouveaux familiers&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Cr&#233;er_des_nouveaux_familiers__5&quot; href=&quot;#_Cr&#233;er_des_nouveaux_familiers__5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les recommandations permettant de r&#233;pondre &#224; la demande d’un joueur souhaitant obtenir un familier qui n’existe pas encore peuvent &#233;galement servir &#224; &#233;largir le choix des compagnons animaux, compagnons d’armes, suivants, et cr&#233;atures convoqu&#233;es. Elles peuvent ainsi s’appliquer &#224; une grande vari&#233;t&#233; d’aventuriers.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#archetypes_personnages&quot; title=&quot;Arch&#233;types&quot;&gt;Arch&#233;types&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Arch&#233;types__6&quot; href=&quot;#_Arch&#233;types__6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+En plus des options destin&#233;es aux classes principalement concern&#233;es, certains arch&#233;types permettent &#233;galement aux alchimistes, aux bardes, aux druides, aux magus et aux paladins d’obtenir un familier.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#familiers_tp&quot; title=&quot;Familiers privil&#233;gi&#233;s&quot;&gt;Familiers privil&#233;gi&#233;s&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Familiers_privil&#233;gi&#233;s__7&quot; href=&quot;#_Familiers_privil&#233;gi&#233;s__7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les informations concernant les familiers les plus r&#233;pandus au sein de diff&#233;rentes cultures, organisations, et nations, peuvent contribuer &#224; d&#233;velopper les personnages associ&#233;s &#224; ces groupes, m&#234;me lorsque ceux-ci ne poss&#232;dent pas eux-m&#234;mes de familier. Lorsque vous incarnez un personnage oppos&#233; aux Chevaliers de l&#39;Enfer, il peut &#234;tre utile de savoir que leurs Significateurs affectionnent particuli&#232;rement les familiers diablotins, ne serait-ce que pour pr&#233;parer vos plans.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#equipement&quot; title=&quot;&#201;quipement et objets magiques&quot;&gt;&#201;quipement et objets magiques&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_&#201;quipement_et_objets_magiques__8&quot; href=&quot;#_&#201;quipement_et_objets_magiques__8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Une grande partie du nouvel &#233;quipement pr&#233;sent&#233; dans ce volume est con&#231;ue pour affronter les familiers de lanceurs de sorts hostiles. Le poison pr&#233;sent&#233; dans cette section peut &#234;tre utile pour semer la discorde dans un groupe d&#39;ennemis et peut m&#234;me permettre &#224; un personnage de se prot&#233;ger contre les manigances d’adversaires charismatiques.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#familiers_superieurs&quot; title=&quot;Nouveaux familiers sup&#233;rieurs&quot;&gt;Nouveaux familiers sup&#233;rieurs&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Nouveaux_familiers_sup&#233;rieurs__9&quot; href=&quot;#_Nouveaux_familiers_sup&#233;rieurs__9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Bien qu’ils soient propos&#233;s en tant que familiers sup&#233;rieurs, les nouveaux monstres pr&#233;sent&#233;s dans ce volume poss&#232;dent une valeur d’Intelligence suffisamment &#233;lev&#233;e pour pouvoir &#234;tre engag&#233;s comme espions mercenaires ou devenir, si l’on gagne leur amiti&#233;, des alli&#233;s volontaires.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#sorts&quot; title=&quot;Sorts&quot;&gt;Sorts&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Sorts__10&quot; href=&quot;#_Sorts__10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Certains des nouveaux sorts pr&#233;sent&#233;s sont con&#231;us pour renforcer le familier d’un alli&#233; ou neutraliser celui d’un adversaire.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;internallink&quot; href=&quot;#dons&quot; title=&quot;Dons d&#39;&#233;quipe&quot;&gt;Dons d&#39;&#233;quipe&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Dons_d&#233;quipe__11&quot; href=&quot;#_Dons_d&#233;quipe__11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les nouveaux dons d&#39;&#233;quipe permettent aux lanceurs de sorts d&#233;pourvus de familier de tirer parti du familier d’un alli&#233;.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Questions &#224; poser &#224; votre MJ&lt;a class=&quot;headeranchor&quot; id=&quot;Questions_&#224;_poser_&#224;_votre_MJ_12&quot; href=&quot;#Questions_&#224;_poser_&#224;_votre_MJ_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Poser les questions suivantes &#224; votre ma&#238;tre du jeu peut vous aider &#224; tirer le meilleur parti de Pathfinder Manuel des Joueurs: Folio des Familiers.&lt;br /&gt;&lt;br /&gt;1. Mon choix de familier est-il coh&#233;rent avec notre campagne ? Existe-t-il un type de familier particuli&#232;rement appropri&#233; &#224; cette campagne ?&lt;br /&gt;&lt;br /&gt;2. Le familier de mon personnage sera-t-il contr&#244;l&#233; par moi, le joueur qui contr&#244;le son ma&#238;tre, ou sera-t-il contr&#244;l&#233; par le MJ en tant que PNJ ?&lt;br /&gt;&lt;br /&gt;3. Les familiers provenant d’autres sources, comme les diff&#233;rents volumes du Bestiaire, peuvent-ils &#234;tre utilis&#233;s dans cette campagne ?&lt;br /&gt;&lt;br /&gt;&lt;table&gt;&lt;td&gt;&lt;div&gt;&lt;b&gt; &lt;i&gt;Le saviez-vous ?&lt;/i&gt; &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;La premi&#232;re version de la sorci&#232;re con&#231;ue pour le Manuel des joueurs : r&#232;gles avanc&#233;es de Pathfinder proposait la ch&#232;vre et le cochon parmi les familiers possibles. Tous deux furent finalement retir&#233;s au cours des tests de jeu, mais ces id&#233;es rest&#232;rent suffisamment populaires pour r&#233;appara&#238;tre comme options dans le Bestiaire 3 de Pathfinder.&lt;/div&gt;&lt;/td&gt;&lt;/table&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt; &lt;/h1&gt;&lt;br /&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt;Index des R&#232;gles&lt;a class=&quot;headeranchor&quot; id=&quot;Index_des_R&#232;gles_29&quot; href=&quot;#Index_des_R&#232;gles_29&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;
+Les nouvelles options de r&#232;gles suivantes sont pr&#233;sent&#233;es dans le Folio des Familiers.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a id=&quot;creer_familiers&quot;&gt; &lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Creer-Des-Familiers.html&quot; title=&quot;Cr&#233;er des nouveaux familiers&quot;&gt;Cr&#233;er des nouveaux familiers&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Cr&#233;er_des_nouveaux_familiers__13&quot; href=&quot;#_Cr&#233;er_des_nouveaux_familiers__13&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Bien qu’il existe d&#233;j&#224; de nombreux types de familiers, il arrive que les options disponibles ne correspondent pas exactement &#224; l’id&#233;e que vous vous faites du compagnon magique de votre personnage. Avec l’accord de votre ma&#238;tre du jeu, vous pouvez toutefois r&#233;utiliser le profil d’un familier existant afin de repr&#233;senter approximativement le familier id&#233;al pour votre personnage.&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Creer-Des-Familiers.html&quot; title=&quot;Cr&#233;er des nouveaux familiers&quot;&gt;Consulter les r&#232;gles de cr&#233;ation de familiers.&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;a id=&quot;familiers_inhabituels&quot;&gt; &lt;/a&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Familiers inhabituels&lt;a class=&quot;headeranchor&quot; id=&quot;Familiers_inhabituels_14&quot; href=&quot;#Familiers_inhabituels_14&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Bien que la plupart des familiers soient des animaux de taille Tr&#232;s Petite (TP) ou des cr&#233;atures magiques, les lanceurs de sorts peuvent acqu&#233;rir des cr&#233;atures plus grandes ou inhabituelles au cours de leurs voyages. Cela implique certains effets de r&#232;gles dont il faut tenir compte &#224; la table de jeu.&lt;br /&gt;&lt;br /&gt;Les familiers de taille P contr&#244;lent les cases adjacentes comme le font les autres cr&#233;atures de petite taille. Ils peuvent &#234;tre prendre des ennemis en tenaille, bien que leurs ma&#238;tres soient g&#233;n&#233;ralement peu enclins &#224; employer de telles tactiques qui sont souvent mortelles pour leur familier. Les familiers de taille P sont &#233;galement plus difficiles &#224; transporter sur soi que les familiers de taille TP ou inf&#233;rieure ; un objet magique, comme un sac sans fond, est g&#233;n&#233;ralement n&#233;cessaire.&lt;br /&gt;&lt;br /&gt;Les familiers de type cr&#233;ature artificielle, plante et vermine acqui&#232;rent une valeur d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;intelligence&lt;/a&gt; et perdent le trait &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;nu&#233;-Dintelligence.html&quot; title=&quot;D&#233;nu&#233; d&amp;#39;intelligence&quot;&gt;d&#233;nu&#233; d&#39;intelligence&lt;/a&gt; s&#39;ils le poss&#233;daient. Si ces familiers ne parlent aucune langue, ils communiquent avec leur ma&#238;tre et les autres cr&#233;atures de leur esp&#232;ce (un scorpion vert avec d&#39;autres scorpions, des plantes mobiles avec d&#39;autres plantes mobiles, etc.) au moyen d&#39;un &#233;trange m&#233;lange de comportements, de l&#233;gers changements de coloration, et parfois m&#234;me par la s&#233;cr&#233;tion d&#39;odeurs ou de ph&#233;romones. Les autres types de cr&#233;atures ne peuvent pas comprendre cette communication sans l&#39;aide de la magie.&lt;br /&gt;&lt;br /&gt;Les extraplanaires et les cr&#233;atures morts-vivantes ne sont normalement accessibles qu&#39;avec le don Familier sup&#233;rieur et ne n&#233;cessitent aucune autre r&#232;gle sp&#233;ciale.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Arch&#233;types de personnages&lt;a class=&quot;headeranchor&quot; id=&quot;Arch&#233;types_de_personnages_15&quot; href=&quot;#Arch&#233;types_de_personnages_15&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;archetypes_personnages&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;ARCH&#201;TYPES DE PERSONNAGES&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;CLASSE&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lame-Bestiale-(Magus).html&quot; title=&quot;Lame Bestiale&quot;&gt;Lame Bestiale&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Magus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Elu-(Paladin).html&quot; title=&quot;&#201;lu&quot;&gt;&#201;lu&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Paladin&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duettiste-(Barde).html&quot; title=&quot;Duettiste&quot;&gt;Duettiste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Barde&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Occulte-(Guerrier).html&quot; title=&quot;Gardien occulte&quot;&gt;Gardien Occulte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Guerrier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte-Du-Familier-(Magicien).html&quot; title=&quot;Adepte du familier&quot;&gt;Adepte du Familier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Magicien&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homonculiste-(Alchimiste).html&quot; title=&quot;Homonculiste &quot;&gt;Homunculiste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Alchimiste&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Des-Leshys-(Druide).html&quot; title=&quot;Gardien des Leshys&quot;&gt;Gardien des Leshys&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Druide&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mage-De-Pacte-(Magicien).html&quot; title=&quot;Mage de Pacte&quot;&gt;Mage de Pacte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Magicien&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lieur-Esprits-(Magicien).html&quot; title=&quot;Lieur d&amp;#39;Esprits&quot;&gt;Lieur d’Esprits&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Magicien&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Synergiste-(Sorcier).html&quot; title=&quot;Synergiste&quot;&gt;Synergiste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Sorci&#232;re&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Arch&#233;types de familiers&lt;a class=&quot;headeranchor&quot; id=&quot;Arch&#233;types_de_familiers_16&quot; href=&quot;#Arch&#233;types_de_familiers_16&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;archetypes_familiers&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;ARCH&#201;TYPES DE FAMILIERS&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;TYPE&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Abjuration--(Familier).html&quot; title=&quot;Pathfinder-RPG.Abjuration  (familier)&quot;&gt;Abjuration&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier d’&#201;cole&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Invocation-(Familier).html&quot; title=&quot;Pathfinder-RPG.Invocation (familier)&quot;&gt;Invocation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier d’&#201;cole&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Leurre-(Familier).html&quot; title=&quot;Pathfinder-RPG.Leurre (familier)&quot;&gt;Leurre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Divination-(Familier).html&quot; title=&quot;Pathfinder-RPG.Divination (familier)&quot;&gt;Divination&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier d’&#201;cole&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Emissaire-(Familier).html&quot; title=&quot;Pathfinder-RPG.Emissaire (familier)&quot;&gt;&#201;missaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Enchantement-(Familier).html&quot; title=&quot;Pathfinder-RPG.Enchantement (familier)&quot;&gt;Enchantement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier d’&#201;cole&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Evocation-(Familier).html&quot; title=&quot;Pathfinder-RPG.Evocation (familier)&quot;&gt;&#201;vocation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier d’&#201;cole&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Chimere-(Familier).html&quot; title=&quot;Pathfinder-RPG.Chimere (familier)&quot;&gt;Chim&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Illusion-(Familier).html&quot; title=&quot;Pathfinder-RPG.Illusion (familier)&quot;&gt;Illusion&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier d’&#201;cole&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Mascotte-(Familier).html&quot; title=&quot;Pathfinder-RPG.Mascotte (familier)&quot;&gt;Mascotte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Cogneur-(Familier).html&quot; title=&quot;Pathfinder-RPG.Cogneur (familier)&quot;&gt;Cogneur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Necromancie-(Familier).html&quot; title=&quot;Pathfinder-RPG.Necromancie (familier)&quot;&gt;N&#233;cromancie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier d’&#201;cole&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Protecteur-(Familier).html&quot; title=&quot;Pathfinder-RPG.Protecteur (familier)&quot;&gt;Protecteur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Sage-(Familier).html&quot; title=&quot;Pathfinder-RPG.Sage (familier)&quot;&gt;Sage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Transmutation-(Familier).html&quot; title=&quot;Pathfinder-RPG.Transmutation (familier)&quot;&gt;Transmutation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier d’&#201;cole&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Autres options de familiers&lt;a class=&quot;headeranchor&quot; id=&quot;Autres_options_de_familiers_17&quot; href=&quot;#Autres_options_de_familiers_17&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;autres_options&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;AUTRES OPTIONS DE FAMILIER&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;CLASSE&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Familier-De-Lignage-(Familier).html&quot; title=&quot;Familiers de lignage&quot;&gt;Familiers de lignage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Sanguin/Ensorceleur&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Familier-Protecteur-(Familier).html&quot; title=&quot;Pathfinder-RPG.Familier protecteur (familier)&quot;&gt;Familiers protecteurs&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Sorci&#232;re &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Nouveaux dons&lt;a class=&quot;headeranchor&quot; id=&quot;Nouveaux_dons_18&quot; href=&quot;#Nouveaux_dons_18&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;dons&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;DONS&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;TYPE&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Affinit&#233;-Avec-Le-Familier.html&quot; title=&quot;Pathfinder-RPG.Affinit&#233; avec le familier&quot;&gt;Affinit&#233; avec le familier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;G&#233;n&#233;ral&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Affinit&#233;-Sup&#233;rieure-Avec-Le-Familier.html&quot; title=&quot;Pathfinder-RPG.Affinit&#233; sup&#233;rieure avec le familier&quot;&gt;Affinit&#233; sup&#233;rieure avec le familier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;G&#233;n&#233;ral&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Amour-De-Mascotte.html&quot; title=&quot;Pathfinder-RPG.Amour de mascotte&quot;&gt;Amour de mascotte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Onseils-Du-Sage.html&quot; title=&quot;Pathfinder-RPG.onseils du sage&quot;&gt;Conseils du sage&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Diversion-Du-Leurre.html&quot; title=&quot;Pathfinder-RPG.Diversion du leurre&quot;&gt;Diversion du leurre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Encouragement-De-L’&#201;missaire.html&quot; title=&quot;Pathfinder-RPG.Encouragement de l’&#233;missaire&quot;&gt;Encouragement de l’&#233;missaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Familier-D’&#201;cole.html&quot; title=&quot;Pathfinder-RPG.Familier d’&#233;cole&quot;&gt;Familier d’&#233;cole&lt;/a&gt;&lt;/td&gt;&lt;td&gt;G&#233;n&#233;ral&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Familier-D’&#201;cole-Sup&#233;rieur.html&quot; title=&quot;Pathfinder-RPG.Familier d’&#233;cole sup&#233;rieur&quot;&gt;Familier d’&#233;cole sup&#233;rieur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;G&#233;n&#233;ral&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Familier-Polyglotte.html&quot; title=&quot;Pathfinder-RPG.Familier polyglotte&quot;&gt;Familier polyglotte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Familier-Vagabond.html&quot; title=&quot;Pathfinder-RPG.Familier vagabond&quot;&gt;Familier vagabond&lt;/a&gt;&lt;/td&gt;&lt;td&gt;G&#233;n&#233;ral&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Fluidit&#233;-Chim&#233;rique.html&quot; title=&quot;Pathfinder-RPG.Fluidit&#233; chim&#233;rique&quot;&gt;Fluidit&#233; chim&#233;rique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lien-T&#233;l&#233;pathique.html&quot; title=&quot;Lien t&#233;l&#233;pathique&quot;&gt;Lien t&#233;l&#233;pathique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;G&#233;n&#233;ral&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Retour-Du-Gardien.html&quot; title=&quot;Pathfinder-RPG.Retour du gardien&quot;&gt;Retour du gardien&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Sort-De-Contact-Collectif.html&quot; title=&quot;Pathfinder-RPG.Sort de contact collectif&quot;&gt;Sort de contact collectif&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&#201;quipe&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Sort-Partag&#233;-Collectif.html&quot; title=&quot;Pathfinder-RPG.Sort partag&#233; collectif&quot;&gt;Sort partag&#233; collectif&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&#201;quipe&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&#201;quipement et objets magiques&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;quipement_et_objets_magiques_19&quot; href=&quot;#&#201;quipement_et_objets_magiques_19&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;equipement&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;EQUIPEMENT ET OBJETS MAGIQUES&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;TYPE&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Bardage-Plumefeuillu.html&quot; title=&quot;Pathfinder-RPG.Bardage plumefeuillu&quot;&gt;Bardage plumefeuillu&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Armure magique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Bocal.html&quot; title=&quot;Pathfinder-RPG.Bocal&quot;&gt;Bocal&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Divers&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Bocal-R&#233;g&#233;n&#233;rant.html&quot; title=&quot;Pathfinder-RPG.Bocal r&#233;g&#233;n&#233;rant&quot;&gt;Bocal r&#233;g&#233;n&#233;rant&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Magique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Brume-Vaguesprit.html&quot; title=&quot;Pathfinder-RPG.Brume vaguesprit&quot;&gt;Brume vaguesprit&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Poison&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Collier-De-Sorts.html&quot; title=&quot;Pathfinder-RPG.Collier de sorts&quot;&gt;Collier de sorts&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Magique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Colorant-Pour-Cuir.html&quot; title=&quot;Pathfinder-RPG.Colorant pour cuir&quot;&gt;Colorant pour cuir&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Divers&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Concentr&#233;-Vaguesprit.html&quot; title=&quot;Pathfinder-RPG.Concentr&#233; vaguesprit&quot;&gt;Concentr&#233; vaguesprit&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Poison&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Gants-De-Toucher-De-Familier.html&quot; title=&quot;Pathfinder-RPG.Gants de toucher de familier&quot;&gt;Gants de toucher de familier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Magique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Graisse-Mondaine.html&quot; title=&quot;Pathfinder-RPG.Graisse mondaine&quot;&gt;Graisse mondaine&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Magique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Herbe-&#192;-Chat.html&quot; title=&quot;Pathfinder-RPG.Herbe &#224; chat&quot;&gt;Herbe &#224; chat&lt;/a&gt;&lt;/td&gt;&lt;td&gt;M&#233;decine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lien-T&#233;l&#233;pathique.html&quot; title=&quot;Lien t&#233;l&#233;pathique&quot;&gt;Lien t&#233;l&#233;pathique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;G&#233;n&#233;ral&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Retour-Du-Gardien.html&quot; title=&quot;Pathfinder-RPG.Retour du gardien&quot;&gt;Retour du gardien&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Sifflet-Bestial.html&quot; title=&quot;Pathfinder-RPG.Sifflet bestial&quot;&gt;Sifflet bestial&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Divers&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Nouveaux sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Nouveaux_sorts_20&quot; href=&quot;#Nouveaux_sorts_20&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;sorts&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;SORTS&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;TYPE&lt;/td&gt;&lt;td&gt;NIVEAU&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Conduit-Empathique.html&quot; title=&quot;Pathfinder-RPG.Conduit empathique&quot;&gt;Conduit empathique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;N&#233;cromancie&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Duplication-De-Familier.html&quot; title=&quot;Pathfinder-RPG.Duplication de familier&quot;&gt;Duplication de familier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Conjuration&lt;/td&gt;&lt;td&gt;4, 5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fusion-Avec-Le-Familier.html&quot; title=&quot;Fusion avec le familier&quot;&gt;Fusion avec le familier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Transmutation&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Lien-Perturb&#233;.html&quot; title=&quot;Pathfinder-RPG.Lien perturb&#233;&quot;&gt;Lien perturb&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Abjuration&lt;/td&gt;&lt;td&gt;2, 3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Rappel-De-Familier.html&quot; title=&quot;Pathfinder-RPG.Rappel de familier&quot;&gt;Rappel de familier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Conjuration&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Rappel-De-Familier-Sup&#233;rieur.html&quot; title=&quot;Pathfinder-RPG.Rappel de familier sup&#233;rieur&quot;&gt;Rappel de familier sup&#233;rieur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Conjuration&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Transfert-D&#39;&#226;me.html&quot; title=&quot;Pathfinder-RPG.Transfert d&#39;&#226;me&quot;&gt;Transfert d&#39;&#226;me&lt;/a&gt;&lt;/td&gt;&lt;td&gt;N&#233;cromancie&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Transfert-De-Familier.html&quot; title=&quot;Pathfinder-RPG.Transfert de familier&quot;&gt;Transfert de familier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Evocation&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Nouveaux familiers de taille TP&lt;a class=&quot;headeranchor&quot; id=&quot;Nouveaux_familiers_de_taille_TP_21&quot; href=&quot;#Nouveaux_familiers_de_taille_TP_21&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;familiers_tp&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;FAMILIERS TRES PETITS&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;BONUS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poulet.html&quot; title=&quot;Familier, Poulet&quot;&gt;Poulet&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Le ma&#238;tre obtient +3 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Pointsdevie.html&quot; title=&quot;points de vie&quot;&gt;points de vie&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Kakapo.html&quot; title=&quot;Kakapo&quot;&gt;Kakapo&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Le ma&#238;tre obtient +3 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Taupe.html&quot; title=&quot;Taupe&quot;&gt;Taupe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Le ma&#238;tre obtient un bonus de +3 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;&lt;br /&gt;bas&#233;s sur le touch&#233;, l&#39;odorat, et le go&#251;t.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tetraodon.html&quot; title=&quot;Tetraodon&quot;&gt;T&#233;traodon&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Le ma&#238;tre obtient +2 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Nouveaux familiers de taille P&lt;a class=&quot;headeranchor&quot; id=&quot;Nouveaux_familiers_de_taille_P_22&quot; href=&quot;#Nouveaux_familiers_de_taille_P_22&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;familiers_p&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;FAMILIERS PETITS&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;BONUS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dauphin-Popoto.html&quot; title=&quot;Dauphin popoto&quot;&gt;Dauphin Popoto&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Le ma&#238;tre obtient +3 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Koala.html&quot; title=&quot;Koala&quot;&gt;Koala&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Le ma&#238;tre obtient +3 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Paon.html&quot; title=&quot;Paon&quot;&gt;Paon&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Le ma&#238;tre obtient +3 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Wallaby.html&quot; title=&quot;Wallaby&quot;&gt;Wallaby&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Le ma&#238;tre obtient +3 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manchot.html&quot; title=&quot;Manchot&quot;&gt;Manchot&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Le ma&#238;tre obtient +3 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt;.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Nouveaux familiers sup&#233;rieurs&lt;a class=&quot;headeranchor&quot; id=&quot;Nouveaux_familiers_sup&#233;rieurs_23&quot; href=&quot;#Nouveaux_familiers_sup&#233;rieurs_23&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;familiers_superieurs&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;NOUVEAUX FAMILIERS SUPERIEURS&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;TYPE&lt;/td&gt;&lt;td&gt;NLS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chat-F&#233;&#233;rique.html&quot; title=&quot;Chat f&#233;&#233;rique&quot;&gt;Chat f&#233;&#233;rique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Cr&#233;ature magique&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chiot-De-Cayden.html&quot; title=&quot;Chiot de Cayden&quot;&gt;Chiot de Cayden&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Extraplanaire (natif)&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pseudosphinx.html&quot; title=&quot;Pseudosphinx&quot;&gt;Pseudosphinx&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Cr&#233;ature magique&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Nouveaux familiers inhabituels&lt;a class=&quot;headeranchor&quot; id=&quot;Nouveaux_familiers_inhabituels_24&quot; href=&quot;#Nouveaux_familiers_inhabituels_24&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;br /&gt;&lt;a id=&quot;familiers_inhabituels&quot;&gt; &lt;/a&gt;
+&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot; WIDTH=&quot;60%&quot;&gt;&lt;caption&gt;NOUVEAUX FAMILIERS INHABITUELS&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;NOM&lt;/td&gt;&lt;td&gt;BONUS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Wyrd-Ioun.html&quot; title=&quot;Wyrd Ioun&quot;&gt;Wyrd Ioun&lt;/a&gt;&lt;/td&gt;&lt;td&gt;G&#233;n&#233;ral&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Limace-L&#233;opard.html&quot; title=&quot;Limace l&#233;opard&quot;&gt;Limace l&#233;opard&lt;/a&gt;&lt;/td&gt;&lt;td&gt;G&#233;n&#233;ral&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;P&#233;trifoug&#232;re.html&quot; title=&quot;P&#233;trifoug&#232;re&quot;&gt;P&#233;trifoug&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Familier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt; &lt;/h1&gt;
+]]></body>
+  <raw><![CDATA[<div class="description">'''Source :''' Familiar Folio (FF).</div>
+
+===Détails de l'ouvrage===
+
+{br}Titre original : Pathfinder Player Companion: Familiar Folio
+{br}Éditeur VO : Paizo Inc.
+{br}Date de sortie VO : 17 février 2015
+
+----
+
+==Introduction==
+
+Dans tout Golarion, les familiers font office de serviteurs et de compagnons pour toutes sortes de lanceurs de sorts. Leurs origines et les liens qui les unissent à leurs maîtres sont aussi variés et mystérieux que les pouvoirs occultes de n’importe quel lanceur de sorts, et ces créatures, petites mais polyvalentes, inspirent autant la fascination que la méfiance. Dans le jeu de rôle Pathfinder, les familiers remplissent un rôle bien défini et disposent d’un ensemble prévisible de pouvoirs. Généralement compagnons des magiciens et des sorcières — et parfois des ensorceleurs, des alchimistes et des magus —, ils peuvent assister leur maître, servir d'éclaireurs, et servir de conduit magique contre ses ennemis. Mais tout cela ne fait qu’effleurer le potentiel d’un familier. Les pages qui suivent présentent une multitude de manières de redéfinir les familiers et de restituer le mystère ainsi que le caractère surnaturel de ces étranges et magnifiques alliés.
+
+===Les Familiers en Jeu===
+
+En plus de toutes les options destinées aux lanceurs de sorts que contient cet ouvrage, certaines des nouvelles possibilités présentées ici permettent également aux personnages qui ne lancent pas de sorts d’obtenir leur propre familier. Si le rôle de l’oiseau transmettant les sorts de son maître ou du serpent espion a déjà été clairement établi par d’innombrables personnages accompagnés d’un familier, les possibilités permettant à ces créatures d’aider les autres classes sont presque infinies. Que vous incarniez un roublard rusé avec des animaux magiques pour complices, ou un guerrier élaborant d'astucieuses tactiques avec ses féroces compagnons, avoir un allié malin et facilement sous-estimé peut vous être utile dans bien d’autres domaines que la magie.
+
+Au-delà des avantages qu’ils procurent sur le champ de bataille, les familiers offrent également aux joueurs des occasions uniques d’interpréter des créatures très différentes de leurs personnages habituels. Consultez votre MJ pour savoir comment il compte intégrer le familier à la partie : demandez-lui si il prévoit de l'interpréter lui même, ou si vous en aurez le contrôle. Dans le deuxième cas, vous pourriez faire de votre familier davantage qu’un simple pouvoir supplémentaire. Réfléchissez au caractère de votre familier et à la façon dont sa personnalité évoluera à mesure qu’il progressera. Votre familier pourrait être un corbeau qui recueille des babioles dans les cimetières, ou une vipère irritable qui sursaute facilement. Sans aller jusqu'à éclipser votre personnage, votre familier peut devenir bien plus qu’un simple ensemble de valeurs chiffrées.
+
+Les familiers peuvent également compléter leur maître de façon significative que ce soit par leur style, un historique partagé, ou bien d’autres manières encore. La sagesse que l’on associe à un hibou pourra être impartie à son propriétaire, de la même façon qu’un familier fiélon peut suggérer l’existence d’un pacte insidieux. Un personnage pourrait être issu d’une lignée de lanceurs de sorts réputés pour leur lien avec les aigles, ou dont les membres partagent le même allié surnaturel depuis des générations . Réfléchissez à ce que votre familier représente pour votre personnage, et à la manière dont cette relation peut transparaître lorsque vous l’interprétez.
+
+Il existe des dizaines de familiers différents parmi lesquels choisir. Consultez le chapitre "Pour votre personnage" pour obtenir la liste complète des familiers et des familiers supérieurs, puis choisissez celui qui correspond le mieux à votre personnage !
+
+----
+
+==Pour votre personnage==
+
+Classes principalement concernées
+
+Ce volume de la collection Pathfinder Player Companion présente de nouvelles options propres aux personnages des classes suivantes, ainsi que des éléments pouvant s’appliquer à un large éventail de personnages.
+
+====[#autres_options|Sanguins]====
+
+Les Sanguins ont accès à une grande variété de familiers grâce aux règles des familiers de lignage. Combinées à des archétypes de familier orientés vers le combat, tels que le Cogneur ou le Protecteur, ces règles permettent aux Sanguins d’utiliser leurs familiers comme de précieux auxiliaires au combat.
+
+====[#archetypes_personnages|Guerriers]====
+
+Bien que les Guerriers ne disposent que d’un seul archétype, le Gardien Occulte, son inclusion est importante, car les guerriers n’ont normalement accès à aucune forme de familier ni de compagnon animal. Cet archétype leur permet donc de profiter des nombreuses options proposées dans ce volume.
+
+====[#archetypes_personnages|Sorcières]====
+
+La Sorcière étant la seule classe pour laquelle le familier constitue une partie intégrante de ses aptitudes plutôt qu’une option facultative, elle bénéficie d'autant plus des possibilités présentées dans ce volume. La liste étendue des familiers offre aux joueurs davantage de choix lorsqu’ils cherchent un familier correspondant à un concept précis de sorcière. Les familiers de protecteur spirituel entretiennent des liens particuliers avec les protecteurs des sorcières, renforçant encore davantage le lien entre la sorcière et son familier.
+
+====[#archetypes_personnages|Magiciens]====
+
+Ces maîtres de la magie ont beaucoup à gagner dans les pages de ce volume. Les archétypes de mage Adepte du Familier, Mage de Pacte, et Lieur d'Esprit, ainsi que les familiers propres aux différentes écoles de magie, permettent à chaque magicien de personnaliser son familier afin qu’il soutienne au mieux ses choix de sorts et ses tactiques de combat.
+
+====[#autres_options|Pour tous les personnages]====
+
+Certains éléments de jeu transcendent les particularités de la race ou de la classe d’un personnage. Les éléments suivants, détaillés dans cet ouvrage, conviennent tout aussi bien à n’importe quel personnage que vous souhaiteriez jouer, et offrent même aux aventuriers dépourvus de familier de nouvelles manières d’interagir avec ceux des autres.
+
+====[#creer_familiers|Créer des nouveaux familiers]====
+
+Les recommandations permettant de répondre à la demande d’un joueur souhaitant obtenir un familier qui n’existe pas encore peuvent également servir à élargir le choix des compagnons animaux, compagnons d’armes, suivants, et créatures convoquées. Elles peuvent ainsi s’appliquer à une grande variété d’aventuriers.
+
+====[#archetypes_personnages|Archétypes]====
+
+En plus des options destinées aux classes principalement concernées, certains archétypes permettent également aux alchimistes, aux bardes, aux druides, aux magus et aux paladins d’obtenir un familier.
+
+====[#familiers_tp|Familiers privilégiés]====
+
+Les informations concernant les familiers les plus répandus au sein de différentes cultures, organisations, et nations, peuvent contribuer à développer les personnages associés à ces groupes, même lorsque ceux-ci ne possèdent pas eux-mêmes de familier. Lorsque vous incarnez un personnage opposé aux Chevaliers de l'Enfer, il peut être utile de savoir que leurs Significateurs affectionnent particulièrement les familiers diablotins, ne serait-ce que pour préparer vos plans.
+
+====[#equipement|Équipement et objets magiques]====
+
+Une grande partie du nouvel équipement présenté dans ce volume est conçue pour affronter les familiers de lanceurs de sorts hostiles. Le poison présenté dans cette section peut être utile pour semer la discorde dans un groupe d'ennemis et peut même permettre à un personnage de se protéger contre les manigances d’adversaires charismatiques.
+
+====[#familiers_superieurs|Nouveaux familiers supérieurs]====
+
+Bien qu’ils soient proposés en tant que familiers supérieurs, les nouveaux monstres présentés dans ce volume possèdent une valeur d’Intelligence suffisamment élevée pour pouvoir être engagés comme espions mercenaires ou devenir, si l’on gagne leur amitié, des alliés volontaires.
+
+====[#sorts|Sorts]====
+
+Certains des nouveaux sorts présentés sont conçus pour renforcer le familier d’un allié ou neutraliser celui d’un adversaire.
+
+====[#dons|Dons d'équipe]====
+
+Les nouveaux dons d'équipe permettent aux lanceurs de sorts dépourvus de familier de tirer parti du familier d’un allié.
+
+====Questions à poser à votre MJ====
+
+Poser les questions suivantes à votre maître du jeu peut vous aider à tirer le meilleur parti de Pathfinder Manuel des Joueurs: Folio des Familiers.
+
+1. Mon choix de familier est-il cohérent avec notre campagne ? Existe-t-il un type de familier particulièrement approprié à cette campagne ?
+
+2. Le familier de mon personnage sera-t-il contrôlé par moi, le joueur qui contrôle son maître, ou sera-t-il contrôlé par le MJ en tant que PNJ ?
+
+3. Les familiers provenant d’autres sources, comme les différents volumes du Bestiaire, peuvent-ils être utilisés dans cette campagne ?
+
+<table><td><div>''' ''Le saviez-vous ?'' '''
+
+La première version de la sorcière conçue pour le Manuel des joueurs : règles avancées de Pathfinder proposait la chèvre et le cochon parmi les familiers possibles. Tous deux furent finalement retirés au cours des tests de jeu, mais ces idées restèrent suffisamment populaires pour réapparaître comme options dans le Bestiaire 3 de Pathfinder.</div></td></table>
+
+----
+
+==Index des Règles==
+
+Les nouvelles options de règles suivantes sont présentées dans le Folio des Familiers.
+
+{br}[anchor|#creer_familiers]
+====[Creer des familiers|Créer des nouveaux familiers]====
+
+Bien qu’il existe déjà de nombreux types de familiers, il arrive que les options disponibles ne correspondent pas exactement à l’idée que vous vous faites du compagnon magique de votre personnage. Avec l’accord de votre maître du jeu, vous pouvez toutefois réutiliser le profil d’un familier existant afin de représenter approximativement le familier idéal pour votre personnage.
+
+[Creer des familiers|Consulter les règles de création de familiers.]
+
+
+{br}[anchor|#familiers_inhabituels]
+====Familiers inhabituels====
+
+Bien que la plupart des familiers soient des animaux de taille Très Petite (TP) ou des créatures magiques, les lanceurs de sorts peuvent acquérir des créatures plus grandes ou inhabituelles au cours de leurs voyages. Cela implique certains effets de règles dont il faut tenir compte à la table de jeu.
+
+Les familiers de taille P contrôlent les cases adjacentes comme le font les autres créatures de petite taille. Ils peuvent être prendre des ennemis en tenaille, bien que leurs maîtres soient généralement peu enclins à employer de telles tactiques qui sont souvent mortelles pour leur familier. Les familiers de taille P sont également plus difficiles à transporter sur soi que les familiers de taille TP ou inférieure ; un objet magique, comme un sac sans fond, est généralement nécessaire.
+
+Les familiers de type créature artificielle, plante et vermine acquièrent une valeur d'[[intelligence]] et perdent le trait [Dénué dintelligence|dénué d'intelligence] s'ils le possédaient. Si ces familiers ne parlent aucune langue, ils communiquent avec leur maître et les autres créatures de leur espèce (un scorpion vert avec d'autres scorpions, des plantes mobiles avec d'autres plantes mobiles, etc.) au moyen d'un étrange mélange de comportements, de légers changements de coloration, et parfois même par la sécrétion d'odeurs ou de phéromones. Les autres types de créatures ne peuvent pas comprendre cette communication sans l'aide de la magie.
+
+Les extraplanaires et les créatures morts-vivantes ne sont normalement accessibles qu'avec le don Familier supérieur et ne nécessitent aucune autre règle spéciale.
+
+====Archétypes de personnages====
+
+{br}[anchor|#archetypes_personnages]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ ARCHÉTYPES DE PERSONNAGES
+|- CLASS="titre"
+| NOM || CLASSE
+|- CLASS="premier"
+| [Lame bestiale (magus)|Lame Bestiale] || Magus
+|-
+| [Elu (paladin)|Élu] || Paladin
+|-
+| [Duettiste (barde)|Duettiste] || Barde
+|-
+| [Gardien occulte (guerrier)|Gardien Occulte] || Guerrier
+|-
+| [Adepte du familier (magicien)|Adepte du Familier] || Magicien
+|-
+| [Homonculiste (alchimiste)|Homunculiste] || Alchimiste
+|-
+| [Gardien des Leshys (druide)|Gardien des Leshys] || Druide
+|-
+| [Mage de Pacte (magicien)|Mage de Pacte] || Magicien
+|-
+| [Lieur Esprits (magicien)|Lieur d’Esprits] || Magicien
+|-
+| [Synergiste (sorcier)|Synergiste] || Sorcière
+|}
+
+====Archétypes de familiers====
+
+{br}[anchor|#archetypes_familiers]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ ARCHÉTYPES DE FAMILIERS
+|- CLASS="titre"
+| NOM || TYPE
+|- CLASS="premier"
+| [Abjuration  (familier)|Abjuration] || Familier d’École
+|-
+| [Invocation (familier)|Invocation] || Familier d’École
+|-
+| [Leurre (familier)|Leurre] || /
+|-
+| [Divination (familier)|Divination] || Familier d’École
+|-
+| [Emissaire (familier)|Émissaire] || /
+|-
+| [Enchantement (familier)|Enchantement] || Familier d’École
+|-
+| [Evocation (familier)|Évocation] || Familier d’École
+|-
+| [Chimere (familier)|Chimère] || /
+|-
+| [Illusion (familier)|Illusion] || Familier d’École
+|-
+| [Mascotte (familier)|Mascotte] || /
+|-
+| [Cogneur (familier)|Cogneur] || /
+|-
+| [Necromancie (familier)|Nécromancie] || Familier d’École
+|-
+| [Protecteur (familier)|Protecteur] || /
+|-
+| [Sage (familier)|Sage] || /
+|-
+| [Transmutation (familier)|Transmutation] || Familier d’École
+|}
+
+====Autres options de familiers====
+
+{br}[anchor|#autres_options]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ AUTRES OPTIONS DE FAMILIER
+|- CLASS="titre"
+| NOM || CLASSE
+|- CLASS="premier"
+| [Familier de lignage (familier)|Familiers de lignage] || Sanguin/Ensorceleur
+|-
+| [Familier protecteur (familier)|Familiers protecteurs] || Sorcière 
+|}
+
+====Nouveaux dons====
+
+{br}[anchor|#dons]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ DONS
+|- CLASS="titre"
+| NOM || TYPE
+|- CLASS="premier"
+| [Affinité avec le familier|Affinité avec le familier] || Général
+|-
+| [Affinité supérieure avec le familier|Affinité supérieure avec le familier] || Général
+|-
+| [Amour de mascotte|Amour de mascotte] || Familier
+|-
+| [onseils du sage|Conseils du sage] || Familier
+|-
+| [Diversion du leurre|Diversion du leurre] || Familier
+|-
+| [Encouragement de l’émissaire|Encouragement de l’émissaire] || Familier
+|-
+| [Familier d’école|Familier d’école] || Général
+|-
+| [Familier d’école supérieur|Familier d’école supérieur] || Général
+|-
+| [Familier polyglotte|Familier polyglotte] || Familier
+|-
+| [Familier vagabond|Familier vagabond] || Général
+|-
+| [Fluidité chimérique|Fluidité chimérique] || Familier
+|-
+| [Lien télépathique|Lien télépathique] || Général
+|-
+| [Retour du gardien|Retour du gardien] || Familier
+|-
+| [Sort de contact collectif|Sort de contact collectif] || Équipe
+|-
+| [Sort partagé collectif|Sort partagé collectif] || Équipe
+|}
+
+====Équipement et objets magiques====
+
+{br}[anchor|#equipement]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ EQUIPEMENT ET OBJETS MAGIQUES
+|- CLASS="titre"
+| NOM || TYPE
+|- CLASS="premier"
+| [Bardage plumefeuillu|Bardage plumefeuillu] || Armure magique
+|-
+| [Bocal|Bocal] || Divers
+|-
+| [Bocal régénérant|Bocal régénérant] || Magique
+|-
+| [Brume vaguesprit|Brume vaguesprit] || Poison
+|-
+| [Collier de sorts|Collier de sorts] || Magique
+|-
+| [Colorant pour cuir|Colorant pour cuir] || Divers
+|-
+| [Concentré vaguesprit|Concentré vaguesprit] || Poison
+|-
+| [Gants de toucher de familier|Gants de toucher de familier] || Magique
+|-
+| [Graisse mondaine|Graisse mondaine] || Magique
+|-
+| [Herbe à chat|Herbe à chat] || Médecine
+|-
+| [Lien télépathique|Lien télépathique] || Général
+|-
+| [Retour du gardien|Retour du gardien] || Familier
+|-
+| [Sifflet bestial|Sifflet bestial] || Divers
+|}
+
+====Nouveaux sorts====
+
+{br}[anchor|#sorts]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ SORTS
+|- CLASS="titre"
+| NOM || TYPE || NIVEAU
+|- CLASS="premier"
+| [Conduit empathique|Conduit empathique] || Nécromancie || 5
+|-
+| [Duplication de familier|Duplication de familier] || Conjuration || 4, 5
+|-
+| [Fusion avec le familier|Fusion avec le familier] || Transmutation || 2
+|-
+| [Lien perturbé|Lien perturbé] || Abjuration || 2, 3
+|-
+| [Rappel de familier|Rappel de familier] || Conjuration || 2
+|-
+| [Rappel de familier supérieur|Rappel de familier supérieur] || Conjuration || 5
+|-
+| [Transfert d'âme|Transfert d'âme] || Nécromancie || 5
+|-
+| [Transfert de familier|Transfert de familier] || Evocation || 6
+|}
+
+====Nouveaux familiers de taille TP====
+
+{br}[anchor|#familiers_tp]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ FAMILIERS TRES PETITS
+|- CLASS="titre"
+| NOM || BONUS
+|- CLASS="premier"
+| [Poulet|Poulet] || Le maître obtient +3 [[points de vie]].
+|-
+| [Kakapo|Kakapo] || Le maître obtient +3 aux tests de [[Escalade]].
+|-
+| [Taupe|Taupe] || Le maître obtient un bonus de +3 aux tests de [[Perception]]{br}basés sur le touché, l'odorat, et le goût.
+|-
+| [Tetraodon|Tétraodon] || Le maître obtient +2 aux jets de [[Vigueur]]
+|}
+
+====Nouveaux familiers de taille P====
+
+{br}[anchor|#familiers_p]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ FAMILIERS PETITS
+|- CLASS="titre"
+| NOM || BONUS
+|- CLASS="premier"
+| [Dauphin popoto|Dauphin Popoto] || Le maître obtient +3 aux tests de [[Natation]].
+|-
+| [Koala|Koala] || Le maître obtient +3 aux tests de [[Escalade]].
+|-
+| [Paon|Paon] || Le maître obtient +3 aux tests de [[Intimidation]].
+|-
+| [Wallaby|Wallaby] || Le maître obtient +3 aux tests de [[Acrobaties]].
+|-
+| [Manchot|Manchot] || Le maître obtient +3 aux tests de [[Natation]].
+|}
+
+====Nouveaux familiers supérieurs====
+
+{br}[anchor|#familiers_superieurs]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ NOUVEAUX FAMILIERS SUPERIEURS
+|- CLASS="titre"
+| NOM || TYPE || NLS
+|- CLASS="premier"
+| [Chat féérique|Chat féérique] || Créature magique || 7
+|-
+| [Chiot de Cayden|Chiot de Cayden] || Extraplanaire (natif) || 7
+|-
+| [Pseudosphinx|Pseudosphinx] || Créature magique || 7
+|}
+
+====Nouveaux familiers inhabituels====
+
+{br}[anchor|#familiers_inhabituels]
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
+|+ NOUVEAUX FAMILIERS INHABITUELS
+|- CLASS="titre"
+| NOM || BONUS
+|- CLASS="premier"
+| [Wyrd Ioun|Wyrd Ioun] || Général
+|-
+| [Limace léopard|Limace léopard] || Général
+|-
+| [Pétrifougère|Pétrifougère] || Familier
+|}
+
+----]]></raw>
+  <fullName>Pathfinder-RPG.Folio des Familiers</fullName>
+</wikiPage>

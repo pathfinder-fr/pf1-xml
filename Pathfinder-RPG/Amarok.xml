@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Amarok</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2020-09-08 13:24:25Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Vision dans les ténèbres</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Détection du mensonge</link><link>Pathfinder-RPG.Délivrance des malédictions</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Lutte supérieure</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Science de la frappe décisive</link><link>Pathfinder-RPG.Science de la lutte</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Communication avec les animaux</link><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.type Extérieur</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Amarok&lt;div style=&quot;float:right;&quot;&gt;FP 12&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.17&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 19 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille TG, LN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Les-T&#233;n&#232;bres-(Capacit&#233;).html&quot; title=&quot;Vision dans les t&#233;n&#232;bres&quot;&gt;vision dans les t&#233;n&#232;bres&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +28
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 28, contact 13, pris au d&#233;pourvu 23 (Dex +5, naturelle +15, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 172 (15d10+90)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +14, &lt;b&gt;Vig&lt;/b&gt; +15, &lt;b&gt;Vol&lt;/b&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +23 (4d6+15/19-20 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 4,50 m (3 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Allonge&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;, morsure de l’&#226;me
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 12&lt;sup&gt;e&lt;/sup&gt;) ; concentration +15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mensonge.html&quot; title=&quot;D&#233;tection du mensonge&quot;&gt;d&#233;tection du mensonge&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;livrance-Des-Mal&#233;dictions.html&quot; title=&quot;D&#233;livrance des mal&#233;dictions&quot;&gt;d&#233;livrance des mal&#233;dictions&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 30, &lt;b&gt;Dex&lt;/b&gt; 21, &lt;b&gt;Con&lt;/b&gt; 22, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 23, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +15, &lt;b&gt;BMO&lt;/b&gt; +27 (+35 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 42 (44 contre la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;, 46 contre les &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;crocs-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Lutte-Sup&#233;rieure.html&quot; title=&quot;Lutte sup&#233;rieure&quot;&gt;Lutte sup&#233;rieure&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Frappe-D&#233;cisive.html&quot; title=&quot;Science de la frappe d&#233;cisive&quot;&gt;Science de la frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Lutte.html&quot; title=&quot;Science de la lutte&quot;&gt;Science de la lutte&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +28, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +21 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, sylvestre ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts et toundras froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt; Morsure de l’&#226;me (Sur).&lt;/b&gt; Par une action simple, un amarok peut mordre directement l’&#226;me d’une cr&#233;ature situ&#233;e dans son champ de vision. Une sombre image de la cr&#233;ature mordue appara&#238;t &#224; c&#244;t&#233; de l’amarok et celui-ci effectue son attaque de morsure comme si la cr&#233;ature &#233;tait &#224; port&#233;e de son allonge. Une morsure de l’&#226;me inflige le m&#234;me montant de d&#233;g&#226;ts qu’une attaque de morsure normale et elle ignore la solidit&#233; et la r&#233;duction des d&#233;g&#226;ts. Si son attaque de morsure est r&#233;ussie, l’amarok peut tenter une &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt; et un &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; contre la cible. Quand un amarok effectue une &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte&quot;&gt;&#233;treinte&lt;/a&gt; contre une cr&#233;ature de cette fa&#231;on, cette cr&#233;ature ne se d&#233;place pas, mais l’amarok lutte visiblement avec l’image sombre et la cr&#233;ature r&#233;elle semble lutter contre un adversaire invisible. Ce pouvoir ne fonctionne pas contre les cr&#233;atures d&#233;nu&#233;es d’&#226;me (comme la plupart des &lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;cr&#233;atures artificielles&lt;/a&gt;) ou dont le corps et l’&#226;me forment un tout (comme les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;ext&#233;rieurs&lt;/a&gt;).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Les yeux de cet &#233;norme loup noir luisent d’une intelligence sournoise et ses crocs sont aussi brillants que la lumi&#232;re d’une lune froide.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces puissantes cr&#233;atures &#224; l’aspect de loup vivent dans les for&#234;ts septentrionales et dans les vastes toundras clairsem&#233;es. Les amaroks font en moyenne 3,60 m&#232;tres de long et ont une fourrure aussi noire qu’une nuit sans lune. Leurs yeux et leurs crocs ac&#233;r&#233;s luisent de la couleur de la lune, et leur queue est plus longue et plus souple que celle des loups. &#192; la diff&#233;rence de ces animaux, les amaroks chassent seuls et se rassemblent uniquement pour se reproduire et &#233;lever leurs petits. Les amaroks sont de grands chasseurs et les l&#233;gendes racontent que rien ne peut se d&#233;rober &#224; leur regard. Quand ils combattent, ils se ruent sur leurs adversaires, tranchent la gorge de leurs proies &#224; grands coups de crocs ou s’en prennent &#224; leur &#226;me.&lt;br /&gt;&lt;br /&gt;Les amaroks ne chassent pas les gens pour s’en repa&#238;tre, mais ils appr&#233;cient le frisson et la strat&#233;gie de la traque. Ils aiment &#233;galement donner de bonnes le&#231;ons &#224; ceux suffisamment stupides pour chasser seuls la nuit. Les amaroks traquent les chasseurs et attaquent brusquement en surgissant des ombres. Ils plongent leur proie dans une quasi-inconscience puis retournent dans les bois. Les cr&#233;atures qui cherchent &#224; am&#233;liorer leurs techniques de chasse apr&#232;s une rencontre aussi p&#233;rilleuse obtiennent l’approbation des amaroks qui font d’excellents (si ce n’est rudes) instructeurs capables d’enseigner des techniques de discr&#233;tion, de pistage et de lutte. Ce sont &#233;galement d’implacables adversaires envers ceux qui commettent le seul et unique acte impardonnable &#224; leurs yeux : un individu stupide qui ose tuer les petits d’un amarok meurt rapidement et brutalement entre leurs m&#226;choires.&lt;br /&gt;&lt;br /&gt;Un amarok mesure presque 9 m&#232;tres du bout de sa truffe &#224; l’extr&#233;mit&#233; de sa queue. Il fait 2,70 m&#232;tres au garrot et p&#232;se 9 tonnes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Amarok|FP 12}
+{s:pucem|Créature magique|Forêt-Jungle|Froid}
+{s:BDTexte|''Source : Bestiaire 5 p.17''}
+{s:BDTexte|'''PX''' 19 200}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TG, LN}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[Vision dans les ténèbres|vision dans les ténèbres]], ''[[vision lucide]]'', [[vision nocturne]] ; [[Perception]] +28}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 28, contact 13, pris au dépourvu 23 (Dex +5, naturelle +15, taille -2)}
+{s:BDTexte|'''pv''' 172 (15d10+90)}
+{s:BDTexte|'''Réf''' +14, '''Vig''' +15, '''Vol''' +13}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +23 (4d6+15/19-20 plus [[étreinte]] et [[croc-en-jambe]])}
+{s:BDTexte|'''Espace''' 4,50 m (3 {s:c}) ; '''Allonge''' 3 m (2 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[étreinte]], [[croc-en-jambe]], morsure de l’âme}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 12<sup>e</sup>) ; concentration +15)}
+{s:BDSorts|Constant — ''[[détection du mensonge]]'', ''[[vision lucide]]''}
+{s:BDSorts|3/jour — ''[[délivrance des malédictions]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 30, '''Dex''' 21, '''Con''' 22, '''Int''' 15, '''Sag''' 23, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +15, '''BMO''' +27 (+35 en [[lutte]]), '''DMD''' 42 (44 contre la [[lutte]], 46 contre les [[croc-en-jambe|crocs-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Frappe décisive]], [[Lutte supérieure]], [[Science du critique]] (morsure), [[Science de la frappe décisive]], [[Science de la lutte]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +19, [[Perception]] +28, [[Psychologie]] +25, [[Survie]] +21 ; '''Modificateurs raciaux''' +4 en [[Discrétion]]}
+{s:BDTexte|'''Langues''' commun, sylvestre ; ''[[communication avec les animaux]]''}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts et toundras froides}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|''' Morsure de l’âme (Sur).''' Par une action simple, un amarok peut mordre directement l’âme d’une créature située dans son champ de vision. Une sombre image de la créature mordue apparaît à côté de l’amarok et celui-ci effectue son attaque de morsure comme si la créature était à portée de son allonge. Une morsure de l’âme inflige le même montant de dégâts qu’une attaque de morsure normale et elle ignore la solidité et la réduction des dégâts. Si son attaque de morsure est réussie, l’amarok peut tenter une [[étreinte]] et un [[croc-en-jambe]] contre la cible. Quand un amarok effectue une [[étreinte]] contre une créature de cette façon, cette créature ne se déplace pas, mais l’amarok lutte visiblement avec l’image sombre et la créature réelle semble lutter contre un adversaire invisible. Ce pouvoir ne fonctionne pas contre les créatures dénuées d’âme (comme la plupart des [[Type Créature artificielle|créatures artificielles]]) ou dont le corps et l’âme forment un tout (comme les [[Type Extérieur|extérieurs]]).}
+</div>
+</td><td><div>''Les yeux de cet énorme loup noir luisent d’une intelligence sournoise et ses crocs sont aussi brillants que la lumière d’une lune froide.''
+
+Ces puissantes créatures à l’aspect de loup vivent dans les forêts septentrionales et dans les vastes toundras clairsemées. Les amaroks font en moyenne 3,60 mètres de long et ont une fourrure aussi noire qu’une nuit sans lune. Leurs yeux et leurs crocs acérés luisent de la couleur de la lune, et leur queue est plus longue et plus souple que celle des loups. À la différence de ces animaux, les amaroks chassent seuls et se rassemblent uniquement pour se reproduire et élever leurs petits. Les amaroks sont de grands chasseurs et les légendes racontent que rien ne peut se dérober à leur regard. Quand ils combattent, ils se ruent sur leurs adversaires, tranchent la gorge de leurs proies à grands coups de crocs ou s’en prennent à leur âme.
+
+Les amaroks ne chassent pas les gens pour s’en repaître, mais ils apprécient le frisson et la stratégie de la traque. Ils aiment également donner de bonnes leçons à ceux suffisamment stupides pour chasser seuls la nuit. Les amaroks traquent les chasseurs et attaquent brusquement en surgissant des ombres. Ils plongent leur proie dans une quasi-inconscience puis retournent dans les bois. Les créatures qui cherchent à améliorer leurs techniques de chasse après une rencontre aussi périlleuse obtiennent l’approbation des amaroks qui font d’excellents (si ce n’est rudes) instructeurs capables d’enseigner des techniques de discrétion, de pistage et de lutte. Ce sont également d’implacables adversaires envers ceux qui commettent le seul et unique acte impardonnable à leurs yeux : un individu stupide qui ose tuer les petits d’un amarok meurt rapidement et brutalement entre leurs mâchoires.
+
+Un amarok mesure presque 9 mètres du bout de sa truffe à l’extrémité de sa queue. Il fait 2,70 mètres au garrot et pèse 9 tonnes.
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Amarok</fullName>
+</wikiPage>

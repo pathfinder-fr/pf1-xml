@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Marteau nain à long manche</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-01 18:17:34Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Sceptre de puissance nain</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Caractéristiques des armes</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.arme à deux mains</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 70 po ; &lt;b&gt;Poids&lt;/b&gt; 10 kg ; &lt;b&gt;Groupes&lt;/b&gt; —  
+&lt;b&gt;D&#233;g&#226;ts&lt;/b&gt; 1d10 (P), 2d6 (M) ; &lt;b&gt;Critique&lt;/b&gt; &#215;3 ; &lt;b&gt;Port&#233;e&lt;/b&gt; — ; &lt;b&gt;Type&lt;/b&gt; C ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#ALLONGE&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;allonge&lt;/a&gt;  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABEXOTIQUES&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Armes exotiques&lt;/a&gt; ; &lt;b&gt;Maniement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armeadeuxmains.html&quot; title=&quot;arme &#224; deux mains&quot;&gt;arme de corps &#224; corps &#224; deux mains&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Ces marteaux &#224; la t&#234;te tr&#232;s lourde sont orn&#233;s de visages monstrueux, grav&#233;s ou repouss&#233;s, ou bien encore perc&#233;s de minuscules trous qui provoquent un sifflement mena&#231;ant quand ils fendent les airs.
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}'''Prix''' 70 po ; '''Poids''' 10 kg ; '''Groupes''' —  
+'''Dégâts''' 1d10 (P), 2d6 (M) ; '''Critique''' ×3 ; '''Portée''' — ; '''Type''' C ; '''Spécial''' [[Caractéristiques des armes#ALLONGE|allonge]]  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; '''Maniement''' [[arme à deux mains|arme de corps à corps à deux mains]]</span>
+<hr>
+Ces marteaux à la tête très lourde sont ornés de visages monstrueux, gravés ou repoussés, ou bien encore percés de minuscules trous qui provoquent un sifflement menaçant quand ils fendent les airs.]]></raw>
+  <fullName>Pathfinder-RPG.marteau nain à long manche (arme)</fullName>
+</wikiPage>

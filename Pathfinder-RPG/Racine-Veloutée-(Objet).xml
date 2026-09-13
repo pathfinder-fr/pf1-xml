@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Racine veloutée (fiole)</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-19 20:15:37Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Remèdes alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Remèdes alchimiques</link><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Gobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 25 po ; &lt;b&gt;Poids&lt;/b&gt; — ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 20  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Rem&#232;des-Alchimiques.html&quot; title=&quot;Rem&#232;des alchimiques&quot;&gt;Rem&#232;des alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Les chefs &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt; les plus sournois donnent cette p&#226;te orange aux guerriers de leur tribu avant de leur proposer de lancer une attaque particuli&#232;rement audacieuse. La consommation de racine velout&#233;e induit un sentiment d’euphorie qui donne une impression d’invuln&#233;rabilit&#233;. Pendant 1 heure apr&#232;s la consommation de la racine velout&#233;e, le gobelin gagne un bonus alchimique de +5 contre les effets de terreur. N&#233;anmoins, alors qu’il est sous les effets de la racine velout&#233;e, il doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 quand il tente de quitter une zone menac&#233;e par un adversaire. S’il &#233;choue, il ne peut pas fuir la zone menac&#233;e avec cette action, mais ne perd pas son action.
+]]></body>
+  <raw><![CDATA[{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}'''Prix''' 25 po ; '''Poids''' — ; '''DD d'Artisanat (alchimie)''' 20  
+<span class="Catégorie">'''Catégorie''' [[Remèdes alchimiques]]</span>
+<hr>
+Les chefs [[Gobelin (race)|gobelins]] les plus sournois donnent cette pâte orange aux guerriers de leur tribu avant de leur proposer de lancer une attaque particulièrement audacieuse. La consommation de racine veloutée induit un sentiment d’euphorie qui donne une impression d’invulnérabilité. Pendant 1 heure après la consommation de la racine veloutée, le gobelin gagne un bonus alchimique de +5 contre les effets de terreur. Néanmoins, alors qu’il est sous les effets de la racine veloutée, il doit réussir un jet de [[Volonté]] [[DD]] 15 quand il tente de quitter une zone menacée par un adversaire. S’il échoue, il ne peut pas fuir la zone menacée avec cette action, mais ne perd pas son action.]]></raw>
+  <fullName>Pathfinder-RPG.Racine veloutée (objet)</fullName>
+</wikiPage>

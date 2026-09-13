@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Limon de poudre noire</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-20 15:55:15Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.Division (capacité)</link><link>Pathfinder-RPG.Traits des vases (capacité)</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Combustion (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Armes à feu</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.contact</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Cartouche alchimique (arme)</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Enchevêtré</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Ébloui</link><link>Pathfinder-RPG.Vigueur</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Limon de poudre noire&lt;div style=&quot;float:right;&quot;&gt;FP 14&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vase&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;D&#233;sert&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/D&#233;sert.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.169&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 38 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; Perception -5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 9, contact 9, pris au d&#233;pourvu 9 (taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 230 (20d8+140)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Division-(Capacit&#233;).html&quot; title=&quot;Division (Ext)&quot;&gt;division&lt;/a&gt; (tranchant ou feu, 46 pv) ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Vases-(Capacit&#233;).html&quot; title=&quot;Traits des vases (Ext)&quot;&gt;traits des vases&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, escalade 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +23 (2d6+13 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt; et r&#233;sidu de poudre noire)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; explosion, +14 contact (4d6+7 plus r&#233;sidu de poudre noire)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Combustion-(Capacit&#233;).html&quot; title=&quot;Combustion (Ext)&quot;&gt;combustion&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (2d6+13), explosion, r&#233;sidu de poudre noire
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 28, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 1, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +15 ; &lt;b&gt;BMO&lt;/b&gt; +25 (+29 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 35 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +17
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Combustion (Ext).&lt;/b&gt; &#192; cause de sa nature volatile, un limon de poudre noire risque d’exploser en pr&#233;sence d’&#233;tincelles ou de flammes non prot&#233;g&#233;es. Quand un limon de poudre noire subit des d&#233;g&#226;ts de feu ou des d&#233;g&#226;ts inflig&#233;s par une attaque &#224; distance d’&lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html&quot; title=&quot;Caract&#233;ristiques des armes &#224; feu&quot;&gt;arme &#224; feu&lt;/a&gt;, il explose spontan&#233;ment en infligeant 10d6 points de d&#233;g&#226;ts de feu &#224; toutes les cr&#233;atures et objets situ&#233;s dans un c&#244;ne de 9 m&#232;tres dirig&#233; vers la source des d&#233;g&#226;ts qui ont provoqu&#233; la combustion du limon (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 27, 1/2 d&#233;g&#226;ts). S’il n’est pas possible de d&#233;terminer la direction de la source des d&#233;g&#226;ts (si celle-ci est un rayonnement ou une &#233;tendue centr&#233;e sur le limon), le limon explose en un rayonnement de 4,50 m de rayon. Un limon de poudre noire qui explose se &lt;a class=&quot;pagelink&quot; href=&quot;Division-(Capacit&#233;).html&quot; title=&quot;Division (Ext)&quot;&gt;divise&lt;/a&gt; automatiquement. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Explosion (Ext).&lt;/b&gt; Une fois tous les 1d4 rounds, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;, la masse d’un limon de poudre noire peut produire une explosion de poudre noire concentr&#233;e. C’est une attaque de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquesdecontact.html&quot; title=&quot;contact&quot;&gt;contact&lt;/a&gt; &#224; distance qui inflige un montant de points de d&#233;g&#226;ts &#233;gal &#224; 4d6 + le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; du limon (+7 pour la plupart). Les cr&#233;atures frapp&#233;es par cette explosion risquent &#233;galement d’&#234;tre enrob&#233;es de r&#233;sidu de poudre noire du limon (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 27, annule). Cette attaque a une port&#233;e de 54 m&#232;tres sans facteur de port&#233;e. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sidu de poudre noire (Ext).&lt;/b&gt; Quand un limon de poudre noire r&#233;ussit &#224; frapper une cr&#233;ature avec son attaque de coup ou d’explosion, la cible doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 27 pour &#233;viter d’&#234;tre recouverte d’un r&#233;sidu poisseux de poudre noire. Le r&#233;sidu lui-m&#234;me est inoffensif mais, si une cr&#233;ature recouverte de cette mati&#232;re utilise une &lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html&quot; title=&quot;Caract&#233;ristiques des armes &#224; feu&quot;&gt;arme &#224; feu&lt;/a&gt;, manie une arme qui inflige des d&#233;g&#226;ts de feu, subit des d&#233;g&#226;ts de feu quelle que soit leur source, ou est expos&#233;e &#224; une &#233;tincelle suffisamment importante, le r&#233;sidu prend imm&#233;diatement feu et explose, infligeant 5d6 points de d&#233;g&#226;ts de feu &#224; la cr&#233;ature. Les cr&#233;atures adjacentes &#224; celle qui explose subissent la moiti&#233; de ces d&#233;g&#226;ts (qui peuvent eux-m&#234;mes &#234;tre r&#233;duits de moiti&#233; avec un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 27 r&#233;ussi). Le r&#233;sidu de poudre noire reste inflammable pendant 24 heures, jusqu’&#224; ce qu’il prenne feu ou qu’on l’&#244;te en le frottant (ce qui n&#233;cessite du savon, de l’eau et une heure au moins dans un bain en se lavant). Une cr&#233;ature peut &#234;tre recouverte par une seule couche de r&#233;sidu de poudre noire &#224; la fois. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet amas vacillant de limon et de poudre noire laisse derri&#232;re lui une tra&#238;n&#233;e de r&#233;sidu sombre et scintillant. Il fr&#233;mit sous l’action d’une violente &#233;nergie semblable &#224; celle d’un explosif.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Courants l&#224; o&#249; la magie sauvage et la poudre noire sont pr&#233;sentes, les limons de poudre noire forment une combinaison de ces deux &#233;l&#233;ments dangereux et impr&#233;visibles.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Limon adjuvant&lt;a class=&quot;headeranchor&quot; id=&quot;Limon_adjuvant_0&quot; href=&quot;#Limon_adjuvant_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Parfois, quand un limon de poudre noire est m&#234;l&#233; &#224; des processus alchimiques et expos&#233; &#224; la magie sauvage (ces deux &#233;l&#233;ments se rencontrant fr&#233;quemment ensemble dans des endroits o&#249; les &lt;a class=&quot;pagelink&quot; href=&quot;Cartouche-Alchimique-(Arme).html&quot; title=&quot;Cartouche alchimique&quot;&gt;cartouches alchimiques&lt;/a&gt; sont courantes), il se transforme en limon adjuvant. Ces limons pr&#233;sentent d’horribles caract&#233;ristiques suppl&#233;mentaires non pr&#233;sentes dans les substances d’origine qui les composent. Un limon adjuvant a l’arch&#233;type simple de &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;cr&#233;ature &#233;volu&#233;e&lt;/a&gt;, ainsi qu’un pouvoir unique li&#233; au m&#233;lange de substances alchimiques dont il est fait. Par exemple, un limon adjuvant dot&#233; du pouvoir d’une cartouche d’enchev&#234;trement &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Enchev&#234;tr&#233;.html&quot; title=&quot;Enchev&#234;tr&#233;&quot;&gt;enchev&#234;tre&lt;/a&gt; ses adversaires avec son attaque de coup (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 27, annule), tandis que les limons de cartouche flamboyante peuvent produire des &#233;clats de lumi&#232;re aveuglante par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; qui &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;bloui.html&quot; title=&quot;&#201;bloui&quot;&gt;&#233;blouit&lt;/a&gt; pendant 1d6 minutes les cr&#233;atures dot&#233;es d’yeux et situ&#233;es &#224; 6 m&#232;tres ou moins (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 27, annule).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Limon de poudre noire|FP 14}
+{s:pucem|Vase|Désert|Tropical}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.169]]''}
+{s:BDTexte|'''PX''' 38 400}
+{s:BDTexte|[[type Vase|Vase]] de taille G, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' Perception -5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 9, contact 9, pris au dépourvu 9 (taille -1)}
+{s:BDTexte|'''pv''' 230 (20d8+140)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +13, '''Vol''' +1}
+{s:BDTexte|'''Capacités défensives''' [[Division (capacité)|division]] (tranchant ou feu, 46 pv) ; '''Immunités''' froid, [[Traits des vases (capacité)|traits des vases]]}
+{s:BDTexte|'''Faiblesses''' [[Vulnérabilités (capacité)|vulnérabilité]] au feu}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m, escalade 6 m}
+{s:BDTexte|'''Corps à corps''' coup, +23 (2d6+13 plus [[Étreinte (capacité)|étreinte]] et résidu de poudre noire)}
+{s:BDTexte|'''Distance''' explosion, +14 contact (4d6+7 plus résidu de poudre noire)}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDTexte|'''Attaques spéciales''' [[Combustion (capacité)|combustion]], [[Constriction (capacité)|constriction]] (2d6+13), explosion, résidu de poudre noire}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 28, '''Dex''' 11, '''Con''' 24, '''Int''' —, '''Sag''' 1, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +15 ; '''BMO''' +25 (+29 en [[lutte]]) ; '''DMD''' 35 (croc-en-jambe impossible)}
+{s:BDTexte|'''Compétences''' [[Escalade]] +17}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Combustion (Ext).''' À cause de sa nature volatile, un limon de poudre noire risque d’exploser en présence d’étincelles ou de flammes non protégées. Quand un limon de poudre noire subit des dégâts de feu ou des dégâts infligés par une attaque à distance d’[[Armes à feu|arme à feu]], il explose spontanément en infligeant 10d6 points de dégâts de feu à toutes les créatures et objets situés dans un cône de 9 mètres dirigé vers la source des dégâts qui ont provoqué la combustion du limon ([[Réflexes]] DD 27, 1/2 dégâts). S’il n’est pas possible de déterminer la direction de la source des dégâts (si celle-ci est un rayonnement ou une étendue centrée sur le limon), le limon explose en un rayonnement de 4,50 m de rayon. Un limon de poudre noire qui explose se [[Division (capacité)|divise]] automatiquement. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|'''Explosion (Ext).''' Une fois tous les 1d4 rounds, par une [[action rapide]], la masse d’un limon de poudre noire peut produire une explosion de poudre noire concentrée. C’est une attaque de [[contact]] à distance qui inflige un montant de points de dégâts égal à 4d6 + le modificateur de [[Constitution]] du limon (+7 pour la plupart). Les créatures frappées par cette explosion risquent également d’être enrobées de résidu de poudre noire du limon ([[Réflexes]] DD 27, annule). Cette attaque a une portée de 54 mètres sans facteur de portée. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|'''Résidu de poudre noire (Ext).''' Quand un limon de poudre noire réussit à frapper une créature avec son attaque de coup ou d’explosion, la cible doit réussir un jet de [[Réflexes]] DD 27 pour éviter d’être recouverte d’un résidu poisseux de poudre noire. Le résidu lui-même est inoffensif mais, si une créature recouverte de cette matière utilise une [[Armes à feu|arme à feu]], manie une arme qui inflige des dégâts de feu, subit des dégâts de feu quelle que soit leur source, ou est exposée à une étincelle suffisamment importante, le résidu prend immédiatement feu et explose, infligeant 5d6 points de dégâts de feu à la créature. Les créatures adjacentes à celle qui explose subissent la moitié de ces dégâts (qui peuvent eux-mêmes être réduits de moitié avec un jet de [[Réflexes]] DD 27 réussi). Le résidu de poudre noire reste inflammable pendant 24 heures, jusqu’à ce qu’il prenne feu ou qu’on l’ôte en le frottant (ce qui nécessite du savon, de l’eau et une heure au moins dans un bain en se lavant). Une créature peut être recouverte par une seule couche de résidu de poudre noire à la fois. Le DD du jet de sauvegarde est basé sur la Constitution.}
+
+</div></td>
+<td><div>''Cet amas vacillant de limon et de poudre noire laisse derrière lui une traînée de résidu sombre et scintillant. Il frémit sous l’action d’une violente énergie semblable à celle d’un explosif.''
+
+Courants là où la magie sauvage et la poudre noire sont présentes, les limons de poudre noire forment une combinaison de ces deux éléments dangereux et imprévisibles.
+
+====Limon adjuvant====
+Parfois, quand un limon de poudre noire est mêlé à des processus alchimiques et exposé à la magie sauvage (ces deux éléments se rencontrant fréquemment ensemble dans des endroits où les [[Cartouche alchimique (arme)|cartouches alchimiques]] sont courantes), il se transforme en limon adjuvant. Ces limons présentent d’horribles caractéristiques supplémentaires non présentes dans les substances d’origine qui les composent. Un limon adjuvant a l’archétype simple de [[Archétypes#CREATUREEVOLUEE|créature évoluée]], ainsi qu’un pouvoir unique lié au mélange de substances alchimiques dont il est fait. Par exemple, un limon adjuvant doté du pouvoir d’une cartouche d’enchevêtrement [[enchevêtré|enchevêtre]] ses adversaires avec son attaque de coup ([[Réflexes]] DD 27, annule), tandis que les limons de cartouche flamboyante peuvent produire des éclats de lumière aveuglante par une [[action libre]] qui [[ébloui|éblouit]] pendant 1d6 minutes les créatures dotées d’yeux et situées à 6 mètres ou moins ([[Vigueur]] DD 27, annule).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Limon de poudre noire</fullName>
+</wikiPage>

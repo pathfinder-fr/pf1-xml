@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Accélérateur instable</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:44:13Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bombardier hobgobelin</link><link>Pathfinder-RPG.Hobgobelin (race)</link><link>Pathfinder-RPG.Outils alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Feu grégeois (objet)</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Hobgobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Hobgobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Hobgobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Hobgobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Hobgobelin-(Race).html&quot; title=&quot;Les hobgobelins&quot;&gt;hobgobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 50 po ; &lt;b&gt;Poids&lt;/b&gt; 0,25 kg ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 25  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+M&#233;lange volatile d’agents r&#233;actifs inflammables, l’acc&#233;l&#233;rateur instable peut &#234;tre lanc&#233; au m&#234;me titre que le &lt;a class=&quot;pagelink&quot; href=&quot;Feu-Gr&#233;geois-(Objet).html&quot; title=&quot;Feu gr&#233;geois&quot;&gt;feu gr&#233;geois&lt;/a&gt;. Entre les mains d’un &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;alchimiste&lt;/a&gt;, une fiole d’acc&#233;l&#233;rateur instable peut &#234;tre utilis&#233;e pour cr&#233;er une &lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html#BOMBES&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;bombe&lt;/a&gt;, augmentant ses d&#233;g&#226;ts de feu de +1d6 points. Il n’a aucun effet sur les bombes n’infligeant pas de d&#233;g&#226;ts de feu. Si la bombe dure plus d’un instant, les d&#233;g&#226;ts suppl&#233;mentaires ne s’appliquent qu’&#224; ceux du premier &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:MR}'''Prix''' 50 po ; '''Poids''' 0,25 kg ; '''DD d'Artisanat (alchimie)''' 25  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+Mélange volatile d’agents réactifs inflammables, l’accélérateur instable peut être lancé au même titre que le [[Feu grégeois (objet)|feu grégeois]]. Entre les mains d’un [[alchimiste]], une fiole d’accélérateur instable peut être utilisée pour créer une [[alchimiste#BOMBES|bombe]], augmentant ses dégâts de feu de +1d6 points. Il n’a aucun effet sur les bombes n’infligeant pas de dégâts de feu. Si la bombe dure plus d’un instant, les dégâts supplémentaires ne s’appliquent qu’à ceux du premier [[round]].]]></raw>
+  <fullName>Pathfinder-RPG.Accélérateur instable (objet)</fullName>
+</wikiPage>

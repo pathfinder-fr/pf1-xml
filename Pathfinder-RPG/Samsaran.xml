@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Samsaran</title>
+  <categories><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2017-07-02 20:25:42Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.samsaran (race)</link><link>Pathfinder-RPG.Temp-bestiaire4</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type samsaran</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Compréhension des langages</link><link>Pathfinder-RPG.Perception de la mort</link><link>Pathfinder-RPG.Stabilisation</link><link>Pathfinder-RPG.Injonction</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Sanctuaire</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.résistance</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Mystère du savoir</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.samsaran (race)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Samsaran&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4&lt;/i&gt; p.233
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Samsaran (m), oracle 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Samsaran.html&quot; title=&quot;Samsaran (sous-type)&quot;&gt;samsaran&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt;  15, contact 12, pris au d&#233;pourvu 13 (armure +3, Dex +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 11 (1d8+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +4 (+2 contre les effets de morts, d’&#233;nergie n&#233;gative et les niveaux n&#233;gatifs)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; lance, -1 (1d6-1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; fronde, +2 (1d4-1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 1 ; concentration +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+(1/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compr&#233;hension-Des-Langages.html&quot; title=&quot;Compr&#233;hension des langages&quot;&gt;compr&#233;hension des langages&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Mort.html&quot; title=&quot;Perception de la mort&quot;&gt;perception de la mort&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;stabilisation&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts d’oracle connus&lt;/b&gt; (NLS 1 ; concentration +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (4/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Injonction.html&quot; title=&quot;Injonction&quot;&gt;injonction&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctuaire.html&quot; title=&quot;Sanctuaire&quot;&gt;sanctuaire&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assistance-Divine.html&quot; title=&quot;Assistance divine&quot;&gt;assistance divine&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;r&#233;sistance&quot;&gt;r&#233;sistance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Myst&#232;re&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;re-Du-Savoir.html&quot; title=&quot;Myst&#232;re du savoir&quot;&gt;savoir&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 11, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; -1, &lt;b&gt;DMD&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +2 en &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt;, +2 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; c&#233;leste, commun, draconique, samsaran
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; li&#233; &#224; la vie, mal&#233;diction d’oracle (hant&#233;), r&#233;v&#233;lations (r&#233;fl&#233;chis), &#233;clats du pass&#233; (&lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou clan (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (armure de cuir clout&#233;e, lance, fronde avec 10 billes, outils de cambrioleur, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;br /&gt;&lt;br /&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;La peau de ce jeune homme svelte et calme, v&#234;tu d’une simple robe, est bleue p&#226;le et ses yeux sont enti&#232;rement noirs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les samsarans forment une race d’humano&#239;des dont les esprits
+se r&#233;incarnent de mani&#232;re naturelle en d’autres samsarans apr&#232;s
+leur mort. Ils ont les cheveux noirs, une peau bleu p&#226;le et des yeux
+sans pupille ou iris visible. Le sang d’un samsaran est aussi limpide
+que de l’eau.
+D&#232;s sa naissance, le samsaran sait qu’il a d&#233;j&#224; men&#233; une vie
+ant&#233;rieure et qu’il en m&#232;nera une autre apr&#232;s sa mort, suivant le
+grand cycle des r&#233;incarnations. Lors du d&#233;c&#232;s d’un samsaran, son
+corps dispara&#238;t et un enfant samsaran appara&#238;t ailleurs et grandit &#224;
+un rythme normal. Les samsarans peuvent se reproduire avec des
+humains ; le cas &#233;ch&#233;ant, la prog&#233;niture est toujours humaine.
+Les samsarans typiques vivent des vies simples et asc&#233;tiques &#224;
+l’&#233;cart des soci&#233;t&#233;s dominantes. Ils vivent dans de petites communaut&#233;s
+agricoles isol&#233;es, seuls ou en couple, et les individus les plus
+&#226;g&#233;s adoptent les enfants r&#233;cemment apparus. Certains oeuvrent
+en tant que conseillers, m&#233;diateurs, proph&#232;tes ou devins.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Les Samsarans en tant que PJ&lt;a class=&quot;headeranchor&quot; id=&quot;Les_Samsarans_en_tant_que_PJ_0&quot; href=&quot;#Les_Samsarans_en_tant_que_PJ_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les samsarans ne poss&#232;dent pas de d&#233;s de vie raciaux et progressent en acqu&#233;rant des niveaux de classe. Voici leurs traits raciaux :
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;–2 Constitution, +2 Sagesse, +2 Intelligence.&lt;/b&gt; Les samsarans sont perspicaces et volontaires, mais leur corps est souvent fr&#234;le.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vision nocturne (Ext).&lt;/b&gt; Les samsarans peuvent voir deux fois plus loin que les humains dans les zones faiblement &#233;clair&#233;es.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Li&#233; &#224; la vie (Ext).&lt;/b&gt; Les samsarans b&#233;n&#233;ficient d’un bonus racial de +2 aux jets de sauvegarde contre les effets de morts, contre les effets d’&#233;nergie n&#233;gative, aux tests pour annuler des niveaux n&#233;gatifs et aux tests de Con effectu&#233;s pour se stabiliser.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Pouvoirs magiques (Mag).&lt;/b&gt; Les samsarans qui poss&#232;dent une valeur de Charisme de 11 ou plus gagnent les pouvoirs magiques suivants : 1/jour – &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compr&#233;hension-Des-Langages.html&quot; title=&quot;Compr&#233;hension des langages&quot;&gt;compr&#233;hension des langages&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Mort.html&quot; title=&quot;Perception de la mort&quot;&gt;perception de la mort&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;stabilisation&lt;/a&gt;&lt;/i&gt;. Le niveau de lanceur de sorts est &#233;gal au niveau de personnage du samsaran.&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#201;clats du pass&#233; (Ext).&lt;/b&gt; Un samsaran gagne un bonus de +2 &#224; deux comp&#233;tences (au choix) qui deviennent des comp&#233;tences de classe.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues.&lt;/b&gt; Les samsarans commencent le jeu en sachant parler le samsaran et le commun. Ceux qui ont une valeur d’Intelligence suffisamment &#233;lev&#233;e peuvent choisir des langues suppl&#233;mentaires parmi la liste suivante : toutes les langues humaines, abyssal, aquatique, a&#233;rien, c&#233;leste, draconique, g&#233;ant, ign&#233;, infernal, vishkanyan, tengu et terreux.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;i&gt;&lt;u&gt;Note :&lt;/u&gt; Sur certaines versions V.O. et V.F. on remarque en comparant avec sa fiche du Manuel des Races qu&#39;il manque deux langues parmi les langues suppl&#233;mentaires au choix : le tengu et le vishkanyan.  Cela devrait avoir &#233;t&#233; corrig&#233; depuis dans les derni&#232;res versions.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;voiraussi&quot;&gt;
+&lt;h4&gt;Voir aussi&lt;/h4&gt;La page de la race &lt;a class=&quot;pagelink&quot; href=&quot;Samsaran-(Race).html&quot; title=&quot;Les samsarans&quot;&gt;Samsaran&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Samsaran|FP 1/2}
+{s:pucem|Humanoïde|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire 4'' p.233}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|Samsaran (m), oracle 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type samsaran|samsaran]]) de taille M, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA'''  15, contact 12, pris au dépourvu 13 (armure +3, Dex +2)}
+{s:BDTexte|'''pv''' 11 (1d8+3)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +0, '''Vol''' +4 (+2 contre les effets de morts, d’énergie négative et les niveaux négatifs)}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' lance, -1 (1d6-1)}
+{s:BDTexte|'''Distance''' fronde, +2 (1d4-1)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 1 ; concentration +3)}
+{s:BDSorts|(1/jour) — ''[[compréhension des langages]]'', ''[[perception de la mort]]'', ''[[stabilisation]]''}
+{s:BDTexte|'''Sorts d’oracle connus''' (NLS 1 ; concentration +3)}
+{s:BDSorts|1<sup>er</sup> (4/jour) — ''[[injonction]]'' ([[DD]] 13), ''[[sanctuaire]]'' ([[DD]] 13), ''[[soins légers]]''}
+{s:BDSorts|0 (à volonté) — ''[[assistance divine]]'', ''[[lecture de la magie]]'', ''[[lumière]]'', ''[[manipulation à distance]]'', ''[[résistance]]'', ''[[son imaginaire]]'' ([[DD]] 12)}
+{s:BDTexte|'''Mystère''' [[Mystère du savoir|savoir]]}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 14, '''Con''' 11, '''Int''' 12, '''Sag''' 14, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +0, '''BMO''' -1, '''DMD''' 11}
+{s:BDTexte|'''Dons''' [[Robustesse]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +5, [[Connaissances]] (religion) +5, [[Diplomatie]] +6, [[Perception]] +8, [[Premiers secours]] +6, [[Sabotage]] +6}
+{s:BDTexte|'''Modificateurs raciaux''' +2 en [[Sabotage]], +2 en [[Perception]].}
+{s:BDTexte|'''Langues''' céleste, commun, draconique, samsaran}
+{s:BDTexte|'''Particularités''' lié à la vie, malédiction d’oracle (hanté), révélations (réfléchis), éclats du passé ([[Sabotage]], [[Perception]])}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation sociale''' solitaire ou clan (3-12)}
+{s:BDTexte|'''Trésor''' équipement de PNJ (armure de cuir cloutée, lance, fronde avec 10 billes, outils de cambrioleur, autres trésors)}
+</div></td>
+
+<td><div>
+''La peau de ce jeune homme svelte et calme, vêtu d’une simple robe, est bleue pâle et ses yeux sont entièrement noirs.''
+
+Les samsarans forment une race d’humanoïdes dont les esprits
+se réincarnent de manière naturelle en d’autres samsarans après
+leur mort. Ils ont les cheveux noirs, une peau bleu pâle et des yeux
+sans pupille ou iris visible. Le sang d’un samsaran est aussi limpide
+que de l’eau.
+Dès sa naissance, le samsaran sait qu’il a déjà mené une vie
+antérieure et qu’il en mènera une autre après sa mort, suivant le
+grand cycle des réincarnations. Lors du décès d’un samsaran, son
+corps disparaît et un enfant samsaran apparaît ailleurs et grandit à
+un rythme normal. Les samsarans peuvent se reproduire avec des
+humains ; le cas échéant, la progéniture est toujours humaine.
+Les samsarans typiques vivent des vies simples et ascétiques à
+l’écart des sociétés dominantes. Ils vivent dans de petites communautés
+agricoles isolées, seuls ou en couple, et les individus les plus
+âgés adoptent les enfants récemment apparus. Certains oeuvrent
+en tant que conseillers, médiateurs, prophètes ou devins.
+
+====Les Samsarans en tant que PJ====
+Les samsarans ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Voici leurs traits raciaux :
+* '''–2 Constitution, +2 Sagesse, +2 Intelligence.''' Les samsarans sont perspicaces et volontaires, mais leur corps est souvent frêle.
+* '''Vision nocturne (Ext).''' Les samsarans peuvent voir deux fois plus loin que les humains dans les zones faiblement éclairées.
+* '''Lié à la vie (Ext).''' Les samsarans bénéficient d’un bonus racial de +2 aux jets de sauvegarde contre les effets de morts, contre les effets d’énergie négative, aux tests pour annuler des niveaux négatifs et aux tests de Con effectués pour se stabiliser.
+* '''Pouvoirs magiques (Mag).''' Les samsarans qui possèdent une valeur de Charisme de 11 ou plus gagnent les pouvoirs magiques suivants : 1/jour – ''[[compréhension des langages]]'', ''[[perception de la mort]]'', ''[[stabilisation]]''. Le niveau de lanceur de sorts est égal au niveau de personnage du samsaran.
+* '''Éclats du passé (Ext).''' Un samsaran gagne un bonus de +2 à deux compétences (au choix) qui deviennent des compétences de classe.
+* '''Langues.''' Les samsarans commencent le jeu en sachant parler le samsaran et le commun. Ceux qui ont une valeur d’Intelligence suffisamment élevée peuvent choisir des langues supplémentaires parmi la liste suivante : toutes les langues humaines, abyssal, aquatique, aérien, céleste, draconique, géant, igné, infernal, vishkanyan, tengu et terreux.
+
+''__Note :__ Sur certaines versions V.O. et V.F. on remarque en comparant avec sa fiche du Manuel des Races qu'il manque deux langues parmi les langues supplémentaires au choix : le tengu et le vishkanyan.  Cela devrait avoir été corrigé depuis dans les dernières versions.''
+
+{s:VoirAussiAvant}La page de la race [[Samsaran (race)|Samsaran]]{s:VoirAussiAprès}
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Samsaran</fullName>
+</wikiPage>

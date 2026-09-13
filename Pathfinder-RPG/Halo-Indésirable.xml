@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Halo indésirable</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 1</category><category>Pathfinder-RPG.Sort paladin 1</category><category>Pathfinder-RPG.Sort prêtre 1</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:48:36Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Temp- Tests snippets</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Exploration</link><link>Pathfinder-RPG.camouflage</link><link>Pathfinder-RPG.Sarenraé (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fSarenrae.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Sarenra&#233; (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fSarenrae.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Sarenra&#233;-(Technique).html&quot; title=&quot;Sarenra&#233;&quot;&gt;Sarenra&#233;&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Evocation.html&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;lumi&#232;re&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Pal&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 1  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; moyenne (30 m + 3 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)  
+&lt;b&gt;Cibles&lt;/b&gt; une cr&#233;ature non-Bonne  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/niveau  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Ce sort fait briller la cible comme si elle &#233;tait entour&#233;e d&#39;un halo de lumi&#232;re. Ce halo diffuse une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration.html#VISIONLUMIERE&quot; title=&quot;L&amp;#39;exploration&quot;&gt;lumi&#232;re normale&lt;/a&gt; dans un rayon de 6 m&#232;tres autour de la cr&#233;ature, et augmente le niveau de luminosit&#233; d&#39;une cat&#233;gorie &#224; 6 m&#232;tres suppl&#233;mentaires. Ce halo emp&#234;che la cr&#233;ature de b&#233;n&#233;ficier d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat#Camouflage.html&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; dans les t&#233;n&#232;bres non magiques, et dans des conditions de luminosit&#233; faible ou inf&#233;rieures, la lueur de la cr&#233;ature peut &#234;tre vue m&#234;me si elle n&#39;est pas en ligne de mire directe.&lt;br /&gt;&lt;br /&gt;Si &lt;i&gt;halo ind&#233;sirable&lt;/i&gt; est introduit dans une zone de t&#233;n&#232;bres magiques (ou vice versa), les effets des deux sorts sont temporairement annul&#233;s, de sorte que les conditions de luminosit&#233; qui pr&#233;valent normalement sont r&#233;tablies l&#224; o&#249; les zones d&#39;effet se chevauchent.
+]]></body>
+  <raw><![CDATA[{s:divin|Sarenraé|%2fPCUP%2fReligion-PNG%2fSarenrae.png}{s:cs}{s:ISG}'''École''' [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; '''Niveau''' [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G]]  
+'''Portée''' moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+'''Cibles''' une créature non-Bonne  
+'''Durée''' 1 minute/niveau  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; '''Résistance à la magie''' oui
+
+Ce sort fait briller la cible comme si elle était entourée d'un halo de lumière. Ce halo diffuse une [[Exploration#VISIONLUMIERE|lumière normale]] dans un rayon de 6 mètres autour de la créature, et augmente le niveau de luminosité d'une catégorie à 6 mètres supplémentaires. Ce halo empêche la créature de bénéficier d'un [[camouflage]] dans les ténèbres non magiques, et dans des conditions de luminosité faible ou inférieures, la lueur de la créature peut être vue même si elle n'est pas en ligne de mire directe.
+
+Si ''halo indésirable'' est introduit dans une zone de ténèbres magiques (ou vice versa), les effets des deux sorts sont temporairement annulés, de sorte que les conditions de luminosité qui prévalent normalement sont rétablies là où les zones d'effet se chevauchent.]]></raw>
+  <fullName>Pathfinder-RPG.Halo indésirable</fullName>
+</wikiPage>

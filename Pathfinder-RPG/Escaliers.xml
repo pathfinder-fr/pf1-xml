@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les escaliers</title>
+  <categories><category>Pathfinder-RPG.Maitre du jeu</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs</category></categories>
+  <lastModified>2010-07-23 12:04:13Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.MainPage2</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.terrain difficile</link><link>Pathfinder-RPG.Donjons</link><link>Pathfinder-RPG.Pièges</link><link>Pathfinder-RPG.Exemples de pièges</link><link>Pathfinder-RPG.Conception de pièges</link><link>Pathfinder-RPG.Aventures en extérieur</link><link>Pathfinder-RPG.Milieu aquatique</link><link>Pathfinder-RPG.Milieu urbain</link><link>Pathfinder-RPG.Climat</link><link>Pathfinder-RPG.Plans</link><link>Pathfinder-RPG.grand au-delà</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Aventures nautiques</link><link>Pathfinder-RPG.Catastrophes</link><link>Pathfinder-RPG.Coût de la vie</link><link>Pathfinder-RPG.Dangers</link><link>Pathfinder-RPG.Magie primordiale</link><link>Pathfinder-RPG.Villes</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Acc&#232;s rapide aux sections sur l&#39;environnement&lt;a class=&quot;headeranchor&quot; id=&quot;Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; href=&quot;#Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top; text-align: left&quot;&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDONJONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DONJONS&#39;);&quot; onmouseout=&quot;outButton(&#39;DONJONS&#39;);&quot; onclick=&quot;expandMenu(&#39;DONJONS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html&quot; title=&quot;Les donjons&quot;&gt;Les donjons&lt;/a&gt;
+    &lt;ul ID=&quot;DONJONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_diff&#233;rents_types_de_donjons_7&quot; title=&quot;Les donjons&quot;&gt;Les diff&#233;rents types de donjons&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_0&quot; title=&quot;Les donjons&quot;&gt;Les murs&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_sols_1&quot; title=&quot;Les donjons&quot;&gt;Les sols&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_portes_2&quot; title=&quot;Les donjons&quot;&gt;Les portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_les_portes_et_la_d&#233;tection_des_sorts_3&quot; title=&quot;Les donjons&quot;&gt;Les murs, les portes et la d&#233;tection des sorts&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_escaliers_4&quot; title=&quot;Les donjons&quot;&gt;Les escaliers&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_&#233;boulements_5&quot; title=&quot;Les donjons&quot;&gt;Les &#233;boulements&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Champignons_moisissures_et_limons_6&quot; title=&quot;Les donjons&quot;&gt;Champignons, moisissures et limons&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPIEGES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PIEGES&#39;);&quot; onmouseout=&quot;outButton(&#39;PIEGES&#39;);&quot; onclick=&quot;expandMenu(&#39;PIEGES&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les pi&#232;ges&lt;/a&gt;
+    &lt;ul ID=&quot;PIEGES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DESCRIPTION&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les diff&#233;rentes parties d&#39;un pi&#232;ge&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DIVERS&quot; title=&quot;Les pi&#232;ges&quot;&gt;&#201;l&#233;ments divers des pi&#232;ges&lt;/a&gt;&lt;/li&gt;&lt;br/&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exemples-De-Pi&#232;ges.html&quot; title=&quot;Exemples de pi&#232;ges&quot;&gt;Exemples de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conception-De-Pi&#232;ges.html&quot; title=&quot;Conception d&amp;#39;un pi&#232;ge&quot;&gt;Conception de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonEXTERIEUR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;EXTERIEUR&#39;);&quot; onmouseout=&quot;outButton(&#39;EXTERIEUR&#39;);&quot; onclick=&quot;expandMenu(&#39;EXTERIEUR&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les aventures en ext&#233;rieur&lt;/a&gt;
+    &lt;ul ID=&quot;EXTERIEUR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Se_perdre_4&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Se perdre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#For&#234;ts_5&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;For&#234;ts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_feux_de_for&#234;t_FP_G_0&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les feux de for&#234;t&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Mar&#233;cages_6&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Mar&#233;cages&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Collines_7&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Collines&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Montagnes_8&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Montagnes&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Avalanches_FP_H_1&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Avalanches&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Voyages_en_montagne_2&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Voyages en montagne&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#D&#233;serts_9&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;D&#233;serts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_temp&#234;tes_de_sable_3&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les temp&#234;tes de sable&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Plaines_10&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Plaines&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUAQUATIQUE&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUAQUATIQUE&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html&quot; title=&quot;Le milieu aquatique&quot;&gt;Le milieu aquatique&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUAQUATIQUE&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Combats_sous-marins_0&quot; title=&quot;Le milieu aquatique&quot;&gt;Combats sous-marins&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Inondations_1&quot; title=&quot;Le milieu aquatique&quot;&gt;Inondations&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUURBAIN&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUURBAIN&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUURBAIN&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUURBAIN&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html&quot; title=&quot;Le milieu urbain&quot;&gt;Le milieu urbain&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUURBAIN&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Murs_denceinte_et_portes_0&quot; title=&quot;Le milieu urbain&quot;&gt;Murs d&#39;enceinte et portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Gardes_et_soldats_1&quot; title=&quot;Le milieu urbain&quot;&gt;Gardes et soldats&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Machines_de_guerre_2&quot; title=&quot;Le milieu urbain&quot;&gt;Machines de guerre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_rues_de_la_ville_3&quot; title=&quot;Le milieu urbain&quot;&gt;Les rues de la ville&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Au-dessus_et_en_dessous_des_rues_4&quot; title=&quot;Le milieu urbain&quot;&gt;Au-dessus et en dessous des rues&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#B&#226;timents_5&quot; title=&quot;Le milieu urbain&quot;&gt;B&#226;timents&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_lumi&#232;res_de_la_ville_6&quot; title=&quot;Le milieu urbain&quot;&gt;Les lumi&#232;res de la ville&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLIMAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLIMAT&#39;);&quot; onmouseout=&quot;outButton(&#39;CLIMAT&#39;);&quot; onclick=&quot;expandMenu(&#39;CLIMAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html&quot; title=&quot;Le climat&quot;&gt;Le climat&lt;/a&gt;
+    &lt;ul ID=&quot;CLIMAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Pluie_neige_neige_fondue_et_gr&#234;le_1&quot; title=&quot;Le climat&quot;&gt;Pluie, neige, neige fondue et gr&#234;le&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Temp&#234;tes_2&quot; title=&quot;Le climat&quot;&gt;Temp&#234;tes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Brouillard_3&quot; title=&quot;Le climat&quot;&gt;Brouillard&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Vents_4&quot; title=&quot;Le climat&quot;&gt;Vents&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPLANS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PLANS&#39;);&quot; onmouseout=&quot;outButton(&#39;PLANS&#39;);&quot; onclick=&quot;expandMenu(&#39;PLANS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;Les plans&lt;/a&gt;
+    &lt;ul ID=&quot;PLANS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#D&#201;FINITIONPLAN&quot; title=&quot;Les plans&quot;&gt;Qu&#39;est-ce qu&#39;un plan ?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#CARACT&#201;RISTIQUESPLANS&quot; title=&quot;Les plans&quot;&gt;Caract&#233;ristiques des plans&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grand-Au-Del&#224;.html&quot; title=&quot;Le grand au-del&#224;&quot;&gt;Les plans du grand au-del&#224;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDANGNAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DANGNAT&#39;);&quot; onmouseout=&quot;outButton(&#39;DANGNAT&#39;);&quot; onclick=&quot;expandMenu(&#39;DANGNAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html&quot; title=&quot;Les dangers naturels&quot;&gt;Les dangers naturels&lt;/a&gt;
+    &lt;ul ID=&quot;DANGNAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ACIDE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;acide&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ASPHYXIE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;asphyxie&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHALEUR&quot; title=&quot;Les dangers naturels&quot;&gt;La chaleur&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTES&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTESOBJETS&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes d&#39;objets&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#EAU&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;eau&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FAIMSOIF&quot; title=&quot;Les dangers naturels&quot;&gt;La faim et la soif&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FUMEE&quot; title=&quot;Les dangers naturels&quot;&gt;La fum&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FROID&quot; title=&quot;Les dangers naturels&quot;&gt;Le froid&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#GLACE&quot; title=&quot;Les dangers naturels&quot;&gt;La glace&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#LAVE&quot; title=&quot;Les dangers naturels&quot;&gt;La lave&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#NOYADE&quot; title=&quot;Les dangers naturels&quot;&gt;La noyade&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#OBSCURITE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;obscurit&#233;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#PRENDREFEU&quot; title=&quot;Les dangers naturels&quot;&gt;Prendre feu&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-Nautiques.html&quot; title=&quot;Les aventures nautiques&quot;&gt;Les aventures nautiques&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Catastrophes.html&quot; title=&quot;Les catastrophes&quot;&gt;Les catastrophes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Co&#251;t-De-La-Vie.html&quot; title=&quot;Le co&#251;t de la vie&quot;&gt;Le co&#251;t de la vie&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers.html&quot; title=&quot;Les dangers&quot;&gt;Les dangers inhabituels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Primordiale.html&quot; title=&quot;La magie primordiale&quot;&gt;La magie primordiale&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Villes.html&quot; title=&quot;Les villes et communaut&#233;s&quot;&gt;Les villes et communaut&#233;s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br /&gt;Les escaliers repr&#233;sentent la m&#233;thode la plus utilis&#233;e pour se rendre d’un &#233;tage &#224; l’autre au sein d’un donjon. Un personnage peut les monter ou les descendre sans malus mais ne peut pas les parcourir en courant. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; r&#233;alis&#233;s dans un escalier augmente de 4. Certains escaliers sont si raides qu’on les consid&#232;re comme un &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement-Et-Position#Terraindifficile.html&quot; title=&quot;terrain difficile&quot;&gt;terrain difficile&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:MenuEnvironnement}
+
+Les escaliers représentent la méthode la plus utilisée pour se rendre d’un étage à l’autre au sein d’un donjon. Un personnage peut les monter ou les descendre sans malus mais ne peut pas les parcourir en courant. Le [[DD]] des tests d’[[Acrobaties]] réalisés dans un escalier augmente de 4. Certains escaliers sont si raides qu’on les considère comme un [[terrain difficile]].]]></raw>
+  <fullName>Pathfinder-RPG.Escaliers</fullName>
+</wikiPage>

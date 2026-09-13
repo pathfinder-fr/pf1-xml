@@ -1,0 +1,1065 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>La boîte à outils des donjons</title>
+  <categories></categories>
+  <lastModified>2016-12-26 22:43:26Z</lastModified>
+  <version>30</version>
+  <inLinks></inLinks>
+  <outLinks><link>Pathfinder-RPG.Donjons</link><link>Pathfinder-RPG.Pièges</link><link>Pathfinder-RPG.Exemples de pièges</link><link>Pathfinder-RPG.Conception de pièges</link><link>Pathfinder-RPG.Aventures en extérieur</link><link>Pathfinder-RPG.Milieu aquatique</link><link>Pathfinder-RPG.Milieu urbain</link><link>Pathfinder-RPG.Climat</link><link>Pathfinder-RPG.Plans</link><link>Pathfinder-RPG.grand au-delà</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Aventures nautiques</link><link>Pathfinder-RPG.Catastrophes</link><link>Pathfinder-RPG.Coût de la vie</link><link>Pathfinder-RPG.Dangers</link><link>Pathfinder-RPG.Magie primordiale</link><link>Pathfinder-RPG.Villes</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Acc&#232;s rapide aux sections sur l&#39;environnement&lt;a class=&quot;headeranchor&quot; id=&quot;Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; href=&quot;#Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top; text-align: left&quot;&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDONJONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DONJONS&#39;);&quot; onmouseout=&quot;outButton(&#39;DONJONS&#39;);&quot; onclick=&quot;expandMenu(&#39;DONJONS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html&quot; title=&quot;Les donjons&quot;&gt;Les donjons&lt;/a&gt;
+    &lt;ul ID=&quot;DONJONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_diff&#233;rents_types_de_donjons_7&quot; title=&quot;Les donjons&quot;&gt;Les diff&#233;rents types de donjons&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_0&quot; title=&quot;Les donjons&quot;&gt;Les murs&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_sols_1&quot; title=&quot;Les donjons&quot;&gt;Les sols&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_portes_2&quot; title=&quot;Les donjons&quot;&gt;Les portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_les_portes_et_la_d&#233;tection_des_sorts_3&quot; title=&quot;Les donjons&quot;&gt;Les murs, les portes et la d&#233;tection des sorts&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_escaliers_4&quot; title=&quot;Les donjons&quot;&gt;Les escaliers&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_&#233;boulements_5&quot; title=&quot;Les donjons&quot;&gt;Les &#233;boulements&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Champignons_moisissures_et_limons_6&quot; title=&quot;Les donjons&quot;&gt;Champignons, moisissures et limons&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPIEGES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PIEGES&#39;);&quot; onmouseout=&quot;outButton(&#39;PIEGES&#39;);&quot; onclick=&quot;expandMenu(&#39;PIEGES&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les pi&#232;ges&lt;/a&gt;
+    &lt;ul ID=&quot;PIEGES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DESCRIPTION&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les diff&#233;rentes parties d&#39;un pi&#232;ge&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DIVERS&quot; title=&quot;Les pi&#232;ges&quot;&gt;&#201;l&#233;ments divers des pi&#232;ges&lt;/a&gt;&lt;/li&gt;&lt;br/&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exemples-De-Pi&#232;ges.html&quot; title=&quot;Exemples de pi&#232;ges&quot;&gt;Exemples de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conception-De-Pi&#232;ges.html&quot; title=&quot;Conception d&amp;#39;un pi&#232;ge&quot;&gt;Conception de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonEXTERIEUR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;EXTERIEUR&#39;);&quot; onmouseout=&quot;outButton(&#39;EXTERIEUR&#39;);&quot; onclick=&quot;expandMenu(&#39;EXTERIEUR&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les aventures en ext&#233;rieur&lt;/a&gt;
+    &lt;ul ID=&quot;EXTERIEUR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Se_perdre_4&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Se perdre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#For&#234;ts_5&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;For&#234;ts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_feux_de_for&#234;t_FP_G_0&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les feux de for&#234;t&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Mar&#233;cages_6&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Mar&#233;cages&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Collines_7&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Collines&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Montagnes_8&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Montagnes&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Avalanches_FP_H_1&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Avalanches&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Voyages_en_montagne_2&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Voyages en montagne&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#D&#233;serts_9&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;D&#233;serts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_temp&#234;tes_de_sable_3&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les temp&#234;tes de sable&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Plaines_10&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Plaines&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUAQUATIQUE&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUAQUATIQUE&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html&quot; title=&quot;Le milieu aquatique&quot;&gt;Le milieu aquatique&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUAQUATIQUE&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Combats_sous-marins_0&quot; title=&quot;Le milieu aquatique&quot;&gt;Combats sous-marins&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Inondations_1&quot; title=&quot;Le milieu aquatique&quot;&gt;Inondations&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUURBAIN&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUURBAIN&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUURBAIN&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUURBAIN&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html&quot; title=&quot;Le milieu urbain&quot;&gt;Le milieu urbain&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUURBAIN&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Murs_denceinte_et_portes_0&quot; title=&quot;Le milieu urbain&quot;&gt;Murs d&#39;enceinte et portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Gardes_et_soldats_1&quot; title=&quot;Le milieu urbain&quot;&gt;Gardes et soldats&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Machines_de_guerre_2&quot; title=&quot;Le milieu urbain&quot;&gt;Machines de guerre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_rues_de_la_ville_3&quot; title=&quot;Le milieu urbain&quot;&gt;Les rues de la ville&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Au-dessus_et_en_dessous_des_rues_4&quot; title=&quot;Le milieu urbain&quot;&gt;Au-dessus et en dessous des rues&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#B&#226;timents_5&quot; title=&quot;Le milieu urbain&quot;&gt;B&#226;timents&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_lumi&#232;res_de_la_ville_6&quot; title=&quot;Le milieu urbain&quot;&gt;Les lumi&#232;res de la ville&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLIMAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLIMAT&#39;);&quot; onmouseout=&quot;outButton(&#39;CLIMAT&#39;);&quot; onclick=&quot;expandMenu(&#39;CLIMAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html&quot; title=&quot;Le climat&quot;&gt;Le climat&lt;/a&gt;
+    &lt;ul ID=&quot;CLIMAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Pluie_neige_neige_fondue_et_gr&#234;le_1&quot; title=&quot;Le climat&quot;&gt;Pluie, neige, neige fondue et gr&#234;le&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Temp&#234;tes_2&quot; title=&quot;Le climat&quot;&gt;Temp&#234;tes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Brouillard_3&quot; title=&quot;Le climat&quot;&gt;Brouillard&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Vents_4&quot; title=&quot;Le climat&quot;&gt;Vents&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPLANS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PLANS&#39;);&quot; onmouseout=&quot;outButton(&#39;PLANS&#39;);&quot; onclick=&quot;expandMenu(&#39;PLANS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;Les plans&lt;/a&gt;
+    &lt;ul ID=&quot;PLANS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#D&#201;FINITIONPLAN&quot; title=&quot;Les plans&quot;&gt;Qu&#39;est-ce qu&#39;un plan ?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#CARACT&#201;RISTIQUESPLANS&quot; title=&quot;Les plans&quot;&gt;Caract&#233;ristiques des plans&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grand-Au-Del&#224;.html&quot; title=&quot;Le grand au-del&#224;&quot;&gt;Les plans du grand au-del&#224;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDANGNAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DANGNAT&#39;);&quot; onmouseout=&quot;outButton(&#39;DANGNAT&#39;);&quot; onclick=&quot;expandMenu(&#39;DANGNAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html&quot; title=&quot;Les dangers naturels&quot;&gt;Les dangers naturels&lt;/a&gt;
+    &lt;ul ID=&quot;DANGNAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ACIDE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;acide&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ASPHYXIE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;asphyxie&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHALEUR&quot; title=&quot;Les dangers naturels&quot;&gt;La chaleur&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTES&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTESOBJETS&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes d&#39;objets&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#EAU&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;eau&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FAIMSOIF&quot; title=&quot;Les dangers naturels&quot;&gt;La faim et la soif&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FUMEE&quot; title=&quot;Les dangers naturels&quot;&gt;La fum&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FROID&quot; title=&quot;Les dangers naturels&quot;&gt;Le froid&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#GLACE&quot; title=&quot;Les dangers naturels&quot;&gt;La glace&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#LAVE&quot; title=&quot;Les dangers naturels&quot;&gt;La lave&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#NOYADE&quot; title=&quot;Les dangers naturels&quot;&gt;La noyade&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#OBSCURITE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;obscurit&#233;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#PRENDREFEU&quot; title=&quot;Les dangers naturels&quot;&gt;Prendre feu&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-Nautiques.html&quot; title=&quot;Les aventures nautiques&quot;&gt;Les aventures nautiques&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Catastrophes.html&quot; title=&quot;Les catastrophes&quot;&gt;Les catastrophes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Co&#251;t-De-La-Vie.html&quot; title=&quot;Le co&#251;t de la vie&quot;&gt;Le co&#251;t de la vie&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers.html&quot; title=&quot;Les dangers&quot;&gt;Les dangers inhabituels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Primordiale.html&quot; title=&quot;La magie primordiale&quot;&gt;La magie primordiale&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Villes.html&quot; title=&quot;Les villes et communaut&#233;s&quot;&gt;Les villes et communaut&#233;s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br /&gt;&lt;i&gt;(extrait du Guide du Ma&#238;tre p. 178)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#O&#249;_trouver_le_donjon__0&quot;&gt;O&#249; trouver le donjon ?&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Type_de_donjon_1&quot;&gt;Type de donjon &lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_entr&#233;es_du_donjon_2&quot;&gt;Les entr&#233;es du donjon&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_pi&#232;ces_du_donjon_3&quot;&gt;Les pi&#232;ces du donjon&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Caract&#233;ristiques_des_pi&#232;ces_ordinaires_4&quot;&gt;Caract&#233;ristiques des pi&#232;ces ordinaires&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Caract&#233;ristiques_des_pi&#232;ces_exotiques_5&quot;&gt;Caract&#233;ristiques des pi&#232;ces exotiques&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Objets_mineurs_et_majeurs_du_donjon_6&quot;&gt;Objets mineurs et majeurs du donjon&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+Une fa&#231;ade innocente cache bien souvent un sombre secret et qui
+sait ce qui r&#244;de derri&#232;re cette porte coinc&#233;e ou cette herse rouill&#233;e ?
+Quand vous cherchez un repaire pour vos m&#233;chants ou une source
+d’inspiration pour cr&#233;er un caveau rempli de pi&#232;ges, vous pouvez
+utiliser les id&#233;es suivantes ou simplement vous servir des tables pour
+cr&#233;er un antre &#224; un m&#233;chant que les PJ n’&#233;taient pas cens&#233;s suivre.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;O&#249; trouver le donjon ?&lt;a class=&quot;headeranchor&quot; id=&quot;O&#249;_trouver_le_donjon__0&quot; href=&quot;#O&#249;_trouver_le_donjon__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo toutgauche&quot; &gt;&lt;caption&gt;O&#249; trouver le donjon ?&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;d%&lt;/td&gt;&lt;td&gt;D&#233;cor du donjon&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;1-3 &lt;/td&gt;&lt;td&gt;rivi&#232;re souterraine&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;4-6 &lt;/td&gt;&lt;td&gt;dans un barrage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;7-9 &lt;/td&gt;&lt;td&gt;rivi&#232;re souterraine&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;10-12 &lt;/td&gt;&lt;td&gt;dans un barrage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;13-15 &lt;/td&gt;&lt;td&gt;rivi&#232;re souterraine&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;16-18 &lt;/td&gt;&lt;td&gt;dans un barrage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;19-21 &lt;/td&gt;&lt;td&gt;rivi&#232;re souterraine&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;22-24 &lt;/td&gt;&lt;td&gt;dans un barrage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;25-27 &lt;/td&gt;&lt;td&gt;rivi&#232;re souterraine&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;28-30 &lt;/td&gt;&lt;td&gt;dans un barrage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;31-33 &lt;/td&gt;&lt;td&gt;rivi&#232;re souterraine&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;34-36 &lt;/td&gt;&lt;td&gt;dans un barrage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;37-39 &lt;/td&gt;&lt;td&gt;sous un mausol&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;40-42 &lt;/td&gt;&lt;td&gt;dans un mus&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;43-45 &lt;/td&gt;&lt;td&gt;sous un ch&#226;teau&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;46-48 &lt;/td&gt;&lt;td&gt;dans une m&#233;nagerie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;49-51 &lt;/td&gt;&lt;td&gt;dans un phare&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;52-54 &lt;/td&gt;&lt;td&gt;sous une tour&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;55-57 &lt;/td&gt;&lt;td&gt;dans une prison&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;58-60 &lt;/td&gt;&lt;td&gt;dans une cath&#233;drale&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;61-63 &lt;/td&gt;&lt;td&gt;sous les docks&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;64-66 &lt;/td&gt;&lt;td&gt;dans les &#233;gouts&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;67-68 &lt;/td&gt;&lt;td&gt;dans un canal souterrain&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;69-70 &lt;/td&gt;&lt;td&gt;transform&#233; en ar&#232;ne&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;71-72 &lt;/td&gt;&lt;td&gt;partie d’un labyrinthe oubli&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;73-74 &lt;/td&gt;&lt;td&gt;reli&#233; &#224; l’antre d’une b&#234;te&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;75-76 &lt;/td&gt;&lt;td&gt;sous une taverne&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;77-78 &lt;/td&gt;&lt;td&gt;dans un village &#224; flanc de falaise&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;79-80 &lt;/td&gt;&lt;td&gt;dans un arbre g&#233;ant&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;81-82 &lt;/td&gt;&lt;td&gt;dans une cit&#233; gel&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;83-84 &lt;/td&gt;&lt;td&gt;dans une peinture&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;85-86 &lt;/td&gt;&lt;td&gt;dans un gigantesque statue&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;87-88 &lt;/td&gt;&lt;td&gt;sous le nid d’un rukh&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;89-90 &lt;/td&gt;&lt;td&gt;dans des ruines englouties&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;91-92 &lt;/td&gt;&lt;td&gt;cach&#233; dans un oeuf g&#233;ant&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;93-94 &lt;/td&gt;&lt;td&gt;dans un gigantesque fossile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;95 &lt;/td&gt;&lt;td&gt;dans les d&#233;combres d’une cit&#233; des g&#233;ants en ruines&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;96 &lt;/td&gt;&lt;td&gt;dans un vaisseau spatial &#233;cras&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;97 &lt;/td&gt;&lt;td&gt;d&#233;terr&#233; par un nid de fourmis g&#233;antes&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;98 &lt;/td&gt;&lt;td&gt;creus&#233; dans le cadavre d’un dieu&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gauche&quot;&gt;99 &lt;/td&gt;&lt;td&gt;sur une &#238;le, dans un volcan&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td class=&quot;gauche&quot;&gt;100 &lt;/td&gt;&lt;td&gt;dans une lune, une &#233;toile ou une autre plan&#232;te&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Type de donjon &lt;a class=&quot;headeranchor&quot; id=&quot;Type_de_donjon_1&quot; href=&quot;#Type_de_donjon_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt toutgauche&quot;&gt;&lt;caption&gt;Type de donjon&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;d%&lt;/td&gt;&lt;td&gt;D&#233;cor du donjon&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-02&lt;/td&gt;&lt;td&gt;un labyrinthe de haies&lt;/td&gt;&lt;/tr&gt;&lt;tr      &gt;&lt;td&gt;03-04&lt;/td&gt;&lt;td&gt;une embarcation fluviale&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-06&lt;/td&gt;&lt;td&gt;la tombe d’un magicien&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-08&lt;/td&gt;&lt;td&gt;le repaire d’un bandit&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;09-10&lt;/td&gt;&lt;td&gt;une vaste mine &#224; pr&#233;sent abandonn&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-12&lt;/td&gt;&lt;td&gt;un casino abandonn&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13-14&lt;/td&gt;&lt;td&gt;un vieux th&#233;&#226;tre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-16&lt;/td&gt;&lt;td&gt;un donjon envelopp&#233; d’un linceul de brume qui pi&#232;ge les PJ&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-18&lt;/td&gt;&lt;td&gt;des salles o&#249; la gravit&#233; s’inverse r&#233;guli&#232;rement&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19-20&lt;/td&gt;&lt;td&gt;un donjon qui bouge dans le sens des aiguilles d’une montre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-22&lt;/td&gt;&lt;td&gt;des gorges calcaires incroyablement &#233;troites&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23-24&lt;/td&gt;&lt;td&gt;plans reli&#233;s par des portails&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-26&lt;/td&gt;&lt;td&gt;le ventre d’une cr&#233;ature marine d&#233;voreuse de navires&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27-28&lt;/td&gt;&lt;td&gt;un dangereux marais plein de tourbi&#232;res&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;29-30&lt;/td&gt;&lt;td&gt;le quartier g&#233;n&#233;ral d’un esclavagiste&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-32&lt;/td&gt;&lt;td&gt;des rapides et des canaux qui traversent une vall&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-34&lt;/td&gt;&lt;td&gt;un arbre g&#233;ant creus&#233; de trous et de crevasses&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;35-36&lt;/td&gt;&lt;td&gt;un iceberg qui fond&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;37-38&lt;/td&gt;&lt;td&gt;un palais de verre infest&#233; de monstres&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-40&lt;/td&gt;&lt;td&gt;un donjon qui s’inonde progressivement&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-42&lt;/td&gt;&lt;td&gt;l’apr&#232;s‑vie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;43-44&lt;/td&gt;&lt;td&gt;un r&#234;ve&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-46&lt;/td&gt;&lt;td&gt;d’anciens sentiers verdoyants submerg&#233;s qui relient des royaumes f&#233;eriques&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47-48&lt;/td&gt;&lt;td&gt;un cauchemar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-50&lt;/td&gt;&lt;td&gt;un ob&#233;lisque de fer de grande taille&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-52&lt;/td&gt;&lt;td&gt;un marais flottant qui contient des tombes englouties&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-54&lt;/td&gt;&lt;td&gt;le ch&#226;teau d’un g&#233;ant mal&#233;fique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;55-56&lt;/td&gt;&lt;td&gt;un clocher partiellement submerg&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57-58&lt;/td&gt;&lt;td&gt;un ch&#226;teau flottant qui appara&#238;t seulement de nuit&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-60&lt;/td&gt;&lt;td&gt;une gigantesque chandelle creuse qui fond lentement&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-62&lt;/td&gt;&lt;td&gt;un cimeti&#232;re de squelettes g&#233;ants&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;63-64&lt;/td&gt;&lt;td&gt;un glacier d’eau empoisonn&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-66&lt;/td&gt;&lt;td&gt;une ville morte‑vivante o&#249; la vie continue&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-68&lt;/td&gt;&lt;td&gt;l’&#233;norme cr&#226;ne d’un ancien dragon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-70&lt;/td&gt;&lt;td&gt;un navire de fer englouti sous un mar&#233;cage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-72&lt;/td&gt;&lt;td&gt;une for&#234;t d’&#233;pineux enchev&#234;tr&#233;s&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-74&lt;/td&gt;&lt;td&gt;un temple infest&#233; d’insectes g&#233;ants&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75-76&lt;/td&gt;&lt;td&gt;une tombe volcanique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-78&lt;/td&gt;&lt;td&gt;un bateau de fer vivant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;79-80&lt;/td&gt;&lt;td&gt;un labyrinthe qui coule&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-82&lt;/td&gt;&lt;td&gt;une infinit&#233; de ponts de pierre qui enjambent un vide de brume violette&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-84&lt;/td&gt;&lt;td&gt;une immense toile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-86&lt;/td&gt;&lt;td&gt;des tunnels de rats g&#233;ants&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-88&lt;/td&gt;&lt;td&gt;un homme de fer colossal en marche&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-90&lt;/td&gt;&lt;td&gt;un labyrinthe de fer vivant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-92&lt;/td&gt;&lt;td&gt;ce qui se trouve sous la bonde de l’&#233;vier d’un magicien&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-94&lt;/td&gt;&lt;td&gt;un jardin de champignons empoisonn&#233;s&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;95-96&lt;/td&gt;&lt;td&gt;une tombe dou&#233;e de conscience&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;97-98&lt;/td&gt;&lt;td&gt;une nu&#233;e d’orage solide&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;99-100&lt;/td&gt;&lt;td&gt;un sablier g&#233;ant qui se remplit lentement de sable&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Les entr&#233;es du donjon&lt;a class=&quot;headeranchor&quot; id=&quot;Les_entr&#233;es_du_donjon_2&quot; href=&quot;#Les_entr&#233;es_du_donjon_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt toutgauche&quot;&gt;&lt;caption&gt;Entr&#233;es du donjon&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;d%&lt;/td&gt;&lt;td&gt;Entr&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-02&lt;/td&gt;&lt;td&gt;un puits&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;03-04&lt;/td&gt;&lt;td&gt;un puits de mine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-06&lt;/td&gt;&lt;td&gt;un pont de corde tendu entre deux pitons rocheux qui d&#233;passent des eaux&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-08&lt;/td&gt;&lt;td&gt;la cave d’une taverne&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;09-10&lt;/td&gt;&lt;td&gt;une caverne en forme de cr&#226;ne&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-12&lt;/td&gt;&lt;td&gt;une chemin&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13-14&lt;/td&gt;&lt;td&gt;la bouche d’une grande statue&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-16&lt;/td&gt;&lt;td&gt;un toboggan&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-18&lt;/td&gt;&lt;td&gt;une froide fosse sans fond&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19-20&lt;/td&gt;&lt;td&gt;des vestiges de route descendent vers un trou couvert de lierre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-22&lt;/td&gt;&lt;td&gt;un mausol&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23-24&lt;/td&gt;&lt;td&gt;le sarcophage d’un cavalier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-26&lt;/td&gt;&lt;td&gt;une ancienne porte o&#249; sont grav&#233;s des avertissements&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27-28&lt;/td&gt;&lt;td&gt;une valve de pierre couverte de runes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;29-30&lt;/td&gt;&lt;td&gt;la gueule ricanante d’un d&#233;mon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-32&lt;/td&gt;&lt;td&gt;un portail o&#249; scintille une lumi&#232;re verte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-34&lt;/td&gt;&lt;td&gt;une grotte presque impossible &#224; atteindre &#224; flanc de falaise&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;35-36&lt;/td&gt;&lt;td&gt;le cr&#226;ne d’une bulette&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;37-38&lt;/td&gt;&lt;td&gt;l’eau de fortes pluies qui s’infiltre dans un marais cach&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-40&lt;/td&gt;&lt;td&gt;un espace vert englouti&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-42&lt;/td&gt;&lt;td&gt;une &#233;nigmatique porte de fer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;43-44&lt;/td&gt;&lt;td&gt;la chemin&#233;e d’un volcan&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-46&lt;/td&gt;&lt;td&gt;une caverne sous‑marine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47-48&lt;/td&gt;&lt;td&gt;le clocher d’une &#233;glise qui d&#233;passe du sol&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-50&lt;/td&gt;&lt;td&gt;une arche d’&#233;normes &#233;pines&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-52&lt;/td&gt;&lt;td&gt;un four dont le mur du fond s’est effondr&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-54&lt;/td&gt;&lt;td&gt;un large tonneau de vin ouvert de l’int&#233;rieur &#224; coups de griffe&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;55-56&lt;/td&gt;&lt;td&gt;une &#233;chelle m&#233;tallique glissante clou&#233;e derri&#232;re une cascade&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57-58&lt;/td&gt;&lt;td&gt;une fontaine reli&#233;e &#224; une rivi&#232;re souterraine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-60&lt;/td&gt;&lt;td&gt;une porte que l’on atteint en escaladant des &#233;cailles g&#233;antes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-62&lt;/td&gt;&lt;td&gt;des sables mouvants&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;63-64&lt;/td&gt;&lt;td&gt;un tourbillon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-66&lt;/td&gt;&lt;td&gt;un trou qui s’est subitement ouvert dans les rues de la ville&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-68&lt;/td&gt;&lt;td&gt;le brouillard&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-70&lt;/td&gt;&lt;td&gt;le cr&#226;ne d’un dragon‑tortue&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-72&lt;/td&gt;&lt;td&gt;un glissement de terrain r&#233;v&#232;le un r&#233;seau de cavernes cach&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-74&lt;/td&gt;&lt;td&gt;un ouragan appara&#238;t une fois par an dans une immense porte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75-76&lt;/td&gt;&lt;td&gt;un diablotin invoqu&#233; montre le chemin d’un portail&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-78&lt;/td&gt;&lt;td&gt;une porte que l’on invoque uniquement par incantation&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;79-80&lt;/td&gt;&lt;td&gt;une nuit, un b&#226;timent s’effondre sur un donjon secret&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-82&lt;/td&gt;&lt;td&gt;une pierre glisse de c&#244;t&#233; &#224; minuit&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-84&lt;/td&gt;&lt;td&gt;un maelstr&#246;m au fond de la mer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-86&lt;/td&gt;&lt;td&gt;une catapulte qui envoie les gens &#224; travers un portail&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-88&lt;/td&gt;&lt;td&gt;un miroir magique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-90&lt;/td&gt;&lt;td&gt;un coffre‑fort mural ouvrant sur un caveau extradimensionnel&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-92&lt;/td&gt;&lt;td&gt;du bois magique qui cr&#233;e un escalier quand on le br&#251;le&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-94&lt;/td&gt;&lt;td&gt;une m&#226;choire anim&#233;e par magie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;95-96&lt;/td&gt;&lt;td&gt;un phare qui projette un rayon de lumi&#232;re solide&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;97-98&lt;/td&gt;&lt;td&gt;un pont d’arcs‑en‑ciel&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;99-100&lt;/td&gt;&lt;td&gt;un rayon de lune r&#233;v&#232;le une porte dans un cercle de pierre&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Les pi&#232;ces du donjon&lt;a class=&quot;headeranchor&quot; id=&quot;Les_pi&#232;ces_du_donjon_3&quot; href=&quot;#Les_pi&#232;ces_du_donjon_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt toutgauche&quot;&gt;&lt;caption&gt;Pi&#232;ces du donjon&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;d%&lt;/td&gt;&lt;td&gt;Pi&#232;ce&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-02&lt;/td&gt;&lt;td&gt;antichambre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;03-04&lt;/td&gt;&lt;td&gt;armurerie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-06&lt;/td&gt;&lt;td&gt;salle d’audience&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-08&lt;/td&gt;&lt;td&gt;salle du banquet&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;09-10&lt;/td&gt;&lt;td&gt;baraquements&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-12&lt;/td&gt;&lt;td&gt;bestiaire/m&#233;nagerie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13-14&lt;/td&gt;&lt;td&gt;goulet d’&#233;tranglement (embuscade, contr&#244;le du flot des envahisseurs)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-16&lt;/td&gt;&lt;td&gt;placard&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-18&lt;/td&gt;&lt;td&gt;chambre froide (stockage de denr&#233;es p&#233;rissables)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19-20&lt;/td&gt;&lt;td&gt;salle commune&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-22&lt;/td&gt;&lt;td&gt;crypte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23-24&lt;/td&gt;&lt;td&gt;salle &#224; manger&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-26&lt;/td&gt;&lt;td&gt;ascenseur&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27-28&lt;/td&gt;&lt;td&gt;galerie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;29-30&lt;/td&gt;&lt;td&gt;fosse &#224; ordures&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-32&lt;/td&gt;&lt;td&gt;grand salle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-34&lt;/td&gt;&lt;td&gt;serre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;35-36&lt;/td&gt;&lt;td&gt;salle de garde&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;37-38&lt;/td&gt;&lt;td&gt;chambre des invit&#233;s&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-40&lt;/td&gt;&lt;td&gt;infirmerie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-42&lt;/td&gt;&lt;td&gt;prison&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;43-44&lt;/td&gt;&lt;td&gt;chenils&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-46&lt;/td&gt;&lt;td&gt;cuisine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47-48&lt;/td&gt;&lt;td&gt;laboratoire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-50&lt;/td&gt;&lt;td&gt;biblioth&#232;que&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-52&lt;/td&gt;&lt;td&gt;quartiers de vie (communs)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-54&lt;/td&gt;&lt;td&gt;quartiers de vie (familiaux)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;55-56&lt;/td&gt;&lt;td&gt;quartiers de vie (personnels)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57-58&lt;/td&gt;&lt;td&gt;salle des cartes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-60&lt;/td&gt;&lt;td&gt;nurseries&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-62&lt;/td&gt;&lt;td&gt;observatoire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;63-64&lt;/td&gt;&lt;td&gt;garde‑manger&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-66&lt;/td&gt;&lt;td&gt;bassin&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-68&lt;/td&gt;&lt;td&gt;toilettes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-70&lt;/td&gt;&lt;td&gt;sanctuaire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-72&lt;/td&gt;&lt;td&gt;fosse des esclaves&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-74&lt;/td&gt;&lt;td&gt;forge&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75-76&lt;/td&gt;&lt;td&gt;source&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-78&lt;/td&gt;&lt;td&gt;&#233;curie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;79-80&lt;/td&gt;&lt;td&gt;r&#233;serve&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-82&lt;/td&gt;&lt;td&gt;salle de tir&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-84&lt;/td&gt;&lt;td&gt;temple&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-86&lt;/td&gt;&lt;td&gt;salle du tr&#244;ne&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-88&lt;/td&gt;&lt;td&gt;salle de torture&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-90&lt;/td&gt;&lt;td&gt;salle d’entra&#238;nement&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-92&lt;/td&gt;&lt;td&gt;salle des troph&#233;es&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-94&lt;/td&gt;&lt;td&gt;caveau&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;95-96&lt;/td&gt;&lt;td&gt;puits&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;97-98&lt;/td&gt;&lt;td&gt;bureau&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;99-100&lt;/td&gt;&lt;td&gt;atelier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Caract&#233;ristiques des pi&#232;ces ordinaires&lt;a class=&quot;headeranchor&quot; id=&quot;Caract&#233;ristiques_des_pi&#232;ces_ordinaires_4&quot; href=&quot;#Caract&#233;ristiques_des_pi&#232;ces_ordinaires_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt toutgauche&quot;&gt;&lt;caption&gt;Caract&#233;ristiques des pi&#232;ces ordinaires&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;d%&lt;/td&gt;&lt;td&gt;Caract&#233;ristique&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-02&lt;/td&gt;&lt;td&gt;en pente&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;03-04&lt;/td&gt;&lt;td&gt;humidit&#233; sur les murs/le sol&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-06&lt;/td&gt;&lt;td&gt;plafond qui goutte r&#233;guli&#232;rement&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-08&lt;/td&gt;&lt;td&gt;flaques par terre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;09-10&lt;/td&gt;&lt;td&gt;couverte de traces de morsure&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-12&lt;/td&gt;&lt;td&gt;glissante&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13-14&lt;/td&gt;&lt;td&gt;pleine de toiles d’araign&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-16&lt;/td&gt;&lt;td&gt;crevasse ou fosse ouverte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-18&lt;/td&gt;&lt;td&gt;jonch&#233;e d’os&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19-20&lt;/td&gt;&lt;td&gt;&#233;chos &#233;tranges&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-22&lt;/td&gt;&lt;td&gt;pont ou planche&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23-24&lt;/td&gt;&lt;td&gt;jonch&#233;e de d&#233;bris de poterie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-26&lt;/td&gt;&lt;td&gt;rideau&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27-28&lt;/td&gt;&lt;td&gt;sang s&#233;ch&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;29-30&lt;/td&gt;&lt;td&gt;pleine d’excr&#233;ments&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-32&lt;/td&gt;&lt;td&gt;tapiss&#233;e d’un &#233;trange lierre noir&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-34&lt;/td&gt;&lt;td&gt;pleine de champignons inqui&#233;tants&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;35-36&lt;/td&gt;&lt;td&gt;sale&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;37-38&lt;/td&gt;&lt;td&gt;infest&#233;e de vermine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-40&lt;/td&gt;&lt;td&gt;des tuyaux laissent goutter une eau saum&#226;tre visqueuse au sol&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-42&lt;/td&gt;&lt;td&gt;couverte de lichen&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;43-44&lt;/td&gt;&lt;td&gt;petites sections de mur habill&#233;es de fer rouill&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-46&lt;/td&gt;&lt;td&gt;couverte de moisissure&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47-48&lt;/td&gt;&lt;td&gt;murs faits de curieuses pierres hexagonales&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-50&lt;/td&gt;&lt;td&gt;sol pav&#233; de pierres tombales&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-52&lt;/td&gt;&lt;td&gt;gluante&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-54&lt;/td&gt;&lt;td&gt;tr&#232;s gluante&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;55-56&lt;/td&gt;&lt;td&gt;crocs de boucher qui pendent du plafond&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57-58&lt;/td&gt;&lt;td&gt;les murs s&#233;cr&#232;tent une substance jaun&#226;tre &#224; l’odeur ignoble&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-60&lt;/td&gt;&lt;td&gt;&#233;raflures sur les murs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-62&lt;/td&gt;&lt;td&gt;couverte de graffiti&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;63-64&lt;/td&gt;&lt;td&gt;on entend de l’eau qui gronde juste en dessous&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-66&lt;/td&gt;&lt;td&gt;des avertissements sont trac&#233;s &#224; la craie sur les murs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-68&lt;/td&gt;&lt;td&gt;&#224; moiti&#233; submerg&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-70&lt;/td&gt;&lt;td&gt;pleine d’armes rouill&#233;es et de squelettes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-72&lt;/td&gt;&lt;td&gt;porte secr&#232;te derri&#232;re la chemin&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-74&lt;/td&gt;&lt;td&gt;br&#251;l&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75-76&lt;/td&gt;&lt;td&gt;fissures au sol&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-78&lt;/td&gt;&lt;td&gt;fissures au plafond&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;79-80&lt;/td&gt;&lt;td&gt;fissures le long des murs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-82&lt;/td&gt;&lt;td&gt;soutenue par des &#233;tais &#224; l’air bien fragile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-84&lt;/td&gt;&lt;td&gt;envahie par une odeur de fruit pourrissant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-86&lt;/td&gt;&lt;td&gt;on entend d’&#233;tranges tapotements derri&#232;re les murs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-88&lt;/td&gt;&lt;td&gt;pleurs occasionnels&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-90&lt;/td&gt;&lt;td&gt;pleine de gibets vides&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-92&lt;/td&gt;&lt;td&gt;les vierges de fer qui bordent les murs sont rouill&#233;es et ferm&#233;es&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-94&lt;/td&gt;&lt;td&gt;le sol bouge dans une direction&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;95-96&lt;/td&gt;&lt;td&gt;le sol s’abaisse soudain de 1,50 m&#232;tre sans raison apparente&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;97-98&lt;/td&gt;&lt;td&gt;enti&#232;rement submerg&#233;e&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;99-100&lt;/td&gt;&lt;td&gt;envahie par les flammes&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Caract&#233;ristiques des pi&#232;ces exotiques&lt;a class=&quot;headeranchor&quot; id=&quot;Caract&#233;ristiques_des_pi&#232;ces_exotiques_5&quot; href=&quot;#Caract&#233;ristiques_des_pi&#232;ces_exotiques_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt toutgauche&quot;&gt;&lt;caption&gt;Caract&#233;ristiques des pi&#232;ces ordinaires&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;d%&lt;/td&gt;&lt;td&gt;Caract&#233;ristique&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-02&lt;/td&gt;&lt;td&gt;une fresque repr&#233;sente le spectateur tr&#233;passant d’une mort atroce&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;03-04&lt;/td&gt;&lt;td&gt;r&#233;sonne de pleurs provenant d’une crypte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-06&lt;/td&gt;&lt;td&gt;sculpt&#233;e de visages qui repr&#233;sentent divers alignements&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-08&lt;/td&gt;&lt;td&gt;des bougies violettes sur chandeliers d&#233;versent une lumi&#232;re noire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;09-10&lt;/td&gt;&lt;td&gt;statue sur un pi&#233;destal rotatif&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-12&lt;/td&gt;&lt;td&gt;est un &#233;norme pi&#232;ge&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13-14&lt;/td&gt;&lt;td&gt;murs semblables &#224; une cage thoracique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-16&lt;/td&gt;&lt;td&gt;pleine de grenouilles momifi&#233;es&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-18&lt;/td&gt;&lt;td&gt;des lances de fer sortent d’un sol aux allures de passoire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19-20&lt;/td&gt;&lt;td&gt;des flammes jaillissent al&#233;atoirement d’un sol cribl&#233; de trous&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-22&lt;/td&gt;&lt;td&gt;couverte de peintures repr&#233;sentant des yeux de paon mal&#233;fique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23-24&lt;/td&gt;&lt;td&gt;fresque centrale qui repr&#233;sente un &#233;norme oeil violet&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-26&lt;/td&gt;&lt;td&gt;semble &#234;tre les racines d’un arbre gigantesque&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27-28&lt;/td&gt;&lt;td&gt;boue bouillonnante qu’enjambent d’&#233;troits ponts de pierre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;29-30&lt;/td&gt;&lt;td&gt;pleine de mues d’araign&#233;e g&#233;ante de plus en plus grosses&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-32&lt;/td&gt;&lt;td&gt;occup&#233;e par une grande cage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-34&lt;/td&gt;&lt;td&gt;a des portes au plafond&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;35-36&lt;/td&gt;&lt;td&gt;fontaines sculpt&#233;es afin de repr&#233;senter une hydre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;37-38&lt;/td&gt;&lt;td&gt;sol de verre qui ressemble &#224; un lac noir&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-40&lt;/td&gt;&lt;td&gt;des terrasses m&#232;nent &#224; la gravure centrale d’un dieu chauve‑souris&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-42&lt;/td&gt;&lt;td&gt;pente abrupte vers un puits de t&#233;n&#232;bres infinies&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;43-44&lt;/td&gt;&lt;td&gt;pleine du grondement du tonnerre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-46&lt;/td&gt;&lt;td&gt;immense puits travers&#233; de bosquets d’arbres&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47-48&lt;/td&gt;&lt;td&gt;des statues sans visage d&#233;signent un PJ &#224; l’entr&#233;e du groupe&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-50&lt;/td&gt;&lt;td&gt;le toit est fait de vitraux qui repr&#233;sentent des araign&#233;es&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-52&lt;/td&gt;&lt;td&gt;un brouillard noir se l&#232;ve soudain&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-54&lt;/td&gt;&lt;td&gt;des poids de fer tombent de temps &#224; autre du toit&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;55-56&lt;/td&gt;&lt;td&gt;un escalier sans fin descend au centre de la salle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57-58&lt;/td&gt;&lt;td&gt;au centre de la pi&#232;ce, une chute d’eau fait tourner une roue&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-60&lt;/td&gt;&lt;td&gt;des voix magiques chantent un hymne &#224; l’entr&#233;e des PJ&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-62&lt;/td&gt;&lt;td&gt;pleine de gaz explosifs, sinon inoffensifs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;63-64&lt;/td&gt;&lt;td&gt;enti&#232;rement recouverte de gravures de tentacules&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-66&lt;/td&gt;&lt;td&gt;huit grosses cloches suspendues au‑dessus du sol&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-68&lt;/td&gt;&lt;td&gt;gravure d’un &#233;l&#233;phant noir &#224; t&#234;te de diable&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-70&lt;/td&gt;&lt;td&gt;chaque centim&#232;tres est couvert d’anges&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-72&lt;/td&gt;&lt;td&gt;la statue de fer d’un diable parle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-74&lt;/td&gt;&lt;td&gt;monte et descend&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75-76&lt;/td&gt;&lt;td&gt;le sol pivote enti&#232;rement et fait tomber ceux qui entrent&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-78&lt;/td&gt;&lt;td&gt;le sol se met &#224; chanter d&#232;s que quelqu’un entre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;79-80&lt;/td&gt;&lt;td&gt;des arches m&#232;nent en d’autres lieux&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-82&lt;/td&gt;&lt;td&gt;sculptures de gargouilles qui d&#233;chiqu&#232;tent des anges&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-84&lt;/td&gt;&lt;td&gt;les murs sont couverts de miroirs qui ne refl&#232;tent rien&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-86&lt;/td&gt;&lt;td&gt;tourne de plus en plus vite une fois que quelqu’un est entr&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-88&lt;/td&gt;&lt;td&gt;au plafond, des gargouilles lancent des injures&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-90&lt;/td&gt;&lt;td&gt;se transforme en porte dimensionnelle al&#233;atoire pour tous ceux qui franchissent le pas de la porte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-92&lt;/td&gt;&lt;td&gt;autel qui attaque les PJ avec sa magie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-94&lt;/td&gt;&lt;td&gt;bassin magique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;95-96&lt;/td&gt;&lt;td&gt;est l’estomac d’une cr&#233;ature&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;97-98&lt;/td&gt;&lt;td&gt;pleure&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;99-100&lt;/td&gt;&lt;td&gt;est vivante&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Objets mineurs et majeurs du donjon&lt;a class=&quot;headeranchor&quot; id=&quot;Objets_mineurs_et_majeurs_du_donjon_6&quot; href=&quot;#Objets_mineurs_et_majeurs_du_donjon_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt toutgauche&quot;&gt;&lt;caption&gt;Objets mineurs et majeurs du donjon&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;d%&lt;/td&gt;&lt;td&gt;Objet mineur&lt;/td&gt;&lt;td&gt;Objet majeur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01&lt;/td&gt;&lt;td&gt;boulier&lt;/td&gt;&lt;td&gt;alc&#244;ve &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;02&lt;/td&gt;&lt;td&gt;cendrier&lt;/td&gt;&lt;td&gt;autel&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;03&lt;/td&gt;&lt;td&gt;astrolabe&lt;/td&gt;&lt;td&gt;enclume&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;04&lt;/td&gt;&lt;td&gt;tonneau&lt;/td&gt;&lt;td&gt;arche&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05&lt;/td&gt;&lt;td&gt;bassine&lt;/td&gt;&lt;td&gt;balcon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;06&lt;/td&gt;&lt;td&gt;panier&lt;/td&gt;&lt;td&gt;comptoir&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07&lt;/td&gt;&lt;td&gt;soufflet&lt;/td&gt;&lt;td&gt;lit&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;08&lt;/td&gt;&lt;td&gt;couverture&lt;/td&gt;&lt;td&gt;cloche/gong&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;09&lt;/td&gt;&lt;td&gt;t&#226;ches de sang&lt;/td&gt;&lt;td&gt;banc&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;os&lt;/td&gt;&lt;td&gt;casiers &#224; livres&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;livres&lt;/td&gt;&lt;td&gt;brasero&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;bottes&lt;/td&gt;&lt;td&gt;pont&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;bouteille&lt;/td&gt;&lt;td&gt;lits superpos&#233;s&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;bo&#238;te&lt;/td&gt;&lt;td&gt;cabinet&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;armes cass&#233;es&lt;/td&gt;&lt;td&gt;cage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;brosse&lt;/td&gt;&lt;td&gt;cand&#233;labre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;baquet&lt;/td&gt;&lt;td&gt;tapis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;calendrier&lt;/td&gt;&lt;td&gt;cercueil&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;bougie&lt;/td&gt;&lt;td&gt;chaudron&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;canne&lt;/td&gt;&lt;td&gt;chaise/tabouret&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21&lt;/td&gt;&lt;td&gt;cartes&lt;/td&gt;&lt;td&gt;chaise avec des entraves&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;valise&lt;/td&gt;&lt;td&gt;chandelier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23&lt;/td&gt;&lt;td&gt;pot de&lt;/td&gt;&lt;td&gt;chambre chariot&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;v&#234;tements&lt;/td&gt;&lt;td&gt;coffre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;toiles d’araign&#233;e&lt;/td&gt;&lt;td&gt;carillons&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;26&lt;/td&gt;&lt;td&gt;cosm&#233;tiques&lt;/td&gt;&lt;td&gt;horloge&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27&lt;/td&gt;&lt;td&gt;d&#233;s&lt;/td&gt;&lt;td&gt;lit de camp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;28&lt;/td&gt;&lt;td&gt;plats&lt;/td&gt;&lt;td&gt;couche&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;29&lt;/td&gt;&lt;td&gt;sang s&#233;ch&#233;&lt;/td&gt;&lt;td&gt;caisse&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;30&lt;/td&gt;&lt;td&gt;poussi&#232;re&lt;/td&gt;&lt;td&gt;berceau&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31&lt;/td&gt;&lt;td&gt;&#233;ventail&lt;/td&gt;&lt;td&gt;creuset&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;32&lt;/td&gt;&lt;td&gt;kit pour allumer un feu&lt;/td&gt;&lt;td&gt;placard&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33&lt;/td&gt;&lt;td&gt;canne &#224; p&#234;che&lt;/td&gt;&lt;td&gt;rideau/tapisserie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;34&lt;/td&gt;&lt;td&gt;flasque&lt;/td&gt;&lt;td&gt;dais&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;nourriture (comestible)&lt;/td&gt;&lt;td&gt;d&#244;me&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36&lt;/td&gt;&lt;td&gt;nourriture (avari&#233;e)&lt;/td&gt;&lt;td&gt;porte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;champignons&lt;/td&gt;&lt;td&gt;divan&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;38&lt;/td&gt;&lt;td&gt;plateau de jeu&lt;/td&gt;&lt;td&gt;buffet&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39&lt;/td&gt;&lt;td&gt;verre&lt;/td&gt;&lt;td&gt;meuble de toilette&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;40&lt;/td&gt;&lt;td&gt;globe&lt;/td&gt;&lt;td&gt;cha&#238;nes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41&lt;/td&gt;&lt;td&gt;gants&lt;/td&gt;&lt;td&gt;classeur &#224; tiroirs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;42&lt;/td&gt;&lt;td&gt;cheveux&lt;/td&gt;&lt;td&gt;chemin&#233;e/fosse &#224; feu&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;43&lt;/td&gt;&lt;td&gt;marteau&lt;/td&gt;&lt;td&gt;b&#233;nitier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;44&lt;/td&gt;&lt;td&gt;miroir &#224; main&lt;/td&gt;&lt;td&gt;forge&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45&lt;/td&gt;&lt;td&gt;chapeau&lt;/td&gt;&lt;td&gt;fontaine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;46&lt;/td&gt;&lt;td&gt;casque&lt;/td&gt;&lt;td&gt;fresque&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47&lt;/td&gt;&lt;td&gt;fer &#224; cheval&lt;/td&gt;&lt;td&gt;fourneau&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;48&lt;/td&gt;&lt;td&gt;sablier&lt;/td&gt;&lt;td&gt;potence/guillotine&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;encre&lt;/td&gt;&lt;td&gt;gibet&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;insectes&lt;/td&gt;&lt;td&gt;meule&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51&lt;/td&gt;&lt;td&gt;clef&lt;/td&gt;&lt;td&gt;tonneau&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;52&lt;/td&gt;&lt;td&gt;couteau&lt;/td&gt;&lt;td&gt;narguil&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53&lt;/td&gt;&lt;td&gt;bouilloire&lt;/td&gt;&lt;td&gt;corne&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;54&lt;/td&gt;&lt;td&gt;lampe&lt;/td&gt;&lt;td&gt;idole&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;55&lt;/td&gt;&lt;td&gt;lanterne&lt;/td&gt;&lt;td&gt;instrument (de grande taille)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;56&lt;/td&gt;&lt;td&gt;coupe‑papier&lt;/td&gt;&lt;td&gt;vierge de fer&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57&lt;/td&gt;&lt;td&gt;laisse&lt;/td&gt;&lt;td&gt;f&#251;t&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;58&lt;/td&gt;&lt;td&gt;verrou&lt;/td&gt;&lt;td&gt;&#233;chelle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59&lt;/td&gt;&lt;td&gt;menottes&lt;/td&gt;&lt;td&gt;m&#233;tier &#224; tisser&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;bateau miniature&lt;/td&gt;&lt;td&gt;paillasson&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61&lt;/td&gt;&lt;td&gt;balai‑&#233;ponge&lt;/td&gt;&lt;td&gt;roue &#224; aubes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;62&lt;/td&gt;&lt;td&gt;boue&lt;/td&gt;&lt;td&gt;miroir&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;63&lt;/td&gt;&lt;td&gt;nid&lt;/td&gt;&lt;td&gt;mosa&#239;que&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;64&lt;/td&gt;&lt;td&gt;huile&lt;/td&gt;&lt;td&gt;montoir&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65&lt;/td&gt;&lt;td&gt;peinture&lt;/td&gt;&lt;td&gt;palette&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;66&lt;/td&gt;&lt;td&gt;crayon/papier&lt;/td&gt;&lt;td&gt;pi&#233;destal&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67&lt;/td&gt;&lt;td&gt;pipe/blague &#224; tabac&lt;/td&gt;&lt;td&gt;pentagramme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;68&lt;/td&gt;&lt;td&gt;assiette&lt;/td&gt;&lt;td&gt;banc d’&#233;glise&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69&lt;/td&gt;&lt;td&gt;perche&lt;/td&gt;&lt;td&gt;colonne&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;70&lt;/td&gt;&lt;td&gt;instrument portatif&lt;/td&gt;&lt;td&gt;pilori&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71&lt;/td&gt;&lt;td&gt;casseroles et po&#234;les&lt;/td&gt;&lt;td&gt;fosse&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;72&lt;/td&gt;&lt;td&gt;fragments de poterie&lt;/td&gt;&lt;td&gt;podium&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73&lt;/td&gt;&lt;td&gt;papiers&lt;/td&gt;&lt;td&gt;bassin&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;74&lt;/td&gt;&lt;td&gt;parasol&lt;/td&gt;&lt;td&gt;r&#226;telier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75&lt;/td&gt;&lt;td&gt;bourse&lt;/td&gt;&lt;td&gt;d&#233;combres&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;76&lt;/td&gt;&lt;td&gt;proth&#232;se&lt;/td&gt;&lt;td&gt;selle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77&lt;/td&gt;&lt;td&gt;corde&lt;/td&gt;&lt;td&gt;coffre‑fort&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;78&lt;/td&gt;&lt;td&gt;cha&#238;nes rouill&#233;es&lt;/td&gt;&lt;td&gt;applique murale&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;79&lt;/td&gt;&lt;td&gt;clous rouill&#233;s&lt;/td&gt;&lt;td&gt;&#233;cran&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;80&lt;/td&gt;&lt;td&gt;sac&lt;/td&gt;&lt;td&gt;&#233;tag&#232;re&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81&lt;/td&gt;&lt;td&gt;ciseaux&lt;/td&gt;&lt;td&gt;autel&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;82&lt;/td&gt;&lt;td&gt;balance&lt;/td&gt;&lt;td&gt;dressoir&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83&lt;/td&gt;&lt;td&gt;kit de rasage&lt;/td&gt;&lt;td&gt;escalier en colima&#231;on&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;84&lt;/td&gt;&lt;td&gt;pelle&lt;/td&gt;&lt;td&gt;tribune&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85&lt;/td&gt;&lt;td&gt;torche utilis&#233;e&lt;/td&gt;&lt;td&gt;statue&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;86&lt;/td&gt;&lt;td&gt;matelas de paille&lt;/td&gt;&lt;td&gt;clocher&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87&lt;/td&gt;&lt;td&gt;r&#232;gle&lt;/td&gt;&lt;td&gt;tabouret&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;88&lt;/td&gt;&lt;td&gt;plateau&lt;/td&gt;&lt;td&gt;cuisini&#232;re&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89&lt;/td&gt;&lt;td&gt;pinces&lt;/td&gt;&lt;td&gt;table&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;90&lt;/td&gt;&lt;td&gt;torche&lt;/td&gt;&lt;td&gt;tapisserie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91&lt;/td&gt;&lt;td&gt;jouet&lt;/td&gt;&lt;td&gt;tr&#244;ne&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;92&lt;/td&gt;&lt;td&gt;diapason&lt;/td&gt;&lt;td&gt;mat&#233;riel de torture&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93&lt;/td&gt;&lt;td&gt;urne&lt;/td&gt;&lt;td&gt;malle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;94&lt;/td&gt;&lt;td&gt;ustensile&lt;/td&gt;&lt;td&gt;baignoire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;95&lt;/td&gt;&lt;td&gt;vase&lt;/td&gt;&lt;td&gt;cuve&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;96&lt;/td&gt;&lt;td&gt;lampe murale&lt;/td&gt;&lt;td&gt;urne&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;97&lt;/td&gt;&lt;td&gt;marques sur les murs&lt;/td&gt;&lt;td&gt;lavabo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;98&lt;/td&gt;&lt;td&gt;cire&lt;/td&gt;&lt;td&gt;puits&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;99&lt;/td&gt;&lt;td&gt;brouette&lt;/td&gt;&lt;td&gt;manivelle&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;100&lt;/td&gt;&lt;td&gt;sifflet&lt;/td&gt;&lt;td&gt;banc en bois&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuEnvironnement}
+
+''(extrait du Guide du Maître p. 178)''
+
+{toc}
+Une façade innocente cache bien souvent un sombre secret et qui
+sait ce qui rôde derrière cette porte coincée ou cette herse rouillée ?
+Quand vous cherchez un repaire pour vos méchants ou une source
+d’inspiration pour créer un caveau rempli de pièges, vous pouvez
+utiliser les idées suivantes ou simplement vous servir des tables pour
+créer un antre à un méchant que les PJ n’étaient pas censés suivre.
+
+
+
+====Où trouver le donjon ?====
+
+<center>
+{| CLASS="tablo toutgauche" 
+|+ Où trouver le donjon ?
+|- CLASS="titre"
+| class="gauche" | d%
+| Décor du donjon
+|- CLASS="premier"
+| class="gauche" | 1-3 
+| rivière souterraine
+|- CLASS="alt"
+| class="gauche" | 4-6 
+| dans un barrage
+|-
+| class="gauche" | 7-9 
+| rivière souterraine
+|- CLASS="alt"
+| class="gauche" | 10-12 
+| dans un barrage
+|-
+| class="gauche" | 13-15 
+| rivière souterraine
+|- CLASS="alt"
+| class="gauche" | 16-18 
+| dans un barrage
+|-
+| class="gauche" | 19-21 
+| rivière souterraine
+|- CLASS="alt"
+| class="gauche" | 22-24 
+| dans un barrage
+|-
+| class="gauche" | 25-27 
+| rivière souterraine
+|- CLASS="alt"
+| class="gauche" | 28-30 
+| dans un barrage
+|-
+| class="gauche" | 31-33 
+| rivière souterraine
+|- CLASS="alt"
+| class="gauche" | 34-36 
+| dans un barrage
+|-
+| class="gauche" | 37-39 
+| sous un mausolée
+|- CLASS="alt"
+| class="gauche" | 40-42 
+| dans un musée
+|-
+| class="gauche" | 43-45 
+| sous un château
+|- CLASS="alt"
+| class="gauche" | 46-48 
+| dans une ménagerie
+|-
+| class="gauche" | 49-51 
+| dans un phare
+|- CLASS="alt"
+| class="gauche" | 52-54 
+| sous une tour
+|-
+| class="gauche" | 55-57 
+| dans une prison
+|- CLASS="alt"
+| class="gauche" | 58-60 
+| dans une cathédrale
+|-
+| class="gauche" | 61-63 
+| sous les docks
+|- CLASS="alt"
+| class="gauche" | 64-66 
+| dans les égouts
+|-
+| class="gauche" | 67-68 
+| dans un canal souterrain
+|- CLASS="alt"
+| class="gauche" | 69-70 
+| transformé en arène
+|-
+| class="gauche" | 71-72 
+| partie d’un labyrinthe oublié
+|- CLASS="alt"
+| class="gauche" | 73-74 
+| relié à l’antre d’une bête
+|-
+| class="gauche" | 75-76 
+| sous une taverne
+|- CLASS="alt"
+| class="gauche" | 77-78 
+| dans un village à flanc de falaise
+|-
+| class="gauche" | 79-80 
+| dans un arbre géant
+|- CLASS="alt"
+| class="gauche" | 81-82 
+| dans une cité gelée
+|-
+| class="gauche" | 83-84 
+| dans une peinture
+|- CLASS="alt"
+| class="gauche" | 85-86 
+| dans un gigantesque statue
+|-
+| class="gauche" | 87-88 
+| sous le nid d’un rukh
+|- CLASS="alt"
+| class="gauche" | 89-90 
+| dans des ruines englouties
+|-
+| class="gauche" | 91-92 
+| caché dans un oeuf géant
+|- CLASS="alt"
+| class="gauche" | 93-94 
+| dans un gigantesque fossile
+|-
+| class="gauche" | 95 
+| dans les décombres d’une cité des géants en ruines
+|- CLASS="alt"
+| class="gauche" | 96 
+| dans un vaisseau spatial écrasé
+|-
+| class="gauche" | 97 
+| déterré par un nid de fourmis géantes
+|- CLASS="alt"
+| class="gauche" | 98 
+| creusé dans le cadavre d’un dieu
+|-
+| class="gauche" | 99 
+| sur une île, dans un volcan
+|- CLASS="alt"
+| class="gauche" | 100 
+| dans une lune, une étoile ou une autre planète
+|-
+|}
+</center>
+
+
+
+
+====Type de donjon ====
+<center>
+{| CLASS="tablo autoalt toutgauche"
+|+ Type de donjon
+|- CLASS="titre"
+| d% || Décor du donjon
+|- CLASS="premier"
+| 01-02 || un labyrinthe de haies
+|-      
+| 03-04 || une embarcation fluviale
+|-
+| 05-06 || la tombe d’un magicien
+|-
+| 07-08 || le repaire d’un bandit
+|-
+| 09-10 || une vaste mine à présent abandonnée
+|-
+| 11-12 || un casino abandonné
+|-
+| 13-14 || un vieux théâtre
+|-
+| 15-16 || un donjon enveloppé d’un linceul de brume qui piège les PJ
+|-
+| 17-18 || des salles où la gravité s’inverse régulièrement
+|-
+| 19-20 || un donjon qui bouge dans le sens des aiguilles d’une montre
+|-
+| 21-22 || des gorges calcaires incroyablement étroites
+|-
+| 23-24 || plans reliés par des portails
+|-
+| 25-26 || le ventre d’une créature marine dévoreuse de navires
+|-
+| 27-28 || un dangereux marais plein de tourbières
+|-
+| 29-30 || le quartier général d’un esclavagiste
+|-
+| 31-32 || des rapides et des canaux qui traversent une vallée
+|-
+| 33-34 || un arbre géant creusé de trous et de crevasses
+|-
+| 35-36 || un iceberg qui fond
+|-
+| 37-38 || un palais de verre infesté de monstres
+|-
+| 39-40 || un donjon qui s’inonde progressivement
+|-
+| 41-42 || l’après‑vie
+|-
+| 43-44 || un rêve
+|-
+| 45-46 || d’anciens sentiers verdoyants submergés qui relient des royaumes féeriques
+|-
+| 47-48 || un cauchemar
+|-
+| 49-50 || un obélisque de fer de grande taille
+|-
+| 51-52 || un marais flottant qui contient des tombes englouties
+|-
+| 53-54 || le château d’un géant maléfique
+|-
+| 55-56 || un clocher partiellement submergé
+|-
+| 57-58 || un château flottant qui apparaît seulement de nuit
+|-
+| 59-60 || une gigantesque chandelle creuse qui fond lentement
+|-
+| 61-62 || un cimetière de squelettes géants
+|-
+| 63-64 || un glacier d’eau empoisonnée
+|-
+| 65-66 || une ville morte‑vivante où la vie continue
+|-
+| 67-68 || l’énorme crâne d’un ancien dragon
+|-
+| 69-70 || un navire de fer englouti sous un marécage
+|-
+| 71-72 || une forêt d’épineux enchevêtrés
+|-
+| 73-74 || un temple infesté d’insectes géants
+|-
+| 75-76 || une tombe volcanique
+|-
+| 77-78 || un bateau de fer vivant
+|-
+| 79-80 || un labyrinthe qui coule
+|-
+| 81-82 || une infinité de ponts de pierre qui enjambent un vide de brume violette
+|-
+| 83-84 || une immense toile
+|-
+| 85-86 || des tunnels de rats géants
+|-
+| 87-88 || un homme de fer colossal en marche
+|-
+| 89-90 || un labyrinthe de fer vivant
+|-
+| 91-92 || ce qui se trouve sous la bonde de l’évier d’un magicien
+|-
+| 93-94 || un jardin de champignons empoisonnés
+|-
+| 95-96 || une tombe douée de conscience
+|-
+| 97-98 || une nuée d’orage solide
+|-
+| 99-100 || un sablier géant qui se remplit lentement de sable
+|}</center>
+
+
+
+====Les entrées du donjon====
+<center>
+{| CLASS="tablo autoalt toutgauche"
+|+ Entrées du donjon
+|- CLASS="titre"
+| d% || Entrée
+|- CLASS="premier"
+| 01-02 || un puits
+|-
+| 03-04 || un puits de mine
+|-
+| 05-06 || un pont de corde tendu entre deux pitons rocheux qui dépassent des eaux
+|-
+| 07-08 || la cave d’une taverne
+|-
+| 09-10 || une caverne en forme de crâne
+|-
+| 11-12 || une cheminée
+|-
+| 13-14 || la bouche d’une grande statue
+|-
+| 15-16 || un toboggan
+|-
+| 17-18 || une froide fosse sans fond
+|-
+| 19-20 || des vestiges de route descendent vers un trou couvert de lierre
+|-
+| 21-22 || un mausolée
+|-
+| 23-24 || le sarcophage d’un cavalier
+|-
+| 25-26 || une ancienne porte où sont gravés des avertissements
+|-
+| 27-28 || une valve de pierre couverte de runes
+|-
+| 29-30 || la gueule ricanante d’un démon
+|-
+| 31-32 || un portail où scintille une lumière verte
+|-
+| 33-34 || une grotte presque impossible à atteindre à flanc de falaise
+|-
+| 35-36 || le crâne d’une bulette
+|-
+| 37-38 || l’eau de fortes pluies qui s’infiltre dans un marais caché
+|-
+| 39-40 || un espace vert englouti
+|-
+| 41-42 || une énigmatique porte de fer
+|-
+| 43-44 || la cheminée d’un volcan
+|-
+| 45-46 || une caverne sous‑marine
+|-
+| 47-48 || le clocher d’une église qui dépasse du sol
+|-
+| 49-50 || une arche d’énormes épines
+|-
+| 51-52 || un four dont le mur du fond s’est effondré
+|-
+| 53-54 || un large tonneau de vin ouvert de l’intérieur à coups de griffe
+|-
+| 55-56 || une échelle métallique glissante clouée derrière une cascade
+|-
+| 57-58 || une fontaine reliée à une rivière souterraine
+|-
+| 59-60 || une porte que l’on atteint en escaladant des écailles géantes
+|-
+| 61-62 || des sables mouvants
+|-
+| 63-64 || un tourbillon
+|-
+| 65-66 || un trou qui s’est subitement ouvert dans les rues de la ville
+|-
+| 67-68 || le brouillard
+|-
+| 69-70 || le crâne d’un dragon‑tortue
+|-
+| 71-72 || un glissement de terrain révèle un réseau de cavernes caché
+|-
+| 73-74 || un ouragan apparaît une fois par an dans une immense porte
+|-
+| 75-76 || un diablotin invoqué montre le chemin d’un portail
+|-
+| 77-78 || une porte que l’on invoque uniquement par incantation
+|-
+| 79-80 || une nuit, un bâtiment s’effondre sur un donjon secret
+|-
+| 81-82 || une pierre glisse de côté à minuit
+|-
+| 83-84 || un maelström au fond de la mer
+|-
+| 85-86 || une catapulte qui envoie les gens à travers un portail
+|-
+| 87-88 || un miroir magique
+|-
+| 89-90 || un coffre‑fort mural ouvrant sur un caveau extradimensionnel
+|-
+| 91-92 || du bois magique qui crée un escalier quand on le brûle
+|-
+| 93-94 || une mâchoire animée par magie
+|-
+| 95-96 || un phare qui projette un rayon de lumière solide
+|-
+| 97-98 || un pont d’arcs‑en‑ciel
+|-
+| 99-100 || un rayon de lune révèle une porte dans un cercle de pierre
+|-
+|}
+</center>
+
+
+====Les pièces du donjon====
+
+<center>
+{| CLASS="tablo autoalt toutgauche"
+|+ Pièces du donjon
+|- CLASS="titre"
+| d% || Pièce
+|- CLASS="premier"
+| 01-02 || antichambre
+|-
+| 03-04 || armurerie
+|-
+| 05-06 || salle d’audience
+|-
+| 07-08 || salle du banquet
+|-
+| 09-10 || baraquements
+|-
+| 11-12 || bestiaire/ménagerie
+|-
+| 13-14 || goulet d’étranglement (embuscade, contrôle du flot des envahisseurs)
+|-
+| 15-16 || placard
+|-
+| 17-18 || chambre froide (stockage de denrées périssables)
+|-
+| 19-20 || salle commune
+|-
+| 21-22 || crypte
+|-
+| 23-24 || salle à manger
+|-
+| 25-26 || ascenseur
+|-
+| 27-28 || galerie
+|-
+| 29-30 || fosse à ordures
+|-
+| 31-32 || grand salle
+|-
+| 33-34 || serre
+|-
+| 35-36 || salle de garde
+|-
+| 37-38 || chambre des invités
+|-
+| 39-40 || infirmerie
+|-
+| 41-42 || prison
+|-
+| 43-44 || chenils
+|-
+| 45-46 || cuisine
+|-
+| 47-48 || laboratoire
+|-
+| 49-50 || bibliothèque
+|-
+| 51-52 || quartiers de vie (communs)
+|-
+| 53-54 || quartiers de vie (familiaux)
+|-
+| 55-56 || quartiers de vie (personnels)
+|-
+| 57-58 || salle des cartes
+|-
+| 59-60 || nurseries
+|-
+| 61-62 || observatoire
+|-
+| 63-64 || garde‑manger
+|-
+| 65-66 || bassin
+|-
+| 67-68 || toilettes
+|-
+| 69-70 || sanctuaire
+|-
+| 71-72 || fosse des esclaves
+|-
+| 73-74 || forge
+|-
+| 75-76 || source
+|-
+| 77-78 || écurie
+|-
+| 79-80 || réserve
+|-
+| 81-82 || salle de tir
+|-
+| 83-84 || temple
+|-
+| 85-86 || salle du trône
+|-
+| 87-88 || salle de torture
+|-
+| 89-90 || salle d’entraînement
+|-
+| 91-92 || salle des trophées
+|-
+| 93-94 || caveau
+|-
+| 95-96 || puits
+|-
+| 97-98 || bureau
+|-
+| 99-100 || atelier
+|-
+|}
+</center>
+
+
+====Caractéristiques des pièces ordinaires====
+<center>
+{| CLASS="tablo autoalt toutgauche"
+|+ Caractéristiques des pièces ordinaires
+|- CLASS="titre"
+| d% || Caractéristique
+|- CLASS="premier"
+| 01-02 || en pente
+|-
+| 03-04 || humidité sur les murs/le sol
+|-
+| 05-06 || plafond qui goutte régulièrement
+|-
+| 07-08 || flaques par terre
+|-
+| 09-10 || couverte de traces de morsure
+|-
+| 11-12 || glissante
+|-
+| 13-14 || pleine de toiles d’araignée
+|-
+| 15-16 || crevasse ou fosse ouverte
+|-
+| 17-18 || jonchée d’os
+|-
+| 19-20 || échos étranges
+|-
+| 21-22 || pont ou planche
+|-
+| 23-24 || jonchée de débris de poterie
+|-
+| 25-26 || rideau
+|-
+| 27-28 || sang séché
+|-
+| 29-30 || pleine d’excréments
+|-
+| 31-32 || tapissée d’un étrange lierre noir
+|-
+| 33-34 || pleine de champignons inquiétants
+|-
+| 35-36 || sale
+|-
+| 37-38 || infestée de vermine
+|-
+| 39-40 || des tuyaux laissent goutter une eau saumâtre visqueuse au sol
+|-
+| 41-42 || couverte de lichen
+|-
+| 43-44 || petites sections de mur habillées de fer rouillé
+|-
+| 45-46 || couverte de moisissure
+|-
+| 47-48 || murs faits de curieuses pierres hexagonales
+|-
+| 49-50 || sol pavé de pierres tombales
+|-
+| 51-52 || gluante
+|-
+| 53-54 || très gluante
+|-
+| 55-56 || crocs de boucher qui pendent du plafond
+|-
+| 57-58 || les murs sécrètent une substance jaunâtre à l’odeur ignoble
+|-
+| 59-60 || éraflures sur les murs
+|-
+| 61-62 || couverte de graffiti
+|-
+| 63-64 || on entend de l’eau qui gronde juste en dessous
+|-
+| 65-66 || des avertissements sont tracés à la craie sur les murs
+|-
+| 67-68 || à moitié submergée
+|-
+| 69-70 || pleine d’armes rouillées et de squelettes
+|-
+| 71-72 || porte secrète derrière la cheminée
+|-
+| 73-74 || brûlée
+|-
+| 75-76 || fissures au sol
+|-
+| 77-78 || fissures au plafond
+|-
+| 79-80 || fissures le long des murs
+|-
+| 81-82 || soutenue par des étais à l’air bien fragile
+|-
+| 83-84 || envahie par une odeur de fruit pourrissant
+|-
+| 85-86 || on entend d’étranges tapotements derrière les murs
+|-
+| 87-88 || pleurs occasionnels
+|-
+| 89-90 || pleine de gibets vides
+|-
+| 91-92 || les vierges de fer qui bordent les murs sont rouillées et fermées
+|-
+| 93-94 || le sol bouge dans une direction
+|-
+| 95-96 || le sol s’abaisse soudain de 1,50 mètre sans raison apparente
+|-
+| 97-98 || entièrement submergée
+|-
+| 99-100 || envahie par les flammes
+|}
+</center>
+
+
+
+====Caractéristiques des pièces exotiques====
+<center>
+{| CLASS="tablo autoalt toutgauche"
+|+ Caractéristiques des pièces ordinaires
+|- CLASS="titre"
+| d% || Caractéristique
+|- CLASS="premier"
+| 01-02 || une fresque représente le spectateur trépassant d’une mort atroce
+|-
+| 03-04 || résonne de pleurs provenant d’une crypte
+|-
+| 05-06 || sculptée de visages qui représentent divers alignements
+|-
+| 07-08 || des bougies violettes sur chandeliers déversent une lumière noire
+|-
+| 09-10 || statue sur un piédestal rotatif
+|-
+| 11-12 || est un énorme piège
+|-
+| 13-14 || murs semblables à une cage thoracique
+|-
+| 15-16 || pleine de grenouilles momifiées
+|-
+| 17-18 || des lances de fer sortent d’un sol aux allures de passoire
+|-
+| 19-20 || des flammes jaillissent aléatoirement d’un sol criblé de trous
+|-
+| 21-22 || couverte de peintures représentant des yeux de paon maléfique
+|-
+| 23-24 || fresque centrale qui représente un énorme oeil violet
+|-
+| 25-26 || semble être les racines d’un arbre gigantesque
+|-
+| 27-28 || boue bouillonnante qu’enjambent d’étroits ponts de pierre
+|-
+| 29-30 || pleine de mues d’araignée géante de plus en plus grosses
+|-
+| 31-32 || occupée par une grande cage
+|-
+| 33-34 || a des portes au plafond
+|-
+| 35-36 || fontaines sculptées afin de représenter une hydre
+|-
+| 37-38 || sol de verre qui ressemble à un lac noir
+|-
+| 39-40 || des terrasses mènent à la gravure centrale d’un dieu chauve‑souris
+|-
+| 41-42 || pente abrupte vers un puits de ténèbres infinies
+|-
+| 43-44 || pleine du grondement du tonnerre
+|-
+| 45-46 || immense puits traversé de bosquets d’arbres
+|-
+| 47-48 || des statues sans visage désignent un PJ à l’entrée du groupe
+|-
+| 49-50 || le toit est fait de vitraux qui représentent des araignées
+|-
+| 51-52 || un brouillard noir se lève soudain
+|-
+| 53-54 || des poids de fer tombent de temps à autre du toit
+|-
+| 55-56 || un escalier sans fin descend au centre de la salle
+|-
+| 57-58 || au centre de la pièce, une chute d’eau fait tourner une roue
+|-
+| 59-60 || des voix magiques chantent un hymne à l’entrée des PJ
+|-
+| 61-62 || pleine de gaz explosifs, sinon inoffensifs
+|-
+| 63-64 || entièrement recouverte de gravures de tentacules
+|-
+| 65-66 || huit grosses cloches suspendues au‑dessus du sol
+|-
+| 67-68 || gravure d’un éléphant noir à tête de diable
+|-
+| 69-70 || chaque centimètres est couvert d’anges
+|-
+| 71-72 || la statue de fer d’un diable parle
+|-
+| 73-74 || monte et descend
+|-
+| 75-76 || le sol pivote entièrement et fait tomber ceux qui entrent
+|-
+| 77-78 || le sol se met à chanter dès que quelqu’un entre
+|-
+| 79-80 || des arches mènent en d’autres lieux
+|-
+| 81-82 || sculptures de gargouilles qui déchiquètent des anges
+|-
+| 83-84 || les murs sont couverts de miroirs qui ne reflètent rien
+|-
+| 85-86 || tourne de plus en plus vite une fois que quelqu’un est entré
+|-
+| 87-88 || au plafond, des gargouilles lancent des injures
+|-
+| 89-90 || se transforme en porte dimensionnelle aléatoire pour tous ceux qui franchissent le pas de la porte
+|-
+| 91-92 || autel qui attaque les PJ avec sa magie
+|-
+| 93-94 || bassin magique
+|-
+| 95-96 || est l’estomac d’une créature
+|-
+| 97-98 || pleure
+|-
+| 99-100 || est vivante
+|-
+|}
+</center>
+
+====Objets mineurs et majeurs du donjon====
+<center>
+{| CLASS="tablo autoalt toutgauche"
+|+ Objets mineurs et majeurs du donjon
+|- CLASS="titre"
+| d% || Objet mineur || Objet majeur
+|- CLASS="premier"
+| 01 || boulier || alcôve 
+|-
+| 02 || cendrier || autel
+|-
+| 03 || astrolabe || enclume
+|-
+| 04 || tonneau || arche
+|-
+| 05 || bassine || balcon
+|-
+| 06 || panier || comptoir
+|-
+| 07 || soufflet || lit
+|-
+| 08 || couverture || cloche/gong
+|-
+| 09 || tâches de sang || banc
+|-
+| 10 || os || casiers à livres
+|-
+| 11 || livres || brasero
+|-
+| 12 || bottes || pont
+|-
+| 13 || bouteille || lits superposés
+|-
+| 14 || boîte || cabinet
+|-
+| 15 || armes cassées || cage
+|-
+| 16 || brosse || candélabre
+|-
+| 17 || baquet || tapis
+|-
+| 18 || calendrier || cercueil
+|-
+| 19 || bougie || chaudron
+|-
+| 20 || canne || chaise/tabouret
+|-
+| 21 || cartes || chaise avec des entraves
+|-
+| 22 || valise || chandelier
+|-
+| 23 || pot de || chambre chariot
+|-
+| 24 || vêtements || coffre
+|-
+| 25 || toiles d’araignée || carillons
+|-
+| 26 || cosmétiques || horloge
+|-
+| 27 || dés || lit de camp
+|-
+| 28 || plats || couche
+|-
+| 29 || sang séché || caisse
+|-
+| 30 || poussière || berceau
+|-
+| 31 || éventail || creuset
+|-
+| 32 || kit pour allumer un feu || placard
+|-
+| 33 || canne à pêche || rideau/tapisserie
+|-
+| 34 || flasque || dais
+|-
+| 35 || nourriture (comestible) || dôme
+|-
+| 36 || nourriture (avariée) || porte
+|-
+| 37 || champignons || divan
+|-
+| 38 || plateau de jeu || buffet
+|-
+| 39 || verre || meuble de toilette
+|-
+| 40 || globe || chaînes
+|-
+| 41 || gants || classeur à tiroirs
+|-
+| 42 || cheveux || cheminée/fosse à feu
+|-
+| 43 || marteau || bénitier
+|-
+| 44 || miroir à main || forge
+|-
+| 45 || chapeau || fontaine
+|-
+| 46 || casque || fresque
+|-
+| 47 || fer à cheval || fourneau
+|-
+| 48 || sablier || potence/guillotine
+|-
+| 49 || encre || gibet
+|-
+| 50 || insectes || meule
+|-
+| 51 || clef || tonneau
+|-
+| 52 || couteau || narguilé
+|-
+| 53 || bouilloire || corne
+|-
+| 54 || lampe || idole
+|-
+| 55 || lanterne || instrument (de grande taille)
+|-
+| 56 || coupe‑papier || vierge de fer
+|-
+| 57 || laisse || fût
+|-
+| 58 || verrou || échelle
+|-
+| 59 || menottes || métier à tisser
+|-
+| 60 || bateau miniature || paillasson
+|-
+| 61 || balai‑éponge || roue à aubes
+|-
+| 62 || boue || miroir
+|-
+| 63 || nid || mosaïque
+|-
+| 64 || huile || montoir
+|-
+| 65 || peinture || palette
+|-
+| 66 || crayon/papier || piédestal
+|-
+| 67 || pipe/blague à tabac || pentagramme
+|-
+| 68 || assiette || banc d’église
+|-
+| 69 || perche || colonne
+|-
+| 70 || instrument portatif || pilori
+|-
+| 71 || casseroles et poêles || fosse
+|-
+| 72 || fragments de poterie || podium
+|-
+| 73 || papiers || bassin
+|-
+| 74 || parasol || râtelier
+|-
+| 75 || bourse || décombres
+|-
+| 76 || prothèse || selle
+|-
+| 77 || corde || coffre‑fort
+|-
+| 78 || chaînes rouillées || applique murale
+|-
+| 79 || clous rouillés || écran
+|-
+| 80 || sac || étagère
+|-
+| 81 || ciseaux || autel
+|-
+| 82 || balance || dressoir
+|-
+| 83 || kit de rasage || escalier en colimaçon
+|-
+| 84 || pelle || tribune
+|-
+| 85 || torche utilisée || statue
+|-
+| 86 || matelas de paille || clocher
+|-
+| 87 || règle || tabouret
+|-
+| 88 || plateau || cuisinière
+|-
+| 89 || pinces || table
+|-
+| 90 || torche || tapisserie
+|-
+| 91 || jouet || trône
+|-
+| 92 || diapason || matériel de torture
+|-
+| 93 || urne || malle
+|-
+| 94 || ustensile || baignoire
+|-
+| 95 || vase || cuve
+|-
+| 96 || lampe murale || urne
+|-
+| 97 || marques sur les murs || lavabo
+|-
+| 98 || cire || puits
+|-
+| 99 || brouette || manivelle
+|-
+| 100 || sifflet || banc en bois
+|-
+|}
+</center>]]></raw>
+  <fullName>Pathfinder-RPG.La boîte à outils des donjons</fullName>
+</wikiPage>

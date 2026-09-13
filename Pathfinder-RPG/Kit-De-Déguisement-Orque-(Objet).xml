@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kit de déguisement orque</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-24 22:24:44Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Outils de compétences</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils de compétences</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.orque (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Orque (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 75 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-De-Comp&#233;tences.html&quot; title=&quot;Outils de comp&#233;tences&quot;&gt;Outils de comp&#233;tences&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Ce kit de d&#233;guisement a &#233;t&#233; con&#231;u par des &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;demi-orques&lt;/a&gt; pour les aider &#224; se faire passer pour des humains. Il comprend une cr&#232;me pour masquer la teinte gris verd&#226;tre de leur peau et d’autres objets pour dissimuler leurs caract&#233;ristiques orques ou attirer l’attention sur une autre partie de leur personne. Un demi-orque qui utilise ce kit gagne un bonus de +3 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; pour se faire passer pour un humain. Ce kit donne seulement un bonus de +1 si c’est un &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orque&lt;/a&gt; qui l’utilise. Un kit de d&#233;guisement orque est consomm&#233; apr&#232;s 10 utilisations.
+]]></body>
+  <raw><![CDATA[{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}'''Prix''' 75 po ; '''Poids''' 0,5 kg  
+<span class="Catégorie">'''Catégorie''' [[Outils de compétences]]</span>
+<hr>
+Ce kit de déguisement a été conçu par des [[Demi-orque|demi-orques]] pour les aider à se faire passer pour des humains. Il comprend une crème pour masquer la teinte gris verdâtre de leur peau et d’autres objets pour dissimuler leurs caractéristiques orques ou attirer l’attention sur une autre partie de leur personne. Un demi-orque qui utilise ce kit gagne un bonus de +3 aux tests de [[Déguisement]] pour se faire passer pour un humain. Ce kit donne seulement un bonus de +1 si c’est un [[Orque (race)|orque]] qui l’utilise. Un kit de déguisement orque est consommé après 10 utilisations.]]></raw>
+  <fullName>Pathfinder-RPG.Kit de déguisement orque (objet)</fullName>
+</wikiPage>

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Grande corneille-sorcière</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2021-02-07 19:35:49Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Communication avec les animaux</link><link>Pathfinder-RPG.Disparition</link><link>Pathfinder-RPG.Perception des indices</link><link>Pathfinder-RPG.Ventriloquie</link><link>Pathfinder-RPG.Image miroir</link><link>Pathfinder-RPG.mauvais présage</link><link>Pathfinder-RPG.subtilisation</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Science de la subtilisation</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Cercle de téléportation</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Grande corneille-sorci&#232;re&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.66&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; de taille P, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 15, pris au d&#233;pourvu 11 (Dex +3, esquive +1, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 32 (5d10+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sistances&lt;/b&gt; froid 5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, vol 18 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 serres, +7 (1d6+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; mal&#233;fices (&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices.html#Malchance&quot; title=&quot;Les mal&#233;fices de la sorci&#232;re&quot;&gt;malchance&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices.html#Mauvaisœil&quot; title=&quot;Les mal&#233;fices de la sorci&#232;re&quot;&gt;mauvais œil&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices.html#Ricanement&quot; title=&quot;Les mal&#233;fices de la sorci&#232;re&quot;&gt;ricanement&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +8 ; bas&#233;s sur l’Intelligence)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt; (oiseaux uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disparition.html&quot; title=&quot;Disparition&quot;&gt;disparition&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Indices.html&quot; title=&quot;Perception des indices&quot;&gt;perception des indices&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ventriloquie.html&quot; title=&quot;Ventriloquie&quot;&gt;ventriloquie&lt;/a&gt;&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Miroir.html&quot; title=&quot;Image miroir&quot;&gt;image miroir&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mauvais-Pr&#233;sage.html&quot; title=&quot;Mauvais pr&#233;sage&quot;&gt;mauvais pr&#233;sage&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 17, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5, &lt;b&gt;BMO&lt;/b&gt; +5 (+7 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Subtilisation.html&quot; title=&quot;subtilisation&quot;&gt;subtilisation&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 19 (21 contre la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Subtilisation.html&quot; title=&quot;subtilisation&quot;&gt;subtilisation&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Subtilisation.html&quot; title=&quot;Science de la subtilisation&quot;&gt;Science de la subtilisation&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, a&#233;rien, aklo, commun ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt; (oiseaux uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; substitut de t&#233;l&#233;portation
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts ou plaines, froides ou temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, couv&#233;e (3-12) ou meurtre (13-30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mal&#233;fices (Sur).&lt;/b&gt; La grande corneille-sorci&#232;re peut utiliser les &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html#MALEFICE&quot; title=&quot;La sorci&#232;re&quot;&gt;mal&#233;fices&lt;/a&gt; indiqu&#233;s dans la section attaques sp&#233;ciales comme si elle &#233;tait une &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;sorci&#232;re&lt;/a&gt; de niveau 5. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; pour r&#233;sister aux mal&#233;fices d’une grande corneille-sorci&#232;re est de 15.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Substitut de t&#233;l&#233;portation (Sur).&lt;/b&gt; Une fois par jour, si les grandes corneilles sorci&#232;res sont assez nombreuses (rassembl&#233;es en meurtre par exemple), elles peuvent se livrer &#224; une magie coop&#233;rative qui ouvre un portail luisant menant sur un autre lieu. Pour ce faire, elles accomplissent un bruyant rituel centr&#233; sur la cr&#233;ature d&#233;sirant utiliser ce pouvoir. Le rituel fonctionne comme un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cercle-De-T&#233;l&#233;portation.html&quot; title=&quot;Cercle de t&#233;l&#233;portation&quot;&gt;cercle de t&#233;l&#233;portation&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 17) mais demande une minute d’incantations ininterrompues. Le cercle n’a pas besoin de se trouver sur une surface horizontale. Il est visible et facile &#224; d&#233;tecter. Il persiste pendant une minute. La plupart des grandes corneilles-sorci&#232;res d&#233;testent utiliser ce pouvoir mais acceptent de s’en servir en &#233;change d’un bon paiement, g&#233;n&#233;ralement un objet tr&#232;s pr&#233;cieux, magique et fort appr&#233;ci&#233; de son propri&#233;taire.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Une intelligence surnaturelle brille dans les yeux verts de cette grande corneille d’un noir de jais.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+La grande corneille-sorci&#232;re est une messag&#232;re redout&#233;e de la malchance et du malheur qui espionne les imprudents et choisit les faibles comme victimes. Elle est intelligente, manipulatrice et avare &#224; l’extr&#234;me. Elle est enti&#232;rement d&#233;pourvue de scrupule et ne conna&#238;t pas la peur. Elle s’efforce de voler les biens les plus pr&#233;cieux de ses proies, mais aussi leurs r&#234;ves et leurs espoirs. Elle aime semer le doute et l’angoisse en faisant semblant de donner des conseils amicaux qui n’ont d’autre but que de briser des alliances, de duper les cr&#233;dules et de compromettre les vertueux. En d&#233;pit de cette nature perfide, elle d&#233;tient parfois de pr&#233;cieuses informations. Ou les d&#233;couvre si on la paie pour cela.&lt;br /&gt;&lt;br /&gt;La grande corneille-sorci&#232;re appr&#233;cie par-dessus tout la magie profane, non seulement en tant que praticienne mais aussi en tant que collectionneuse. En &#233;change de ses services ou de ses informations, elle demande des parchemins, des potions ou d’autres objets magiques de faible valeur. Et m&#234;me si on ne lui a pas propos&#233; ces objets, elle &#233;prouve une insatiable avidit&#233; qui la pousse &#224; les subtiliser si elle per&#231;oit leur pr&#233;sence sur son interlocuteur. Les grandes corneilles prennent souvent des lanceurs de sorts profanes isol&#233;s comme cible : elles se rapprochent d’eux gr&#226;ce &#224; leur pouvoir de disparition et ex&#233;cutent des attaques en vol pour leur d&#233;rober les babioles qui les int&#233;ressent. Elles ram&#232;nent leur butin dans leur nid o&#249; elles se pavanent en racontant fi&#232;rement leur assaut audacieux, sous le regard adorateur de leurs pairs. Une incantation prolong&#233;e (d’une dur&#233;e sup&#233;rieure &#224; un round) attire souvent les grandes corneilles-sorci&#232;res de la r&#233;gion. Elles se rassemblent en groupe pour suivre les lanceurs de sorts, en attendant une occasion de les d&#233;lester de leurs biens.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Grande corneille-sorcière|FP 3}
+{s:pucem|Créature magique|Forêt-Jungle|Froid}
+{s:BDtexte|''Source : Bestiaire 5 p.66''}
+{s:BDtexte|'''PX''' 800}
+{s:BDtexte|[[type Créature magique|Créature magique]] de taille P, CM}
+{s:BDtexte|'''Init''' +3 ; '''Sens''' ''[[détection de la magie]]'', [[Vision dans le noir (capacité)|vision dans le noir]] 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 15, contact 15, pris au dépourvu 11 (Dex +3, esquive +1, taille +1)}
+{s:BDtexte|'''pv''' 32 (5d10+5)}
+{s:BDtexte|'''Réf''' +7, '''Vig''' +5, '''Vol''' +4}
+{s:BDtexte|'''Résistances''' froid 5}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 6 m, vol 18 m (bonne)}
+{s:BDtexte|'''Corps à corps''' 2 serres, +7 (1d6+1)}
+{s:BDtexte|'''Attaques spéciales''' maléfices ([[Maléfices#Malchance|malchance]] [[Maléfices#Mauvaisœil|mauvais œil]], [[Maléfices#Ricanement|ricanement]]}
+{s:BDtexte|'''Pouvoirs magiques''' ([[NLS]] 5 ; [[concentration]] +8 ; basés sur l’Intelligence)}
+{s:BDsorts|Constant — ''[[communication avec les animaux]]'' (oiseaux uniquement), ''[[détection de la magie]]''}
+{s:BDsorts|3/jour — ''[[disparition]]'', ''[[perception des indices]]'', ''[[ventriloquie]]'' (DD 14)}
+{s:BDsorts|1/jour — ''[[image miroir]]'', ''[[mauvais présage]]''}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 12, '''Dex''' 17, '''Con''' 12, '''Int''' 17, '''Sag''' 16, '''Cha''' 13}
+{s:BDtexte|'''BBA''' +5, '''BMO''' +5 (+7 en [[subtilisation]]), '''DMD''' 19 (21 contre la [[subtilisation]])}
+{s:BDtexte|'''Dons''' [[Attaque en vol]], [[Esquive]], [[Expertise du combat]], [[Science de la subtilisation]]}
+{s:BDtexte|'''Compétences''' [[Art de la magie]] +6, [[Bluff]] +5, [[Connaissances]] (mystères) +6, [[Discrétion]] +15, [[Escamotage]] +12, [[Perception]] +9, [[Psychologie]] +6, [[Vol]] +15}
+{s:BDtexte|'''Langues''' abyssal, aérien, aklo, commun ; ''[[communication avec les animaux]]'' (oiseaux uniquement)}
+{s:BDtexte|'''Particularités''' substitut de téléportation}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' forêts ou plaines, froides ou tempérées}
+{s:BDtexte|'''Organisation sociale''' solitaire, couple, couvée (3-12) ou meurtre (13-30)}
+{s:BDtexte|'''Trésor''' standard}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Maléfices (Sur).''' La grande corneille-sorcière peut utiliser les [[Sorcière#MALEFICE|maléfices]] indiqués dans la section attaques spéciales comme si elle était une [[sorcière]] de niveau 5. Le [[DD]] des [[jds|jets de sauvegarde]] pour résister aux maléfices d’une grande corneille-sorcière est de 15.}
+{s:BDtexte|'''Substitut de téléportation (Sur).''' Une fois par jour, si les grandes corneilles sorcières sont assez nombreuses (rassemblées en meurtre par exemple), elles peuvent se livrer à une magie coopérative qui ouvre un portail luisant menant sur un autre lieu. Pour ce faire, elles accomplissent un bruyant rituel centré sur la créature désirant utiliser ce pouvoir. Le rituel fonctionne comme un ''[[cercle de téléportation]]'' ([[NLS]] 17) mais demande une minute d’incantations ininterrompues. Le cercle n’a pas besoin de se trouver sur une surface horizontale. Il est visible et facile à détecter. Il persiste pendant une minute. La plupart des grandes corneilles-sorcières détestent utiliser ce pouvoir mais acceptent de s’en servir en échange d’un bon paiement, généralement un objet très précieux, magique et fort apprécié de son propriétaire.}
+</div>
+</td>
+<td>
+<div>
+''Une intelligence surnaturelle brille dans les yeux verts de cette grande corneille d’un noir de jais.''
+
+
+La grande corneille-sorcière est une messagère redoutée de la malchance et du malheur qui espionne les imprudents et choisit les faibles comme victimes. Elle est intelligente, manipulatrice et avare à l’extrême. Elle est entièrement dépourvue de scrupule et ne connaît pas la peur. Elle s’efforce de voler les biens les plus précieux de ses proies, mais aussi leurs rêves et leurs espoirs. Elle aime semer le doute et l’angoisse en faisant semblant de donner des conseils amicaux qui n’ont d’autre but que de briser des alliances, de duper les crédules et de compromettre les vertueux. En dépit de cette nature perfide, elle détient parfois de précieuses informations. Ou les découvre si on la paie pour cela.
+
+La grande corneille-sorcière apprécie par-dessus tout la magie profane, non seulement en tant que praticienne mais aussi en tant que collectionneuse. En échange de ses services ou de ses informations, elle demande des parchemins, des potions ou d’autres objets magiques de faible valeur. Et même si on ne lui a pas proposé ces objets, elle éprouve une insatiable avidité qui la pousse à les subtiliser si elle perçoit leur présence sur son interlocuteur. Les grandes corneilles prennent souvent des lanceurs de sorts profanes isolés comme cible : elles se rapprochent d’eux grâce à leur pouvoir de disparition et exécutent des attaques en vol pour leur dérober les babioles qui les intéressent. Elles ramènent leur butin dans leur nid où elles se pavanent en racontant fièrement leur assaut audacieux, sous le regard adorateur de leurs pairs. Une incantation prolongée (d’une durée supérieure à un round) attire souvent les grandes corneilles-sorcières de la région. Elles se rassemblent en groupe pour suivre les lanceurs de sorts, en attendant une occasion de les délester de leurs biens.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Grande corneille-sorcière</fullName>
+</wikiPage>

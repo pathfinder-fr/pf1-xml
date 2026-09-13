@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nuée calamiteuse</title>
+  <categories><category>Pathfinder-RPG.Monstre mythique</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-23 19:51:05Z</lastModified>
+  <version>1</version>
+  <inLinks></inLinks>
+  <outLinks><link>Pathfinder-RPG.Colonne de feu</link><link>Pathfinder-RPG.RDépique</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.sous-type mythique</link><link>Pathfinder-RPG.sous-type nuée</link><link>Pathfinder-RPG.Initiative double (capacité)</link><link>Pathfinder-RPG.Perception aveugle (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Guérison accélérée (capacité)</link><link>Pathfinder-RPG.Second jet de sauvegarde (capacité)</link><link>Pathfinder-RPG.Indomptable (capacité)</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Distraction (capacité)</link><link>Pathfinder-RPG.Pouvoir mythique (capacité)</link><link>Pathfinder-RPG.Attaque spéciale renforcée</link><link>Pathfinder-RPG.Comme léclair</link><link>Pathfinder-RPG.Comme le vent</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Pouvoir mythique supplémentaire (mythique)</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Nuée de chauves-souris</link><link>Pathfinder-RPG.Vampire, archétype</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Sanctification</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.niveau négatif</link><link>Pathfinder-RPG.mythique</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Transmission de la lycanthropie (capacité)</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.Nuée de rats</link><link>Pathfinder-RPG.Rat-garou</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Guérison des maladies</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.Maladies</link><link>Pathfinder-RPG.Science des réflexes surhumains</link><link>Pathfinder-RPG.Nuée de sauterelles</link><link>Pathfinder-RPG.Artefacts</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.adamantium</link><link>Pathfinder-RPG.solidité</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e calamiteuse&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou port&#233;e (nu&#233;e calamiteuse plus 1-100 rejetons)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Plaie (Sur).&lt;/b&gt; Les nu&#233;es calamiteuses infligent une quantit&#233; de d&#233;g&#226;ts suppl&#233;mentaires (sans type associ&#233;) &#233;gale &#224; leurs d&#233;g&#226;ts standards. Ces d&#233;g&#226;ts sont caus&#233;s par la puissance divine &#224; l’origine de la nu&#233;e, comme pour le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Colonne-De-Feu.html&quot; title=&quot;Colonne de feu&quot;&gt;colonne de feu&lt;/a&gt;&lt;/i&gt;. Les d&#233;g&#226;ts caus&#233;s par une nu&#233;e calamiteuse sont consid&#233;r&#233;s comme magiques et &lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Rdepique.html&quot; title=&quot;RD&#233;pique&quot;&gt;&#233;piques&lt;/a&gt; afin de passer outre les &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;ductions de d&#233;g&#226;ts&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Propagation (Ext).&lt;/b&gt; Les nu&#233;es calamiteuses se reproduisent &#224; une vitesse incroyable. Une fois par minute, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, une nu&#233;e calamiteuse peut produire une nouvelle nu&#233;e du type pr&#233;sent&#233; dans son bloc de statistiques. Quand elle ne combat pas, elle se reproduit g&#233;n&#233;ralement toutes les minutes. Si la nu&#233;e calamiteuse est d&#233;truite, toutes les nu&#233;es qu’elle a engendr&#233;es sont elles aussi dispers&#233;es.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rassemblement (Sur).&lt;/b&gt; Quand une nu&#233;e calamiteuse est dispers&#233;e suite &#224; des d&#233;g&#226;ts, elle n’est pas d&#233;truite. Une nu&#233;e calamiteuse dispers&#233;e se reforme en 24 heures. Chaque nu&#233;e calamiteuse ne peut &#234;tre d&#233;truite que dans des conditions sp&#233;cifiques. Cela dit, les nu&#233;es calamiteuses &#233;tant une manifestation de la col&#232;re divine, apaiser la rage de la divinit&#233; qui en est &#224; l’origine a aussi comme effet la destruction imm&#233;diate de la nu&#233;e.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_0&quot; href=&quot;#_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e calamiteuse de chauves-souris&lt;div style=&quot;float:right;&quot;&gt;FP 17/RMY 8&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Souterrain&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.192&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 102 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille Min, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +19&lt;sup&gt;M&lt;/sup&gt;/-1, &lt;a class=&quot;pagelink&quot; href=&quot;Initiative-Double-(Capacit&#233;).html&quot; title=&quot;Initiative double (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;initiative double&lt;/a&gt; ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;Perception aveugle (Ext)&quot;&gt;perception aveugle&lt;/a&gt; &#224; 30 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +34
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 32, contact 24, pris au d&#233;pourvu 24 (Dex +7, esquive +1, naturelle +8, profane +2, taille +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 279 (21d10+164) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +21, &lt;b&gt;Vig&lt;/b&gt; +18, &lt;b&gt;Vol&lt;/b&gt; +13 ; &lt;a class=&quot;pagelink&quot; href=&quot;Second-Jet-De-Sauvegarde-(Capacit&#233;).html&quot; title=&quot;Second jet de sauvegarde (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;second jet de sauvegarde&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; protection profane, traits des nu&#233;es, &lt;a class=&quot;pagelink&quot; href=&quot;Indomptable-(Capacit&#233;).html&quot; title=&quot;Indomptable (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;indomptable&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Rdepique.html&quot; title=&quot;RD&#233;pique&quot;&gt;&#233;pique&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; armes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1,5 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 12 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e (5d6 plus 5d6 plaie, distraction et saignement de l’&#226;me)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 6 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; cr&#233;ation de rejetons, &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction (Ext)&quot;&gt;distraction&lt;/a&gt; (DD 26), &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (8/jour, mont&#233;e en puissance +1d10), saignement de l’&#226;me
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 6, &lt;b&gt;Dex&lt;/b&gt; 25, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 18, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +21 ; &lt;b&gt;BMO&lt;/b&gt; — ; &lt;b&gt;DMD&lt;/b&gt; —
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (distraction), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (saignement de l’&#226;me), &lt;a class=&quot;pagelink&quot; href=&quot;Comme-L&#233;clair.html&quot; title=&quot;Comme l&amp;#39;&#233;clair&quot;&gt;Comme l&#39;&#233;clair&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comme-Le-Vent.html&quot; title=&quot;Comme le vent&quot;&gt;Comme le vent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-Suppl&#233;mentaire-(Mythique).html&quot; title=&quot;Pouvoir mythique suppl&#233;mentaire (mythique)&quot;&gt;Pouvoir mythique suppl&#233;mentaire&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Vol), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +32, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +34, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +37
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; propagation (&lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-De-Chauves-Souris.html&quot; title=&quot;Chauve-souris, Nu&#233;e de chauves-souris&quot;&gt;nu&#233;e de chauves-souris&lt;/a&gt; avec saignement de l’&#226;me [Vigueur DD 11])
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Cr&#233;ation de rejetons (Sur).&lt;/b&gt; Une cr&#233;ature humano&#239;de qui meurt des suites du pouvoir saignement de l’&#226;me rena&#238;t sous la forme d’un &lt;a class=&quot;pagelink&quot; href=&quot;Vampire,-Arch&#233;type.html&quot; title=&quot;Vampire, arch&#233;type&quot;&gt;vampire&lt;/a&gt; en 1d4 jours. Ce vampire est contr&#244;l&#233; par la nu&#233;e et reste son esclave jusqu’&#224; la destruction de la nu&#233;e. Le nombre total des &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;d&#233;s de vie&lt;/a&gt; des serviteurs de la nu&#233;e ne doivent pas d&#233;passer deux fois son propre nombre de d&#233;s de vie. Tout rejeton qu’elle cr&#233;e au-del&#224; de cette limite devient un mort-vivant ind&#233;pendant.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Protection profane (Sur).&lt;/b&gt; Une nu&#233;e calamiteuse de chauves-souris a un bonus de +2 &#224; sa &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;Classe d’Armure&lt;/a&gt; qui lui est conf&#233;r&#233; par son cr&#233;ateur divin.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rassemblement (Sur).&lt;/b&gt; Une nu&#233;e calamiteuse de chauves-souris n’est v&#233;ritablement d&#233;truite que si elle est dispers&#233;e dans une zone sous l’effet du sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctification.html&quot; title=&quot;Sanctification&quot;&gt;sanctification&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Saignement de l’&#226;me (Sur).&lt;/b&gt; Une cr&#233;ature qui subit des d&#233;g&#226;ts inflig&#233;s par une nu&#233;e calamiteuse de chauves-souris se met &#224; saigner corps et &#226;me. &#192; chaque round, la cr&#233;ature qui est sous l’effet du saignement de l’&#226;me subit un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d4 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; et gagne 1 &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveau n&#233;gatif&lt;/a&gt;. Une cr&#233;ature qui se trouve sous l’effet d’un saignement de l’&#226;me ne peut &#234;tre soign&#233;e que par une magie d’origine &lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Mythique.html&quot; title=&quot;mythique&quot;&gt;mythique&lt;/a&gt;. Un lanceur de sorts mythique peut tenter un test de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; DD 24 pour soigner une cr&#233;ature sous l’emprise de saignement de l’&#226;me. S’il r&#233;ussit, le saignement de l’&#226;me prend fin. Alternativement, n’importe quelle cr&#233;ature peut mettre fin &#224; cet effet en r&#233;ussissant un test de &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; DD 35. Vingt-quatre heures apr&#232;s avoir re&#231;u des niveaux n&#233;gatifs suite au saignement de l’&#226;me, une cr&#233;ature doit tenter un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 26 par niveau n&#233;gatif re&#231;u. En cas de succ&#232;s, ce niveau n&#233;gatif est annul&#233;. En cas d’&#233;chec, il devient permanent. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_1&quot; href=&quot;#_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e calamiteuse de rats&lt;div style=&quot;float:right;&quot;&gt;FP 11/RMY 8&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Souterrain&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.192&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 25 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille TP, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +16&lt;sup&gt;M&lt;/sup&gt;/-4, &lt;a class=&quot;pagelink&quot; href=&quot;Initiative-Double-(Capacit&#233;).html&quot; title=&quot;Initiative double (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;initiative double&lt;/a&gt; ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 17, pris au d&#233;pourvu 20 (Dex +4, esquive +1, naturelle +8, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 152 (16d10+64) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +16, &lt;b&gt;Vig&lt;/b&gt; +11, &lt;b&gt;Vol&lt;/b&gt; +9 ; &lt;a class=&quot;pagelink&quot; href=&quot;Second-Jet-De-Sauvegarde-(Capacit&#233;).html&quot; title=&quot;Second jet de sauvegarde (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;second jet de sauvegarde&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; rassemblement, traits des nu&#233;es, &lt;a class=&quot;pagelink&quot; href=&quot;Indomptable-(Capacit&#233;).html&quot; title=&quot;Indomptable (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;indomptable&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Rdepique.html&quot; title=&quot;RD&#233;pique&quot;&gt;&#233;pique&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, escalade 9 m, nage 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e, +14 (4d6-2 plus 4d6 plaie, &lt;a class=&quot;pagelink&quot; href=&quot;Transmission-De-La-Lycanthropie-(Capacit&#233;).html&quot; title=&quot;Transmission de la lycanthropie (Sur)&quot;&gt;transmission de la lycanthropie&lt;/a&gt;, maladie et distraction)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 6 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction (Ext)&quot;&gt;distraction&lt;/a&gt; (DD 19), &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (8/jour, mont&#233;e en puissance +1d10)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 2, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 8, &lt;b&gt;Int&lt;/b&gt; 19, &lt;b&gt;Sag&lt;/b&gt; 18, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +16 ; &lt;b&gt;BMO&lt;/b&gt; — ; &lt;b&gt;DMD&lt;/b&gt; —
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (distraction), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (transmission de la lycanthropie), &lt;a class=&quot;pagelink&quot; href=&quot;Comme-L&#233;clair.html&quot; title=&quot;Comme l&amp;#39;&#233;clair&quot;&gt;Comme l&#39;&#233;clair&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comme-Le-Vent.html&quot; title=&quot;Comme le vent&quot;&gt;Comme le vent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-Suppl&#233;mentaire-(Mythique).html&quot; title=&quot;Pouvoir mythique suppl&#233;mentaire (mythique)&quot;&gt;Pouvoir mythique suppl&#233;mentaire&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +31, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +31, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +31, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, commun, infernal (ne peut pas parler) ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 60 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; esprit de ruche, propagation (&lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-De-Rats.html&quot; title=&quot;Rat, Nu&#233;e de rats&quot;&gt;nu&#233;e de rats&lt;/a&gt; avec transmission de la lycanthropie [Vig DD 12])
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Esprit collectif (Sur).&lt;/b&gt; Une nu&#233;e calamiteuse de rats peut maintenir un contact t&#233;l&#233;pathique constant avec tous les &lt;a class=&quot;pagelink&quot; href=&quot;Rat-Garou.html&quot; title=&quot;Lycanthrope, Rat-garou&quot;&gt;rats-garous&lt;/a&gt; qu’elle a cr&#233;&#233;s gr&#226;ce &#224; sa &lt;a class=&quot;pagelink&quot; href=&quot;Transmission-De-La-Lycanthropie-(Capacit&#233;).html&quot; title=&quot;Transmission de la lycanthropie (Sur)&quot;&gt;transmission de la lycanthropie&lt;/a&gt; tant qu’ils se trouvent sur le m&#234;me plan. Ces rats-garous ont une attitude &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;serviable&lt;/a&gt; envers la nu&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Ext).&lt;/b&gt; &lt;i&gt;Peste bubonique&lt;/i&gt; : Nu&#233;e — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 19 ; &lt;i&gt;incubation&lt;/i&gt; imm&#233;diate ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; et de 1 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;, et la cible est &lt;a class=&quot;pagelink&quot; href=&quot;../&#201;tats pr&#233;judiciables#Fatigu&#233;
+
+Un personnage fatigu&#233; est dans l’incapacit&#233; de courir et de charger/-Il-Subit-Un-Malus-De--2-En-Force-Ainsi-Qu’En-Dext&#233;rit&#233;.-La-Fatigue-Se-Dissipe-Au-Bout-De-Huit-Heures-De-Repos-Total.-Un-Personnage-Fatigu&#233;-Devient-&#201;puis&#233;-D&#232;s-Qu’Il-Fait-Quoi-Que-Ce-Soit-Qui-Causerait-Un-Nouvel-&#201;tat-Fatigu&#233;..html&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;e&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rassemblement (Sur).&lt;/b&gt; Une nu&#233;e calamiteuse de rats ne peut &#234;tre d&#233;truite que si un lanceur de sorts &lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Mythique.html&quot; title=&quot;mythique&quot;&gt;mythique&lt;/a&gt; (ou un lanceur de sorts non mythique qui r&#233;ussit un test de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; DD 31) r&#233;ussit &#224; lui lancer un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Des-Maladies.html&quot; title=&quot;Gu&#233;rison des maladies&quot;&gt;gu&#233;rison des maladies&lt;/a&gt;&lt;/i&gt; pendant le tour qui pr&#233;c&#232;de la dispersion de la nu&#233;e. Cette condition prend le pas sur l’immunit&#233; normale de la nu&#233;e aux effets qui ne ciblent qu’une seule cr&#233;ature.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Transmission de la lycanthropie (Sur).&lt;/b&gt; Quelle que soit sa taille, un &lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;humano&#239;de&lt;/a&gt; qui subit des d&#233;g&#226;ts caus&#233;s par une nu&#233;e calamiteuse de rats doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 19 ou contracter la &lt;a class=&quot;pagelink&quot; href=&quot;Transmission-De-La-Lycanthropie-(Capacit&#233;).html&quot; title=&quot;Transmission de la lycanthropie (Sur)&quot;&gt;lycanthropie&lt;/a&gt; et devenir un &lt;a class=&quot;pagelink&quot; href=&quot;Rat-Garou.html&quot; title=&quot;Lycanthrope, Rat-garou&quot;&gt;rat-garou&lt;/a&gt;. Tous les humano&#239;des qui contractent la lycanthropie par le biais d’une nu&#233;e calamiteuse de rats deviennent immunis&#233;s &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html#PESTEBUNONIQUE&quot; title=&quot;Les maladies&quot;&gt;peste bubonique&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_2&quot; href=&quot;#_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nu&#233;e calamiteuse de sauterelles&lt;div style=&quot;float:right;&quot;&gt;FP 15/RMY 8&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Souterrain&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.193&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 51 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Nu&#233;e.html&quot; title=&quot;Nu&#233;e (sous-type)&quot;&gt;nu&#233;e&lt;/a&gt;) de taille I, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +16&lt;sup&gt;M&lt;/sup&gt;/-4, &lt;a class=&quot;pagelink&quot; href=&quot;Initiative-Double-(Capacit&#233;).html&quot; title=&quot;Initiative double (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;initiative double&lt;/a&gt; ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 31, contact 23, pris au d&#233;pourvu 26 (Dex +4, esquive +1, naturelle +8, taille +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 216 (21d10+101) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +18, &lt;b&gt;Vig&lt;/b&gt; +15, &lt;b&gt;Vol&lt;/b&gt; +13 ; &lt;a class=&quot;pagelink&quot; href=&quot;Second-Jet-De-Sauvegarde-(Capacit&#233;).html&quot; title=&quot;Second jet de sauvegarde (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;second jet de sauvegarde&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; rassemblement, traits des nu&#233;es, &lt;a class=&quot;pagelink&quot; href=&quot;Indomptable-(Capacit&#233;).html&quot; title=&quot;Indomptable (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;indomptable&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 10/&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Rdepique.html&quot; title=&quot;RD&#233;pique&quot;&gt;&#233;pique&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux, armes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, escalade 3 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 12 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; nu&#233;e (5d6 plus 5d6 plaie, voracit&#233; et distraction)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 6 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; voracit&#233;, &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction (Ext)&quot;&gt;distraction&lt;/a&gt; (DD 23), &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (8/jour, mont&#233;e en puissance +1d10)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 6, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 18, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +21 ; &lt;b&gt;BMO&lt;/b&gt; — ; &lt;b&gt;DMD&lt;/b&gt; —
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (distraction), &lt;a class=&quot;pagelink&quot; href=&quot;Comme-L&#233;clair.html&quot; title=&quot;Comme l&amp;#39;&#233;clair&quot;&gt;Comme l&#39;&#233;clair&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comme-Le-Vent.html&quot; title=&quot;Comme le vent&quot;&gt;Comme le vent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-Suppl&#233;mentaire-(Mythique).html&quot; title=&quot;Pouvoir mythique suppl&#233;mentaire (mythique)&quot;&gt;Pouvoir mythique suppl&#233;mentaire&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Des-R&#233;flexes-Surhumains.html&quot; title=&quot;Science des r&#233;flexes surhumains&quot;&gt;Science des r&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Vol), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +35, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal (incapable de parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; propagation (&lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-De-Sauterelles.html&quot; title=&quot;Sauterelle, Nu&#233;e de sauterelles&quot;&gt;nu&#233;e de sauterelles&lt;/a&gt; avec le pouvoir voracit&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rassemblement (Sur).&lt;/b&gt; Une nu&#233;e calamiteuse de sauterelles n’est v&#233;ritablement d&#233;truite que si elle d&#233;vore avec voracit&#233; un &lt;a class=&quot;pagelink&quot; href=&quot;Artefacts.html&quot; title=&quot;Les artefacts&quot;&gt;artefact mineur&lt;/a&gt; d’alignement Bon ou une relique sacr&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Voracit&#233; (Ext).&lt;/b&gt; Une nu&#233;e calamiteuse de sauterelles d&#233;vore tout ce qui se trouve sur son chemin. Son attaque de nu&#233;e ab&#238;me tous les objets abandonn&#233;s et tous les objets non abandonn&#233;s qui ne sont pas magiques. &#192; chaque round, les sauterelles endommagent aussi un objet magique port&#233; par chacune des cr&#233;atures bless&#233;es par la nu&#233;e. &#192; chaque round, la nu&#233;e ne peut affecter qu’un seul objet magique par cr&#233;ature, m&#234;me avec son &lt;a class=&quot;pagelink&quot; href=&quot;Initiative-Double-(Capacit&#233;).html&quot; title=&quot;Initiative double (Ext) &amp;#91;Mythique&amp;#93;&quot;&gt;initiative double&lt;/a&gt;. Si une cr&#233;ature poss&#232;de plus d’un objet magique non abandonn&#233;, utilisez le tableau des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;objets affect&#233;s par les attaques magiques&lt;/a&gt; afin de d&#233;terminer quel objet est cibl&#233; par la nu&#233;e. On consid&#232;re que les puissantes mandibules des sauterelles sont en &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux#Adamantium.html&quot; title=&quot;adamantium&quot;&gt;adamantium&lt;/a&gt; afin de passer outre la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; et les valeurs de &lt;a class=&quot;pagelink&quot; href=&quot;Exploration#Solidite.html&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; inf&#233;rieure &#224; 20.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Des millions de sauterelles aux yeux rouges forment un nuage qui &#233;clipse la lumi&#232;re du soleil. Telle une tornade affam&#233;e, elles descendent du ciel et d&#233;vorent tout ce qu’elles touchent.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les nu&#233;es calamiteuses sont les punitions envoy&#233;es par des d&#233;it&#233;s vengeresses pour ch&#226;tier les communaut&#233;s qui les ont offens&#233;es. Ces nu&#233;es rasent les plantations, terrorisent les populations et s&#232;ment la d&#233;solation dans les r&#233;gions civilis&#233;es. Les moyens habituels de se d&#233;barrasser des vermines et autres calamit&#233;s ne fonctionnent pas contre elles. Ces f&#233;roces nu&#233;es mythiques sont en effet intelligentes et ont re&#231;u une terrible b&#233;n&#233;diction de leur dieu. Elles se reproduisent &#224; une vitesse exceptionnelle jusqu’&#224; ce que leur nombre submerge des villes enti&#232;res et accomplissent la volont&#233; impitoyable de leur d&#233;it&#233; avec une d&#233;votion obsessionnelle.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée calamiteuse|}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation sociale''' solitaire ou portée (nuée calamiteuse plus 1-100 rejetons)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Plaie (Sur).''' Les nuées calamiteuses infligent une quantité de dégâts supplémentaires (sans type associé) égale à leurs dégâts standards. Ces dégâts sont causés par la puissance divine à l’origine de la nuée, comme pour le sort ''[[colonne de feu]]''. Les dégâts causés par une nuée calamiteuse sont considérés comme magiques et [[RDépique|épiques]] afin de passer outre les [[RD|réductions de dégâts]].}
+{s:BDTexte|'''Propagation (Ext).''' Les nuées calamiteuses se reproduisent à une vitesse incroyable. Une fois par minute, par une [[action complexe]], une nuée calamiteuse peut produire une nouvelle nuée du type présenté dans son bloc de statistiques. Quand elle ne combat pas, elle se reproduit généralement toutes les minutes. Si la nuée calamiteuse est détruite, toutes les nuées qu’elle a engendrées sont elles aussi dispersées.}
+{s:BDTexte|'''Rassemblement (Sur).''' Quand une nuée calamiteuse est dispersée suite à des dégâts, elle n’est pas détruite. Une nuée calamiteuse dispersée se reforme en 24 heures. Chaque nuée calamiteuse ne peut être détruite que dans des conditions spécifiques. Cela dit, les nuées calamiteuses étant une manifestation de la colère divine, apaiser la rage de la divinité qui en est à l’origine a aussi comme effet la destruction immédiate de la nuée.}
+</div>
+=== ===
+<div class="BD">
+{s:BDTitre|Nuée calamiteuse de chauves-souris|FP 17/RMY 8}
+{s:pucem|Créature magique|Souterrain|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.192]]''}
+{s:BDTexte|'''PX''' 102 400}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type mythique|mythique]], [[sous-type nuée|nuée]]) de taille Min, NM}
+{s:BDTexte|'''Init''' +19<sup>M</sup>/-1, [[Initiative double (capacité)|initiative double]] ; '''Sens''' [[Perception aveugle (capacité)|perception aveugle]] à 30 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +34}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 32, contact 24, pris au dépourvu 24 (Dex +7, esquive +1, naturelle +8, profane +2, taille +4)}
+{s:BDTexte|'''pv''' 279 (21d10+164) ; [[Guérison accélérée (capacité)|guérison accélérée]] 10}
+{s:BDTexte|'''Réf''' +21, '''Vig''' +18, '''Vol''' +13 ; [[Second jet de sauvegarde (capacité)|second jet de sauvegarde]]}
+{s:BDTexte|'''Capacités défensives''' protection profane, traits des nuées, [[Indomptable (capacité)|indomptable]] ; '''RD''' 10/[[RDépique|épique]] ; '''Immunités''' armes}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 1,5 m, [[Vol (capacité)|vol]] 12 m (bonne)}
+{s:BDTexte|'''Corps à corps''' nuée (5d6 plus 5d6 plaie, distraction et saignement de l’âme)}
+{s:BDTexte|'''Espace occupé''' 6 m ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' création de rejetons, [[Distraction (capacité)|distraction]] (DD 26), [[Pouvoir mythique (capacité)|pouvoir mythique]] (8/jour, montée en puissance +1d10), saignement de l’âme}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 6, '''Dex''' 25, '''Con''' 18, '''Int''' 11, '''Sag''' 18, '''Cha''' 9}
+{s:BDTexte|'''BBA''' +21 ; '''BMO''' — ; '''DMD''' —}
+{s:BDTexte|'''Dons''' [[Attaque spéciale renforcée]] (distraction), [[Attaque spéciale renforcée]] (saignement de l’âme), [[Comme léclair|Comme l'éclair]], [[Comme le vent]], [[Esquive]]<sup>M</sup>, [[Pouvoir mythique supplémentaire (mythique)|Pouvoir mythique supplémentaire]]<sup>M</sup>, [[Réflexes surhumains]]<sup>M</sup>, [[Science de linitiative|Science de l'initiative]]<sup>M</sup>, [[Talent]] (Perception), [[Talent]] (Vol), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +32, [[Perception]] +34, [[Vol]] +37}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' propagation ([[nuée de chauves-souris]] avec saignement de l’âme <nowiki>[Vigueur DD 11]</nowiki>)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Création de rejetons (Sur).''' Une créature humanoïde qui meurt des suites du pouvoir saignement de l’âme renaît sous la forme d’un [[Vampire, archétype|vampire]] en 1d4 jours. Ce vampire est contrôlé par la nuée et reste son esclave jusqu’à la destruction de la nuée. Le nombre total des [[DV|dés de vie]] des serviteurs de la nuée ne doivent pas dépasser deux fois son propre nombre de dés de vie. Tout rejeton qu’elle crée au-delà de cette limite devient un mort-vivant indépendant.}
+{s:BDTexte|'''Protection profane (Sur).''' Une nuée calamiteuse de chauves-souris a un bonus de +2 à sa [[CA|Classe d’Armure]] qui lui est conféré par son créateur divin.}
+{s:BDTexte|'''Rassemblement (Sur).''' Une nuée calamiteuse de chauves-souris n’est véritablement détruite que si elle est dispersée dans une zone sous l’effet du sort ''[[sanctification]]''.}
+{s:BDTexte|'''Saignement de l’âme (Sur).''' Une créature qui subit des dégâts infligés par une nuée calamiteuse de chauves-souris se met à saigner corps et âme. À chaque round, la créature qui est sous l’effet du saignement de l’âme subit un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 points de [[Constitution]] et gagne 1 [[niveau négatif]]. Une créature qui se trouve sous l’effet d’un saignement de l’âme ne peut être soignée que par une magie d’origine [[mythique]]. Un lanceur de sorts mythique peut tenter un test de [[NLS|niveau de lanceur de sorts]] DD 24 pour soigner une créature sous l’emprise de saignement de l’âme. S’il réussit, le saignement de l’âme prend fin. Alternativement, n’importe quelle créature peut mettre fin à cet effet en réussissant un test de [[Premiers secours]] DD 35. Vingt-quatre heures après avoir reçu des niveaux négatifs suite au saignement de l’âme, une créature doit tenter un jet de [[Vigueur]] DD 26 par niveau négatif reçu. En cas de succès, ce niveau négatif est annulé. En cas d’échec, il devient permanent. Le DD du jet de sauvegarde est basé sur la Constitution.}
+</div>
+=== ===
+<div class="BD">
+{s:BDTitre|Nuée calamiteuse de rats|FP 11/RMY 8}
+{s:pucem|Créature magique|Souterrain|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.192]]''}
+{s:BDTexte|'''PX''' 25 600}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type mythique|mythique]], [[sous-type nuée|nuée]]) de taille TP, LM}
+{s:BDTexte|'''Init''' +16<sup>M</sup>/-4, [[Initiative double (capacité)|initiative double]] ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Odorat (capacité)|odorat]] ; [[Perception]] +23}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 17, pris au dépourvu 20 (Dex +4, esquive +1, naturelle +8, taille +2)}
+{s:BDTexte|'''pv''' 152 (16d10+64) ; [[Guérison accélérée (capacité)|guérison accélérée]] 5}
+{s:BDTexte|'''Réf''' +16, '''Vig''' +11, '''Vol''' +9 ; [[Second jet de sauvegarde (capacité)|second jet de sauvegarde]]}
+{s:BDTexte|'''Capacités défensives''' rassemblement, traits des nuées, [[Indomptable (capacité)|indomptable]] ; '''RD''' 10/[[RDépique|épique]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, escalade 9 m, nage 9 m}
+{s:BDTexte|'''Corps à corps''' nuée, +14 (4d6-2 plus 4d6 plaie, [[Transmission de la lycanthropie (capacité)|transmission de la lycanthropie]], maladie et distraction)}
+{s:BDTexte|'''Espace occupé''' 6 m ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' [[Distraction (capacité)|distraction]] (DD 19), [[Pouvoir mythique (capacité)|pouvoir mythique]] (8/jour, montée en puissance +1d10)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 2, '''Dex''' 19, '''Con''' 8, '''Int''' 19, '''Sag''' 18, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +16 ; '''BMO''' — ; '''DMD''' —}
+{s:BDTexte|'''Dons''' [[Attaque spéciale renforcée]] (distraction), [[Attaque spéciale renforcée]] (transmission de la lycanthropie), [[Comme léclair|Comme l'éclair]], [[Comme le vent]], [[Esquive]]<sup>M</sup>, [[Pouvoir mythique supplémentaire (mythique)|Pouvoir mythique supplémentaire]]<sup>M</sup>, [[Réflexes surhumains]]<sup>M</sup>, [[Science de linitiative|Science de l'initiative]]<sup>M</sup>, [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +20, [[Escalade]] +31, [[Diplomatie]] +18, [[Discrétion]] +31, [[Natation]] +31, [[Perception]] +23}
+{s:BDTexte|'''Langues''' abyssal, céleste, commun, infernal (ne peut pas parler) ; [[Télépathie (capacité)|télépathie]] 60 m}
+{s:BDTexte|'''Particularités''' esprit de ruche, propagation ([[nuée de rats]] avec transmission de la lycanthropie <nowiki>[Vig DD 12]</nowiki>)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Esprit collectif (Sur).''' Une nuée calamiteuse de rats peut maintenir un contact télépathique constant avec tous les [[Rat-garou|rats-garous]] qu’elle a créés grâce à sa [[Transmission de la lycanthropie (capacité)|transmission de la lycanthropie]] tant qu’ils se trouvent sur le même plan. Ces rats-garous ont une attitude [[Diplomatie|serviable]] envers la nuée.}
+{s:BDTexte|'''Maladie (Ext).''' ''Peste bubonique'' : Nuée — blessure ; ''JdS'' [[Vigueur]] DD 19 ; ''incubation'' immédiate ; ''fréquence'' 1/jour ; ''effet'' [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 [[Force]] et de 1 [[Charisme]], et la cible est [[fatigué|fatiguée]] ; ''guérison'' 2 réussites consécutives.}
+{s:BDTexte|'''Rassemblement (Sur).''' Une nuée calamiteuse de rats ne peut être détruite que si un lanceur de sorts [[mythique]] (ou un lanceur de sorts non mythique qui réussit un test de [[NLS|niveau de lanceur de sorts]] DD 31) réussit à lui lancer un sort de ''[[guérison des maladies]]'' pendant le tour qui précède la dispersion de la nuée. Cette condition prend le pas sur l’immunité normale de la nuée aux effets qui ne ciblent qu’une seule créature.}
+{s:BDTexte|'''Transmission de la lycanthropie (Sur).''' Quelle que soit sa taille, un [[type Humanoïde|humanoïde]] qui subit des dégâts causés par une nuée calamiteuse de rats doit réussir un jet de [[Vigueur]] DD 19 ou contracter la [[Transmission de la lycanthropie (capacité)|lycanthropie]] et devenir un [[rat-garou]]. Tous les humanoïdes qui contractent la lycanthropie par le biais d’une nuée calamiteuse de rats deviennent immunisés à la [[Maladies#PESTEBUNONIQUE|peste bubonique]].}
+</div>
+=== ===
+<div class="BD">
+{s:BDTitre|Nuée calamiteuse de sauterelles|FP 15/RMY 8}
+{s:pucem|Créature magique|Souterrain|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.193]]''}
+{s:BDTexte|'''PX''' 51 200}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type mythique|mythique]], [[sous-type nuée|nuée]]) de taille I, NM}
+{s:BDTexte|'''Init''' +16<sup>M</sup>/-4, [[Initiative double (capacité)|initiative double]] ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +24}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 31, contact 23, pris au dépourvu 26 (Dex +4, esquive +1, naturelle +8, taille +8)}
+{s:BDTexte|'''pv''' 216 (21d10+101) ; [[Guérison accélérée (capacité)|guérison accélérée]] 5}
+{s:BDTexte|'''Réf''' +18, '''Vig''' +15, '''Vol''' +13 ; [[Second jet de sauvegarde (capacité)|second jet de sauvegarde]]}
+{s:BDTexte|'''Capacités défensives''' rassemblement, traits des nuées, [[Indomptable (capacité)|indomptable]] ; '''RD''' 10/[[RDépique|épique]] ; '''Immunités''' effets mentaux, armes}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m, escalade 3 m, [[Vol (capacité)|vol]] 12 m (bonne)}
+{s:BDTexte|'''Corps à corps''' nuée (5d6 plus 5d6 plaie, voracité et distraction)}
+{s:BDTexte|'''Espace occupé''' 6 m ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' voracité, [[Distraction (capacité)|distraction]] (DD 23), [[Pouvoir mythique (capacité)|pouvoir mythique]] (8/jour, montée en puissance +1d10)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 6, '''Dex''' 19, '''Con''' 12, '''Int''' 5, '''Sag''' 18, '''Cha''' 9}
+{s:BDTexte|'''BBA''' +21 ; '''BMO''' — ; '''DMD''' —}
+{s:BDTexte|'''Dons''' [[Attaque spéciale renforcée]] (distraction), [[Comme léclair|Comme l'éclair]], [[Comme le vent]], [[Esquive]]<sup>M</sup>, [[Pouvoir mythique supplémentaire (mythique)|Pouvoir mythique supplémentaire]]<sup>M</sup>, [[Réflexes surhumains]]<sup>M</sup>, [[Science de linitiative|Science de l'initiative]]<sup>M</sup>, [[Science des réflexes surhumains]], [[Talent]] (Perception), [[Talent]] (Vol), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Escalade]] +12, [[Vol]] +35, [[Perception]] +24}
+{s:BDTexte|'''Langues''' abyssal (incapable de parler)}
+{s:BDTexte|'''Particularités''' propagation ([[nuée de sauterelles]] avec le pouvoir voracité)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Rassemblement (Sur).''' Une nuée calamiteuse de sauterelles n’est véritablement détruite que si elle dévore avec voracité un [[Artefacts|artefact mineur]] d’alignement Bon ou une relique sacrée.}
+{s:BDTexte|'''Voracité (Ext).''' Une nuée calamiteuse de sauterelles dévore tout ce qui se trouve sur son chemin. Son attaque de nuée abîme tous les objets abandonnés et tous les objets non abandonnés qui ne sont pas magiques. À chaque round, les sauterelles endommagent aussi un objet magique porté par chacune des créatures blessées par la nuée. À chaque round, la nuée ne peut affecter qu’un seul objet magique par créature, même avec son [[Initiative double (capacité)|initiative double]]. Si une créature possède plus d’un objet magique non abandonné, utilisez le tableau des [[jds|objets affectés par les attaques magiques]] afin de déterminer quel objet est ciblé par la nuée. On considère que les puissantes mandibules des sauterelles sont en [[adamantium]] afin de passer outre la [[RD]] et les valeurs de [[solidité]] inférieure à 20.}
+
+</div></td>
+<td><div>''Des millions de sauterelles aux yeux rouges forment un nuage qui éclipse la lumière du soleil. Telle une tornade affamée, elles descendent du ciel et dévorent tout ce qu’elles touchent.''
+
+Les nuées calamiteuses sont les punitions envoyées par des déités vengeresses pour châtier les communautés qui les ont offensées. Ces nuées rasent les plantations, terrorisent les populations et sèment la désolation dans les régions civilisées. Les moyens habituels de se débarrasser des vermines et autres calamités ne fonctionnent pas contre elles. Ces féroces nuées mythiques sont en effet intelligentes et ont reçu une terrible bénédiction de leur dieu. Elles se reproduisent à une vitesse exceptionnelle jusqu’à ce que leur nombre submerge des villes entières et accomplissent la volonté impitoyable de leur déité avec une dévotion obsessionnelle.
+</div></td></tr></table>
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Nuée calamiteuse</fullName>
+</wikiPage>

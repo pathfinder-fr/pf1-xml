@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Repousser ses limites</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don combat</category><category>Pathfinder-RPG.Src Pathfinder unchained</category></categories>
+  <lastModified>2020-11-24 16:36:35Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Pathfinder unchained (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Con</link><link>Pathfinder-RPG.Endurance combative</link><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Épuisé</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Ce don est pr&#233;vu pour fonctionner avec le syst&#232;me de &lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Et-Astuces-Martiales.html#La_r&#233;serve_dendurance_0&quot; title=&quot;Endurance et Astuces martiales&quot;&gt;r&#233;serve d’endurance&lt;/a&gt; introduit dans Pathfinder unchained, consultez votre MJ pour savoir s&#39;il l&#39;accepte.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Pathfinder unchained (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Pathfinder unchained&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoPU.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;M&#234;me quand le personnage est fatigu&#233;, il continue de se battre et parvient &#224; renverser des situations d&#233;sesp&#233;r&#233;es.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCOMBAT&quot; title=&quot;Les dons&quot;&gt;combat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; 13, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Combative.html&quot; title=&quot;Endurance combative&quot;&gt;Endurance combative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Bonusdebasealattaque.html&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; +5&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Le personnage gagne une deuxi&#232;me &lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Et-Astuces-Martiales.html#La_r&#233;serve_dendurance_0&quot; title=&quot;Endurance et Astuces martiales&quot;&gt;r&#233;serve d’endurance&lt;/a&gt; dot&#233;e d’un nombre de points d’endurance &#233;gal &#224; son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;. Le personnage peut d&#233;penser ces points d’endurance secondaires uniquement quand sa r&#233;serve principale est vide ou quand il est &lt;a class=&quot;pagelink&quot; href=&quot;../&#201;tats pr&#233;judiciables#Fatigu&#233;
+
+Un personnage fatigu&#233; est dans l’incapacit&#233; de courir et de charger/-Il-Subit-Un-Malus-De--2-En-Force-Ainsi-Qu’En-Dext&#233;rit&#233;.-La-Fatigue-Se-Dissipe-Au-Bout-De-Huit-Heures-De-Repos-Total.-Un-Personnage-Fatigu&#233;-Devient-&#201;puis&#233;-D&#232;s-Qu’Il-Fait-Quoi-Que-Ce-Soit-Qui-Causerait-Un-Nouvel-&#201;tat-Fatigu&#233;..html&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;&lt;/a&gt;, m&#234;me si en temps normal il ne peut pas utiliser son endurance sous l’effet de la fatigue. Il d&#233;pense les points de sa r&#233;serve secondaire comme bon lui semble mais il est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;puis&#233;.html&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puis&#233;&lt;/a&gt; d&#232;s qu’elle tombe &#224; 0 et le reste tant qu’il n’a pas r&#233;cup&#233;r&#233; au moins 1 point dans sa r&#233;serve d’endurance principale. M&#234;me s’il reste des points dans sa r&#233;serve secondaire, il est fatigu&#233; tant qu’il n’en a plus dans sa r&#233;serve principale. La r&#233;serve secondaire se remplit de nouveau uniquement apr&#232;s une nuit de repos compl&#232;te.
+]]></body>
+  <raw><![CDATA[{s:Desambi|Ce don est prévu pour fonctionner avec le système de [[Endurance et Astuces martiales#La_réserve_dendurance_0|réserve d’endurance]] introduit dans Pathfinder unchained, consultez votre MJ pour savoir s'il l'accepte.}{s:PU}''Même quand le personnage est fatigué, il continue de se battre et parvient à renverser des situations désespérées.''
+
+'''Catégorie.''' [[Dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Con]] 13, [[Endurance combative]], [[BBA]] +5
+
+'''Avantages.''' Le personnage gagne une deuxième [[Endurance et Astuces martiales#La_réserve_dendurance_0|réserve d’endurance]] dotée d’un nombre de points d’endurance égal à son modificateur de [[Constitution]]. Le personnage peut dépenser ces points d’endurance secondaires uniquement quand sa réserve principale est vide ou quand il est [[fatigué]], même si en temps normal il ne peut pas utiliser son endurance sous l’effet de la fatigue. Il dépense les points de sa réserve secondaire comme bon lui semble mais il est [[épuisé]] dès qu’elle tombe à 0 et le reste tant qu’il n’a pas récupéré au moins 1 point dans sa réserve d’endurance principale. Même s’il reste des points dans sa réserve secondaire, il est fatigué tant qu’il n’en a plus dans sa réserve principale. La réserve secondaire se remplit de nouveau uniquement après une nuit de repos complète.]]></raw>
+  <fullName>Pathfinder-RPG.Repousser ses limites</fullName>
+</wikiPage>

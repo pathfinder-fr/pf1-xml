@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fléau parasitaire</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-10-26 16:15:26Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Guérison accélérée (capacité)</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Fixation (capacité)</link><link>Pathfinder-RPG.absorption de sang (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Liberté de mouvement</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Contagion</link><link>Pathfinder-RPG.Flou</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.sort Malédiction</link><link>Pathfinder-RPG.Rabougrissement des plantes</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Ne respire pas (capacité)</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.Potions magiques</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Confus</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Fl&#233;au parasitaire&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Aberration&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Marais&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.130&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; odorat, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; stagnation (6 m, DD 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 14, pris au d&#233;pourvu 14 (Dex +4, naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 52 (7d8+21) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/magie ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, froid, poison
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, escalade 9 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 15 m (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; dard, +11 (2d6+9/19-20 plus &lt;a class=&quot;pagelink&quot; href=&quot;Fixation-(Capacit&#233;).html&quot; title=&quot;Fixation (Ext)&quot;&gt;fixation&lt;/a&gt; et poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 1,50 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-De-Sang-(Capacit&#233;).html&quot; title=&quot;Absorption de sang (Ext)&quot;&gt;absorption de sang&lt;/a&gt; (1d2 Constitution)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Libert&#233;-De-Mouvement.html&quot; title=&quot;Libert&#233; de mouvement&quot;&gt;libert&#233; de mouvement&lt;/a&gt;&lt;/i&gt;, passage sans trace
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contagion.html&quot; title=&quot;Contagion&quot;&gt;contagion&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flou.html&quot; title=&quot;Flou&quot;&gt;flou&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Monstre.html&quot; title=&quot;Immobilisation de monstre&quot;&gt;immobilisation de monstre&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Mal&#233;diction.html&quot; title=&quot;Mal&#233;diction&quot;&gt;mal&#233;diction&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rabougrissement-Des-Plantes.html&quot; title=&quot;Rabougrissement des plantes&quot;&gt;rabougrissement des plantes&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 23, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5 ; &lt;b&gt;BMO&lt;/b&gt; +11 (+15 pour maintenir sa prise en situation de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 25 (33 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;crocs-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo (ne peut pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ne-Respire-Pas-(Capacit&#233;).html&quot; title=&quot;Ne respire pas (Ext)&quot;&gt;ne respire pas&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; marais
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura de stagnation (Sur).&lt;/b&gt; L’aura de stagnation d’un fl&#233;au parasitaire provoque l&#233;thargie et torpeur chez ceux qui l’approchent, en sapant leur &#233;nergie et leur vitesse. Quand une cr&#233;ature approche &#224; 6 m&#232;tres ou moins d’un fl&#233;au parasitaire, elle doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 16 pour ne pas &#234;tre ralentie comme si elle &#233;tait sous l’effet d’un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt;, aussi longtemps qu’elle reste dans l’aura du fl&#233;au parasitaire et pendant 1d3 rounds par la suite. D&#232;s qu’une cr&#233;ature r&#233;ussit son jet de sauvegarde contre l’aura, elle est immunis&#233;e contre l’aura de ce fl&#233;au parasitaire en particulier pendant 24 heures ; sinon, la cr&#233;ature doit refaire un jet de sauvegarde si elle entre &#224; nouveau dans l’aura. En outre, cette aura souille les liquides de toutes sortes situ&#233;s dans la zone. Une cr&#233;ature qui boit quelque chose alors qu’elle se trouve dans l’aura d’un fl&#233;au parasitaire (y compris des &lt;a class=&quot;pagelink&quot; href=&quot;Potions-Magiques.html&quot; title=&quot;Les potions magiques&quot;&gt;potions&lt;/a&gt; et des &#233;lixirs alchimiques) doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 16 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Naus&#233;eux.html&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euse&lt;/a&gt; pendant 1d3 rounds. Le DD du jet de sauvegarde est bas&#233; sur le Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Sur).&lt;/b&gt; Dard — blessure ; &lt;i&gt;JdS&lt;/i&gt; Vigueur DD 16 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Confus.html&quot; title=&quot;Confus&quot;&gt;confusion&lt;/a&gt; pendant 1 round ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature semblable &#224; un moustique, mais de taille humaine, poss&#232;de une longue trompe flexible dont l’extr&#233;mit&#233; se termine par un dard venimeux.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les fl&#233;aux parasitaires doivent se d&#233;velopper dans le corps d’un vrai croyant jusqu’&#224; leur mise au monde brutale lors du d&#233;c&#232;s du porteur ou pendant un rituel. On les trouve donc le plus souvent dans des endroits o&#249; les cultes qui v&#233;n&#232;rent des d&#233;mons ou des diables parasites sont puissants. Pour les fid&#232;les, &#234;tre le porteur d’un embryon de fl&#233;au parasitaire est un grand honneur, car ils croient que, lorsque le monstre s’extirpe du corps du porteur, la conscience de celui-ci continue &#224; vivre d’une fa&#231;on ou d’une autre dans l’esprit du fl&#233;au parasitaire, presque comme s’il s’&#233;tait r&#233;incarn&#233; dans le monstre. Le fait qu’il soit impossible de ressusciter les fanatiques qui meurent en donnant la vie &#224; cette immonde cr&#233;ature accr&#233;dite quelque peu cette croyance, m&#234;me si les fl&#233;aux parasitaires eux-m&#234;mes n’ont rien &#224; dire &#224; ce sujet.&lt;br /&gt;&lt;br /&gt;Le porteur d’un embryon de fl&#233;au parasitaire se comporte normalement jusqu’au moment o&#249; la cr&#233;ature d&#233;cide de sortir. Il faut toutefois savoir que le porteur peut transmettre cette horreur &#224; sa prog&#233;niture. La gestation d’un fl&#233;au parasitaire peut durer plusieurs dizaines d’ann&#233;es et un enfant s&#233;par&#233; de parents infect&#233;s peut vivre toute sa vie sans &#234;tre conscient de ce qui l’attend &#224; sa mort. Quand un fl&#233;au parasitaire s’extirpe du corps de son porteur, il est adulte mais doit attendre 1d4 rounds apr&#232;s son extirpation avant que ses ailes tremp&#233;es de sang puissent lui permettre de voler.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Fléau parasitaire|FP 5}
+{s:pucem|Aberration|Marais|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.130]]''}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Aberration|Aberration]] de taille M, CM}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' odorat, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +13}
+{s:BDTexte|'''Aura''' stagnation (6 m, DD 16)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 14, pris au dépourvu 14 (Dex +4, naturelle +4)}
+{s:BDTexte|'''pv''' 52 (7d8+21) ; [[Guérison accélérée (capacité)|guérison accélérée]] 3}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +5, '''Vol''' +8}
+{s:BDTexte|'''RD''' 5/magie ; '''Immunités''' acide, froid, poison}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, escalade 9 m, [[Vol (capacité)|vol]] 15 m (moyenne)}
+{s:BDTexte|'''Corps à corps''' dard, +11 (2d6+9/19-20 plus [[Fixation (capacité)|fixation]] et poison)}
+{s:BDTexte|'''Espace occupé''' 1,50 m ; '''Allonge''' 3 m}
+{s:BDTexte|'''Attaques spéciales''' [[Absorption de sang (capacité)|absorption de sang]] (1d2 Constitution)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 5 ; [[concentration]] +7)}
+{s:BDSorts|Constant — ''[[liberté de mouvement]]'', passage sans trace}
+{s:BDSorts|1/jour — ''[[bourrasque]]'', ''[[contagion]]'' (DD 16), ''[[flou]]'', ''[[immobilisation de monstre]]'' (DD 17), ''[[sort Malédiction|malédiction]]'' (DD 16), ''[[rabougrissement des plantes]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 23, '''Dex''' 18, '''Con''' 16, '''Int''' 7, '''Sag''' 16, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +5 ; '''BMO''' +11 (+15 pour maintenir sa prise en situation de [[lutte]]) ; '''DMD''' 25 (33 contre le [[croc-en-jambe|crocs-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaque en vol]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Escalade]] +14, [[Perception]] +13, [[Vol]] +14}
+{s:BDTexte|'''Langues''' aklo (ne peut pas parler)}
+{s:BDTexte|'''Particularités''' [[Ne respire pas (capacité)|ne respire pas]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marais}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Aura de stagnation (Sur).''' L’aura de stagnation d’un fléau parasitaire provoque léthargie et torpeur chez ceux qui l’approchent, en sapant leur énergie et leur vitesse. Quand une créature approche à 6 mètres ou moins d’un fléau parasitaire, elle doit réussir un jet de [[Volonté]] DD 16 pour ne pas être ralentie comme si elle était sous l’effet d’un sort de ''[[lenteur]]'', aussi longtemps qu’elle reste dans l’aura du fléau parasitaire et pendant 1d3 rounds par la suite. Dès qu’une créature réussit son jet de sauvegarde contre l’aura, elle est immunisée contre l’aura de ce fléau parasitaire en particulier pendant 24 heures ; sinon, la créature doit refaire un jet de sauvegarde si elle entre à nouveau dans l’aura. En outre, cette aura souille les liquides de toutes sortes situés dans la zone. Une créature qui boit quelque chose alors qu’elle se trouve dans l’aura d’un fléau parasitaire (y compris des [[Potions magiques|potions]] et des élixirs alchimiques) doit réussir un jet de [[Vigueur]] DD 16 pour ne pas être [[nauséeux|nauséeuse]] pendant 1d3 rounds. Le DD du jet de sauvegarde est basé sur le Constitution.}
+{s:BDTexte|'''Poison (Sur).''' Dard — blessure ; ''JdS'' Vigueur DD 16 ; ''fréquence'' 1/round pendant 6 rounds ; ''effet'' [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] 1d4 [[Sagesse]] et [[confus|confusion]] pendant 1 round ; ''guérison'' 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.}
+
+</div></td>
+<td><div>''Cette créature semblable à un moustique, mais de taille humaine, possède une longue trompe flexible dont l’extrémité se termine par un dard venimeux.''
+
+Les fléaux parasitaires doivent se développer dans le corps d’un vrai croyant jusqu’à leur mise au monde brutale lors du décès du porteur ou pendant un rituel. On les trouve donc le plus souvent dans des endroits où les cultes qui vénèrent des démons ou des diables parasites sont puissants. Pour les fidèles, être le porteur d’un embryon de fléau parasitaire est un grand honneur, car ils croient que, lorsque le monstre s’extirpe du corps du porteur, la conscience de celui-ci continue à vivre d’une façon ou d’une autre dans l’esprit du fléau parasitaire, presque comme s’il s’était réincarné dans le monstre. Le fait qu’il soit impossible de ressusciter les fanatiques qui meurent en donnant la vie à cette immonde créature accrédite quelque peu cette croyance, même si les fléaux parasitaires eux-mêmes n’ont rien à dire à ce sujet.
+
+Le porteur d’un embryon de fléau parasitaire se comporte normalement jusqu’au moment où la créature décide de sortir. Il faut toutefois savoir que le porteur peut transmettre cette horreur à sa progéniture. La gestation d’un fléau parasitaire peut durer plusieurs dizaines d’années et un enfant séparé de parents infectés peut vivre toute sa vie sans être conscient de ce qui l’attend à sa mort. Quand un fléau parasitaire s’extirpe du corps de son porteur, il est adulte mais doit attendre 1d4 rounds après son extirpation avant que ses ailes trempées de sang puissent lui permettre de voler.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Fléau parasitaire</fullName>
+</wikiPage>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Géant des collines mythique</title>
+  <categories><category>Pathfinder-RPG.Monstre mythique</category><category>Pathfinder-RPG.Src Campagnes mythiques</category></categories>
+  <lastModified>2021-04-01 19:34:32Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Campagnes mythiques (Contenu)</link><link>Pathfinder-RPG.Ettin mythique</link><link>Pathfinder-RPG.Liste alphabétique des monstres mythiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type géant</link><link>Pathfinder-RPG.sous-type mythique</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Réception de rochers (capacité)</link><link>Pathfinder-RPG.RDépique</link><link>Pathfinder-RPG.Croc-en-jambe (capacité)</link><link>Pathfinder-RPG.Lancer de rochers (capacité)</link><link>Pathfinder-RPG.Pouvoir mythique (capacité)</link><link>Pathfinder-RPG.Montée en puissance (capacité)</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Force intimidante</link><link>Pathfinder-RPG.Maniement dune arme de guerre</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Loup sanguinaire</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Orque</link><link>Pathfinder-RPG.armure de peau (armure)</link><link>Pathfinder-RPG.massue (arme)</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.effet mental</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Soins intensifs</link><link>Pathfinder-RPG.Restauration</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.À terre</link><link>Pathfinder-RPG.Force</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;G&#233;ant des collines mythique&lt;div style=&quot;float:right;&quot;&gt;FP 9/RMY 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Campagnes mythiques p.199&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-G&#233;ant.html&quot; title=&quot;G&#233;ant (sous-type)&quot;&gt;g&#233;ant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 24, contact 8, pris au d&#233;pourvu 24 (+4 armure, -1 Dex, +12 naturelle, -1 taille)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 119 (10d8+74)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; esprit obtus, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;ception-De-Rochers-(Capacit&#233;).html&quot; title=&quot;R&#233;ception de rochers (Ext)&quot;&gt;r&#233;ception de rochers&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 5/&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Rdepique.html&quot; title=&quot;RD&#233;pique&quot;&gt;&#233;pique&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (12 m de base)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; massue, +16/+11 (2d8+12 plus croc-en-jambe) ou 2 coups, +14 (1d8+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; rocher, +6 (1d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe-(Capacit&#233;).html&quot; title=&quot;Croc-en-jambe (Ext)&quot;&gt;croc-en-jambe&lt;/a&gt; (massue), &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-De-Rochers-(Capacit&#233;).html&quot; title=&quot;Lancer de rochers (Ext)&quot;&gt;lancer de rochers&lt;/a&gt; (36 m), mart&#232;lement du sol, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (3/jour, &lt;a class=&quot;pagelink&quot; href=&quot;Mont&#233;e-En-Puissance-(Capacit&#233;).html&quot; title=&quot;Mont&#233;e en puissance (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;mont&#233;e en puissance&lt;/a&gt; +1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 27, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +16, &lt;b&gt;DMD&lt;/b&gt; 25
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (massue)&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Force-Intimidante.html&quot; title=&quot;Force intimidante&quot;&gt;Force intimidante&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Maniement-Dune-Arme-De-Guerre.html&quot; title=&quot;Maniement d&amp;#39;une arme de guerre&quot;&gt;Maniement d&#39;une arme de guerre&lt;/a&gt; (massue)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; li&#233; &#224; la terre
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, gang (2-5), groupe (6-8), groupe d’assaut (9- 12 plus 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Loup-Sanguinaire.html&quot; title=&quot;Loup, Loup sanguinaire&quot;&gt;loups sanguinaires&lt;/a&gt;) ou tribu (13-30 plus 35% de non-combattants plus 1 chef &lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;barbare&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; de niveau 4 &#224; 6, 11-16 loups sanguinaires, 1-4 ogres et 13-20 esclaves &lt;a class=&quot;pagelink&quot; href=&quot;Orque.html&quot; title=&quot;Orque&quot;&gt;orques&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Armures#Armuredepeau.html&quot; title=&quot;armure de peau (armure)&quot;&gt;armure de peau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Massue-(Arme).html&quot; title=&quot;Massue&quot;&gt;massue&lt;/a&gt;, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Esprit obtus (Ext).&lt;/b&gt; Si le g&#233;ant des collines mythique rate son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Registre.html&quot; title=&quot;effet mental&quot;&gt;effet mental&lt;/a&gt; hostile, il d&#233;pense automatiquement une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (s’il en a) au d&#233;but de son tour par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; pour refaire son jet contre l’effet. Il refait son jet pour chaque effet mental en cours &#224; chaque tour.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Li&#233; &#224; la terre (Ext).&lt;/b&gt; Le g&#233;ant des collines mythique gagne un bonus de +2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;de d&#233;g&#226;ts&lt;/a&gt; des armes et &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;de sauvegarde&lt;/a&gt; lorsqu’il touche le sol (m&#234;me un sol de pierre ou de terre &#224; l’int&#233;rieur d’un b&#226;timent). Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un g&#233;ant des collines qui touche le sol peut d&#233;penser une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; pour se r&#233;g&#233;n&#233;rer, b&#233;n&#233;ficiant des effets de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Intensifs.html&quot; title=&quot;Soins intensifs&quot;&gt;soins intensifs&lt;/a&gt;&lt;/i&gt; et de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Restauration.html&quot; title=&quot;Restauration&quot;&gt;restauration&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mart&#232;lement du sol (Ext).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le g&#233;ant des collines mythique peut d&#233;penser une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; et frapper le sol avec une arme contondante. Choisissez une intersection &#224; port&#233;e : les cr&#233;atures qui touchent le sol dans un rayon de 6 m&#232;tres centr&#233; sur cette intersection re&#231;oivent le double des d&#233;g&#226;ts qu’inflige normalement l’arme contondante (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 23 1/2 d&#233;g&#226;ts). Les cr&#233;atures qui ratent leur jet tombent &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#192;terre.html&quot; title=&quot;&#192; terre&quot;&gt;&#224; terre&lt;/a&gt; et sont &#233;ject&#233;es &#224; 1,50 m&#232;tre de l’intersection choisie. Ce pouvoir n’a aucun effet sur les cr&#233;atures ayant le pouvoir li&#233; &#224; la terre et le DD du jet de sauvegarde est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Des excroissances de pierre sont incrust&#233;es dans les pieds de ce g&#233;ant au corps massif, tels des bernacles de roche.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+Les g&#233;ants des collines mythiques sont des reliques d’un &#226;ge ancien : ils sont plus intelligents que leurs cousins d&#233;g&#233;n&#233;r&#233;s et sont investis de la magie de la pierre et de la terre. Certains cherchent &#224; r&#233;gner, cr&#233;ant des tribus de leurs fr&#232;res non-mythiques et employant des &#234;tres de plus petite taille comme serfs. D’autres pr&#233;f&#232;rent vivre dans la solitude, ne tol&#233;rant aucune autre cr&#233;ature.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Géant des collines mythique|FP 9/RMY 3}
+{s:pucem|Humanoïde|Collines|Tempéré}
+{s:BDtexte|''Source : Campagnes mythiques p.199''}
+{s:BDtexte|'''PX''' 6 400}
+{s:BDtexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]], [[sous-type mythique|mythique]]) de taille G, CM}
+{s:BDtexte|'''Init''' -1 ; '''Sens''' [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +6}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 24, contact 8, pris au dépourvu 24 (+4 armure, -1 Dex, +12 naturelle, -1 taille)}
+{s:BDtexte|'''pv''' 119 (10d8+74)}
+{s:BDtexte|'''Réf''' +2, '''Vig''' +12, '''Vol''' +3}
+{s:BDtexte|'''Capacités défensives''' esprit obtus, [[Réception de rochers (capacité)|réception de rochers]] ; '''RD''' 5/[[RDépique|épique]]}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 9 m (12 m de base)}
+{s:BDtexte|'''Corps à corps''' massue, +16/+11 (2d8+12 plus croc-en-jambe) ou 2 coups, +14 (1d8+8)}
+{s:BDtexte|'''À distance''' rocher, +6 (1d8+12)}
+{s:BDtexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDtexte|'''Attaques spéciales''' [[Croc-en-jambe (capacité)|croc-en-jambe]] (massue), [[Lancer de rochers (capacité)|lancer de rochers]] (36 m), martèlement du sol, [[Pouvoir mythique (capacité)|pouvoir mythique]] (3/jour, [[Montée en puissance (capacité)|montée en puissance]] +1d6)}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 27, '''Dex''' 8, '''Con''' 21, '''Int''' 8, '''Sag''' 10, '''Cha''' 7}
+{s:BDtexte|'''BBA''' +7, '''BMO''' +16, '''DMD''' 25}
+{s:BDtexte|'''Dons''' [[Arme de prédilection]] (massue)<sup>M</sup>, [[Attaque en puissance]], [[Enchaînement]]<sup>M</sup>, [[Force intimidante]], [[Maniement dune arme de guerre|Maniement d'une arme de guerre]] (massue)}
+{s:BDtexte|'''Compétences''' [[Escalade]] +11, [[Intimidation]] +13, [[Perception]] +6}
+{s:BDtexte|'''Langues''' géant}
+{s:BDtexte|'''Particularités''' lié à la terre}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' collines tempérées}
+{s:BDtexte|'''Organisation sociale''' solitaire, gang (2-5), groupe (6-8), groupe d’assaut (9- 12 plus 1d4 [[Loup sanguinaire|loups sanguinaires]]) ou tribu (13-30 plus 35% de non-combattants plus 1 chef [[barbare]] ou [[guerrier]] de niveau 4 à 6, 11-16 loups sanguinaires, 1-4 ogres et 13-20 esclaves [[Orque|orques]])}
+{s:BDtexte|'''Trésor''' standard ([[armure de peau (armure)|armure de peau]], [[massue (arme)|massue]], autre trésor)}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Esprit obtus (Ext).''' Si le géant des collines mythique rate son [[jds|jet de sauvegarde]] contre un [[effet mental]] hostile, il dépense automatiquement une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] (s’il en a) au début de son tour par une [[action libre]] pour refaire son jet contre l’effet. Il refait son jet pour chaque effet mental en cours à chaque tour.}
+{s:BDtexte|'''Lié à la terre (Ext).''' Le géant des collines mythique gagne un bonus de +2 aux [[jet dattaque|jets d’attaque]], [[Valeurs de combat#DEGATS|de dégâts]] des armes et [[jds|de sauvegarde]] lorsqu’il touche le sol (même un sol de pierre ou de terre à l’intérieur d’un bâtiment). Par une [[action simple]], un géant des collines qui touche le sol peut dépenser une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] pour se régénérer, bénéficiant des effets de ''[[soins intensifs]]'' et de ''[[restauration]]''.}
+{s:BDtexte|'''Martèlement du sol (Ext).''' Par une [[action simple]], le géant des collines mythique peut dépenser une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] et frapper le sol avec une arme contondante. Choisissez une intersection à portée : les créatures qui touchent le sol dans un rayon de 6 mètres centré sur cette intersection reçoivent le double des dégâts qu’inflige normalement l’arme contondante ([[Réflexes]] [[DD]] 23 1/2 dégâts). Les créatures qui ratent leur jet tombent [[à terre]] et sont éjectées à 1,50 mètre de l’intersection choisie. Ce pouvoir n’a aucun effet sur les créatures ayant le pouvoir lié à la terre et le DD du jet de sauvegarde est basé sur la [[Force]].}
+</div>
+</td>
+<td>
+<div>
+''Des excroissances de pierre sont incrustées dans les pieds de ce géant au corps massif, tels des bernacles de roche.''
+
+
+Les géants des collines mythiques sont des reliques d’un âge ancien : ils sont plus intelligents que leurs cousins dégénérés et sont investis de la magie de la pierre et de la terre. Certains cherchent à régner, créant des tribus de leurs frères non-mythiques et employant des êtres de plus petite taille comme serfs. D’autres préfèrent vivre dans la solitude, ne tolérant aucune autre créature.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Géant des collines mythique</fullName>
+</wikiPage>

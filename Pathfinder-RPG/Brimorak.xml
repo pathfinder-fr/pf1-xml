@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Démon, Brimorak</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Livre des damnés</category></categories>
+  <lastModified>2024-06-26 07:53:25Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Adepte démoniaque</link><link>Pathfinder-RPG.Crevasse dévastatrice</link><link>Pathfinder-RPG.Démon</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Livre des damnés 1 (Contenu)</link><link>Pathfinder-RPG.Temp-Bestiaire du Livre des damnés</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type démon</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Métal brûlant</link><link>Pathfinder-RPG.Flammes</link><link>Pathfinder-RPG.Marche dans les airs</link><link>Pathfinder-RPG.Boule de feu</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Démon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Brimorak&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Livre des damn&#233;s page 124&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-D&#233;mon.html&quot; title=&quot;D&#233;mon (sous-type)&quot;&gt;d&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;chaos&lt;/a&gt;) de taille P, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#201;FENSE&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 14, pris au d&#233;pourvu 15 (Dex +3, naturelle +4, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 57 (6d10+24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; sang bouillant, Aura souffle de fum&#233;e (1,50 m, DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/fer froid ou Bien
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, feu
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, froid 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RM&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au froid
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;ATTAQUE&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e longue, +11/+6 (1d6+3/19-20 plus 1d6 feu) et sabot, +5 (1d3+1, plus 1d6 feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; souffle (ligne de 6 m de sang bouillant, 5d6 d&#233;g&#226;ts de feu, R&#233;flexes DD 17 1/2 d&#233;g&#226;ts, utilisable tous les 1d4 rounds), sabots de feu
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6 ; concentration +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour – &lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tal-Br&#251;lant.html&quot; title=&quot;M&#233;tal br&#251;lant&quot;&gt;m&#233;tal br&#251;lant&lt;/a&gt; (DD 14), &lt;a class=&quot;pagelink&quot; href=&quot;Flammes.html&quot; title=&quot;Flammes&quot;&gt;flammes&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour – &lt;a class=&quot;pagelink&quot; href=&quot;Marche-Dans-Les-Airs.html&quot; title=&quot;Marche dans les airs&quot;&gt;marche dans les airs&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Boule-De-Feu.html&quot; title=&quot;Boule de feu&quot;&gt;boule de feu&lt;/a&gt; (DD 15), &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt; (soi-m&#234;me et 25 kg d’objets uniquement), convocation (niveau 3, 1 brimorak, 50%)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;CARACT&#201;RISTIQUES&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6 ; &lt;b&gt;BMO&lt;/b&gt; +8, &lt;b&gt;DMD&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (&#233;p&#233;e longue), &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, +11, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16,
+&lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (ing&#233;nierie) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +10,
+&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, draconique, ign&#233; ; t&#233;l&#233;pathie 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; arme de feu
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;&#201;COLOGIE&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement quelconque&lt;/b&gt; (Abysses ; r&#233;gions volcaniques)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, bande (2-6) ou section (7-16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&#233;p&#233;e longue, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;CAPACIT&#201;S SP&#201;CIALES&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sang bouillant (Sur).&lt;/b&gt; Le sang d’un brimorak est en perp&#233;tuelle &#233;bullition.
+Il peut cracher ce fluide immonde et br&#251;lant, que l’on traite
+comme une attaque de souffle, mais ce sang am&#233;liore &#233;galement
+ses capacit&#233;s d&#233;fensives. Une cr&#233;ature qui inflige des d&#233;g&#226;ts &#224; un
+brimorak &#224; l’aide d’une arme tranchante ou perforante est &#233;clabouss&#233;e
+de sang bouillant et subit 1d4 points de d&#233;g&#226;ts de feu &#224;
+chaque fois qu’elle parvient &#224; le toucher avec ces deux cat&#233;gories
+d’armes. Les cr&#233;atures qui manipulent des armes &#224; allonge ne
+subissent pas ces d&#233;g&#226;ts.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sabots enflamm&#233;s (Sur).&lt;/b&gt; Les sabots d’un brimorak sont en feu et
+laissent des traces noircies de son passage sur les surfaces en
+bois et en pierre et sur la plupart des sols solides. Ce feu surnaturel
+ne met cependant pas le feu aux surfaces sur lesquelles
+marche le d&#233;mon. Il est ainsi plus facile de pister un brimorak ;
+les tests de Survie effectu&#233;s pour le traquer b&#233;n&#233;ficient d’un bonus
+de circonstances de +8. Ils utilisent leur pouvoir de marche
+dans les airs pour emp&#234;cher leurs adversaires de remonter leurs
+piste ou pour provoquer peur et terreur en laissant des marques
+sur des surfaces incongrues (sur les toits, par exemple). Si l’adversaire
+du brimorak est &#224; terre, le d&#233;mon peut effectuer deux
+attaques de sabot au lieu d’une seule.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Arme de feu (Sur).&lt;/b&gt; Par une action libre, un brimorak peut embraser
+une arme de corps &#224; corps qu’il manipule (y compris une arme &#224;
+deux mains, mais pas une deuxi&#232;me arme port&#233;e dans sa main
+non-directrice). Cette arme inflige alors 1d6 points de d&#233;g&#226;ts de
+feu suppl&#233;mentaires. Ces d&#233;g&#226;ts se cumulent avec les &#233;ventuels
+points de d&#233;g&#226;ts de feu que l’arme peut infliger par ailleurs.
+L’arme perd cette capacit&#233; si le d&#233;mon la l&#226;che.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle de fum&#233;e (Sur).&lt;/b&gt; Un brimorak peut expirer des bourrasques
+de fum&#233;e naus&#233;abondes. Ces bourrasques l’entourent sur un
+rayon de 1,50 m&#232;tre. Elles ne sont pas suffisamment opaques ou
+nocives pour obscurcir la vision ou &#233;touffer les individus situ&#233;s
+&#224; proximit&#233;, mais leur toxicit&#233; rend fi&#233;vreuses les cr&#233;atures non
+immunis&#233;es aux poisons. Un jet de Vigueur DD 17 immunise au
+souffle d’un brimorak en particulier pendant 24 heures. Le DD du
+jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;mon.html&quot; title=&quot;Les d&#233;mons&quot;&gt;d&#233;mons&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Mesurant &#224; peine un m&#232;tre, cet humano&#239;de, aux traits bestiaux et &#224; la
+peau gris-bleu agr&#233;ment&#233;e d’&#233;tranges rayures enroul&#233;es, porte des robes
+crasseuses et d&#233;penaill&#233;es. Une fourrure sombre couvre sa t&#234;te et ses bras
+et ses jambes se terminent par des sabots en feu. Ses yeux rougeoient
+aussi intens&#233;ment que l’&#233;p&#233;e enflamm&#233;e qu’il brandit d’une main et son
+souffle envahit l’air ambiant d’une fum&#233;e grise et toxique.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les brimoraks sont petits et d&#233;passent rarement les 90
+centim&#232;tres, mais ils sont &#233;tonnamment forts malgr&#233; leur petite
+taille. Ceux qui sous-estiment ces d&#233;mons ne vivent g&#233;n&#233;ralement
+pas assez longtemps pour apprendre de leurs erreurs, car les
+brimoraks exploitent au plus vite le moindre de leurs avantages
+lorsqu’ils affrontent des ennemis plus grands qu’eux, apr&#232;s les
+avoir affaiblis &#224; l’aide de leur magie du feu. Un brimorak typique
+p&#232;se pr&#232;s de 100 kilos &#224; cause de sa musculature et son ossature
+particuli&#232;rement compactes.
+&lt;/div&gt;&lt;br /&gt;&lt;div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_0&quot; href=&quot;#&#201;cologie_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les brimoraks prennent forme &#224; partir des &#226;mes de pyromanes
+et de ceux qui ont manipul&#233; le feu de leur vivant pour torturer et
+tuer d’innocentes victimes, surtout des sorci&#232;res, des h&#233;r&#233;tiques
+et divers &#171; criminels &#187; du m&#234;me type, en les br&#251;lant sur un
+b&#251;cher.
+Le feu ne blesse pas un brimorak, mais il ressent la douleur
+qu’il provoque et le bouillonnement de son propre sang lui rappelle
+constamment les p&#233;ch&#233;s de sa pr&#233;c&#233;dente vie. Cette douleur constante est quelque peu apais&#233;e lorsque qu’il utilise l’un
+de ses pouvoirs magiques bas&#233;s sur le feu ou qu’il souffle ; m&#234;me
+si cette particularit&#233; n’a aucun effet en termes de jeu, ce soulagement
+momentan&#233; le pousse &#224; souffler et &#224; utiliser sa magie
+d&#232;s que possible pendant les combats. Beaucoup de brimoraks
+deviennent masochistes &#224; cause de cette douleur perp&#233;tuelle. En
+combat, ils montrent peu, voire aucun instinct de survie et n’h&#233;sitent
+pas &#224; provoquer des attaques d’opportunit&#233; et &#224; ignorer
+des adversaires dangereux pour s’en prendre &#224; un ennemi sans
+d&#233;fense. Ce m&#233;pris pour leur survie ne va cependant pas jusqu’&#224;
+un comportement v&#233;ritablement autodestructeur ; un brimorak
+qui a perdu plus de la moiti&#233; de ses points de vie devient soudainement
+plus prudent. &#192; la diff&#233;rence de la plupart des d&#233;mons
+qui peuvent se t&#233;l&#233;porter &#224; volont&#233;, les brimoraks peuvent utiliser
+ce pouvoir magique seulement une fois par jour et l’utilisent
+le plus souvent pour se mettre hors de danger plut&#244;t que pour
+tendre des embuscades &#224; leurs adversaires.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Habitat et soci&#233;t&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Habitat_et_soci&#233;t&#233;_1&quot; href=&quot;#Habitat_et_soci&#233;t&#233;_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Dans les Abysses, les brimoraks sont souvent des contrema&#238;tres,
+des brutes ou des soldats au service de d&#233;mons plus puissants.
+Ils ne connaissent pratiquement rien d’autre que le combat et
+lorsqu’ils ne se rassemblent pas pour attaquer un ennemi, ils
+ont tendance &#224; se battre sans arr&#234;t entre eux pour prouver
+leur sup&#233;riorit&#233;.
+Sur le Plan mat&#233;riel cependant, les brimoraks occupent
+des places de commandement beaucoup plus
+importantes. La plupart sont appel&#233;s par les sorts d’alli&#233;
+d’outreplan ou de contrat pour servir des lanceurs de
+sorts mortels, certains &#233;chappent au contr&#244;le de leur
+invocateur et d&#233;cident de rester sur Golarion. D&#233;barrass&#233;s
+de leurs seigneurs d&#233;moniaques et des invocateurs
+contraignants, les brimoraks libres sur le Plan mat&#233;riel
+ont bien conscience de leur statut de monstre et s’adaptent
+intelligemment. Ils ne se lancent pas sans r&#233;fl&#233;chir dans une
+orgie d’incendies criminels et de destruction et commencent
+avant tout par se cacher. Ils pr&#233;f&#232;rent r&#244;der dans les catacombes,
+les &#233;gouts et les quartiers pauvres et d&#233;labr&#233;s des grandes villes
+ou dans les territoires sauvages d&#233;sert&#233;s. Un brimorak livr&#233; &#224;
+lui-m&#234;me cherche g&#233;n&#233;ralement une tribu d’humano&#239;des
+sauvages, comme des gobelins, des orques, des gnolls ou des
+barbares, et impose son autorit&#233; en tuant le chef, plusieurs des
+membres les plus puissants de la tribu… jusqu’&#224; ce que les survivants
+se plient &#224; ses ordres.
+Par cons&#233;quent, la majorit&#233; des brimoraks rencontr&#233;s sur le
+Plan mat&#233;riel sont souvent des solitaires &#224; la t&#234;te de tribus d’humano&#239;des
+f&#233;conds et agressifs. Souvent, lorsqu’un brimorak parvient
+&#224; s’imposer dans une tribu d’humano&#239;des particuli&#232;rement
+superstitieux, il est consid&#233;r&#233; &#224; la fois comme un chef et comme
+un dieu que ses fid&#232;les, na&#239;fs, v&#233;n&#232;rent par peur et par ignorance.
+Bien entendu, le brimorak profite amplement de la situation et
+exige de nombreux sacrifices de la part de ses fid&#232;les. Il utilise
+ses capacit&#233;s d&#233;fensives et ses pouvoirs magiques pour accomplir
+des &#171; miracles &#187; et punit r&#233;guli&#232;rement quelques fid&#232;les qui
+auraient bafou&#233; des pr&#233;ceptes imaginaires ou r&#233;els. Une fois la
+tribu compl&#232;tement terrifi&#233;e et soumise au brimorak, il peut
+profiter des joies du carnage en lan&#231;ant la t&#234;te d’une croisade insens&#233;e
+destin&#233;e &#224; br&#251;ler les b&#226;timents et les membres des tribus
+voisines. Le brimorak pousse ses soldats au combat jusqu’&#224; ce
+que sa tribu soit d&#233;truite ou que des adversaires plus puissants
+parviennent &#224; les stopper. Les brimoraks qui se retrouvent enfin
+face &#224; des adversaires capables de les tuer ne s’attardent pas pour
+d&#233;fendre leurs fid&#232;les et pr&#233;f&#232;rent se t&#233;l&#233;porter vers d’autres
+r&#233;gions, o&#249; ils pourront r&#233;it&#233;rer le processus en cherchant une
+nouvelle tribu de sauvages &#224; mener &#224; sa perte.&lt;br /&gt;&lt;br /&gt;M&#234;me s’ils se cantonnent essentiellement aux r&#233;gions des
+Abysses envahies par le feu et la fum&#233;e, ils sont g&#233;n&#233;ralement
+tr&#232;s nombreux dans ces endroits. Les seigneurs d&#233;mons comme
+Flauros recrutent les brimoraks dans leurs arm&#233;es abyssales
+d’infanterie. Leur pouvoir sur le feu r&#233;duit leur efficacit&#233;
+lorsqu’ils sont confront&#233;s &#224; la plupart des fi&#233;lons, mais ils
+s’av&#232;rent particuli&#232;rement d&#233;vastateurs contre d’autres types d’adversaires.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Brimorak|FP 5}
+{s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
+{s:BDTexte|''Source : Livre des damnés page 124''}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type démon|démon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Chaos|chaos]]) de taille P, CM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m ; [[Perception]] +10}
+(((DÉFENSE)))
+{s:BDTexte|'''CA''' 18, contact 14, pris au dépourvu 15 (Dex +3, naturelle +4, taille +1)}
+{s:BDTexte|'''pv''' 57 (6d10+24)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +9, '''Vol''' +3}
+{s:BDTexte|'''Capacités défensives''' sang bouillant, Aura souffle de fumée (1,50 m, DD 17)}
+{s:BDTexte|'''RD''' 5/fer froid ou Bien}
+{s:BDTexte|'''Immunités''' électricité, feu}
+{s:BDTexte|'''Résistances''' acide 10, froid 10}
+{s:BDTexte|'''RM''' 16}
+{s:BDTexte|'''Faiblesses''' [[Vulnérabilités (capacité)|vulnérabilité]] au froid}
+(((ATTAQUE)))
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' épée longue, +11/+6 (1d6+3/19-20 plus 1d6 feu) et sabot, +5 (1d3+1, plus 1d6 feu)}
+{s:BDTexte|'''Attaques spéciales''' souffle (ligne de 6 m de sang bouillant, 5d6 dégâts de feu, Réflexes DD 17 1/2 dégâts, utilisable tous les 1d4 rounds), sabots de feu}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6 ; concentration +8)}
+{s:BDSorts|3/jour – [[dissipation de la magie]], [[métal brûlant]] (DD 14), [[flammes]]}
+{s:BDSorts|1/jour – [[marche dans les airs]], [[boule de feu]] (DD 15), [[téléportation suprême]] (soi-même et 25 kg d’objets uniquement), convocation (niveau 3, 1 brimorak, 50%)}
+(((CARACTÉRISTIQUES)))
+{s:BDTexte|'''For''' 17, '''Dex''' 16, '''Con''' 19, '''Int''' 12, '''Sag''' 12, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +8, '''DMD''' 21}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (épée longue), [[Magie de guerre]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +12, [[Bluff]], +11, [[Discrétion]] +16,
+[[Connaissances]] (ingénierie) +10, [[Connaissances]] (plans) +10,
+[[Perception]] +18, [[Psychologie]] +10}
+{s:BDTexte|'''Modificateurs raciaux''' +8 en [[Perception]]}
+{s:BDTexte|'''Langues''' abyssal, céleste, draconique, igné ; télépathie 30 m}
+{s:BDTexte|'''Particularités''' arme de feu}
+(((ÉCOLOGIE)))
+{s:BDTexte|'''Environnement quelconque''' (Abysses ; régions volcaniques)}
+{s:BDTexte|'''Organisation sociale''' solitaire, bande (2-6) ou section (7-16)}
+{s:BDTexte|'''Trésor''' standard (épée longue, autres trésors)}
+(((CAPACITÉS SPÉCIALES)))
+{s:BDTexte|'''Sang bouillant (Sur).''' Le sang d’un brimorak est en perpétuelle ébullition.
+Il peut cracher ce fluide immonde et brûlant, que l’on traite
+comme une attaque de souffle, mais ce sang améliore également
+ses capacités défensives. Une créature qui inflige des dégâts à un
+brimorak à l’aide d’une arme tranchante ou perforante est éclaboussée
+de sang bouillant et subit 1d4 points de dégâts de feu à
+chaque fois qu’elle parvient à le toucher avec ces deux catégories
+d’armes. Les créatures qui manipulent des armes à allonge ne
+subissent pas ces dégâts.}
+{s:BDTexte|'''Sabots enflammés (Sur).''' Les sabots d’un brimorak sont en feu et
+laissent des traces noircies de son passage sur les surfaces en
+bois et en pierre et sur la plupart des sols solides. Ce feu surnaturel
+ne met cependant pas le feu aux surfaces sur lesquelles
+marche le démon. Il est ainsi plus facile de pister un brimorak ;
+les tests de Survie effectués pour le traquer bénéficient d’un bonus
+de circonstances de +8. Ils utilisent leur pouvoir de marche
+dans les airs pour empêcher leurs adversaires de remonter leurs
+piste ou pour provoquer peur et terreur en laissant des marques
+sur des surfaces incongrues (sur les toits, par exemple). Si l’adversaire
+du brimorak est à terre, le démon peut effectuer deux
+attaques de sabot au lieu d’une seule.}
+{s:BDTexte|'''Arme de feu (Sur).''' Par une action libre, un brimorak peut embraser
+une arme de corps à corps qu’il manipule (y compris une arme à
+deux mains, mais pas une deuxième arme portée dans sa main
+non-directrice). Cette arme inflige alors 1d6 points de dégâts de
+feu supplémentaires. Ces dégâts se cumulent avec les éventuels
+points de dégâts de feu que l’arme peut infliger par ailleurs.
+L’arme perd cette capacité si le démon la lâche.}
+{s:BDTexte|'''Souffle de fumée (Sur).''' Un brimorak peut expirer des bourrasques
+de fumée nauséabondes. Ces bourrasques l’entourent sur un
+rayon de 1,50 mètre. Elles ne sont pas suffisamment opaques ou
+nocives pour obscurcir la vision ou étouffer les individus situés
+à proximité, mais leur toxicité rend fiévreuses les créatures non
+immunisées aux poisons. Un jet de Vigueur DD 17 immunise au
+souffle d’un brimorak en particulier pendant 24 heures. Le DD du
+jet de sauvegarde est basé sur la Constitution.}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Démon|démons]].'''''</li></ul>
+''Mesurant à peine un mètre, cet humanoïde, aux traits bestiaux et à la
+peau gris-bleu agrémentée d’étranges rayures enroulées, porte des robes
+crasseuses et dépenaillées. Une fourrure sombre couvre sa tête et ses bras
+et ses jambes se terminent par des sabots en feu. Ses yeux rougeoient
+aussi intensément que l’épée enflammée qu’il brandit d’une main et son
+souffle envahit l’air ambiant d’une fumée grise et toxique.''
+
+Les brimoraks sont petits et dépassent rarement les 90
+centimètres, mais ils sont étonnamment forts malgré leur petite
+taille. Ceux qui sous-estiment ces démons ne vivent généralement
+pas assez longtemps pour apprendre de leurs erreurs, car les
+brimoraks exploitent au plus vite le moindre de leurs avantages
+lorsqu’ils affrontent des ennemis plus grands qu’eux, après les
+avoir affaiblis à l’aide de leur magie du feu. Un brimorak typique
+pèse près de 100 kilos à cause de sa musculature et son ossature
+particulièrement compactes.
+</div>
+
+<div>
+====Écologie====
+Les brimoraks prennent forme à partir des âmes de pyromanes
+et de ceux qui ont manipulé le feu de leur vivant pour torturer et
+tuer d’innocentes victimes, surtout des sorcières, des hérétiques
+et divers « criminels » du même type, en les brûlant sur un
+bûcher.
+Le feu ne blesse pas un brimorak, mais il ressent la douleur
+qu’il provoque et le bouillonnement de son propre sang lui rappelle
+constamment les péchés de sa précédente vie. Cette douleur constante est quelque peu apaisée lorsque qu’il utilise l’un
+de ses pouvoirs magiques basés sur le feu ou qu’il souffle ; même
+si cette particularité n’a aucun effet en termes de jeu, ce soulagement
+momentané le pousse à souffler et à utiliser sa magie
+dès que possible pendant les combats. Beaucoup de brimoraks
+deviennent masochistes à cause de cette douleur perpétuelle. En
+combat, ils montrent peu, voire aucun instinct de survie et n’hésitent
+pas à provoquer des attaques d’opportunité et à ignorer
+des adversaires dangereux pour s’en prendre à un ennemi sans
+défense. Ce mépris pour leur survie ne va cependant pas jusqu’à
+un comportement véritablement autodestructeur ; un brimorak
+qui a perdu plus de la moitié de ses points de vie devient soudainement
+plus prudent. À la différence de la plupart des démons
+qui peuvent se téléporter à volonté, les brimoraks peuvent utiliser
+ce pouvoir magique seulement une fois par jour et l’utilisent
+le plus souvent pour se mettre hors de danger plutôt que pour
+tendre des embuscades à leurs adversaires.
+
+====Habitat et société====
+Dans les Abysses, les brimoraks sont souvent des contremaîtres,
+des brutes ou des soldats au service de démons plus puissants.
+Ils ne connaissent pratiquement rien d’autre que le combat et
+lorsqu’ils ne se rassemblent pas pour attaquer un ennemi, ils
+ont tendance à se battre sans arrêt entre eux pour prouver
+leur supériorité.
+Sur le Plan matériel cependant, les brimoraks occupent
+des places de commandement beaucoup plus
+importantes. La plupart sont appelés par les sorts d’allié
+d’outreplan ou de contrat pour servir des lanceurs de
+sorts mortels, certains échappent au contrôle de leur
+invocateur et décident de rester sur Golarion. Débarrassés
+de leurs seigneurs démoniaques et des invocateurs
+contraignants, les brimoraks libres sur le Plan matériel
+ont bien conscience de leur statut de monstre et s’adaptent
+intelligemment. Ils ne se lancent pas sans réfléchir dans une
+orgie d’incendies criminels et de destruction et commencent
+avant tout par se cacher. Ils préfèrent rôder dans les catacombes,
+les égouts et les quartiers pauvres et délabrés des grandes villes
+ou dans les territoires sauvages désertés. Un brimorak livré à
+lui-même cherche généralement une tribu d’humanoïdes
+sauvages, comme des gobelins, des orques, des gnolls ou des
+barbares, et impose son autorité en tuant le chef, plusieurs des
+membres les plus puissants de la tribu… jusqu’à ce que les survivants
+se plient à ses ordres.
+Par conséquent, la majorité des brimoraks rencontrés sur le
+Plan matériel sont souvent des solitaires à la tête de tribus d’humanoïdes
+féconds et agressifs. Souvent, lorsqu’un brimorak parvient
+à s’imposer dans une tribu d’humanoïdes particulièrement
+superstitieux, il est considéré à la fois comme un chef et comme
+un dieu que ses fidèles, naïfs, vénèrent par peur et par ignorance.
+Bien entendu, le brimorak profite amplement de la situation et
+exige de nombreux sacrifices de la part de ses fidèles. Il utilise
+ses capacités défensives et ses pouvoirs magiques pour accomplir
+des « miracles » et punit régulièrement quelques fidèles qui
+auraient bafoué des préceptes imaginaires ou réels. Une fois la
+tribu complètement terrifiée et soumise au brimorak, il peut
+profiter des joies du carnage en lançant la tête d’une croisade insensée
+destinée à brûler les bâtiments et les membres des tribus
+voisines. Le brimorak pousse ses soldats au combat jusqu’à ce
+que sa tribu soit détruite ou que des adversaires plus puissants
+parviennent à les stopper. Les brimoraks qui se retrouvent enfin
+face à des adversaires capables de les tuer ne s’attardent pas pour
+défendre leurs fidèles et préfèrent se téléporter vers d’autres
+régions, où ils pourront réitérer le processus en cherchant une
+nouvelle tribu de sauvages à mener à sa perte.
+
+Même s’ils se cantonnent essentiellement aux régions des
+Abysses envahies par le feu et la fumée, ils sont généralement
+très nombreux dans ces endroits. Les seigneurs démons comme
+Flauros recrutent les brimoraks dans leurs armées abyssales
+d’infanterie. Leur pouvoir sur le feu réduit leur efficacité
+lorsqu’ils sont confrontés à la plupart des fiélons, mais ils
+s’avèrent particulièrement dévastateurs contre d’autres types d’adversaires.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Brimorak</fullName>
+</wikiPage>

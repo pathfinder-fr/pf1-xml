@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Canalisation armée</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don combat</category></categories>
+  <lastModified>2016-11-20 20:39:34Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Canalisation de force</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.Dons des classes avancées</link><link>Pathfinder-RPG.Manuel des joueurs - Classes avancées (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons - Temp</link><link>Pathfinder-RPG.Tableau récapitulatif des dons des classes avancées</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action rapide</link></outLinks>
+  <body><![CDATA[&lt;i&gt;Le personnage distille son &#233;nergie canalis&#233;e dans un &#233;cran de force qui entoure son arme pendant une p&#233;riode limit&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCOMBAT&quot; title=&quot;Les dons&quot;&gt;combat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions requises.&lt;/b&gt; Capacit&#233; &#224; lancer au moins un sort de force, pouvoir de classe &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html#CANALISATIONDENERGIE&quot; title=&quot;Le pr&#234;tre&quot;&gt;canalisation d’&#233;nergie&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;, le personnage peut d&#233;penser une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html#CANALISATIONDENERGIE&quot; title=&quot;Le pr&#234;tre&quot;&gt;canalisation d’&#233;nergie&lt;/a&gt; pour accorder un bonus aux jets de d&#233;g&#226;ts de ses attaques arm&#233;es &#233;gal au nombre de d&#233;s de sa &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html#CANALISATIONDENERGIE&quot; title=&quot;Le pr&#234;tre&quot;&gt;canalisation d’&#233;nergie&lt;/a&gt;. Ces d&#233;g&#226;ts suppl&#233;mentaires sont des d&#233;g&#226;ts de force. Ce pouvoir dure le temps des trois prochaines attaques arm&#233;es du personnage ou jusqu’&#224; la fin du combat (ce qui arrive en premier).&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;ce don initialement nomm&#233; Canalisation de force a &#233;t&#233; renomm&#233; en raison du fait que la version fran&#231;aise utilise d&#233;j&#224; ce nom pour un don racial des aasimars&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[''Le personnage distille son énergie canalisée dans un écran de force qui entoure son arme pendant une période limitée.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions requises.''' Capacité à lancer au moins un sort de force, pouvoir de classe [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]].
+
+'''Avantage.''' Par une [[action rapide]], le personnage peut dépenser une utilisation de [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] pour accorder un bonus aux jets de dégâts de ses attaques armées égal au nombre de dés de sa [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]]. Ces dégâts supplémentaires sont des dégâts de force. Ce pouvoir dure le temps des trois prochaines attaques armées du personnage ou jusqu’à la fin du combat (ce qui arrive en premier).
+
+{s:Desambi|ce don initialement nommé Canalisation de force a été renommé en raison du fait que la version française utilise déjà ce nom pour un don racial des aasimars}]]></raw>
+  <fullName>Pathfinder-RPG.Canalisation armée</fullName>
+</wikiPage>

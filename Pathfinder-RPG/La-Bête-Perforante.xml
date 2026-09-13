@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Héraut, La Bête perforante</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-08-28 15:45:34Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type héraut</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.Détection de linvisibilité</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision dans les ténèbres (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vision à 360° (capacité)</link><link>Pathfinder-RPG.Poison (capacité)</link><link>Pathfinder-RPG.Saignement (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Affûtage</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Contact absorbant</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.Empoisonnement</link><link>Pathfinder-RPG.Transmission alchimique</link><link>Pathfinder-RPG.Convocation (capacité)</link><link>Pathfinder-RPG.Scorpion piégeur</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Faux alibi</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Modification de mémoire</link><link>Pathfinder-RPG.Suggestion</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Attaque éclair</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Combat à deux armes</link><link>Pathfinder-RPG.École du scorpion</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Feinte supérieure</link><link>Pathfinder-RPG.Parade de projectiles</link><link>Pathfinder-RPG.Science de la feinte</link><link>Pathfinder-RPG.Science de la volonté de fer</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Changement de forme</link><link>Pathfinder-RPG.épée courte (arme)</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.round de surprise</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.points de vie temporaires</link><link>Pathfinder-RPG.acérée (propriété)</link><link>Pathfinder-RPG.Norgorber (technique)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;La B&#234;te perforante&lt;div style=&quot;float:right;&quot;&gt;FP 15&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Dieux-De-La-Mer-Int&#233;rieure-(Contenu).html&quot; title=&quot;Dieux de la mer Int&#233;rieure (Contenu)&quot;&gt;Dieux de la mer Int&#233;rieure p.300&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 51 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-H&#233;raut.html&quot; title=&quot;H&#233;raut (sous-type)&quot;&gt;h&#233;raut&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +16 ; &lt;b&gt;Sens&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l&#39;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Les-T&#233;n&#232;bres-(Capacit&#233;).html&quot; title=&quot;Vision dans les t&#233;n&#232;bres (Sur)&quot;&gt;vision dans les t&#233;n&#232;bres&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +26
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 31, contact 23, pris au d&#233;pourvu 18 (Dex +12, esquive +1, naturelle +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 212 (17d10+119)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +17, &lt;b&gt;Vig&lt;/b&gt; +17, &lt;b&gt;Vol&lt;/b&gt; +14 ; +4 contre les effets mentaux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-&#192;-360&#176;-(Capacit&#233;).html&quot; title=&quot;Vision &#224; 360&#176; (Ext)&quot;&gt;vision &#224; 360&#176;&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; poison ; &lt;b&gt;RD&lt;/b&gt; 10/Bien et magie ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 30, &#233;lectricit&#233; 10, feu 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 26
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;&#233;p&#233;e courte ac&#233;r&#233;e +1&lt;/i&gt;, +28/+28/+23/+18/+13 (1d6+4/17–20 plus saignement), dard, +24 (1d6+4 plus poison et saignement)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; jet empoisonn&#233;, +29 contact (aveuglement 1d4+1 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; frappe soudaine, &lt;a class=&quot;pagelink&quot; href=&quot;Poison-(Capacit&#233;).html&quot; title=&quot;Poison (Ext ou Sur)&quot;&gt;poison&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt; (2d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 17 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Linvisibilit&#233;.html&quot; title=&quot;D&#233;tection de l&amp;#39;invisibilit&#233;&quot;&gt;d&#233;tection de l&#39;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aff&#251;tage.html&quot; title=&quot;Aff&#251;tage&quot;&gt;aff&#251;tage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contact-Absorbant.html&quot; title=&quot;Contact absorbant&quot;&gt;contact absorbant&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Empoisonnement.html&quot; title=&quot;Empoisonnement&quot;&gt;empoisonnement&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transmission-Alchimique.html&quot; title=&quot;Transmission alchimique&quot;&gt;transmission alchimique&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-(Capacit&#233;).html&quot; title=&quot;Convocation (Mag)&quot;&gt;convocation&lt;/a&gt;&lt;/i&gt; (niveau 6, 1 &lt;a class=&quot;pagelink&quot; href=&quot;Scorpion-Pi&#233;geur.html&quot; title=&quot;Scorpion, Scorpion pi&#233;geur&quot;&gt;scorpion pi&#233;geur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREFIELONE&quot; title=&quot;Les arch&#233;types&quot;&gt;fi&#233;lon&lt;/a&gt; 100%), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faux-Alibi.html&quot; title=&quot;Faux alibi&quot;&gt;faux alibi&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-De-M&#233;moire.html&quot; title=&quot;Modification de m&#233;moire&quot;&gt;modification de m&#233;moire&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Suggestion.html&quot; title=&quot;Suggestion&quot;&gt;suggestion&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt; (soi-m&#234;me plus 25 kg d&#39;objets uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 35, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +17 ; &lt;b&gt;BMO&lt;/b&gt; +20 ; &lt;b&gt;DMD&lt;/b&gt; 43
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-&#201;clair.html&quot; title=&quot;Attaque &#233;clair&quot;&gt;Attaque &#233;clair&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-&#192;-Deux-Armes.html&quot; title=&quot;Combat &#224; deux armes&quot;&gt;Combat &#224; deux armes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;cole-Du-Scorpion.html&quot; title=&quot;&#201;cole du scorpion&quot;&gt;&#201;cole du scorpion&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Feinte-Sup&#233;rieure.html&quot; title=&quot;Feinte sup&#233;rieure&quot;&gt;Feinte sup&#233;rieure&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Parade-De-Projectiles.html&quot; title=&quot;Parade de projectiles&quot;&gt;Parade de projectiles&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Feinte.html&quot; title=&quot;Science de la feinte&quot;&gt;Science de la feinte&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Volont&#233;-De-Fer.html&quot; title=&quot;Science de la volont&#233; de fer&quot;&gt;Science de la volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +12, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +32, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res, nature) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +26, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +13 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Perception, +8 en Bluff
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, commun, infernal, prot&#233;en ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; &#224; 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; (scorpion de taille TG ou &lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; &#224; queue de scorpion ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme.html&quot; title=&quot;Changement de forme&quot;&gt;changement de forme&lt;/a&gt;&lt;/i&gt;), prime du meurtrier
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre (Axis)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (2 &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;p&#233;e-Courte-(Arme).html&quot; title=&quot;&#201;p&#233;e courte&quot;&gt;&#233;p&#233;es courtes&lt;/a&gt; +1&lt;/i&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Changement de forme (Sur).&lt;/b&gt; Sous sa forme de scorpion, remplacez ou ajoutez les statistiques suivantes : &lt;b&gt;Taille&lt;/b&gt; TG ; &lt;b&gt;CA&lt;/b&gt; 31, contact 21, pris au d&#233;pourvu 20 (Dex +10, esquive +1, naturelle +10) ; &lt;b&gt;R&#233;f&lt;/b&gt; +16 ; &lt;b&gt;Corps &#224; corps&lt;/b&gt; griffe, +28 (2d6+13 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt; et saignement), dard, +26 (2d6+11 plus poison et saignement) ; &lt;b&gt;Espace&lt;/b&gt; 4,5 m ; &lt;b&gt;Allonge&lt;/b&gt; 4,5 m ; &lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (2d6+12) ; &lt;b&gt;For&lt;/b&gt; 32, &lt;b&gt;Dex&lt;/b&gt; 31 ; &lt;b&gt;BMO&lt;/b&gt; +30 (+34 contre &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 53 (65 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; ; &lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +20.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Frappe soudaine (Ext).&lt;/b&gt; Pendant un &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;roulement-Dun-Combat#Roundsurprise.html&quot; title=&quot;round de surprise&quot;&gt;round de surprise&lt;/a&gt;, le h&#233;raut peut agir comme s&#39;il s&#39;agissait d&#39;un round complet, plut&#244;t que d&#39;&#234;tre limit&#233; &#224; une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Jet empoisonn&#233; (Ext).&lt;/b&gt; Par une attaque &#224; distance (ou &#224; la place d&#39;une attaque de dard au corps &#224; corps), la B&#234;te perforante peut tirer un jet de poison jusqu&#39;&#224; une distance de 54 m dans les yeux d&#39;un adversaire. La cible doit r&#233;ussir un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; contre le poison de la B&#234;te perforante ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Aveugl&#233;.html&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugl&#233;e&lt;/a&gt; pendant 1d4+1rounds.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Dard - blessure ; &lt;i&gt;jds&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 25 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; 1d6 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Prime du meurtrier (Sur).&lt;/b&gt; Si l&#39;attaque de la B&#234;te perforante r&#233;duit une cible &#224; moins de 0 point de vie, le h&#233;raut gagne imm&#233;diatement 2d6 &lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort#Pvtemporaires.html&quot; title=&quot;points de vie temporaires&quot;&gt;points de vie temporaires&lt;/a&gt; (ou 3d8, si l&#39;attaque tue la cible), mais pas plus que le maximum de points de vie de la cible. Les points de vie temporaires durent 1 heure.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Les 2 &lt;i&gt;&#233;p&#233;es courtes +1&lt;/i&gt; &#224; la ligne Tr&#233;sor devraient sans doute &#234;tre des &lt;i&gt;&#233;p&#233;es courtes &lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Ac&#233;r&#233;e.html&quot; title=&quot;ac&#233;r&#233;e (propri&#233;t&#233;)&quot;&gt;ac&#233;r&#233;es&lt;/a&gt; +1&lt;/i&gt;, comme celles d&#233;crites &#224; la ligne Corps &#224; corps.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Cet homme imposant, &#224; la queue de scorpion, marche avec une gr&#226;ce insonore et des intentions meurtri&#232;res.&#39;&#39;&lt;br /&gt;&lt;br /&gt;La B&#234;te perforante est le h&#233;raut de &lt;a class=&quot;pagelink&quot; href=&quot;Norgorber-(Technique).html&quot; title=&quot;Norgorber&quot;&gt;Norgorber&lt;/a&gt;, le dieu de l&#39;avidit&#233;, du meurtre, des secrets et du poison. C&#39;est un pr&#233;dateur incroyablement dangereux qui utilise son intelligence vive et son poison mortel pour traquer et tuer ses proies. Sa forme naturelle est celle d&#39;un &#233;norme scorpion, mais il peut aussi prendre une forme humano&#239;de blind&#233;e qui lui permet de se dissimuler ou d&#39;interagir avec les disciples de Norgorber. Bien que sa principale raison d&#39;&#234;tre sur Golarion soit de tuer, il a &#233;galement &#233;t&#233; appel&#233; pour aider &#224; commettre de grands vols et &#224; enterrer de terribles secrets.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|La Bête perforante|FP 15}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|''Source : [[Dieux de la mer Intérieure (Contenu)|Dieux de la mer Intérieure p.300]]''}
+{s:BDTexte|'''PX''' 51 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type héraut|héraut]], [[sous-type Mal|Mal]], [[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|'''Init''' +16 ; '''Sens''' ''[[détection de linvisibilité|détection de l'invisibilité]]'', [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision dans les ténèbres (capacité)|vision dans les ténèbres]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +26}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 31, contact 23, pris au dépourvu 18 (Dex +12, esquive +1, naturelle +8)}
+{s:BDTexte|'''pv''' 212 (17d10+119)}
+{s:BDTexte|'''Réf''' +17, '''Vig''' +17, '''Vol''' +14 ; +4 contre les effets mentaux}
+{s:BDTexte|'''Capacités défensives''' [[Vision à 360° (capacité)|vision à 360°]] ; '''Immunités''' poison ; '''RD''' 10/Bien et magie ; '''Résistances''' acide 30, électricité 10, feu 10, froid 10 ; '''RM''' 26}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m}
+{s:BDTexte|'''Corps à corps''' ''épée courte acérée +1'', +28/+28/+23/+18/+13 (1d6+4/17–20 plus saignement), dard, +24 (1d6+4 plus poison et saignement)}
+{s:BDTexte|'''Distance''' jet empoisonné, +29 contact (aveuglement 1d4+1 rounds)}
+{s:BDTexte|'''Attaques spéciales''' frappe soudaine, [[Poison (capacité)|poison]], [[Saignement (capacité)|saignement]] (2d6)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 17 ; [[concentration]] +19)}
+{s:BDSorts|Constant — ''[[détection de linvisibilité|détection de l'invisibilité]]''}
+{s:BDSorts|À volonté — ''[[affûtage]]'', ''[[charme-personne]]'' (DD 13), ''[[contact absorbant]]'', ''[[coup au but]]'', ''[[empoisonnement]]'' (DD 16), ''[[transmission alchimique]]''}
+{s:BDSorts|3/jour — ''[[Convocation (capacité)|convocation]]'' (niveau 6, 1 [[scorpion piégeur]] [[Archétypes#CREATUREFIELONE|fiélon]] 100%), ''[[faux alibi]]'' (DD 15), ''[[invisibilité]]'', ''[[modification de mémoire]]'' (DD 16), ''[[suggestion]]'' (DD 15), ''[[téléportation suprême]]'' (soi-même plus 25 kg d'objets uniquement)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 35, '''Con''' 24, '''Int''' 13, '''Sag''' 15, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +17 ; '''BMO''' +20 ; '''DMD''' 43}
+{s:BDTexte|'''Dons''' [[Attaque éclair]], [[Attaque en finesse]]<sup>S</sup>, [[Attaques réflexes]], [[Combat à deux armes]], [[École du scorpion]]<sup>S</sup>, [[Esquive]], [[Expertise du combat]], [[Feinte supérieure]]<sup>S</sup>, [[Parade de projectiles]]<sup>S</sup>, [[Science de la feinte]]<sup>S</sup>, [[Science de la volonté de fer]], [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (alchimie) +13, [[Bluff]] +22, [[Connaissances]] (folklore local) +13, [[Connaissances]] (plans) +12, [[Connaissances]] (religion) +9, [[Discrétion]] +32, [[Escalade]] +11, [[Estimation]] +12, [[Connaissances]] (mystères, nature) +10, [[Perception]] +26, [[Psychologie]] +13 ; '''Modificateurs raciaux''' +4 en Perception, +8 en Bluff}
+{s:BDTexte|'''Langues''' abyssal, céleste, commun, infernal, protéen ; [[Télépathie (capacité)|télépathie]] à 30 m}
+{s:BDTexte|'''Particularités''' [[changement de forme (capacité)|changement de forme]] (scorpion de taille TG ou [[humain]] à queue de scorpion ; ''[[changement de forme]]''), prime du meurtrier}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre (Axis)}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' standard (2 ''[[épée courte (arme)|épées courtes]] +1'')}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Changement de forme (Sur).''' Sous sa forme de scorpion, remplacez ou ajoutez les statistiques suivantes : '''Taille''' TG ; '''CA''' 31, contact 21, pris au dépourvu 20 (Dex +10, esquive +1, naturelle +10) ; '''Réf''' +16 ; '''Corps à corps''' griffe, +28 (2d6+13 plus [[Étreinte (capacité)|étreinte]] et saignement), dard, +26 (2d6+11 plus poison et saignement) ; '''Espace''' 4,5 m ; '''Allonge''' 4,5 m ; '''Attaques spéciales''' [[Constriction (capacité)|constriction]] (2d6+12) ; '''For''' 32, '''Dex''' 31 ; '''BMO''' +30 (+34 contre [[lutte]]) ; '''DMD''' 53 (65 contre [[croc-en-jambe]] ; '''Compétences''' [[Discrétion]] +24, [[Escalade]] +20.}
+{s:BDTexte|'''Frappe soudaine (Ext).''' Pendant un [[round de surprise]], le héraut peut agir comme s'il s'agissait d'un round complet, plutôt que d'être limité à une [[action simple]].}
+{s:BDTexte|'''Jet empoisonné (Ext).''' Par une attaque à distance (ou à la place d'une attaque de dard au corps à corps), la Bête perforante peut tirer un jet de poison jusqu'à une distance de 54 m dans les yeux d'un adversaire. La cible doit réussir un [[jds|jet de sauvegarde]] contre le poison de la Bête perforante ou être [[aveuglé|aveuglée]] pendant 1d4+1rounds.}
+{s:BDTexte|'''Poison (Ext).''' Dard - blessure ; ''jds'' [[Vigueur]] DD 25 ; ''fréquence'' 1/round pendant 6 rounds ; ''effet'' 1d6 [[Force]] ; ''guérison'' 2 réussites consécutives.}
+{s:BDTexte|'''Prime du meurtrier (Sur).''' Si l'attaque de la Bête perforante réduit une cible à moins de 0 point de vie, le héraut gagne immédiatement 2d6 [[points de vie temporaires]] (ou 3d8, si l'attaque tue la cible), mais pas plus que le maximum de points de vie de la cible. Les points de vie temporaires durent 1 heure.}
+</div>
+</td><td><div>{s:Desambi|Les 2 ''épées courtes +1'' à la ligne Trésor devraient sans doute être des ''épées courtes [[acérée (propriété)|acérées]] +1'', comme celles décrites à la ligne Corps à corps.}Cet homme imposant, à la queue de scorpion, marche avec une grâce insonore et des intentions meurtrières.''
+
+La Bête perforante est le héraut de [[Norgorber (technique)|Norgorber]], le dieu de l'avidité, du meurtre, des secrets et du poison. C'est un prédateur incroyablement dangereux qui utilise son intelligence vive et son poison mortel pour traquer et tuer ses proies. Sa forme naturelle est celle d'un énorme scorpion, mais il peut aussi prendre une forme humanoïde blindée qui lui permet de se dissimuler ou d'interagir avec les disciples de Norgorber. Bien que sa principale raison d'être sur Golarion soit de tuer, il a également été appelé pour aider à commettre de grands vols et à enterrer de terribles secrets.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.La Bête perforante</fullName>
+</wikiPage>

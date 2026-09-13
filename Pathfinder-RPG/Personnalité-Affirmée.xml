@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Personnalité affirmée</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs - Classes avancées</category></categories>
+  <lastModified>2024-07-15 00:10:54Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Dons des classes avancées</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs - Classes avancées</link><link>Pathfinder-RPG.Manuel des joueurs - Classes avancées (Contenu)</link><link>Pathfinder-RPG.Personnalité affirmée</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons - Temp</link><link>Pathfinder-RPG.Tableau récapitulatif des dons des classes avancées</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.FAQ- Manuel des joueurs - Classes avancées</link><link>Pathfinder-RPG.Personnalité affirmée</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Volonté</link></outLinks>
+  <body><![CDATA[&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt; &lt;i&gt;Le personnage s’appuie sur son assurance et sa conscience de soi pour garder les id&#233;es claires.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; padding-left: 6px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;&lt;u&gt;Ce texte a &#233;t&#233; modifi&#233; suite &#224; la FAQ suivante :&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs---Classes-Avanc&#233;es.html#9&quot; title=&quot;FAQ du Manuel des joueurs - Classes avanc&#233;es&quot;&gt;→&lt;/a&gt; Personnalit&#233; affirm&#233;e : Dans sa version actuelle (2nde impression), le tableau et le texte ne sont pas coh&#233;rents. Le don s&#39;applique-t-il &#224; tous les jets de Volont&#233;, ou uniquement aux jets de Volont&#233; contre les effets mentaux ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Le tableau est correct. Ce &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Personnalit&#233;-Affirm&#233;e.html&quot; title=&quot;Personnalit&#233; affirm&#233;e&quot;&gt;don&lt;/a&gt;&lt;/u&gt; ne s&#39;applique que contre les effets mentaux.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:50px; cursor:pointer&quot; src=&quot;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&quot; title=&quot;Cliquez pour afficher/cacher une FAQ officielle relative &#224; ce texte&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqalt1.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&#39;;&quot; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;b&gt;Avantage.&lt;/b&gt; Le personnage ajoute son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; au lieu de son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; &#224; ses jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; contre les effets mentaux. S&#39;il a un un modificateur de Sagesse n&#233;gatif, il doit y appliquer les deux modificateurs.
+]]></body>
+  <raw><![CDATA[{s:mca} ''Le personnage s’appuie sur son assurance et sa conscience de soi pour garder les idées claires.''
+
+{s:FAQ|'''''__Ce texte a été modifié suite à la FAQ suivante :__
+
+[[FAQ- Manuel des joueurs - Classes avancées#9|→]] Personnalité affirmée : Dans sa version actuelle (2nde impression), le tableau et le texte ne sont pas cohérents. Le don s'applique-t-il à tous les jets de Volonté, ou uniquement aux jets de Volonté contre les effets mentaux ?'''''
+
+Le tableau est correct. Ce __[[Personnalité affirmée|don]]__ ne s'applique que contre les effets mentaux.}'''Avantage.''' Le personnage ajoute son modificateur de [[Charisme]] au lieu de son modificateur de [[Sagesse]] à ses jets de [[Volonté]] contre les effets mentaux. S'il a un un modificateur de Sagesse négatif, il doit y appliquer les deux modificateurs.]]></raw>
+  <fullName>Pathfinder-RPG.Personnalité affirmée</fullName>
+</wikiPage>

@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pyrauste</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-21 18:01:03Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.sous-type Feu</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Guérison accélérée (capacité)</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Souffle (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Étincelles</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.Archétypes</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Pyrauste&lt;div style=&quot;float:right;&quot;&gt;FP 1/4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Dragon&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ciel&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ciel.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.214&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 100
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Feu.html&quot; title=&quot;Feu (sous-type)&quot;&gt;Feu&lt;/a&gt;) de taille Min, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 16, pris au d&#233;pourvu 14 (Dex +2, taille +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 5 (1d12-1) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; feu, paralysie, sommeil
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; coeur de flammes, vuln&#233;rable au froid
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 18 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +7 (1d3-2 plus 1 feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 30 cm ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle (Sur)&quot;&gt;souffle&lt;/a&gt; (c&#244;ne de 3 m, 1d4 feu, R&#233;flexes DD 9 1/2 d&#233;g&#226;ts, utilisable tous les 1d4 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 1 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tincelles.html&quot; title=&quot;&#201;tincelles&quot;&gt;&#233;tincelles&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 6, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 8, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1 ; &lt;b&gt;BMO&lt;/b&gt; -1 ; &lt;b&gt;DMD&lt;/b&gt; 7 (11 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; chaud
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, paire ou nu&#233;e (12-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; double
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Coeur de flammes (Ext).&lt;/b&gt; En lieu de cœur, un pyrauste poss&#232;de une minuscule flamm&#232;che qui bat en son sein. &#192; chaque fois qu’un pyrauste subit des d&#233;g&#226;ts de froid, y compris quand il s’agit de d&#233;g&#226;ts caus&#233;s par un environnement froid, son petit cœur fait une pause. Il perd alors sa &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; et son &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle (Sur)&quot;&gt;souffle&lt;/a&gt;, devient &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Chancelant.html&quot; title=&quot;Chancelant&quot;&gt;chancelant&lt;/a&gt; et subit 1 point de d&#233;g&#226;ts &#224; chaque round. Ces effets continuent jusqu’&#224; ce qu’il se trouve expos&#233; &#224; une source de feu qui causerait normalement des d&#233;g&#226;ts de feu, ou s›il r&#233;ussit &#224; utiliser son pouvoir magique &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tincelles.html&quot; title=&quot;&#201;tincelles&quot;&gt;&#233;tincelles&lt;/a&gt;&lt;/i&gt; afin de ranimer la flamme de son cœur (pour cela, il doit r&#233;ussir un test de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; DD 11 &#224; cause des d&#233;g&#226;ts qu’il est en train de subir).
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce minuscule dragon aux ailes transparentes et aux yeux pro&#233;minents rappelle par certains aspects une mante religieuse. Une vive lumi&#232;re se d&#233;gage de lui, comme s’il &#233;tait habit&#233; par une flamme.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Bien qu’ils soient peut-&#234;tre les plus petits des dragons, les pyraustes ne sont pas complex&#233;s par leur taille. Ils n’ont en effet pas h&#233;rit&#233; de l’ego surdimensionn&#233; si courant parmi les membres de leur esp&#232;ce. Au contraire, les pyraustes appr&#233;cient leur nature et vivent dans l’instant pr&#233;sent. Bien qu’ils aient une esp&#233;rance de vie similaire aux humains, leur d&#233;pendance &#224; la flamme qui permet &#224; leur coeur de battre est souvent &#224; l’origine d’une mort pr&#233;matur&#233;e.&lt;br /&gt;&lt;br /&gt;Certains &#233;rudits pensent que les pyraustes, qui sont parfois surnomm&#233;s &#171; dragons insecto&#239;des &#187;, naissent au coeur des volcans, &#224; la source des flammes. En v&#233;rit&#233;, les jeunes pyraustes sont con&#231;us lors des mois les plus chauds de l’ann&#233;e, quand des nu&#233;es de ces cr&#233;atures se rassemblent haut dans le ciel nocturne et prennent part &#224; des rituels de s&#233;duction &#233;labor&#233;s mettant en sc&#232;ne leurs flammes color&#233;es et qu’ils s’&#233;battent en plein vol. Ces nu&#233;es sont souvent prises pour des nu&#233;es de lucioles, des aurores bor&#233;ales ou d’autres ph&#233;nom&#232;nes naturels. La flamme d’un pyrauste et son coeur ne font qu’un et son souffle enflamm&#233; change de couleur en fonction de ses &#233;motions. Les pyraustes utilisent principalement leur flamme int&#233;rieure pour s’exprimer &#224; l’aide de repr&#233;sentations pyrotechniques &#233;clatantes qui traduisent leurs sentiments. Ils peuvent aussi s’en servir comme d’une arme si n&#233;cessaire, mais ils pr&#233;f&#232;rent &#233;viter d’y avoir recours.&lt;br /&gt;&lt;br /&gt;Le corps d’un pyrauste typique est long d’une vingtaine de centim&#232;tres et d’une envergure g&#233;n&#233;ralement plus grande. Il p&#232;se entre 0,5 et 1 kilo.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Anciens pyraustes&lt;a class=&quot;headeranchor&quot; id=&quot;Anciens_pyraustes_0&quot; href=&quot;#Anciens_pyraustes_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les pyraustes qui r&#233;ussissent &#224; d&#233;passer l’esp&#233;rance de vie moyenne que leur permet g&#233;n&#233;ralement leur cœur fragile peuvent grandir pour devenir bien plus imposants et dangereux que leurs plus jeunes cong&#233;n&#232;res. Ils gagnent les arch&#233;types simples de &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREGEANTE&quot; title=&quot;Les arch&#233;types&quot;&gt;cr&#233;ature g&#233;ante&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;&#233;volu&#233;e&lt;/a&gt; et ils peuvent projeter leur souffle sur un c&#244;ne de 4,5 m&#232;tres. Mais la plus grande puissance acquise par ces pyraustes ne les rend pas plus arrogants. Ils pr&#233;f&#232;rent en effet proposer des conseils aux autres pyraustes, d&#233;samorcer les conflits naissants et prendre le r&#244;le de gardiens ou de mentors pour leurs jeunes cong&#233;n&#232;res. Ou alors ils choisissent de voyager et de cr&#233;er des liens avec d’autres communaut&#233;s de pyraustes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Pyrauste|FP 1/4}
+{s:pucem|Dragon|Ciel|Tropical}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.214]]''}
+{s:BDTexte|'''PX''' 100}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Feu|Feu]]) de taille Min, CN}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 16, pris au dépourvu 14 (Dex +2, taille +4)}
+{s:BDTexte|'''pv''' 5 (1d12-1) ; [[Guérison accélérée (capacité)|guérison accélérée]] 1}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +1, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' feu, paralysie, sommeil}
+{s:BDTexte|'''Faiblesses''' coeur de flammes, vulnérable au froid}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m, [[Vol (capacité)|vol]] 18 m (bonne)}
+{s:BDTexte|'''Corps à corps''' morsure, +7 (1d3-2 plus 1 feu)}
+{s:BDTexte|'''Espace occupé''' 30 cm ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' [[Souffle (capacité)|souffle]] (cône de 3 m, 1d4 feu, Réflexes DD 9 1/2 dégâts, utilisable tous les 1d4 rounds)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 1 ; [[concentration]] +2)}
+{s:BDSorts|À volonté — ''[[étincelles]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 6, '''Dex''' 15, '''Con''' 8, '''Int''' 5, '''Sag''' 12, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +1 ; '''BMO''' -1 ; '''DMD''' 7 (11 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Attaque en vol]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +18, [[Perception]] +5, [[Vol]] +16}
+{s:BDTexte|'''Langues''' draconique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' chaud}
+{s:BDTexte|'''Organisation''' solitaire, paire ou nuée (12-20)}
+{s:BDTexte|'''Trésor''' double}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Coeur de flammes (Ext).''' En lieu de cœur, un pyrauste possède une minuscule flammèche qui bat en son sein. À chaque fois qu’un pyrauste subit des dégâts de froid, y compris quand il s’agit de dégâts causés par un environnement froid, son petit cœur fait une pause. Il perd alors sa [[Guérison accélérée (capacité)|guérison accélérée]] et son [[Souffle (capacité)|souffle]], devient [[chancelant]] et subit 1 point de dégâts à chaque round. Ces effets continuent jusqu’à ce qu’il se trouve exposé à une source de feu qui causerait normalement des dégâts de feu, ou s›il réussit à utiliser son pouvoir magique ''[[étincelles]]'' afin de ranimer la flamme de son cœur (pour cela, il doit réussir un test de [[concentration]] DD 11 à cause des dégâts qu’il est en train de subir).}
+
+</div></td>
+<td><div>''Ce minuscule dragon aux ailes transparentes et aux yeux proéminents rappelle par certains aspects une mante religieuse. Une vive lumière se dégage de lui, comme s’il était habité par une flamme.''
+
+Bien qu’ils soient peut-être les plus petits des dragons, les pyraustes ne sont pas complexés par leur taille. Ils n’ont en effet pas hérité de l’ego surdimensionné si courant parmi les membres de leur espèce. Au contraire, les pyraustes apprécient leur nature et vivent dans l’instant présent. Bien qu’ils aient une espérance de vie similaire aux humains, leur dépendance à la flamme qui permet à leur coeur de battre est souvent à l’origine d’une mort prématurée.
+
+Certains érudits pensent que les pyraustes, qui sont parfois surnommés « dragons insectoïdes », naissent au coeur des volcans, à la source des flammes. En vérité, les jeunes pyraustes sont conçus lors des mois les plus chauds de l’année, quand des nuées de ces créatures se rassemblent haut dans le ciel nocturne et prennent part à des rituels de séduction élaborés mettant en scène leurs flammes colorées et qu’ils s’ébattent en plein vol. Ces nuées sont souvent prises pour des nuées de lucioles, des aurores boréales ou d’autres phénomènes naturels. La flamme d’un pyrauste et son coeur ne font qu’un et son souffle enflammé change de couleur en fonction de ses émotions. Les pyraustes utilisent principalement leur flamme intérieure pour s’exprimer à l’aide de représentations pyrotechniques éclatantes qui traduisent leurs sentiments. Ils peuvent aussi s’en servir comme d’une arme si nécessaire, mais ils préfèrent éviter d’y avoir recours.
+
+Le corps d’un pyrauste typique est long d’une vingtaine de centimètres et d’une envergure généralement plus grande. Il pèse entre 0,5 et 1 kilo.
+
+====Anciens pyraustes====
+Les pyraustes qui réussissent à dépasser l’espérance de vie moyenne que leur permet généralement leur cœur fragile peuvent grandir pour devenir bien plus imposants et dangereux que leurs plus jeunes congénères. Ils gagnent les archétypes simples de [[Archétypes#CREATUREGEANTE|créature géante]] et [[Archétypes#CREATUREEVOLUEE|évoluée]] et ils peuvent projeter leur souffle sur un cône de 4,5 mètres. Mais la plus grande puissance acquise par ces pyraustes ne les rend pas plus arrogants. Ils préfèrent en effet proposer des conseils aux autres pyraustes, désamorcer les conflits naissants et prendre le rôle de gardiens ou de mentors pour leurs jeunes congénères. Ou alors ils choisissent de voyager et de créer des liens avec d’autres communautés de pyraustes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Pyrauste</fullName>
+</wikiPage>

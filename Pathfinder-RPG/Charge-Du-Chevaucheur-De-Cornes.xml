@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Charge du chevaucheur de cornes</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don combat</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2021-10-05 23:59:25Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Chevaucheur de cornes</link><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.Harnais à corne (objet)</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.lance darçon (arme)</link><link>Pathfinder-RPG.Charge dévastatrice</link><link>Pathfinder-RPG.orque (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Orque (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;i&gt;Quand l’animal auquel il est attach&#233; se met &#224; charger, l’orque profite de son &#233;lan pour porter sa propre attaque.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCOMBAT&quot; title=&quot;Les dons&quot;&gt;combat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Chevaucheur-De-Cornes.html&quot; title=&quot;Chevaucheur de cornes&quot;&gt;Chevaucheur de cornes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Bonusdebasealattaque.html&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; +1&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Quand il est fix&#233; &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Harnais-&#192;-Corne-(Objet).html&quot; title=&quot;Harnais &#224; corne&quot;&gt;harnais &#224; corne&lt;/a&gt; et qu’il a pr&#233;par&#233; une action pour porter une attaque au corps &#224; corps contre la cible que la cr&#233;ature chevauch&#233;e est en train de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Charge.html&quot; title=&quot;charge&quot;&gt;charger&lt;/a&gt;, l’orque gagne le bonus d’attaque de la charge et son attaque inflige le double des d&#233;g&#226;ts (ou le triple, s’il manie une &lt;a class=&quot;pagelink&quot; href=&quot;Lance-Dar&#231;on-(Arme).html&quot; title=&quot;Lance d&amp;#39;ar&#231;on&quot;&gt;lance d’ar&#231;on&lt;/a&gt;). Cet avantage ne se cumule pas avec celui de la &lt;a class=&quot;pagelink&quot; href=&quot;Charge-D&#233;vastatrice.html&quot; title=&quot;Charge d&#233;vastatrice&quot;&gt;Charge d&#233;vastatrice&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:cm}''Quand l’animal auquel il est attaché se met à charger, l’orque profite de son élan pour porter sa propre attaque.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Chevaucheur de cornes]], [[BBA]] +1
+
+'''Avantages.''' Quand il est fixé à un [[Harnais à corne (objet)|harnais à corne]] et qu’il a préparé une action pour porter une attaque au corps à corps contre la cible que la créature chevauchée est en train de [[charge|charger]], l’orque gagne le bonus d’attaque de la charge et son attaque inflige le double des dégâts (ou le triple, s’il manie une [[lance darçon (arme)|lance d’arçon]]). Cet avantage ne se cumule pas avec celui de la [[Charge dévastatrice]].]]></raw>
+  <fullName>Pathfinder-RPG.Charge du chevaucheur de cornes</fullName>
+</wikiPage>

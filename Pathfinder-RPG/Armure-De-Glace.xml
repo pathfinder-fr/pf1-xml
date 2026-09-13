@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Armure de glace</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 1</category><category>Pathfinder-RPG.Sort prêtre 1</category><category>Pathfinder-RPG.Sort sanguin 1</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:31:47Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de sanguin</link><link>Pathfinder-RPG.Liste des sorts par registre</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.cuirasse (armure)</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Gozreh (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fGozreh.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gozreh (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fGozreh.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Gozreh-(Technique).html&quot; title=&quot;Gozreh&quot;&gt;Gozreh&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;eau, froid&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;San&lt;/a&gt; 1  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 minute  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, F&lt;/a&gt; (19 litres d&#39;eau)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; 0 m ; voir texte  
+&lt;b&gt;Effet&lt;/b&gt; un ensemble d&#39;armure fait de glace  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 heure/niveau ou jusqu&#39;&#224; destruction  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Le personnage cr&#233;e une armure de glace. Bien que froide au toucher, elle ne blesse pas son porteur, surtout si elle est port&#233;e par-dessus des v&#234;tements normaux (elle peut cependant acc&#233;l&#233;rer les effets de l&#39;exposition &#224; des environnements froids). Elle offre la m&#234;me protection qu&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Cuirasse-(Armure).html&quot; title=&quot;Cuirasse&quot;&gt;cuirasse&lt;/a&gt;, except&#233; qu&#39;elle a une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration#Solidite.html&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 0 et 30 points de vie. Si le porteur &#224; qui l&#39;armure est destin&#233;e est immerg&#233; dans l&#39;eau lorsque le personnage lance ce sort, il peut former l&#39;armure autour de lui (ou de lui-m&#234;me, s&#39;il compte porter l&#39;armure) ; sinon, le porteur doit rev&#234;tir l&#39;armure normalement. Les attaques effectu&#233;es contre le porteur qui cr&#233;ent de la chaleur ou du feu d&#233;gradent l&#39;armure, r&#233;duisant son bonus d&#39;armure de 1 par tranche de 5 points de d&#233;g&#226;ts de feu subis par le porteur ; lorsque le bonus &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de l&#39;armure atteint 0, l&#39;armure est d&#233;truite et le sort prend fin. La glace &#233;tant l&#233;g&#232;rement flottante, le porteur b&#233;n&#233;ficie d&#39;un bonus de circonstances de +2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt;, sauf lorsqu&#39;il nage vers le bas. Les &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druides&lt;/a&gt; peuvent porter une armure de glace sans p&#233;nalit&#233;.
+]]></body>
+  <raw><![CDATA[{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}{s:cs}{s:ISG}'''École''' [[Transmutation]] <nowiki>[</nowiki>[[registre|eau, froid]]<nowiki>]</nowiki> ; '''Niveau''' [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1  
+'''Temps d'incantation''' 1 minute  
+'''Composantes''' [[composantes|V, G, F]] (19 litres d'eau)  
+'''Portée''' 0 m ; voir texte  
+'''Effet''' un ensemble d'armure fait de glace  
+'''Durée''' 1 heure/niveau ou jusqu'à destruction  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Le personnage crée une armure de glace. Bien que froide au toucher, elle ne blesse pas son porteur, surtout si elle est portée par-dessus des vêtements normaux (elle peut cependant accélérer les effets de l'exposition à des environnements froids). Elle offre la même protection qu'une [[cuirasse (armure)|cuirasse]], excepté qu'elle a une [[solidité]] de 0 et 30 points de vie. Si le porteur à qui l'armure est destinée est immergé dans l'eau lorsque le personnage lance ce sort, il peut former l'armure autour de lui (ou de lui-même, s'il compte porter l'armure) ; sinon, le porteur doit revêtir l'armure normalement. Les attaques effectuées contre le porteur qui créent de la chaleur ou du feu dégradent l'armure, réduisant son bonus d'armure de 1 par tranche de 5 points de dégâts de feu subis par le porteur ; lorsque le bonus à la [[CA]] de l'armure atteint 0, l'armure est détruite et le sort prend fin. La glace étant légèrement flottante, le porteur bénéficie d'un bonus de circonstances de +2 aux tests de [[Natation]], sauf lorsqu'il nage vers le bas. Les [[Druide|druides]] peuvent porter une armure de glace sans pénalité.]]></raw>
+  <fullName>Pathfinder-RPG.Armure de glace</fullName>
+</wikiPage>

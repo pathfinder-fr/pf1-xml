@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Nycar</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2025-06-19 16:20:16Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link><link>Pathfinder-RPG.Temp-bestiaire4</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Nycar&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Dragon&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Marais&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4 page 198&lt;/i&gt;
+&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt; 600 PX&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille TP, CN&lt;/li&gt;&lt;li&gt;&lt;b&gt;Init &lt;/b&gt;+3 ; &lt;b&gt;Sens &lt;/b&gt;vision dans le noir &#224; 18 m, vision nocturne, odorat ; Perception +5&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CA &lt;/b&gt;16, contact 15, pris au d&#233;pourvu 13 (Dex +3, naturelle +1, taille +2)&lt;/li&gt;&lt;li&gt;&lt;b&gt;pv &lt;/b&gt;22 (3d12+3) ; r&#233;g&#233;n&#233;ration 1 (fer froid)&lt;/li&gt;&lt;li&gt;&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig &lt;/b&gt;+4, &lt;b&gt;Vol &lt;/b&gt;+3&lt;/li&gt;&lt;li&gt;&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; f&#233;rocit&#233; ; &lt;b&gt;RD &lt;/b&gt;5/fer froid ; &lt;b&gt;Immunit&#233;s &lt;/b&gt;paralysie, sommeil ; &lt;b&gt;R&#233;sistances &lt;/b&gt;acide 5&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;VD &lt;/b&gt;9 m, &lt;b&gt;nage &lt;/b&gt;9 m&lt;/li&gt;&lt;li&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +8 (1d4+1 plus poison)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Espace&lt;/b&gt; 0,75 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m&lt;/li&gt;&lt;li&gt;&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; poison&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;For &lt;/b&gt;13, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con &lt;/b&gt;12, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag &lt;/b&gt;10, &lt;b&gt;Cha &lt;/b&gt;9&lt;/li&gt;&lt;li&gt;&lt;b&gt;BBA &lt;/b&gt;+3 ; &lt;b&gt;BMO &lt;/b&gt;+4 ; &lt;b&gt;DMD&lt;/b&gt; 15 (croc-en–jambe impossible)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Discr&#233;tion)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Comp&#233;tences &lt;/b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +11 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &#201;vasion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues&lt;/b&gt; draconique (ne sait pas parler)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Particularit&#233;s &lt;/b&gt;amphibie, insaisissable&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Environnement&lt;/b&gt; marais froids&lt;/li&gt;&lt;li&gt;&lt;b&gt;Organisation &lt;/b&gt;solitaire, couple ou couv&#233;e (3-8)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tr&#233;sor &lt;/b&gt;standard&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Insaisissable (Ext).&lt;/b&gt; Le nycar peut effectuer un test d’&#201;vasion par une action rapide.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Poison (Ext).&lt;/b&gt; Morsure - blessure ; JdS Vigueur DD 12 ; fr&#233;quence 1/round pendant 6 rounds ; effet 1d4 acide et  affaiblissement temporaire de 1 Con ; gu&#233;rison 2 r&#233;ussites cons&#233;cutives.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Ce serpent &#224; l’air agressif est grand comme un chat domestique. Il est dot&#233; de deux pattes avant se terminant par des griffes apparemment dangereuses.
+&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces cr&#233;atures serpentines de petite taille sont des cousins &#233;loign&#233;s des puissants linnorms. Les nycars vivent dans des marais et des tourbi&#232;res d&#233;sol&#233;es et glac&#233;es o&#249; leurs activit&#233;s cruelles et sauvages passent souvent inaper&#231;ues. Le nycar adore chasser et traque souvent sa proie pendant des heures avant de la mordre enfin &#224; mort pour ensuite se replier &#224; l’abri
+en attendant que sa proie malade p&#233;risse. Les nycars tuent souvent par pur plaisir et s’attaquent &#224; des cr&#233;atures plus grandes que ce qu’ils peuvent engloutir. Il est rare qu’ils aient l’occasion de se repa&#238;tre d’un humain ou d’une autre cr&#233;ature intelligente, car les nycars occupent des environnements inhospitaliers qui emp&#234;chent habituellement la plupart des interactions, sauf avec les populations les plus isol&#233;es.&lt;br /&gt;&lt;br /&gt;Les nycars vivent dans de petites tani&#232;res souterraines, souvent accessibles sous la surface des eaux comme celles des castors. &#192; l’identique des linnorms, les nycars appr&#233;cient les tr&#233;sors, qu’ils amassent dans leur repaire. La plupart sont des objets inutiles et des babioles brillantes de peu de valeur, mais il arrive, par chance, que l’on y d&#233;couvre quelques objets pr&#233;cieux que les nycars rassemblent tout au long de leur vie. Le nycar pr&#233;pare habituellement des pi&#232;ges et des collets simples pour prot&#233;ger sa tani&#232;re et ses tr&#233;sors pendant son absence ou ses p&#233;riodes de sommeil.&lt;br /&gt;&lt;br /&gt;Le nycar mesure &#224; peu pr&#232;s 75 centim&#232;tres de long et poss&#232;de deux petites pattes qu’il utilise pour tra&#238;ner son corps de serpent avec une rapidit&#233; surprenante. Les nycars sont des cr&#233;atures jalouses qui ont l’habitude de chasser seules, mais certains s’accouplent jusqu’&#224; ce que la femelle ponde ses oeufs. Ces oeufs sont noirs et de la taille d’un poing humain d’adulte. La femelle nourrit ses petits pendant une ann&#233;e apr&#232;s leur &#233;closion, p&#233;riode pendant laquelle les petits demeurent sur son territoire. Une fois mature, le nycar p&#232;se 6 kilogrammes environ et peut vivre 90 ans.&lt;br /&gt;&lt;br /&gt;On a d&#233;j&#224; vu certains nycars s’associer &#224; des humains ou &#224; d’autres cr&#233;atures intelligentes, &#224; condition que ces derniers
+leur offrent des proies faciles et d’occasionnelles babioles brillantes. 
+Un lanceur de sorts chaotique neutre avec le don Familier sup&#233;rieur peut obtenir un familier nycar d&#232;s le niveau 7.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nycar|FP 2}
+{s:pucem|Dragon|Marais|Froid}
+{s:BDTexte|''Source : Bestiaire 4 page 198''}
+*''' 600 PX'''
+* [[type dragon|Dragon]] ([[sous-type aquatique|aquatique]]) de taille TP, CN
+* '''Init '''+3 ; '''Sens '''vision dans le noir à 18 m, vision nocturne, odorat ; Perception +5
+(((Défense)))
+* '''CA '''16, contact 15, pris au dépourvu 13 (Dex +3, naturelle +1, taille +2)
+* '''pv '''22 (3d12+3) ; régénération 1 (fer froid)
+* '''Réf''' +6, '''Vig '''+4, '''Vol '''+3
+* '''Capacités défensives''' férocité ; '''RD '''5/fer froid ; '''Immunités '''paralysie, sommeil ; '''Résistances '''acide 5
+(((Attaque)))
+* '''VD '''9 m, '''nage '''9 m
+* '''Corps à corps''' morsure, +8 (1d4+1 plus poison)
+* '''Espace''' 0,75 m ; '''Allonge''' 0 m
+* '''Attaques spéciales''' poison
+(((Statistiques)))
+* '''For '''13, '''Dex''' 16, '''Con '''12, '''Int''' 5, '''Sag '''10, '''Cha '''9
+* '''BBA '''+3 ; '''BMO '''+4 ; '''DMD''' 15 (croc-en–jambe impossible)
+* '''Dons''' [[Attaque en finesse]], [[Talent]] (Discrétion) 
+* '''Compétences '''[[Discrétion]] +20, [[Évasion]] +13, [[Natation]] +13, [[Perception]] +5, [[Vol]] +11 ; '''Modificateurs raciaux''' +8 en Évasion
+* '''Langues''' draconique (ne sait pas parler)
+* '''Particularités '''amphibie, insaisissable
+(((Écologie)))
+* '''Environnement''' marais froids
+* '''Organisation '''solitaire, couple ou couvée (3-8)
+* '''Trésor '''standard
+(((Pouvoirs spéciaux)))
+* '''Insaisissable (Ext).''' Le nycar peut effectuer un test d’Évasion par une action rapide.
+* '''Poison (Ext).''' Morsure - blessure ; JdS Vigueur DD 12 ; fréquence 1/round pendant 6 rounds ; effet 1d4 acide et  affaiblissement temporaire de 1 Con ; guérison 2 réussites consécutives.
+
+
+</div>
+</td><td><div>
+''Ce serpent à l’air agressif est grand comme un chat domestique. Il est doté de deux pattes avant se terminant par des griffes apparemment dangereuses.
+''
+
+Ces créatures serpentines de petite taille sont des cousins éloignés des puissants linnorms. Les nycars vivent dans des marais et des tourbières désolées et glacées où leurs activités cruelles et sauvages passent souvent inaperçues. Le nycar adore chasser et traque souvent sa proie pendant des heures avant de la mordre enfin à mort pour ensuite se replier à l’abri
+en attendant que sa proie malade périsse. Les nycars tuent souvent par pur plaisir et s’attaquent à des créatures plus grandes que ce qu’ils peuvent engloutir. Il est rare qu’ils aient l’occasion de se repaître d’un humain ou d’une autre créature intelligente, car les nycars occupent des environnements inhospitaliers qui empêchent habituellement la plupart des interactions, sauf avec les populations les plus isolées.
+
+Les nycars vivent dans de petites tanières souterraines, souvent accessibles sous la surface des eaux comme celles des castors. À l’identique des linnorms, les nycars apprécient les trésors, qu’ils amassent dans leur repaire. La plupart sont des objets inutiles et des babioles brillantes de peu de valeur, mais il arrive, par chance, que l’on y découvre quelques objets précieux que les nycars rassemblent tout au long de leur vie. Le nycar prépare habituellement des pièges et des collets simples pour protéger sa tanière et ses trésors pendant son absence ou ses périodes de sommeil.
+
+Le nycar mesure à peu près 75 centimètres de long et possède deux petites pattes qu’il utilise pour traîner son corps de serpent avec une rapidité surprenante. Les nycars sont des créatures jalouses qui ont l’habitude de chasser seules, mais certains s’accouplent jusqu’à ce que la femelle ponde ses oeufs. Ces oeufs sont noirs et de la taille d’un poing humain d’adulte. La femelle nourrit ses petits pendant une année après leur éclosion, période pendant laquelle les petits demeurent sur son territoire. Une fois mature, le nycar pèse 6 kilogrammes environ et peut vivre 90 ans.
+
+On a déjà vu certains nycars s’associer à des humains ou à d’autres créatures intelligentes, à condition que ces derniers
+leur offrent des proies faciles et d’occasionnelles babioles brillantes. 
+Un lanceur de sorts chaotique neutre avec le don Familier supérieur peut obtenir un familier nycar dès le niveau 7.
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Nycar</fullName>
+</wikiPage>

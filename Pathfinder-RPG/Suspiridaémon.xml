@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Daémon, Suspiridaémon</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Livre des damnés</category></categories>
+  <lastModified>2023-03-21 15:01:55Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Daémon</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Livre des damnés 1 (Contenu)</link><link>Pathfinder-RPG.Phasmadaémon</link><link>Pathfinder-RPG.Temp-Bestiaire du Livre des damnés</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type daémon</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.Mise à mort</link><link>Pathfinder-RPG.Baiser de la goule</link><link>Pathfinder-RPG.Rayon affaiblissant</link><link>Pathfinder-RPG.Nuage nauséabond</link><link>Pathfinder-RPG.Baiser du vampire</link><link>Pathfinder-RPG.Brume mortelle</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Lacridaémon</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Daémon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Suspirida&#233;mon&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Livre des damn&#233;s p.192&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Da&#233;mon.html&quot; title=&quot;Da&#233;mon (sous-type)&quot;&gt;da&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init &lt;/b&gt;+7 ; &lt;b&gt;Sens&lt;/b&gt; vision dans le noir &#224; 18m ; Perception +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; air rar&#233;fi&#233; (9m)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 14, pris au d&#233;pourvu 16 (Dex +3, esquive +1, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PV&lt;/b&gt; 85 (9d10+36) 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f &lt;/b&gt;+9, &lt;b&gt;Vig &lt;/b&gt;+9, &lt;b&gt;Vol &lt;/b&gt;+8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/Bien et argent ; &lt;b&gt;Immunit&#233;&lt;/b&gt; acide, effets de mort, maladie, poison ; &lt;b&gt;R&#233;sistance&lt;/b&gt; froid 10,  &#233;lectricit&#233; 10, feu 10,  son 30 ; &lt;b&gt;RM&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9m, vol 9m (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +13 (1d4+4), langue, +8 (1d6+6/19–20 plus
+&#233;treinte)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1.50m ; &lt;b&gt;Allonge&lt;/b&gt; 1.50m (3 m avec la langue) 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; inspiration assourdissante, &#233;treinte (1d6+6),
+&#233;tranglement, suffocation
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 9 ; concentration +13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; – &lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt; (DD16), &lt;a class=&quot;pagelink&quot; href=&quot;Baiser-De-La-Goule.html&quot; title=&quot;Baiser de la goule&quot;&gt;baiser de la goule&lt;/a&gt; (DD 16), &lt;a class=&quot;pagelink&quot; href=&quot;Rayon-Affaiblissant.html&quot; title=&quot;Rayon affaiblissant&quot;&gt;Rayon affaiblissant&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Nuage-Naus&#233;abond.html&quot; title=&quot;Nuage naus&#233;abond&quot;&gt;nuage naus&#233;abond&lt;/a&gt; (DD 17), &lt;a class=&quot;pagelink&quot; href=&quot;Baiser-Du-Vampire.html&quot; title=&quot;Baiser du vampire&quot;&gt;baiser du vampire&lt;/a&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Brume-Mortelle.html&quot; title=&quot;Brume mortelle&quot;&gt;brume mortelle&lt;/a&gt; (DD 19), &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Convocation.html&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt; (niveau 4 : 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Lacrida&#233;mon.html&quot; title=&quot;Da&#233;mon, Lacrida&#233;mon&quot;&gt;lacrida&#233;mons&lt;/a&gt;, 35%)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA &lt;/b&gt;+9 ; &lt;b&gt;BMO &lt;/b&gt;+13 (+17 en lutte); &lt;b&gt;DMD&lt;/b&gt; 27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt;  (langue)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +14, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +14,  &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15,  &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, draconique, infernal (ne peut pas parler) ; t&#233;l&#233;pathie 30m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; ne respire pas 
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abaddon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, bande (2–4) ou foule (5–9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Inspiration assourdissante (Sur)&lt;/b&gt;Une fois par jour, un suspirida&#233;mon
+peut inspirer tout &#224; coup avec tant de force qu’il &#233;vacue l’air
+autour de lui, provoquant par implosion une vague de pression
+soudaine. Les cr&#233;atures dans un rayon de 10 m&#232;tres autour de lui
+doivent r&#233;ussir un jet de Vigueur DD 18 ou subir 5d6 points de
+d&#233;g&#226;ts de son et &#234;tre naus&#233;euses pendant 1d4 rounds. En cas de
+r&#233;ussite, elle ne subira que la moiti&#233; des d&#233;g&#226;ts et aucun &#233;tat pr&#233;judiciable.
+Un suspirida&#233;mon ne peut utiliser cette capacit&#233; s’il
+&#233;treint une cr&#233;ature avec sa langue. Le DD du jet de sauvegarde
+d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;tranglement (Ext)&lt;/b&gt; Les suspirida&#233;mons ont un talent infaillible
+lorsqu’il s’agit d’attraper leurs victimes par le cou. Une cr&#233;ature
+&#233;treinte de la sorte ne peut parler ou lancer de sorts ayant une
+composante verbale.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Suffocation (Ext)&lt;/b&gt; Une cr&#233;ature affect&#233;e par l’&#233;tranglement du
+da&#233;mon ne peut plus respirer et doit retenir son souffle. &#192;
+cause de l’aura d’air rar&#233;fi&#233;, elle peut rapidement sombrer dans
+l’inconscience.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Air rar&#233;fi&#233; (Sur)&lt;/b&gt; L’aura d’un suspirida&#233;mon rend l’air alentours difficile
+&#224; respirer. Les cr&#233;atures ayant besoin d’air ne peuvent retenir
+leur respiration que la moiti&#233; du temps normal quand elles se
+trouvent dans l’aura d’air rar&#233;fi&#233;, et souffrent du mal d’altitude
+comme si elles &#233;taient dans un col ou sur un pic (voir Les zones
+d’altitude, Manuel des Joueurs page 436).
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Da&#233;mon.html&quot; title=&quot;Les da&#233;mons&quot;&gt;da&#233;mons&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Ce grand fi&#233;lon &#224; trois pattes a un corps et une t&#234;te d’oiseau et des
+bras d&#233;gingand&#233;e au bout desquels on peut voir de fins doigts en
+forme de serre. Il porte autour de son cou maigrichon trois &#233;pais
+anneaux d’acier et une langue barbillonn&#233;e ridiculement longue,
+ressemblant au tentacule d’une pieuvre, jaillit de son bec d&#233;mesur&#233;.
+Ses grands yeux sont remplis de vaisseaux sanguins &#233;clat&#233;s et des
+taches rouge&#226;tres marbrent sa chair cyanos&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les suspirida&#233;mons emp&#234;chent par leur seule pr&#233;sence de
+respirer convenablement et incarnent la mort par suffocation.
+Son corps est marbr&#233; et tach&#233; comme celui d’un cadavre
+&#233;trangl&#233;, et il aime par-dessus tout entendre le dernier
+souffle &#233;touff&#233; d’une victime alors qu’il resserre sa langue autour
+de sa gorge. Un suspirida&#233;mon ne respire pas en temps
+normal mais son corps est n&#233;anmoins agit&#233; de convulsions
+et de soubresauts. Ajout&#233; &#224; son silence total, il excelle quand
+il s’agit de se dissimuler dans les ombres et de donner une
+mort effroyable. Le seul bruit remarquable qu’on lui conna&#238;t,
+c’est lorsqu’il rel&#226;che sa prise autour du cou de sa victime et
+inspire de mani&#232;re retentissante. Le soudain manque d’air
+suffira &#224; faire s’&#233;vanouir ses adversaires.
+&lt;/div&gt;&lt;br /&gt;&lt;div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_0&quot; href=&quot;#&#201;cologie_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Un suspirida&#233;mon nait d’une &#226;me mauvaise d&#233;c&#233;d&#233;e par suffocation,
+noy&#233;e ou ex&#233;cut&#233;e par pendaison. Chacun porte la
+marque de cette mort particuli&#232;re, en g&#233;n&#233;ral la chair meurtrie
+ou lac&#233;r&#233;e de sa gorge. Les grands colliers d’acier qu’il porte
+autour de son cou dissimulent les souvenirs honteux de sa
+vie bien qu’en g&#233;n&#233;ral, le suspirida&#233;mon n’en a souvent pas
+conscience. Ces cr&#233;atures apparaissent avec ces anneaux d&#233;j&#224;
+en place et ne comprennent donc jamais pourquoi ils ont &#233;t&#233;
+envoy&#233;s vers Abbadon. Si jamais les colliers sont bris&#233;s, croiton,
+sa t&#234;te retombera mollement vers le bas, ce qui permettra
+au monstre de voir les blessures qui pourraient lui rappeler la
+mort terrible qu’il a endur&#233;e dans son existence pass&#233;e.
+Les suspirida&#233;mons sont fiers du nombre d’&#226;mes qu’ils
+ont tu&#233; par strangulation et celui-ci correspond souvent aux
+anneaux d’acier qu’il porte. Si la plupart d’entre eux sont
+relativement faibles en comparaison de leurs fr&#232;res da&#233;moniaques, un individu aussi dou&#233; dans l’art de tuer que dans
+celui de l’artisanat peut fabriquer des colliers d’acier &#233;quip&#233;s
+d’emplacements pour des gemmes, des objets qui donnent
+au suspirida&#233;mon la capacit&#233; d’emprisonner les &#226;mes de ses
+victimes dans les anneaux pour les vendre sur les march&#233;s
+d’Abaddon. Lorsqu’il mourra, ses anneaux tomberont en
+poussi&#232;re et les gemmes qu’il portera se briseront, lib&#233;rant
+les &#226;mes qui y sont emprisonn&#233;es.
+Un suspirida&#233;mon fait g&#233;n&#233;ralement preuve de discr&#233;tion
+lorsqu’il affronte ses ennemis. Dissimul&#233; dans un coin
+d’ombre, il projette sa longue langue sinueuse vers un adversaire
+peu m&#233;fiant et l’&#233;trangle &#224; l’&#233;cart du reste de son
+&#233;quipe. En combat, il pr&#233;f&#232;re de loin tuer ses ennemis &#224;
+mains nues ou avec sa langue barbillonn&#233;e, utilisant ses pouvoirs
+magiques et da&#233;moniaques pour les abattre ou semer la
+discorde dans leur groupe, et rapprochant la cr&#233;ature de lui
+pour entendre son dernier souffle &#233;trangl&#233;.
+Un suspirida&#233;mon aime prendre les &#226;mes des cr&#233;atures
+sur le point de mourir mais il ne s’en contente pas. Il fixe le
+visage de sa victime alors qu’elle expire, arrachant son &#226;me
+en un instant solennel pendant lequel il cesse de convulser.
+Ceux qui ont &#233;t&#233; t&#233;moin d’une telle mise &#224; mort pr&#233;tendent
+que le fi&#233;lon semble presque inhaler de l’air pour la premi&#232;re
+fois au moment o&#249; l’enveloppe physique de sa victime expire
+et pour un bref instant, le monstre semble respirer normalement.
+Cette inqui&#233;tante vision finit cependant aussi vite
+qu’elle a commenc&#233; tandis que le suspirida&#233;mon regarde
+sa prochaine victime et que sa langue vicieuse se pr&#233;pare &#224;
+&#233;trangler une nouvelle victime.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Habitat &amp; Soci&#233;t&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Habitat__Soci&#233;t&#233;_1&quot; href=&quot;#Habitat__Soci&#233;t&#233;_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+De nombreux da&#233;mons sont loyaux envers l’un des Cavaliers
+ou une autre puissance en Abaddon, en fonction
+de leurs origines, de leurs liens historiques ou de circonstances
+ext&#233;rieures, mais il n’y a rien de tel chez les
+suspirida&#233;mons. Ils &#233;vitent autant que possible d’agir
+sous l’autorit&#233; de ma&#238;tres et pr&#233;f&#232;rent des carri&#232;res plus
+solitaires tourn&#233;es vers le meurtre et la destruction. Ils ont
+tendance &#224; travailler efficacement avec d’autres da&#233;mons
+quand on les y oblige, mais les individus les plus audacieux
+s’&#233;loignent d’Abaddon et gravitent autour des centres de population
+sur les autres plans pour y chasser leurs proies &#224;
+leur aise. Les suspirida&#233;mons qui voyagent r&#233;guli&#232;rement en
+meute dans le multivers entra&#238;nent leurs petits groupes de
+chasse dans les &#233;tendues sauvages autour de petits villages,
+poursuivant avidement ceux qui s’&#233;loignent du regard protecteur
+de leurs alli&#233;s. Si leurs tactiques sont aussi meurtri&#232;res
+que celles des autres da&#233;mons, leurs d&#233;pr&#233;dations
+sont particuli&#232;rement entour&#233;es de sinc&#233;rit&#233; et de contemplation
+solennelle, et leurs crimes sinistres sur les &#226;mes sont
+autant voil&#233;s de m&#233;pris envers les vivants que de haine envers
+eux-m&#234;mes. Certains pr&#233;tendent que cette haine est li&#233;e
+aux doutes qui planent sur leurs origines, la marque sous
+leurs colliers d’acier qui leur rappelle leur propre mortalit&#233;
+pass&#233;e. Quelle qu’en soit la cause, ce sentiment ne semble pas
+d&#233;ranger la plupart des autres da&#233;mons, qui consid&#232;rent en
+g&#233;n&#233;ral les suspirida&#233;mons comme des compagnons utiles
+sur ou en-dehors d’Abaddon. Pour les piscoda&#233;mons et les
+sanguida&#233;mons en particulier, ils sont parfaits pour &#234;tre
+command&#233;s.
+Les suspirida&#233;mons sont incapables de parler et utilisent
+rarement leurs pouvoirs de t&#233;l&#233;pathie pour communiquer.
+Ils se contentent de hocher discr&#232;tement la t&#234;te quand un
+da&#233;mon plus puissant leur assigne une t&#226;che. Cette obs&#233;quiosit&#233;
+silencieuse ne fait qu’ajouter &#224; l’opinion g&#233;n&#233;rale
+des autres da&#233;mons sur leurs mani&#232;res humbles et d&#233;rangeantes,
+bien que la plupart d’entre eux font de leur mieux
+pour garder ces fi&#233;lons &#233;trangleurs &#224; bonne distance.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Suspiridaémon|FP 7}
+{s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
+{s:BDTexte|''Source : Livre des damnés p.192''}
+{s:BDTexte|'''PX''' 3 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille M, NM}
+{s:BDTexte|'''Init '''+7 ; '''Sens''' vision dans le noir à 18m ; Perception +14}
+{s:BDTexte|'''Aura''' air raréfié (9m)}
+(((Défense)))
+{s:BDTexte|'''CA''' 20, contact 14, pris au dépourvu 16 (Dex +3, esquive +1, naturelle +6)}
+{s:BDTexte|'''PV''' 85 (9d10+36) }
+{s:BDTexte|'''Réf '''+9, '''Vig '''+9, '''Vol '''+8}
+{s:BDTexte|'''RD''' 10/Bien et argent ; '''Immunité''' acide, effets de mort, maladie, poison ; '''Résistance''' froid 10,  électricité 10, feu 10,  son 30 ; '''RM''' 18}
+(((Attaque)))
+{s:BDTexte|'''VD''' 9m, vol 9m (moyenne)}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +13 (1d4+4), langue, +8 (1d6+6/19–20 plus
+étreinte)}
+{s:BDTexte|'''Espace''' 1.50m ; '''Allonge''' 1.50m (3 m avec la langue) }
+{s:BDTexte|'''Attaques spéciales''' inspiration assourdissante, étreinte (1d6+6),
+étranglement, suffocation}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 9 ; concentration +13)}
+{s:BDSorts|À volonté – [[mise à mort]] (DD16), [[baiser de la goule]] (DD 16), [[Rayon affaiblissant]]}
+{s:BDSorts|3/jour - [[nuage nauséabond]] (DD 17), [[baiser du vampire]] (DD 17)}
+{s:BDSorts|1/jour - [[brume mortelle]] (DD 19), [[convocation]] (niveau 4 : 1d3 [[lacridaémon|lacridaémons]], 35%)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 19, '''Dex''' 17, '''Con''' 18, '''Int''' 14, '''Sag''' 15, '''Cha''' 18}
+{s:BDTexte|'''BBA '''+9 ; '''BMO '''+13 (+17 en lutte); '''DMD''' 27}
+{s:BDTexte|'''Dons''' [[Attaques réflexes]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]], [[Science du critique]]  (langue)}
+{s:BDTexte|'''Compétences''' [[Escalade]] +16, [[Diplomatie ]] +16, [[Intimidation]] +16, [[Connaissances]] (nature) +14, [[Connaissances]] (plans) +14,  [[Discrétion]] +15,  [[Perception]] +14, [[Psychologie]] +14}
+{s:BDTexte|'''Langues''' abyssal, draconique, infernal (ne peut pas parler) ; télépathie 30m}
+{s:BDTexte|'''Particularités''' ne respire pas }
+(((Écologie)))
+{s:BDTexte|'''Environnement''' quelconque (Abaddon)}
+{s:BDTexte|'''Organisation''' solitaire, bande (2–4) ou foule (5–9)}
+{s:BDTexte|'''Trésor''' standard}
+(((Pouvoirs spéciaux)))
+{s:BDTexte|'''Inspiration assourdissante (Sur)'''Une fois par jour, un suspiridaémon
+peut inspirer tout à coup avec tant de force qu’il évacue l’air
+autour de lui, provoquant par implosion une vague de pression
+soudaine. Les créatures dans un rayon de 10 mètres autour de lui
+doivent réussir un jet de Vigueur DD 18 ou subir 5d6 points de
+dégâts de son et être nauséeuses pendant 1d4 rounds. En cas de
+réussite, elle ne subira que la moitié des dégâts et aucun état préjudiciable.
+Un suspiridaémon ne peut utiliser cette capacité s’il
+étreint une créature avec sa langue. Le DD du jet de sauvegarde
+dépend de la Constitution.}
+{s:BDTexte|'''Étranglement (Ext)''' Les suspiridaémons ont un talent infaillible
+lorsqu’il s’agit d’attraper leurs victimes par le cou. Une créature
+étreinte de la sorte ne peut parler ou lancer de sorts ayant une
+composante verbale.}
+{s:BDTexte|'''Suffocation (Ext)''' Une créature affectée par l’étranglement du
+daémon ne peut plus respirer et doit retenir son souffle. À
+cause de l’aura d’air raréfié, elle peut rapidement sombrer dans
+l’inconscience.}
+{s:BDTexte|'''Air raréfié (Sur)''' L’aura d’un suspiridaémon rend l’air alentours difficile
+à respirer. Les créatures ayant besoin d’air ne peuvent retenir
+leur respiration que la moitié du temps normal quand elles se
+trouvent dans l’aura d’air raréfié, et souffrent du mal d’altitude
+comme si elles étaient dans un col ou sur un pic (voir Les zones
+d’altitude, Manuel des Joueurs page 436).}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[daémon|daémons]].'''''</li></ul>
+''Ce grand fiélon à trois pattes a un corps et une tête d’oiseau et des
+bras dégingandée au bout desquels on peut voir de fins doigts en
+forme de serre. Il porte autour de son cou maigrichon trois épais
+anneaux d’acier et une langue barbillonnée ridiculement longue,
+ressemblant au tentacule d’une pieuvre, jaillit de son bec démesuré.
+Ses grands yeux sont remplis de vaisseaux sanguins éclatés et des
+taches rougeâtres marbrent sa chair cyanosée.''
+
+Les suspiridaémons empêchent par leur seule présence de
+respirer convenablement et incarnent la mort par suffocation.
+Son corps est marbré et taché comme celui d’un cadavre
+étranglé, et il aime par-dessus tout entendre le dernier
+souffle étouffé d’une victime alors qu’il resserre sa langue autour
+de sa gorge. Un suspiridaémon ne respire pas en temps
+normal mais son corps est néanmoins agité de convulsions
+et de soubresauts. Ajouté à son silence total, il excelle quand
+il s’agit de se dissimuler dans les ombres et de donner une
+mort effroyable. Le seul bruit remarquable qu’on lui connaît,
+c’est lorsqu’il relâche sa prise autour du cou de sa victime et
+inspire de manière retentissante. Le soudain manque d’air
+suffira à faire s’évanouir ses adversaires.
+</div>
+
+<div>
+====Écologie====
+Un suspiridaémon nait d’une âme mauvaise décédée par suffocation,
+noyée ou exécutée par pendaison. Chacun porte la
+marque de cette mort particulière, en général la chair meurtrie
+ou lacérée de sa gorge. Les grands colliers d’acier qu’il porte
+autour de son cou dissimulent les souvenirs honteux de sa
+vie bien qu’en général, le suspiridaémon n’en a souvent pas
+conscience. Ces créatures apparaissent avec ces anneaux déjà
+en place et ne comprennent donc jamais pourquoi ils ont été
+envoyés vers Abbadon. Si jamais les colliers sont brisés, croiton,
+sa tête retombera mollement vers le bas, ce qui permettra
+au monstre de voir les blessures qui pourraient lui rappeler la
+mort terrible qu’il a endurée dans son existence passée.
+Les suspiridaémons sont fiers du nombre d’âmes qu’ils
+ont tué par strangulation et celui-ci correspond souvent aux
+anneaux d’acier qu’il porte. Si la plupart d’entre eux sont
+relativement faibles en comparaison de leurs frères daémoniaques, un individu aussi doué dans l’art de tuer que dans
+celui de l’artisanat peut fabriquer des colliers d’acier équipés
+d’emplacements pour des gemmes, des objets qui donnent
+au suspiridaémon la capacité d’emprisonner les âmes de ses
+victimes dans les anneaux pour les vendre sur les marchés
+d’Abaddon. Lorsqu’il mourra, ses anneaux tomberont en
+poussière et les gemmes qu’il portera se briseront, libérant
+les âmes qui y sont emprisonnées.
+Un suspiridaémon fait généralement preuve de discrétion
+lorsqu’il affronte ses ennemis. Dissimulé dans un coin
+d’ombre, il projette sa longue langue sinueuse vers un adversaire
+peu méfiant et l’étrangle à l’écart du reste de son
+équipe. En combat, il préfère de loin tuer ses ennemis à
+mains nues ou avec sa langue barbillonnée, utilisant ses pouvoirs
+magiques et daémoniaques pour les abattre ou semer la
+discorde dans leur groupe, et rapprochant la créature de lui
+pour entendre son dernier souffle étranglé.
+Un suspiridaémon aime prendre les âmes des créatures
+sur le point de mourir mais il ne s’en contente pas. Il fixe le
+visage de sa victime alors qu’elle expire, arrachant son âme
+en un instant solennel pendant lequel il cesse de convulser.
+Ceux qui ont été témoin d’une telle mise à mort prétendent
+que le fiélon semble presque inhaler de l’air pour la première
+fois au moment où l’enveloppe physique de sa victime expire
+et pour un bref instant, le monstre semble respirer normalement.
+Cette inquiétante vision finit cependant aussi vite
+qu’elle a commencé tandis que le suspiridaémon regarde
+sa prochaine victime et que sa langue vicieuse se prépare à
+étrangler une nouvelle victime.
+
+====Habitat & Société====
+
+De nombreux daémons sont loyaux envers l’un des Cavaliers
+ou une autre puissance en Abaddon, en fonction
+de leurs origines, de leurs liens historiques ou de circonstances
+extérieures, mais il n’y a rien de tel chez les
+suspiridaémons. Ils évitent autant que possible d’agir
+sous l’autorité de maîtres et préfèrent des carrières plus
+solitaires tournées vers le meurtre et la destruction. Ils ont
+tendance à travailler efficacement avec d’autres daémons
+quand on les y oblige, mais les individus les plus audacieux
+s’éloignent d’Abaddon et gravitent autour des centres de population
+sur les autres plans pour y chasser leurs proies à
+leur aise. Les suspiridaémons qui voyagent régulièrement en
+meute dans le multivers entraînent leurs petits groupes de
+chasse dans les étendues sauvages autour de petits villages,
+poursuivant avidement ceux qui s’éloignent du regard protecteur
+de leurs alliés. Si leurs tactiques sont aussi meurtrières
+que celles des autres daémons, leurs déprédations
+sont particulièrement entourées de sincérité et de contemplation
+solennelle, et leurs crimes sinistres sur les âmes sont
+autant voilés de mépris envers les vivants que de haine envers
+eux-mêmes. Certains prétendent que cette haine est liée
+aux doutes qui planent sur leurs origines, la marque sous
+leurs colliers d’acier qui leur rappelle leur propre mortalité
+passée. Quelle qu’en soit la cause, ce sentiment ne semble pas
+déranger la plupart des autres daémons, qui considèrent en
+général les suspiridaémons comme des compagnons utiles
+sur ou en-dehors d’Abaddon. Pour les piscodaémons et les
+sanguidaémons en particulier, ils sont parfaits pour être
+commandés.
+Les suspiridaémons sont incapables de parler et utilisent
+rarement leurs pouvoirs de télépathie pour communiquer.
+Ils se contentent de hocher discrètement la tête quand un
+daémon plus puissant leur assigne une tâche. Cette obséquiosité
+silencieuse ne fait qu’ajouter à l’opinion générale
+des autres daémons sur leurs manières humbles et dérangeantes,
+bien que la plupart d’entre eux font de leur mieux
+pour garder ces fiélons étrangleurs à bonne distance.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Suspiridaémon</fullName>
+</wikiPage>

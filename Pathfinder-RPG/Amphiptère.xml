@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Amphiptère</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-16 00:09:42Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Feuille morte</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Immobilisé</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.lutte</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Amphipt&#232;re&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Dragon&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.20&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 9, pris au d&#233;pourvu 16 (naturelle +7, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (5d12+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; paralysie, sommeil
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 18 m (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; queue, +9 (1d8+4) et morsure, +8 (1d10+4 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;) et 2 ailes, +3 (1d4+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (3 m avec la queue)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (1d10+4), empalement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5 ; &lt;b&gt;BMO&lt;/b&gt; +10 ; &lt;b&gt;DMD&lt;/b&gt; 20 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (queue), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +10 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Perception et en Vol
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; capacit&#233; de vol limit&#233;e
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; d&#233;serts, collines ou montagnes chaudes ou temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou escadrille (3-18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233; de vol limit&#233;e (Ext).&lt;/b&gt; Les amphipt&#232;res ont des ailes mais ils ne peuvent pas vraiment voler. Ils se d&#233;placent habituellement en s’&#233;levant de quelques m&#232;tres au-dessus du sol gr&#226;ce &#224; leurs grandes ailes de chauves-souris et en prenant appui au sol avec leurs pattes griffues pour soulever leur masse. Cette tactique fournit &#224; l’amphipt&#232;re une vitesse en vol de 18 m&#232;tres et une manœuvrabilit&#233; moyenne, mais elle ne lui permet pas de s’&#233;lever &#224; plus de 3 m&#232;tres du sol ni d’utiliser ses ailes pour voler sur place. En outre, les amphipt&#232;res peuvent effectuer un test de &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; DD 15 pour retomber depuis n’importe quelle hauteur sans subir de d&#233;g&#226;ts de chute, comme s’ils &#233;taient sous l’effet d’un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Feuille-Morte.html&quot; title=&quot;Feuille morte&quot;&gt;feuille morte&lt;/a&gt;&lt;/i&gt;. Quand il retombe ainsi en toute s&#233;curit&#233;, un amphipt&#232;re peut effectuer un test de Vol suppl&#233;mentaire DD 15 pour planer, ce qui lui permet de se d&#233;placer lat&#233;ralement de 1,50 m&#232;tre pour chaque tranche de 3 m&#232;tres de descente.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Empalement (Ext).&lt;/b&gt; Si un amphipt&#232;re confirme un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Coupcritique.html&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; avec son attaque de queue contre une cr&#233;ature de taille inf&#233;rieure &#224; la sienne, la queue &#224; l’extr&#233;mit&#233; en pointe empale la cr&#233;ature cibl&#233;e. Une cr&#233;ature empal&#233;e de la sorte est affubl&#233;e de l’&#233;tat pr&#233;judiciable &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Immobilis&#233;.html&quot; title=&quot;Immobilis&#233;&quot;&gt;immobilis&#233; en lutte&lt;/a&gt; (mais l’amphipt&#232;re n’est pas affubl&#233; de l’&#233;tat pr&#233;judiciable &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Agripp&#233;.html&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;&lt;/a&gt;), elle subit 1d6 points de d&#233;g&#226;ts de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Saignement.html&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt; et subit automatiquement les d&#233;g&#226;ts inflig&#233;s par la queue de l’amphipt&#232;re chaque round pendant lequel elle demeure immobilis&#233;e. Un amphipt&#232;re ne peut pas utiliser son attaque sp&#233;ciale de &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; contre une cr&#233;ature empal&#233;e de la sorte. Il ne peut pas non plus utiliser son attaque de queue tant qu’il empale une cr&#233;ature, mais il n’a pas besoin de r&#233;ussir un test de manœuvre offensive de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; pour maintenir sa prise. Un amphipt&#232;re peut rel&#226;cher une cr&#233;ature empal&#233;e par une action libre.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce dragon au corps de serpent est dot&#233; d’une queue sinueuse &#224; l’extr&#233;mit&#233; pointue. Sur ses membres ant&#233;rieurs se d&#233;ploient des ailes flamboyantes et il n’a pas de pattes arri&#232;re.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Lointains cousins des vouivres, les amphipt&#232;res sont tout aussi cruels et violents. Comme elles, ils ont des corps serpentins et des ailes de chauves-souris. Mais &#224; la diff&#233;rence des vouivres, ils doivent utiliser leurs longues griffes situ&#233;es &#224; l’extr&#233;mit&#233; de leurs ailes pour prendre de l’&#233;lan, bondir maladroitement et soulever leur corps de quelques m&#232;tres au-dessus du sol. Leur corps est &#233;galement plus long et bien plus fin que celui des vouivres et, au lieu du dard empoisonn&#233; de ces cr&#233;atures, les amphipt&#232;res ont un large &#233;peron en forme de pointe de fl&#232;che &#224; l’extr&#233;mit&#233; de leur longue queue. Susceptible de transpercer les armures et de briser les os, la queue d’un amphipt&#232;re embroche les proies, tel un p&#234;cheur qui harponne les poissons.&lt;br /&gt;&lt;br /&gt;Les amphipt&#232;res mesurent en moyenne 5,50 m&#232;tres de long (leur queue composant la majeure partie de cette longueur) et p&#232;sent dans les 800 kilos.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Amphiptère|FP 4}
+{s:pucem|Dragon|Collines|Tempéré}
+{s:BDTexte|''Source : Bestiaire 5 p.20''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Dragon|Dragon]] de taille G, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 9, pris au dépourvu 16 (naturelle +7, taille -1)}
+{s:BDTexte|'''pv''' 42 (5d12+10)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +6, '''Vol''' +5}
+{s:BDTexte|'''Immunités''' paralysie, sommeil}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m, [[Vol (capacité)|vol]] 18 m (moyenne)}
+{s:BDTexte|'''Corps à corps''' queue, +9 (1d8+4) et morsure, +8 (1d10+4 plus [[Étreinte (capacité)|étreinte]]) et 2 ailes, +3 (1d4+2)}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 1,50 m (3 m avec la queue)}
+{s:BDTexte|'''Attaques spéciales''' [[Constriction (capacité)|constriction]] (1d10+4), empalement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 11, '''Con''' 14, '''Int''' 7, '''Sag''' 12, '''Cha''' 9}
+{s:BDTexte|'''BBA''' +5 ; '''BMO''' +10 ; '''DMD''' 20 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (queue), [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +4, [[Perception]] +13, [[Psychologie]] +9, [[Vol]] +10 ; '''Modificateurs raciaux''' +4 en Perception et en Vol}
+{s:BDTexte|'''Langues''' draconique}
+{s:BDTexte|'''Particularités''' capacité de vol limitée}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' déserts, collines ou montagnes chaudes ou tempérées}
+{s:BDTexte|'''Organisation''' solitaire, couple ou escadrille (3-18)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Capacité de vol limitée (Ext).''' Les amphiptères ont des ailes mais ils ne peuvent pas vraiment voler. Ils se déplacent habituellement en s’élevant de quelques mètres au-dessus du sol grâce à leurs grandes ailes de chauves-souris et en prenant appui au sol avec leurs pattes griffues pour soulever leur masse. Cette tactique fournit à l’amphiptère une vitesse en vol de 18 mètres et une manœuvrabilité moyenne, mais elle ne lui permet pas de s’élever à plus de 3 mètres du sol ni d’utiliser ses ailes pour voler sur place. En outre, les amphiptères peuvent effectuer un test de [[Vol]] DD 15 pour retomber depuis n’importe quelle hauteur sans subir de dégâts de chute, comme s’ils étaient sous l’effet d’un sort de ''[[feuille morte]]''. Quand il retombe ainsi en toute sécurité, un amphiptère peut effectuer un test de Vol supplémentaire DD 15 pour planer, ce qui lui permet de se déplacer latéralement de 1,50 mètre pour chaque tranche de 3 mètres de descente.}
+{s:BDTexte|'''Empalement (Ext).''' Si un amphiptère confirme un [[coup critique]] avec son attaque de queue contre une créature de taille inférieure à la sienne, la queue à l’extrémité en pointe empale la créature ciblée. Une créature empalée de la sorte est affublée de l’état préjudiciable [[immobilisé|immobilisé en lutte]] (mais l’amphiptère n’est pas affublé de l’état préjudiciable [[agrippé]]), elle subit 1d6 points de dégâts de [[saignement]] et subit automatiquement les dégâts infligés par la queue de l’amphiptère chaque round pendant lequel elle demeure immobilisée. Un amphiptère ne peut pas utiliser son attaque spéciale de [[Constriction (capacité)|constriction]] contre une créature empalée de la sorte. Il ne peut pas non plus utiliser son attaque de queue tant qu’il empale une créature, mais il n’a pas besoin de réussir un test de manœuvre offensive de [[lutte]] pour maintenir sa prise. Un amphiptère peut relâcher une créature empalée par une action libre.}
+</div></td>
+<td><div>''Ce dragon au corps de serpent est doté d’une queue sinueuse à l’extrémité pointue. Sur ses membres antérieurs se déploient des ailes flamboyantes et il n’a pas de pattes arrière.''
+
+Lointains cousins des vouivres, les amphiptères sont tout aussi cruels et violents. Comme elles, ils ont des corps serpentins et des ailes de chauves-souris. Mais à la différence des vouivres, ils doivent utiliser leurs longues griffes situées à l’extrémité de leurs ailes pour prendre de l’élan, bondir maladroitement et soulever leur corps de quelques mètres au-dessus du sol. Leur corps est également plus long et bien plus fin que celui des vouivres et, au lieu du dard empoisonné de ces créatures, les amphiptères ont un large éperon en forme de pointe de flèche à l’extrémité de leur longue queue. Susceptible de transpercer les armures et de briser les os, la queue d’un amphiptère embroche les proies, tel un pêcheur qui harponne les poissons.
+
+Les amphiptères mesurent en moyenne 5,50 mètres de long (leur queue composant la majeure partie de cette longueur) et pèsent dans les 800 kilos.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Amphiptère</fullName>
+</wikiPage>

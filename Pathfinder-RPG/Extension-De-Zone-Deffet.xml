@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Extension de zone d'effet</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don métamagie</category></categories>
+  <lastModified>2024-06-29 01:10:49Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 6</link><link>Pathfinder-RPG.Cristal de nexus</link><link>Pathfinder-RPG.dons de métamagie</link><link>Pathfinder-RPG.dons raciaux</link><link>Pathfinder-RPG.Égide</link><link>Pathfinder-RPG.Extension de zone deffet</link><link>Pathfinder-RPG.FAQ Dons</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs (Dons et compétences)</link><link>Pathfinder-RPG.Glossaire des dons</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.lignage Orque</link><link>Pathfinder-RPG.Malédiction de zone</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.thaumaturgie associative</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.FAQ- Manuel des joueurs (Dons et compétences)</link><link>Pathfinder-RPG.Extension de portée</link><link>Pathfinder-RPG.Extension de zone deffet</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.zone deffet</link><link>Pathfinder-RPG.émanation</link><link>Pathfinder-RPG.étendue</link><link>Pathfinder-RPG.ligne</link><link>Pathfinder-RPG.rayonnement</link><link>Pathfinder-RPG.emplacement de sort</link><link>Pathfinder-RPG.Niveau de sort</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right; padding-left: 6px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs-(Dons-Et-Comp&#233;tences).html#17&quot; title=&quot;FAQ du Manuel des joueurs, section dons et comp&#233;tences&quot;&gt;→&lt;/a&gt; Extension de zone d&#39;effet : Comment le don  Extension de zone d&#39;effet affecte-t-il les sorts &#224; ligne d’effet ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Comme c’est &#233;crit, il ne les affecte pas – une ligne n’a pas de largeur, donc elle ne peut pas &#234;tre doubl&#233;e par le don, et la plupart des sorts &#224; ligne d’effet ont une port&#233;e fixe, que le sort ne peut pas d&#233;passer sauf gr&#226;ce &#224; &lt;a class=&quot;pagelink&quot; href=&quot;Extension-De-Port&#233;e.html&quot; title=&quot;Extension de port&#233;e&quot;&gt;Extension de port&#233;e&lt;/a&gt;. Donc, pour la plupart des lignes, &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extension-De-Zone-Deffet.html&quot; title=&quot;Extension de zone d&amp;#39;effet&quot;&gt;Extension de zone d’effet&lt;/a&gt;&lt;/u&gt; n’a aucun effet sauf s’il est coupl&#233; &#224; Extension de port&#233;e. Oui, c’est &#233;trange, et nous reverrons peut-&#234;tre cette r&#232;gle &#224; un moment donn&#233;.&lt;br /&gt;&lt;br /&gt;En attendant, &#224; titre de r&#232;gle maison (pas une mise &#224; jour officielle des r&#232;gles), il est raisonnable de permettre &#224; quelqu’un d’utiliser le don Extension de zone d’effet sur un sort &#224; ligne d’effet et d’effectivement doubler sa port&#233;e. Le personnage accepte, apr&#232;s tout, d’augmenter le niveau du sort de +3, et s’il lance &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;clair.html&quot; title=&quot;&#201;clair&quot;&gt;&#233;clair&lt;/a&gt;&lt;/i&gt; comme un sort de 6e niveau, il peut bien &#234;tre capable d&#39;en tirer un &#233;clair de 72 m&#232;tres de long.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:50px; cursor:pointer&quot; src=&quot;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&quot; title=&quot;Cliquez pour afficher/cacher une FAQ officielle relative &#224; ce texte&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqalt1.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&#39;;&quot; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Les sorts lanc&#233;s par le personnage affectent une zone plus &#233;tendue.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#METAMAGIE&quot; title=&quot;Les dons&quot;&gt;m&#233;tamagie&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Le personnage peut modifier un sort dont la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Zonedeffet.html&quot; title=&quot;zone deffet&quot;&gt;zone d’effet&lt;/a&gt; est une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defemanation.html&quot; title=&quot;&#233;manation&quot;&gt;&#233;manation&lt;/a&gt;, une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defetendue.html&quot; title=&quot;&#233;tendue&quot;&gt;&#233;tendue&lt;/a&gt;, une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defligne.html&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defrayonnement.html&quot; title=&quot;rayonnement&quot;&gt;rayonnement&lt;/a&gt; afin d’augmenter la surface couverte. Toutes les donn&#233;es num&#233;riques d&#233;terminant la surface de la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Zonedeffet.html&quot; title=&quot;zone deffet&quot;&gt;zone d’effet&lt;/a&gt; sont doubl&#233;es. Un sort &#224; extension de zone d’effet n&#233;cessite un &lt;a class=&quot;pagelink&quot; href=&quot;Emplacement-De-Sort.html&quot; title=&quot;emplacement de sort&quot;&gt;emplacement de sort&lt;/a&gt; de trois niveaux de plus que son &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Niveau.html&quot; title=&quot;Niveau de sort&quot;&gt;niveau&lt;/a&gt; r&#233;el.&lt;br /&gt;&lt;br /&gt;Les sorts dont la zone d’effet n’est pas d’un des quatre types cit&#233;s ne peuvent &#234;tre affect&#233;s par ce don.
+]]></body>
+  <raw><![CDATA[{s:FAQ|'''''[[FAQ- Manuel des joueurs (Dons et compétences)#17|→]] Extension de zone d'effet : Comment le don  Extension de zone d'effet affecte-t-il les sorts à ligne d’effet ?'''''
+
+Comme c’est écrit, il ne les affecte pas – une ligne n’a pas de largeur, donc elle ne peut pas être doublée par le don, et la plupart des sorts à ligne d’effet ont une portée fixe, que le sort ne peut pas dépasser sauf grâce à [[Extension de portée]]. Donc, pour la plupart des lignes, __[[Extension de zone deffet|Extension de zone d’effet]]__ n’a aucun effet sauf s’il est couplé à Extension de portée. Oui, c’est étrange, et nous reverrons peut-être cette règle à un moment donné.
+
+En attendant, à titre de règle maison (pas une mise à jour officielle des règles), il est raisonnable de permettre à quelqu’un d’utiliser le don Extension de zone d’effet sur un sort à ligne d’effet et d’effectivement doubler sa portée. Le personnage accepte, après tout, d’augmenter le niveau du sort de +3, et s’il lance ''[[éclair]]'' comme un sort de 6e niveau, il peut bien être capable d'en tirer un éclair de 72 mètres de long.}''Les sorts lancés par le personnage affectent une zone plus étendue.''
+
+'''Catégorie.''' [[Dons#METAMAGIE|métamagie]]
+
+'''Avantage.''' Le personnage peut modifier un sort dont la [[zone deffet|zone d’effet]] est une [[émanation]], une [[étendue]], une [[ligne]] ou un [[rayonnement]] afin d’augmenter la surface couverte. Toutes les données numériques déterminant la surface de la [[zone deffet|zone d’effet]] sont doublées. Un sort à extension de zone d’effet nécessite un [[emplacement de sort]] de trois niveaux de plus que son [[niveau de sort|niveau]] réel.
+
+Les sorts dont la zone d’effet n’est pas d’un des quatre types cités ne peuvent être affectés par ce don.]]></raw>
+  <fullName>Pathfinder-RPG.Extension de zone deffet</fullName>
+</wikiPage>

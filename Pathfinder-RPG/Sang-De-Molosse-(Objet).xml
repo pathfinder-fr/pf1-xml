@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sang de molosse</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:51:49Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Outils alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Gnome</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gnome.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gnome.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gnome.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;gnomes&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 110 po ; &lt;b&gt;Poids&lt;/b&gt; — ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 20  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Si un personnage applique cette &#233;paisse p&#226;te rouge, que l’on appelle le sang de molosse, sur son nez ou sa l&#232;vre sup&#233;rieure, son odorat s’am&#233;liore. La p&#226;te donne un bonus alchimique de +2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; pendant 1 heure &#224; la plupart des cr&#233;atures, mais, chez les &lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;gnomes&lt;/a&gt;, il d&#233;cuple les capacit&#233;s olfactives et le b&#233;n&#233;ficiaire dispose pendant 5 minutes du pouvoir &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt; avant de n’avoir plus qu’un bonus de circonstances de +2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; pendant 1 heure de plus.
+]]></body>
+  <raw><![CDATA[{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}'''Prix''' 110 po ; '''Poids''' — ; '''DD d'Artisanat (alchimie)''' 20  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+Si un personnage applique cette épaisse pâte rouge, que l’on appelle le sang de molosse, sur son nez ou sa lèvre supérieure, son odorat s’améliore. La pâte donne un bonus alchimique de +2 aux tests de [[Perception]] pendant 1 heure à la plupart des créatures, mais, chez les [[Gnome|gnomes]], il décuple les capacités olfactives et le bénéficiaire dispose pendant 5 minutes du pouvoir [[Odorat (capacité)|odorat]] avant de n’avoir plus qu’un bonus de circonstances de +2 aux tests de [[Perception]] pendant 1 heure de plus.]]></raw>
+  <fullName>Pathfinder-RPG.Sang de molosse (objet)</fullName>
+</wikiPage>

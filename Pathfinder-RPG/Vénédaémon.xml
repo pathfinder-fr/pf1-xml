@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Daémon, Vénédaémon</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Livre des damnés</category></categories>
+  <lastModified>2023-03-21 15:02:43Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Daémon</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Livre des damnés 1 (Contenu)</link><link>Pathfinder-RPG.Temp-Bestiaire du Livre des damnés</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type daémon</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.Vision magique</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.Dissipation de la magie</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Cacodaémon</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Rayon ardent</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Armure de mage</link><link>Pathfinder-RPG.Projectile magique</link><link>Pathfinder-RPG.Bouclier</link><link>Pathfinder-RPG.Aspersion acide</link><link>Pathfinder-RPG.Signature magique</link><link>Pathfinder-RPG.Saignement</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Prestidigitation</link><link>Pathfinder-RPG.Rayon de givre</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Dispense de composantes matérielles</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Aptitude magique</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Daémon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;V&#233;n&#233;da&#233;mon&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Livre des damn&#233;s p.192&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Da&#233;mon.html&quot; title=&quot;Da&#233;mon (sous-type)&quot;&gt;da&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init &lt;/b&gt;+6 ; &lt;b&gt;Sens&lt;/b&gt; vision dans le noir &#224; 18m, vision magique ; Perception +12
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 12, pris au d&#233;pourvu 16 (Dex +2, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PV&lt;/b&gt; 51 (6d10+18) 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f &lt;/b&gt;+7, &lt;b&gt;Vig &lt;/b&gt;+5, &lt;b&gt;Vol &lt;/b&gt;+8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/Bien ou argent ; &lt;b&gt;Immunit&#233;&lt;/b&gt; acide, effets de mort, maladie, poison ; &lt;b&gt;R&#233;sistance&lt;/b&gt; froid 10,  &#233;lectricit&#233; 10, feu 10  ; &lt;b&gt;RM&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9m, vol 9m (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 tentacules, +6 (1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &#233;crasement magique de l’&#226;me
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6 ; concentration +11)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Permanent – &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Magique.html&quot; title=&quot;Vision magique&quot;&gt;Vision magique&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-De-La-Magie.html&quot; title=&quot;Dissipation de la magie&quot;&gt;dissipation de la magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Convocation.html&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt; (niveau 3 &lt;a class=&quot;pagelink&quot; href=&quot;Cacoda&#233;mon.html&quot; title=&quot;Da&#233;mon, Cacoda&#233;mon&quot;&gt;cacoda&#233;mon&lt;/a&gt;, 75%)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sorts connus&lt;/b&gt; (NLS 6 ; concentration +11)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3e 4/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Personne.html&quot; title=&quot;Immobilisation de personne&quot;&gt;immobilisation de personne&lt;/a&gt; (DD 18)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2e 6/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt; (DD 17), &lt;a class=&quot;pagelink&quot; href=&quot;Rayon-Ardent.html&quot; title=&quot;Rayon ardent&quot;&gt;rayon ardent&lt;/a&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1er 8/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme personne&lt;/a&gt; (DD 16), &lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Mage.html&quot; title=&quot;Armure de mage&quot;&gt;armure de mage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Projectile-Magique.html&quot; title=&quot;Projectile magique&quot;&gt;projectile magique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Bouclier.html&quot; title=&quot;Bouclier&quot;&gt;bouclier&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 &#224; volont&#233; - &lt;a class=&quot;pagelink&quot; href=&quot;Aspersion-Acide.html&quot; title=&quot;Aspersion acide&quot;&gt;aspersion acide&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Signature-Magique.html&quot; title=&quot;Signature magique&quot;&gt;signature magique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Saignement.html&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt; (DD 15), &lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Prestidigitation.html&quot; title=&quot;Prestidigitation&quot;&gt;prestidigitation&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Givre.html&quot; title=&quot;Rayon de givre&quot;&gt;rayon de givre&lt;/a&gt; (DD 15), &lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 22, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA &lt;/b&gt;+6 ; &lt;b&gt;BMO &lt;/b&gt;+6 ; &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dispense-De-Composantes-Mat&#233;rielles.html&quot; title=&quot;Dispense de composantes mat&#233;rielles&quot;&gt;Dispense de composantes mat&#233;rielles&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Aptitude-Magique.html&quot; title=&quot;Aptitude magique&quot;&gt;Aptitude magique&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +15, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +15, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +12, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, commun, draconique, infernal, aquatique, ign&#233; ; t&#233;l&#233;pathie 30m
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abaddon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou cabale (3–6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;crasement magique de l&#39;&#226;me (Sur)&lt;/b&gt;Par une action rapide, un
+v&#233;n&#233;da&#233;mon peut avaler une de ses gemmes spirituelles, ce qui
+lui permet de lancer n’importe lequel de ses sorts connus sans
+utiliser d’emplacement de sort. Pour qu’il puisse se servir de ce
+pouvoir, la gemme doit contenir l’&#226;me d’une cr&#233;ature dont le
+nombre de D&#233;s de Vie est au moins &#233;gal au niveau du sort qu’il
+veut lancer.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Da&#233;mon.html&quot; title=&quot;Les da&#233;mons&quot;&gt;da&#233;mons&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Des robes de soie drapent la forme androgyne de ce da&#233;mon et ne r&#233;v&#232;lent
+que la silhouette du corps qu’elles dissimulent. Des tentacules
+termin&#233;s par des griffes sortent des manches, agrippant des baguettes
+et des gemmes spirituelles. Ses pattes aux nombreuses articulations,
+presque comme celles d’un insecte reptilien, finissent par des pieds
+chitineux munis de trois doigts griffus. Son visage est en permanence
+couvert d’un voile sombre et trois longues langues fourchues &#233;mergent
+de temps en temps de sa bouche arrondie, go&#251;tant l’air autour
+de ses l&#232;vres fines.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le v&#233;n&#233;da&#233;mon incarne la mort inflig&#233;e par magie et poss&#232;de
+donc un talent inn&#233; pour toute forme de sorcellerie.
+Aussi amateur d’&#226;me que ses autres cong&#233;n&#232;res da&#233;moniaques,
+il adore la richesse intangible procur&#233;e par l’acquisition
+des connaissances et il peut donc utiliser au mieux
+ses talents magiques inn&#233;s. Les v&#233;n&#233;da&#233;mons d&#233;sirent ardemment
+les secrets et les connaissances magiques que l’on
+trouve dans les grimoires des magiciens, car ils savent que
+ces formules magiques sont la cl&#233; qui leur ouvrira l’acc&#232;s &#224;
+de myst&#233;rieux pouvoirs. Lorsqu’ils cherchent &#224; acqu&#233;rir ces
+livres, les da&#233;mons croisent invariablement d’autres sources
+d’informations - les faiblesses d’un rival, des connaissances
+qui conduisent &#224; un filon inexploit&#233; d’&#226;mes cach&#233;es dans
+l’une des vastes cavernes d’Abaddon ou la rumeur d’une
+terrible puissance da&#233;moniaque dissimul&#233;e quelque part.
+Ils peuvent ainsi utiliser ces renseignements dans leurs n&#233;gociations
+avec d’autres da&#233;mons. Ils vendent ces rumeurs
+et ces conseils parcellaires &#224; leurs cong&#233;n&#232;res en &#233;change
+d’&#226;mes prisonni&#232;res et ce commerce est souvent &#224; double
+sens, car les v&#233;n&#233;da&#233;mons ont aussi tendance &#224; &#233;changer les
+gemmes spirituelles qu’ils ont si durement acquises contre des
+grimoires magiques sur lesquels d’autres sont tomb&#233;s.
+En plus de ses nombreux pouvoirs magiques de da&#233;mon,
+le v&#233;n&#233;da&#233;mon peut lancer des sorts comme un ensorceleur
+dont le NLS est &#233;gal &#224; ses D&#233;s de Vie. Il gagne des niveaux
+suppl&#233;mentaires comme un ensorceleur lorsqu’il s’agit
+d’am&#233;liorer ses pouvoirs magiques. Dans ce cas, il gagne un
+lignage (en g&#233;n&#233;ral Abyssal ou Infernal), ainsi que les autres
+aptitudes et les capacit&#233;s sp&#233;ciales d’un ensorceleur.
+Les v&#233;n&#233;da&#233;mons sont d&#233;charn&#233;s et en d&#233;pit d’une taille
+avoisinant les 2,10 m&#232;tres, ils p&#232;sent rarement plus de 75 kilos.
+&lt;/div&gt;&lt;br /&gt;&lt;div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Habitat &amp; Soci&#233;t&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Habitat__Soci&#233;t&#233;_0&quot; href=&quot;#Habitat__Soci&#233;t&#233;_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Comme tous les da&#233;mons communs, les v&#233;n&#233;da&#233;mons sont
+souvent issus des traqu&#233;s, en particulier de ces &#226;mes malveillantes
+mortes &#224; cause d’un abus de magie - de leurs propres
+mains avides, suite au caprice de puissants rivaux, pendant
+l’in&#233;vitable recherche de connaissances trop difficiles &#224; g&#233;rer
+pour eux, ou &#224; cause d’autres lanceurs de sorts qui les
+ont tu&#233;s pour leurs crimes. M&#234;me si ces traqu&#233;s &#233;taient
+parfois eux-m&#234;mes des lanceurs de sorts, certains v&#233;n&#233;da&#233;mons
+naissent d’&#226;mes normales simplement victimes d’un
+d&#233;cha&#238;nement de violence magique. Ces individus sont fr&#233;quemment
+si corrompus par la magie qui les a tu&#233;s qu’ils ont d&#233;velopp&#233; des pouvoirs par
+une ironie du sort de l’&#233;volution
+da&#233;moniaque. D’autres fois encore,
+ils apparaissent par des moyens bien
+plus &#233;tranges.
+Il arrive parfois que des magiciens
+mortels cherchent &#224; contr&#244;ler
+les forces effroyables d’Abaddon et de
+ses da&#233;mons en utilisant des familiers cacoda&#233;mons.
+De son c&#244;t&#233;, le cacoda&#233;mon
+sert en g&#233;n&#233;ral volontiers un
+ma&#238;tre mortel pendant un temps limit&#233;,
+mais il a des raisons d’accepter cette servitude.
+Lorsque son ma&#238;tre mortel meurt, il d&#233;vore promptement
+l’&#226;me du magicien et la transforme en gemme spirituelle.
+Au lieu de retourner en Abaddon et d’&#234;tre absorb&#233;e
+par un da&#233;mon plus puissant, celle-ci d&#233;clenche parfois
+une r&#233;action &#224; l’int&#233;rieur du cacoda&#233;mon. Elle fusionne
+avec lui et transforme le familier apr&#232;s plusieurs semaines
+ou plusieurs mois en une nouvelle cr&#233;ature, en
+g&#233;n&#233;ral un v&#233;n&#233;da&#233;mon sans aucun souvenir de son
+existence mortelle ou da&#233;moniaque pr&#233;c&#233;dente. C’est
+loin d’&#234;tre un accident. Cette possibilit&#233; de transformation
+est l’une des principales raisons qui poussent
+quelquefois les cacoda&#233;mons &#224; servir volontairement
+de familier, car c’est pour eux l’une des seules mani&#232;res
+d’am&#233;liorer leur statut.
+Habitat &amp; soci&#233;t&#233;
+Les v&#233;n&#233;da&#233;mons sont pour la plupart faibles quand on
+les compare &#224; leurs immenses fr&#232;res da&#233;moniaques qui
+peuplent Abaddon. Sachant cela, ils travaillent souvent de
+concert du mieux qu’ils le peuvent, collaborant en compagnie
+de v&#233;n&#233;da&#233;mons ou d’autres fi&#233;lons d&#233;sireux d’accepter
+leurs services. Jet&#233; dans le plan avec un talent inn&#233; pour
+la magie et &#224; peine quelques lambeaux de souvenir de ses
+connaissances mortelles, le v&#233;n&#233;da&#233;mon ordinaire sert un
+da&#233;mon plus puissant qui voudra bien jouer les protecteurs
+et le laissera poursuivre ses &#233;tudes. Dans ce cas, il augmentera
+lentement sa puissance et son influence dans les limites
+de ce partenariat, qui inclut en g&#233;n&#233;ral lui-m&#234;me, son ma&#238;tre
+da&#233;moniaque et de nombreux autres da&#233;mons au sein d’une
+&#233;quipe constitu&#233;e autour d’un objectif commun : l’oblit&#233;ration
+totale des mortels. Cette horde da&#233;moniaque traverse
+les plans &#224; la recherche d’occasions de destruction de masse,
+le ma&#238;tre utilisant simplement le v&#233;n&#233;da&#233;mon pour ses aptitudes
+magiques &#224; massacrer des &#226;mes. Il glane ce qu’il peut
+dans les restes calcin&#233;s des grimoires des lanceurs de sorts
+mortels tu&#233;s, gagne peu &#224; peu en pouvoir et avec le temps,
+retourne la situation. Quand le v&#233;n&#233;da&#233;mon tue son protecteur,
+il met la main sur une sombre magie et sur ses semblables.
+Les fi&#233;lons qui ne souhaitent pas se soumettre &#224; la
+volont&#233; d’un da&#233;mon plus puissant dans le but d’obtenir plus
+de connaissances pr&#233;f&#232;rent la plupart du temps simplement
+poursuivre seuls leurs recherches. Ils exp&#233;rimentent leurs
+sombres arts sur des mortels et vendent parfois leurs d&#233;couvertes
+&#224; d’autres da&#233;mons en &#233;change d’&#226;mes et d’objets
+magiques.
+Les v&#233;n&#233;da&#233;mons s’allient avec les fi&#233;lons inf&#233;rieurs
+d’Abaddon, en particulier les petits ceustoda&#233;mons dont l’association
+avec les &#233;nergies et le statut servile font d’eux des
+alli&#233;s &#233;vidents. Les cacoda&#233;mons conviennent &#233;galement car
+un v&#233;n&#233;da&#233;mon peut les aider &#224; capturer l’&#226;me d’un lanceur
+de sorts adverse et lui permettre de rena&#238;tre sous la forme
+d’un cong&#233;n&#232;re. Au sein du royaume d’Abaddon, ces fi&#233;lons
+tra&#238;nent aux abords du Styx pour ses myst&#233;rieuses propri&#233;t&#233;s
+amn&#233;siantes. Nombre d’entre eux montrent en effet un
+int&#233;r&#234;t particulier pour leurs souvenirs et l’opportunit&#233; de
+regagner la puissance qu’ils poss&#233;daient autrefois, quelque
+part dans les recoins les plus secrets de leur esprit.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Vénédaémon|FP 5}
+{s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
+{s:BDTexte|''Source : Livre des damnés p.192''}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille M, LM}
+{s:BDTexte|'''Init '''+6 ; '''Sens''' vision dans le noir à 18m, vision magique ; Perception +12}
+(((Défense)))
+{s:BDTexte|'''CA''' 18, contact 12, pris au dépourvu 16 (Dex +2, naturelle +6)}
+{s:BDTexte|'''PV''' 51 (6d10+18) }
+{s:BDTexte|'''Réf '''+7, '''Vig '''+5, '''Vol '''+8}
+{s:BDTexte|'''RD''' 5/Bien ou argent ; '''Immunité''' acide, effets de mort, maladie, poison ; '''Résistance''' froid 10,  électricité 10, feu 10  ; '''RM''' 16}
+(((Attaque)))
+{s:BDTexte|'''VD''' 9m, vol 9m (moyenne)}
+{s:BDTexte|'''Corps à corps''' 2 tentacules, +6 (1d6)}
+{s:BDTexte|'''Attaques spéciales''' écrasement magique de l’âme}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6 ; concentration +11)}
+{s:BDSorts|Permanent – [[Vision magique]] }
+{s:BDSorts|3/jour - [[porte dimensionnelle]], [[dissipation de la magie]], [[lenteur]]}
+{s:BDSorts|1/jour - [[convocation]] (niveau 3 [[cacodaémon]], 75%)}
+{s:BDTexte|'''Sorts connus''' (NLS 6 ; concentration +11)}
+{s:BDSorts|3e 4/jour - [[immobilisation de personne]] (DD 18)}
+{s:BDSorts|2e 6/jour - [[invisibilité]] (DD 17), [[rayon ardent]] (DD 17)}
+{s:BDSorts|1er 8/jour - [[Charme-personne|charme personne]] (DD 16), [[armure de mage]], [[projectile magique]], [[bouclier]]}
+{s:BDSorts|0 à volonté - [[aspersion acide]], [[signature magique]], [[saignement]] (DD 15), [[manipulation à distance]], [[prestidigitation]], [[rayon de givre]] (DD 15), [[lecture de la magie]]}
+(((Statistiques)))
+{s:BDTexte|'''For''' 11, '''Dex''' 15, '''Con''' 16, '''Int''' 22, '''Sag''' 16, '''Cha''' 21}
+{s:BDTexte|'''BBA '''+6 ; '''BMO '''+6 ; '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Magie de guerre]], [[Dispense de composantes matérielles]], [[Science de linitiative|Science de l’initiative]], [[Aptitude magique]] } 
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +17, [[Bluff]] +14, [[Connaissances]] (mystères) +15, [[Connaissances]] (plans) +15, [[Connaissances]] (religion) +12, [[Déguisement]] +11, [[Discrétion]] +11, [[Intimidation]] +14, [[Perception]] +12, [[Psychologie]] +12, [[Vol]] +11, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +16}
+{s:BDTexte|'''Langues''' abyssal, céleste, commun, draconique, infernal, aquatique, igné ; télépathie 30m}
+(((Écologie)))
+{s:BDTexte|'''Environnement''' quelconque (Abaddon)}
+{s:BDTexte|'''Organisation''' solitaire, couple ou cabale (3–6)}
+{s:BDTexte|'''Trésor''' standard}
+(((Pouvoirs spéciaux)))
+{s:BDTexte|'''Écrasement magique de l'âme (Sur)'''Par une action rapide, un
+vénédaémon peut avaler une de ses gemmes spirituelles, ce qui
+lui permet de lancer n’importe lequel de ses sorts connus sans
+utiliser d’emplacement de sort. Pour qu’il puisse se servir de ce
+pouvoir, la gemme doit contenir l’âme d’une créature dont le
+nombre de Dés de Vie est au moins égal au niveau du sort qu’il
+veut lancer.}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[daémon|daémons]].'''''</li></ul>
+''Des robes de soie drapent la forme androgyne de ce daémon et ne révèlent
+que la silhouette du corps qu’elles dissimulent. Des tentacules
+terminés par des griffes sortent des manches, agrippant des baguettes
+et des gemmes spirituelles. Ses pattes aux nombreuses articulations,
+presque comme celles d’un insecte reptilien, finissent par des pieds
+chitineux munis de trois doigts griffus. Son visage est en permanence
+couvert d’un voile sombre et trois longues langues fourchues émergent
+de temps en temps de sa bouche arrondie, goûtant l’air autour
+de ses lèvres fines.''
+
+Le vénédaémon incarne la mort infligée par magie et possède
+donc un talent inné pour toute forme de sorcellerie.
+Aussi amateur d’âme que ses autres congénères daémoniaques,
+il adore la richesse intangible procurée par l’acquisition
+des connaissances et il peut donc utiliser au mieux
+ses talents magiques innés. Les vénédaémons désirent ardemment
+les secrets et les connaissances magiques que l’on
+trouve dans les grimoires des magiciens, car ils savent que
+ces formules magiques sont la clé qui leur ouvrira l’accès à
+de mystérieux pouvoirs. Lorsqu’ils cherchent à acquérir ces
+livres, les daémons croisent invariablement d’autres sources
+d’informations - les faiblesses d’un rival, des connaissances
+qui conduisent à un filon inexploité d’âmes cachées dans
+l’une des vastes cavernes d’Abaddon ou la rumeur d’une
+terrible puissance daémoniaque dissimulée quelque part.
+Ils peuvent ainsi utiliser ces renseignements dans leurs négociations
+avec d’autres daémons. Ils vendent ces rumeurs
+et ces conseils parcellaires à leurs congénères en échange
+d’âmes prisonnières et ce commerce est souvent à double
+sens, car les vénédaémons ont aussi tendance à échanger les
+gemmes spirituelles qu’ils ont si durement acquises contre des
+grimoires magiques sur lesquels d’autres sont tombés.
+En plus de ses nombreux pouvoirs magiques de daémon,
+le vénédaémon peut lancer des sorts comme un ensorceleur
+dont le NLS est égal à ses Dés de Vie. Il gagne des niveaux
+supplémentaires comme un ensorceleur lorsqu’il s’agit
+d’améliorer ses pouvoirs magiques. Dans ce cas, il gagne un
+lignage (en général Abyssal ou Infernal), ainsi que les autres
+aptitudes et les capacités spéciales d’un ensorceleur.
+Les vénédaémons sont décharnés et en dépit d’une taille
+avoisinant les 2,10 mètres, ils pèsent rarement plus de 75 kilos.
+</div>
+
+<div>
+====Habitat & Société====
+Comme tous les daémons communs, les vénédaémons sont
+souvent issus des traqués, en particulier de ces âmes malveillantes
+mortes à cause d’un abus de magie - de leurs propres
+mains avides, suite au caprice de puissants rivaux, pendant
+l’inévitable recherche de connaissances trop difficiles à gérer
+pour eux, ou à cause d’autres lanceurs de sorts qui les
+ont tués pour leurs crimes. Même si ces traqués étaient
+parfois eux-mêmes des lanceurs de sorts, certains vénédaémons
+naissent d’âmes normales simplement victimes d’un
+déchaînement de violence magique. Ces individus sont fréquemment
+si corrompus par la magie qui les a tués qu’ils ont développé des pouvoirs par
+une ironie du sort de l’évolution
+daémoniaque. D’autres fois encore,
+ils apparaissent par des moyens bien
+plus étranges.
+Il arrive parfois que des magiciens
+mortels cherchent à contrôler
+les forces effroyables d’Abaddon et de
+ses daémons en utilisant des familiers cacodaémons.
+De son côté, le cacodaémon
+sert en général volontiers un
+maître mortel pendant un temps limité,
+mais il a des raisons d’accepter cette servitude.
+Lorsque son maître mortel meurt, il dévore promptement
+l’âme du magicien et la transforme en gemme spirituelle.
+Au lieu de retourner en Abaddon et d’être absorbée
+par un daémon plus puissant, celle-ci déclenche parfois
+une réaction à l’intérieur du cacodaémon. Elle fusionne
+avec lui et transforme le familier après plusieurs semaines
+ou plusieurs mois en une nouvelle créature, en
+général un vénédaémon sans aucun souvenir de son
+existence mortelle ou daémoniaque précédente. C’est
+loin d’être un accident. Cette possibilité de transformation
+est l’une des principales raisons qui poussent
+quelquefois les cacodaémons à servir volontairement
+de familier, car c’est pour eux l’une des seules manières
+d’améliorer leur statut.
+Habitat & société
+Les vénédaémons sont pour la plupart faibles quand on
+les compare à leurs immenses frères daémoniaques qui
+peuplent Abaddon. Sachant cela, ils travaillent souvent de
+concert du mieux qu’ils le peuvent, collaborant en compagnie
+de vénédaémons ou d’autres fiélons désireux d’accepter
+leurs services. Jeté dans le plan avec un talent inné pour
+la magie et à peine quelques lambeaux de souvenir de ses
+connaissances mortelles, le vénédaémon ordinaire sert un
+daémon plus puissant qui voudra bien jouer les protecteurs
+et le laissera poursuivre ses études. Dans ce cas, il augmentera
+lentement sa puissance et son influence dans les limites
+de ce partenariat, qui inclut en général lui-même, son maître
+daémoniaque et de nombreux autres daémons au sein d’une
+équipe constituée autour d’un objectif commun : l’oblitération
+totale des mortels. Cette horde daémoniaque traverse
+les plans à la recherche d’occasions de destruction de masse,
+le maître utilisant simplement le vénédaémon pour ses aptitudes
+magiques à massacrer des âmes. Il glane ce qu’il peut
+dans les restes calcinés des grimoires des lanceurs de sorts
+mortels tués, gagne peu à peu en pouvoir et avec le temps,
+retourne la situation. Quand le vénédaémon tue son protecteur,
+il met la main sur une sombre magie et sur ses semblables.
+Les fiélons qui ne souhaitent pas se soumettre à la
+volonté d’un daémon plus puissant dans le but d’obtenir plus
+de connaissances préfèrent la plupart du temps simplement
+poursuivre seuls leurs recherches. Ils expérimentent leurs
+sombres arts sur des mortels et vendent parfois leurs découvertes
+à d’autres daémons en échange d’âmes et d’objets
+magiques.
+Les vénédaémons s’allient avec les fiélons inférieurs
+d’Abaddon, en particulier les petits ceustodaémons dont l’association
+avec les énergies et le statut servile font d’eux des
+alliés évidents. Les cacodaémons conviennent également car
+un vénédaémon peut les aider à capturer l’âme d’un lanceur
+de sorts adverse et lui permettre de renaître sous la forme
+d’un congénère. Au sein du royaume d’Abaddon, ces fiélons
+traînent aux abords du Styx pour ses mystérieuses propriétés
+amnésiantes. Nombre d’entre eux montrent en effet un
+intérêt particulier pour leurs souvenirs et l’opportunité de
+regagner la puissance qu’ils possédaient autrefois, quelque
+part dans les recoins les plus secrets de leur esprit.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Vénédaémon</fullName>
+</wikiPage>

@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Vollute</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-24 14:12:10Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Résurrection suprême</link><link>Pathfinder-RPG.Miracle</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.aider qqn</link><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type élémentaire</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.sous-type Air</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.sous-type Terre</link><link>Pathfinder-RPG.Perception des vibrations (capacité)</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.sous-type Eau</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.sous-type Feu</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Combustion (capacité)</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Familier supérieur</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.lignage Élémentaire</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vollute&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (plans &#201;l&#233;mentaires ou plan &#201;th&#233;r&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, nuage (3-8), symphonie (10-40 plus 1 chef d’orchestre vollute) ou suite (1-6 plus une puissante cr&#233;ature &#233;l&#233;mentaire)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Batterie vivante (Ext).&lt;/b&gt; Le vollute peut utiliser une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Immediate.html&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt; pour se suicider, afin qu’une cr&#233;ature b&#233;n&#233;ficiant de sa r&#233;sonance gu&#233;risse de 2 points de vie pour chaque &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; qu’il poss&#233;dait. Il est impossible d’emp&#234;cher le vollute de mourir quand il utilise ce pouvoir et il est tout aussi impossible de le ramener &#224; la vie, pas m&#234;me en utilisant des effets qui rappellent d’ordinaire les ext&#233;rieurs &#224; la vie, &#224; moins d’user de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;surrection-Supr&#234;me.html&quot; title=&quot;R&#233;surrection supr&#234;me&quot;&gt;r&#233;surrection supr&#234;me&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Miracle.html&quot; title=&quot;Miracle&quot;&gt;miracle&lt;/a&gt;&lt;/i&gt; ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sonance (Ext).&lt;/b&gt; La r&#233;sonance naturelle du vollute renforce la puissance de l’&#233;l&#233;ment auquel il est associ&#233;. Il accorde un bonus de comp&#233;tence de +2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;de d&#233;g&#226;ts&lt;/a&gt; de toutes les cr&#233;atures situ&#233;es dans un rayon de 9 m&#232;tres et dot&#233;es du sous-type &#233;l&#233;mentaire identique &#224; celui du vollute, ainsi qu’au DD de leurs pouvoirs raciaux magiques, surnaturels et extraordinaires (comme d’habitude, cela n’inclut pas les cr&#233;atures prenant une forme &#233;l&#233;mentaire). Un &lt;a class=&quot;pagelink&quot; href=&quot;Cin&#233;tiste.html&quot; title=&quot;Le cin&#233;tiste&quot;&gt;cin&#233;tiste&lt;/a&gt; qui se trouve dans un rayon de 9 m&#232;tres autour du vollute et appartient au m&#234;me &#233;l&#233;ment que lui gagne un bonus de comp&#233;tence de +1 aux jets d’attaque et de d&#233;g&#226;ts. Le profil du vollute tient d&#233;j&#224; compte de ces bonus.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Serviteur (Ext).&lt;/b&gt; Le vollute est un serviteur-n&#233;. Quand il utilise l’action &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Aiderqqn.html&quot; title=&quot;aider qqn&quot;&gt;aider quelqu’un&lt;/a&gt; pour porter assistance &#224; une cr&#233;ature b&#233;n&#233;ficiant de sa r&#233;sonance, il peut lui conf&#233;rer un bonus de +4 au lieu de +2. Aucun autre effet ne peut faire passer ce bonus au-del&#224; de +4.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_1&quot; href=&quot;#_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vollute de l’aether&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.288&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (aether, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; r&#233;sonance (9 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 15, pris au d&#233;pourvu 12 (Dex +3, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (3d10+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 18 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 filaments, +10 (1d3+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 75 cm ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 14 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, aquatique, ign&#233;, terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; batterie vivante, serviteur, t&#233;l&#233;kin&#233;sie inf&#233;rieure
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;T&#233;l&#233;kin&#233;sie inf&#233;rieure (Sur).&lt;/b&gt; Quand le vollute de l’aether &#233;tend ses filaments &#233;th&#233;r&#233;s, il peut d&#233;placer de petits objets de loin, comme avec manipulation &#224; distance, mais cette aptitude est un pouvoir surnaturel permettant de d&#233;placer des objets, magiques ou non, d’un poids maximum de 5 kilos.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_2&quot; href=&quot;#_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vollute de l’air&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.288&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Air.html&quot; title=&quot;Air (sous-type)&quot;&gt;Air&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; r&#233;sonance (9 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 16, pris au d&#233;pourvu 12 (Dex +4, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (3d10+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 30 m (parfaite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 filaments, +11 (1d3+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 75 cm ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +5 ; &lt;b&gt;DMD&lt;/b&gt; 15 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; batterie vivante, serviteur
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_3&quot; href=&quot;#_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vollute de la terre&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.288&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Terre.html&quot; title=&quot;Terre (sous-type)&quot;&gt;Terre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Des-Vibrations-(Capacit&#233;).html&quot; title=&quot;Perception des vibrations (Ext)&quot;&gt;perception des vibrations&lt;/a&gt; &#224; 9 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; r&#233;sonance (9 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 13, pris au d&#233;pourvu 13 (Dex +1, naturelle +1, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 25 (3d10+9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 1/— ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, creusement 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 filaments, +9 (1d3+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 75 cm ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +2 ; &lt;b&gt;DMD&lt;/b&gt; 14 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (exploration souterraine, ing&#233;nierie, plans) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; batterie vivante, serviteur
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_4&quot; href=&quot;#_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vollute de l&#39;eau&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.289&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; r&#233;sonance (9 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 13, pris au d&#233;pourvu 12 (Dex +1, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (3d10+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, nage 27 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 filaments, +9 (1d3+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 75 cm ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; extinction des feux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +2 ; &lt;b&gt;DMD&lt;/b&gt; 13 (insensible au &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (filament), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; batterie vivante, serviteur
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Extinction des feux (Ext).&lt;/b&gt; Le contact du vollute de l’eau &#233;teint les flammes non magiques de taille G ou inf&#233;rieure. Le vollute peut dissiper les flammes magiques qu’il touche comme avec une dissipation de la magie (NLS = DV du vollute).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt; &lt;a class=&quot;headeranchor&quot; id=&quot;_5&quot; href=&quot;#_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vollute du feu&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.289&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;&#233;l&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Feu.html&quot; title=&quot;Feu (sous-type)&quot;&gt;Feu&lt;/a&gt;) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; r&#233;sonance (9 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 14, pris au d&#233;pourvu 12 (Dex +2, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (3d10+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; feu, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-&#201;l&#233;mentaire.html&quot; title=&quot;&#201;l&#233;mentaire (sous-type)&quot;&gt;traits des &#233;l&#233;mentaires&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au froid
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 6 m (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 filaments, +9 (1d3+2 plus &lt;a class=&quot;pagelink&quot; href=&quot;Combustion-(Capacit&#233;).html&quot; title=&quot;Combustion (Ext)&quot;&gt;combustion&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 75 cm ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Combustion-(Capacit&#233;).html&quot; title=&quot;Combustion (Ext)&quot;&gt;combustion&lt;/a&gt; (1d6 feu, DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +3 ; &lt;b&gt;DMD&lt;/b&gt; 13 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; ign&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; batterie vivante, serviteur
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette sph&#232;re de mati&#232;re &#233;l&#233;mentaire &#233;met un curieux bourdonnement qui vibre de puissance &#233;l&#233;mentaire.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les vollutes forment un ensemble de cinq races de petits &#233;l&#233;mentaires. Les vollutes de l’&#233;ther sont les premiers apparus, n&#233;s de la convergence entre les plans &#201;l&#233;mentaires et &#201;th&#233;r&#233;s qui a donn&#233; naissance &#224; l’&#233;l&#233;ment que l’on appelle l’&#233;ther. Pendant un temps, ces vollutes ont parcouru librement les plans &#201;l&#233;mentaires et &#201;th&#233;r&#233;s, regroup&#233;s en symphonies men&#233;es par d’exub&#233;rants chefs d’orchestre, jouant une musique venue d’ailleurs issue de leur r&#233;sonance. Mais les seigneurs &#233;l&#233;mentaires ont bien vite compris combien ces cr&#233;atures pouvaient se montrer utiles en tant que serviteurs et les ont &#233;lev&#233;es afin de former de nouvelles races capables d’apporter leur soutien &#224; leurs forces durant les batailles. Aujourd’hui, les vollutes font de leur mieux pour aider leurs alli&#233;s &#224; se battre et vont jusqu’&#224; donner leur vie pour leur ma&#238;tre. Il existe encore des symphonies de vollutes libres sur leurs plans natals et sur le plan Mat&#233;riel mais elles sont tr&#232;s farouches depuis que leur esp&#232;ce a &#233;t&#233; r&#233;duite en esclavage.&lt;br /&gt;&lt;br /&gt;M&#234;me soumis &#224; des conditions d’esclavage tr&#232;s rudes, les vollutes conservent leur nature curieuse et intelligente. Quand ils sont libres de se comporter &#224; leur guise, ils se montrent joueurs et insouciants, sachant qu’il existe de l&#233;g&#232;res diff&#233;rences entre les vollutes issus de divers &#233;l&#233;ments. Les vollutes de l’&#233;ther sont timides et myst&#233;rieux, ceux de l’air volage et capricieux, ceux de la terre r&#233;serv&#233;s et lents &#224; accorder leur confiance, ceux du feu imp&#233;tueux et vantards, et ceux de l’eau doux et attentionn&#233;s.&lt;br /&gt;&lt;br /&gt;Les vollutes offrent volontiers leurs services &#224; des alli&#233;s sympathiques, bien que seules les cr&#233;atures harmonis&#233;es avec un &#233;l&#233;ment, comme les cin&#233;tistes et les lanceurs de sorts qui invoquent des &#233;l&#233;mentaires puissent r&#233;ellement b&#233;n&#233;ficier de leur aide. Un lanceur de sorts de niveau 7 disposant du don &lt;a class=&quot;pagelink&quot; href=&quot;Familier-Sup&#233;rieur.html&quot; title=&quot;Familier sup&#233;rieur&quot;&gt;Familier sup&#233;rieur&lt;/a&gt; peut prendre un vollute comme familier.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Chef d’orchestre vollute&lt;a class=&quot;headeranchor&quot; id=&quot;Chef_d’orchestre_vollute_0&quot; href=&quot;#Chef_d’orchestre_vollute_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Ces dirigeants des symphonies de vollutes &#224; l’esprit libre disposent de l’arch&#233;type simple de &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;cr&#233;ature &#233;volu&#233;e&lt;/a&gt; (avec des rangs en &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt;) ou poss&#232;de des niveaux dans la classe de &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt;. Comme leur r&#233;sonance ne se cumule pas avec l’&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html#INSPIRATIONVAILLANTE&quot; title=&quot;Les repr&#233;sentations bardiques du barde&quot;&gt;inspiration vaillante&lt;/a&gt;, ils optent souvent pour des arch&#233;types qui &#233;changent l’inspiration vaillante contre autre chose ou qui donnent des avantages bas&#233;s sur leur &#233;l&#233;ment. Quelques chefs d’orchestre poss&#232;dent des niveaux dans la classe de &lt;a class=&quot;pagelink&quot; href=&quot;Cin&#233;tiste.html&quot; title=&quot;Le cin&#233;tiste&quot;&gt;cin&#233;tiste&lt;/a&gt;, d’&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Lignage-&#201;l&#233;mentaire.html&quot; title=&quot;Lignage &#201;l&#233;mentaire&quot;&gt;lignage &#233;l&#233;mentaire&lt;/a&gt; ou dans une autre classe li&#233;e &#224; un &#233;l&#233;ment.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Vollute|}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (plans Élémentaires ou plan Éthéré)}
+{s:BDTexte|'''Organisation sociale''' solitaire, nuage (3-8), symphonie (10-40 plus 1 chef d’orchestre vollute) ou suite (1-6 plus une puissante créature élémentaire)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Batterie vivante (Ext).''' Le vollute peut utiliser une [[action immédiate]] pour se suicider, afin qu’une créature bénéficiant de sa résonance guérisse de 2 points de vie pour chaque [[DV]] qu’il possédait. Il est impossible d’empêcher le vollute de mourir quand il utilise ce pouvoir et il est tout aussi impossible de le ramener à la vie, pas même en utilisant des effets qui rappellent d’ordinaire les extérieurs à la vie, à moins d’user de ''[[résurrection suprême]]'', ''[[miracle]]'' ou ''[[souhait]]''.}
+{s:BDTexte|'''Résonance (Ext).''' La résonance naturelle du vollute renforce la puissance de l’élément auquel il est associé. Il accorde un bonus de compétence de +2 aux [[jet dattaque|jets d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] de toutes les créatures situées dans un rayon de 9 mètres et dotées du sous-type élémentaire identique à celui du vollute, ainsi qu’au DD de leurs pouvoirs raciaux magiques, surnaturels et extraordinaires (comme d’habitude, cela n’inclut pas les créatures prenant une forme élémentaire). Un [[cinétiste]] qui se trouve dans un rayon de 9 mètres autour du vollute et appartient au même élément que lui gagne un bonus de compétence de +1 aux jets d’attaque et de dégâts. Le profil du vollute tient déjà compte de ces bonus.}
+{s:BDTexte|'''Serviteur (Ext).''' Le vollute est un serviteur-né. Quand il utilise l’action [[aider qqn|aider quelqu’un]] pour porter assistance à une créature bénéficiant de sa résonance, il peut lui conférer un bonus de +4 au lieu de +2. Aucun autre effet ne peut faire passer ce bonus au-delà de +4.}
+</div>
+=== ===
+<div class="BD">
+{s:BDTitre|Vollute de l’aether|FP 2}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.288]]''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] (aether, [[sous-type élémentaire|élémentaire]]) de taille TP, N}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
+{s:BDTexte|'''Aura''' résonance (9 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
+{s:BDTexte|'''pv''' 22 (3d10+6)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +5, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' [[sous-type Élémentaire|traits des élémentaires]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' [[Vol (capacité)|vol]] 18 m (bonne)}
+{s:BDTexte|'''Corps à corps''' 2 filaments, +10 (1d3+2)}
+{s:BDTexte|'''Espace occupé''' 75 cm ; '''Allonge''' 0 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 17, '''Con''' 14, '''Int''' 10, '''Sag''' 13, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +4 ; '''DMD''' 14 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +7, [[Connaissances]] (plans) +4, [[Discrétion]] +17, [[Escamotage]] +9, [[Perception]] +7, [[Psychologie]] +6, [[Sabotage]] +9, [[Vol]] +15}
+{s:BDTexte|'''Langues''' aérien, aquatique, igné, terreux}
+{s:BDTexte|'''Particularités''' batterie vivante, serviteur, télékinésie inférieure}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Télékinésie inférieure (Sur).''' Quand le vollute de l’aether étend ses filaments éthérés, il peut déplacer de petits objets de loin, comme avec manipulation à distance, mais cette aptitude est un pouvoir surnaturel permettant de déplacer des objets, magiques ou non, d’un poids maximum de 5 kilos.}
+</div>
+=== ===
+<div class="BD">
+{s:BDTitre|Vollute de l’air|FP 2}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.288]]''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]]) de taille TP, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
+{s:BDTexte|'''Aura''' résonance (9 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 16, pris au dépourvu 12 (Dex +4, taille +2)}
+{s:BDTexte|'''pv''' 19 (3d10+3)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +4, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' [[sous-type Élémentaire|traits des élémentaires]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' [[Vol (capacité)|vol]] 30 m (parfaite)}
+{s:BDTexte|'''Corps à corps''' 2 filaments, +11 (1d3+2)}
+{s:BDTexte|'''Espace occupé''' 75 cm ; '''Allonge''' 0 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 19, '''Con''' 12, '''Int''' 10, '''Sag''' 13, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +5 ; '''DMD''' 15 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Attaque en vol]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +7, [[Connaissances]] (mystères) +4, [[Connaissances]] (plans) +6, [[Connaissances]] (religion) +4, [[Discrétion]] +18, [[Perception]] +7, [[Psychologie]] +7, [[Vol]] +20}
+{s:BDTexte|'''Langues''' aérien}
+{s:BDTexte|'''Particularités''' batterie vivante, serviteur}
+</div>
+=== ===
+<div class="BD">
+{s:BDTitre|Vollute de la terre|FP 2}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.288]]''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Terre|Terre]], [[sous-type élémentaire|élémentaire]]) de taille TP, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Perception des vibrations (capacité)|perception des vibrations]] à 9 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
+{s:BDTexte|'''Aura''' résonance (9 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 13, pris au dépourvu 13 (Dex +1, naturelle +1, taille +2)}
+{s:BDTexte|'''pv''' 25 (3d10+9)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +5, '''Vol''' +2}
+{s:BDTexte|'''RD''' 1/— ; '''Immunités''' [[sous-type Élémentaire|traits des élémentaires]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m, creusement 6 m}
+{s:BDTexte|'''Corps à corps''' 2 filaments, +9 (1d3+4)}
+{s:BDTexte|'''Espace occupé''' 75 cm ; '''Allonge''' 0 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 13, '''Con''' 14, '''Int''' 10, '''Sag''' 13, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +2 ; '''DMD''' 14 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Robustesse]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +7, [[Connaissances]] (exploration souterraine, ingénierie, plans) +5, [[Escalade]] +8, [[Perception]] +7, [[Psychologie]] +7}
+{s:BDTexte|'''Langues''' terreux}
+{s:BDTexte|'''Particularités''' batterie vivante, serviteur}
+</div>
+=== ===
+<div class="BD">
+{s:BDTitre|Vollute de l'eau|FP 2}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.289]]''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]]) de taille TP, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
+{s:BDTexte|'''Aura''' résonance (9 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)}
+{s:BDTexte|'''pv''' 22 (3d10+6)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +5, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' [[sous-type Élémentaire|traits des élémentaires]]}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, nage 27 m}
+{s:BDTexte|'''Corps à corps''' 2 filaments, +9 (1d3+3)}
+{s:BDTexte|'''Espace occupé''' 75 cm ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' extinction des feux}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 12, '''Con''' 14, '''Int''' 10, '''Sag''' 13, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +2 ; '''DMD''' 13 (insensible au [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (filament), [[Attaque en puissance]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +7, [[Connaissances]] (plans) +5, [[Discrétion]] +14, [[Natation]] +15, [[Perception]] +7, [[Premiers secours]] +6, [[Psychologie]] +7}
+{s:BDTexte|'''Langues''' aquatique}
+{s:BDTexte|'''Particularités''' batterie vivante, serviteur}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Extinction des feux (Ext).''' Le contact du vollute de l’eau éteint les flammes non magiques de taille G ou inférieure. Le vollute peut dissiper les flammes magiques qu’il touche comme avec une dissipation de la magie (NLS = DV du vollute).}
+</div>
+=== ===
+<div class="BD">
+{s:BDTitre|Vollute du feu|FP 2}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.289]]''}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type Feu|Feu]]) de taille TP, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
+{s:BDTexte|'''Aura''' résonance (9 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
+{s:BDTexte|'''pv''' 19 (3d10+3)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +4, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' feu, [[sous-type Élémentaire|traits des élémentaires]]}
+{s:BDTexte|'''Faiblesses''' [[Vulnérabilités (capacité)|vulnérabilité]] au froid}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 18 m, [[Vol (capacité)|vol]] 6 m (médiocre)}
+{s:BDTexte|'''Corps à corps''' 2 filaments, +9 (1d3+2 plus [[Combustion (capacité)|combustion]])}
+{s:BDTexte|'''Espace occupé''' 75 cm ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' [[Combustion (capacité)|combustion]] (1d6 feu, DD 14)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 15, '''Con''' 12, '''Int''' 10, '''Sag''' 13, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +3 ; '''DMD''' 13 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +7, [[Connaissances]] (plans) +6, [[Discrétion]] +16, [[Intimidation]] +7, [[Perception]] +7, [[Psychologie]] +7}
+{s:BDTexte|'''Langues''' igné}
+{s:BDTexte|'''Particularités''' batterie vivante, serviteur}
+
+</div></td>
+<td><div>''Cette sphère de matière élémentaire émet un curieux bourdonnement qui vibre de puissance élémentaire.''
+
+Les vollutes forment un ensemble de cinq races de petits élémentaires. Les vollutes de l’éther sont les premiers apparus, nés de la convergence entre les plans Élémentaires et Éthérés qui a donné naissance à l’élément que l’on appelle l’éther. Pendant un temps, ces vollutes ont parcouru librement les plans Élémentaires et Éthérés, regroupés en symphonies menées par d’exubérants chefs d’orchestre, jouant une musique venue d’ailleurs issue de leur résonance. Mais les seigneurs élémentaires ont bien vite compris combien ces créatures pouvaient se montrer utiles en tant que serviteurs et les ont élevées afin de former de nouvelles races capables d’apporter leur soutien à leurs forces durant les batailles. Aujourd’hui, les vollutes font de leur mieux pour aider leurs alliés à se battre et vont jusqu’à donner leur vie pour leur maître. Il existe encore des symphonies de vollutes libres sur leurs plans natals et sur le plan Matériel mais elles sont très farouches depuis que leur espèce a été réduite en esclavage.
+
+Même soumis à des conditions d’esclavage très rudes, les vollutes conservent leur nature curieuse et intelligente. Quand ils sont libres de se comporter à leur guise, ils se montrent joueurs et insouciants, sachant qu’il existe de légères différences entre les vollutes issus de divers éléments. Les vollutes de l’éther sont timides et mystérieux, ceux de l’air volage et capricieux, ceux de la terre réservés et lents à accorder leur confiance, ceux du feu impétueux et vantards, et ceux de l’eau doux et attentionnés.
+
+Les vollutes offrent volontiers leurs services à des alliés sympathiques, bien que seules les créatures harmonisées avec un élément, comme les cinétistes et les lanceurs de sorts qui invoquent des élémentaires puissent réellement bénéficier de leur aide. Un lanceur de sorts de niveau 7 disposant du don [[Familier supérieur]] peut prendre un vollute comme familier.
+
+====Chef d’orchestre vollute====
+Ces dirigeants des symphonies de vollutes à l’esprit libre disposent de l’archétype simple de [[Archétypes#CREATUREEVOLUEE|créature évoluée]] (avec des rangs en [[Représentation]]) ou possède des niveaux dans la classe de [[barde]]. Comme leur résonance ne se cumule pas avec l’[[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]], ils optent souvent pour des archétypes qui échangent l’inspiration vaillante contre autre chose ou qui donnent des avantages basés sur leur élément. Quelques chefs d’orchestre possèdent des niveaux dans la classe de [[cinétiste]], d’[[ensorceleur]] du [[lignage élémentaire]] ou dans une autre classe liée à un élément.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Vollute</fullName>
+</wikiPage>

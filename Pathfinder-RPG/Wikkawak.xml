@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Wikkawak</title>
+  <categories><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2016-12-12 21:15:51Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Gobelours</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Temp-bestiaire4</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type gobelinoïde</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Extinction des feux</link><link>Pathfinder-RPG.Aisance</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Maniement dune arme de guerre</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Survie</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Wikkawak&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Montagnes&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Montagnes.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4 p.285&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Gobelino&#239;de.html&quot; title=&quot;Gobelino&#239;de (sous-type)&quot;&gt;gobelino&#239;de&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 13, pris au d&#233;pourvu 16 (armure +3, Dex +3, naturelle +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 39 (6d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; hache d’armes, +9 (1d8+7/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; javeline, +7 (1d6+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 4 ; concentration +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+(3/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extinction-Des-Feux.html&quot; title=&quot;Extinction des feux&quot;&gt;extinction des feux&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4, &lt;b&gt;BMO&lt;/b&gt; +9, &lt;b&gt;DMD&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Aisance.html&quot; title=&quot;Aisance&quot;&gt;Aisance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Maniement-Dune-Arme-De-Guerre.html&quot; title=&quot;Maniement d&amp;#39;une arme de guerre&quot;&gt;Maniement d’une arme de guerre&lt;/a&gt; (hache d’armes)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +7 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, g&#233;ant, gobelin
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; gros bras, absence de traces
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; montagnes froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, bande (3-6) ou groupe de guerre (7-12 et 3 hommes d’armes de niveau 1 et 1 chef de niveau 3-5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (armure de cuir clout&#233;e de ma&#238;tre, hache d’armes, 3 javelines, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Gros bras (Ext).&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; sont des comp&#233;tences de classe pour tous les wikkawaks.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce gobelours au corps massif et &#224; la fourrure blanche porte des peaux d’ours et brandit une hache faite de glace et d’os.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La race gobelino&#239;de des gobelours infeste toutes les r&#233;gions du
+monde. Ces cr&#233;atures cruelles se sont adapt&#233;es &#224; divers
+climats, l&#224; o&#249; elles ont install&#233; leurs demeures. Dans les
+&#233;tendues glac&#233;es, une race de gobelours albinos appel&#233;s wikkawaks
+r&#244;de dans les glaciers balay&#233;s par les vents et au sommet
+des montagnes enneig&#233;es.&lt;br /&gt;&lt;br /&gt;Particuli&#232;rement bien acclimat&#233;s au froid, les wikkawaks sont
+des ma&#238;tres en mati&#232;re de discr&#233;tion et de survie en milieu arctique.
+Ils sont capables d’&#233;touffer la flamme des lanternes, des
+torches et des feux de camp par la simple pens&#233;e. Les wikkawaks
+ne laissent aucune trace derri&#232;re eux, m&#234;me dans la poudreuse la
+plus profonde, mais il para&#238;t que si l’on saupoudre du sel sur la
+neige, il r&#233;v&#232;le les signes de leur passage. Bien entendu, le temps
+que quelqu’un d&#233;couvre la piste laiss&#233;e par un wikkawak et il est
+sans doute d&#233;j&#224; trop tard.&lt;br /&gt;&lt;br /&gt;Comme la plupart des gobelours, les wikkawaks m&#232;nent g&#233;n&#233;ralement
+une vie solitaire et s’en prennent aux colons et aux chasseurs,
+tels des tueurs en s&#233;rie blafards et acclimat&#233;s au froid polaire. Leur
+odorat d&#233;velopp&#233; leur permet de renifler un humano&#239;de ou un animal
+&#224; longue distance. L’odeur forte de la peur est pour eux un
+puissant stimulant et un seul chasseur wikkawak peut traquer et
+terroriser une proie potentielle pendant plusieurs nuits d’affil&#233;e
+pour la faire &#171; mariner &#187; dans la terreur et la crainte avant de frapper.&lt;br /&gt;&lt;br /&gt;Les wikkawaks consid&#232;rent la chair des humano&#239;des comme
+un met d&#233;licieux et certains peuvent conserver dans la glace et
+dans une zone isol&#233;e un humano&#239;de mort et revenir r&#233;guli&#232;rement
+dans cette sinistre cachette pour savourer le cadavre morceau par
+morceau et semaine apr&#232;s semaine. Les wikkawaks aiment conserver
+des souvenirs de leurs victimes, en jetant leur d&#233;volu sur les
+doigts qu’ils gardent sur eux tels des troph&#233;es.&lt;br /&gt;&lt;br /&gt;Les wikkawaks se rassemblent parfois en groupes, pour s’accoupler
+ou pour d&#233;cupler la terreur qu’ils inspirent &#224; une bourgade
+importante. Les couples de wikkawaks se s&#233;parent g&#233;n&#233;ralement
+au bout d’un hiver et les jeunes sont repouss&#233;s &#224; l’ext&#233;rieur, dans
+le froid, d&#232;s que leur fourrure est suffisamment &#233;paisse. Les wikkawaks
+n’appr&#233;cient pas la compagnie d’autres gobelino&#239;des et se
+montrent tout aussi pr&#234;ts &#224; tuer et d&#233;vorer une tribu de gobelins
+des neiges qu’&#224; r&#233;gner sur ces cr&#233;atures inf&#233;rieures.&lt;br /&gt;&lt;br /&gt;Un wikkawak b&#233;n&#233;ficie d’une &#233;paisse et chaude fourrure
+blanche et ses petits yeux sont enti&#232;rement blancs. Un wikkawak
+typique mesure plus de 2,10 m&#232;tres de haut pour
+un poids moyen de 225 kilogrammes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Wikkawak|FP 4}
+{s:pucem|Humanoïde|Montagnes|froid}
+{s:BDTexte|''Source : Bestiaire 4 p.285''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[Pathfinder-RPG.type Humanoïde|Humanoïde] ([Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]) de taille M, CM}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [Pathfinder-RPG.odorat|odorat], [Pathfinder-RPG.vision dans le noir|vision dans le noir] 18 m (12 {s:c}) ; [Pathfinder-RPG.Perception|Perception] +11}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 13, pris au dépourvu 16 (armure +3, Dex +3, naturelle +3)}
+{s:BDTexte|'''pv''' 39 (6d8+12)}
+{s:BDTexte|'''Réf''' +8, '''Vig''' +4, '''Vol''' +3}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' hache d’armes, +9 (1d8+7/×3)}
+{s:BDTexte|'''Distance''' javeline, +7 (1d6+5)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 4 ; concentration +5)}
+{s:BDSorts|(3/jour) — ''[[extinction des feux]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 20, '''Dex''' 17, '''Con''' 15, '''Int''' 12, '''Sag''' 13, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +4, '''BMO''' +9, '''DMD''' 22}
+{s:BDTexte|'''Dons''' [[Aisance]], [[Attaque en puissance]] [[Maniement dune arme de guerre|Maniement d’une arme de guerre]] (hache d’armes)}
+{s:BDTexte|'''Compétences''' [Pathfinder-RPG.Discrétion|Discrétion] +16, [[Escalade]] +11, [Pathfinder-RPG.Intimidation|Intimidation] +11, [Pathfinder-RPG.Perception|Perception] +11, [[Survie]] +7 ; '''Modificateurs raciaux''' [Pathfinder-RPG.Discrétion|Discrétion] +4, [Pathfinder-RPG.Intimidation|Intimidation] +4, [[Perception]] +4}
+{s:BDTexte|'''Langues''' commun, géant, gobelin}
+{s:BDTexte|'''Particularités''' gros bras, absence de traces}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' montagnes froides}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, bande (3-6) ou groupe de guerre (7-12 et 3 hommes d’armes de niveau 1 et 1 chef de niveau 3-5)}
+{s:BDTexte|'''Trésor''' équipement de PNJ (armure de cuir cloutée de maître, hache d’armes, 3 javelines, autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Gros bras (Ext).''' [Pathfinder-RPG.Intimidation|Intimidation] et [Pathfinder-RPG.Perception|Perception] sont des compétences de classe pour tous les wikkawaks.}
+</div>
+</td><td><div>''Ce gobelours au corps massif et à la fourrure blanche porte des peaux d’ours et brandit une hache faite de glace et d’os.''
+
+La race gobelinoïde des gobelours infeste toutes les régions du
+monde. Ces créatures cruelles se sont adaptées à divers
+climats, là où elles ont installé leurs demeures. Dans les
+étendues glacées, une race de gobelours albinos appelés wikkawaks
+rôde dans les glaciers balayés par les vents et au sommet
+des montagnes enneigées.
+
+Particulièrement bien acclimatés au froid, les wikkawaks sont
+des maîtres en matière de discrétion et de survie en milieu arctique.
+Ils sont capables d’étouffer la flamme des lanternes, des
+torches et des feux de camp par la simple pensée. Les wikkawaks
+ne laissent aucune trace derrière eux, même dans la poudreuse la
+plus profonde, mais il paraît que si l’on saupoudre du sel sur la
+neige, il révèle les signes de leur passage. Bien entendu, le temps
+que quelqu’un découvre la piste laissée par un wikkawak et il est
+sans doute déjà trop tard.
+
+Comme la plupart des gobelours, les wikkawaks mènent généralement
+une vie solitaire et s’en prennent aux colons et aux chasseurs,
+tels des tueurs en série blafards et acclimatés au froid polaire. Leur
+odorat développé leur permet de renifler un humanoïde ou un animal
+à longue distance. L’odeur forte de la peur est pour eux un
+puissant stimulant et un seul chasseur wikkawak peut traquer et
+terroriser une proie potentielle pendant plusieurs nuits d’affilée
+pour la faire « mariner » dans la terreur et la crainte avant de frapper.
+
+Les wikkawaks considèrent la chair des humanoïdes comme
+un met délicieux et certains peuvent conserver dans la glace et
+dans une zone isolée un humanoïde mort et revenir régulièrement
+dans cette sinistre cachette pour savourer le cadavre morceau par
+morceau et semaine après semaine. Les wikkawaks aiment conserver
+des souvenirs de leurs victimes, en jetant leur dévolu sur les
+doigts qu’ils gardent sur eux tels des trophées.
+
+Les wikkawaks se rassemblent parfois en groupes, pour s’accoupler
+ou pour décupler la terreur qu’ils inspirent à une bourgade
+importante. Les couples de wikkawaks se séparent généralement
+au bout d’un hiver et les jeunes sont repoussés à l’extérieur, dans
+le froid, dès que leur fourrure est suffisamment épaisse. Les wikkawaks
+n’apprécient pas la compagnie d’autres gobelinoïdes et se
+montrent tout aussi prêts à tuer et dévorer une tribu de gobelins
+des neiges qu’à régner sur ces créatures inférieures.
+
+Un wikkawak bénéficie d’une épaisse et chaude fourrure
+blanche et ses petits yeux sont entièrement blancs. Un wikkawak
+typique mesure plus de 2,10 mètres de haut pour
+un poids moyen de 225 kilogrammes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Wikkawak</fullName>
+</wikiPage>

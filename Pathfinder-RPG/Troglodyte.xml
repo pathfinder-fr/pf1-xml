@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Troglodyte</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire</category></categories>
+  <lastModified>2026-05-16 18:49:50Z</lastModified>
+  <version>11</version>
+  <inLinks><link>Pathfinder-RPG.Amulette de jet de puanteur</link><link>Pathfinder-RPG.Bestiaire (Contenu)</link><link>Pathfinder-RPG.Cavalier des écailles troglodyte</link><link>Pathfinder-RPG.Champion troglodyte</link><link>Pathfinder-RPG.Chef de clan troglodyte</link><link>Pathfinder-RPG.Ensorceleur troglodyte</link><link>Pathfinder-RPG.Exemples darmées (guerre)</link><link>Pathfinder-RPG.Fongoïde violet</link><link>Pathfinder-RPG.Garde du terrier troglodyte</link><link>Pathfinder-RPG.Géant des grottes</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Grande hache des habitants des grottes</link><link>Pathfinder-RPG.Grick</link><link>Pathfinder-RPG.Limace géante</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts dantipaladin</link><link>Pathfinder-RPG.Liste des sorts de chaman</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.liste des sorts de conjurateurs</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Liste des sorts du conjurateur unchained</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Marque du dieu reptile</link><link>Pathfinder-RPG.Négation de larôme</link><link>Pathfinder-RPG.Nuée de crocs</link><link>Pathfinder-RPG.Parle-bête troglodyte</link><link>Pathfinder-RPG.Prêtre troglodyte</link><link>Pathfinder-RPG.Puanteur amplifiée</link><link>Pathfinder-RPG.Réincarnation</link><link>Pathfinder-RPG.Réincarnation despion</link><link>Pathfinder-RPG.Rôdeur troglodyte</link><link>Pathfinder-RPG.Slaugrak</link><link>Pathfinder-RPG.Sorts de psychiste</link><link>Pathfinder-RPG.Temp-codex monstrueux</link><link>Pathfinder-RPG.Troglodyte</link><link>Pathfinder-RPG.Tyran troglodyte</link><link>Pathfinder-RPG.Ydersius (technique)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type reptilien</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Puanteur</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Varan</link><link>Pathfinder-RPG.Troglodyte</link><link>Pathfinder-RPG.Rôdeur troglodyte</link><link>Pathfinder-RPG.Parle-bête troglodyte</link><link>Pathfinder-RPG.Prêtre troglodyte</link><link>Pathfinder-RPG.Ensorceleur troglodyte</link><link>Pathfinder-RPG.Cavalier des écailles troglodyte</link><link>Pathfinder-RPG.Slaugrak</link><link>Pathfinder-RPG.Champion troglodyte</link><link>Pathfinder-RPG.Chef de clan troglodyte</link><link>Pathfinder-RPG.Garde du terrier troglodyte</link><link>Pathfinder-RPG.Tyran troglodyte</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.For</link><link>Pathfinder-RPG.Dex</link><link>Pathfinder-RPG.Con</link><link>Pathfinder-RPG.Int</link><link>Pathfinder-RPG.Sag</link><link>Pathfinder-RPG.Cha</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Vision magique</link><link>Pathfinder-RPG.Communication avec les animaux</link><link>Pathfinder-RPG.Hypnose</link><link>Pathfinder-RPG.Charme-monstre</link><link>Pathfinder-RPG.Frayeur</link><link>Pathfinder-RPG.Domination universelle</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Amulette de jet de puanteur</link><link>Pathfinder-RPG.Grande hache des habitants des grottes</link><link>Pathfinder-RPG.Marque du dieu reptile</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Nuée de crocs</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Puanteur amplifiée</link><link>Pathfinder-RPG.Chaman</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Troglodyte&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Souterrain&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.276
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Reptilien.html&quot; title=&quot;Reptilien (sous-type)&quot;&gt;reptilien&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 27 m (18 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Puanteur-(Capacit&#233;).html&quot; title=&quot;Puanteur&quot;&gt;puanteur&lt;/a&gt; (9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), DD 13, 10 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 9, pris au d&#233;pourvu 15 (Dex -1, naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; -1, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; gourdin +2 (1d6+1), griffe -3 (1d4), morsure -3 (1d4) ou 2 griffes +2 (1d4+1), morsure +2 (1d4+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; javeline +0 (1d6+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +5 (+9 en zones rocheuses) ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +4 (+8 en zones rocheuses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, port&#233;e (3-6), escouade (7-12 plus 1 pr&#234;tre ou druide de niveau 3 et 1-2 &lt;a class=&quot;pagelink&quot; href=&quot;Varan.html&quot; title=&quot;L&#233;zard, Varan&quot;&gt;varans&lt;/a&gt;) ou groupe (20-80 plus 20% de non combattants, 1 capitaine de niveau 3 &#224; 6, 1-3 druides ou pr&#234;tres de niveau 3 &#224; 6 et 3-13 &lt;a class=&quot;pagelink&quot; href=&quot;Varan.html&quot; title=&quot;L&#233;zard, Varan&quot;&gt;varans&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (3 javelines, massue, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;center&gt;&lt;img src=&quot;/wiki/public/upload/Bestiaire/Troglodyte02.jpg&quot; width=&quot;100%&quot; style=&quot;float: none; margin: 5px;&quot;/&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de troglodyte&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Troglodyte.html&quot; title=&quot;Troglodyte&quot;&gt;Troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur-Troglodyte.html&quot; title=&quot;R&#244;deur troglodyte&quot;&gt;R&#244;deur troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Parle-B&#234;te-Troglodyte.html&quot; title=&quot;Parle-b&#234;te troglodyte&quot;&gt;Parle-b&#234;te troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Troglodyte.html&quot; title=&quot;Pr&#234;tre troglodyte&quot;&gt;Pr&#234;tre troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur-Troglodyte.html&quot; title=&quot;Ensorceleur troglodyte&quot;&gt;Ensorceleur troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cavalier-Des-&#201;cailles-Troglodyte.html&quot; title=&quot;Cavalier des &#233;cailles troglodyte&quot;&gt;Cavalier des &#233;cailles troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Slaugrak.html&quot; title=&quot;Slaugrak&quot;&gt;Slaugrak&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Troglodyte.html&quot; title=&quot;Champion troglodyte&quot;&gt;Champion troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chef-De-Clan-Troglodyte.html&quot; title=&quot;Chef de clan troglodyte&quot;&gt;Chef de clan troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Garde-Du-Terrier-Troglodyte.html&quot; title=&quot;Garde du terrier troglodyte&quot;&gt;Garde du terrier troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tyran-Troglodyte.html&quot; title=&quot;Tyran troglodyte&quot;&gt;Tyran troglodyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Cet humano&#239;de &#224; la peau &#233;cailleuse gris clair ressemble &#224; un l&#233;zard &#224;
+longue queue. Une cr&#234;te orne l’arri&#232;re de sa t&#234;te et son dos.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les troglodytes sont des cr&#233;atures primitives et sauvages qui
+vivent dans des grottes. Parmi toutes les races qui occupent les
+innombrables cavernes souterraines situ&#233;es juste en-dessous de
+la surface, les troglodytes sont sans doute l’une des populations
+les plus nombreuses. Ils attaquent aussi bien les communaut&#233;s
+de la surface que celles qui sont enfouies dans les profondeurs.
+Malgr&#233; leur nombre et leur grande f&#233;condit&#233;, ils ne repr&#233;sentent
+en fin de comptes qu’un danger assez mineur. De temps en temps,
+de grands chefs parviennent &#224; rassembler des l&#233;gions de troglodytes
+et &#224; en faire de vastes et dangereuses arm&#233;es, mais en l’absence de
+cela, les tribus de troglodytes passent leur temps &#224; s’emp&#234;cher
+mutuellement de prosp&#233;rer par des affrontements fr&#233;quents, des
+attaques &#224; but cannibale et des guerres civiles d&#233;vastatrices.&lt;br /&gt;&lt;br /&gt;Les troglodytes sont l’une des plus anciennes races intelligentes.
+Certaines cavernes abritent des ruines qui prouvent que leur
+empire &#233;tait autrefois l’un des plus vastes au monde. Au d&#233;but
+des temps, la civilisation des troglodytes avait des g&#233;n&#233;rations
+d’avance sur les autres races humano&#239;des. Alors que ces derniers
+se cachaient dans des grottes et idol&#226;traient le feu, les troglodytes
+b&#226;tissaient de vastes cit&#233;s compos&#233;es de ziggourats de pierre et
+de canaux aux formes serpentines, utilisaient les autres races
+comme esclaves et v&#233;n&#233;raient des dieux et des d&#233;mons anciens et
+inhumains. Mais, les autres races ont &#233;volu&#233; et sont devenues de
+plus en plus civilis&#233;es, d&#233;passant les troglodytes qui les avaient
+autrefois opprim&#233;es. Aujourd’hui, les r&#244;les sont invers&#233;s, et ce
+sont donc les troglodytes qui se terrent dans les cavernes et vivent
+comme des sauvages primitifs.&lt;br /&gt;&lt;br /&gt;La religion occupe une place importante dans les tribus
+de troglodytes. Les chamanes et les pr&#234;tres sont toujours les
+membres les plus respect&#233;s du clan. Tous les chefs troglodytes ne
+sont pas des pr&#234;tres ou des druides, mais ceux qui ne poss&#232;dent
+aucun talent divin ne font g&#233;n&#233;ralement que jouer le r&#244;le de porte-parole
+ou de fantoches qui ob&#233;issent au doigt et &#224; l’oeil au devin ou
+au chamane local. Les troglodytes v&#233;n&#232;rent g&#233;n&#233;ralement un des
+nombreux seigneurs d&#233;mons, plus particuli&#232;rement un de ceux
+qui poss&#232;dent une apparence reptilienne ou primitive ou dont les
+royaumes abyssaux ressemblent fortement aux r&#233;seaux de cavernes
+que les troglodytes pr&#233;f&#232;rent. Les druides des communaut&#233;s
+troglodytes poss&#232;dent g&#233;n&#233;ralement un alignement Neutre
+Mauvais et tous les respectent et les craignent &#224; cause de l’&#233;trange
+pouvoir qu’ils ont sur les b&#234;tes.&lt;br /&gt;&lt;br /&gt;Un troglodyte moyen mesure quelque 1,50 m&#232;tre de hauteur et
+p&#232;se 75 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_2&quot; href=&quot;#&#201;cologie_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les troglodytes sont une race reptilienne d’humano&#239;des des cavernes sauvages et violents. Ils sont relativement r&#233;pandus dans les r&#233;gions sup&#233;rieures des grandes &#233;tendues sauvages souterraines et, depuis bien longtemps, sont connus pour s’attaquer aux autres colonies d’humano&#239;des (notamment les humains) pour trouver de la nourriture et des esclaves.&lt;br /&gt;&lt;br /&gt;Un troglodyte moyen mesure environ un m&#232;tre cinquante et p&#232;se 75 kilos. La plupart de ces cr&#233;atures ont la peau gris-vert ou gris terne, bien que certaines pr&#233;sentent quelques variations de couleurs en fonction de leur habitat. Les troglodytes sont affubl&#233;s d’une cr&#234;te courte et rigide qui court du sommet de leur t&#234;te &#224; la base de leur colonne vert&#233;brale. Ils atteignent l’&#226;ge adulte &#224; 10 ans et ont une esp&#233;rance de vie moyenne de 50 &#224; 60 ans, m&#234;me si la plupart des troglodytes meurent beaucoup plus t&#244;t du fait d’une existence marqu&#233;e par la violence. Les troglodytes forment souvent des soci&#233;t&#233;s tribales primitives, domin&#233;es par un puissant chef de clan ou par un pr&#234;tre ou un druide charismatique. Les humains sont la cible favorite des troglodytes et leur seule odeur suffit &#224; d&#233;cha&#238;ner une faim fr&#233;n&#233;tique en eux. Cela dit, les troglodytes sont des pr&#233;dateurs opportunistes qui chassent et d&#233;vorent &#233;galement les autres cr&#233;atures quand ils ne trouvent pas d’humains. Ils n’h&#233;sitent pas non plus une seule seconde &#224; pratiquer le cannibalisme, d&#233;vorant souvent les membres vaincus des tribus rivales ainsi que les vieux et les infirmes de leur propre clan quand les autres proies se font rares.&lt;br /&gt;&lt;br /&gt;Les troglodytes modernes sont les descendants d&#233;g&#233;n&#233;r&#233;s d’une race incroyablement ancienne d’humano&#239;des reptiliens que les &#233;rudits connaissent sous le nom de xulgaths et, en effet, beaucoup de troglodytes continuent d’utiliser ce nom pour d&#233;signer leur esp&#232;ce. Bien que les anciens xulgaths pr&#233;sentent une silhouette similaire &#224; celle des troglodytes modernes, ils &#233;taient quand m&#234;me mieux dot&#233;s, tant intellectuellement que magiquement. Alors que le monde &#233;tait encore adolescent, les xulgaths ont &#233;rig&#233; de grandes cit&#233;s en pierre constitu&#233;es de hautes ziggourats, de canaux et d’aqueducs tortueux et de nombreux autres ouvrages de ma&#231;onnerie et d’architecture. Certains de ces vestiges existent encore aujourd’hui, dans les cavernes les plus profondes de l’outre-monde. Bien que la soci&#233;t&#233; qu’ont b&#226;tie les xulgaths puisse &#234;tre consid&#233;r&#233;e comme primitive d’apr&#232;s les canons modernes, elle a de loin d&#233;pass&#233; les progr&#232;s que les autres races ont r&#233;alis&#233;s. La soci&#233;t&#233; xulgath &#233;tait dirig&#233;e par une caste religieuse compos&#233;e de lanceurs de sorts divins exceptionnellement puissants qui utilisaient leurs dons surnaturels pour dominer leurs fr&#232;res inf&#233;rieurs et asservir les races humano&#239;des primitives. Les xulgaths v&#233;n&#233;raient des dieux anciens et inhumains, tout particuli&#232;rement les redoutables seigneurs qlippoths qui r&#233;gnaient sur les Abysses avant que les seigneurs d&#233;mons n’usurpent leur place.&lt;br /&gt;&lt;br /&gt;N&#233;anmoins, du fait de la lenteur de leur &#233;volution et de leur adaptation, les xulgaths ont fini par perdre l’avantage. Aussi durement qu’ils se soient battus contre les civilisations &#233;mergentes des elfes, des nains et des autres humano&#239;des, ils ont &#233;t&#233; incapables de suivre le rythme du progr&#232;s technologique des autres races. Au final, ils ont &#233;t&#233; renvers&#233;s par l’une des toutes premi&#232;res civilisations humaines : tout ce que les xulgaths avaient cr&#233;&#233; a &#233;t&#233; perdu et nombre d’entre eux ont &#233;t&#233; r&#233;duits en esclavage. Aujourd’hui, non seulement les troglodytes ont &#233;chou&#233; &#224; se hisser &#224; la hauteur des autres races mais, de bien des fa&#231;ons, ils ont consid&#233;rablement r&#233;gress&#233; par rapport &#224; ce qu’ils &#233;taient autrefois.&lt;br /&gt;&lt;br /&gt;Il existe quelques grandes colonies inhabituelles de troglodytes intelligents et civilis&#233;s dans les r&#233;gions les plus profondes du monde sauvage souterrain. Dirig&#233;es par des tyrans despotiques, ces colonies se composent de hautes ziggourats en pierre et d’autres structures monolithiques rocheuses que les troglodytes modernes seraient incapables d’imaginer et de b&#226;tir par eux-m&#234;mes. Assez curieusement, m&#234;me si ces royaumes apparaissent d’origine xulgath, il s’agissait de ruines avant que des troglodytes &#233;clair&#233;s ne viennent s’y installer – ce qui laisse &#224; penser que les troglodytes n’ont pas v&#233;cu l&#224; de mani&#232;re permanente pour d&#233;velopper leur soci&#233;t&#233; mais ont abandonn&#233; ces colonies lorsque leur civilisation a bascul&#233; dans la sauvagerie et n’y sont revenus qu’apr&#232;s avoir retrouv&#233; leur intelligence d’antan. Ces colonies, qui accueillent des centaines de troglodytes organis&#233;s, sont g&#233;n&#233;ralement de nature guerri&#232;re. Heureusement, le monde de la surface reste relativement &#224; l’abri de leurs assaillants agressifs puisque ces colonies sont toutes situ&#233;es tr&#232;s loin dans les profondeurs de la terre, isol&#233;es des races qui vivent en surface par plusieurs kilom&#232;tres de territoires souterrains.&lt;br /&gt;&lt;br /&gt;Les troglodytes parlent le draconique, bien que leur vocabulaire soit assez limit&#233; du fait de leur isolement et de leur stagnation culturelle. Ils sont aussi tr&#232;s dou&#233;s pour transmettre des informations par les gestes, par des sons gutturaux qui traduisent leurs &#233;motions et par des d&#233;monstrations de domination propres &#224; leur culture. Si les troglodytes conservent tr&#232;s peu d’archives &#233;crites, la cr&#233;ation artistique tient une place importante au sein de leur culture puisqu’il s’agit &#224; la fois d’une activit&#233; r&#233;cr&#233;ative et d’une pratique religieuse. Les peintures et sculptures rupestres des troglodytes peuvent &#234;tre compl&#232;tement abstraites ou vaguement repr&#233;sentatives, insistant toujours sur l’expression de l’&#233;tat &#233;motionnel du cr&#233;ateur (qu’il s’agisse de la joie et de la fiert&#233; ressenties apr&#232;s une chasse fructueuse, de la rage &#233;prouv&#233;e face &#224; un ennemi fourbe ou de l’affection port&#233;e &#224; sa famille) plut&#244;t que de chercher &#224; retranscrire une histoire complexe. Beaucoup de colonies troglodytes sont &#233;quip&#233;es de torches toujours allum&#233;es qui mettent en valeur les couleurs vives de leurs oeuvres d’art puisque leur vision dans le noir ne leur permet de les distinguer qu’en noir et blanc.&lt;br /&gt;&lt;br /&gt;La religion a une forte influence sur les troglodytes, dont les pr&#234;tres et les druides sont presque toujours les membres les plus respect&#233;s de la tribu. La plupart des tribus sont dirig&#233;es par des pr&#234;tres ou des druides charismatiques. Les chefs de clan incapables de manier la puissance divine en sont r&#233;duits &#224; jouer les simples porte-parole des figures religieuses les plus puissantes de la tribu. Les cultes troglodytes sont plut&#244;t d&#233;sorganis&#233;s puisque l’adoration des seigneurs d&#233;mons de la tribu passe essentiellement par la r&#233;alisation de rituels superstitieux et de gravures et dessins grossiers sur les parois de leurs grottes, ainsi que par des r&#233;cits religieux transmis au fil d’innombrables g&#233;n&#233;rations. En g&#233;n&#233;ral, les pr&#234;tres troglodytes s’arrogent tout le pouvoir et le savoir religieux, encourageant les membres de leur tribu &#224; adorer leur dieu avec d&#233;votion mais concentrant toute l’autorit&#233; religieuse entre les mains de quelques rares &#233;lites. Les pr&#234;tres troglodytes choisissent souvent leur rejeton favori pour leur succ&#233;der, ce qui pousse les enfants des fid&#232;les &#224; s’engager dans une comp&#233;tition f&#233;roce (parfois sanglante) afin de gagner les faveurs de leurs a&#238;n&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Variantes de troglodytes&lt;a class=&quot;headeranchor&quot; id=&quot;Variantes_de_troglodytes_3&quot; href=&quot;#Variantes_de_troglodytes_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Bien que la plupart des troglodytes correspondent aux cr&#233;atures des cavernes pr&#233;sent&#233;es dans le Bestiaire, l’ancienne lign&#233;e des xulgaths a &#233;volu&#233; au fil des mill&#233;naires, donnant le jour &#224; plusieurs variantes qui se sont adapt&#233;es &#224; diff&#233;rents climats et environnements.
+&lt;div class=&quot;row Ligne&quot; style=&quot;&quot;&gt;&lt;div class=&quot;col col-6 &quot; style=&quot;&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Kaergath (FP 1/2).&lt;/b&gt; Trapus, couverts de verrues et tous petits, ces troglodytes mesurent un peu moins d’un m&#232;tre vingt pour 90 kilos. Les kaergaths sont couverts d’&#233;cailles brun-rouge assez ternes et d’&#233;normes dents carr&#233;es mais n’ont pas les griffes des autres troglodytes. Originaires des r&#233;gions sup&#233;rieures du monde souterrain, situ&#233;es sous les d&#233;serts infinis et les badlands br&#251;l&#233;s par le soleil, les kaergaths sont r&#233;put&#233;s pour leur capacit&#233; &#224; creuser dans le sable, pour leur maniement expert de la javeline et pour leur pr&#233;f&#233;rence pour la chair des enfants humano&#239;des.&lt;br /&gt;Les kaergaths sont des troglodytes avec l’arch&#233;type simple &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREJEUNE&quot; title=&quot;Les arch&#233;types&quot;&gt;jeune&lt;/a&gt; et ils poss&#232;dent une vitesse de creusement dans le sable et dans la terre meuble (mais pas dans la pierre) &#224; une vitesse de 6 m&#232;tres par &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Ils gagnent un bonus racial de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt; avec leur javeline. Ils ont &#233;galement une attaque de morsure qui inflige 1d8 points de d&#233;g&#226;ts mais ils n’ont pas d’attaque de griffe.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Troglodytes &#233;clair&#233;s (FP 2).&lt;/b&gt; Ces troglodytes vivent beaucoup plus loin dans les profondeurs que leurs fr&#232;res. Moins bestiaux que les autres troglodytes mais tout aussi vils, ils se servent de leur intelligence pour asservir les races plus primitives. Ils sont devenus des experts du dressage de b&#234;tes, qui leur servent de monture et de sentinelles.&lt;br /&gt;Un troglodyte &#233;clair&#233; a les valeurs de caract&#233;ristique suivantes : &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; 14, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;Dex&quot;&gt;Dex&lt;/a&gt; 17, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; 16, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;Int&quot;&gt;Int&lt;/a&gt; 12, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;Sag&quot;&gt;Sag&lt;/a&gt; 13 et &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Cha&quot;&gt;Cha&lt;/a&gt; 13. Il poss&#232;de g&#233;n&#233;ralement les comp&#233;tences suivantes (sans compter les rangs gagn&#233;s gr&#226;ce aux niveaux de classe) : &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +5 (+9 dans les r&#233;gions rocailleuses), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +6 et &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +3.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;col col-6 &quot; style=&quot;&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Parangon troglodyte (FP 5).&lt;/b&gt; Bien que la plupart des anciens xulgaths aient trouv&#233; la mort quand leur grand empire s’est effondr&#233;, il y a bien longtemps, quelques puissants individus ont surv&#233;cu. Ces anciens troglodytes se sont alors cach&#233;s dans les profondeurs du monde et, si nombre d’entre eux ont fini par mourir, ont fui sur d’autres plans ou se sont transform&#233;s en liches, quelques-uns se sont r&#233;fugi&#233;s en stase magique. Au fil de ces longs si&#232;cles, les parangons troglodytes ont ponctuellement &#233;merg&#233; de leur profond sommeil. Si certains se sont lanc&#233;s &#224; la recherche des troglodytes modernes dans le but de les &#233;lever au-dessus de leur condition et de retrouver la gloire de leur civilisation perdue, la plupart d’entre eux m&#233;prisent leurs descendants d&#233;g&#233;n&#233;r&#233;s. Se distinguant des troglodytes communs par leurs yeux &#233;meraude scintillants et leurs &#233;cailles aux reflets dor&#233;s, les parangons troglodytes vivent tr&#232;s longtemps, leur esp&#233;rance de vie maximale avoisinant les 400 ans. Ce sont des cr&#233;atures extr&#234;mement parano&#239;aques et obs&#233;d&#233;es par leur survie. La plupart des parangons troglodytes poss&#232;dent des niveaux dans les classes de pr&#234;tre ou d’ensorceleur.&lt;br /&gt;Les parangons troglodytes sont des troglodytes de taille G avec 7 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;d&#233;s de vie&lt;/a&gt;. Leur bonus d’armure naturelle est augment&#233; de 2, leurs attaques de griffe infligent 1d8 points de d&#233;g&#226;ts et leurs attaques de morsure infligent 1d6 points de d&#233;g&#226;ts. Les parangons troglodytes poss&#232;dent les valeurs de caract&#233;ristique suivantes plut&#244;t que celles des troglodytes normaux : &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; 22, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;Dex&quot;&gt;Dex&lt;/a&gt; 9, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; 16, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;Int&quot;&gt;Int&lt;/a&gt; 13, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;Sag&quot;&gt;Sag&lt;/a&gt; 10 et &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Cha&quot;&gt;Cha&lt;/a&gt; 15. Ils peuvent utiliser les pouvoirs magiques suivants : constant – &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Magique.html&quot; title=&quot;Vision magique&quot;&gt;vision magique&lt;/a&gt;&lt;/i&gt; ; &#224; volont&#233; – &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt; (dinosaures et reptiles uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnose.html&quot; title=&quot;Hypnose&quot;&gt;hypnose&lt;/a&gt;&lt;/i&gt; ; 3/jour – &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Monstre.html&quot; title=&quot;Charme-monstre&quot;&gt;charme-monstre&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frayeur.html&quot; title=&quot;Frayeur&quot;&gt;frayeur&lt;/a&gt;&lt;/i&gt;. Les parangons troglodytes qui poss&#232;dent au moins 14 d&#233;s de vie (en incluant leurs &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; raciaux et ceux qui sont issus de leurs niveaux de classe) peuvent &#233;galement utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domination-Universelle.html&quot; title=&quot;Domination universelle&quot;&gt;domination universelle&lt;/a&gt;&lt;/i&gt; une fois par jour. Un parangon troglodyte poss&#232;de g&#233;n&#233;ralement les comp&#233;tences suivantes (sans compter les rangs gagn&#233;s gr&#226;ce aux niveaux de classe) : &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10 (+14 dans les r&#233;gions rocailleuses), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +9 et &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Nouvelles r&#232;gles raciales&lt;a class=&quot;headeranchor&quot; id=&quot;Nouvelles_r&#232;gles_raciales_4&quot; href=&quot;#Nouvelles_r&#232;gles_raciales_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les r&#232;gles suivantes incluent des variantes de troglodytes et des sorts cr&#233;&#233;s par la race.
+&lt;div class=&quot;row ligne&quot; style=&quot;&quot;&gt;&lt;div class=&quot;col col-6 &quot; style=&quot;&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Objets magiques&lt;a class=&quot;headeranchor&quot; id=&quot;Objets_magiques_0&quot; href=&quot;#Objets_magiques_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Ces objets magiques sont sp&#233;cifiques aux demi-elfes :
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Amulette-De-Jet-De-Puanteur.html&quot; title=&quot;Amulette de jet de puanteur&quot;&gt;Amulette de jet de puanteur&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grande-Hache-Des-Habitants-Des-Grottes.html&quot; title=&quot;Grande hache des habitants des grottes&quot;&gt;Grande hache des habitants des grottes&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;col col-6 &quot; style=&quot;&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les lanceurs de sorts troglodytes apprennent souvent les sorts suivants.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marque-Du-Dieu-Reptile.html&quot; title=&quot;Marque du dieu reptile&quot;&gt;Marque du dieu reptile&lt;/a&gt;&lt;/i&gt;&lt;/b&gt; &lt;i&gt;(CM)&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;Apal 4&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq 4&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234; 4&lt;/a&gt;). Marque une cr&#233;ature avec une mal&#233;diction acide.&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-De-Crocs.html&quot; title=&quot;Nu&#233;e de crocs&quot;&gt;Nu&#233;e de crocs&lt;/a&gt;&lt;/i&gt;&lt;/b&gt; &lt;i&gt;(CM)&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;Con 3&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru 3&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag 3&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Psy 3&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor 3&lt;/a&gt;). Appel une nu&#233;e de crocs anim&#233;s volants.&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Puanteur-Amplifi&#233;e.html&quot; title=&quot;Puanteur amplifi&#233;e&quot;&gt;Puanteur amplifi&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/b&gt; &lt;i&gt;(CM)&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Cham 2&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru 2&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag 2&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234; 2&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Psy 2&lt;/a&gt;). Am&#233;liore la capacit&#233; puanteur de la cible.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Troglodyte|FP 1}
+{s:pucem|Humanoïde|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.276}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type reptilien|reptilien]]) de taille M, CM}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[vision dans le noir]] 27 m (18 {s:c}) ; [[Perception]] +0}
+{s:BDTexte|'''Aura''' [[puanteur]] (9 m (6 {s:c}), DD 13, 10 rounds)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 9, pris au dépourvu 15 (Dex -1, naturelle +6)}
+{s:BDTexte|'''pv''' 13 (2d8+4)}
+{s:BDTexte|'''Réf''' -1, '''Vig''' +7, '''Vol''' +0}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' gourdin +2 (1d6+1), griffe -3 (1d4), morsure -3 (1d4) ou 2 griffes +2 (1d4+1), morsure +2 (1d4+1)}
+{s:BDTexte|'''Distance''' javeline +0 (1d6+1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 9, '''Con''' 14, '''Int''' 8, '''Sag''' 11, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 11}
+{s:BDTexte|'''Dons''' [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +5 (+9 en zones rocheuses) ; '''Modificateurs raciaux''' [[Discrétion]] +4 (+8 en zones rocheuses)}
+{s:BDTexte|'''Langues''' draconique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, portée (3-6), escouade (7-12 plus 1 prêtre ou druide de niveau 3 et 1-2 [[varan|varans]]) ou groupe (20-80 plus 20% de non combattants, 1 capitaine de niveau 3 à 6, 1-3 druides ou prêtres de niveau 3 à 6 et 3-13 [[varan|varans]])}
+{s:BDTexte|'''Trésor''' équipement de PNJ (3 javelines, massue, autres trésors)}
+</div>
+
+{s:ImageCentre|Bestiaire/Troglodyte02.jpg|100%}
+
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de troglodyte
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Troglodyte]] || 1
+|-
+| [[Rôdeur troglodyte]] || 2
+|-
+| [[Parle-bête troglodyte]] || 3
+|-
+| [[Prêtre troglodyte]] || 3
+|-
+| [[Ensorceleur troglodyte]] || 4
+|-
+| [[Cavalier des écailles troglodyte]] || 6
+|-
+| [[Slaugrak]] || 6
+|-
+| [[Champion troglodyte]] || 7
+|-
+| [[Chef de clan troglodyte]] || 8
+|-
+| [[Garde du terrier troglodyte]] || 9
+|-
+| [[Tyran troglodyte]] || 10
+|}
+</div>''Cet humanoïde à la peau écailleuse gris clair ressemble à un lézard à
+longue queue. Une crête orne l’arrière de sa tête et son dos.''
+
+Les troglodytes sont des créatures primitives et sauvages qui
+vivent dans des grottes. Parmi toutes les races qui occupent les
+innombrables cavernes souterraines situées juste en-dessous de
+la surface, les troglodytes sont sans doute l’une des populations
+les plus nombreuses. Ils attaquent aussi bien les communautés
+de la surface que celles qui sont enfouies dans les profondeurs.
+Malgré leur nombre et leur grande fécondité, ils ne représentent
+en fin de comptes qu’un danger assez mineur. De temps en temps,
+de grands chefs parviennent à rassembler des légions de troglodytes
+et à en faire de vastes et dangereuses armées, mais en l’absence de
+cela, les tribus de troglodytes passent leur temps à s’empêcher
+mutuellement de prospérer par des affrontements fréquents, des
+attaques à but cannibale et des guerres civiles dévastatrices.
+
+Les troglodytes sont l’une des plus anciennes races intelligentes.
+Certaines cavernes abritent des ruines qui prouvent que leur
+empire était autrefois l’un des plus vastes au monde. Au début
+des temps, la civilisation des troglodytes avait des générations
+d’avance sur les autres races humanoïdes. Alors que ces derniers
+se cachaient dans des grottes et idolâtraient le feu, les troglodytes
+bâtissaient de vastes cités composées de ziggourats de pierre et
+de canaux aux formes serpentines, utilisaient les autres races
+comme esclaves et vénéraient des dieux et des démons anciens et
+inhumains. Mais, les autres races ont évolué et sont devenues de
+plus en plus civilisées, dépassant les troglodytes qui les avaient
+autrefois opprimées. Aujourd’hui, les rôles sont inversés, et ce
+sont donc les troglodytes qui se terrent dans les cavernes et vivent
+comme des sauvages primitifs.
+
+La religion occupe une place importante dans les tribus
+de troglodytes. Les chamanes et les prêtres sont toujours les
+membres les plus respectés du clan. Tous les chefs troglodytes ne
+sont pas des prêtres ou des druides, mais ceux qui ne possèdent
+aucun talent divin ne font généralement que jouer le rôle de porte-parole
+ou de fantoches qui obéissent au doigt et à l’oeil au devin ou
+au chamane local. Les troglodytes vénèrent généralement un des
+nombreux seigneurs démons, plus particulièrement un de ceux
+qui possèdent une apparence reptilienne ou primitive ou dont les
+royaumes abyssaux ressemblent fortement aux réseaux de cavernes
+que les troglodytes préfèrent. Les druides des communautés
+troglodytes possèdent généralement un alignement Neutre
+Mauvais et tous les respectent et les craignent à cause de l’étrange
+pouvoir qu’ils ont sur les bêtes.
+
+Un troglodyte moyen mesure quelque 1,50 mètre de hauteur et
+pèse 75 kg.
+</div></td></tr></table>
+
+{s:CM}
+===Écologie===
+Les troglodytes sont une race reptilienne d’humanoïdes des cavernes sauvages et violents. Ils sont relativement répandus dans les régions supérieures des grandes étendues sauvages souterraines et, depuis bien longtemps, sont connus pour s’attaquer aux autres colonies d’humanoïdes (notamment les humains) pour trouver de la nourriture et des esclaves.
+
+Un troglodyte moyen mesure environ un mètre cinquante et pèse 75 kilos. La plupart de ces créatures ont la peau gris-vert ou gris terne, bien que certaines présentent quelques variations de couleurs en fonction de leur habitat. Les troglodytes sont affublés d’une crête courte et rigide qui court du sommet de leur tête à la base de leur colonne vertébrale. Ils atteignent l’âge adulte à 10 ans et ont une espérance de vie moyenne de 50 à 60 ans, même si la plupart des troglodytes meurent beaucoup plus tôt du fait d’une existence marquée par la violence. Les troglodytes forment souvent des sociétés tribales primitives, dominées par un puissant chef de clan ou par un prêtre ou un druide charismatique. Les humains sont la cible favorite des troglodytes et leur seule odeur suffit à déchaîner une faim frénétique en eux. Cela dit, les troglodytes sont des prédateurs opportunistes qui chassent et dévorent également les autres créatures quand ils ne trouvent pas d’humains. Ils n’hésitent pas non plus une seule seconde à pratiquer le cannibalisme, dévorant souvent les membres vaincus des tribus rivales ainsi que les vieux et les infirmes de leur propre clan quand les autres proies se font rares.
+
+Les troglodytes modernes sont les descendants dégénérés d’une race incroyablement ancienne d’humanoïdes reptiliens que les érudits connaissent sous le nom de xulgaths et, en effet, beaucoup de troglodytes continuent d’utiliser ce nom pour désigner leur espèce. Bien que les anciens xulgaths présentent une silhouette similaire à celle des troglodytes modernes, ils étaient quand même mieux dotés, tant intellectuellement que magiquement. Alors que le monde était encore adolescent, les xulgaths ont érigé de grandes cités en pierre constituées de hautes ziggourats, de canaux et d’aqueducs tortueux et de nombreux autres ouvrages de maçonnerie et d’architecture. Certains de ces vestiges existent encore aujourd’hui, dans les cavernes les plus profondes de l’outre-monde. Bien que la société qu’ont bâtie les xulgaths puisse être considérée comme primitive d’après les canons modernes, elle a de loin dépassé les progrès que les autres races ont réalisés. La société xulgath était dirigée par une caste religieuse composée de lanceurs de sorts divins exceptionnellement puissants qui utilisaient leurs dons surnaturels pour dominer leurs frères inférieurs et asservir les races humanoïdes primitives. Les xulgaths vénéraient des dieux anciens et inhumains, tout particulièrement les redoutables seigneurs qlippoths qui régnaient sur les Abysses avant que les seigneurs démons n’usurpent leur place.
+
+Néanmoins, du fait de la lenteur de leur évolution et de leur adaptation, les xulgaths ont fini par perdre l’avantage. Aussi durement qu’ils se soient battus contre les civilisations émergentes des elfes, des nains et des autres humanoïdes, ils ont été incapables de suivre le rythme du progrès technologique des autres races. Au final, ils ont été renversés par l’une des toutes premières civilisations humaines : tout ce que les xulgaths avaient créé a été perdu et nombre d’entre eux ont été réduits en esclavage. Aujourd’hui, non seulement les troglodytes ont échoué à se hisser à la hauteur des autres races mais, de bien des façons, ils ont considérablement régressé par rapport à ce qu’ils étaient autrefois.
+
+Il existe quelques grandes colonies inhabituelles de troglodytes intelligents et civilisés dans les régions les plus profondes du monde sauvage souterrain. Dirigées par des tyrans despotiques, ces colonies se composent de hautes ziggourats en pierre et d’autres structures monolithiques rocheuses que les troglodytes modernes seraient incapables d’imaginer et de bâtir par eux-mêmes. Assez curieusement, même si ces royaumes apparaissent d’origine xulgath, il s’agissait de ruines avant que des troglodytes éclairés ne viennent s’y installer – ce qui laisse à penser que les troglodytes n’ont pas vécu là de manière permanente pour développer leur société mais ont abandonné ces colonies lorsque leur civilisation a basculé dans la sauvagerie et n’y sont revenus qu’après avoir retrouvé leur intelligence d’antan. Ces colonies, qui accueillent des centaines de troglodytes organisés, sont généralement de nature guerrière. Heureusement, le monde de la surface reste relativement à l’abri de leurs assaillants agressifs puisque ces colonies sont toutes situées très loin dans les profondeurs de la terre, isolées des races qui vivent en surface par plusieurs kilomètres de territoires souterrains.
+
+Les troglodytes parlent le draconique, bien que leur vocabulaire soit assez limité du fait de leur isolement et de leur stagnation culturelle. Ils sont aussi très doués pour transmettre des informations par les gestes, par des sons gutturaux qui traduisent leurs émotions et par des démonstrations de domination propres à leur culture. Si les troglodytes conservent très peu d’archives écrites, la création artistique tient une place importante au sein de leur culture puisqu’il s’agit à la fois d’une activité récréative et d’une pratique religieuse. Les peintures et sculptures rupestres des troglodytes peuvent être complètement abstraites ou vaguement représentatives, insistant toujours sur l’expression de l’état émotionnel du créateur (qu’il s’agisse de la joie et de la fierté ressenties après une chasse fructueuse, de la rage éprouvée face à un ennemi fourbe ou de l’affection portée à sa famille) plutôt que de chercher à retranscrire une histoire complexe. Beaucoup de colonies troglodytes sont équipées de torches toujours allumées qui mettent en valeur les couleurs vives de leurs oeuvres d’art puisque leur vision dans le noir ne leur permet de les distinguer qu’en noir et blanc.
+
+La religion a une forte influence sur les troglodytes, dont les prêtres et les druides sont presque toujours les membres les plus respectés de la tribu. La plupart des tribus sont dirigées par des prêtres ou des druides charismatiques. Les chefs de clan incapables de manier la puissance divine en sont réduits à jouer les simples porte-parole des figures religieuses les plus puissantes de la tribu. Les cultes troglodytes sont plutôt désorganisés puisque l’adoration des seigneurs démons de la tribu passe essentiellement par la réalisation de rituels superstitieux et de gravures et dessins grossiers sur les parois de leurs grottes, ainsi que par des récits religieux transmis au fil d’innombrables générations. En général, les prêtres troglodytes s’arrogent tout le pouvoir et le savoir religieux, encourageant les membres de leur tribu à adorer leur dieu avec dévotion mais concentrant toute l’autorité religieuse entre les mains de quelques rares élites. Les prêtres troglodytes choisissent souvent leur rejeton favori pour leur succéder, ce qui pousse les enfants des fidèles à s’engager dans une compétition féroce (parfois sanglante) afin de gagner les faveurs de leurs aînés.
+
+===Variantes de troglodytes===
+Bien que la plupart des troglodytes correspondent aux créatures des cavernes présentées dans le Bestiaire, l’ancienne lignée des xulgaths a évolué au fil des millénaires, donnant le jour à plusieurs variantes qui se sont adaptées à différents climats et environnements.
+{s:Ligne}{s:Col|6}
+* '''Kaergath (FP 1/2).''' Trapus, couverts de verrues et tous petits, ces troglodytes mesurent un peu moins d’un mètre vingt pour 90 kilos. Les kaergaths sont couverts d’écailles brun-rouge assez ternes et d’énormes dents carrées mais n’ont pas les griffes des autres troglodytes. Originaires des régions supérieures du monde souterrain, situées sous les déserts infinis et les badlands brûlés par le soleil, les kaergaths sont réputés pour leur capacité à creuser dans le sable, pour leur maniement expert de la javeline et pour leur préférence pour la chair des enfants humanoïdes.
+Les kaergaths sont des troglodytes avec l’archétype simple [[Archétypes#CREATUREJEUNE|jeune]] et ils possèdent une vitesse de creusement dans le sable et dans la terre meuble (mais pas dans la pierre) à une vitesse de 6 mètres par [[round]]. Ils gagnent un bonus racial de +1 aux [[jet dattaque|jets d’attaque]] avec leur javeline. Ils ont également une attaque de morsure qui inflige 1d8 points de dégâts mais ils n’ont pas d’attaque de griffe.
+* '''Troglodytes éclairés (FP 2).''' Ces troglodytes vivent beaucoup plus loin dans les profondeurs que leurs frères. Moins bestiaux que les autres troglodytes mais tout aussi vils, ils se servent de leur intelligence pour asservir les races plus primitives. Ils sont devenus des experts du dressage de bêtes, qui leur servent de monture et de sentinelles.
+Un troglodyte éclairé a les valeurs de caractéristique suivantes : [[For]] 14, [[Dex]] 17, [[Con]] 16, [[Int]] 12, [[Sag]] 13 et [[Cha]] 13. Il possède généralement les compétences suivantes (sans compter les rangs gagnés grâce aux niveaux de classe) : [[Discrétion]] +5 (+9 dans les régions rocailleuses), [[Dressage]] +6 et [[Perception]] +3.
+
+{s:Col-Fin}{s:Col|6}
+* '''Parangon troglodyte (FP 5).''' Bien que la plupart des anciens xulgaths aient trouvé la mort quand leur grand empire s’est effondré, il y a bien longtemps, quelques puissants individus ont survécu. Ces anciens troglodytes se sont alors cachés dans les profondeurs du monde et, si nombre d’entre eux ont fini par mourir, ont fui sur d’autres plans ou se sont transformés en liches, quelques-uns se sont réfugiés en stase magique. Au fil de ces longs siècles, les parangons troglodytes ont ponctuellement émergé de leur profond sommeil. Si certains se sont lancés à la recherche des troglodytes modernes dans le but de les élever au-dessus de leur condition et de retrouver la gloire de leur civilisation perdue, la plupart d’entre eux méprisent leurs descendants dégénérés. Se distinguant des troglodytes communs par leurs yeux émeraude scintillants et leurs écailles aux reflets dorés, les parangons troglodytes vivent très longtemps, leur espérance de vie maximale avoisinant les 400 ans. Ce sont des créatures extrêmement paranoïaques et obsédées par leur survie. La plupart des parangons troglodytes possèdent des niveaux dans les classes de prêtre ou d’ensorceleur.
+Les parangons troglodytes sont des troglodytes de taille G avec 7 [[DV|dés de vie]]. Leur bonus d’armure naturelle est augmenté de 2, leurs attaques de griffe infligent 1d8 points de dégâts et leurs attaques de morsure infligent 1d6 points de dégâts. Les parangons troglodytes possèdent les valeurs de caractéristique suivantes plutôt que celles des troglodytes normaux : [[For]] 22, [[Dex]] 9, [[Con]] 16, [[Int]] 13, [[Sag]] 10 et [[Cha]] 15. Ils peuvent utiliser les pouvoirs magiques suivants : constant – ''[[vision magique]]'' ; à volonté – ''[[communication avec les animaux]]'' (dinosaures et reptiles uniquement), ''[[hypnose]]'' ; 3/jour – ''[[charme-monstre]]'', ''[[frayeur]]''. Les parangons troglodytes qui possèdent au moins 14 dés de vie (en incluant leurs [[DV]] raciaux et ceux qui sont issus de leurs niveaux de classe) peuvent également utiliser ''[[domination universelle]]'' une fois par jour. Un parangon troglodyte possède généralement les compétences suivantes (sans compter les rangs gagnés grâce aux niveaux de classe) : [[Discrétion]] +10 (+14 dans les régions rocailleuses), [[Intimidation]] +9 et [[Perception]] +7.
+
+{s:Col-Fin}{s:Ligne-Fin}
+{s:CM}
+===Nouvelles règles raciales===
+Les règles suivantes incluent des variantes de troglodytes et des sorts créés par la race.
+{s:ligne}{s:col|6}
+====Objets magiques====
+Ces objets magiques sont spécifiques aux demi-elfes :
+* [[Amulette de jet de puanteur]]
+* [[Grande hache des habitants des grottes]]
+
+{s:col-fin}{s:col|6}
+====Sorts====
+Les lanceurs de sorts troglodytes apprennent souvent les sorts suivants.
+* '''''[[Marque du dieu reptile]]''''' ''(CM)'' ([[Antipaladin|Apal 4]], [[Inquisiteur|Inq 4]], [[Prêtre|Prê 4]]). Marque une créature avec une malédiction acide.
+* '''''[[Nuée de crocs]]''''' ''(CM)'' ([[Conjurateur|Con 3]], [[Druide|Dru 3]], [[Ensorceleur|Ens]]/[[Magicien|Mag 3]], [[Psychiste|Psy 3]], [[Sorcière|Sor 3]]). Appel une nuée de crocs animés volants.
+* '''''[[Puanteur amplifiée]]''''' ''(CM)'' ([[Chaman|Cham 2]], [[Druide|Dru 2]], [[Ensorceleur|Ens]]/[[Magicien|Mag 2]], [[Prêtre|Prê 2]], [[Psychiste|Psy 2]]). Améliore la capacité puanteur de la cible.
+
+{s:col-fin}{s:ligne-fin}]]></raw>
+  <fullName>Pathfinder-RPG.Troglodyte</fullName>
+</wikiPage>

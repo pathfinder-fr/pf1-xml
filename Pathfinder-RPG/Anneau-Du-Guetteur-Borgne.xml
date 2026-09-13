@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Anneau du guetteur borgne</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag anneau</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-25 16:51:35Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Anneaux magiques</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Anneaux magiques</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Messager animal</link><link>Pathfinder-RPG.Création danneaux magiques</link><link>Pathfinder-RPG.Érastil (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fErastil.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.&#201;rastil (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fErastil.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;rastil-(Technique).html&quot; title=&quot;&#201;rastil&quot;&gt;&#201;rastil&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Anneau du guetteur &#233;rastilien&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Anneaux-Magiques.html&quot; title=&quot;Les anneaux magiques&quot;&gt;anneau&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 1 500 po ; &lt;b&gt;Poids&lt;/b&gt; —
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cet anneau est taill&#233; dans une unique pi&#232;ce de bois &#233;paisse et prend la forme d&#39;une t&#234;te d&#39;&#233;lan royal. Le porteur b&#233;n&#233;ficie d&#39;un bonus de comp&#233;tence de +2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt;. Une fois par jour, le porteur peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Messager-Animal.html&quot; title=&quot;Messager animal&quot;&gt;messager animal&lt;/a&gt;&lt;/i&gt;.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Danneaux-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;anneaux magiques&quot;&gt;Cr&#233;ation d&#39;anneaux magiques&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Messager-Animal.html&quot; title=&quot;Messager animal&quot;&gt;messager animal&lt;/a&gt;&lt;/i&gt;, le cr&#233;ateur doit avoir 2 rangs en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et en &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 750 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png}<div class="BD">
+{s:BDTitre|Anneau du guetteur érastilien|{s:ISG}}
+'''Aura''' [[Transmutation]] faible ; '''NLS''' 5 ; '''Emplacement''' [[Anneaux magiques|anneau]] ; '''Prix''' 1 500 po ; '''Poids''' —
+(((Description)))
+{s:cs}Cet anneau est taillé dans une unique pièce de bois épaisse et prend la forme d'une tête d'élan royal. Le porteur bénéficie d'un bonus de compétence de +2 aux tests de [[Perception]] et de [[Survie]]. Une fois par jour, le porteur peut utiliser ''[[messager animal]]''.
+(((Création)))
+'''Conditions''' [[Création danneaux magiques|Création d'anneaux magiques]], ''[[messager animal]]'', le créateur doit avoir 2 rangs en [[Perception]] et en [[Survie]] ; '''Coût''' 750 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Anneau du guetteur borgne</fullName>
+</wikiPage>

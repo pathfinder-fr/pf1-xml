@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Changepeau</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-20 16:49:34Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Changepeau (race)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.sous-type changepeau</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.sous-type ange</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Communication avec les animaux</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.armure de cuir cloutée (armure)</link><link>Pathfinder-RPG.Arc long (arme)</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Rôdeur</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Changepeau&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.57&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+Changepeau (h) r&#244;deur 1
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;, ch&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Ange.html&quot; title=&quot;Ange (sous-type)&quot;&gt;ange&lt;/a&gt;peau) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 12, pris au d&#233;pourvu 13 (armure +3, Dex +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 12 (1d10+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +4 (1d4+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arc long, +3 (1d8/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; ennemi jur&#233; (humain +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; de changepeau (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 1 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1 ; &lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +6 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +2 en Dressage
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; changement de forme, pistage +1, empathie sauvage +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts, collines ou montagnes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, paire ou meute (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Cuir-Clout&#233;e-(Armure).html&quot; title=&quot;Armure de cuir clout&#233;e&quot;&gt;armure de cuir clout&#233;e&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arc-Long-(Arme).html&quot; title=&quot;Arc long&quot;&gt;arc long&lt;/a&gt;, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Changement de forme (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un changepeau peut se m&#233;tamorphoser pour prendre une apparence animale. Quand il est sous sa forme bestiale, le changepeau gagne un bonus racial de +2 de son choix parmi les caract&#233;ristiques suivantes : &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+Tant qu’il conserve cette forme, il poss&#232;de aussi des caract&#232;res bestiaux responsables d’un effet sp&#233;cial. &#192; chaque fois qu’un changepeau prend une apparence animale, il
+peut choisir de gagner deux attaques de griffes qui infligent 1d4 points de d&#233;g&#226;ts, une &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ou un bonus d’armure naturelle de +1. Ces avantages lui sont acquis jusqu’&#224; ce qu’il reprenne sa forme humano&#239;de par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;. S’il veut modifier l’un des avantages li&#233;s &#224; sa forme bestiale, le changepeau doit d’abord repasser par son apparence humaine avant de reprendre sa forme bestiale modifi&#233;e. Le changepeau pr&#233;sent&#233; ici est sous sa forme bestiale et b&#233;n&#233;ficie des attaques de griffes et d’un bonus racial de +2 en &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet homme semble humain au premier abord. Mais en le regardant de plus pr&#232;s, on peut remarquer ses griffes et dents effil&#233;es.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;On croit commun&#233;ment que les changepeaux sont des lycanthropes hybrides ou bien qu’ils sont infect&#233;s par une version moins puissante de la transmission de la lycanthropie. Cependant, les chamanes changepeaux soutiennent que leur peuple a &#233;t&#233; choisi par les dieux pour servir de passerelle entre l’humanit&#233; et les animaux. Quoi qu’il en soit, les changepeaux ressemblent la plupart du temps aux humains, mais ils ont la capacit&#233; surnaturelle de se transformer en humano&#239;des aux traits bestiaux, qui poss&#232;dent des caract&#233;ristiques animales aussi puissantes que terrifiantes.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Personnages changepeaux&lt;a class=&quot;headeranchor&quot; id=&quot;Personnages_changepeaux_0&quot; href=&quot;#Personnages_changepeaux_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les changepeaux sont d&#233;finis par leurs niveaux de classe ; ils n’ont pas de d&#233;s de vie raciaux. Tous les changepeaux ont les traits raciaux suivants :
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;+2 en &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;, -2 en &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;, +2 &#224; une valeur de caract&#233;ristique physique lorsqu’ils sont sous leur forme bestiale.&lt;/b&gt; Les changepeaux sont en harmonie avec l’ordre naturel et, pour eux, la passion est plus importante que la raison. Leur apparence bestiale leur permet de renforcer leur corps de nombreuses mani&#232;res.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Taille Moyenne.&lt;/b&gt; Les changepeaux sont des cr&#233;atures de taille Moyenne qui ne re&#231;oivent ni bonus ni p&#233;nalit&#233; &#224; cause de leur taille.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse normale.&lt;/b&gt; Les changepeaux ont une vitesse de base de 9 m&#232;tres.&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;Vision nocturne&lt;/a&gt;.&lt;/b&gt; Les changepeaux peuvent voir deux fois plus loin que les humains en situation de luminosit&#233; faible.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Pouvoir magique.&lt;/b&gt; Un changepeau avec une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; sup&#233;rieure ou &#233;gale &#224; 11 peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt; une fois par jour comme un pouvoir magique, en utilisant son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; pour d&#233;terminer le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de ses tests de concentration. Quand un changepeau utilise ce pouvoir, son niveau de lanceur de sorts est le m&#234;me que son niveau de personnage.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Compr&#233;hension animale.&lt;/b&gt; Les changepeaux ont un bonus racial de +2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; et d’&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#EMPATHIESAUVAGE&quot; title=&quot;Le r&#244;deur&quot;&gt;empathie sauvage&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Changement de forme.&lt;/b&gt; Voir ci-dessus.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues.&lt;/b&gt; Tous les changepeaux commencent le jeu en parlant le commun. Ceux d’entre eux qui poss&#232;dent une valeur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; &#233;lev&#233;e peuvent choisir n’importe quelle langue (&#224; l’exception des langues secr&#232;tes, comme le druidique).&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Changepeau|FP 1/2}
+{s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 5 p.57''}
+{s:BDTexte|'''PX''' 200}
+Changepeau (h) rôdeur 1
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type métamorphe|métamorphe]], ch[[sous-type ange|ange]]peau) de taille M, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 12, pris au dépourvu 13 (armure +3, Dex +2)}
+{s:BDTexte|'''pv''' 12 (1d10+2)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +3, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +4 (1d4+3)}
+{s:BDTexte|'''Distance''' arc long, +3 (1d8/×3)}
+{s:BDTexte|'''Attaques spéciales''' ennemi juré (humain +2)}
+{s:BDTexte|'''Pouvoirs magiques''' de changepeau ([[NLS]] 1 ; [[concentration]] +3)}
+{s:BDSorts|1/jour — ''[[communication avec les animaux]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 14, '''Con''' 13, '''Int''' 8, '''Sag''' 14, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +1 ; '''BMO''' +4 ; '''DMD''' 16}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]]}
+{s:BDTexte|'''Compétences''' [[Dressage]] +5, [[Escalade]] +7, [[Natation]] +7, [[Perception]] +6, [[Survie]] +6 ; '''Modificateurs raciaux''' +2 en Dressage}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' changement de forme, pistage +1, empathie sauvage +2}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts, collines ou montagnes}
+{s:BDTexte|'''Organisation''' solitaire, paire ou meute (3-12)}
+{s:BDTexte|'''Trésor''' standard ([[armure de cuir cloutée (armure)|armure de cuir cloutée]], [[arc long (arme)|arc long]], autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Changement de forme (Sur).''' Par une [[action simple]], un changepeau peut se métamorphoser pour prendre une apparence animale. Quand il est sous sa forme bestiale, le changepeau gagne un bonus racial de +2 de son choix parmi les caractéristiques suivantes : [[Force]], [[Dextérité]] ou [[Constitution]].
+Tant qu’il conserve cette forme, il possède aussi des caractères bestiaux responsables d’un effet spécial. À chaque fois qu’un changepeau prend une apparence animale, il
+peut choisir de gagner deux attaques de griffes qui infligent 1d4 points de dégâts, une [[vision dans le noir]] à 18 m ou un bonus d’armure naturelle de +1. Ces avantages lui sont acquis jusqu’à ce qu’il reprenne sa forme humanoïde par une [[action rapide]]. S’il veut modifier l’un des avantages liés à sa forme bestiale, le changepeau doit d’abord repasser par son apparence humaine avant de reprendre sa forme bestiale modifiée. Le changepeau présenté ici est sous sa forme bestiale et bénéficie des attaques de griffes et d’un bonus racial de +2 en [[Force]].}
+</div></td>
+<td><div>''Cet homme semble humain au premier abord. Mais en le regardant de plus près, on peut remarquer ses griffes et dents effilées.''
+
+On croit communément que les changepeaux sont des lycanthropes hybrides ou bien qu’ils sont infectés par une version moins puissante de la transmission de la lycanthropie. Cependant, les chamanes changepeaux soutiennent que leur peuple a été choisi par les dieux pour servir de passerelle entre l’humanité et les animaux. Quoi qu’il en soit, les changepeaux ressemblent la plupart du temps aux humains, mais ils ont la capacité surnaturelle de se transformer en humanoïdes aux traits bestiaux, qui possèdent des caractéristiques animales aussi puissantes que terrifiantes.
+
+====Personnages changepeaux====
+Les changepeaux sont définis par leurs niveaux de classe ; ils n’ont pas de dés de vie raciaux. Tous les changepeaux ont les traits raciaux suivants :
+* '''+2 en [[Sagesse]], -2 en [[Intelligence]], +2 à une valeur de caractéristique physique lorsqu’ils sont sous leur forme bestiale.''' Les changepeaux sont en harmonie avec l’ordre naturel et, pour eux, la passion est plus importante que la raison. Leur apparence bestiale leur permet de renforcer leur corps de nombreuses manières.
+* '''Taille Moyenne.''' Les changepeaux sont des créatures de taille Moyenne qui ne reçoivent ni bonus ni pénalité à cause de leur taille.
+* '''Vitesse normale.''' Les changepeaux ont une vitesse de base de 9 mètres.
+* '''[[Vision nocturne]].''' Les changepeaux peuvent voir deux fois plus loin que les humains en situation de luminosité faible.
+* '''Pouvoir magique.''' Un changepeau avec une valeur de [[Sagesse]] supérieure ou égale à 11 peut utiliser ''[[communication avec les animaux]]'' une fois par jour comme un pouvoir magique, en utilisant son modificateur de [[Sagesse]] pour déterminer le [[DD]] de ses tests de concentration. Quand un changepeau utilise ce pouvoir, son niveau de lanceur de sorts est le même que son niveau de personnage. 
+* '''Compréhension animale.''' Les changepeaux ont un bonus racial de +2 aux tests de [[Dressage]] et d’[[rôdeur#EMPATHIESAUVAGE|empathie sauvage]].
+* '''Changement de forme.''' Voir ci-dessus.
+* '''Langues.''' Tous les changepeaux commencent le jeu en parlant le commun. Ceux d’entre eux qui possèdent une valeur d’[[Intelligence]] élevée peuvent choisir n’importe quelle langue (à l’exception des langues secrètes, comme le druidique).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Changepeau</fullName>
+</wikiPage>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Videsprit</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2026-06-08 15:10:53Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des plantes (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Barrière mentale I</link><link>Pathfinder-RPG.Coup mental IV</link><link>Pathfinder-RPG.Fouet dego I</link><link>Pathfinder-RPG.Insinuation du ça I</link><link>Pathfinder-RPG.Armure de mage</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Magie psychique (capacité)</link><link>Pathfinder-RPG.La magie psychique</link><link>Pathfinder-RPG.Coup mental I</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Videsprit&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Plante&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Plante.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.284&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; absorption d’esprit (9 m, DD 23)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 16, pris au d&#233;pourvu 20 (armure +4, Dex +4, esquive +1, naturelle +5, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 142 (15d8+75)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +15, &lt;b&gt;Vol&lt;/b&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Plantes-(Capacit&#233;).html&quot; title=&quot;Traits des plantes (Ext)&quot;&gt;traits des plantes&lt;/a&gt; ; &lt;b&gt;RM&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, escalade 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; spore, +16 contact (spores mentales)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; spores mentales
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Magie psychique&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 11 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+10 EP — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barri&#232;re-Mentale-I.html&quot; title=&quot;Barri&#232;re mentale I&quot;&gt;barri&#232;re mentale I&lt;/a&gt;&lt;/i&gt; (1 EP), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Mental-Iv.html&quot; title=&quot;Coup mental IV&quot;&gt;coup mental IV&lt;/a&gt;&lt;/i&gt; (4 EP, DD 20), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fouet-Dego-I.html&quot; title=&quot;Fouet d&amp;#39;ego I&quot;&gt;fouet d&#39;ego I&lt;/a&gt;&lt;/i&gt; (3 EP, DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Insinuation-Du-&#199;a-I.html&quot; title=&quot;Insinuation du &#231;a I&quot;&gt;insinuation du &#231;a I&lt;/a&gt;&lt;/i&gt; (2 EP, DD 18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 11 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Mage.html&quot; title=&quot;Armure de mage&quot;&gt;armure de mage&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 17, &lt;b&gt;Sag&lt;/b&gt; 20, &lt;b&gt;Cha&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +11 ; &lt;b&gt;BMO&lt;/b&gt; +10 ; &lt;b&gt;DMD&lt;/b&gt; 25 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +21, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +27, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, commun des profondeurs (ne peut pas parler), sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; d&#233;voreur de magie
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura d’absorption d’esprit (Sur).&lt;/b&gt; Toute cr&#233;ature qui se trouve dans un rayon de 9 m&#232;tres d’un videsprit doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 23 &#224; chaque round ou subir un &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d3 points d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;. Un videsprit peut contr&#244;ler toutes les cr&#233;atures qui se trouvent dans son aura et qui ont subi une diminution d’Intelligence plus &#233;lev&#233;e que leur valeur d’Intelligence initiale, comme si ces cr&#233;atures &#233;taient domin&#233;es (cet effet remplace le coma qui est l’effet habituel suite &#224; de tels d&#233;g&#226;ts).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;voreur de magie (Ext).&lt;/b&gt; Quand une cr&#233;ature lance un sort &#224; 9 m&#232;tres ou moins d’un videsprit, celui-ci gagne 1 point d’&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Psychique-(Capacit&#233;).html&quot; title=&quot;Magie psychique (Mag)&quot;&gt;EP&lt;/a&gt;. S’il s’agissait d’un &lt;a class=&quot;pagelink&quot; href=&quot;La-Magie-Psychique.html&quot; title=&quot;La magie psychique&quot;&gt;sort psychique&lt;/a&gt;, le videsprit gagne &#224; la place un nombre de points d’EP &#233;gal au niveau du sort.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Spores mentales (Mag).&lt;/b&gt; Une cr&#233;ature qui est touch&#233;e par les spores mentales d’un videsprit subit des d&#233;g&#226;ts comme si elle avait rat&#233; son jet de sauvegarde contre &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Mental-I.html&quot; title=&quot;Coup mental I&quot;&gt;coup mental I&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet &#233;pais ruban de champignons fait penser &#224; une chenille. Ses replis sont anim&#233;s d’une pulsation qui &#233;met une &#233;trange lumi&#232;re dor&#233;e.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le videsprit est une cr&#233;ature fongique extr&#234;mement dangereuse. De nombreux sages pensent qu’elle a des origines extraterrestres. Elle est attir&#233;e par les zones d&#233;gageant naturellement de la magie ou peupl&#233;es par des lanceurs de sorts et se nourrit de la magie qui s’y trouve, tout en d&#233;gradant petit &#224; petit les facult&#233;s mentales des cr&#233;atures qui habitent la r&#233;gion en leur communiquant des images et des pens&#233;es abrutissantes. Les utilisateurs de magie psychique sont les cibles favorites des videsprits car leur &#233;nergie mentale est particuli&#232;rement nourrissante pour le champignon. Une cr&#233;ature qui succombe &#224; l’aura d’absorption d’esprit d’un videsprit finit par devenir l’esclave de la volont&#233; &#233;trange du champignon, qui utilise ces infortun&#233;es cr&#233;atures pour attirer de nouvelles proies. Une cr&#233;ature ainsi contr&#244;l&#233;e est incapable de r&#233;pondre m&#234;me &#224; ses besoins les plus basiques et elle n’est en r&#233;alit&#233; plus qu’une extension cherchant &#224; satisfaire l’app&#233;tit du videsprit.&lt;br /&gt;&lt;br /&gt;S’il n’y a rien pour contr&#244;ler son d&#233;veloppement, un videsprit &#233;puise rapidement la faune locale, pendant que ses stupides serviteurs meurent de faim. Les animaux sauvages ne sont pour le champignon qu’une maigre source de nourriture et il finit in&#233;vitablement par tenter de trouver des sources d’intelligence et de pouvoir magique plus riches &#224; d&#233;vorer. Cela m&#232;ne parfois le videsprit &#224; se d&#233;placer vers les communaut&#233;s qui se trouvent en bordure de sa for&#234;t ou &#224; graviter vers les cercles druidiques li&#233;s aux for&#234;ts. Pour cette raison, les enclaves druidiques se lancent souvent dans des campagnes pour chasser et d&#233;truire ces cr&#233;atures avant qu’elles ne s&#232;ment le chaos dans l’&#233;cosyst&#232;me local. Malgr&#233; l’origine v&#233;g&#233;tale de ce champignon, la plupart des communaut&#233;s druidiques le consid&#232;rent comme une abomination de l’ordre naturel.&lt;br /&gt;&lt;br /&gt;Heureusement, les videsprits sont assez rares et on ne leur conna&#238;t pas de culture ou d’organisation. Ces cr&#233;atures ont du mal &#224; travailler ensemble, chacune &#233;tant motiv&#233;e par ses propres int&#233;r&#234;ts &#233;go&#239;stes et n’h&#233;sitant pas &#224; drainer ses propres cong&#233;n&#232;res si l’opportunit&#233; se pr&#233;sente. Malgr&#233; leur insatiabilit&#233;, les videsprits semblent ne pas avoir de go&#251;t pour l’&#233;nergie mentale des cr&#233;atures f&#233;&#233;riques. Et s’ils n’h&#233;sitent pas &#224; se d&#233;fendre contre ces derni&#232;res, ils font leur possible pour &#233;viter les zones dans lesquelles celles-ci r&#233;sident.&lt;br /&gt;&lt;br /&gt;Les videsprits se d&#233;placent en compressant et en d&#233;tendant leur corps, rampant lentement &#224; la mani&#232;re d’une chenille. Ils mesurent environ 1 m&#232;tre et p&#232;sent 25 kilos.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Videsprit|FP 11}
+{s:pucem|Plante|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.284]]''}
+{s:BDTexte|'''PX''' 12 800}
+{s:BDTexte|[[type Plante|Plante]] de taille P, N}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +27}
+{s:BDTexte|'''Aura''' absorption d’esprit (9 m, DD 23)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 16, pris au dépourvu 20 (armure +4, Dex +4, esquive +1, naturelle +5, taille +1)}
+{s:BDTexte|'''pv''' 142 (15d8+75)}
+{s:BDTexte|'''Réf''' +11, '''Vig''' +15, '''Vol''' +12}
+{s:BDTexte|'''Immunités''' [[Traits des plantes (capacité)|traits des plantes]] ; '''RM''' 22}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m, escalade 3 m}
+{s:BDTexte|'''Distance''' spore, +16 contact (spores mentales)}
+{s:BDTexte|'''Attaques spéciales''' spores mentales}
+{s:BDTexte|'''Magie psychique''' ([[NLS]] 11 ; [[concentration]] +17)}
+{s:BDSorts|10 EP — ''[[barrière mentale I]]'' (1 EP), ''[[coup mental IV]]'' (4 EP, DD 20), ''[[fouet dego I|fouet d'ego I]]'' (3 EP, DD 19), ''[[insinuation du ça I]]'' (2 EP, DD 18)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 11 ; [[concentration]] +17)}
+{s:BDSorts|Constant — ''[[armure de mage]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 10, '''Dex''' 19, '''Con''' 18, '''Int''' 17, '''Sag''' 20, '''Cha''' 23}
+{s:BDTexte|'''BBA''' +11 ; '''BMO''' +10 ; '''DMD''' 25 (croc-en-jambe impossible)}
+{s:BDTexte|'''Dons''' [[Esquive]], [[Magie de guerre]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]], [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +18, [[Escalade]] +23, [[Intimidation]] +21, [[Perception]] +27, [[Psychologie]] +24}
+{s:BDTexte|'''Langues''' commun, commun des profondeurs (ne peut pas parler), sylvestre}
+{s:BDTexte|'''Particularités''' dévoreur de magie}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' fortuit}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Aura d’absorption d’esprit (Sur).''' Toute créature qui se trouve dans un rayon de 9 mètres d’un videsprit doit réussir un jet de [[Volonté]] DD 23 à chaque round ou subir un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 points d’[[Intelligence]]. Un videsprit peut contrôler toutes les créatures qui se trouvent dans son aura et qui ont subi une diminution d’Intelligence plus élevée que leur valeur d’Intelligence initiale, comme si ces créatures étaient dominées (cet effet remplace le coma qui est l’effet habituel suite à de tels dégâts).}
+{s:BDTexte|'''Dévoreur de magie (Ext).''' Quand une créature lance un sort à 9 mètres ou moins d’un videsprit, celui-ci gagne 1 point d’[[Magie psychique (capacité)|EP]]. S’il s’agissait d’un [[La magie psychique|sort psychique]], le videsprit gagne à la place un nombre de points d’EP égal au niveau du sort.}
+{s:BDTexte|'''Spores mentales (Mag).''' Une créature qui est touchée par les spores mentales d’un videsprit subit des dégâts comme si elle avait raté son jet de sauvegarde contre ''[[coup mental I]]''.}
+
+</div></td>
+<td><div>''Cet épais ruban de champignons fait penser à une chenille. Ses replis sont animés d’une pulsation qui émet une étrange lumière dorée.''
+
+Le videsprit est une créature fongique extrêmement dangereuse. De nombreux sages pensent qu’elle a des origines extraterrestres. Elle est attirée par les zones dégageant naturellement de la magie ou peuplées par des lanceurs de sorts et se nourrit de la magie qui s’y trouve, tout en dégradant petit à petit les facultés mentales des créatures qui habitent la région en leur communiquant des images et des pensées abrutissantes. Les utilisateurs de magie psychique sont les cibles favorites des videsprits car leur énergie mentale est particulièrement nourrissante pour le champignon. Une créature qui succombe à l’aura d’absorption d’esprit d’un videsprit finit par devenir l’esclave de la volonté étrange du champignon, qui utilise ces infortunées créatures pour attirer de nouvelles proies. Une créature ainsi contrôlée est incapable de répondre même à ses besoins les plus basiques et elle n’est en réalité plus qu’une extension cherchant à satisfaire l’appétit du videsprit.
+
+S’il n’y a rien pour contrôler son développement, un videsprit épuise rapidement la faune locale, pendant que ses stupides serviteurs meurent de faim. Les animaux sauvages ne sont pour le champignon qu’une maigre source de nourriture et il finit inévitablement par tenter de trouver des sources d’intelligence et de pouvoir magique plus riches à dévorer. Cela mène parfois le videsprit à se déplacer vers les communautés qui se trouvent en bordure de sa forêt ou à graviter vers les cercles druidiques liés aux forêts. Pour cette raison, les enclaves druidiques se lancent souvent dans des campagnes pour chasser et détruire ces créatures avant qu’elles ne sèment le chaos dans l’écosystème local. Malgré l’origine végétale de ce champignon, la plupart des communautés druidiques le considèrent comme une abomination de l’ordre naturel.
+
+Heureusement, les videsprits sont assez rares et on ne leur connaît pas de culture ou d’organisation. Ces créatures ont du mal à travailler ensemble, chacune étant motivée par ses propres intérêts égoïstes et n’hésitant pas à drainer ses propres congénères si l’opportunité se présente. Malgré leur insatiabilité, les videsprits semblent ne pas avoir de goût pour l’énergie mentale des créatures féériques. Et s’ils n’hésitent pas à se défendre contre ces dernières, ils font leur possible pour éviter les zones dans lesquelles celles-ci résident.
+
+Les videsprits se déplacent en compressant et en détendant leur corps, rampant lentement à la manière d’une chenille. Ils mesurent environ 1 mètre et pèsent 25 kilos.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Videsprit</fullName>
+</wikiPage>

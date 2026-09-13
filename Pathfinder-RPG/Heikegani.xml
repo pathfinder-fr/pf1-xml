@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Heikegani</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-19 16:45:23Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Aura surnaturelle (capacité)</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Démonstration</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Compétences</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Heikegani&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Aberration&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.150&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille P, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m&#232;tres ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Aura-Surnaturelle-(Capacit&#233;).html&quot; title=&quot;Aura surnaturelle (Sur)&quot;&gt;aura surnaturelle&lt;/a&gt; (9 m, DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 12, pris au d&#233;pourvu 17 (Dex +1, naturelle +6, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (5d8+20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, nage 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +9 (1d3+4 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;) ou dague, +8 (1d3+4/19-20) et griffe, +4 (1d3+2 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; dague, +5 (1d3+4/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (1d3+4), d&#233;fi (2/jour), &#233;treinte (Moyen), regard intimidant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 9, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +6 (+10 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 17 (25 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (griffe), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Intimidation)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (noblesse) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun (ne peut pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; toutes les c&#244;tes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou garde (3-7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;fi (Sur).&lt;/b&gt; Deux fois par jour, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;, un heikegani peut d&#233;fier un ennemi. Le heikegani gagne alors un bonus de +4 &#224; ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;jets de d&#233;g&#226;ts&lt;/a&gt; contre cet ennemi et un malus de -2 &#224; sa &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; contre toutes les attaques sauf celles de l’ennemi d&#233;fi&#233;, jusqu’&#224; la fin du combat ou jusqu’&#224; ce que cet ennemi ait perdu conscience. Le heikegani gagne aussi une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 2/— contre les attaques port&#233;es par la cible de son d&#233;fi.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Regard intimidant (Ext).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, un heikegani peut se dresser sur ses pattes arri&#232;re afin d’exposer la semblance de visage qui se trouve sur sa carapace en claquant des pinces de mani&#232;re mena&#231;ante. Le heikegani peut alors tenter un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; pour d&#233;moraliser les ennemis qui se trouvent dans un rayon de 9 m&#232;tres et qui peuvent voir le visage, de la m&#234;me mani&#232;re que s’il utilisait le don &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;monstration.html&quot; title=&quot;D&#233;monstration&quot;&gt;D&#233;monstration&lt;/a&gt;. M&#234;me s’il est plus petit que les cr&#233;atures qu’il cible, le crabe ne subit pas de malus lors de ce test.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;miniscences d’honneur (Sur).&lt;/b&gt; Une fois par jour, quand un heikegani tente de faire un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; ou un test de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt;, il peut faire appel &#224; la d&#233;termination qui &#233;tait sienne au cours de sa vie pr&#233;c&#233;dente afin de gagner un bonus de +4 pour ce jet de d&#233;. Le heikegani doit d&#233;cider s’il veut utiliser ce pouvoir avant de lancer le d&#233;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;La carapace de ce grand crabe ressemble &#224; un visage humain fig&#233; dans une grimace de fureur ant&#233;diluvienne.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les samoura&#239;s sont r&#233;put&#233;s pour leur d&#233;termination. Cependant, il arrive parfois qu’un samoura&#239; d&#233;fende une cause avec une intensit&#233; qui vire &#224; l’obsession et, &#224; sa mort, son &#226;me ne peut pas quitter le plan Mat&#233;riel. Incapable de trouver le repos &#233;ternel et refusant de devenir un mort-vivant assoiff&#233; de vengeance, l’&#226;me du samoura&#239; choisit alors un h&#244;te plus adapt&#233; &#224; la continuation de son existence. C’est ainsi que naissent les heikegani : une symbiose entre l’&#226;me d’un samoura&#239; mort et le corps d’un crustac&#233;, aliment&#233;e par un sentiment de trag&#233;die et de col&#232;re. Ce ph&#233;nom&#232;ne se produit g&#233;n&#233;ralement quand le samoura&#239; meurt pr&#232;s de l’habitat d’un crabe et que son &#226;me s’attache &#224; une zo&#233; de crabe fra&#238;chement &#233;close. Le ph&#233;nom&#232;ne implique toujours une part de magie, soit parce que le samoura&#239; tr&#233;passe dans un environnement riche en magie, soit parce que le coup fatal est lui-m&#234;me magique. Les jeunes heikeganis sont particuli&#232;rement agressifs et tuent les autres crabes et cr&#233;atures marines qu’ils rencontrent jusqu’au moment o&#249; ils d&#233;veloppent la capacit&#233; de se d&#233;placer sur la terre ferme. &#192; chaque fois qu’un heikegani mue, sa nouvelle carapace affiche une ressemblance de plus en plus frappante avec un visage de d&#233;mon furieux.&lt;br /&gt;&lt;br /&gt;L’&#226;me d’un heikegani n’a que peu de souvenirs de sa vie ant&#233;rieure, mais la cr&#233;ature conserve l’obstination et le sens de l’honneur qui &#233;taient siens, et un heikegani a vite fait de d&#233;fier les cr&#233;atures qu’il rencontre en combat mortel. Un heikegani croit avoir &#233;t&#233; r&#233;incarn&#233;, alors qu’en r&#233;alit&#233; son &#226;me n’a jamais progress&#233; jusqu’&#224; l’&#233;tape du jugement. Sa gen&#232;se surnaturelle est &#224; l’origine de terribles souffrances et ce dangereux crustac&#233; parcourt les plages &#224; la recherche de rivaux qu’il pourra vaincre en combat honorable afin que son &#226;me puisse enfin trouver le repos auquel elle aspire.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Heikegani|FP 4}
+{s:pucem|Aberration|Aquatique|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.150]]''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille P, NM}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 mètres ; [[Perception]] +10}
+{s:BDTexte|'''Aura''' [[Aura surnaturelle (capacité)|aura surnaturelle]] (9 m, DD 14)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 12, pris au dépourvu 17 (Dex +1, naturelle +6, taille +1)}
+{s:BDTexte|'''pv''' 42 (5d8+20)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +5, '''Vol''' +6}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, nage 6 m}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +9 (1d3+4 plus [[Étreinte (capacité)|étreinte]]) ou dague, +8 (1d3+4/19-20) et griffe, +4 (1d3+2 plus [[Étreinte (capacité)|étreinte]])}
+{s:BDTexte|'''Distance''' dague, +5 (1d3+4/19-20)}
+{s:BDTexte|'''Attaques spéciales''' [[Constriction (capacité)|constriction]] (1d3+4), défi (2/jour), étreinte (Moyen), regard intimidant}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 13, '''Con''' 18, '''Int''' 9, '''Sag''' 14, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +6 (+10 en [[lutte]]) ; '''DMD''' 17 (25 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Arme de prédilection]] (griffe), [[Talent]] (Intimidation)}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (noblesse) +4, [[Intimidation]] +9, [[Natation]] +18, [[Perception]] +10}
+{s:BDTexte|'''Langues''' commun (ne peut pas parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' toutes les côtes}
+{s:BDTexte|'''Organisation''' solitaire ou garde (3-7)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Défi (Sur).''' Deux fois par jour, par une [[action rapide]], un heikegani peut défier un ennemi. Le heikegani gagne alors un bonus de +4 à ses [[Valeurs de combat#DEGATS|jets de dégâts]] contre cet ennemi et un malus de -2 à sa [[CA]] contre toutes les attaques sauf celles de l’ennemi défié, jusqu’à la fin du combat ou jusqu’à ce que cet ennemi ait perdu conscience. Le heikegani gagne aussi une [[RD]] 2/— contre les attaques portées par la cible de son défi.}
+{s:BDTexte|'''Regard intimidant (Ext).''' Par une [[action complexe]], un heikegani peut se dresser sur ses pattes arrière afin d’exposer la semblance de visage qui se trouve sur sa carapace en claquant des pinces de manière menaçante. Le heikegani peut alors tenter un test d’[[Intimidation]] pour démoraliser les ennemis qui se trouvent dans un rayon de 9 mètres et qui peuvent voir le visage, de la même manière que s’il utilisait le don [[Démonstration]]. Même s’il est plus petit que les créatures qu’il cible, le crabe ne subit pas de malus lors de ce test.}
+{s:BDTexte|'''Réminiscences d’honneur (Sur).''' Une fois par jour, quand un heikegani tente de faire un [[jds|jet de sauvegarde]] ou un test de [[Compétences|compétence]], il peut faire appel à la détermination qui était sienne au cours de sa vie précédente afin de gagner un bonus de +4 pour ce jet de dé. Le heikegani doit décider s’il veut utiliser ce pouvoir avant de lancer le dé.}
+
+</div></td>
+<td><div>''La carapace de ce grand crabe ressemble à un visage humain figé dans une grimace de fureur antédiluvienne.''
+
+Les samouraïs sont réputés pour leur détermination. Cependant, il arrive parfois qu’un samouraï défende une cause avec une intensité qui vire à l’obsession et, à sa mort, son âme ne peut pas quitter le plan Matériel. Incapable de trouver le repos éternel et refusant de devenir un mort-vivant assoiffé de vengeance, l’âme du samouraï choisit alors un hôte plus adapté à la continuation de son existence. C’est ainsi que naissent les heikegani : une symbiose entre l’âme d’un samouraï mort et le corps d’un crustacé, alimentée par un sentiment de tragédie et de colère. Ce phénomène se produit généralement quand le samouraï meurt près de l’habitat d’un crabe et que son âme s’attache à une zoé de crabe fraîchement éclose. Le phénomène implique toujours une part de magie, soit parce que le samouraï trépasse dans un environnement riche en magie, soit parce que le coup fatal est lui-même magique. Les jeunes heikeganis sont particulièrement agressifs et tuent les autres crabes et créatures marines qu’ils rencontrent jusqu’au moment où ils développent la capacité de se déplacer sur la terre ferme. À chaque fois qu’un heikegani mue, sa nouvelle carapace affiche une ressemblance de plus en plus frappante avec un visage de démon furieux.
+
+L’âme d’un heikegani n’a que peu de souvenirs de sa vie antérieure, mais la créature conserve l’obstination et le sens de l’honneur qui étaient siens, et un heikegani a vite fait de défier les créatures qu’il rencontre en combat mortel. Un heikegani croit avoir été réincarné, alors qu’en réalité son âme n’a jamais progressé jusqu’à l’étape du jugement. Sa genèse surnaturelle est à l’origine de terribles souffrances et ce dangereux crustacé parcourt les plages à la recherche de rivaux qu’il pourra vaincre en combat honorable afin que son âme puisse enfin trouver le repos auquel elle aspire.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Heikegani</fullName>
+</wikiPage>

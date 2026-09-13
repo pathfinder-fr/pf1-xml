@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Le désert</title>
+  <categories><category>Pathfinder-RPG.Maitre du jeu</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs</category></categories>
+  <lastModified>2021-10-10 20:55:51Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.MainPage2</link><link>Pathfinder-RPG.Plaines</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Aventures en extérieur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.courir</link><link>Pathfinder-RPG.charger</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Montagne</link><link>Pathfinder-RPG.Marécages</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Donjons</link><link>Pathfinder-RPG.Pièges</link><link>Pathfinder-RPG.Exemples de pièges</link><link>Pathfinder-RPG.Conception de pièges</link><link>Pathfinder-RPG.Aventures en extérieur</link><link>Pathfinder-RPG.Milieu aquatique</link><link>Pathfinder-RPG.Milieu urbain</link><link>Pathfinder-RPG.Climat</link><link>Pathfinder-RPG.Plans</link><link>Pathfinder-RPG.grand au-delà</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Aventures nautiques</link><link>Pathfinder-RPG.Catastrophes</link><link>Pathfinder-RPG.Coût de la vie</link><link>Pathfinder-RPG.Dangers</link><link>Pathfinder-RPG.Magie primordiale</link><link>Pathfinder-RPG.Villes</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Acc&#232;s rapide aux sections sur l&#39;environnement&lt;a class=&quot;headeranchor&quot; id=&quot;Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; href=&quot;#Acc&#232;s_rapide_aux_sections_sur_lenvironnement_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top; text-align: left&quot;&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDONJONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DONJONS&#39;);&quot; onmouseout=&quot;outButton(&#39;DONJONS&#39;);&quot; onclick=&quot;expandMenu(&#39;DONJONS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html&quot; title=&quot;Les donjons&quot;&gt;Les donjons&lt;/a&gt;
+    &lt;ul ID=&quot;DONJONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_diff&#233;rents_types_de_donjons_7&quot; title=&quot;Les donjons&quot;&gt;Les diff&#233;rents types de donjons&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_0&quot; title=&quot;Les donjons&quot;&gt;Les murs&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_sols_1&quot; title=&quot;Les donjons&quot;&gt;Les sols&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_portes_2&quot; title=&quot;Les donjons&quot;&gt;Les portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_les_portes_et_la_d&#233;tection_des_sorts_3&quot; title=&quot;Les donjons&quot;&gt;Les murs, les portes et la d&#233;tection des sorts&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_escaliers_4&quot; title=&quot;Les donjons&quot;&gt;Les escaliers&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_&#233;boulements_5&quot; title=&quot;Les donjons&quot;&gt;Les &#233;boulements&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Champignons_moisissures_et_limons_6&quot; title=&quot;Les donjons&quot;&gt;Champignons, moisissures et limons&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPIEGES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PIEGES&#39;);&quot; onmouseout=&quot;outButton(&#39;PIEGES&#39;);&quot; onclick=&quot;expandMenu(&#39;PIEGES&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les pi&#232;ges&lt;/a&gt;
+    &lt;ul ID=&quot;PIEGES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DESCRIPTION&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les diff&#233;rentes parties d&#39;un pi&#232;ge&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DIVERS&quot; title=&quot;Les pi&#232;ges&quot;&gt;&#201;l&#233;ments divers des pi&#232;ges&lt;/a&gt;&lt;/li&gt;&lt;br/&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exemples-De-Pi&#232;ges.html&quot; title=&quot;Exemples de pi&#232;ges&quot;&gt;Exemples de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conception-De-Pi&#232;ges.html&quot; title=&quot;Conception d&amp;#39;un pi&#232;ge&quot;&gt;Conception de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonEXTERIEUR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;EXTERIEUR&#39;);&quot; onmouseout=&quot;outButton(&#39;EXTERIEUR&#39;);&quot; onclick=&quot;expandMenu(&#39;EXTERIEUR&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les aventures en ext&#233;rieur&lt;/a&gt;
+    &lt;ul ID=&quot;EXTERIEUR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Se_perdre_4&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Se perdre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#For&#234;ts_5&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;For&#234;ts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_feux_de_for&#234;t_FP_G_0&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les feux de for&#234;t&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Mar&#233;cages_6&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Mar&#233;cages&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Collines_7&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Collines&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Montagnes_8&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Montagnes&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Avalanches_FP_H_1&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Avalanches&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Voyages_en_montagne_2&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Voyages en montagne&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#D&#233;serts_9&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;D&#233;serts&lt;/a&gt;&lt;/li&gt;
+        &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Les_temp&#234;tes_de_sable_3&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les temp&#234;tes de sable&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Plaines_10&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Plaines&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUAQUATIQUE&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUAQUATIQUE&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html&quot; title=&quot;Le milieu aquatique&quot;&gt;Le milieu aquatique&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUAQUATIQUE&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Combats_sous-marins_0&quot; title=&quot;Le milieu aquatique&quot;&gt;Combats sous-marins&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Inondations_1&quot; title=&quot;Le milieu aquatique&quot;&gt;Inondations&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMILIEUURBAIN&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUURBAIN&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUURBAIN&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUURBAIN&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html&quot; title=&quot;Le milieu urbain&quot;&gt;Le milieu urbain&lt;/a&gt;
+    &lt;ul ID=&quot;MILIEUURBAIN&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Murs_denceinte_et_portes_0&quot; title=&quot;Le milieu urbain&quot;&gt;Murs d&#39;enceinte et portes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Gardes_et_soldats_1&quot; title=&quot;Le milieu urbain&quot;&gt;Gardes et soldats&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Machines_de_guerre_2&quot; title=&quot;Le milieu urbain&quot;&gt;Machines de guerre&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_rues_de_la_ville_3&quot; title=&quot;Le milieu urbain&quot;&gt;Les rues de la ville&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Au-dessus_et_en_dessous_des_rues_4&quot; title=&quot;Le milieu urbain&quot;&gt;Au-dessus et en dessous des rues&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#B&#226;timents_5&quot; title=&quot;Le milieu urbain&quot;&gt;B&#226;timents&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_lumi&#232;res_de_la_ville_6&quot; title=&quot;Le milieu urbain&quot;&gt;Les lumi&#232;res de la ville&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLIMAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLIMAT&#39;);&quot; onmouseout=&quot;outButton(&#39;CLIMAT&#39;);&quot; onclick=&quot;expandMenu(&#39;CLIMAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html&quot; title=&quot;Le climat&quot;&gt;Le climat&lt;/a&gt;
+    &lt;ul ID=&quot;CLIMAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Pluie_neige_neige_fondue_et_gr&#234;le_1&quot; title=&quot;Le climat&quot;&gt;Pluie, neige, neige fondue et gr&#234;le&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Temp&#234;tes_2&quot; title=&quot;Le climat&quot;&gt;Temp&#234;tes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Brouillard_3&quot; title=&quot;Le climat&quot;&gt;Brouillard&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Vents_4&quot; title=&quot;Le climat&quot;&gt;Vents&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPLANS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PLANS&#39;);&quot; onmouseout=&quot;outButton(&#39;PLANS&#39;);&quot; onclick=&quot;expandMenu(&#39;PLANS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;Les plans&lt;/a&gt;
+    &lt;ul ID=&quot;PLANS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#D&#201;FINITIONPLAN&quot; title=&quot;Les plans&quot;&gt;Qu&#39;est-ce qu&#39;un plan ?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#CARACT&#201;RISTIQUESPLANS&quot; title=&quot;Les plans&quot;&gt;Caract&#233;ristiques des plans&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grand-Au-Del&#224;.html&quot; title=&quot;Le grand au-del&#224;&quot;&gt;Les plans du grand au-del&#224;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonDANGNAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DANGNAT&#39;);&quot; onmouseout=&quot;outButton(&#39;DANGNAT&#39;);&quot; onclick=&quot;expandMenu(&#39;DANGNAT&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html&quot; title=&quot;Les dangers naturels&quot;&gt;Les dangers naturels&lt;/a&gt;
+    &lt;ul ID=&quot;DANGNAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ACIDE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;acide&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ASPHYXIE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;asphyxie&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHALEUR&quot; title=&quot;Les dangers naturels&quot;&gt;La chaleur&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTES&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHUTESOBJETS&quot; title=&quot;Les dangers naturels&quot;&gt;Les chutes d&#39;objets&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#EAU&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;eau&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FAIMSOIF&quot; title=&quot;Les dangers naturels&quot;&gt;La faim et la soif&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FUMEE&quot; title=&quot;Les dangers naturels&quot;&gt;La fum&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#FROID&quot; title=&quot;Les dangers naturels&quot;&gt;Le froid&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#GLACE&quot; title=&quot;Les dangers naturels&quot;&gt;La glace&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#LAVE&quot; title=&quot;Les dangers naturels&quot;&gt;La lave&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#NOYADE&quot; title=&quot;Les dangers naturels&quot;&gt;La noyade&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#OBSCURITE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;obscurit&#233;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#PRENDREFEU&quot; title=&quot;Les dangers naturels&quot;&gt;Prendre feu&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-Nautiques.html&quot; title=&quot;Les aventures nautiques&quot;&gt;Les aventures nautiques&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Catastrophes.html&quot; title=&quot;Les catastrophes&quot;&gt;Les catastrophes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Co&#251;t-De-La-Vie.html&quot; title=&quot;Le co&#251;t de la vie&quot;&gt;Le co&#251;t de la vie&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers.html&quot; title=&quot;Les dangers&quot;&gt;Les dangers inhabituels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Primordiale.html&quot; title=&quot;La magie primordiale&quot;&gt;La magie primordiale&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Villes.html&quot; title=&quot;Les villes et communaut&#233;s&quot;&gt;Les villes et communaut&#233;s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br /&gt;Les d&#233;serts naissent sous les climats chauds, temp&#233;r&#233;s et froids, et tous partagent une caract&#233;ristique commune : la pluie y est rare. Les diff&#233;rentes cat&#233;gories de d&#233;sert sont les suivantes : la toundra (d&#233;sert froid), le d&#233;sert rocailleux (g&#233;n&#233;ralement temp&#233;r&#233;) et le d&#233;sert de sable (souvent chaud).&lt;br /&gt;&lt;br /&gt;La toundra se diff&#233;rencie des deux autres cat&#233;gories de d&#233;serts sur deux points. Comme elle poss&#232;de une couche de neige et de glace, on n’a aucun mal &#224; y trouver de l’eau. En outre, &#224; la moiti&#233; de l’&#233;t&#233;, le permafrost d&#233;g&#232;le sur une trentaine de centim&#232;tres, transformant la r&#233;gion concern&#233;e en une vaste &#233;tendue de boue. Dans ce cas, la toundra affecte les d&#233;placements et l’utilisation de comp&#233;tences de la m&#234;me mani&#232;re qu’une tourbi&#232;re peu profonde (&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#MARECAGES&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;voir la section consacr&#233;e aux mar&#233;cages&lt;/a&gt;), m&#234;me si on y trouve de l’eau stagnante.&lt;br /&gt;&lt;br /&gt;La table ci-dessous indique les &#233;l&#233;ments que l’on trouve dans chacune des trois cat&#233;gories. Notez que chaque case ne peut abriter qu’un seul &#233;l&#233;ment. Par exemple, une case de toundra sera occup&#233;e par des broussailles l&#233;g&#232;res ou par une couche de glace, mais ne pourra pas accueillir les deux.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gories de d&#233;sert&lt;/td&gt;&lt;td&gt;Toundra&lt;/td&gt;&lt;td&gt;Rocailleux&lt;/td&gt;&lt;td&gt;Sable&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Broussailles l&#233;g&#232;res&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Couche de glace&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D&#233;combres&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;td&gt;30%&lt;/td&gt;&lt;td&gt;10%&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Dunes de sable&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;30%&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gouffre&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Broussailles l&#233;g&#232;res.&lt;/b&gt; Elles sont constitu&#233;es d’arbustes rabougris et de cactus, mais elles fonctionnent sur le m&#234;me principe que dans les autres milieux naturels.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Couche de glace.&lt;/b&gt; La surface est recouverte d’une couche de glace. Pour p&#233;n&#233;trer sur une telle case, il faut utiliser 2 cases de d&#233;placement. Aussi, le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; augmente de 5 points. Si l’on souhaite &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes#Courir.html&quot; title=&quot;courir&quot;&gt;courir&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Charge.html&quot; title=&quot;charger&quot;&gt;charger&lt;/a&gt;, il faut r&#233;ussir un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 10).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;combres.&lt;/b&gt; La surface est recouverte de cailloux, ce qui rend certaines manœuvres risqu&#233;es. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; s’accroit de 2 points.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nombreux d&#233;combres.&lt;/b&gt; Les pierres sont en m&#234;me temps plus nombreuses et plus grosses. Pour p&#233;n&#233;trer sur une telle case, il faut utiliser 2 cases de d&#233;placement. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; s’accroit de 5 points, et le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; augmente de 2 points.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Dunes de sable.&lt;/b&gt; Fa&#231;onn&#233;es par l’action du vent sur le sable, les dunes fonctionnent de la m&#234;me mani&#232;re que les collines, si ce n’est qu’elles se d&#233;placent. Si le vent souffle fort, une dune de sable peut se d&#233;placer de quelques centaines de m&#232;tres en une semaine. Les dunes de sable peuvent s’&#233;tendre sur des centaines de cases. Elles poss&#232;dent toujours une pente douce qui pointe en direction du vent (et d’une pente raide sous le vent).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Autres &#233;l&#233;ments des d&#233;serts.&lt;/b&gt; De temps en temps, la toundra est bord&#233;e de for&#234;ts. Du reste, certains arbres sont pr&#233;sents dans les &#233;tendues glac&#233;es. Les d&#233;serts de pierre abritent des plateaux entour&#233;s d’&#224;-pic (voir la section consacr&#233;e aux &lt;a class=&quot;pagelink&quot; href=&quot;Montagne.html&quot; title=&quot;La montagne&quot;&gt;montagnes&lt;/a&gt;) et de pentes raides. Les d&#233;serts de sable dissimulent parfois des sables mouvants (voir la section r&#233;serv&#233;e aux &lt;a class=&quot;pagelink&quot; href=&quot;Mar&#233;cages.html&quot; title=&quot;Le mar&#233;cages&quot;&gt;mar&#233;cages&lt;/a&gt;). Cependant, ces derniers se composent d’un m&#233;lange de sable fin et de poussi&#232;re (sans la moindre goutte d’eau). Les d&#233;serts sont parcourus de lits ass&#233;ch&#233;s (consid&#233;rez-les comme des tranch&#233;es d’un m&#232;tre cinquante de large) qui se remplissent d’eau lorsqu’il pleut.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Discr&#233;tion et D&#233;tection dans le d&#233;sert.&lt;/b&gt; En g&#233;n&#233;ral, la distance maximale &#224; laquelle on peut percevoir la pr&#233;sence d’autrui via un test de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; est &#233;gale &#224; 6d6 x 6 m. Au-del&#224;, les changements d’&#233;l&#233;vation (et les distorsions dues &#224; la chaleur dans les d&#233;serts de sable) rendent toute d&#233;tection irr&#233;alisable. Dans les d&#233;serts de sable, la pr&#233;sence des dunes diminue le champ de vision &#224; 6d6 x 3 m. Le manque d’&#233;l&#233;ments pouvant servir de camouflage explique qu’il est plus difficile de s’y cacher.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TEMPETESSABLE&quot; href=&quot;#TEMPETESSABLE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Les temp&#234;tes de sable &lt;a class=&quot;headeranchor&quot; id=&quot;Les_temp&#234;tes_de_sable_0&quot; href=&quot;#Les_temp&#234;tes_de_sable_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+Un pareil ph&#233;nom&#232;ne r&#233;duit la visibilit&#233; &#224; 1d10 x 1,50 m et inflige un malus de -4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;. Une temp&#234;te de sable inflige 1d3 points de d&#233;g&#226;ts non-l&#233;taux par heure d’exposition, et laisse derri&#232;re elle une fine pellicule de sable. Le sable s’introduit partout (&#224; l’exception des meilleurs sceaux et coutures). Il irrite la peau et peut endommager l’&#233;quipement.
+]]></body>
+  <raw><![CDATA[{s:MenuEnvironnement}
+
+Les déserts naissent sous les climats chauds, tempérés et froids, et tous partagent une caractéristique commune : la pluie y est rare. Les différentes catégories de désert sont les suivantes : la toundra (désert froid), le désert rocailleux (généralement tempéré) et le désert de sable (souvent chaud).
+
+La toundra se différencie des deux autres catégories de déserts sur deux points. Comme elle possède une couche de neige et de glace, on n’a aucun mal à y trouver de l’eau. En outre, à la moitié de l’été, le permafrost dégèle sur une trentaine de centimètres, transformant la région concernée en une vaste étendue de boue. Dans ce cas, la toundra affecte les déplacements et l’utilisation de compétences de la même manière qu’une tourbière peu profonde ([[Aventures en extérieur#MARECAGES|voir la section consacrée aux marécages]]), même si on y trouve de l’eau stagnante.
+
+La table ci-dessous indique les éléments que l’on trouve dans chacune des trois catégories. Notez que chaque case ne peut abriter qu’un seul élément. Par exemple, une case de toundra sera occupée par des broussailles légères ou par une couche de glace, mais ne pourra pas accueillir les deux.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Catégories de désert || Toundra || Rocailleux || Sable
+|- CLASS="premier"
+| Broussailles légères || 15% || 5% || 5%
+|- CLASS="alt"
+| Couche de glace || 25% || — || —
+|-
+| Décombres || 5% || 30% || 10%
+|- CLASS="alt"
+| Dunes de sable || — || 30% || 5%
+|-
+| Gouffre || — || — || 50%
+|}
+</center></div></div>
+'''Broussailles légères.''' Elles sont constituées d’arbustes rabougris et de cactus, mais elles fonctionnent sur le même principe que dans les autres milieux naturels.
+
+'''Couche de glace.''' La surface est recouverte d’une couche de glace. Pour pénétrer sur une telle case, il faut utiliser 2 cases de déplacement. Aussi, le [[DD]] des tests d’[[Acrobaties]] augmente de 5 points. Si l’on souhaite [[courir]] ou [[charger]], il faut réussir un test d’[[Acrobaties]] ([[DD]] 10).
+
+'''Décombres.''' La surface est recouverte de cailloux, ce qui rend certaines manœuvres risquées. Le [[DD]] des tests d’[[Acrobaties]] s’accroit de 2 points.
+
+'''Nombreux décombres.''' Les pierres sont en même temps plus nombreuses et plus grosses. Pour pénétrer sur une telle case, il faut utiliser 2 cases de déplacement. Le [[DD]] des tests d’[[Acrobaties]] s’accroit de 5 points, et le [[DD]] des tests de [[Discrétion]] augmente de 2 points.
+
+'''Dunes de sable.''' Façonnées par l’action du vent sur le sable, les dunes fonctionnent de la même manière que les collines, si ce n’est qu’elles se déplacent. Si le vent souffle fort, une dune de sable peut se déplacer de quelques centaines de mètres en une semaine. Les dunes de sable peuvent s’étendre sur des centaines de cases. Elles possèdent toujours une pente douce qui pointe en direction du vent (et d’une pente raide sous le vent).
+
+'''Autres éléments des déserts.''' De temps en temps, la toundra est bordée de forêts. Du reste, certains arbres sont présents dans les étendues glacées. Les déserts de pierre abritent des plateaux entourés d’à-pic (voir la section consacrée aux [[montagne|montagnes]]) et de pentes raides. Les déserts de sable dissimulent parfois des sables mouvants (voir la section réservée aux [[marécages]]). Cependant, ces derniers se composent d’un mélange de sable fin et de poussière (sans la moindre goutte d’eau). Les déserts sont parcourus de lits asséchés (considérez-les comme des tranchées d’un mètre cinquante de large) qui se remplissent d’eau lorsqu’il pleut.
+
+'''Discrétion et Détection dans le désert.''' En général, la distance maximale à laquelle on peut percevoir la présence d’autrui via un test de [[Perception]] est égale à 6d6 x 6 m. Au-delà, les changements d’élévation (et les distorsions dues à la chaleur dans les déserts de sable) rendent toute détection irréalisable. Dans les déserts de sable, la présence des dunes diminue le champ de vision à 6d6 x 3 m. Le manque d’éléments pouvant servir de camouflage explique qu’il est plus difficile de s’y cacher.
+
+{s:Reference|TEMPETESSABLE}
+=== Les tempêtes de sable ===
+
+Un pareil phénomène réduit la visibilité à 1d10 x 1,50 m et inflige un malus de -4 aux tests de [[Perception]]. Une tempête de sable inflige 1d3 points de dégâts non-létaux par heure d’exposition, et laisse derrière elle une fine pellicule de sable. Le sable s’introduit partout (à l’exception des meilleurs sceaux et coutures). Il irrite la peau et peut endommager l’équipement.]]></raw>
+  <fullName>Pathfinder-RPG.Déserts</fullName>
+</wikiPage>

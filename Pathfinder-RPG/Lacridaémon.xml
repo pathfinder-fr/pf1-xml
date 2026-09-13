@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Daémon, Lacridaémon</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Livre des damnés</category></categories>
+  <lastModified>2023-03-21 15:00:53Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Daémon</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Lacridaémon</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Livre des damnés 1 (Contenu)</link><link>Pathfinder-RPG.Suspiridaémon</link><link>Pathfinder-RPG.Temp-Bestiaire du Livre des damnés</link><link>Pathfinder-RPG.Zyphus (technique)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type daémon</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Détection du Bien</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.passage sans trace</link><link>Pathfinder-RPG.Chagrin écrasant</link><link>Pathfinder-RPG.téléportation</link><link>Pathfinder-RPG.Immobilisation de personne</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Collet</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Lacridaémon</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Daémon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Lacrida&#233;mon&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Livre des damn&#233;s p.180&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+XP 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Da&#233;mon.html&quot; title=&quot;Da&#233;mon (sous-type)&quot;&gt;da&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init &lt;/b&gt;+7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18m, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Bien.html&quot; title=&quot;D&#233;tection du Bien&quot;&gt;d&#233;tection du Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura &lt;/b&gt; aura &#233;plor&#233;e (30 m)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 12 (+3 Dex, +2 naturel)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PV&lt;/b&gt; 30 (4d10+8) 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f &lt;/b&gt;+4, &lt;b&gt;Vig &lt;/b&gt;+6, &lt;b&gt;Vol &lt;/b&gt;+5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/Bien et argent ; &lt;b&gt;Immunit&#233;&lt;/b&gt; acide, effets de mort, maladie, poison ; &lt;b&gt;R&#233;sistance&lt;/b&gt; froid 10,  &#233;lectricit&#233; 10, feu 10  ; &lt;b&gt;RM&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +6 (1d4+2 plus 1d4 acide et poison); 2 griffes, +7 (1d4+2 plus 1d4 acide) 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1,5 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,5 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; larmes empoisonn&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 4 ; concentration +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Permanent - &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Bien.html&quot; title=&quot;D&#233;tection du Bien&quot;&gt;d&#233;tection du Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; – &lt;a class=&quot;pagelink&quot; href=&quot;Passage-Sans-Traces.html&quot; title=&quot;passage sans trace&quot;&gt;passage sans trace&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Chagrin-&#201;crasant.html&quot; title=&quot;Chagrin &#233;crasant&quot;&gt;chagrin &#233;crasant&lt;/a&gt; (Voir L’Art de la magie) (DD14), &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation.html&quot; title=&quot;T&#233;l&#233;portation&quot;&gt;t&#233;l&#233;portation&lt;/a&gt; (personnel plus 25 kg d’&#233;quipement maximum)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Personne.html&quot; title=&quot;Immobilisation de personne&quot;&gt;immobilisation de personne&lt;/a&gt; (DD14), &lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Collet.html&quot; title=&quot;Collet&quot;&gt;collet&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Convocation.html&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt; (niveau 4 : 1 &lt;a class=&quot;pagelink&quot; href=&quot;Lacrida&#233;mon.html&quot; title=&quot;Da&#233;mon, Lacrida&#233;mon&quot;&gt;lacrida&#233;mon&lt;/a&gt;, 50%)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA &lt;/b&gt;+4 ; &lt;b&gt;BMO &lt;/b&gt;+6; &lt;b&gt;DMD&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (griffes)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +10 (+14 saut), &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +10,  &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, draconique, infernal; t&#233;l&#233;pathie 30m
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abaddon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou aff&#251;t (3–6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Larmes empoisonn&#233;es (Sur)&lt;/b&gt; Les larmes d’un lacrida&#233;mon sont
+toxiques pour les autres cr&#233;atures. Par une action de mouvement
+qui provoque une attaque d’opportunit&#233;, le fi&#233;lon peut enduire
+ses deux griffes de ses larmes et tenter d’empoisonner sa victime
+&#224; sa prochaine attaque. Pour utiliser cette capacit&#233;, il doit
+frapper avec ses armes naturelles durant le m&#234;me round ou au
+round suivant l’application de la substance. Il doit de nouveau
+enduire ses griffes une fois son attaque effectu&#233;e. On consid&#232;re
+toujours que la morsure d’un lacrida&#233;mon est empoisonn&#233;e de
+cette fa&#231;on.\
+&lt;i&gt;Poison du lacrida&#233;mon : blessure ; JS Vigueur DD 14 ; fr&#233;quence 1/
+round pendant 6 rounds ; effet 1 Sag plus chancelant pendant
+1 round ; gu&#233;rison 2 JS cons&#233;cutifs.&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura &#233;plor&#233;e (Sur)&lt;/b&gt; Il &#233;mane d’un lacrida&#233;mon une aura invisible qui
+fait penser aux pleurs d’un enfant. Les sanglots ont presque l’air
+de venir de partout &#224; la fois, &#224; moins qu’ils ne soient le fruit de
+l’imagination, d&#233;sorientant ceux qui se trouvent dans l’aire d’effet
+de l’aura. Toute cr&#233;ature entrant dans cette zone subit une p&#233;nalit&#233;
+de -5 aux tests de Survie effectu&#233;s pour &#233;viter d’&#234;tre perdue.
+Elle n’a pas besoin d’entendre les pleurs pour &#234;tre affect&#233;e par
+cette capacit&#233; (et ceux tentant d’en identifier l’origine afin de s’en
+approcher subissent &#233;galement une p&#233;nalit&#233; de -5 sur leur test
+de Perception). Un lacrida&#233;mon peut suspendre ou r&#233;activer son
+aura par une action libre et les effets des auras de plusieurs de
+ces fi&#233;lons se cumulent (jusqu’&#224; un maximum de -20). C’est un
+effet mental et sonore.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Da&#233;mon.html&quot; title=&quot;Les da&#233;mons&quot;&gt;da&#233;mons&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Sanglotant sans pouvoir se contr&#244;ler, cette cr&#233;ature &#224; la peau grise
+a des jambes minces termin&#233;es par des sabots noirs fourchus et un
+sourire f&#233;roce et d&#233;ment. Sa peau est d&#233;chir&#233;e et griff&#233;e jusqu’au bout
+de sa queue difforme, et une couche de glace sale en plaques recouvre
+son corps. Ses larmes gr&#233;sillent violemment en touchant le sol.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les lacrida&#233;mons figurent parmi les fi&#233;lons les moins puissants
+d’Abaddon mais ils sont toujours excessivement dangereux.
+Ils personnifient la mort par n&#233;gligence ou par exposition
+aux &#233;l&#233;ments, comme lorsqu’on se perd dans la nature
+et que l’on meurt loin de toute assistance, ou que l’on est
+pi&#233;g&#233; ou emprisonn&#233; dans un endroit clos (comme une mine
+effondr&#233;e) et que l’on meurt lentement. Malheureusement,
+on compte plus d’enfants dans les rangs des lacrida&#233;mons
+que parmi toutes les autres esp&#232;ces de da&#233;mons, et m&#234;me
+s’il est rare que des enfants soient v&#233;ritablement mauvais, les
+infortun&#233;s qui meurent de n&#233;gligence et d’abus ou qui sont
+abandonn&#233;s par leurs parents risquent d’&#234;tre corrompus et
+rendus sauvages de par leur exp&#233;rience. La souffrance des lacrida&#233;mons
+est un contraste saisissant avec leur nature sauvage
+et s’ils en ont l’occasion, ils frapperont vicieusement, attaquant
+avec brutalit&#233; leurs victimes mortelles. Leurs larmes
+d’acide br&#251;lantes et les horribles pouvoirs utilis&#233;s pour capturer
+les mortels en danger font des lacrida&#233;mons des combattants
+efficaces face &#224; des adversaires sans m&#233;fiance, et il
+leur est possible de combiner leurs pouvoirs lorsqu’ils forment
+un groupe pleurant et g&#233;missant.
+&lt;/div&gt;&lt;br /&gt;&lt;div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_0&quot; href=&quot;#&#201;cologie_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les lacrida&#233;mons sont de pitoyables cr&#233;atures, qui souffrent
+pour la plupart autant qu’au cours de leur vie, consum&#233;s
+par des sentiments d’abandon et d’auto-apitoiement et rong&#233;s
+par la solitude. Ils naissent souvent des &#226;mes des mortels
+mauvais, morts seuls et abandonn&#233;s - exil&#233;s, criminels,
+nobles reclus et corrompus ou morts suite &#224; une exposition
+prolong&#233;e aux &#233;l&#233;ments naturels, comme le froid ou la soif.
+Ils servent donc souvent le Cavalier de la Famine, qui utilise
+leurs talents pour attirer les mortels tr&#232;s loin de toute civilisation,
+o&#249; ils meurent finalement de faim.
+D&#233;truits par une solitude &#233;ternelle et incurable m&#234;me dans
+la mort, ces fi&#233;lons d&#233;sirent cette compagnie qu&#39;ils n&#39;ont pas
+eue au moment de leur mort, mais seulement s&#39;ils peuvent
+attaquer et chasser les &#226;mes de ceux qui ont refus&#233; de les aider
+au cours de leur vie. Ils peuvent toujours appeler au secours,
+par le biais d&#39;une t&#233;l&#233;pathie subtile ou d&#39;une voix faible et
+plaintive suppliant qu&#39;on les aide et qu&#39;on les r&#233;conforte. En
+Abaddon, leurs cris attirent majoritairement les traqu&#233;s - &#224;
+savoir ces &#226;mes mauvaises du plan qui cherchent &#224; tirer parti
+d’un innocent isol&#233; - tandis que sur le Plan mat&#233;riel, ils engendrent
+toutes sortes d’altruistes maudits. Ils s’int&#233;ressent
+&#224; ceux qui arrivent, attaquant quiconque leur montrera la
+bienveillance qu’ils n’ont pu obtenir de leur vivant. Bien s&#251;r,
+l’id&#233;e m&#234;me que leur nature da&#233;moniaque pourrait &#234;tre influenc&#233;es
+par les vagues souvenirs d’une &#226;me mortelle les
+d&#233;go&#251;te. C’est pour la plupart un blasph&#232;me qu’ils rejettent.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Habitat &amp; Soci&#233;t&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Habitat__Soci&#233;t&#233;_1&quot; href=&quot;#Habitat__Soci&#233;t&#233;_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Ob&#233;issant &#224; leur nature, la plupart des lacrida&#233;mons r&#244;dent
+aux limites de la soci&#233;t&#233; da&#233;moniaque. Ils abhorrent les cit&#233;s
+et les citadelles qui peuplent les royaumes plus importants
+des Quatre et de leurs seigneurs vassaux. Cet exil autoinflig&#233;
+a plusieurs cons&#233;quences. Tout d’abord, il assure que
+leur caste ne re&#231;oive que des bribes d’&#226;mes mortelles et un
+lacrida&#233;mon parvient rarement &#224; une position de pouvoir
+dans Abaddon. Leurs errances aboutissent &#224; des conflits
+consid&#233;rables avec les natifs non da&#233;moniaques du plan, y
+compris les destriers noirs et les guenaudes noires - mais en
+g&#233;n&#233;ral, lorsqu’ils sont confront&#233;s &#224; de puissants adversaires
+ou sont en sous-nombre, les lacrida&#233;mons fuient tout
+simplement. Ces fi&#233;lons prennent grand plaisir &#224; pourchasser
+les traqu&#233;s &#224; travers les &#233;tendues d&#233;sertiques d’Abaddon et
+&#224; pervertir encore plus les &#226;mes prisonni&#232;res du plan. Ces
+derni&#232;res ne meurent jamais de faim ou de malnutrition
+mais survivent dans un &#233;tat d’agonie permanente, et les
+lacrida&#233;mons prennent plaisir &#224; infliger une telle souffrance.
+Solitaires et x&#233;nophobes, ils &#233;vitent la compagnie des autres
+cr&#233;atures &#224; l’exception de leurs cong&#233;n&#232;res et m&#234;me alors,
+ils restent rarement ensemble et n’interagissent qu’un
+minimum entre eux. Ces petites bandes de lacrida&#233;mons
+sont particuli&#232;rement dangereuses lorsqu’on les croise en
+ext&#233;rieur ; leurs exasp&#233;rants appels de d&#233;tresse d&#233;sorientent
+des groupes entiers de voyageurs et les &#233;garent dans des
+r&#233;gions hostiles.
+Lorsqu’ils sont sur le Plan mat&#233;riel, les lacrida&#233;mons gravitent
+autour d’environnements hostiles, comme de grandes
+&#233;tendues de toundra, des d&#233;serts affreusement chauds et
+des mar&#233;cages inhospitaliers. De temps en temps, un de ces
+fi&#233;lons appara&#238;t &#224; la lisi&#232;re d’un oasis habit&#233; ou d’un avantposte
+isol&#233;, patientant jusqu’&#224; ce que les voyageurs entreprennent
+la prochaine &#233;tape de leur p&#233;riple. Il suivra alors
+&#224; bonne distance ces gens sans m&#233;fiance et attendra qu’ils
+soient loin de toute civilisation avant de s’approcher suffisamment
+et de faire entendre ses sanglots et leurs effets
+mentaux. Les lacrida&#233;mons utilisent leurs pleurs pitoyables
+pour se jouer de leurs infortun&#233;es victimes pendant des
+jours, jusqu’&#224; ce qu’elles soient &#224; court d’eau et de vivres
+et aux portes de la mort. &#192; ce moment-l&#224;, ces rus&#233;es cr&#233;atures
+font face &#224; leurs proies, r&#233;v&#233;lant la v&#233;ritable source
+des pleurs. S’il a besoin d’attaquer, un lacrida&#233;mon le fait
+rapidement, savoure le corps de sa victime et se r&#233;jouit de la
+mort d’une autre &#226;me abandonn&#233;e, r&#233;pandant tout au long
+de son festin ses larmes perp&#233;tuelles.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Lacridaémon|FP 3}
+{s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
+{s:BDTexte|''Source : Livre des damnés p.180''}
+{s:BDTexte|XP 800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille M, NM}
+{s:BDTexte|'''Init '''+7 ; '''Sens''' [[vision dans le noir]] à 18m, [[détection du Bien]], [[détection de la magie]] ; [[Perception]] +8}
+{s:BDTexte|'''Aura ''' aura éplorée (30 m)}
+(((Défense)))
+{s:BDTexte|'''CA''' 15, contact 13, pris au dépourvu 12 (+3 Dex, +2 naturel)}
+{s:BDTexte|'''PV''' 30 (4d10+8) }
+{s:BDTexte|'''Réf '''+4, '''Vig '''+6, '''Vol '''+5}
+{s:BDTexte|'''RD''' 5/Bien et argent ; '''Immunité''' acide, effets de mort, maladie, poison ; '''Résistance''' froid 10,  électricité 10, feu 10  ; '''RM''' 14}
+(((Attaque)))
+{s:BDTexte|'''VD''' 12m}
+{s:BDTexte|'''Corps à corps''' morsure, +6 (1d4+2 plus 1d4 acide et poison); 2 griffes, +7 (1d4+2 plus 1d4 acide) }
+{s:BDTexte|'''Espace''' 1,5 m ; '''Allonge''' 1,5 m}
+{s:BDTexte|'''Attaques spéciales''' larmes empoisonnées}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 4 ; concentration +5)}
+{s:BDSorts|Permanent - [[détection du Bien]], [[détection de la magie]]}
+{s:BDSorts|À volonté – [[passage sans trace]]}
+{s:BDSorts|3/jour - [[chagrin écrasant]] (Voir L’Art de la magie) (DD14), [[téléportation]] (personnel plus 25 kg d’équipement maximum)}
+{s:BDSorts|1/jour - [[immobilisation de personne]] (DD14), [[invisibilité]], [[collet]], [[convocation]] (niveau 4 : 1 [[lacridaémon]], 50%)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 14, '''Dex''' 17, '''Con''' 14, '''Int''' 11, '''Sag''' 13, '''Cha''' 12}
+{s:BDTexte|'''BBA '''+4 ; '''BMO '''+6; '''DMD''' 19}
+{s:BDTexte|'''Dons''' [[Science de linitiative|Science de l’initiative]], [[Arme de prédilection]] (griffes)}
+{s:BDTexte|'''Compétences''' [[Acrobaties ]] +10 (+14 saut), [[Bluff]] +8, [[Escalade ]] +9, [[Discrétion]] +10,  [[Perception]] +8, [[Psychologie]] +8}
+{s:BDTexte|'''Langues''' abyssal, draconique, infernal; télépathie 30m}
+(((Écologie)))
+{s:BDTexte|'''Environnement''' quelconque (Abaddon)}
+{s:BDTexte|'''Organisation''' solitaire, couple ou affût (3–6)}
+{s:BDTexte|'''Trésor''' standard}
+(((Pouvoirs spéciaux)))
+{s:BDTexte|'''Larmes empoisonnées (Sur)''' Les larmes d’un lacridaémon sont
+toxiques pour les autres créatures. Par une action de mouvement
+qui provoque une attaque d’opportunité, le fiélon peut enduire
+ses deux griffes de ses larmes et tenter d’empoisonner sa victime
+à sa prochaine attaque. Pour utiliser cette capacité, il doit
+frapper avec ses armes naturelles durant le même round ou au
+round suivant l’application de la substance. Il doit de nouveau
+enduire ses griffes une fois son attaque effectuée. On considère
+toujours que la morsure d’un lacridaémon est empoisonnée de
+cette façon.\
+''Poison du lacridaémon : blessure ; JS Vigueur DD 14 ; fréquence 1/
+round pendant 6 rounds ; effet 1 Sag plus chancelant pendant
+1 round ; guérison 2 JS consécutifs.''}
+{s:BDTexte|'''Aura éplorée (Sur)''' Il émane d’un lacridaémon une aura invisible qui
+fait penser aux pleurs d’un enfant. Les sanglots ont presque l’air
+de venir de partout à la fois, à moins qu’ils ne soient le fruit de
+l’imagination, désorientant ceux qui se trouvent dans l’aire d’effet
+de l’aura. Toute créature entrant dans cette zone subit une pénalité
+de -5 aux tests de Survie effectués pour éviter d’être perdue.
+Elle n’a pas besoin d’entendre les pleurs pour être affectée par
+cette capacité (et ceux tentant d’en identifier l’origine afin de s’en
+approcher subissent également une pénalité de -5 sur leur test
+de Perception). Un lacridaémon peut suspendre ou réactiver son
+aura par une action libre et les effets des auras de plusieurs de
+ces fiélons se cumulent (jusqu’à un maximum de -20). C’est un
+effet mental et sonore.}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[daémon|daémons]].'''''</li></ul>
+''Sanglotant sans pouvoir se contrôler, cette créature à la peau grise
+a des jambes minces terminées par des sabots noirs fourchus et un
+sourire féroce et dément. Sa peau est déchirée et griffée jusqu’au bout
+de sa queue difforme, et une couche de glace sale en plaques recouvre
+son corps. Ses larmes grésillent violemment en touchant le sol.''
+
+Les lacridaémons figurent parmi les fiélons les moins puissants
+d’Abaddon mais ils sont toujours excessivement dangereux.
+Ils personnifient la mort par négligence ou par exposition
+aux éléments, comme lorsqu’on se perd dans la nature
+et que l’on meurt loin de toute assistance, ou que l’on est
+piégé ou emprisonné dans un endroit clos (comme une mine
+effondrée) et que l’on meurt lentement. Malheureusement,
+on compte plus d’enfants dans les rangs des lacridaémons
+que parmi toutes les autres espèces de daémons, et même
+s’il est rare que des enfants soient véritablement mauvais, les
+infortunés qui meurent de négligence et d’abus ou qui sont
+abandonnés par leurs parents risquent d’être corrompus et
+rendus sauvages de par leur expérience. La souffrance des lacridaémons
+est un contraste saisissant avec leur nature sauvage
+et s’ils en ont l’occasion, ils frapperont vicieusement, attaquant
+avec brutalité leurs victimes mortelles. Leurs larmes
+d’acide brûlantes et les horribles pouvoirs utilisés pour capturer
+les mortels en danger font des lacridaémons des combattants
+efficaces face à des adversaires sans méfiance, et il
+leur est possible de combiner leurs pouvoirs lorsqu’ils forment
+un groupe pleurant et gémissant.
+</div>
+
+<div>
+====Écologie====
+
+Les lacridaémons sont de pitoyables créatures, qui souffrent
+pour la plupart autant qu’au cours de leur vie, consumés
+par des sentiments d’abandon et d’auto-apitoiement et rongés
+par la solitude. Ils naissent souvent des âmes des mortels
+mauvais, morts seuls et abandonnés - exilés, criminels,
+nobles reclus et corrompus ou morts suite à une exposition
+prolongée aux éléments naturels, comme le froid ou la soif.
+Ils servent donc souvent le Cavalier de la Famine, qui utilise
+leurs talents pour attirer les mortels très loin de toute civilisation,
+où ils meurent finalement de faim.
+Détruits par une solitude éternelle et incurable même dans
+la mort, ces fiélons désirent cette compagnie qu'ils n'ont pas
+eue au moment de leur mort, mais seulement s'ils peuvent
+attaquer et chasser les âmes de ceux qui ont refusé de les aider
+au cours de leur vie. Ils peuvent toujours appeler au secours,
+par le biais d'une télépathie subtile ou d'une voix faible et
+plaintive suppliant qu'on les aide et qu'on les réconforte. En
+Abaddon, leurs cris attirent majoritairement les traqués - à
+savoir ces âmes mauvaises du plan qui cherchent à tirer parti
+d’un innocent isolé - tandis que sur le Plan matériel, ils engendrent
+toutes sortes d’altruistes maudits. Ils s’intéressent
+à ceux qui arrivent, attaquant quiconque leur montrera la
+bienveillance qu’ils n’ont pu obtenir de leur vivant. Bien sûr,
+l’idée même que leur nature daémoniaque pourrait être influencées
+par les vagues souvenirs d’une âme mortelle les
+dégoûte. C’est pour la plupart un blasphème qu’ils rejettent.
+
+====Habitat & Société====
+
+Obéissant à leur nature, la plupart des lacridaémons rôdent
+aux limites de la société daémoniaque. Ils abhorrent les cités
+et les citadelles qui peuplent les royaumes plus importants
+des Quatre et de leurs seigneurs vassaux. Cet exil autoinfligé
+a plusieurs conséquences. Tout d’abord, il assure que
+leur caste ne reçoive que des bribes d’âmes mortelles et un
+lacridaémon parvient rarement à une position de pouvoir
+dans Abaddon. Leurs errances aboutissent à des conflits
+considérables avec les natifs non daémoniaques du plan, y
+compris les destriers noirs et les guenaudes noires - mais en
+général, lorsqu’ils sont confrontés à de puissants adversaires
+ou sont en sous-nombre, les lacridaémons fuient tout
+simplement. Ces fiélons prennent grand plaisir à pourchasser
+les traqués à travers les étendues désertiques d’Abaddon et
+à pervertir encore plus les âmes prisonnières du plan. Ces
+dernières ne meurent jamais de faim ou de malnutrition
+mais survivent dans un état d’agonie permanente, et les
+lacridaémons prennent plaisir à infliger une telle souffrance.
+Solitaires et xénophobes, ils évitent la compagnie des autres
+créatures à l’exception de leurs congénères et même alors,
+ils restent rarement ensemble et n’interagissent qu’un
+minimum entre eux. Ces petites bandes de lacridaémons
+sont particulièrement dangereuses lorsqu’on les croise en
+extérieur ; leurs exaspérants appels de détresse désorientent
+des groupes entiers de voyageurs et les égarent dans des
+régions hostiles.
+Lorsqu’ils sont sur le Plan matériel, les lacridaémons gravitent
+autour d’environnements hostiles, comme de grandes
+étendues de toundra, des déserts affreusement chauds et
+des marécages inhospitaliers. De temps en temps, un de ces
+fiélons apparaît à la lisière d’un oasis habité ou d’un avantposte
+isolé, patientant jusqu’à ce que les voyageurs entreprennent
+la prochaine étape de leur périple. Il suivra alors
+à bonne distance ces gens sans méfiance et attendra qu’ils
+soient loin de toute civilisation avant de s’approcher suffisamment
+et de faire entendre ses sanglots et leurs effets
+mentaux. Les lacridaémons utilisent leurs pleurs pitoyables
+pour se jouer de leurs infortunées victimes pendant des
+jours, jusqu’à ce qu’elles soient à court d’eau et de vivres
+et aux portes de la mort. À ce moment-là, ces rusées créatures
+font face à leurs proies, révélant la véritable source
+des pleurs. S’il a besoin d’attaquer, un lacridaémon le fait
+rapidement, savoure le corps de sa victime et se réjouit de la
+mort d’une autre âme abandonnée, répandant tout au long
+de son festin ses larmes perpétuelles.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Lacridaémon</fullName>
+</wikiPage>

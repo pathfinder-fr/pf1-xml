@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Anneau de contorsions sereines</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag anneau</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-25 16:50:26Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Anneaux magiques</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Anneaux magiques</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.Création danneaux magiques</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Irori (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fIrori.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Irori (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fIrori.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Irori-(Technique).html&quot; title=&quot;Irori&quot;&gt;Irori&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Anneau de contorsions sereines&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Anneaux-Magiques.html&quot; title=&quot;Les anneaux magiques&quot;&gt;anneau&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 1 200 po ; &lt;b&gt;Poids&lt;/b&gt; —
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ce simple anneau de cuivre porte l&#39;image d&#39;une main en &#233;mail bleu. Il conf&#232;re &#224; son porteur un bonus de +2 aux tests d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt;. &#192; volont&#233;, le porteur peut cr&#233;er le son d&#39;un carillon paisible, d&#39;un petit gong ou d&#39;une cloche de temple. Une fois par jour, le porteur peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Danneaux-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;anneaux magiques&quot;&gt;Cr&#233;ation d&#39;anneaux magiques&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt;, le cr&#233;ateur doit avoir 5 rangs en &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 600 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Irori|%2fPCUP%2fReligion-PNG%2fIrori.png}<div class="BD">
+{s:BDTitre|Anneau de contorsions sereines|{s:ISG}}
+'''Aura''' [[Abjuration]] faible ; '''NLS''' 5 ; '''Emplacement''' [[Anneaux magiques|anneau]] ; '''Prix''' 1 200 po ; '''Poids''' —
+(((Description)))
+{s:cs}Ce simple anneau de cuivre porte l'image d'une main en émail bleu. Il confère à son porteur un bonus de +2 aux tests d'[[Évasion]]. À volonté, le porteur peut créer le son d'un carillon paisible, d'un petit gong ou d'une cloche de temple. Une fois par jour, le porteur peut utiliser ''[[coup au but]]''.
+(((Création)))
+'''Conditions''' [[Création danneaux magiques|Création d'anneaux magiques]], ''[[coup au but]]'', ''[[son imaginaire]]'', le créateur doit avoir 5 rangs en [[Évasion]] ; '''Coût''' 600 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Anneau de contorsions sereines</fullName>
+</wikiPage>

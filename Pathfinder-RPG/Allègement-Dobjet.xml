@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Allègement d'objet</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 1</category><category>Pathfinder-RPG.Sort conjurateur 1</category><category>Pathfinder-RPG.Sort magicien 1</category><category>Pathfinder-RPG.Sort magus 1</category><category>Pathfinder-RPG.Sort prêtre 1</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2025-06-19 17:00:23Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Allègement dobjet</link><link>Pathfinder-RPG.Allègement dobjet de groupe</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts dassassin des mantes rouges</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.liste des sorts de conjurateurs</link><link>Pathfinder-RPG.Liste des sorts de magus</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts du conjurateur unchained</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.malus darmure</link><link>Pathfinder-RPG.Allègement dobjet de groupe</link><link>Pathfinder-RPG.Allègement dobjet</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Gorum (technique)</link><link>Pathfinder-RPG.Gorum (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fGorum.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gorum (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fGorum.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Gorum-(Technique).html&quot; title=&quot;Gorum&quot;&gt;Gorum&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;Con&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;ConU&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le magus&quot;&gt;Magus&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 1  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, M&lt;/a&gt; (duvet d’oie)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)  
+&lt;b&gt;Cible&lt;/b&gt; un objet mesurant 30 dm&#179;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;objet&lt;/a&gt;) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (objet)
+&lt;hr&gt;
+Ce sort diminue le poids de la cible de moiti&#233;. S’il est lanc&#233; sur une armure, il diminue de 1 le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures#Malusarmure.html&quot; title=&quot;malus d&amp;#39;armure&quot;&gt;malus d’armure&lt;/a&gt; mais ne change pas sa cat&#233;gorie (l&#233;g&#232;re, interm&#233;diaire ou lourde).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&lt;style&gt;.box { width: 844px; } #PageContentDiv .voiraussi h4 { line-height: 16px; }&lt;/style&gt;&lt;div class=&quot;voiraussi&quot; style=&quot;width:100%&quot;&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Sorts qui &#171; fonctionnent comme &#187; &lt;i&gt;all&#232;gement d&#39;objet&lt;/i&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_qui_&#171;_fonctionnent_comme_&#187;_all&#232;gement_dobjet__0&quot; href=&quot;#Sorts_qui_&#171;_fonctionnent_comme_&#187;_all&#232;gement_dobjet__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;&lt;/div&gt;
+&lt;h1 class=&quot;separator&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;All&#232;gement-Dobjet-De-Groupe.html&quot; title=&quot;All&#232;gement d&amp;#39;objet de groupe&quot;&gt;All&#232;gement d&#39;objet de groupe&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_All&#232;gement_dobjet_de_groupe__0&quot; href=&quot;#_All&#232;gement_dobjet_de_groupe__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fGorum.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gorum (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fGorum.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Gorum-(Technique).html&quot; title=&quot;Gorum&quot;&gt;Gorum&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;Con&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;ConU&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le magus&quot;&gt;Magus&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 5  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, M&lt;/a&gt; (duvet d’oie)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)  
+&lt;b&gt;Cible&lt;/b&gt; plusieurs objets de 28 litres/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;, qui ne doivent pas &#234;tre &#233;loign&#233;s de plus de 9 m&#232;tres les uns des autres  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 10 minutes/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;objet&lt;/a&gt;) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (objet)
+&lt;hr&gt;
+Ce sort fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;All&#232;gement-Dobjet.html&quot; title=&quot;All&#232;gement d&amp;#39;objet&quot;&gt;all&#232;gement d’objet&lt;/a&gt;&lt;/i&gt;, except&#233; qu’il affecte un nombre d’objets &#233;gal &#224; la moiti&#233; du &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; du personnage.
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Gorum|%2fPCUP%2fReligion-PNG%2fGorum.png}{s:ISG}{s:GeM}'''École''' [[Transmutation]] ; '''Niveau''' [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Prêtre|Prê]] 1  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, M]] (duvet d’oie)  
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+'''Cible''' un objet mesurant 30 dm³/[[niveau]]  
+'''Durée''' 1 minute/[[niveau]]  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; '''Résistance à la magie''' oui (objet)
+<hr>
+Ce sort diminue le poids de la cible de moitié. S’il est lancé sur une armure, il diminue de 1 le [[malus darmure|malus d’armure]] mais ne change pas sa catégorie (légère, intermédiaire ou lourde).
+
+
+
+((({s:sortssimilaires|allègement d'objet}
+==[[Allègement dobjet de groupe|Allègement d'objet de groupe]]==
+{s:divin|Gorum|%2fPCUP%2fReligion-PNG%2fGorum.png}{s:ISG}{s:GeM}'''École''' [[Transmutation]] ; '''Niveau''' [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Prêtre|Prê]] 5  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, M]] (duvet d’oie)  
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+'''Cible''' plusieurs objets de 28 litres/[[niveau]], qui ne doivent pas être éloignés de plus de 9 mètres les uns des autres  
+'''Durée''' 10 minutes/[[niveau]]  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; '''Résistance à la magie''' oui (objet)
+<hr>
+Ce sort fonctionne comme ''[[allègement dobjet|allègement d’objet]]'', excepté qu’il affecte un nombre d’objets égal à la moitié du [[NLS|niveau de lanceur de sorts]] du personnage.
+)))]]></raw>
+  <fullName>Pathfinder-RPG.Allègement dobjet</fullName>
+</wikiPage>

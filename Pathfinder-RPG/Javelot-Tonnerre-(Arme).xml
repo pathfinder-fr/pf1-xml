@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Javelot-tonnerre</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-01 18:37:43Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.arme à distance</link><link>Pathfinder-RPG.Pierre tonnerre (objet)</link><link>Pathfinder-RPG.arme à aspersion</link><link>Pathfinder-RPG.Gnome</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gnome.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gnome.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gnome.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;gnomes&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 35 po ; &lt;b&gt;Poids&lt;/b&gt; 1,5 kg ; &lt;b&gt;Groupes&lt;/b&gt; —  
+&lt;b&gt;D&#233;g&#226;ts&lt;/b&gt; 1d4 (P), 1d6 (M) ; &lt;b&gt;Critique&lt;/b&gt; &#215;2 ; &lt;b&gt;Port&#233;e&lt;/b&gt; 9 m (6 c) ; &lt;b&gt;Type&lt;/b&gt; P ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; voir texte  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABEXOTIQUES&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Armes exotiques&lt;/a&gt; ; &lt;b&gt;Maniement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armeadistance.html&quot; title=&quot;arme &#224; distance&quot;&gt;arme &#224; distance&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Une &lt;a class=&quot;pagelink&quot; href=&quot;Pierre-Tonnerre-(Objet).html&quot; title=&quot;Pierre tonnerre&quot;&gt;pierre tonnerre&lt;/a&gt; peut &#234;tre ins&#233;r&#233;e dans le manche, juste derri&#232;re la pointe de ce javelot &#224; usage unique. Si le personnage touche sa cible, celle-ci subit les d&#233;g&#226;ts du javelot et constitue le centre du point d’impact de la pierre tonnerre. Si le personnage rate son attaque, il doit d&#233;terminer o&#249; atterrit le javelot (de la m&#234;me fa&#231;on qu’une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Armeaspersion.html&quot; title=&quot;arme &#224; aspersion&quot;&gt;arme &#224; aspersion&lt;/a&gt;) ; la case ainsi d&#233;termin&#233;e devient le centre du point d’impact de la pierre tonnerre.
+]]></body>
+  <raw><![CDATA[{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}'''Prix''' 35 po ; '''Poids''' 1,5 kg ; '''Groupes''' —  
+'''Dégâts''' 1d4 (P), 1d6 (M) ; '''Critique''' ×2 ; '''Portée''' 9 m (6 c) ; '''Type''' P ; '''Spécial''' voir texte  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; '''Maniement''' [[arme à distance|arme à distance]]</span>
+<hr>
+Une [[Pierre tonnerre (objet)|pierre tonnerre]] peut être insérée dans le manche, juste derrière la pointe de ce javelot à usage unique. Si le personnage touche sa cible, celle-ci subit les dégâts du javelot et constitue le centre du point d’impact de la pierre tonnerre. Si le personnage rate son attaque, il doit déterminer où atterrit le javelot (de la même façon qu’une [[arme à aspersion]]) ; la case ainsi déterminée devient le centre du point d’impact de la pierre tonnerre.]]></raw>
+  <fullName>Pathfinder-RPG.javelot-tonnerre (arme)</fullName>
+</wikiPage>

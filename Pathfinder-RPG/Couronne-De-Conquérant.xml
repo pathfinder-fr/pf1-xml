@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Couronne de conquérant</title>
+  <categories></categories>
+  <lastModified>2024-05-29 19:53:57Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Armes et équipement (Contenu)</link><link>Pathfinder-RPG.Détermination aléatoire des objets merveilleux</link><link>Pathfinder-RPG.Heaume du général doré</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Objets merveilleux portés sur la tête</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.Objets merveilleux portés sur la tête</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Prière</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Prestige</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Bénédiction</link><link>Pathfinder-RPG.Splendeur de laigle</link><link>Pathfinder-RPG.Humain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Humain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Humain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Humain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Cet objet est apparu dans le &lt;a class=&quot;pagelink&quot; href=&quot;Manuel-Des-Races-(Contenu).html&quot; title=&quot;Manuel des races (Contenu)&quot;&gt;Manuel des races&lt;/a&gt; sous le nom &quot;Couronne du conqu&#233;rant&quot;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Couronne de conqu&#233;rant&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; mod&#233;r&#233;e  ; &lt;b&gt;NLS&lt;/b&gt; 7 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Sur-La-T&#234;te.html&quot; title=&quot;Objets merveilleux port&#233;s sur la t&#234;te&quot;&gt;t&#234;te&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 24 600 po ; &lt;b&gt;Poids&lt;/b&gt; 1.5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette couronne en or et acier projette une aura de puissance intimidante. Son porteur gagne un bonus de comp&#233;tence de +4 aux tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;. Lorsqu’il confirme un coup critique, la couronne cr&#233;e un effet de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pri&#232;re.html&quot; title=&quot;Pri&#232;re&quot;&gt;pri&#232;re&lt;/a&gt;&lt;/i&gt; centr&#233; sur le porteur de la couronne (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; de 5). S’il poss&#232;de le don &lt;a class=&quot;pagelink&quot; href=&quot;Prestige.html&quot; title=&quot;Prestige&quot;&gt;Prestige&lt;/a&gt;, le porteur de la couronne gagne un bonus de +1 &#224; la valeur de ce don et tous les suivants et ses compagnons d’armes gagnent un bonus de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt; et de sauvegarde contre la terreur s’ils ont le porteur en ligne de mire. 
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d’objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction.html&quot; title=&quot;B&#233;n&#233;diction&quot;&gt;b&#233;n&#233;diction&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Splendeur-De-Laigle.html&quot; title=&quot;Splendeur de l&amp;#39;aigle&quot;&gt;splendeur de l’aigle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pri&#232;re.html&quot; title=&quot;Pri&#232;re&quot;&gt;pri&#232;re&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 12 300 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}{s:Desambi|Cet objet est apparu dans le [[Manuel des races (Contenu)|Manuel des races]] sous le nom "Couronne du conquérant".}<div class="BD">
+{s:BDTitre|Couronne de conquérant|{s:AE}}
+'''Aura''' [[Enchantement]] modérée  ; '''NLS''' 7 ; '''Emplacement''' [[Objets merveilleux portés sur la tête|tête]] ; '''Prix''' 24 600 po ; '''Poids''' 1.5 kg
+(((Description)))
+Cette couronne en or et acier projette une aura de puissance intimidante. Son porteur gagne un bonus de compétence de +4 aux tests d’[[Intimidation]]. Lorsqu’il confirme un coup critique, la couronne crée un effet de ''[[prière]]'' centré sur le porteur de la couronne ([[NLS|niveau de lanceur de sorts]] de 5). S’il possède le don [[Prestige]], le porteur de la couronne gagne un bonus de +1 à la valeur de ce don et tous les suivants et ses compagnons d’armes gagnent un bonus de +1 aux [[jet dattaque|jets d’attaque]] et de sauvegarde contre la terreur s’ils ont le porteur en ligne de mire. 
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d’objets merveilleux]], ''[[bénédiction]]'', ''[[Splendeur de laigle|splendeur de l’aigle]]'', ''[[prière]]'' ; '''Coût''' 12 300 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Couronne de Conquérant</fullName>
+</wikiPage>

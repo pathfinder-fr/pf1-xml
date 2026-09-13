@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sceptre de puissance nain</title>
+  <categories></categories>
+  <lastModified>2024-05-28 19:34:55Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Armes et équipement (Contenu)</link><link>Pathfinder-RPG.Détermination aléatoire des sceptres magiques</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Sceptres magiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Sceptres magiques</link><link>Pathfinder-RPG.marteau léger (arme)</link><link>Pathfinder-RPG.boomerang (propriété)</link><link>Pathfinder-RPG.marteau nain à long manche (arme)</link><link>Pathfinder-RPG.Hache darmes naine (arme)</link><link>Pathfinder-RPG.Arbalète légère (arme)</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Création de sceptres magiques</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Cet objet est apparu dans le &lt;a class=&quot;pagelink&quot; href=&quot;Manuel-Des-Races-(Contenu).html&quot; title=&quot;Manuel des races (Contenu)&quot;&gt;Manuel des races&lt;/a&gt; sous le nom &quot;Sceptre de puissance naine&quot;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sceptre de puissance nain&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; puissante ; &lt;b&gt;NLS&lt;/b&gt; 16 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun (&lt;a class=&quot;pagelink&quot; href=&quot;Sceptres-Magiques.html&quot; title=&quot;Les sceptres magiques&quot;&gt;sceptre&lt;/a&gt;) ; &lt;b&gt;Prix&lt;/b&gt; 80 000 po ; &lt;b&gt;Poids&lt;/b&gt; 5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette version naine du c&#233;l&#232;bre &lt;i&gt;sceptre des seigneurs de guerre&lt;/i&gt; n’a aucun pouvoir magique, n&#233;anmoins, lorsqu’il est mani&#233; par un nain, il augmente la CA, les jets d’attaque, le DMD, le BMO et les bonus de sauvegarde accord&#233;s par les traits raciaux nains de +1. Le sceptre partage les m&#234;mes pouvoirs ordinaires que le &lt;i&gt;sceptre des seigneurs de guerre&lt;/i&gt; mais ses formes d’armes magiques sont adapt&#233;es aux pr&#233;f&#233;rences naines.  
+• Sous sa forme normale, le sceptre peut &#234;tre utilis&#233; comme un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marteau-L&#233;ger-(Arme).html&quot; title=&quot;Marteau l&#233;ger&quot;&gt;marteau l&#233;ger&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Boomerang.html&quot; title=&quot;boomerang (propri&#233;t&#233;)&quot;&gt;boomerang&lt;/a&gt; +1&lt;/i&gt;.  
+• Lorsqu’on presse le bouton 1, le sceptre se transforme en &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marteau-Nain-&#192;-Long-Manche-(Arme).html&quot; title=&quot;Marteau nain &#224; long manche&quot;&gt;marteau nain &#224; long manche&lt;/a&gt; +3&lt;/i&gt;.  
+• Lorsqu’on presse le bouton 2, le sceptre se transforme en &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hache-Darmes-Naine-(Arme).html&quot; title=&quot;Hache d&amp;#39;armes naine&quot;&gt;hache d&#39;armes naine&lt;/a&gt; +4&lt;/i&gt;.  
+• Lorsqu’on presse le bouton 3, le sceptre se transforme en &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arbal&#232;te-L&#233;g&#232;re-(Arme).html&quot; title=&quot;Arbal&#232;te l&#233;g&#232;re&quot;&gt;arbal&#232;te l&#233;g&#232;re&lt;/a&gt; +2&lt;/i&gt; ou en &lt;i&gt;arbal&#232;te lourde +2&lt;/i&gt;.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Force-De-Taureau.html&quot; title=&quot;Force de taureau&quot;&gt;force de taureau&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 40 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:Desambi|Cet objet est apparu dans le [[Manuel des races (Contenu)|Manuel des races]] sous le nom "Sceptre de puissance naine".}<div class="BD">
+{s:BDTitre|Sceptre de puissance nain|{s:AE}}
+'''Aura''' [[Transmutation]] puissante ; '''NLS''' 16 ; '''Emplacement''' aucun ([[Sceptres magiques|sceptre]]) ; '''Prix''' 80 000 po ; '''Poids''' 5 kg
+(((Description)))
+Cette version naine du célèbre ''sceptre des seigneurs de guerre'' n’a aucun pouvoir magique, néanmoins, lorsqu’il est manié par un nain, il augmente la CA, les jets d’attaque, le DMD, le BMO et les bonus de sauvegarde accordés par les traits raciaux nains de +1. Le sceptre partage les mêmes pouvoirs ordinaires que le ''sceptre des seigneurs de guerre'' mais ses formes d’armes magiques sont adaptées aux préférences naines.  
+• Sous sa forme normale, le sceptre peut être utilisé comme un ''[[marteau léger (arme)|marteau léger]] [[boomerang (propriété)|boomerang]] +1''.  
+• Lorsqu’on presse le bouton 1, le sceptre se transforme en ''[[marteau nain à long manche (arme)|marteau nain à long manche]] +3''.  
+• Lorsqu’on presse le bouton 2, le sceptre se transforme en ''[[hache darmes naine (arme)|hache d'armes naine]] +4''.  
+• Lorsqu’on presse le bouton 3, le sceptre se transforme en ''[[arbalète légère (arme)|arbalète légère]] +2'' ou en ''arbalète lourde +2''.
+(((Création)))
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[Création de sceptres magiques]], ''[[force de taureau]]'' ; '''Coût''' 40 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Sceptre de puissance nain</fullName>
+</wikiPage>

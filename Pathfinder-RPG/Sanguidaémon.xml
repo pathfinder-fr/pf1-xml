@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Daémon, Sanguidaémon</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Livre des damnés</category></categories>
+  <lastModified>2024-07-12 18:17:26Z</lastModified>
+  <version>12</version>
+  <inLinks><link>Pathfinder-RPG.Daémon</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Livre des damnés 1 (Contenu)</link><link>Pathfinder-RPG.Sanguidaémon</link><link>Pathfinder-RPG.Temp-Bestiaire du Livre des damnés</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type daémon</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Mise à mort</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Nuée grouillante</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Sanguidaémon</link><link>Pathfinder-RPG.Critique sanglant</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Daémon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sanguida&#233;mon&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Livre des damn&#233;s p.186&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+XP 6 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Da&#233;mon.html&quot; title=&quot;Da&#233;mon (sous-type)&quot;&gt;da&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init &lt;/b&gt;+9 ; &lt;b&gt;Sens&lt;/b&gt; vision dans le noir &#224; 18m ; Perception +18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura &lt;/b&gt; sanglante (9 m)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 16, pris au d&#233;pourvu 17 (Dex +5, naturelle +7, esquive +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PV&lt;/b&gt; 114 (12d10+48) 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f &lt;/b&gt;+13, &lt;b&gt;Vig &lt;/b&gt;+12, &lt;b&gt;Vol &lt;/b&gt;+7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/Bien ou argent ; &lt;b&gt;Immunit&#233;&lt;/b&gt; acide, effets de mort, maladie, poison ; &lt;b&gt;R&#233;sistance&lt;/b&gt; froid 10,  &#233;lectricit&#233; 10, feu 10 ; &lt;b&gt;RM&lt;/b&gt; 20 
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9m ; vol 18m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure +19 (1d8+7/18–20/&#215;3 plus saignement), 2 griffes, +19 (1d6+7 plus &#233;treinte)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; saignement (2d4+1), absorption de sang (1d2 Constitution), absorption de l’&#226;me
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 12 ; concentration +14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; – &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;T&#233;l&#233;portation supr&#234;me&lt;/a&gt; (personnel plus 25 kg d’&#233;quipement maximum)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt; (DD14), &lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-Grouillante.html&quot; title=&quot;Nu&#233;e grouillante&quot;&gt;nu&#233;e grouillante&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Monstre.html&quot; title=&quot;Immobilisation de monstre&quot;&gt;immobilisation de monstre&lt;/a&gt; (DD17), &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Convocation.html&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt; (niveau 6 : 1 &lt;a class=&quot;pagelink&quot; href=&quot;Sanguida&#233;mon.html&quot; title=&quot;Da&#233;mon, Sanguida&#233;mon&quot;&gt;sanguida&#233;mon&lt;/a&gt;, 40%) 
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 24, &lt;b&gt;Dex&lt;/b&gt; 21, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA &lt;/b&gt;+12 ; &lt;b&gt;BMO &lt;/b&gt;+19 (+23 en lutte); &lt;b&gt;DMD&lt;/b&gt; 35  (47 contre les crocs-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Critique-Sanglant.html&quot; title=&quot;Critique sanglant&quot;&gt;Critique sanglant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +17, &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +15,  &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, draconique, infernal; t&#233;l&#233;pathie 30m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s &lt;/b&gt; critique augment&#233;, saignement contagieux
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abaddon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, port&#233;e (2–5) ou meute (6–10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard 
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Critique augment&#233; (Ext)&lt;/b&gt; La zone de critique de la morsure d’un
+sanguida&#233;mon se situe sur un 18–20 et inflige le triple de d&#233;g&#226;ts
+sur un coup critique confirm&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura sanglante (Sur)&lt;/b&gt; &#192; l’int&#233;rieur de l’aura du da&#233;mon, le sang
+s’&#233;coule plus vite des blessures. Tous les effets de saignement
+infligent 2 points de d&#233;g&#226;ts suppl&#233;mentaires (compris dans les
+d&#233;g&#226;ts de saignement du da&#233;mon). Les tests de Premiers secours
+effectu&#233;s pour stopper l’h&#233;morragie ou stabiliser une cr&#233;ature
+mourante, les tests de Constitution pour se stabiliser et les
+jets de sauvegarde contre les effets infligeant des d&#233;g&#226;ts de saignement
+subissent une p&#233;nalit&#233; de -4.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Saignement contagieux (Sur)&lt;/b&gt; Un sanguida&#233;mon alt&#232;re la circulation
+sanguine de sa victime quand il attaque. Une cr&#233;ature qui arr&#234;te
+l’effet de saignement cr&#233;&#233; par le fi&#233;lon doit r&#233;ussir un jet de
+Vigueur DD 20 ou gagner l’effet de saignement qu’elle vient juste d’arr&#234;ter
+(ce pouvoir n’a aucun effet si elle le faisait sur elle-m&#234;me).
+En cas de r&#233;ussite, elle y sera immunis&#233;e pendant 24 heures. Le
+DD du jet de sauvegarde d&#233;pend de la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Absorption de l’&#226;me (Sur)&lt;/b&gt; Par une action complexe, un sanguida&#233;mon
+peut boire l’&#226;me d’une cr&#233;ature morte et se r&#233;g&#233;n&#233;rer.
+Sa cible doit avoir subi des d&#233;g&#226;ts de saignement ou avoir &#233;t&#233;
+affect&#233;e par son pouvoir d’absorption de sang, et elle doit &#234;tre
+morte depuis moins d’une minute. L’&#226;me sera alors condamn&#233;e
+&#224; aller en Abaddon (bien qu’elle puisse &#234;tre rappel&#233;e &#224; la vie normalement).
+Le da&#233;mon b&#233;n&#233;ficie alors de gu&#233;rison acc&#233;l&#233;r&#233;e 2
+pendant un nombre de rounds &#233;gal &#224; ses D&#233;s de Vie.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Da&#233;mon.html&quot; title=&quot;Les da&#233;mons&quot;&gt;da&#233;mons&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt; Cette cr&#233;ature vaguement arachn&#233;enne de la taille d’un humain est
+enti&#232;rement compos&#233;e de globes de sang remplis du liquide visqueux
+gouttant le long de ses pattes gr&#234;les et de sa gueule serpentine. Des
+crocs d’obsidienne irr&#233;guliers jaillissent de sa bouche baveuse et
+d’immenses ailes de libellule rouge sang se d&#233;ploient dans le dos de
+cette chose, produisant un bourdonnement terrifiant.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Atroce croisement entre un moustique, une araign&#233;e et un
+vampire, les sanguida&#233;mons personnifient la mort par exsanguination.
+Ces horreurs d’Abaddon prennent un grand
+plaisir &#224; drainer leurs victimes de leur sang, et consid&#232;rent
+ce fluide comme l’essence de toute mortalit&#233; et le si&#232;ge fondamental
+de l’&#226;me dans un corps mortel. Un sanguida&#233;mon
+baigne dans l’humeur rubis et son corps ressemble &#224; un massacre
+en cours brutal et ensanglant&#233;, le sang recouvrant et
+faisant luire sa carapace solide et chitineuse. Une fois que la
+derni&#232;re goutte de liquide vital a quitt&#233; le corps de sa victime,
+privant l’&#226;me de ses derni&#232;res d&#233;fenses selon la mythologie
+des sanguida&#233;mons, l’horrible insecte vorace commence &#224;
+d&#233;vorer son esprit.
+Un sanguida&#233;mon mesure environ 1,50 m&#232;tres, p&#232;se une
+centaine de kilos et son envergure d&#233;passe 1,80 m&#232;tres.
+&lt;/div&gt;&lt;br /&gt;&lt;div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_0&quot; href=&quot;#&#201;cologie_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Un sanguida&#233;mon nait en g&#233;n&#233;ral de l’&#226;me d’un mortel mauvais
+mort par exsanguination, comme par exemple dans le
+cas d’une attaque de sangsues, de moustiques g&#233;ants ou d’un
+vampire vorace. Quelle qu’en soit la cause, un sanguida&#233;mon
+cherche &#224; infliger ce cruel destin &#224; d’autres, traversant les
+plans en qu&#234;te de victimes mortelles &#224; saigner et &#224; d&#233;vorer.
+O&#249; qu’il aille, le sang suit comme si sa simple pr&#233;sence semblait
+&#233;puiser les fluides corporels et annoncer le chaos du
+carnage impitoyable et indistinct qui en d&#233;coule.
+Plus peut-&#234;tre que n’importe quelle autre caste de da&#233;mon,
+les sanguida&#233;mons &#171; chassent &#187; les &#226;mes dans le sens le
+plus traditionnel du terme. Quand elle se trouve sur le Plan
+mat&#233;riel, cette cr&#233;ature profite le plus souvent du couvert
+de la nuit et r&#244;de dans les coins les plus sombres des zones
+urbaines et des terres peu peupl&#233;es, fondant sur des proies
+peu m&#233;fiantes pour les ramener dans leurs tani&#232;res isol&#233;es,
+des endroits sanglants et obscurs aux parois enti&#232;rement
+recouvertes de sang. Le sanguida&#233;mon accroche au plafond
+les cocons renfermant les corps de leurs innombrables victimes,
+dont certaines sont toujours vaguement conscientes
+dans leurs emballages grotesques faits &#224; partir du sang et des
+humeurs durcis des &#226;mes d&#233;vor&#233;es et r&#233;gurgit&#233;es. Il enferme
+ses victimes dans ces casiers fibreux comme le ferait une
+araign&#233;e g&#233;ante avec ses proies, et en suce lentement le sang
+et l’&#226;me. Les sanguida&#233;mons installent leurs antres sous
+terre ou sur de grandes hauteurs afin de pr&#233;server au mieux
+les corps &#224; l’int&#233;rieur. Mais une fois que les cocons ont &#233;t&#233;
+compl&#232;tement vid&#233;s de leurs fluides, les restes commencent
+&#224; tomber en poussi&#232;re et leurs cendres s&#232;ches et fragiles finissent
+par remplir ces charniers.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Habitat &amp; Soci&#233;t&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Habitat__Soci&#233;t&#233;_1&quot; href=&quot;#Habitat__Soci&#233;t&#233;_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Quand ils chassent dans les d&#233;solations d’Abaddon ou &#224; travers
+d’autres plans, les sanguida&#233;mons le font souvent au
+sein de meutes qui peuvent compter jusqu’&#224; dix individus et
+bien qu’ils chassent en groupe, ils pr&#233;f&#232;rent de loin avoir leur
+propre tani&#232;re et y ramener leurs victimes pour s’en nourrir
+lentement. D’autres da&#233;mons trouvent les puissants pouvoirs
+de ces cr&#233;atures utiles, en particulier sur les champs
+de bataille o&#249; le sang coule &#224; flots. Les piscoda&#233;mons et
+les purroda&#233;mons surtout en font bon usage. Ils versent
+beaucoup de sang au cours de leurs saccages et tirent
+parti du contr&#244;le unique et d&#233;vastateur que les
+sanguida&#233;mons poss&#232;dent sur le sang r&#233;pandu.
+Les sanguida&#233;mons naissent parfois des &#226;mes
+des victimes de vampires ; les da&#233;mons et les
+morts-vivants n’ont aucune affection les uns pour
+les autres et de nombreux sanguida&#233;mons d&#233;testent
+ouvertement les vampires. Certains pensent que leur
+haine vient du fait qu&#39;ils furent eux-m&#234;mes victimes de
+leurs d&#233;pr&#233;dations quand ils &#233;taient mortels,
+et une impression t&#233;nue et am&#232;re persiste
+dans leur m&#233;moire autrement vide. Cette
+haine est si profonde pour certains qu&#39;ils
+recherchent ces morts-vivants dans
+l&#39;espoir de les d&#233;vorer compl&#232;tement et ils
+trouvent le sang corrompu des vampires
+encore meilleur que celui de n&#39;importe
+quelle autre cr&#233;ature. Un sanguida&#233;mon
+&#233;changera parfois beaucoup d’&#226;mes et de
+gemmes spirituelles sur les march&#233;s d’Abbadon
+pour une seule &#226;me de vampire,
+tant est grand le plaisir qu’ils
+prennent dans la destruction et la
+d&#233;voration de cette chose. Chasseurs
+de vampire avou&#233;s, ces
+da&#233;mons s’opposent souvent
+aux objectifs d’Urgathoa, la d&#233;esse de la mort-vivance
+qui r&#233;side en Abaddon. Si la plupart d’entre eux n’esp&#232;re
+m&#234;me pas d&#233;rober l’une des &#226;mes qui lui est destin&#233;e pour
+satisfaire leur faim, la seule existence de ces deux forces
+oppos&#233;es dans les terres ravag&#233;es du plan cr&#233;e une tension
+inconfortable entre les fi&#233;lons et la d&#233;esse. La gloutonnerie
+excessive est le seul point sur lequel ils s’accordent, m&#234;me s’il
+s’agit simplement de nourriture pour les serviteurs d’Urgathoa
+et exclusivement de sang pour les sanguida&#233;mons.
+Cette caste sert de pr&#233;f&#233;rence Apollyon et Szuriel. Les
+serviteurs du Cavalier de la Pestilence vivent dans ses marais
+f&#233;tides et incubent fr&#233;quemment des fi&#232;vres h&#233;morragiques
+et des maladies fluidifiant le sang dans les diff&#233;rentes poches
+de sang mortel qu’ils ont absorb&#233;es. Ils gardent ces maladies
+vivaces et actives jusqu’&#224; ce qu’ils puissent les r&#233;pandre au
+sein de nouvelles populations pour un effet maximal. Szuriel
+r&#233;pand elle la guerre partout o&#249; elle passe ; le bain de sang est
+donc in&#233;luctable et il lui importe peu que ce soit par l&#39;&#233;p&#233;e
+ou la gueule affam&#233;e d&#39;un sanguida&#233;mon. Ces cr&#233;atures
+enthousiastes et avides, pouss&#233;es &#224; des orgies extatiques par
+le carnage des champs de bataille, sont accueillies &#224; bras
+ouverts parmi ses fid&#232;les.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Sanguidaémon|FP 9}
+{s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
+{s:BDTexte|''Source : Livre des damnés p.186''}
+{s:BDTexte|XP 6 400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille M, NM}
+{s:BDTexte|'''Init '''+9 ; '''Sens''' vision dans le noir à 18m ; Perception +18}
+{s:BDTexte|'''Aura ''' sanglante (9 m)}
+(((Défense)))
+{s:BDTexte|'''CA''' 23, contact 16, pris au dépourvu 17 (Dex +5, naturelle +7, esquive +1)}
+{s:BDTexte|'''PV''' 114 (12d10+48) }
+{s:BDTexte|'''Réf '''+13, '''Vig '''+12, '''Vol '''+7}
+{s:BDTexte|'''RD''' 10/Bien ou argent ; '''Immunité''' acide, effets de mort, maladie, poison ; '''Résistance''' froid 10,  électricité 10, feu 10 ; '''RM''' 20 }
+(((Attaque)))
+{s:BDTexte|'''VD''' 9m ; vol 18m (bonne)}
+{s:BDTexte|'''Corps à corps''' morsure +19 (1d8+7/18–20/×3 plus saignement), 2 griffes, +19 (1d6+7 plus étreinte)}
+{s:BDTexte|'''Attaques spéciales''' saignement (2d4+1), absorption de sang (1d2 Constitution), absorption de l’âme}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 12 ; concentration +14)}
+{s:BDSorts|À volonté – [[Téléportation suprême]] (personnel plus 25 kg d’équipement maximum)}
+{s:BDSorts|3/jour - [[mise à mort]] (DD14), [[invisibilité]], [[nuée grouillante]]}
+{s:BDSorts|1/jour - [[immobilisation de monstre]] (DD17), [[convocation]] (niveau 6 : 1 [[sanguidaémon ]], 40%) }
+(((Statistiques)))
+{s:BDTexte|'''For''' 24, '''Dex''' 21, '''Con''' 19, '''Int''' 10, '''Sag''' 16, '''Cha''' 15}
+{s:BDTexte|'''BBA '''+12 ; '''BMO '''+19 (+23 en lutte); '''DMD''' 35  (47 contre les crocs-en-jambe)}
+{s:BDTexte|'''Dons''' [[Critique sanglant]], [[Attaques réflexes]], [[Don pour les critiques]], [[Science de linitiative|Science de l’initiative]], [[Esquive]], [[Attaque en vol]]}
+{s:BDTexte|'''Compétences''' [[Évasion ]] +20, [[Vol]] +24, [[Intimidation]] +17, [[Art de la magie]] +15,  [[Perception]] +18, [[Psychologie]] +18}
+{s:BDTexte|'''Langues''' abyssal, draconique, infernal; télépathie 30m}
+{s:BDTexte|'''Particularités ''' critique augmenté, saignement contagieux}
+(((Écologie)))
+{s:BDTexte|'''Environnement''' quelconque (Abaddon)}
+{s:BDTexte|'''Organisation''' solitaire, portée (2–5) ou meute (6–10)}
+{s:BDTexte|'''Trésor''' standard }
+(((Pouvoirs spéciaux)))
+{s:BDTexte|'''Critique augmenté (Ext)''' La zone de critique de la morsure d’un
+sanguidaémon se situe sur un 18–20 et inflige le triple de dégâts
+sur un coup critique confirmé.}
+{s:BDTexte|'''Aura sanglante (Sur)''' À l’intérieur de l’aura du daémon, le sang
+s’écoule plus vite des blessures. Tous les effets de saignement
+infligent 2 points de dégâts supplémentaires (compris dans les
+dégâts de saignement du daémon). Les tests de Premiers secours
+effectués pour stopper l’hémorragie ou stabiliser une créature
+mourante, les tests de Constitution pour se stabiliser et les
+jets de sauvegarde contre les effets infligeant des dégâts de saignement
+subissent une pénalité de -4.}
+{s:BDTexte|'''Saignement contagieux (Sur)''' Un sanguidaémon altère la circulation
+sanguine de sa victime quand il attaque. Une créature qui arrête
+l’effet de saignement créé par le fiélon doit réussir un jet de
+Vigueur DD 20 ou gagner l’effet de saignement qu’elle vient juste d’arrêter
+(ce pouvoir n’a aucun effet si elle le faisait sur elle-même).
+En cas de réussite, elle y sera immunisée pendant 24 heures. Le
+DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|'''Absorption de l’âme (Sur)''' Par une action complexe, un sanguidaémon
+peut boire l’âme d’une créature morte et se régénérer.
+Sa cible doit avoir subi des dégâts de saignement ou avoir été
+affectée par son pouvoir d’absorption de sang, et elle doit être
+morte depuis moins d’une minute. L’âme sera alors condamnée
+à aller en Abaddon (bien qu’elle puisse être rappelée à la vie normalement).
+Le daémon bénéficie alors de guérison accélérée 2
+pendant un nombre de rounds égal à ses Dés de Vie.}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[daémon|daémons]].'''''</li></ul>
+'' Cette créature vaguement arachnéenne de la taille d’un humain est
+entièrement composée de globes de sang remplis du liquide visqueux
+gouttant le long de ses pattes grêles et de sa gueule serpentine. Des
+crocs d’obsidienne irréguliers jaillissent de sa bouche baveuse et
+d’immenses ailes de libellule rouge sang se déploient dans le dos de
+cette chose, produisant un bourdonnement terrifiant.''
+
+Atroce croisement entre un moustique, une araignée et un
+vampire, les sanguidaémons personnifient la mort par exsanguination.
+Ces horreurs d’Abaddon prennent un grand
+plaisir à drainer leurs victimes de leur sang, et considèrent
+ce fluide comme l’essence de toute mortalité et le siège fondamental
+de l’âme dans un corps mortel. Un sanguidaémon
+baigne dans l’humeur rubis et son corps ressemble à un massacre
+en cours brutal et ensanglanté, le sang recouvrant et
+faisant luire sa carapace solide et chitineuse. Une fois que la
+dernière goutte de liquide vital a quitté le corps de sa victime,
+privant l’âme de ses dernières défenses selon la mythologie
+des sanguidaémons, l’horrible insecte vorace commence à
+dévorer son esprit.
+Un sanguidaémon mesure environ 1,50 mètres, pèse une
+centaine de kilos et son envergure dépasse 1,80 mètres.
+</div>
+
+<div>
+====Écologie====
+Un sanguidaémon nait en général de l’âme d’un mortel mauvais
+mort par exsanguination, comme par exemple dans le
+cas d’une attaque de sangsues, de moustiques géants ou d’un
+vampire vorace. Quelle qu’en soit la cause, un sanguidaémon
+cherche à infliger ce cruel destin à d’autres, traversant les
+plans en quête de victimes mortelles à saigner et à dévorer.
+Où qu’il aille, le sang suit comme si sa simple présence semblait
+épuiser les fluides corporels et annoncer le chaos du
+carnage impitoyable et indistinct qui en découle.
+Plus peut-être que n’importe quelle autre caste de daémon,
+les sanguidaémons « chassent » les âmes dans le sens le
+plus traditionnel du terme. Quand elle se trouve sur le Plan
+matériel, cette créature profite le plus souvent du couvert
+de la nuit et rôde dans les coins les plus sombres des zones
+urbaines et des terres peu peuplées, fondant sur des proies
+peu méfiantes pour les ramener dans leurs tanières isolées,
+des endroits sanglants et obscurs aux parois entièrement
+recouvertes de sang. Le sanguidaémon accroche au plafond
+les cocons renfermant les corps de leurs innombrables victimes,
+dont certaines sont toujours vaguement conscientes
+dans leurs emballages grotesques faits à partir du sang et des
+humeurs durcis des âmes dévorées et régurgitées. Il enferme
+ses victimes dans ces casiers fibreux comme le ferait une
+araignée géante avec ses proies, et en suce lentement le sang
+et l’âme. Les sanguidaémons installent leurs antres sous
+terre ou sur de grandes hauteurs afin de préserver au mieux
+les corps à l’intérieur. Mais une fois que les cocons ont été
+complètement vidés de leurs fluides, les restes commencent
+à tomber en poussière et leurs cendres sèches et fragiles finissent
+par remplir ces charniers.
+
+====Habitat & Société====
+
+Quand ils chassent dans les désolations d’Abaddon ou à travers
+d’autres plans, les sanguidaémons le font souvent au
+sein de meutes qui peuvent compter jusqu’à dix individus et
+bien qu’ils chassent en groupe, ils préfèrent de loin avoir leur
+propre tanière et y ramener leurs victimes pour s’en nourrir
+lentement. D’autres daémons trouvent les puissants pouvoirs
+de ces créatures utiles, en particulier sur les champs
+de bataille où le sang coule à flots. Les piscodaémons et
+les purrodaémons surtout en font bon usage. Ils versent
+beaucoup de sang au cours de leurs saccages et tirent
+parti du contrôle unique et dévastateur que les
+sanguidaémons possèdent sur le sang répandu.
+Les sanguidaémons naissent parfois des âmes
+des victimes de vampires ; les daémons et les
+morts-vivants n’ont aucune affection les uns pour
+les autres et de nombreux sanguidaémons détestent
+ouvertement les vampires. Certains pensent que leur
+haine vient du fait qu'ils furent eux-mêmes victimes de
+leurs déprédations quand ils étaient mortels,
+et une impression ténue et amère persiste
+dans leur mémoire autrement vide. Cette
+haine est si profonde pour certains qu'ils
+recherchent ces morts-vivants dans
+l'espoir de les dévorer complètement et ils
+trouvent le sang corrompu des vampires
+encore meilleur que celui de n'importe
+quelle autre créature. Un sanguidaémon
+échangera parfois beaucoup d’âmes et de
+gemmes spirituelles sur les marchés d’Abbadon
+pour une seule âme de vampire,
+tant est grand le plaisir qu’ils
+prennent dans la destruction et la
+dévoration de cette chose. Chasseurs
+de vampire avoués, ces
+daémons s’opposent souvent
+aux objectifs d’Urgathoa, la déesse de la mort-vivance
+qui réside en Abaddon. Si la plupart d’entre eux n’espère
+même pas dérober l’une des âmes qui lui est destinée pour
+satisfaire leur faim, la seule existence de ces deux forces
+opposées dans les terres ravagées du plan crée une tension
+inconfortable entre les fiélons et la déesse. La gloutonnerie
+excessive est le seul point sur lequel ils s’accordent, même s’il
+s’agit simplement de nourriture pour les serviteurs d’Urgathoa
+et exclusivement de sang pour les sanguidaémons.
+Cette caste sert de préférence Apollyon et Szuriel. Les
+serviteurs du Cavalier de la Pestilence vivent dans ses marais
+fétides et incubent fréquemment des fièvres hémorragiques
+et des maladies fluidifiant le sang dans les différentes poches
+de sang mortel qu’ils ont absorbées. Ils gardent ces maladies
+vivaces et actives jusqu’à ce qu’ils puissent les répandre au
+sein de nouvelles populations pour un effet maximal. Szuriel
+répand elle la guerre partout où elle passe ; le bain de sang est
+donc inéluctable et il lui importe peu que ce soit par l'épée
+ou la gueule affamée d'un sanguidaémon. Ces créatures
+enthousiastes et avides, poussées à des orgies extatiques par
+le carnage des champs de bataille, sont accueillies à bras
+ouverts parmi ses fidèles.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Sanguidaémon</fullName>
+</wikiPage>

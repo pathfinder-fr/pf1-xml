@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Écheneis</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-17 23:41:07Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Fixation (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Lenteur</link><link>Pathfinder-RPG.DMD</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;cheneis&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.109&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 11, pris au d&#233;pourvu 13 (naturelle +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (3d10+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1,50 m, nage 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +5 (1d4+1 plus &lt;a class=&quot;pagelink&quot; href=&quot;Fixation-(Capacit&#233;).html&quot; title=&quot;Fixation (Ext)&quot;&gt;fixation&lt;/a&gt;) et coup de queue, +0 (1d4) ou ventouse, contact +5 (fixation) et coup de queue, +0 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; absorption de vitesse, fixation
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +3 (+11 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; une fois fix&#233;) ; &lt;b&gt;DMD&lt;/b&gt; 13 (17 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; une fois fix&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; eaux temp&#233;r&#233;es ou chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou banc (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Absorption de vitesse (Sur).&lt;/b&gt; Chaque fois qu’un &#233;cheneis termine son tour fix&#233; sur une cr&#233;ature ou un v&#233;hicule, il absorbe une partie de sa vitesse et b&#233;n&#233;ficie des effets des effets de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;&lt;/i&gt; tant qu’il reste fix&#233; et pour une p&#233;riode de temps identique apr&#232;s s’&#234;tre d&#233;tach&#233; (3 heures au maximum). Une cr&#233;ature sur laquelle est fix&#233; un &#233;cheneis subit un malus cumulatif de -1 &#224; sa &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; chaque round (le malus se cumule si plusieurs &#233;cheneis sont fix&#233;s) et doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 12 pour ne pas &#234;tre la cible d’un effet de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lenteur.html&quot; title=&quot;Lenteur&quot;&gt;lenteur&lt;/a&gt;&lt;/i&gt; jusqu’&#224; la fin du prochain tour de l’&#233;cheneis. Le malus &#224; la Dext&#233;rit&#233; dispara&#238;t &#224; la fin du tour de l’&#233;cheneis s’il n’est plus fix&#233; sur la cr&#233;ature. Un v&#233;hicule sur lequel est fix&#233; un &#233;cheneis voit sa vitesse de d&#233;placement r&#233;duite de moiti&#233; jusqu’&#224; la fin du prochain tour de l’&#233;cheneis. Une cr&#233;ature ou un v&#233;hicule ralenti par un deuxi&#232;me &#233;cheneis voit sa vitesse de d&#233;placement r&#233;duite de 75%. Une cr&#233;ature ou un v&#233;hicule ralenti par trois &#233;cheneis ou plus voit sa vitesse de d&#233;placement r&#233;duite &#224; 0. Le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fixation (Ext).&lt;/b&gt; Un &#233;cheneis qui parvient &#224; toucher avec son attaque de morsure ou de ventouse engage automatiquement une &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; contre sa cible. Une fois fix&#233; &#224; une cr&#233;ature ou un v&#233;hicule, l’&#233;cheneis b&#233;n&#233;ficie d’un bonus de +8 aux tests de lutte et d’un bonus de +4 &#224; son &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Dmd.html&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; contre les tentatives de lutte, mais il perd son bonus de Dext&#233;rit&#233; et d’esquive &#224; la classe d’armure. Un &#233;cheneis qui parvient &#224; maintenir sa prise peut effectuer une attaque de coup de queue gratuite contre une cible, &#224; l’exception de celle sur laquelle il est fix&#233;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce poisson fin et color&#233; poss&#232;de une large ventouse segment&#233;e au-dessus de son &#233;troite gueule et des pointes le long de son &#233;pine dorsale.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;L’&#233;cheneis est un poisson magique que les marins de nombreuses r&#233;gions consid&#232;rent comme un nuisible majeur &#224; cause de sa capacit&#233; &#224; absorber la vitesse des navires et des grandes cr&#233;atures aquatiques. Il nage en parcourant de longues distances et ne s’arr&#234;te que quelques heures pour se nourrir et saper la vitesse des grands bateaux, des requins, des baleines et autres h&#244;tes susceptibles d’ignorer sa pr&#233;sence. M&#234;me s’ils se reproduisent dans des &#233;tendues d’eaux chaudes, les &#233;cheneis suivent parfois des navires marchands vers d’autres r&#233;gions. &#201;tant donn&#233; la pr&#233;f&#233;rence des &#233;cheneis pour les hauts-fonds aux eaux troubles, les marins remarquent rarement leur pr&#233;sence avant que ces cr&#233;atures ne ralentissent leurs navires. Les pointes ac&#233;r&#233;es et solides sur le dos des &#233;cheneis &#233;raflent la coque des navires sur lesquels ils se fixent et les marins se plaignent donc souvent du d&#233;sagr&#233;ment &#224; court terme et des d&#233;g&#226;ts &#224; long terme que provoquent ces nuisibles. Les vieux navires dont la coque est couverte d’&#233;raflures passent pour des embarcations maudites et leurs capitaines font face &#224; de s&#233;rieux probl&#232;mes lorsqu’ils tentent de recruter un nouvel &#233;quipage. Il est vrai que les &#233;cheneis sont attir&#233;s par certains navires et moins par d’autres mais, mis &#224; part la taille des embarcations, rien ne permet de savoir quelles autres caract&#233;ristiques attirent ces cr&#233;atures.&lt;br /&gt;&lt;br /&gt;Comme les r&#233;moras auxquels ils ressemblent, les &#233;cheneis sont des charognards. Ils sont n&#233;anmoins agressifs et n’h&#233;sitent pas &#224; riposter lorsqu’on tente de les d&#233;tacher des cr&#233;atures ou des navires sur lesquels ils sont fix&#233;s. En combat, les &#233;cheneis se fixent sur leurs ennemis pour les ralentir tout en frappant de leur queue quiconque tente de les d&#233;tacher. S’ils sont gravement bless&#233;s en &#233;tant fix&#233;s, les &#233;cheneis se d&#233;tachent de leur victime et se servent de la vitesse absorb&#233;e pour fuir au plus vite.&lt;br /&gt;&lt;br /&gt;Un &#233;cheneis fait un peu moins d’un m&#232;tre de long en moyenne, pour un poids de 6 kilos au moins.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Écheneis|FP 1}
+{s:pucem|Créature magique|Aquatique|Tropical}
+{s:BDTexte|''Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.109]]''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille P, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[Vision nocturne (capacité)|vision nocturne]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 11, pris au dépourvu 13 (naturelle +2, taille +1)}
+{s:BDTexte|'''pv''' 19 (3d10+3)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +4, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 1,50 m, nage 6 m}
+{s:BDTexte|'''Corps à corps''' morsure, +5 (1d4+1 plus [[Fixation (capacité)|fixation]]) et coup de queue, +0 (1d4) ou ventouse, contact +5 (fixation) et coup de queue, +0 (1d4)}
+{s:BDTexte|'''Attaques spéciales''' absorption de vitesse, fixation}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 11, '''Con''' 13, '''Int''' 2, '''Sag''' 10, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +3 (+11 en [[lutte]] une fois fixé) ; '''DMD''' 13 (17 en [[lutte]] une fois fixé)}
+{s:BDTexte|'''Dons''' [[Attaques réflexes]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +8, [[Natation]] +9, [[Perception]] +5}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' eaux tempérées ou chaudes}
+{s:BDTexte|'''Organisation''' solitaire, couple ou banc (3-8)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Absorption de vitesse (Sur).''' Chaque fois qu’un écheneis termine son tour fixé sur une créature ou un véhicule, il absorbe une partie de sa vitesse et bénéficie des effets des effets de ''[[rapidité]]'' tant qu’il reste fixé et pour une période de temps identique après s’être détaché (3 heures au maximum). Une créature sur laquelle est fixé un écheneis subit un malus cumulatif de -1 à sa [[Dextérité]] chaque round (le malus se cumule si plusieurs écheneis sont fixés) et doit réussir un jet de [[Volonté]] DD 12 pour ne pas être la cible d’un effet de ''[[lenteur]]'' jusqu’à la fin du prochain tour de l’écheneis. Le malus à la Dextérité disparaît à la fin du tour de l’écheneis s’il n’est plus fixé sur la créature. Un véhicule sur lequel est fixé un écheneis voit sa vitesse de déplacement réduite de moitié jusqu’à la fin du prochain tour de l’écheneis. Une créature ou un véhicule ralenti par un deuxième écheneis voit sa vitesse de déplacement réduite de 75%. Une créature ou un véhicule ralenti par trois écheneis ou plus voit sa vitesse de déplacement réduite à 0. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Fixation (Ext).''' Un écheneis qui parvient à toucher avec son attaque de morsure ou de ventouse engage automatiquement une [[lutte]] contre sa cible. Une fois fixé à une créature ou un véhicule, l’écheneis bénéficie d’un bonus de +8 aux tests de lutte et d’un bonus de +4 à son [[DMD]] contre les tentatives de lutte, mais il perd son bonus de Dextérité et d’esquive à la classe d’armure. Un écheneis qui parvient à maintenir sa prise peut effectuer une attaque de coup de queue gratuite contre une cible, à l’exception de celle sur laquelle il est fixé.}
+
+</div></td>
+<td><div>''Ce poisson fin et coloré possède une large ventouse segmentée au-dessus de son étroite gueule et des pointes le long de son épine dorsale.''
+
+L’écheneis est un poisson magique que les marins de nombreuses régions considèrent comme un nuisible majeur à cause de sa capacité à absorber la vitesse des navires et des grandes créatures aquatiques. Il nage en parcourant de longues distances et ne s’arrête que quelques heures pour se nourrir et saper la vitesse des grands bateaux, des requins, des baleines et autres hôtes susceptibles d’ignorer sa présence. Même s’ils se reproduisent dans des étendues d’eaux chaudes, les écheneis suivent parfois des navires marchands vers d’autres régions. Étant donné la préférence des écheneis pour les hauts-fonds aux eaux troubles, les marins remarquent rarement leur présence avant que ces créatures ne ralentissent leurs navires. Les pointes acérées et solides sur le dos des écheneis éraflent la coque des navires sur lesquels ils se fixent et les marins se plaignent donc souvent du désagrément à court terme et des dégâts à long terme que provoquent ces nuisibles. Les vieux navires dont la coque est couverte d’éraflures passent pour des embarcations maudites et leurs capitaines font face à de sérieux problèmes lorsqu’ils tentent de recruter un nouvel équipage. Il est vrai que les écheneis sont attirés par certains navires et moins par d’autres mais, mis à part la taille des embarcations, rien ne permet de savoir quelles autres caractéristiques attirent ces créatures.
+
+Comme les rémoras auxquels ils ressemblent, les écheneis sont des charognards. Ils sont néanmoins agressifs et n’hésitent pas à riposter lorsqu’on tente de les détacher des créatures ou des navires sur lesquels ils sont fixés. En combat, les écheneis se fixent sur leurs ennemis pour les ralentir tout en frappant de leur queue quiconque tente de les détacher. S’ils sont gravement blessés en étant fixés, les écheneis se détachent de leur victime et se servent de la vitesse absorbée pour fuir au plus vite.
+
+Un écheneis fait un peu moins d’un mètre de long en moyenne, pour un poids de 6 kilos au moins.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Écheneis</fullName>
+</wikiPage>

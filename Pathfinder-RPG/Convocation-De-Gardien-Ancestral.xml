@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Convocation de gardien ancestral</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 3</category><category>Pathfinder-RPG.Sort prêtre 3</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2020-07-28 14:11:56Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Nain</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche convocation</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Arme spirituelle</link><link>Pathfinder-RPG.Convocation de monstres I</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Convocation.html&quot; title=&quot;Convocation&quot;&gt;convocation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 3  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, F/FD&lt;/a&gt; (une effigie en pierre ou en m&#233;tal de l’anc&#234;tre du personnage)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; moyenne (30 m + 3 m/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;) (20 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;)  
+&lt;b&gt;Effet&lt;/b&gt; deux esprits d’anc&#234;tres convoqu&#233;s  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 round/niveau (T)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage peut demander aux esprits de deux anc&#234;tres qu’ils se manifestent dans le monde des mortels pour attaquer ses ennemis. Chaque esprit ressemble &#224; un nain translucide, sage et puissant, dot&#233; d’une arme naine traditionnelle de son choix. Ces esprits se d&#233;placent et attaquent selon les choix du personnage et chacun d&#233;tient les pouvoirs d’une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Spirituelle.html&quot; title=&quot;Arme spirituelle&quot;&gt;arme spirituelle&lt;/a&gt;&lt;/i&gt;, sauf qu’ils peuvent attaquer des cibles diff&#233;rentes et infliger des d&#233;g&#226;ts physiques (de type contondant, perforant ou tranchant, en fonction de l’arme brandie par l’esprit) &#224; la place des d&#233;g&#226;ts de force. Comme toute cr&#233;ature convoqu&#233;e par le biais d’une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-I.html&quot; title=&quot;Convocation de monstres I&quot;&gt;convocation de monstres&lt;/a&gt;&lt;/i&gt;, les anc&#234;tres du personnage ne meurent pas vraiment si leur manifestation est d&#233;truite.
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}'''École''' [[Invocation]] ([[branche convocation|convocation]]) ; '''Niveau''' [[barde|Bard]] 3, [[prêtre|Prê]] 3  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, F/FD]] (une effigie en pierre ou en métal de l’ancêtre du personnage)  
+'''Portée''' moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+'''Effet''' deux esprits d’ancêtres convoqués  
+'''Durée''' 1 round/niveau (T)  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' oui
+
+Le personnage peut demander aux esprits de deux ancêtres qu’ils se manifestent dans le monde des mortels pour attaquer ses ennemis. Chaque esprit ressemble à un nain translucide, sage et puissant, doté d’une arme naine traditionnelle de son choix. Ces esprits se déplacent et attaquent selon les choix du personnage et chacun détient les pouvoirs d’une ''[[arme spirituelle]]'', sauf qu’ils peuvent attaquer des cibles différentes et infliger des dégâts physiques (de type contondant, perforant ou tranchant, en fonction de l’arme brandie par l’esprit) à la place des dégâts de force. Comme toute créature convoquée par le biais d’une ''[[convocation de monstres I|convocation de monstres]]'', les ancêtres du personnage ne meurent pas vraiment si leur manifestation est détruite.]]></raw>
+  <fullName>Pathfinder-RPG.Convocation de gardien ancestral</fullName>
+</wikiPage>

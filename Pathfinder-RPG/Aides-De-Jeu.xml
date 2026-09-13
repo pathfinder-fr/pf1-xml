@@ -1,0 +1,1380 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Aides de jeu pour Pathfinder-RPG</title>
+  <categories><category>Pathfinder-RPG.Non-officiel</category></categories>
+  <lastModified>2024-01-19 18:05:45Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Créer un personnage</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.MainPage2</link><link>Pathfinder-RPG.Publications</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Création Main</link><link>Pathfinder-RPG.Publications</link></outLinks>
+  <body><![CDATA[Les aides de jeu pr&#233;sent&#233;es ici sont regroup&#233;es selon les th&#232;mes abord&#233;s.&lt;br /&gt;&lt;br /&gt;N&#39;h&#233;sitez pas &#224; venir discuter de ces aides de jeu &lt;a class=&quot;externallink&quot; href=&quot;http://www.pathfinder-fr.org/Forum/default.aspx?g=topics&amp;amp;f=11&quot; title=&quot;sur le forum d&#233;di&#233;&quot; target=&quot;_blank&quot;&gt;sur le forum d&#233;di&#233;&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Introduction_&#224;_Pathfinder-RPG_ou_au_jeu_de_r&#244;le_0&quot;&gt;Introduction &#224; Pathfinder-RPG ou au jeu de r&#244;le&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Feuilles_de_personnage_1&quot;&gt;Feuilles de personnage&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#&#201;crans_de_ma&#238;tre_2&quot;&gt;&#201;crans de ma&#238;tre&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Aides_informatis&#233;es_3&quot;&gt;Aides informatis&#233;es&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Compilation_de_r&#232;gles_4&quot;&gt;Compilation de r&#232;gles&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Explication_ou_simplification_de_r&#232;gles_5&quot;&gt;Explication ou simplification de r&#232;gles&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Nouvelles_r&#232;gles_6&quot;&gt;Nouvelles r&#232;gles&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pense-b&#234;tes_et_gadgets_7&quot;&gt;Pense-b&#234;tes et gadgets&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Errata_8&quot;&gt;Errata&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#R&#232;gles_suppl&#233;mentaires_9&quot;&gt;R&#232;gles suppl&#233;mentaires&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Playtests_et_previews_10&quot;&gt;Playtests et previews&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#nouveaux_dons_11&quot;&gt;nouveaux dons&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Introduction &#224; Pathfinder-RPG ou au jeu de r&#244;le&lt;a class=&quot;headeranchor&quot; id=&quot;Introduction_&#224;_Pathfinder-RPG_ou_au_jeu_de_r&#244;le_0&quot; href=&quot;#Introduction_&#224;_Pathfinder-RPG_ou_au_jeu_de_r&#244;le_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;GUIDEEXPLORATEURS&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#GUIDEEXPLORATEURS&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Guide des explorateurs
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fInitiationPF.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fInitiationPFMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une initiation aux jeux de r&#244;le et plus particuli&#232;rement &#224; Pathfinder RPG (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Feuxfollets
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;PRESENTATIONPATHFINDER&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#PRESENTATIONPATHFINDER&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Pr&#233;sentation de Pathfinder
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fPresent.swf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fPresentMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une mini-pr&#233;sentation des diff&#233;rences entre Pathfinder et 3.5, faite avant la parution de Pathfinder-RPG (lecture en ligne) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;CONVERSION&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#CONVERSION&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Conversion 3.5 -&gt; Pathfinder
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fConversionPF.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fConversionPFMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une traduction amateur du guide de conversion publi&#233; par Paizo (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;CUIDECREA&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#CUIDECREA&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Guide de cr&#233;ation de PJ
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un guide de cr&#233;ation de personnages (en chantier, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Main.html&quot; title=&quot;Guide de cr&#233;ation de personnages&quot;&gt;lecture en ligne&lt;/a&gt;) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Feuxfollets
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Feuilles de personnage&lt;a class=&quot;headeranchor&quot; id=&quot;Feuilles_de_personnage_1&quot; href=&quot;#Feuilles_de_personnage_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FDP&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FDP&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Feuille de personnage
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fPFSheet.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fPFSheetMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une feuille de personnage en 4 volets (plus 1 page pour les magiciens et 1 page de sorts) (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FDPFORM&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FDPFORM&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+FdP &#224; remplir
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fFeuille &#224; remplir.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fPFSheetMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+La m&#234;me que la pr&#233;c&#233;dente, mais en version formulaire remplissable dans Acrobat Reader (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;LIVRETFDP&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#LIVRETFDP&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Livret pour la fdp
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fLivret%20PFSheet.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fLivret%20PFSheetMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un livret explicatif pour aider &#224; remplir la feuille de personnage ci-contre (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FDPAUTO&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FDPAUTO&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Fdp automatique
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;http://pagesperso-orange.fr/pathfinder&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fFLadle.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une feuille de personnage automatique qui se remplit presque toute seule (fichier Excel)&lt;br/&gt;&lt;a class=&quot;externallink&quot; href=&quot;http://www.pathfinder-fr.org/forum/default.aspx?g=posts&amp;amp;t=58&quot; title=&quot;En discuter sur le forum&quot; target=&quot;_blank&quot;&gt;En discuter sur le forum&lt;/a&gt; &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Ladlejuste
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FDP4A4&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FDP4A4&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Fdp A4 recto/verso
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fFeuillePRPG4A4.zip&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fFeuillePRPG4A4Mini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une feuille de personnage en deux faces A4 (recto-verso) plus deux faces A4 pour les lanceurs de sorts ainsi que des listes de sorts par classe (fichiers PDF dans une archive ZIP) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par MdAdd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FDPMDADD&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FDPMDADD&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Fdp formulaire
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fFDPmdaddAuto.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fFeuillePRPG4A4Mini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une feuille de personnage sous forme de formulaire &#224; compl&#233;ter avant d&#39;imprimer (fichier PDF) - voir aussi les suppl&#233;ments de sorts ci-dessous ! &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par MdAdd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FDPOO&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FDPOO&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Fdp OpenOffice
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2ffdpOpenOffice.zip&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2ffdpOpenOfficeMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une feuille de personnage semi-automatique sous Open Office (fichier ODS dans une archive ZIP) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Errius
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FDPLIGHT&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FDPLIGHT&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Fdp &quot;light&quot;
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fFdPLight.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fFdPLightMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une feuille de personnage &quot;light&quot; pour les d&#233;butants (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;Suppl&#233;ments &#224; la feuille de personnage pour les sorts (version APG + ADM + UC), par mdadd :
+&lt;ul&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsBardes.pdf&quot; title=&quot;bardes&quot;&gt;bardes&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsDruides.pdf&quot; title=&quot;druides&quot;&gt;druides&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsEnsorceleurs.pdf&quot; title=&quot;ensorceleurs&quot;&gt;ensorceleurs&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsMagiciens.pdf&quot; title=&quot;magiciens&quot;&gt;magiciens&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsPaladins.pdf&quot; title=&quot;paladins&quot;&gt;paladins&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsPretres.pdf&quot; title=&quot;pr&#234;tres&quot;&gt;pr&#234;tres&lt;/a&gt; (MAJ du 6 janvier 2015)&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsR&#244;deurs.pdf&quot; title=&quot;r&#244;deurs&quot;&gt;r&#244;deurs&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Et pour les classes avanc&#233;es (MAJ du 6 janvier 2015) :
+&lt;ul&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsAlchimistes.pdf&quot; title=&quot;alchimistes&quot;&gt;alchimistes&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsAntipaladins.pdf&quot; title=&quot;antipaladins&quot;&gt;antipaladins&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsConjurateurs.pdf&quot; title=&quot;conjurateurs&quot;&gt;conjurateurs&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsInquisiteurs.pdf&quot; title=&quot;inquisiteurs&quot;&gt;inquisiteurs&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsMagus.pdf&quot; title=&quot;magus&quot;&gt;magus&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsOracles.pdf&quot; title=&quot;oracles&quot;&gt;oracles&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Sorts pour &lt;a class=&quot;internallink&quot; href=&quot;/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsSorcieres.pdf&quot; title=&quot;sorci&#232;res&quot;&gt;sorci&#232;res&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;&#201;crans de ma&#238;tre&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;crans_de_ma&#238;tre_2&quot; href=&quot;#&#201;crans_de_ma&#238;tre_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;ECRAN1&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#ECRAN1&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+&#201;cran du ma&#238;tre
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;/ADJ/Pathfinder-RPG/Ecran PF.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload//ADJ/Pathfinder-RPG/Ecran PFmini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un &#233;cran du ma&#238;tre en 4 volets (faces int&#233;rieures seulement) (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Faenil
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Aides informatis&#233;es&lt;a class=&quot;headeranchor&quot; id=&quot;Aides_informatis&#233;es_3&quot; href=&quot;#Aides_informatis&#233;es_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;GESTIOSORTS&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#GESTIOSORTS&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Gestionnaire de sorts
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;../Ressources/Gestionnaire-De-Sorts.html&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fGestionnaireSortsMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un programme de gestion des sorts et des grimoires ; le lien m&#232;ne &#224; une page Wiki s&#233;par&#233;e o&#249; on trouve l&#39;historique du logiciel et des liens de t&#233;l&#233;chargements (page Wiki) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Lasombras
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;ALEAROULETIS&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#ALEAROULETIS&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Alea Rouletis
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;/ADJ/Pathfinder-RPG/AleaRouletis.zip&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload//ADJ/Pathfinder-RPG/logoalea.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+De nombreux g&#233;n&#233;rateurs al&#233;atoires pour objets magiques, rencontres, coups/&#233;checs critiques, ... (fichiers Excel archiv&#233;s en zip) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Pajak
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Compilation de r&#232;gles&lt;a class=&quot;headeranchor&quot; id=&quot;Compilation_de_r&#232;gles_4&quot; href=&quot;#Compilation_de_r&#232;gles_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les aides de jeu suivantes ont &#233;t&#233; compil&#233;es et mises en page par mdadd. Elles regroupent toutes les r&#232;gles relatives &#224; une classe ou &#224; une race donn&#233;e.&lt;br /&gt;&lt;br /&gt;&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDRaces&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDRaces&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Races de base
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fLes Races de Base.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fRaces.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; toutes les races de base (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDRaceAdd&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDRaceAdd&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Races additionnelles
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fRaces additionnelles.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fRaces additionnelles.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives aux races additionelles. (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDBarbare&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDBarbare&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Barbare
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fBarbare.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fBarbare.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Barbare (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDBarde&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDBarde&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Barde
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fBarde.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fBarde.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Barde (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDDruide&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDDruide&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Druide
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fDruide.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fDruide.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Druide (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDEnsorceleur&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDEnsorceleur&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Ensorceleur
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fEnsorceleur.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fEnsorceleur.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe d&#39;Ensorceleur (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDGuerrier&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDGuerrier&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Guerrier
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fGuerrier.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fGuerrier.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Guerrier (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDMagicien&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDMagicien&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Magicien
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fMagicien.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fMagicien.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Magicien (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDMoine&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDMoine&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Moine
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fMoine.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fMoine.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Moine (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDPaladin&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDPaladin&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Paladin
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fPaladin.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fPaladin.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Paladin (y compris Antipaladin) (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDPr&#234;tre&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDPr&#234;tre&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Pr&#234;tre
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fPr%C3%AAtre.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fPr&#234;tre.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Pr&#234;tre (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDR&#244;deur&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDR&#244;deur&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : R&#244;deur
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fR%C3%B4deur.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fR&#244;deur.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de R&#244;deur (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDRoublard&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDRoublard&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe : Roublard
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fRoublard.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fRoublard.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Roublard (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDAlchimiste&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDAlchimiste&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe avanc&#233;e : Alchimiste
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fAlchimiste.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fAlchimiste.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe d&#39;Alchimiste (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDChevalier&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDChevalier&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe avanc&#233;e : Chevalier
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fChevalier.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fChevalier.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Chevalier (y compris Samoura&#239;) (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDConjurateur&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDConjurateur&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe avanc&#233;e : Conjurateur
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fConjurateur.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fConjurateur.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Conjurateur (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDInquisiteur&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDInquisiteur&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe avanc&#233;e : Inquisiteur
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fInquisiteur.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fInquisiteur.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe d&#39;Inquisiteur (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDMagus&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDMagus&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe avanc&#233;e : Magus
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fMagus.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fMagus.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Magus (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDNinja&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDNinja&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe avanc&#233;e : Ninja
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fNinja.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fNinja.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Ninja (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDOracle&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDOracle&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe avanc&#233;e : Oracle
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fOracle.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fOracle.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe d&#39;Oracle (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDPistolier&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDPistolier&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe avanc&#233;e : Pistolier
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fPistolier.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fPistolier.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Pistolier (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDSorci&#232;re&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDSorci&#232;re&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Classe avanc&#233;e : Sorci&#232;re
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fSorci&#232;re.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2fSorci&#232;re.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives &#224; la classe de Sorci&#232;re (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MDADDTraits&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MDADDTraits&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Les traits
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fmdadd%2fTraits.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fmdadd%2ftraits.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation de la majorit&#233; des traits publi&#233;s dans les livres Pathfinder, plus quelques traits faits maison (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par mdadd
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;CombatsMasse&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#CombatsMasse&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Les combats de masse
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;ADJ%2fPathfinder-RPG%2fAide-de-Jeu-Combat-de-Masse.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fminiCombatMasse.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une compilation des r&#232;gles relatives aux combats de masse (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Black et Coki
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Explication ou simplification de r&#232;gles&lt;a class=&quot;headeranchor&quot; id=&quot;Explication_ou_simplification_de_r&#232;gles_5&quot; href=&quot;#Explication_ou_simplification_de_r&#232;gles_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;ARBRESDONS&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#ARBRESDONS&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Arbres de dons
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fArbresDons.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fArbresDonsMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une pr&#233;sentation visuelle des dons Pathfinder-RPG permettant de rep&#233;rer facilement leurs pr&#233;requis et les cha&#238;nes qu&#39;ils forment (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;ARBRESDONSAPG&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#ARBRESDONSAPG&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Arbres de dons avec APG
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fArbresDonsAPG.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fArbresDonsMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une pr&#233;sentation visuelle des dons du Manuel des joueurs et de l&#39;Advanced Player&#39;s Guide permettant de rep&#233;rer facilement leurs pr&#233;requis et les cha&#238;nes qu&#39;ils forment (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;ARBRESDONSUM&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#ARBRESDONSUM&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Arbres de dons avec UM
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fArbresDonsUM.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fArbresDonsMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une pr&#233;sentation visuelle des dons du Manuel des joueurs, de l&#39;Advanced Player&#39;s Guide et d&#39;Ultimate Magic permettant de rep&#233;rer facilement leurs pr&#233;requis et les cha&#238;nes qu&#39;ils forment (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;POINTSVIE&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#POINTSVIE&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Blessures et points de vie
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fpv.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fpvMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un r&#233;sum&#233; des r&#232;gles sur les points de vie, les blessures et les divers &#233;tats d&#233;pendant des points de vie (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FORMESNATURELLES&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FORMESNATURELLES&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Formes naturelles
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fWildshape.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fWildshapeMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un r&#233;sum&#233; des capacit&#233;s de transformation des druides sous forme animale, v&#233;g&#233;tale ou &#233;l&#233;mentaire (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;CPTVOL&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#CPTVOL&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+R&#232;gles de vol (a&#233;rien)
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fVol.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fVolMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un r&#233;sum&#233; des r&#232;gles li&#233;es &#224; la comp&#233;tence de Vol en Pathfinder (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;CREAMONSTRES&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#CREAMONSTRES&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Tout sur les monstres
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fCreaMonstres.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fMiniCreaMonstres.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une pr&#233;sentation compl&#232;te du format des blocs descriptions de monstres en Pathfinder, un guide pour cr&#233;er des monstres pas &#224; pas et un survol des m&#233;thodes permettant de faire &#233;voluer les monstres (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;TOPOCOMBAT&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#TOPOCOMBAT&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Les r&#232;gles de combat
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fTopoCombat.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fTopoCombatMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un topo complet sur toutes les r&#232;gles r&#233;gissant le combat, utile et facile &#224; garder &#224; port&#233;e de main (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par M&#233;riadec
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;MONTURES&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#MONTURES&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Montures
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fMontures.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fMonturesMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un r&#233;sum&#233; des r&#232;gles relatives aux montures et au combat mont&#233; (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;PUISSANIM&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#PUISSANIM&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Puissances animales
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fPuissanim.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fPuissanimMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un r&#233;sum&#233; des modifications d&#233;coulant des divers sorts de transmutation animale comme force du taureau (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Orion et Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;BONUSCUMULS&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#BONUSCUMULS&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Bonus et cumuls
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fBonus et cumuls.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/%2fADJ%2fPathfinder-RPG%2fBonus et cumuls logo.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un m&#233;mo reprenant les diff&#233;rents types de bonus pour &#233;viter de les cumuler en partie. (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Gobelure
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Nouvelles r&#232;gles&lt;a class=&quot;headeranchor&quot; id=&quot;Nouvelles_r&#232;gles_6&quot; href=&quot;#Nouvelles_r&#232;gles_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;ESPACERESTREINT&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#ESPACERESTREINT&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Combattre dans un espace restreint
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fEspaceRestreint.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fEspaceRestreintMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Quelques r&#232;gles de combat dans les espaces restreints, inspir&#233;es par les versions pr&#233;c&#233;dentes de D&amp;D (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par M&#233;riadec
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Pense-b&#234;tes et gadgets&lt;a class=&quot;headeranchor&quot; id=&quot;Pense-b&#234;tes_et_gadgets_7&quot; href=&quot;#Pense-b&#234;tes_et_gadgets_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;CARTESETATS&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#CARTESETATS&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Cartes d&#39;&#233;tats pr&#233;judiciables
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fPathCartes.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fPathCartesMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un jeu de cartes reprenant les informations principales des divers &#233;tats pr&#233;judiciables, pratiques pour se souvenir de qui est affect&#233; par quoi (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;INVOCATIONMONSTRES1&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#INVOCATIONMONSTRES1&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Invocation de monstres I
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fPFsummon1.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fPFsummon1Mini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Des fiches compl&#232;tes d&#233;crivant chacun des monstres qu&#39;il est possible de conjurer &#224; l&#39;aide d&#39;un sort d&#39;Invocation de monstres I (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FICHESMONSTRES&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FICHESMONSTRES&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Fiches pour PNJ/Monstres
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fFichesPNJMonstre.zip&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fFichesPNJMonstreMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Des fiches &#224; compl&#233;ter pour noter les informations principales sur des monstres ou des PNJ, en deux versions : une version pour les cr&#233;atures simples et une version pour les PNJ/monstres plus complexes (fichier DOC dans archive ZIP) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Mickey
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;FICHESINIT&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#FICHESINIT&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Fiches d&#39;initiative
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fFichesInitiative.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fFichesInitiativeMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Cartes d&#39;initiative pour monstres et PJ : &#224; la demande du MJ, les PJ notent leur test d&#39;initiative sur la fiche et la donne au MJ, qui les trie par ordre d&#39;initiative d&#233;croissante ; quand un individu a jou&#233;, sa carte est plac&#233;e sous la pile et le suivant peut jouer (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Tymophil
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;DRUIDE01&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#DRUIDE01&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Sorts de druide
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fListeDruide.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fListeDruide01Mini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Compilation des sorts de niveau 0, 1 et 2 de druide reprenant aussi toutes les caract&#233;ristiques d&#233;tailles des alli&#233;s naturels que le druide peut invoquer (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par MrRick
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;GRIMDRUIDE&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#GRIMDRUIDE&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Grimoire du druide
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fGrimoireDruide.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fGrimoireDruideMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Compilation de tous les sorts de druide (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par SabCyr69
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;CHEATSHEET&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#CHEATSHEET&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Cheat sheet actions et &#233;tats
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;/ADJ/Pathfinder-RPG/Pathfinder_cheat_sheet.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fcheatsheetyop.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Cheat sheet garnie d&#39;ic&#244;nes pour les actions et les &#233;tats (page web) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par YopSolo
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;CARTESSORTSMDW&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#CARTESSORTSMDW&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Cartes de sorts (M&#192;J!)
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;/ADJ/Pathfinder-RPG/CartesSortsMDW.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ/Pathfinder-RPG/CartesSortsMDWMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Cartes de sorts &#224; imprimer ou &#224; utiliser en ligne (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Maxime De Wolf
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Errata&lt;a class=&quot;headeranchor&quot; id=&quot;Errata_8&quot; href=&quot;#Errata_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;ERRATAGMG&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#ERRATAGMG&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Errata du Guide du Ma&#238;tre
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fErrataGMG.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fErrataGMGMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Errata pour la VF du Guide du Ma&#238;tre &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;ERRATAAPG&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#ERRATAAPG&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+Errata du Guide du Joueur&lt;br/&gt;R&#232;gles avanc&#233;es
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fErrataAPG.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fErrataAPGMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Errata pour la VF du Guide du Joueur, R&#232;gles avanc&#233;es &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles suppl&#233;mentaires&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_suppl&#233;mentaires_9&quot; href=&quot;#R&#232;gles_suppl&#233;mentaires_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;ARMURERIE&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#ARMURERIE&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+L&#39;armurerie
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fArmurerie.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fArmurerieMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Un recueil d&#39;armes, d&#39;armures et d&#39;autres objets magiques ou non pour Pathfinder-RPG (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par &lt;a class=&quot;externallink&quot; href=&quot;http://www.necromancers-online.com/&quot; title=&quot;Necromancers of the Northwest&quot; target=&quot;_blank&quot;&gt;Necromancers of the Northwest&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Playtests et previews&lt;a class=&quot;headeranchor&quot; id=&quot;Playtests_et_previews_10&quot; href=&quot;#Playtests_et_previews_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table WIDTH=&quot;100%&quot; STYLE=&quot;border-spacing: 0px; padding: 5px;&quot;&gt;
+&lt;tr&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;td WIDTH=&quot;25%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;PREVIEWAPG&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#PREVIEWAPG&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+(Advanced Player&#39;s Guide)&lt;br/&gt;6 nouvelles classes
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fAPGPlaytest.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fAPGPlaytestMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+&lt;b&gt;(version 4.3)&lt;/b&gt; Une traduction amateur de six nouvelles classes de base (alchimiste, chevalier, conjurateur, inquisiteur, oracle, sorci&#232;re) &#224; para&#238;tre dans l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Publications.html#Suppl&#233;ments_de_r&#232;gles_1&quot; title=&quot;Publications relatives &#224; Pathfinder RPG&quot;&gt;Advanced Player&#39;s Guide&lt;/a&gt;, actuellement en playtest (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn et Rectulo
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;PREVIEWBESTIAIRE&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#PREVIEWBESTIAIRE&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+(Bestiaire)&lt;br/&gt;plus de 30 monstres
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fPreviewBestiaire.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fPreviewBestiaireMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une traduction amateur des extraits du Bestiaire Pathfinder-RPG &#224; para&#238;tre en fran&#231;ais qui sont disponible gratuitement en VO sur le site de Paizo (voir &lt;a class=&quot;pagelink&quot; href=&quot;Publications.html&quot; title=&quot;Publications relatives &#224; Pathfinder RPG&quot;&gt;cette page&lt;/a&gt; pour plus d&#39;informations sur le Bestiaire) (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;PREVIEWUM&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#PREVIEWUM&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+(Ultimate Magic)&lt;br/&gt;Playtest des r&#232;gles
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fUM2Playtest.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fUMPlaytestMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une traduction amateur des r&#232;gles en playtest pour l&#39;Ultimate Magic, comme la nouvelle classe de base de magus et le syst&#232;me de magie par mots de pouvoir (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Dalvyn
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;PREVIEWUC&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#PREVIEWUC&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+(Ultimate Combat)&lt;br/&gt;Playtest des r&#232;gles
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fUCPlaytest.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fUCPlaytestMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+Une traduction amateur des r&#232;gles en playtest pour l&#39;Ultimate Combat : les r&#232;gles pour les armes &#224; feu et les classes/variantes de pistol&#233;ro, de ninja et de samoura&#239;  (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Pathfinder-FR &amp; BBE
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr STYLE=&quot;vertical-align: top;&quot;&gt;
+&lt;td&gt;&lt;div STYLE=&quot;border: 0; padding: 0; margin: 10px; width: 90%; float: none; text-align: center;&quot;&gt;
+&lt;a NAME=&quot;PREVIEWUC2&quot; HREF=&quot;/wiki/Pathfinder-RPG.Aides de jeu.ashx#PREVIEWUC2&quot;&gt;
+&lt;div WIDTH=&quot;100%&quot; STYLE=&quot;background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;&quot;&gt;
+(Ultimate Combat)&lt;br/&gt;Playtest des r&#232;gles 2
+&lt;/div&gt;
+&lt;/a&gt;
+&lt;div STYLE=&quot;border: 1px solid #4b3124; padding: 8px; margin: 5px 0;&quot;&gt;
+&lt;a href=&quot;/wiki/GetFile.aspx?File&amp;#61;%2fADJ%2fPathfinder-RPG%2fUCPlaytest2.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img SRC=&quot;/wiki/public/upload/ADJ%2fPathfinder-RPG%2fUCPlaytestMini.jpg&quot; STYLE=&quot;width:92%&quot;/&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div STYLE=&quot;text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;&quot;&gt;
+La seconde version du playtest de l&#39;Ultimate Combat concernant la classe de pistol&#233;ro et les r&#232;gles des armes &#224; feu (fichier PDF) &lt;br/&gt;
+&lt;div STYLE=&quot;text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;&quot;&gt;
+par Pathfinder-FR &amp; BBE
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;nouveaux dons&lt;a class=&quot;headeranchor&quot; id=&quot;nouveaux_dons_11&quot; href=&quot;#nouveaux_dons_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;]]></body>
+  <raw><![CDATA[Les aides de jeu présentées ici sont regroupées selon les thèmes abordés.
+
+N'hésitez pas à venir discuter de ces aides de jeu [[http://www.pathfinder-fr.org/Forum/default.aspx?g=topics&f=11|sur le forum dédié]].
+
+{TOC}
+
+===Introduction à Pathfinder-RPG ou au jeu de rôle===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|GUIDEEXPLORATEURS|Guide des explorateurs|ADJ%2fPathfinder-RPG%2fInitiationPFMini.jpg|%2fADJ%2fPathfinder-RPG%2fInitiationPF.pdf|Une initiation aux jeux de rôle et plus particulièrement à Pathfinder RPG (fichier PDF)|Feuxfollets|none}</td>
+<td>{s:ADJ|PRESENTATIONPATHFINDER|Présentation de Pathfinder|ADJ%2fPathfinder-RPG%2fPresentMini.jpg|%2fADJ%2fPathfinder-RPG%2fPresent.swf|Une mini-présentation des différences entre Pathfinder et 3.5, faite avant la parution de Pathfinder-RPG (lecture en ligne)|Dalvyn|none}</td>
+<td>{s:ADJ|CONVERSION|Conversion 3.5 -> Pathfinder|ADJ%2fPathfinder-RPG%2fConversionPFMini.jpg|%2fADJ%2fPathfinder-RPG%2fConversionPF.pdf|Une traduction amateur du guide de conversion publié par Paizo (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|CUIDECREA|Guide de création de PJ|||Un guide de création de personnages (en chantier, [[Création Main|lecture en ligne]])|Feuxfollets|none}</td>
+</tr>
+</table>
+
+===Feuilles de personnage===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|FDP|Feuille de personnage|ADJ%2fPathfinder-RPG%2fPFSheetMini.jpg|%2fADJ%2fPathfinder-RPG%2fPFSheet.pdf|Une feuille de personnage en 4 volets (plus 1 page pour les magiciens et 1 page de sorts) (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|FDPFORM|FdP à remplir|ADJ%2fPathfinder-RPG%2fPFSheetMini.jpg|%2fADJ%2fPathfinder-RPG%2fFeuille à remplir.pdf|La même que la précédente, mais en version formulaire remplissable dans Acrobat Reader (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|LIVRETFDP|Livret pour la fdp|ADJ%2fPathfinder-RPG%2fLivret%20PFSheetMini.jpg|%2fADJ%2fPathfinder-RPG%2fLivret%20PFSheet.pdf|Un livret explicatif pour aider à remplir la feuille de personnage ci-contre (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJExt|FDPAUTO|Fdp automatique|ADJ%2fPathfinder-RPG%2fFLadle.jpg|http://pagesperso-orange.fr/pathfinder|Une feuille de personnage automatique qui se remplit presque toute seule (fichier Excel)<br/>[[http://www.pathfinder-fr.org/forum/default.aspx?g=posts&t=58|En discuter sur le forum]]|Ladlejuste|none}</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|FDP4A4|Fdp A4 recto/verso|ADJ%2fPathfinder-RPG%2fFeuillePRPG4A4Mini.jpg|%2fADJ%2fPathfinder-RPG%2fFeuillePRPG4A4.zip|Une feuille de personnage en deux faces A4 (recto-verso) plus deux faces A4 pour les lanceurs de sorts ainsi que des listes de sorts par classe (fichiers PDF dans une archive ZIP)|MdAdd|none}</td>
+<td>{s:ADJ|FDPMDADD|Fdp formulaire|ADJ%2fPathfinder-RPG%2fFeuillePRPG4A4Mini.jpg|%2fADJ%2fPathfinder-RPG%2fFDPmdaddAuto.pdf|Une feuille de personnage sous forme de formulaire à compléter avant d'imprimer (fichier PDF) - voir aussi les suppléments de sorts ci-dessous !|MdAdd|none}</td>
+<td>{s:ADJ|FDPOO|Fdp OpenOffice|ADJ%2fPathfinder-RPG%2ffdpOpenOfficeMini.jpg|ADJ%2fPathfinder-RPG%2ffdpOpenOffice.zip|Une feuille de personnage semi-automatique sous Open Office (fichier ODS dans une archive ZIP)|Errius|none}</td>
+<td>{s:ADJ|FDPLIGHT|Fdp "light"|ADJ%2fPathfinder-RPG%2fFdPLightMini.jpg|ADJ%2fPathfinder-RPG%2fFdPLight.pdf|Une feuille de personnage "light" pour les débutants (fichier PDF)|mdadd|none}</td>
+</tr>
+</table>
+
+Suppléments à la feuille de personnage pour les sorts (version APG + ADM + UC), par mdadd :
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsBardes.pdf|bardes]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsDruides.pdf|druides]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsEnsorceleurs.pdf|ensorceleurs]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsMagiciens.pdf|magiciens]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsPaladins.pdf|paladins]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsPretres.pdf|prêtres]] (MAJ du 6 janvier 2015)
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsRôdeurs.pdf|rôdeurs]]
+
+Et pour les classes avancées (MAJ du 6 janvier 2015) :
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsAlchimistes.pdf|alchimistes]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsAntipaladins.pdf|antipaladins]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsConjurateurs.pdf|conjurateurs]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsInquisiteurs.pdf|inquisiteurs]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsMagus.pdf|magus]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsOracles.pdf|oracles]]
+* Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsSorcieres.pdf|sorcières]]
+
+
+
+
+===Écrans de maître===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|ECRAN1|Écran du maître|/ADJ/Pathfinder-RPG/Ecran PFmini.jpg|/ADJ/Pathfinder-RPG/Ecran PF.pdf|Un écran du maître en 4 volets (faces intérieures seulement) (fichier PDF)|Faenil|none}</td>
+</tr>
+</table>
+
+
+===Aides informatisées===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJEXT|GESTIOSORTS|Gestionnaire de sorts|ADJ%2fPathfinder-RPG%2fGestionnaireSortsMini.jpg|Ressources.Gestionnaire de sorts.ashx|Un programme de gestion des sorts et des grimoires ; le lien mène à une page Wiki séparée où on trouve l'historique du logiciel et des liens de téléchargements (page Wiki)|Lasombras|none}</td>
+<td>{s:ADJ|ALEAROULETIS|Alea Rouletis|/ADJ/Pathfinder-RPG/logoalea.jpg|/ADJ/Pathfinder-RPG/AleaRouletis.zip|De nombreux générateurs aléatoires pour objets magiques, rencontres, coups/échecs critiques, ... (fichiers Excel archivés en zip)|Pajak|none}</td>
+</tr>
+</table>
+
+
+===Compilation de règles===
+Les aides de jeu suivantes ont été compilées et mises en page par mdadd. Elles regroupent toutes les règles relatives à une classe ou à une race donnée.
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|MDADDRaces|Races de base|ADJ%2fPathfinder-RPG%2fmdadd%2fRaces.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fLes Races de Base.pdf|Une compilation des règles relatives à toutes les races de base (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDRaceAdd|Races additionnelles|ADJ%2fPathfinder-RPG%2fRaces additionnelles.jpg|ADJ%2fPathfinder-RPG%2fRaces additionnelles.pdf|Une compilation des règles relatives aux races additionelles. (fichier PDF)|mdadd|none}</td>
+</tr>
+<tr>
+<td>{s:ADJ|MDADDBarbare|Classe : Barbare|ADJ%2fPathfinder-RPG%2fmdadd%2fBarbare.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fBarbare.pdf|Une compilation des règles relatives à la classe de Barbare (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDBarde|Classe : Barde|ADJ%2fPathfinder-RPG%2fmdadd%2fBarde.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fBarde.pdf|Une compilation des règles relatives à la classe de Barde (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDDruide|Classe : Druide|ADJ%2fPathfinder-RPG%2fmdadd%2fDruide.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fDruide.pdf|Une compilation des règles relatives à la classe de Druide (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDEnsorceleur|Classe : Ensorceleur|ADJ%2fPathfinder-RPG%2fmdadd%2fEnsorceleur.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fEnsorceleur.pdf|Une compilation des règles relatives à la classe d'Ensorceleur (fichier PDF)|mdadd|none}</td>
+</tr>
+<tr>
+<td>{s:ADJ|MDADDGuerrier|Classe : Guerrier|ADJ%2fPathfinder-RPG%2fmdadd%2fGuerrier.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fGuerrier.pdf|Une compilation des règles relatives à la classe de Guerrier (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDMagicien|Classe : Magicien|ADJ%2fPathfinder-RPG%2fmdadd%2fMagicien.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fMagicien.pdf|Une compilation des règles relatives à la classe de Magicien (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDMoine|Classe : Moine|ADJ%2fPathfinder-RPG%2fmdadd%2fMoine.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fMoine.pdf|Une compilation des règles relatives à la classe de Moine (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDPaladin|Classe : Paladin|ADJ%2fPathfinder-RPG%2fmdadd%2fPaladin.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fPaladin.pdf|Une compilation des règles relatives à la classe de Paladin (y compris Antipaladin) (fichier PDF)|mdadd|none}</td>
+</tr>
+<tr>
+<td>{s:ADJ|MDADDPrêtre|Classe : Prêtre|ADJ%2fPathfinder-RPG%2fmdadd%2fPrêtre.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fPr%C3%AAtre.pdf|Une compilation des règles relatives à la classe de Prêtre (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDRôdeur|Classe : Rôdeur|ADJ%2fPathfinder-RPG%2fmdadd%2fRôdeur.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fR%C3%B4deur.pdf|Une compilation des règles relatives à la classe de Rôdeur (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDRoublard|Classe : Roublard|ADJ%2fPathfinder-RPG%2fmdadd%2fRoublard.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fRoublard.pdf|Une compilation des règles relatives à la classe de Roublard (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDAlchimiste|Classe avancée : Alchimiste|ADJ%2fPathfinder-RPG%2fmdadd%2fAlchimiste.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fAlchimiste.pdf|Une compilation des règles relatives à la classe d'Alchimiste (fichier PDF)|mdadd|none}</td>
+</tr>
+<tr>
+<td>{s:ADJ|MDADDChevalier|Classe avancée : Chevalier|ADJ%2fPathfinder-RPG%2fmdadd%2fChevalier.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fChevalier.pdf|Une compilation des règles relatives à la classe de Chevalier (y compris Samouraï) (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDConjurateur|Classe avancée : Conjurateur|ADJ%2fPathfinder-RPG%2fmdadd%2fConjurateur.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fConjurateur.pdf|Une compilation des règles relatives à la classe de Conjurateur (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDInquisiteur|Classe avancée : Inquisiteur|ADJ%2fPathfinder-RPG%2fmdadd%2fInquisiteur.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fInquisiteur.pdf|Une compilation des règles relatives à la classe d'Inquisiteur (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDMagus|Classe avancée : Magus|ADJ%2fPathfinder-RPG%2fmdadd%2fMagus.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fMagus.pdf|Une compilation des règles relatives à la classe de Magus (fichier PDF)|mdadd|none}</td>
+</tr>
+<tr>
+<td>{s:ADJ|MDADDNinja|Classe avancée : Ninja|ADJ%2fPathfinder-RPG%2fmdadd%2fNinja.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fNinja.pdf|Une compilation des règles relatives à la classe de Ninja (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDOracle|Classe avancée : Oracle|ADJ%2fPathfinder-RPG%2fmdadd%2fOracle.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fOracle.pdf|Une compilation des règles relatives à la classe d'Oracle (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDPistolier|Classe avancée : Pistolier|ADJ%2fPathfinder-RPG%2fmdadd%2fPistolier.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fPistolier.pdf|Une compilation des règles relatives à la classe de Pistolier (fichier PDF)|mdadd|none}</td>
+<td>{s:ADJ|MDADDSorcière|Classe avancée : Sorcière|ADJ%2fPathfinder-RPG%2fmdadd%2fSorcière.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fSorcière.pdf|Une compilation des règles relatives à la classe de Sorcière (fichier PDF)|mdadd|none}</td>
+</tr>
+<tr>
+<td>{s:ADJ|MDADDTraits|Les traits|ADJ%2fPathfinder-RPG%2fmdadd%2ftraits.jpg|ADJ%2fPathfinder-RPG%2fmdadd%2fTraits.pdf|Une compilation de la majorité des traits publiés dans les livres Pathfinder, plus quelques traits faits maison (fichier PDF)|mdadd|none}</td>
+</tr>
+<td>{s:ADJ|CombatsMasse|Les combats de masse|ADJ%2fPathfinder-RPG%2fminiCombatMasse.jpg|ADJ%2fPathfinder-RPG%2fAide-de-Jeu-Combat-de-Masse.pdf|Une compilation des règles relatives aux combats de masse (fichier PDF)|Black et Coki|none}</td>
+</tr>
+</table>
+
+
+
+
+
+===Explication ou simplification de règles===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|ARBRESDONS|Arbres de dons|ADJ%2fPathfinder-RPG%2fArbresDonsMini.jpg|%2fADJ%2fPathfinder-RPG%2fArbresDons.pdf|Une présentation visuelle des dons Pathfinder-RPG permettant de repérer facilement leurs prérequis et les chaînes qu'ils forment (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|ARBRESDONSAPG|Arbres de dons avec APG|ADJ%2fPathfinder-RPG%2fArbresDonsMini.jpg|%2fADJ%2fPathfinder-RPG%2fArbresDonsAPG.pdf|Une présentation visuelle des dons du Manuel des joueurs et de l'Advanced Player's Guide permettant de repérer facilement leurs prérequis et les chaînes qu'ils forment (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|ARBRESDONSUM|Arbres de dons avec UM|ADJ%2fPathfinder-RPG%2fArbresDonsMini.jpg|%2fADJ%2fPathfinder-RPG%2fArbresDonsUM.pdf|Une présentation visuelle des dons du Manuel des joueurs, de l'Advanced Player's Guide et d'Ultimate Magic permettant de repérer facilement leurs prérequis et les chaînes qu'ils forment (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|POINTSVIE|Blessures et points de vie|ADJ%2fPathfinder-RPG%2fpvMini.jpg|%2fADJ%2fPathfinder-RPG%2fpv.pdf|Un résumé des règles sur les points de vie, les blessures et les divers états dépendant des points de vie (fichier PDF)|Dalvyn|none}</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|FORMESNATURELLES|Formes naturelles|ADJ%2fPathfinder-RPG%2fWildshapeMini.jpg|%2fADJ%2fPathfinder-RPG%2fWildshape.pdf|Un résumé des capacités de transformation des druides sous forme animale, végétale ou élémentaire (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|CPTVOL|Règles de vol (aérien)|ADJ%2fPathfinder-RPG%2fVolMini.jpg|%2fADJ%2fPathfinder-RPG%2fVol.pdf|Un résumé des règles liées à la compétence de Vol en Pathfinder (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|CREAMONSTRES|Tout sur les monstres|ADJ%2fPathfinder-RPG%2fMiniCreaMonstres.jpg|%2fADJ%2fPathfinder-RPG%2fCreaMonstres.pdf|Une présentation complète du format des blocs descriptions de monstres en Pathfinder, un guide pour créer des monstres pas à pas et un survol des méthodes permettant de faire évoluer les monstres (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|TOPOCOMBAT|Les règles de combat|ADJ%2fPathfinder-RPG%2fTopoCombatMini.jpg|%2fADJ%2fPathfinder-RPG%2fTopoCombat.pdf|Un topo complet sur toutes les règles régissant le combat, utile et facile à garder à portée de main (fichier PDF)|Mériadec|none}</td>
+</tr>
+<tr>
+<td>{s:ADJ|MONTURES|Montures|ADJ%2fPathfinder-RPG%2fMonturesMini.jpg|%2fADJ%2fPathfinder-RPG%2fMontures.pdf|Un résumé des règles relatives aux montures et au combat monté (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|PUISSANIM|Puissances animales|ADJ%2fPathfinder-RPG%2fPuissanimMini.jpg|%2fADJ%2fPathfinder-RPG%2fPuissanim.pdf|Un résumé des modifications découlant des divers sorts de transmutation animale comme force du taureau (fichier PDF)|Orion et Dalvyn|none}</td>
+<td>{s:ADJ|BONUSCUMULS|Bonus et cumuls|%2fADJ%2fPathfinder-RPG%2fBonus et cumuls logo.jpg|%2fADJ%2fPathfinder-RPG%2fBonus et cumuls.pdf|Un mémo reprenant les différents types de bonus pour éviter de les cumuler en partie. (fichier PDF)|Gobelure|none}</td>
+</tr>
+</table>
+
+
+
+
+
+===Nouvelles règles===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|ESPACERESTREINT|Combattre dans un espace restreint|ADJ%2fPathfinder-RPG%2fEspaceRestreintMini.jpg|%2fADJ%2fPathfinder-RPG%2fEspaceRestreint.pdf|Quelques règles de combat dans les espaces restreints, inspirées par les versions précédentes de D&D (fichier PDF)|Mériadec|none}</td>
+</tr>
+</table>
+
+===Pense-bêtes et gadgets===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|CARTESETATS|Cartes d'états préjudiciables|ADJ%2fPathfinder-RPG%2fPathCartesMini.jpg|%2fADJ%2fPathfinder-RPG%2fPathCartes.pdf|Un jeu de cartes reprenant les informations principales des divers états préjudiciables, pratiques pour se souvenir de qui est affecté par quoi (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|INVOCATIONMONSTRES1|Invocation de monstres I|ADJ%2fPathfinder-RPG%2fPFsummon1Mini.jpg|%2fADJ%2fPathfinder-RPG%2fPFsummon1.pdf|Des fiches complètes décrivant chacun des monstres qu'il est possible de conjurer à l'aide d'un sort d'Invocation de monstres I (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|FICHESMONSTRES|Fiches pour PNJ/Monstres|ADJ%2fPathfinder-RPG%2fFichesPNJMonstreMini.jpg|%2fADJ%2fPathfinder-RPG%2fFichesPNJMonstre.zip|Des fiches à compléter pour noter les informations principales sur des monstres ou des PNJ, en deux versions : une version pour les créatures simples et une version pour les PNJ/monstres plus complexes (fichier DOC dans archive ZIP)|Mickey|none}</td>
+<td>{s:ADJ|FICHESINIT|Fiches d'initiative|ADJ%2fPathfinder-RPG%2fFichesInitiativeMini.jpg|%2fADJ%2fPathfinder-RPG%2fFichesInitiative.pdf|Cartes d'initiative pour monstres et PJ : à la demande du MJ, les PJ notent leur test d'initiative sur la fiche et la donne au MJ, qui les trie par ordre d'initiative décroissante ; quand un individu a joué, sa carte est placée sous la pile et le suivant peut jouer (fichier PDF)|Tymophil|none}</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|DRUIDE01|Sorts de druide|ADJ%2fPathfinder-RPG%2fListeDruide01Mini.jpg|%2fADJ%2fPathfinder-RPG%2fListeDruide.pdf|Compilation des sorts de niveau 0, 1 et 2 de druide reprenant aussi toutes les caractéristiques détailles des alliés naturels que le druide peut invoquer (fichier PDF)|MrRick|none}</td>
+<td>{s:ADJ|GRIMDRUIDE|Grimoire du druide|ADJ%2fPathfinder-RPG%2fGrimoireDruideMini.jpg|%2fADJ%2fPathfinder-RPG%2fGrimoireDruide.pdf|Compilation de tous les sorts de druide (fichier PDF)|SabCyr69|none}</td>
+<td>{s:ADJ|CHEATSHEET|Cheat sheet actions et états|ADJ%2fPathfinder-RPG%2fcheatsheetyop.jpg|/ADJ/Pathfinder-RPG/Pathfinder_cheat_sheet.pdf|Cheat sheet garnie d'icônes pour les actions et les états (page web)|YopSolo|none}</td>
+<td>{s:ADJ|CARTESSORTSMDW|Cartes de sorts (MÀJ!)|ADJ/Pathfinder-RPG/CartesSortsMDWMini.jpg|/ADJ/Pathfinder-RPG/CartesSortsMDW.pdf|Cartes de sorts à imprimer ou à utiliser en ligne (fichier PDF)|Maxime De Wolf|none}</td>
+</tr>
+</table>
+
+
+
+
+===Errata===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|ERRATAGMG|Errata du Guide du Maître|ADJ%2fPathfinder-RPG%2fErrataGMGMini.jpg|%2fADJ%2fPathfinder-RPG%2fErrataGMG.pdf|Errata pour la VF du Guide du Maître|Dalvyn|none}</td>
+<td>{s:ADJ|ERRATAAPG|Errata du Guide du Joueur<br/>Règles avancées|ADJ%2fPathfinder-RPG%2fErrataAPGMini.jpg|%2fADJ%2fPathfinder-RPG%2fErrataAPG.pdf|Errata pour la VF du Guide du Joueur, Règles avancées|Dalvyn|none}</td>
+<td></td>
+</tr>
+</table>
+
+
+
+===Règles supplémentaires===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|ARMURERIE|L'armurerie|ADJ%2fPathfinder-RPG%2fArmurerieMini.jpg|%2fADJ%2fPathfinder-RPG%2fArmurerie.pdf|Un recueil d'armes, d'armures et d'autres objets magiques ou non pour Pathfinder-RPG (fichier PDF)|[[http://www.necromancers-online.com/|Necromancers of the Northwest]]|none}</td>
+</tr>
+</table>
+
+===Playtests et previews===
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|PREVIEWAPG|(Advanced Player's Guide)<br/>6 nouvelles classes|ADJ%2fPathfinder-RPG%2fAPGPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fAPGPlaytest.pdf|'''(version 4.3)''' Une traduction amateur de six nouvelles classes de base (alchimiste, chevalier, conjurateur, inquisiteur, oracle, sorcière) à paraître dans l'[[Publications#Suppléments_de_règles_1|Advanced Player's Guide]], actuellement en playtest (fichier PDF)|Dalvyn et Rectulo|none}</td>
+<td>{s:ADJ|PREVIEWBESTIAIRE|(Bestiaire)<br/>plus de 30 monstres|ADJ%2fPathfinder-RPG%2fPreviewBestiaireMini.jpg|%2fADJ%2fPathfinder-RPG%2fPreviewBestiaire.pdf|Une traduction amateur des extraits du Bestiaire Pathfinder-RPG à paraître en français qui sont disponible gratuitement en VO sur le site de Paizo (voir [[Publications|cette page]] pour plus d'informations sur le Bestiaire) (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|PREVIEWUM|(Ultimate Magic)<br/>Playtest des règles|ADJ%2fPathfinder-RPG%2fUMPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fUM2Playtest.pdf|Une traduction amateur des règles en playtest pour l'Ultimate Magic, comme la nouvelle classe de base de magus et le système de magie par mots de pouvoir (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|PREVIEWUC|(Ultimate Combat)<br/>Playtest des règles|ADJ%2fPathfinder-RPG%2fUCPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fUCPlaytest.pdf|Une traduction amateur des règles en playtest pour l'Ultimate Combat : les règles pour les armes à feu et les classes/variantes de pistoléro, de ninja et de samouraï  (fichier PDF)|Pathfinder-FR & BBE|none}</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|PREVIEWUC2|(Ultimate Combat)<br/>Playtest des règles 2|ADJ%2fPathfinder-RPG%2fUCPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fUCPlaytest2.pdf|La seconde version du playtest de l'Ultimate Combat concernant la classe de pistoléro et les règles des armes à feu (fichier PDF)|Pathfinder-FR & BBE|none}</td>
+</tr>
+</table>
+
+===nouveaux dons===
+]]></raw>
+  <fullName>Pathfinder-RPG.Aides de jeu</fullName>
+</wikiPage>

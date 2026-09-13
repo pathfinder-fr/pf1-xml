@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Houx</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Adventurers Armory</category></categories>
+  <lastModified>2021-10-24 20:05:03Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Armurerie de laventurier (Contenu)</link><link>Pathfinder-RPG.Marché noir</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Marché noir</link><link>Pathfinder-RPG.Houx et gui (objet)</link></outLinks>
+  <body><![CDATA[&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armurerie de laventurier (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Adventurer&#39;s Armory/Armurerie de l&#39;aventurier&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAA.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; — ; &lt;b&gt;Poids&lt;/b&gt; —  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;March&#233;-Noir.html&quot; title=&quot;March&#233; noir&quot;&gt;March&#233; noir&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Cet objet peut aussi &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;Houx-Et-Gui-(Objet).html&quot; title=&quot;Houx et gui&quot;&gt;coupl&#233; avec le gui&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Les baies rouge vif du houx ont de nombreuses utilisations comme d&#233;corations et objets rituels. Les druides r&#233;coltent les baies de houx avec des outils sp&#233;cialement pr&#233;par&#233;s et pendant des p&#233;riodes sacr&#233;es de l&#39;ann&#233;e.
+]]></body>
+  <raw><![CDATA[{s:cs}{s:AA}'''Prix''' — ; '''Poids''' —  
+<span class="Catégorie">'''Catégorie''' [[Marché noir]]</span>
+<hr>
+{s:Desambi|Cet objet peut aussi être [[Houx et gui (objet)|couplé avec le gui]].}Les baies rouge vif du houx ont de nombreuses utilisations comme décorations et objets rituels. Les druides récoltent les baies de houx avec des outils spécialement préparés et pendant des périodes sacrées de l'année.]]></raw>
+  <fullName>Pathfinder-RPG.Houx (objet)</fullName>
+</wikiPage>

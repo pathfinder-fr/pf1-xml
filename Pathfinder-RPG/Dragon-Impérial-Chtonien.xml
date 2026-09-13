@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dragon impérial chtonien</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire 3</category></categories>
+  <lastModified>2021-07-13 12:20:01Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Dragon chtonien adulte</link><link>Pathfinder-RPG.Dragon chtonien vénérable</link><link>Pathfinder-RPG.Dragon impérial</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Jeune dragon chtonien</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.sous-type Feu</link><link>Pathfinder-RPG.ligne</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Matériaux spéciaux</link><link>Pathfinder-RPG.Jeune dragon chtonien</link><link>Pathfinder-RPG.Dragon chtonien adulte</link><link>Pathfinder-RPG.Dragon chtonien vénérable</link><link>Pathfinder-RPG.Dragon impérial</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Changement de forme</link><link>Pathfinder-RPG.Ramollissement de la terre et de la pierre</link><link>Pathfinder-RPG.Façonnage de la pierre</link><link>Pathfinder-RPG.Présence terrifiante (capacité)</link><link>Pathfinder-RPG.Réduction de dégâts (capacité)</link><link>Pathfinder-RPG.Résistance à la magie (capacité)</link><link>Pathfinder-RPG.Pierres acérées</link><link>Pathfinder-RPG.Mur de pierre</link><link>Pathfinder-RPG.Éloignement du métal et de la pierre</link><link>Pathfinder-RPG.Heurt de pierres</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon imp&#233;rial chtonien&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Dragon&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Souterrain&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 3&lt;/i&gt; p.96
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Feu.html&quot; title=&quot;Feu (sous-type)&quot;&gt;Feu&lt;/a&gt;), LM
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Statistiques de base&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;FP&lt;/b&gt; 3 ; &lt;b&gt;Taille&lt;/b&gt; TP ; &lt;b&gt;DV&lt;/b&gt; 4d12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), creusement 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armure naturelle&lt;/b&gt; +4 ; &lt;b&gt;Souffle&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defligne.html&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt;, 2d6 feu
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrains
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Changement de forme (Sur).&lt;/b&gt; Un jeune dragon chtonien, ou un dragon plus &#226;g&#233;, peut prendre n’importe quelle forme humano&#239;de trois fois par jour, comme s’il utilisait &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;ruption de lave (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, un grand dracosire chtonien peut s’enfoncer dans le sol &#224; une vitesse maximale &#233;gale &#224; deux fois sa vitesse de creusement. &#192; l’issue de ce d&#233;placement, s’il peut souffler, il peut &#233;merger du sol en faisant jaillir une explosion de lave de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de rayon infligeant les m&#234;mes d&#233;g&#226;ts que son souffle.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Fouisseur chtonien (Ext).&lt;/b&gt; Un jeune dragon chtonien, ou un dragon plus &#226;g&#233;, re&#231;oit un bonus de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) &#224; sa vitesse de creusement. Lorsqu’un dragon chtonien devient vieux, et toutes les deux cat&#233;gories d’&#226;ge &#224; partir de l&#224;, sa vitesse de creusement augmente de 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) suppl&#233;mentaires.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Griffes d’adamantium (Ext).&lt;/b&gt; Les griffes du dragon chtonien sont faites d’&lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html#ADAMANTIUM&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;adamantium&lt;/a&gt; et poss&#232;dent les qualit&#233;s d’une arme forg&#233;e dans ce mat&#233;riau.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vision malgr&#233; la fum&#233;e (Ext).&lt;/b&gt; Un tr&#232;s jeune dragon chtonien, ou un dragon plus &#226;g&#233;, voit parfaitement dans une atmosph&#232;re enfum&#233;e (comme, par exemple, celle que cr&#233;e le sort pyrotechnie).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de dragon de magma&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jeune-Dragon-Chtonien.html&quot; title=&quot;Dragon imp&#233;rial, Jeune dragon chtonien&quot;&gt;Jeune dragon chtonien&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dragon-Chtonien-Adulte.html&quot; title=&quot;Dragon imp&#233;rial, Dragon chtonien adulte&quot;&gt;Dragon chtonien adulte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dragon-Chtonien-V&#233;n&#233;rable.html&quot; title=&quot;Dragon imp&#233;rial, Dragon chtonien v&#233;n&#233;rable&quot;&gt;Dragon chtonien v&#233;n&#233;rable&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Dragon-Imp&#233;rial.html&quot; title=&quot;Les dragons imp&#233;riaux&quot;&gt;dragons imp&#233;riaux&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Ce dragon serpentin, dont la peau a la couleur des roches volcaniques des profondeurs, poss&#232;de d’&#233;normes griffes. Il est pourvu d’&#233;cailles et de cornes anguleuses semblables &#224; de la pierre.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dragons chtoniens, &#233;galement appel&#233;s les fucanlongs, sont des cr&#233;atures cupides et calculatrices qui creusent de grands tunnels labyrinthiques sous la terre et d&#233;fendent leurs tr&#233;sors cach&#233;s. Ils pr&#233;f&#232;rent la terre aux airs, canalisant les feux du noyau de la terre au sein de leur corps onduleux semblable &#224; de la pierre et dans les flammes de leur souffle suffisamment chaud pour transformer le granite en scories.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo toutgauche&quot;&gt;&lt;caption&gt;Tableau des gains de capacit&#233;s&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gorie d&#39;&#226;ge &lt;/td&gt;&lt;td&gt;Capacit&#233;s sp&#233;ciales&lt;/td&gt;&lt;td&gt;NLS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Dragonnet&lt;/td&gt;&lt;td&gt;Griffes d’adamantium, &lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;immunit&#233;&lt;/a&gt; contre le feu&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Tr&#232;s jeune&lt;/td&gt;&lt;td&gt;Vision malgr&#233; la fum&#233;e&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme.html&quot; title=&quot;Changement de forme&quot;&gt;Changement de forme&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ramollissement-De-La-Terre-Et-De-La-Pierre.html&quot; title=&quot;Ramollissement de la terre et de la pierre&quot;&gt;ramollissement de la terre et de la pierre&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adolescent&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fa&#231;onnage-De-La-Pierre.html&quot; title=&quot;Fa&#231;onnage de la pierre&quot;&gt;Fa&#231;onnage de la pierre&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sence-Terrifiante-(Capacit&#233;).html&quot; title=&quot;Pr&#233;sence terrifiante (Ext)&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune adulte&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 5/magie ; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la magie (Ext)&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adulte&lt;/td&gt;&lt;td&gt;Fouisseur chtonien, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pierres-Ac&#233;r&#233;es.html&quot; title=&quot;Pierres ac&#233;r&#233;es&quot;&gt;pierres ac&#233;r&#233;es&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#194;ge m&#251;r&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 10/magie&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Vieux&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Pierre.html&quot; title=&quot;Mur de pierre&quot;&gt;Mur de pierre&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s vieux&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 15/magie&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;V&#233;n&#233;rable&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;loignement-Du-M&#233;tal-Et-De-La-Pierre.html&quot; title=&quot;&#201;loignement du m&#233;tal et de la pierre&quot;&gt;&#201;loignement du m&#233;tal et de la pierre&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dracosire&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt; 20/magie&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Grand dracosire&lt;/td&gt;&lt;td&gt;&#201;ruption de lave, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Heurt-De-Pierres.html&quot; title=&quot;Heurt de pierres&quot;&gt;heurt de pierres&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon impérial chtonien}
+{s:pucem|Dragon|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire 3'' p.96}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Feu|Feu]]), LM}
+{s:BDSousTitre|Statistiques de base}
+{s:BDTexte|'''FP''' 3 ; '''Taille''' TP ; '''DV''' 4d12}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), creusement 9 m (6 {s:c})}
+{s:BDTexte|'''Armure naturelle''' +4 ; '''Souffle''' [[ligne]], 2d6 feu}
+{s:BDTexte|'''For''' 13, '''Dex''' 14, '''Con''' 13, '''Int''' 10, '''Sag''' 11, '''Cha''' 10}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrains}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' triple}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Changement de forme (Sur).''' Un jeune dragon chtonien, ou un dragon plus âgé, peut prendre n’importe quelle forme humanoïde trois fois par jour, comme s’il utilisait ''[[métamorphose]]''.}
+{s:BDTexte|'''Éruption de lave (Sur).''' Par une [[action complexe]], un grand dracosire chtonien peut s’enfoncer dans le sol à une vitesse maximale égale à deux fois sa vitesse de creusement. À l’issue de ce déplacement, s’il peut souffler, il peut émerger du sol en faisant jaillir une explosion de lave de 9 m (6 {s:c}) de rayon infligeant les mêmes dégâts que son souffle.}
+{s:BDTexte|'''Fouisseur chtonien (Ext).''' Un jeune dragon chtonien, ou un dragon plus âgé, reçoit un bonus de 3 m (2 {s:c}) à sa vitesse de creusement. Lorsqu’un dragon chtonien devient vieux, et toutes les deux catégories d’âge à partir de là, sa vitesse de creusement augmente de 3 m (2 {s:c}) supplémentaires.}
+{s:BDTexte|'''Griffes d’adamantium (Ext).''' Les griffes du dragon chtonien sont faites d’[[Matériaux spéciaux#ADAMANTIUM|adamantium]] et possèdent les qualités d’une arme forgée dans ce matériau.}
+{s:BDTexte|'''Vision malgré la fumée (Ext).''' Un très jeune dragon chtonien, ou un dragon plus âgé, voit parfaitement dans une atmosphère enfumée (comme, par exemple, celle que crée le sort pyrotechnie).}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de dragon de magma
+|- CLASS="titre"
+| Nom || &nbsp; || FP
+|- CLASS="premier"
+| [[Jeune dragon chtonien]] || &nbsp; || 7
+|-
+| [[Dragon chtonien adulte]] || &nbsp; || 11
+|-
+| [[Dragon chtonien vénérable]] || &nbsp; || 16
+|}
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[dragon impérial|dragons impériaux]].'''''</li></ul>''Ce dragon serpentin, dont la peau a la couleur des roches volcaniques des profondeurs, possède d’énormes griffes. Il est pourvu d’écailles et de cornes anguleuses semblables à de la pierre.''
+
+Les dragons chtoniens, également appelés les fucanlongs, sont des créatures cupides et calculatrices qui creusent de grands tunnels labyrinthiques sous la terre et défendent leurs trésors cachés. Ils préfèrent la terre aux airs, canalisant les feux du noyau de la terre au sein de leur corps onduleux semblable à de la pierre et dans les flammes de leur souffle suffisamment chaud pour transformer le granite en scories.
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Tableau des gains de capacités
+|- CLASS="titre"
+| Catégorie d'âge  || Capacités spéciales || NLS
+|- CLASS="premier"
+| Dragonnet || Griffes d’adamantium, [[Immunité (capacité)|immunité]] contre le feu || —
+|- CLASS="alt"
+| Très jeune || Vision malgré la fumée || —
+|-
+| Jeune || ''[[Changement de forme]]'', ''[[ramollissement de la terre et de la pierre]]'' || —
+|- CLASS="alt"
+| Adolescent || ''[[Façonnage de la pierre]]'', [[Présence terrifiante (capacité)|présence terrifiante]] || 1
+|-
+| Jeune adulte || [[Réduction de dégâts (capacité)|RD]] 5/magie ; [[Résistance à la magie (capacité)|résistance à la magie]] || 3
+|- CLASS="alt"
+| Adulte || Fouisseur chtonien, ''[[pierres acérées]]'' || 5
+|-
+| Âge mûr || [[Réduction de dégâts (capacité)|RD]] 10/magie || 7
+|- CLASS="alt"
+| Vieux || ''[[Mur de pierre]]'' || 9
+|-
+| Très vieux || [[Réduction de dégâts (capacité)|RD]] 15/magie || 11
+|- CLASS="alt"
+| Vénérable || ''[[Éloignement du métal et de la pierre]]'' || 13
+|-
+| Dracosire || [[Réduction de dégâts (capacité)|RD]] 20/magie || 15
+|- CLASS="alt"
+| Grand dracosire || Éruption de lave, ''[[heurt de pierres]]'' || 17
+|}
+</center>
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Dragon impérial chtonien</fullName>
+</wikiPage>

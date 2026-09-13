@@ -1,0 +1,735 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>L'arcaniste</title>
+  <categories><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs - Classes avancées</category></categories>
+  <lastModified>2024-10-02 16:13:15Z</lastModified>
+  <version>13</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Adepte démoniaque</link><link>Pathfinder-RPG.Adepte des lames (arcaniste)</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Agent étrange (arcaniste)</link><link>Pathfinder-RPG.Agent étrange (arcaniste)</link><link>Pathfinder-RPG.Aide étrange</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Arcaniste du sang (arcaniste)</link><link>Pathfinder-RPG.Arcaniste du sang (arcaniste)</link><link>Pathfinder-RPG.Arcaniste illétré (arcaniste)</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Armes magiques spécifiques</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Bravades</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Buveur dâmes</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Compagnons vermines</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Diaboliste</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Étudiant de la Société du tourment (arcaniste)</link><link>Pathfinder-RPG.Étudiant de la Société du tourment (arcaniste)</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Exploitation arcanique supplémentaire</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Légionnaire infernal</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Mage blanc (arcaniste)</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Magicien exploiteur (magicien)</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.Maillage magique</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître élémentaire (arcaniste)</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.Maladies et poisons unchained</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Manuel des joueurs - Classes avancées (Contenu)</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement liste</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Occultiste (arcaniste)</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Perturbation profane</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.Poing du signifer</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Pouvoirs de ki</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Préparation étendue</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Réservoir supplémentaire</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Sage du crépuscule (arcaniste)</link><link>Pathfinder-RPG.Sage du crépuscule (arcaniste)</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Savant dune école de magie (arcaniste)</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.Spécialiste des sortilèges (arcaniste)</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Substitution dénergie destructive</link><link>Pathfinder-RPG.Surconsommation</link><link>Pathfinder-RPG.Tableau récapitulatif des compétences</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons - Temp</link><link>Pathfinder-RPG.Tableau récapitulatif des dons des classes avancées</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Temp-aventures occultes</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Transmutateur à fourrure brune (arcaniste)</link><link>Pathfinder-RPG.Trousse darcaniste (objet)</link><link>Pathfinder-RPG.Trousses déquipement</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Voeux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Caractéristiques des armures</link><link>Pathfinder-RPG.Magie profane</link><link>Pathfinder-RPG.emplacement de sort</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.compagnon animal</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Voeux</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Adepte des lames (arcaniste)</link><link>Pathfinder-RPG.Agent étrange (arcaniste)</link><link>Pathfinder-RPG.Arcaniste du sang (arcaniste)</link><link>Pathfinder-RPG.Arcaniste illétré (arcaniste)</link><link>Pathfinder-RPG.Étudiant de la Société du tourment (arcaniste)</link><link>Pathfinder-RPG.Mage blanc (arcaniste)</link><link>Pathfinder-RPG.Maître élémentaire (arcaniste)</link><link>Pathfinder-RPG.Occultiste (arcaniste)</link><link>Pathfinder-RPG.Sage du crépuscule (arcaniste)</link><link>Pathfinder-RPG.Savant dune école de magie (arcaniste)</link><link>Pathfinder-RPG.Spécialiste des sortilèges (arcaniste)</link><link>Pathfinder-RPG.Transmutateur à fourrure brune (arcaniste)</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;13%&quot;&gt;&lt;center&gt;&lt;img ID=&quot;menuclasseIMG3&quot; src=&quot;/wiki/public/upload/Illustrations/Autres/Head.jpg&quot; WIDTH=&quot;90%&quot; style=&quot;border: 1px solid #4b3124&quot; /&gt;&lt;/center&gt;&lt;/td&gt;&lt;td width=&quot;86%&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les classes hybrides&lt;a class=&quot;headeranchor&quot; id=&quot;Les_classes_hybrides_0&quot; href=&quot;#Les_classes_hybrides_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Arcaniste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;L&#39;arcaniste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;exploitations&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Bretteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bretteur.html&quot; title=&quot;Le bretteur&quot;&gt;Le bretteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits-(Bretteur).html&quot; title=&quot;Les exploits du bretteur&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chaman.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Le chaman&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(Chaman).html&quot; title=&quot;Les esprits du chaman&quot;&gt;esprits&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices-(Chaman).html&quot; title=&quot;Les mal&#233;fices du chaman&quot;&gt;mal&#233;fices&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur.html&quot; title=&quot;Le chasseur&quot;&gt;Le chasseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;compagnon animal&quot;&gt;compagnon animal&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Enqu&#234;teur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enqu&#234;teur.html&quot; title=&quot;L&amp;#39;enqu&#234;teur&quot;&gt;L&#39;enqu&#234;teur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Enqu&#234;teur).html&quot; title=&quot;Les talents d&amp;#39;enqu&#234;teur&quot;&gt;talents d’enqu&#234;teur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Lutteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lutteur.html&quot; title=&quot;Le lutteur&quot;&gt;Le lutteur&lt;/a&gt; &lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre combattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Le pr&#234;tre combattant&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;dictions.html&quot; title=&quot;Les b&#233;n&#233;dictions du pr&#234;tre combattant&quot;&gt;b&#233;n&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sanguin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;Le sanguin&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages-(Sanguin).html&quot; title=&quot;Les lignages du sanguin&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Scalde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html&quot; title=&quot;Le scalde&quot;&gt;Le scalde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html&quot; title=&quot;Les chants de rage du scalde&quot;&gt;chants de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Tueur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tueur.html&quot; title=&quot;Le tueur&quot;&gt;Le tueur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Tueur).html&quot; title=&quot;Les talents de tueur&quot;&gt;talents de tueur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESDEBASE&quot; title=&quot;Les classes&quot;&gt;Classes de base&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barbare.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;Le barbare&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;pouvoirs de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Le barde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html&quot; title=&quot;Les repr&#233;sentations bardiques du barde&quot;&gt;repr&#233;sentations&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Les chefs d&amp;#39;œuvre du barde&quot;&gt;chefs d&#39;oeuvre&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Druide.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Le druide&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaines-Animaux-Et-Environnementaux.html&quot; title=&quot;Les domaines animaux et environnementaux du druide&quot;&gt;Domaines animaux et environnementaux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ensorceleur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;L&#39;ensorceleur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages.html&quot; title=&quot;Les lignages d&amp;#39;ensorceleur&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Guerrier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;Le guerrier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Groupe-Darmes.html&quot; title=&quot;Les groupes d&amp;#39;arme du guerrier&quot;&gt;groupes d&#39;armes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Entra&#238;nements-Avanc&#233;s.html&quot; title=&quot;Les entra&#238;nements avanc&#233;s du guerrier&quot;&gt;entra&#238;nements avanc&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magicien.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Le magicien&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-De-Magie.html&quot; title=&quot;Les &#233;coles de magie du magicien&quot;&gt;&#233;coles de magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes-Arcaniques.html&quot; title=&quot;Les d&#233;couvertes arcaniques du magicien&quot;&gt;d&#233;couvertes arcaniques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Moine.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine.html&quot; title=&quot;Le moine&quot;&gt;Le moine&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Voeux.html&quot; title=&quot;Les vœux du moine&quot;&gt;voeux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Paladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Le paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Le pr&#234;tre&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variantes-De-Canalisation.html&quot; title=&quot;Les variantes de canalisation du pr&#234;tre&quot;&gt;variantes de canalisation&lt;/a&gt;&lt;/i&gt;) (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines du pr&#234;tre&quot;&gt;domaines&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/R&#244;deur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;Le r&#244;deur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges-De-R&#244;deur.html&quot; title=&quot;Pi&#232;ges de r&#244;deur&quot;&gt;Pi&#232;ges de r&#244;deur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Roublard.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;Le roublard&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html&quot; title=&quot;Les talents de roublard&quot;&gt;talents&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESSUPPLEMENTAIRES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESSUPPLEMENTAIRES&quot; title=&quot;Les classes&quot;&gt;Classes suppl&#233;mentaires&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESSUPPLEMENTAIRES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Alchimiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;L&#39;alchimiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes.html&quot; title=&quot;Les d&#233;couvertes d&amp;#39;alchimiste&quot;&gt;d&#233;couvertes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Antipaladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;L&#39;anti-paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur de vampire.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur-De-Vampire.html&quot; title=&quot;Le chasseur de vampire&quot;&gt;Le chasseur de vampire&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Techniques-De-Chasseur-De-Vampire.html&quot; title=&quot;les techniques de chasseur de vampire&quot;&gt;techniques de chasseur de vampire&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chevalier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier.html&quot; title=&quot;Le chevalier&quot;&gt;Le chevalier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Conjurateur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;Le conjurateur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon.html&quot; title=&quot;L&amp;#39;eidolon du conjurateur&quot;&gt;eidolon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mod&#232;les-Deidolon.html&quot; title=&quot;Les mod&#232;les d&amp;#39;eidolon du conjurateur&quot;&gt;mod&#232;les d&#39;eidolon&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Inquisiteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;L&#39;inquisiteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html&quot; title=&quot;Les inquisitions d&amp;#39;inquisiteur&quot;&gt;inquisitions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Justicier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Justicier.html&quot; title=&quot;Le justicier&quot;&gt;Le justicier&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sociaux.html&quot; title=&quot;Les talents sociaux du justicier&quot;&gt;talents sociaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talents-De-Justicier.html&quot; title=&quot;Les talents de justicier&quot;&gt;talents de justicier&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magus.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le magus&quot;&gt;Le magus&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcanes.html&quot; title=&quot;Les arcanes du magus&quot;&gt;arcanes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;tamorphe.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphe.html&quot; title=&quot;Le m&#233;tamorphe&quot;&gt;Le m&#233;tamorphe&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Aspects.html&quot; title=&quot;Les aspects du m&#233;tamorphe&quot;&gt;aspects du m&#233;tamorphe&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ninja.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ninja.html&quot; title=&quot;Le ninja&quot;&gt;Le ninja&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Astuces.html&quot; title=&quot;Les astuces de ninja&quot;&gt;astuces&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Oracle.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;L&#39;oracle&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;res&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions-Doracle.html&quot; title=&quot;Les mal&#233;dictions d&amp;#39;oracle&quot;&gt;mal&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pistolier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html&quot; title=&quot;Le pistolier&quot;&gt;Le pistolier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits.html&quot; title=&quot;Les exploits du pistolier&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Samoura&#239;.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html&quot; title=&quot;Le samoura&#239;&quot;&gt;Le samoura&#239;&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sorci&#232;re.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;La sorci&#232;re&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices.html&quot; title=&quot;Les mal&#233;fices de la sorci&#232;re&quot;&gt;mal&#233;fices&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Protecteurs.html&quot; title=&quot;Les protecteurs de la sorci&#232;re&quot;&gt;protecteurs&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESOCCULTES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESOCCULTES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESOCCULTES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESOCCULTES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESOCCULTES&quot; title=&quot;Les classes&quot;&gt;Classes occultes&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESOCCULTES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Cin&#233;tiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cin&#233;tiste.html&quot; title=&quot;Le cin&#233;tiste&quot;&gt;Le cin&#233;tiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;ments.html&quot; title=&quot;Les &#233;l&#233;ments du cin&#233;tiste&quot;&gt;&#233;l&#233;ments&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sauvages.html&quot; title=&quot;Les talents sauvages du cin&#233;tiste&quot;&gt;talents sauvages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Hypnotiseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;L&#39;hypnotiseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inductions.html&quot; title=&quot;Les inductions d&amp;#39;hypnotiseur&quot;&gt;inductions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;dium.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;dium.html&quot; title=&quot;Le m&#233;dium&quot;&gt;Le m&#233;dium&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(M&#233;dium).html&quot; title=&quot;Les esprits du m&#233;dium&quot;&gt;esprits&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-L&#233;gendaires.html&quot; title=&quot;Les esprits l&#233;gendaires de m&#233;dium&quot;&gt;esprits l&#233;gendaires&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Occultiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Occultiste.html&quot; title=&quot;L&amp;#39;occultiste&quot;&gt;L&#39;occultiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-Instrumentales.html&quot; title=&quot;&#201;coles instrumentales&quot;&gt;&#233;coles instrumentales&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Instruments-Sacr&#233;s.html&quot; title=&quot;Les instruments sacr&#233;s d&amp;#39;occultiste&quot;&gt;instruments sacr&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Psychiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Le psychiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Amplifications-Phr&#233;niques.html&quot; title=&quot;Les amplifications phr&#233;niques du psychiste&quot;&gt;amplifications phr&#233;niques&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciplines-Psychiques.html&quot; title=&quot;Les disciplines psychiques du psychiste&quot;&gt;disciplines psychiques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Spirite.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Spirite.html&quot; title=&quot;Le spirite&quot;&gt;Le spirite&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fant&#244;mes-(Spirite).html&quot; title=&quot;Le fant&#244;me du spirite&quot;&gt;fant&#244;mes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPRESTIGE3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPRESTIGE3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPRESTIGE3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPRESTIGE3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Prestige.html&quot; title=&quot;Les classes de prestige&quot;&gt;Classes de prestige&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPRESTIGE3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Acolyte-De-La-Foi-Verte.html&quot; title=&quot;Acolyte de la Nature&quot;&gt;Acolyte de la Nature&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte-De-La-Flamme-Noire.html&quot; title=&quot;Adepte de la Flamme noire&quot;&gt;Adepte de la Flamme noire&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-La-Cour-Des-Ombres.html&quot; title=&quot;Agent de l&amp;#39;Ombre&quot;&gt;Agent de l&#39;Ombre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-Terrain-Des-&#201;claireurs.html&quot; title=&quot;Agent de terrain des Explorateurs&quot;&gt;Agent de terrain des Explorateurs&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-Consortium-De-Laspis.html&quot; title=&quot;Agent du consortium&quot;&gt;Agent du consortium&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-R&#233;seau-Campanule.html&quot; title=&quot;Agent du r&#233;seau&quot;&gt;Agent du r&#233;seau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste-De-Magaambya.html&quot; title=&quot;Arcaniste de l&amp;#39;acad&#233;mie du Vieux-Mage&quot;&gt;Arcaniste de l&#39;acad&#233;mie du Vieux-Mage&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Archer-Mage.html&quot; title=&quot;L&amp;#39;archer-mage&quot;&gt;Archer-mage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arpenteur-Dhorizon.html&quot; title=&quot;L&amp;#39;arpenteur d&amp;#39;horizon&quot;&gt;Arpenteur d&#39;horizon&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aspirant-&#192;-Lillumination.html&quot; title=&quot;Aspirant &#224; l&amp;#39;Illumination&quot;&gt;Aspirant &#224; l&#39;Illumination&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin-Des-Mantes-Rouges.html&quot; title=&quot;Assassin pourpre&quot;&gt;Assassin pourpre&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin.html&quot; title=&quot;L&amp;#39;assassin&quot;&gt;Assassin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Attiseur-De-Temp&#234;tes.html&quot; title=&quot;Attiseur de temp&#234;tes&quot;&gt;Attiseur de temp&#234;tes&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jardinier-Gris.html&quot; title=&quot;Bourreau gris&quot;&gt;Bourreau gris&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Dirori.html&quot; title=&quot;Champion de la perfection&quot;&gt;Champion de la perfection&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Occultiste.html&quot; title=&quot;Le champion occultiste&quot;&gt;Champion occultiste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Dozem.html&quot; title=&quot;Chevalier de la vie&quot;&gt;Chevalier de la vie&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevaucheur-De-Mammouth.html&quot; title=&quot;Chevaucheur de mammouth&quot;&gt;Chevaucheur de mammouth&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chroniqueur.html&quot; title=&quot;Le chroniqueur&quot;&gt;Chroniqueur&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Daivrat.html&quot; title=&quot;Daivrat&quot;&gt;Daivrat&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tective-Des-Insomniaques.html&quot; title=&quot;D&#233;tective des Insomniaques&quot;&gt;D&#233;tective des Insomniaques&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-De-Kalistrade.html&quot; title=&quot;Disciple des Proph&#233;ties&quot;&gt;Disciple des Proph&#233;ties&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciple-Draconien.html&quot; title=&quot;Le disciple draconien&quot;&gt;Disciple draconien&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissident-De-La-Fleur-De-Laube.html&quot; title=&quot;Dissident de l&amp;#39;aube&quot;&gt;Dissident de l&#39;aube&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duelliste.html&quot; title=&quot;Le duelliste&quot;&gt;Duelliste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Empoisonneur-De-Dague.html&quot; title=&quot;Empoisonneur de la guilde&quot;&gt;Empoisonneur de la guilde&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enfant-Divin.html&quot; title=&quot;Enfant divin&quot;&gt;Enfant divin&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Estimateur-Dabadar.html&quot; title=&quot;Estimateur l&#233;gal&quot;&gt;Estimateur l&#233;gal&lt;/a&gt; (CSU)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tudiant-De-La-Guerre.html&quot; title=&quot;&#201;tudiant de la guerre&quot;&gt;&#201;tudiant de la guerre&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;vang&#233;liste.html&quot; title=&quot;&#201;vang&#233;liste&quot;&gt;&#201;vang&#233;liste&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exalt&#233;.html&quot; title=&quot;Exalt&#233;&quot;&gt;Exalt&#233;&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Explorateur.html&quot; title=&quot;Explorateur&quot;&gt;Explorateur&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Savant.html&quot; title=&quot;Explorateur savant&quot;&gt;Explorateur savant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Razmirien.html&quot; title=&quot;Faux pr&#234;tre&quot;&gt;Faux pr&#234;tre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fid&#232;le-D&#233;fenseur.html&quot; title=&quot;Le fid&#232;le d&#233;fenseur&quot;&gt;Fid&#232;le d&#233;fenseur&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fr&#232;re-Du-Sceau.html&quot; title=&quot;Fr&#232;re du Sceau&quot;&gt;Fr&#232;re du Sceau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;gionnaire-Dor&#233;.html&quot; title=&quot;Garde de la libert&#233;&quot;&gt;Garde de la libert&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-De-La-Nature.html&quot; title=&quot;Le gardien de la nature&quot;&gt;Gardien de la nature&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Des-Failles.html&quot; title=&quot;Gardien des failles&quot;&gt;Gardien des failles&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html&quot; title=&quot;Le gardien du savoir&quot;&gt;Gardien du savoir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier-De-La-Fosse.html&quot; title=&quot;Guerrier de la fosse&quot;&gt;Guerrier de la fosse&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;raut.html&quot; title=&quot;Le h&#233;raut&quot;&gt;H&#233;raut&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ritier-Noble.html&quot; title=&quot;H&#233;ritier noble&quot;&gt;H&#233;ritier noble&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Illusionniste-Voil&#233;.html&quot; title=&quot;Illusionniste voil&#233;&quot;&gt;Illusionniste voil&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lame-Des-Lions.html&quot; title=&quot;Lame des lions&quot;&gt;Lame des lions&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Infernal.html&quot; title=&quot;L&#233;gionnaire infernal&quot;&gt;L&#233;gionnaire infernal&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mage-Des-Glyphes.html&quot; title=&quot;Mage des glyphes&quot;&gt;Mage des glyphes&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Chymiste.html&quot; title=&quot;Le ma&#238;tre chymiste&quot;&gt;Ma&#238;tre chymiste&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Des-Ombres.html&quot; title=&quot;Le ma&#238;tre des ombres&quot;&gt;Ma&#238;tre des ombres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Espion.html&quot; title=&quot;Le ma&#238;tre espion&quot;&gt;Ma&#238;tre espion&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mar&#233;chal-Bouclier.html&quot; title=&quot;Mar&#233;chal-bouclier&quot;&gt;Mar&#233;chal-bouclier&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faucon-Dacier.html&quot; title=&quot;Missionnaire de la libert&#233;&quot;&gt;Missionnaire de la libert&#233;&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monolithe-Vivant.html&quot; title=&quot;Monolithe vivant&quot;&gt;Monolithe vivant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystificateur-Profane.html&quot; title=&quot;Le mystificateur profane&quot;&gt;Mystificateur profane&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystique-Tatou&#233;.html&quot; title=&quot;Mystique tatou&#233;&quot;&gt;Mystique tatou&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Opportuniste-Halfelin.html&quot; title=&quot;Opportuniste halfelin&quot;&gt;Opportuniste halfelin&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pirate-De-La-Mer-Int&#233;rieure.html&quot; title=&quot;Pirate de Haute Mer&quot;&gt;Pirate de Haute mer&lt;/a&gt; (PMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porteur-De-Lanterne.html&quot; title=&quot;Porteur de lanterne&quot;&gt;Porteur de lanterne&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-Enrag&#233;.html&quot; title=&quot;Le proph&#232;te enrag&#233;&quot;&gt;Proph&#232;te enrag&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prospecteur-C&#233;leste.html&quot; title=&quot;Prospecteur c&#233;leste&quot;&gt;Prospecteur c&#233;leste&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sentinelle.html&quot; title=&quot;Sentinelle&quot;&gt;Sentinelle&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-De-Larche-Du-Nex.html&quot; title=&quot;Seigneur de l&amp;#39;arche&quot;&gt;Seigneur de l&#39;arche&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-Des-&#201;p&#233;es-Aldori.html&quot; title=&quot;Seigneur des &#233;p&#233;es&quot;&gt;Seigneur des &#233;p&#233;es&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signifer-Infernal.html&quot; title=&quot;Signifer infernal&quot;&gt;Signifer infernal&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re-De-Lhiver.html&quot; title=&quot;Sorci&#232;re de l&amp;#39;hiver&quot;&gt;Sorci&#232;re de l&#39;hiver&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Templier-D&#233;chu.html&quot; title=&quot;Templier parjure&quot;&gt;Templier parjure&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Th&#233;urge-Mystique.html&quot; title=&quot;Le th&#233;urge mystique&quot;&gt;Th&#233;urge mystique&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vengeur-Sacr&#233;.html&quot; title=&quot;Le vengeur sacr&#233;&quot;&gt;Vengeur sacr&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liseuse-De-Tourment.html&quot; title=&quot;Voyante&quot;&gt;Voyante&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPNJ3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPNJ3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPNJ3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPNJ3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Classes de PNJ&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPNJ3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniAdepte.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;L&#39;adepte&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniExpert.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;L&#39;expert&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniCombattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;L&#39;homme d&#39;arme&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniHomme du Peuple.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Du-Peuple.html&quot; title=&quot;L&amp;#39;homme du peuple&quot;&gt;L&#39;homme du peuple&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniNoble.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Noble.html&quot; title=&quot;Le noble&quot;&gt;Le noble&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fright&quot;&gt;&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;exploitations d&#39;arcaniste&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Densorceleursmagiciens.html&quot; title=&quot;Liste des sorts d&amp;#39;arcaniste/ensorceleur/magicien&quot;&gt;liste des sorts d&#39;arcaniste&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonarcaniste&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onclick=&quot;expandMenu(&#39;arcaniste&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;Voir les arch&#233;types de l&#39;arcaniste&lt;/b&gt;&amp;emsp;
+  &lt;li ID=&quot;arcaniste&quot; CLASS=&quot;listecach&#233;e&quot; STYLE=&quot;display:none&quot;&gt;&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les arch&#233;types d&#39;arcaniste&lt;a class=&quot;headeranchor&quot; id=&quot;Les_arch&#233;types_darcaniste_0&quot; href=&quot;#Les_arch&#233;types_darcaniste_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&amp;nbsp;Retour &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;classe&lt;/a&gt;.
+&lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte-Des-Lames-(Arcaniste).html&quot; title=&quot;Adepte des lames&quot;&gt;Adepte des lames&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-&#201;trange-(Arcaniste).html&quot; title=&quot;Agent &#233;trange&quot;&gt;Agent &#233;trange&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste-Du-Sang-(Arcaniste).html&quot; title=&quot;Arcaniste du sang&quot;&gt;Arcaniste du sang&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste-Ill&#233;tr&#233;-(Arcaniste).html&quot; title=&quot;Arcaniste ill&#233;tr&#233;&quot;&gt;Arcaniste ill&#233;tr&#233;&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tudiant-De-La-Soci&#233;t&#233;-Du-Tourment-(Arcaniste).html&quot; title=&quot;&#201;tudiant de la Soci&#233;t&#233; du destin&quot;&gt;&#201;tudiant de la Soci&#233;t&#233; du destin&lt;/a&gt; (&lt;i&gt;OO&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mage-Blanc-(Arcaniste).html&quot; title=&quot;Mage blanc&quot;&gt;Mage blanc&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-&#201;l&#233;mentaire-(Arcaniste).html&quot; title=&quot;Ma&#238;tre &#233;l&#233;mentaire&quot;&gt;Ma&#238;tre &#233;l&#233;mentaire&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Occultiste-(Arcaniste).html&quot; title=&quot;Occultiste&quot;&gt;Occultiste&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sage-Du-Cr&#233;puscule-(Arcaniste).html&quot; title=&quot;Sage du cr&#233;puscule&quot;&gt;Sage du cr&#233;puscule&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Savant-Dune-&#201;cole-De-Magie-(Arcaniste).html&quot; title=&quot;Savant d&amp;#39;une &#233;cole de magie&quot;&gt;Savant d&#39;une &#233;cole de magie&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sp&#233;cialiste-Des-Sortil&#232;ges-(Arcaniste).html&quot; title=&quot;Sp&#233;cialiste des sortil&#232;ges&quot;&gt;Sp&#233;cialiste des sortil&#232;ges&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transmutateur-&#192;-Fourrure-Brune-(Arcaniste).html&quot; title=&quot;Transmutateur &#224; fourrure brune&quot;&gt;Transmutateur &#224; fourrure brune&lt;/a&gt; (MCA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Certains lanceurs de sorts cherchent &#224; percer les secrets de la magie et &#224; obtenir assez de puissance pour r&#233;ussir l’impossible. D’autres naissent avec des pouvoirs magiques inn&#233;s et contr&#244;lent des forces incroyables aussi facilement qu’ils respirent. D’autres encore tentent de fusionner la science des &#233;tudiants en &#233;sot&#233;risme avec la puissance naturelle des lanceurs de sorts inn&#233;s. Ces arcanistes s’efforcent de d&#233;couvrir les myst&#233;rieuses lois qui r&#233;gissent la magie et de les plier &#224; leurs d&#233;sirs par leur art et leur volont&#233;. Les arcanistes sont les fa&#231;onneurs et les artisans des arcanes et aucune magie ne peut se soustraire &#224; leur contr&#244;le.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre&quot;&gt;&lt;caption&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TABLEARCANISTE&quot; href=&quot;#TABLEARCANISTE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;L&#39;arcaniste&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot; CLASS=&quot;gauche&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td COLSPAN=&quot;10&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;9e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#ABSORPTIONDESORTS&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Absorption de sorts&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;exploitation d&#39;arcaniste&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#GRIMOIRE&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;grimoire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#RESERVOIRARCANIQUE&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;r&#233;servoir arcanique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#TOURSDEMAGIE&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;tours de magie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Exploitation d&#39;arcaniste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Exploitation d&#39;arcaniste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Exploitation d&#39;arcaniste&lt;/a&gt; &lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Exploitation d&#39;arcaniste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Exploitation d&#39;arcaniste&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATIONSUPERIEURE&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;exploitation sup&#233;rieure&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Exploitation d&#39;arcaniste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Exploitation d&#39;arcaniste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Exploitation d&#39;arcaniste&lt;/a&gt; &lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#EXPLOITATION&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Exploitation d&#39;arcaniste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#SUPREMATIEMAGIQUE&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;Supr&#233;matie magique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;IMG SRC=&quot;/wiki/public/upload/Illustrations/PNJ/Enora.jpg&quot; WIDTH=&quot;35%&quot; STYLE=&quot;float: right; background-color: white; padding: 0 0 5px 5px;&quot;/&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#244;le.&lt;/b&gt; Les arcanistes &#233;tudient toutes les magies. Ils sont toujours &#224; l’aff&#251;t de nouvelles formes de magie, pour comprendre comment elles fonctionnent et, dans bien des cas, pour puiser dans leurs &#233;nergies afin de satisfaire leurs besoins. On consid&#232;re souvent les arcanistes comme des gens t&#233;m&#233;raires qui se pr&#233;occupent plus de la puissance magique en elle-m&#234;me que des cons&#233;quences qu’un tel pouvoir provoque.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Classes m&#232;res.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ensorceleur&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;magicien&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; Tous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;s de vie.&lt;/b&gt; d6.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Argent de d&#233;part.&lt;/b&gt; 2d6 x 10 po (moyenne 70 po).&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Comp&#233;tences de classe&lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_9&quot; href=&quot;#Comp&#233;tences_de_classe_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les comp&#233;tences de l&#39;arcaniste sont les suivantes : &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (toutes) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; (Int),  &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d&#39;objets magiques&lt;/a&gt; (Cha)  et &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; (Dex).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Points de comp&#233;tence par niveau.&lt;/b&gt; 2 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Descriptif de la classe&lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_10&quot; href=&quot;#Descriptif_de_la_classe_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les aptitudes de l&#39;arcaniste sont d&#233;crites ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;L’arcaniste est form&#233; au maniement de toutes les armes courantes mais pas au port des armures ni des boucliers. Les armures g&#234;nent les mouvements de l’arcaniste et risquent de faire &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#RISQUEECHECPROFANE&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;&#233;chouer ses sorts &#224; composante gestuelle&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot;&gt;&lt;caption&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SORTSPREPARESDELARCANISTE&quot; href=&quot;#SORTSPREPARESDELARCANISTE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;Sorts d&#39;arcaniste pr&#233;par&#233;s&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td COLSPAN=&quot;10&quot; CLASS=&quot;avecsoustitre gauche&quot;&gt;Sorts pr&#233;par&#233;s&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;9e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SORTS&quot; href=&quot;#SORTS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;L’arcaniste lance des sorts profanes issus de la liste de &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Densorceleursmagiciens.html&quot; title=&quot;Liste des sorts d&amp;#39;arcaniste/ensorceleur/magicien&quot;&gt;Liste des sorts d&#39;ensorceleurs/magiciens&lt;/a&gt;. Il doit &lt;a class=&quot;pagelink&quot; href=&quot;Magie-Profane.html&quot; title=&quot;La magie profane&quot;&gt;pr&#233;parer ses sorts&lt;/a&gt; &#224; l’avance mais, contrairement aux magiciens, il ne les d&#233;pense pas quand il les lance. Il peut lancer n’importe quel sort pr&#233;par&#233; en consommant un &lt;a class=&quot;pagelink&quot; href=&quot;Emplacement-De-Sort.html&quot; title=&quot;emplacement de sort&quot;&gt;emplacement de sort&lt;/a&gt; du niveau requis, &#224; condition qu’il lui en reste.&lt;br /&gt;&lt;br /&gt;Pour apprendre, pr&#233;parer ou lancer un sort, l’arcaniste doit avoir une valeur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; au moins &#233;gale &#224; 10 + niveau du sort. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; contre les sorts de l’arcaniste est de 10 + niveau du sort + modificateur d’Intelligence de l’arcaniste.&lt;br /&gt;&lt;br /&gt;Chaque jour, un arcaniste ne peut lancer qu’un nombre limit&#233; de sorts de chaque niveau. Le nombre de sorts disponibles chaque jour est indiqu&#233; dans la table ci-dessus.&lt;br /&gt;&lt;br /&gt;De plus, il re&#231;oit des &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#TABLEAUCARACTERISTIQUES&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;sorts suppl&#233;mentaires&lt;/a&gt; en fonction de sa valeur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;L’arcaniste peut conna&#238;tre autant de sorts qu’il veut mais, chaque jour, il ne peut en pr&#233;parer qu’un nombre limit&#233;. Au
+niveau 1, il peut, chaque jour, pr&#233;parer quatre sorts de niveau 0 et deux de niveau 1. &#192; chaque fois que l’arcaniste gagne un niveau dans sa classe, il peut pr&#233;parer un peu plus de sorts chaque jour, comme indiqu&#233; dans la table &lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#TABLEARCANISTE&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt; des sorts journaliers de l&#39;arcaniste&lt;/a&gt;. Contrairement au nombre de sorts que l’arcaniste lance quotidiennement, le nombre de sorts qu’il pr&#233;pare chaque jour ne d&#233;pend pas de son Intelligence.&lt;br /&gt;&lt;br /&gt;Chez l’arcaniste, les &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html&quot; title=&quot;Les dons&quot;&gt;dons&lt;/a&gt; et effets qui modifient habituellement le nombre de sorts connus modifient &#224; la place le nombre de sorts pr&#233;par&#233;s chaque jour.&lt;br /&gt;&lt;br /&gt;L’arcaniste doit choisir et pr&#233;parer ses sorts &#224; l’avance, en se reposant pendant 8 heures et en consacrant 1 heure &#224; l’&#233;tude de son grimoire. C’est lors de cette &#233;tude qu’il d&#233;cide quels sorts pr&#233;parer et qu’il r&#233;initialise le nombre d’emplacements de sorts disponibles pour la journ&#233;e. &lt;br /&gt;&lt;br /&gt;L’arcaniste peut appliquer les &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html&quot; title=&quot;Les dons&quot;&gt;dons&lt;/a&gt; de m&#233;tamagie qu’il ma&#238;trise &#224; ses sorts pr&#233;par&#233;s quand il les lance, comme le ferait un &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt;, avec la m&#234;me augmentation de la dur&#233;e d’incantation (voir Sorts spontan&#233;s et &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONMETAMAGIE&quot; title=&quot;Les dons&quot;&gt;dons de m&#233;tamagie&lt;/a&gt;). Cependant, il peut aussi pr&#233;parer un sort avec un don de m&#233;tamagie connu et le lancer sans augmentation de la dur&#233;e d’incantation, comme le ferait un magicien. Il ne peut pas combiner ces deux options (un sort pr&#233;par&#233; avec un don de m&#233;tamagie ne peut pas &#234;tre modifi&#233; par un don de m&#233;tamagie au moment de l’incantation, &#224; moins que l’arcaniste ne dispose de l’&lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html#METAMIXAGE&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;exploitation d’arcaniste m&#233;tamixage&lt;/a&gt; ).&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TOURDEMAGIE&quot; href=&quot;#TOURDEMAGIE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TOURSDEMAGIE&quot; href=&quot;#TOURSDEMAGIE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Tour de magie&lt;a class=&quot;headeranchor&quot; id=&quot;Tour_de_magie_2&quot; href=&quot;#Tour_de_magie_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; Chaque jour, un arcaniste peut pr&#233;parer le nombre de tours de magie (ou sort de niveau 0) indiqu&#233; dans la table des sorts journaliers. Il les lance comme les autres mais ils ne consomment pas d’emplacement de sort. &lt;br /&gt;&lt;br /&gt;Comme les autres sorts, ceux-ci ne sont pas d&#233;pens&#233;s une fois lanc&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;GRIMOIRE&quot; href=&quot;#GRIMOIRE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Grimoire&lt;a class=&quot;headeranchor&quot; id=&quot;Grimoire_3&quot; href=&quot;#Grimoire_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;L’arcaniste doit &#233;tudier son grimoire chaque jour pour pr&#233;parer ses sorts. Il ne peut pas pr&#233;parer un sort qui ne figure pas dedans, hormis &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt; que tous les arcanistes savent pr&#233;parer de m&#233;moire.&lt;br /&gt;&lt;br /&gt;L’arcaniste commence le jeu avec un grimoire contenant tous les sorts d’ensorceleur/magicien de niveau 0 et trois sorts de niveau 1 de son choix. Il rajoute un nombre de sorts de niveau 1 &#233;gal &#224; son modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&#192; chaque fois qu’il gagne un niveau dans la classe d’arcaniste, il apprend deux nouveaux sorts (d’un niveau qui lui permet de les lancer, en tenant compte de son niveau de classe nouvellement augment&#233;).&lt;br /&gt;&lt;br /&gt;Il peut ajouter des sorts issus du grimoire d’autres magiciens ou d&#39;autres arcanistes au sien quand il le d&#233;sire (voir section du wiki &lt;a class=&quot;pagelink&quot; href=&quot;Magie-Profane.html#Ajout_de_sorts_au_grimoire_1&quot; title=&quot;La magie profane&quot;&gt;d&#233;di&#233;e &#224; ce sujet&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;RESERVOIRARCANIQUE&quot; href=&quot;#RESERVOIRARCANIQUE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;R&#233;servoir arcanique&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;servoir_arcanique_4&quot; href=&quot;#R&#233;servoir_arcanique_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;L’arcaniste dispose d’une r&#233;serve d’&#233;nergie magique inn&#233;e dans laquelle il puise pour alimenter ses exploitations et am&#233;liorer ses sorts. Le r&#233;servoir arcanique de l’arcaniste contient un nombre maximum de points d’&#233;nergie magique &#233;gal &#224; 3 + niveau de l’arcaniste. &lt;br /&gt;&lt;br /&gt;Chaque jour, le r&#233;servoir se remplit de 3 +1/2 niveau de l’arcaniste points d’&#233;nergie magique brute quand l’arcaniste pr&#233;pare ses sorts. Les points de la veille sont perdus. Il peut r&#233;cup&#233;rer des points gr&#226;ce &#224; l’aptitude de classe absorption de sorts et gr&#226;ce &#224; certaines exploitations d’arcaniste. Le r&#233;servoir arcanique est incapable de contenir plus de points que le maximum indiqu&#233; pr&#233;c&#233;demment. Les points en exc&#232;s sont perdus.&lt;br /&gt;&lt;br /&gt;Les points du r&#233;servoir arcanique servent &#224; alimenter nombre des pouvoirs d’arcaniste. De plus, l’arcaniste peut d&#233;penser un point de son r&#233;servoir, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, &#224; chaque fois qu’il lance un sort d’arcaniste. Dans ce cas, il augmente son &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; de 1 ou le DD du sort de 1. Il ne peut pas d&#233;penser plus d’un point du r&#233;servoir pour am&#233;liorer ainsi un m&#234;me sort.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;EXPLOITATION&quot; href=&quot;#EXPLOITATION&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Exploitation d&#39;arcaniste&lt;a class=&quot;headeranchor&quot; id=&quot;Exploitation_darcaniste_5&quot; href=&quot;#Exploitation_darcaniste_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;En contournant et parfois en brisant les r&#232;gles de la magie, l’arcaniste apprend &#224; exploiter les vides et les exceptions dans les lois r&#233;gissant les arts occultes. Gr&#226;ce &#224; certaines exploitations, il d&#233;mant&#232;le diverses formes de magie et ajoute leur essence &#224; son r&#233;servoir arcanique. &lt;br /&gt;&lt;br /&gt;Au niveau 1 puis tous les niveaux impairs, l’arcaniste apprend une nouvelle exploitation arcanique, &#224; choisir dans la liste qui suit.&lt;br /&gt;&lt;br /&gt;Il ne peut pas choisir une m&#234;me exploitation &#224; deux reprises et ne peut pas changer celles qu’il a choisies. La plupart des exploitations fonctionnent en d&#233;pensant des points du r&#233;servoir arcanique. &lt;br /&gt;&lt;br /&gt;Sauf indication contraire, le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les exploitations arcaniques est de 10 +1/2 niveau de l’arcaniste + modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; de l’arcaniste.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;liste des exploitations d&#39;arcaniste&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ABSORPTIONDESORTS&quot; href=&quot;#ABSORPTIONDESORTS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Absorption de sorts (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Absorption_de_sorts_Sur_6&quot; href=&quot;#Absorption_de_sorts_Sur_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; 
+Au niveau 1, l’arcaniste peut d&#233;penser un emplacement de sort d’arcaniste disponible par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;. Il peut utiliser ce pouvoir un nombre de fois par jour &#233;gal &#224; son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; (minimum 1). L’emplacement est alors indisponible pour le reste de la journ&#233;e, comme si l’arcaniste s’en &#233;tait servi pour lancer un sort. L’arcaniste ajoute alors &#224; son r&#233;servoir arcanique un nombre de points &#233;gal au niveau de l’emplacement du sort absorb&#233;. Il ne peut pas utiliser de tours de magie (sorts de niveau 0) pour utiliser cette aptitude. Les points qui d&#233;passent la limite autoris&#233;e pour le r&#233;servoir sont perdus.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;EXPLOITATIONSUPERIEURE&quot; href=&quot;#EXPLOITATIONSUPERIEURE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Exploitation sup&#233;rieure&lt;a class=&quot;headeranchor&quot; id=&quot;Exploitation_sup&#233;rieure_7&quot; href=&quot;#Exploitation_sup&#233;rieure_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; partir du niveau 11 puis tous les deux niveaux, l’arcaniste peut choisir une exploitation sup&#233;rieure au lieu d’une exploitation d’arcaniste.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html#EXPLOITATIONSUPERIEURE&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;liste des exploitations sup&#233;rieures&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SUPREMATIEMAGIQUE&quot; href=&quot;#SUPREMATIEMAGIQUE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Supr&#233;matie magique (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Supr&#233;matie_magique_Sur_8&quot; href=&quot;#Supr&#233;matie_magique_Sur_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt; 
+Au niveau 20, l’arcaniste apprend &#224; convertir son &lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html#RESERVOIRARCANIQUE&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;r&#233;servoir arcanique&lt;/a&gt; en sorts et inversement. Il peut lancer un sort pr&#233;par&#233; en d&#233;pensant un nombre de points de r&#233;servoir arcanique &#233;gal &#224; 1 + niveau du sort &#224; lancer au lieu de d&#233;penser un emplacement de sort. Quand il lance un sort de cette mani&#232;re, il consid&#232;re qu’il a deux niveaux de lanceur de sorts de plus qu’en r&#233;alit&#233; et le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt;  associ&#233;s au sort augmente de 2. Il ne peut pas d&#233;penser d’autres points de r&#233;servoir arcanique pour am&#233;liorer un sort ainsi lanc&#233;.
+]]></body>
+  <raw><![CDATA[{s:Menuclasseshybrides}
+<div class="fright">'''''Voir aussi les [[Exploitations|exploitations d'arcaniste]].'''''  
+'''''Voir aussi la [[Liste des sorts densorceleursmagiciens|liste des sorts d'arcaniste]].'''''  
+{s:PM0|arcaniste}'''Voir les archétypes de l'arcaniste'''&emsp;
+  <li ID="arcaniste" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypearcaniste}</li>
+</div>{s:MCA}''Certains lanceurs de sorts cherchent à percer les secrets de la magie et à obtenir assez de puissance pour réussir l’impossible. D’autres naissent avec des pouvoirs magiques innés et contrôlent des forces incroyables aussi facilement qu’ils respirent. D’autres encore tentent de fusionner la science des étudiants en ésotérisme avec la puissance naturelle des lanceurs de sorts innés. Ces arcanistes s’efforcent de découvrir les mystérieuses lois qui régissent la magie et de les plier à leurs désirs par leur art et leur volonté. Les arcanistes sont les façonneurs et les artisans des arcanes et aucune magie ne peut se soustraire à leur contrôle.''
+
+{| CLASS="tablo centre"
+|+ {s:Reference|TABLEARCANISTE}L'arcaniste
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" CLASS="gauche" | Spécial
+| COLSPAN="10" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 7e
+| 8e
+| 9e
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +0
+| +2
+| CLASS="gauche" | [[arcaniste#ABSORPTIONDESORTS|Absorption de sorts]], [[arcaniste#EXPLOITATION|exploitation d'arcaniste]], [[arcaniste#GRIMOIRE|grimoire]], [[arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]], [[arcaniste#TOURSDEMAGIE|tours de magie]]
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +0
+| +3
+| CLASS="gauche" | &nbsp;
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +1
+| +1
+| +1
+| +3
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +2
+| +1
+| +1
+| +4
+| CLASS="gauche" | &nbsp;
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 5
+| +2
+| +1
+| +1
+| +4
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
+| 4
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +3
+| +2
+| +2
+| +5
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 7
+| +3
+| +2
+| +2
+| +5
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]] 
+| 4
+| 4
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +4
+| +2
+| +2
+| +6
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+|-
+| 9
+| +4
+| +3
+| +3
+| +6
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
+| 4
+| 4
+| 4
+| 3
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +5
+| +3
+| +3
+| +7
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 2
+| -
+| -
+| -
+| -
+|-
+| 11
+| +5
+| +3
+| +3
+| +7
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]], [[arcaniste#EXPLOITATIONSUPERIEURE|exploitation supérieure]]
+| 4
+| 4
+| 4
+| 4
+| 3
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 12
+| +6/+1
+| +4
+| +4
+| +8
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 4
+| 2
+| -
+| -
+| -
+|-
+| 13
+| +6/+1
+| +4
+| +4
+| +8
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| -
+| -
+| -
+|- CLASS="alt"
+| 14
+| +7/+2
+| +4
+| +4
+| +9
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 2
+| -
+| -
+|-
+| 15
+| +7/+2
+| +5
+| +5
+| +9
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| -
+| -
+|- CLASS="alt"
+| 16
+| +8/+3
+| +5
+| +5
+| +10
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 2
+| -
+|-
+| 17
+| +8/+3
+| +5
+| +5
+| +10
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]] 
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| -
+|- CLASS="alt"
+| 18
+| +9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" | &nbsp;
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 2
+|-
+| 19
+| +9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+|- CLASS="alt"
+| 20
+| +10/+5
+| +6
+| +6
+| +12
+| CLASS="gauche" | [[arcaniste#SUPREMATIEMAGIQUE|Suprématie magique]]
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+|}
+
+{s:ImageDroite|Illustrations/PNJ/Enora.jpg|35%}
+
+'''Rôle.''' Les arcanistes étudient toutes les magies. Ils sont toujours à l’affût de nouvelles formes de magie, pour comprendre comment elles fonctionnent et, dans bien des cas, pour puiser dans leurs énergies afin de satisfaire leurs besoins. On considère souvent les arcanistes comme des gens téméraires qui se préoccupent plus de la puissance magique en elle-même que des conséquences qu’un tel pouvoir provoque.
+
+'''Classes mères.''' [[Ensorceleur]] et [[Magicien|magicien]].
+
+'''Alignement.''' Tous.
+
+'''Dés de vie.''' d6.
+
+'''Argent de départ.''' 2d6 x 10 po (moyenne 70 po).
+
+===Compétences de classe===
+Les compétences de l'arcaniste sont les suivantes : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (toutes) (Int), [[Estimation]] (Int),  [[Linguistique]] (Int), [[Profession]] (Sag), [[Utilisation dobjets magiques|Utilisation d'objets magiques]] (Cha)  et [[Vol]] (Dex).
+
+'''Points de compétence par niveau.''' 2 + modificateur d’[[Intelligence]].
+
+===Descriptif de la classe===
+Les aptitudes de l'arcaniste sont décrites ci-dessous.
+
+====Armes et armures====
+L’arcaniste est formé au maniement de toutes les armes courantes mais pas au port des armures ni des boucliers. Les armures gênent les mouvements de l’arcaniste et risquent de faire [[Caractéristiques des armures#RISQUEECHECPROFANE|échouer ses sorts à composante gestuelle]].
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|+ {s:Reference|SORTSPREPARESDELARCANISTE}Sorts d'arcaniste préparés
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="10" CLASS="avecsoustitre gauche" | Sorts préparés
+|- CLASS="soustitre"
+| 0 || 1er || 2e || 3e || 4e || 5e || 6e || 7e || 8e || 9e
+|- CLASS="premier"
+| 1 || 4 || 2 || - || - || - || - || - || - || - || -
+|-
+| 2 || 5 || 2 || - || - || - || - || - || - || - || -
+|-
+| 3 || 5 || 3 || - || - || - || - || - || - || - || -
+|-
+| 4 || 6 || 3 || 1 || - || - || - || - || - || - || -
+|-
+| 5 || 6 || 4 || 2 || - || - || - || - || - || - || -
+|-
+| 6 || 7 || 4 || 2 || 1 || - || - || - || - || - || -
+|-
+| 7 || 7 || 5 || 3 || 2 || - || - || - || - || - || -
+|-
+| 8 || 8 || 5 || 3 || 2 || 1 || - || - || - || - || -
+|-
+| 9 || 8 || 5 || 4 || 3 || 2 || - || - || - || - || -
+|-
+| 10 || 9 || 5 || 4 || 3 || 2 || 1 || - || - || - || -
+|-
+| 11 || 9 || 5 || 5 || 4 || 3 || 2 || - || - || - || -
+|-
+| 12 || 9 || 5 || 5 || 4 || 3 || 2 || 1 || - || - || -
+|-
+| 13 || 9 || 5 || 5 || 4 || 4 || 3 || 2 || - || - || -
+|-
+| 14 || 9 || 5 || 5 || 4 || 4 || 3 || 2 || 1 || - || -
+|-
+| 15 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 2 || - || -
+|-
+| 16 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 2 || 1 || -
+|-
+| 17 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 2 || -
+|-
+| 18 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 2 || 1
+|-
+| 19 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 3 || 2
+|-
+| 20 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 3 || 3
+|}
+</div></div>{s:Reference|SORTS}
+====Sorts====
+L’arcaniste lance des sorts profanes issus de la liste de [[Liste des sorts densorceleursmagiciens|Liste des sorts d'ensorceleurs/magiciens]]. Il doit [[Magie profane|préparer ses sorts]] à l’avance mais, contrairement aux magiciens, il ne les dépense pas quand il les lance. Il peut lancer n’importe quel sort préparé en consommant un [[emplacement de sort]] du niveau requis, à condition qu’il lui en reste.
+
+Pour apprendre, préparer ou lancer un sort, l’arcaniste doit avoir une valeur d’[[Intelligence]] au moins égale à 10 + niveau du sort. Le [[DD]] du [[jet de sauvegarde]] contre les sorts de l’arcaniste est de 10 + niveau du sort + modificateur d’Intelligence de l’arcaniste.
+
+Chaque jour, un arcaniste ne peut lancer qu’un nombre limité de sorts de chaque niveau. Le nombre de sorts disponibles chaque jour est indiqué dans la table ci-dessus.
+
+De plus, il reçoit des [[Caractéristiques#TABLEAUCARACTERISTIQUES|sorts supplémentaires]] en fonction de sa valeur d’[[Intelligence]].
+
+L’arcaniste peut connaître autant de sorts qu’il veut mais, chaque jour, il ne peut en préparer qu’un nombre limité. Au
+niveau 1, il peut, chaque jour, préparer quatre sorts de niveau 0 et deux de niveau 1. À chaque fois que l’arcaniste gagne un niveau dans sa classe, il peut préparer un peu plus de sorts chaque jour, comme indiqué dans la table [[arcaniste#TABLEARCANISTE| des sorts journaliers de l'arcaniste]]. Contrairement au nombre de sorts que l’arcaniste lance quotidiennement, le nombre de sorts qu’il prépare chaque jour ne dépend pas de son Intelligence.
+
+Chez l’arcaniste, les [[dons]] et effets qui modifient habituellement le nombre de sorts connus modifient à la place le nombre de sorts préparés chaque jour.
+
+L’arcaniste doit choisir et préparer ses sorts à l’avance, en se reposant pendant 8 heures et en consacrant 1 heure à l’étude de son grimoire. C’est lors de cette étude qu’il décide quels sorts préparer et qu’il réinitialise le nombre d’emplacements de sorts disponibles pour la journée. 
+
+L’arcaniste peut appliquer les [[dons]] de métamagie qu’il maîtrise à ses sorts préparés quand il les lance, comme le ferait un [[ensorceleur]], avec la même augmentation de la durée d’incantation (voir Sorts spontanés et [[Dons#DONMETAMAGIE|dons de métamagie]]). Cependant, il peut aussi préparer un sort avec un don de métamagie connu et le lancer sans augmentation de la durée d’incantation, comme le ferait un magicien. Il ne peut pas combiner ces deux options (un sort préparé avec un don de métamagie ne peut pas être modifié par un don de métamagie au moment de l’incantation, à moins que l’arcaniste ne dispose de l’[[Exploitations#METAMIXAGE|exploitation d’arcaniste métamixage]] ).
+
+{s:Reference|TOURDEMAGIE}{s:Reference|TOURSDEMAGIE}
+====Tour de magie====
+ Chaque jour, un arcaniste peut préparer le nombre de tours de magie (ou sort de niveau 0) indiqué dans la table des sorts journaliers. Il les lance comme les autres mais ils ne consomment pas d’emplacement de sort. 
+
+Comme les autres sorts, ceux-ci ne sont pas dépensés une fois lancés.
+
+{s:Reference|GRIMOIRE}
+====Grimoire====
+L’arcaniste doit étudier son grimoire chaque jour pour préparer ses sorts. Il ne peut pas préparer un sort qui ne figure pas dedans, hormis ''[[lecture de la magie]]'' que tous les arcanistes savent préparer de mémoire.
+
+L’arcaniste commence le jeu avec un grimoire contenant tous les sorts d’ensorceleur/magicien de niveau 0 et trois sorts de niveau 1 de son choix. Il rajoute un nombre de sorts de niveau 1 égal à son modificateur d’[[Intelligence]].
+
+À chaque fois qu’il gagne un niveau dans la classe d’arcaniste, il apprend deux nouveaux sorts (d’un niveau qui lui permet de les lancer, en tenant compte de son niveau de classe nouvellement augmenté).
+
+Il peut ajouter des sorts issus du grimoire d’autres magiciens ou d'autres arcanistes au sien quand il le désire (voir section du wiki [[Magie profane#Ajout_de_sorts_au_grimoire_1|dédiée à ce sujet]]).
+
+{s:Reference|RESERVOIRARCANIQUE}
+====Réservoir arcanique====
+L’arcaniste dispose d’une réserve d’énergie magique innée dans laquelle il puise pour alimenter ses exploitations et améliorer ses sorts. Le réservoir arcanique de l’arcaniste contient un nombre maximum de points d’énergie magique égal à 3 + niveau de l’arcaniste. 
+
+Chaque jour, le réservoir se remplit de 3 +1/2 niveau de l’arcaniste points d’énergie magique brute quand l’arcaniste prépare ses sorts. Les points de la veille sont perdus. Il peut récupérer des points grâce à l’aptitude de classe absorption de sorts et grâce à certaines exploitations d’arcaniste. Le réservoir arcanique est incapable de contenir plus de points que le maximum indiqué précédemment. Les points en excès sont perdus.
+
+Les points du réservoir arcanique servent à alimenter nombre des pouvoirs d’arcaniste. De plus, l’arcaniste peut dépenser un point de son réservoir, par une [[action libre]], à chaque fois qu’il lance un sort d’arcaniste. Dans ce cas, il augmente son [[NLS|niveau de lanceur de sorts]] de 1 ou le DD du sort de 1. Il ne peut pas dépenser plus d’un point du réservoir pour améliorer ainsi un même sort.
+
+{s:Reference|EXPLOITATION}
+====Exploitation d'arcaniste====
+En contournant et parfois en brisant les règles de la magie, l’arcaniste apprend à exploiter les vides et les exceptions dans les lois régissant les arts occultes. Grâce à certaines exploitations, il démantèle diverses formes de magie et ajoute leur essence à son réservoir arcanique. 
+
+Au niveau 1 puis tous les niveaux impairs, l’arcaniste apprend une nouvelle exploitation arcanique, à choisir dans la liste qui suit.
+
+Il ne peut pas choisir une même exploitation à deux reprises et ne peut pas changer celles qu’il a choisies. La plupart des exploitations fonctionnent en dépensant des points du réservoir arcanique. 
+
+Sauf indication contraire, le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] contre les exploitations arcaniques est de 10 +1/2 niveau de l’arcaniste + modificateur de [[Charisme]] de l’arcaniste.
+
+''Voir la [[Exploitations|liste des exploitations d'arcaniste]].''
+
+{s:Reference|ABSORPTIONDESORTS}
+====Absorption de sorts (Sur)==== 
+Au niveau 1, l’arcaniste peut dépenser un emplacement de sort d’arcaniste disponible par une [[action de mouvement]]. Il peut utiliser ce pouvoir un nombre de fois par jour égal à son modificateur de [[Charisme]] (minimum 1). L’emplacement est alors indisponible pour le reste de la journée, comme si l’arcaniste s’en était servi pour lancer un sort. L’arcaniste ajoute alors à son réservoir arcanique un nombre de points égal au niveau de l’emplacement du sort absorbé. Il ne peut pas utiliser de tours de magie (sorts de niveau 0) pour utiliser cette aptitude. Les points qui dépassent la limite autorisée pour le réservoir sont perdus.
+
+{s:Reference|EXPLOITATIONSUPERIEURE}
+====Exploitation supérieure====
+À partir du niveau 11 puis tous les deux niveaux, l’arcaniste peut choisir une exploitation supérieure au lieu d’une exploitation d’arcaniste.
+
+''Voir la [[Exploitations#EXPLOITATIONSUPERIEURE|liste des exploitations supérieures]].''
+
+{s:Reference|SUPREMATIEMAGIQUE}
+====Suprématie magique (Sur)==== 
+Au niveau 20, l’arcaniste apprend à convertir son [[Arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]] en sorts et inversement. Il peut lancer un sort préparé en dépensant un nombre de points de réservoir arcanique égal à 1 + niveau du sort à lancer au lieu de dépenser un emplacement de sort. Quand il lance un sort de cette manière, il considère qu’il a deux niveaux de lanceur de sorts de plus qu’en réalité et le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]]  associés au sort augmente de 2. Il ne peut pas dépenser d’autres points de réservoir arcanique pour améliorer un sort ainsi lancé.]]></raw>
+  <fullName>Pathfinder-RPG.Arcaniste</fullName>
+</wikiPage>

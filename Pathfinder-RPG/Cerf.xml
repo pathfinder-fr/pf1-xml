@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Animal de troupeau, Cerf</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2020-09-17 19:14:07Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Antilope</link><link>Pathfinder-RPG.Archon cervidé</link><link>Pathfinder-RPG.Auroch</link><link>Pathfinder-RPG.Bélier</link><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Bison</link><link>Pathfinder-RPG.Bracelets de la traque éternelle</link><link>Pathfinder-RPG.Cerf</link><link>Pathfinder-RPG.Dromadaire</link><link>Pathfinder-RPG.Élan</link><link>Pathfinder-RPG.Élan des rivières</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Girafe</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Temp-bestiaire4</link><link>Pathfinder-RPG.Temp-Nouvelles règles de convocation</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Charge puissante</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Antilope</link><link>Pathfinder-RPG.Auroch</link><link>Pathfinder-RPG.Bélier</link><link>Pathfinder-RPG.Bison</link><link>Pathfinder-RPG.Cerf</link><link>Pathfinder-RPG.Dromadaire</link><link>Pathfinder-RPG.Élan</link><link>Pathfinder-RPG.Élan des rivières</link><link>Pathfinder-RPG.Girafe</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cerf&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4 page 12&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 13, pris au d&#233;pourvu 10 (Dex +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 15 (2d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; bois, +2 (1d6+1) et 2 sabots, -3 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt;  &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante&quot;&gt;charge puissante&lt;/a&gt; (corne, 1d4+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 15 (19 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Acrobaties)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terrestre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple, ou troupeau (3-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes d&#39;animal de troupeau&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antilope.html&quot; title=&quot;Animal de troupeau, Antilope&quot;&gt;Antilope&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1/2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Auroch.html&quot; title=&quot;Animal de troupeau, Auroch&quot;&gt;Auroch&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;lier.html&quot; title=&quot;Animal de troupeau, B&#233;lier&quot;&gt;B&#233;lier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bison.html&quot; title=&quot;Animal de troupeau, Bison&quot;&gt;Bison&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cerf.html&quot; title=&quot;Animal de troupeau, Cerf&quot;&gt;Cerf&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dromadaire.html&quot; title=&quot;Animal de troupeau, Dromadaire&quot;&gt;Dromadaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;lan.html&quot; title=&quot;Animal de troupeau, &#201;lan&quot;&gt;&#201;lan&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;lan-Des-Rivi&#232;res.html&quot; title=&quot;Animal de troupeau, &#201;lan des rivi&#232;res&quot;&gt;&#201;lan des rivi&#232;res&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Girafe.html&quot; title=&quot;Animal de troupeau, Girafe&quot;&gt;Girafe&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Gracieux et majestueux, ce puissant animal est couronn&#233; de grands
+bois.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;V&#233;ritables seigneurs des
+&#233;tendues sauvages, les cerfs
+foulent avec gr&#226;ce les prairies
+et les fourr&#233;s des for&#234;ts les plus
+profondes. Vivant sous tous les climats
+et dans la plupart des environnements, ils
+forment des troupeaux aux liens tr&#232;s &#233;troits
+pour se prot&#233;ger mutuellement. Ces cr&#233;atures
+sont souvent victimes des pr&#233;dateurs et
+beaucoup d’humano&#239;des les chassent pour
+leur viande et leur peau. Ce ne sont pas des
+mangeurs difficiles : ils se nourrissent de toutes
+sortes de v&#233;g&#233;taux. Dans les r&#233;gions o&#249; vivent des
+humano&#239;des, les cerfs sont des plaies en cela qu’ils
+paissent dans les champs et d&#233;truisent les
+jardins &#224; la recherche de nourriture.
+Le profil ci-dessus pr&#233;sente un cerf
+(m&#226;le). Contrairement au caribou
+et aux autres animaux de m&#234;me
+type, il est tr&#232;s rare que la
+biche porte des bois : elle n’a
+donc pas d’attaque de bois. Les
+cerfs mesurent environ 1,80
+m&#232;tre de long, du museau &#224; la
+queue, et peuvent peser jusqu’&#224;
+175 kilogrammes.&lt;br /&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Le cerf comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_cerf_comme_compagnon_animal_0&quot; href=&quot;#Le_cerf_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;b&gt;Attaque&lt;/b&gt; corne (1d4) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 10, Dex 19, Con 14, Int 2, Sag 15, Cha 8 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 4.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Attaque&lt;/b&gt; corne (1d6) et 2 sabots (1d4) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +2, Dex -2, Con +2.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Cerf|FP 1}
+{s:pucem|Animal|Forêt-jungle|Tempéré}
+{s:BDTexte|''Source : Bestiaire 4 page 12''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[vision nocturne]], [[odorat]] ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 13, pris au dépourvu 10 (Dex +3)}
+{s:BDTexte|'''pv''' 15 (2d8+6)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +6, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m (10 {s:c})}
+{s:BDTexte|'''Corps à corps''' bois, +2 (1d6+1) et 2 sabots, -3 (1d4)}
+{s:BDTexte|'''Attaque spéciale'''  [[charge puissante]] (corne, 1d4+2)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 17, '''Con''' 16, '''Int''' 2, '''Sag''' 15, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 15 (19 contre le croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Course]], [[Talent]] (Acrobaties)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +10, [[Perception]] +6}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terrestre}
+{s:BDTexte|'''Organisation''' solitaire, couple, ou troupeau (3-20)}
+{s:BDTexte|'''Trésor''' aucun}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes d'animal de troupeau
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Antilope]] || 1/2
+|-
+| [[Auroch]] || 2
+|-
+| [[Bélier]] || 1
+|-
+| [[Bison]] || 4
+|-
+| [[Cerf]] || 1
+|-
+| [[Dromadaire]] || 1
+|-
+| [[Élan]] || 1
+|-
+| [[Élan des rivières]] || 2
+|-
+| [[Girafe]] || 3
+|}
+</div>''Gracieux et majestueux, ce puissant animal est couronné de grands
+bois.''
+
+Véritables seigneurs des
+étendues sauvages, les cerfs
+foulent avec grâce les prairies
+et les fourrés des forêts les plus
+profondes. Vivant sous tous les climats
+et dans la plupart des environnements, ils
+forment des troupeaux aux liens très étroits
+pour se protéger mutuellement. Ces créatures
+sont souvent victimes des prédateurs et
+beaucoup d’humanoïdes les chassent pour
+leur viande et leur peau. Ce ne sont pas des
+mangeurs difficiles : ils se nourrissent de toutes
+sortes de végétaux. Dans les régions où vivent des
+humanoïdes, les cerfs sont des plaies en cela qu’ils
+paissent dans les champs et détruisent les
+jardins à la recherche de nourriture.
+Le profil ci-dessus présente un cerf
+(mâle). Contrairement au caribou
+et aux autres animaux de même
+type, il est très rare que la
+biche porte des bois : elle n’a
+donc pas d’attaque de bois. Les
+cerfs mesurent environ 1,80
+mètre de long, du museau à la
+queue, et peuvent peser jusqu’à
+175 kilogrammes.
+
+
+====Le cerf comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' P ; '''Vitesse''' 15 m (10 {s:c}) ; '''Attaque''' corne (1d4) ; '''Caractéristiques''' For 10, Dex 19, Con 14, Int 2, Sag 15, Cha 8 ; '''Particularités''' [[odorat]], [[vision nocturne]].
+
+'''Développement au niveau 4.''' '''Taille''' M ; '''Attaque''' corne (1d6) et 2 sabots (1d4) ; '''Caractéristiques''' For +2, Dex -2, Con +2.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Cerf</fullName>
+</wikiPage>

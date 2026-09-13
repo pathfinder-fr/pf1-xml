@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>PNJ - Les devins</title>
+  <categories><category>Pathfinder-RPG.Classe de PNJ</category><category>Pathfinder-RPG.Src Guide du maître</category></categories>
+  <lastModified>2015-11-24 22:19:08Z</lastModified>
+  <version>26</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Galerie de PNJ</link><link>Pathfinder-RPG.Guide du maître (Contenu)</link><link>Pathfinder-RPG.PNJ aventuriers</link><link>Pathfinder-RPG.PNJ devins</link><link>Pathfinder-RPG.PNJ érudits</link><link>Pathfinder-RPG.PNJ hérétiques</link><link>Pathfinder-RPG.PNJ mercenaires</link><link>Pathfinder-RPG.PNJ routes</link><link>Pathfinder-RPG.PNJ temples</link><link>Pathfinder-RPG.PNJ tribus</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Bénédiction</link><link>Pathfinder-RPG.Brume de dissimulation</link><link>Pathfinder-RPG.Mains brûlantes</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Fatigue</link><link>Pathfinder-RPG.Son imaginaire</link><link>Pathfinder-RPG.Écriture de parchemins</link><link>Pathfinder-RPG.Persuasion</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Frayeur</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.Injonction</link><link>Pathfinder-RPG.PNJ temples</link><link>Pathfinder-RPG.PNJ rues</link><link>Pathfinder-RPG.PNJ routes</link><link>Pathfinder-RPG.PNJ hérétiques</link><link>Pathfinder-RPG.PNJ érudits</link><link>Pathfinder-RPG.PNJ criminels</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Domaine du Repos</link><link>Pathfinder-RPG.Toucher apaisant</link><link>Pathfinder-RPG.Communication avec les morts</link><link>Pathfinder-RPG.Main du berger</link><link>Pathfinder-RPG.malédiction</link><link>Pathfinder-RPG.Arme spirituelle</link><link>Pathfinder-RPG.Augure</link><link>Pathfinder-RPG.Préservation des morts</link><link>Pathfinder-RPG.Silence</link><link>Pathfinder-RPG.Compréhension des langages</link><link>Pathfinder-RPG.Perception de la mort</link><link>Pathfinder-RPG.Sanctuaire</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Lecture de la magie</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Art du bouclier</link><link>Pathfinder-RPG.Canalisation supplémentaire</link><link>Pathfinder-RPG.Renvoi des morts-vivants</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.PNJ devins</link><link>Pathfinder-RPG.PNJ terres sauvages</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.PNJ croisés</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Fou rire</link><link>Pathfinder-RPG.Image silencieuse</link><link>Pathfinder-RPG.Ventriloquie</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Message</link><link>Pathfinder-RPG.Repérage</link><link>Pathfinder-RPG.résistance</link><link>Pathfinder-RPG.Armure de mage</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Enchevêtrement</link><link>Pathfinder-RPG.Hypnose</link><link>Pathfinder-RPG.Hébétement</link><link>Pathfinder-RPG.Prestidigitation</link><link>Pathfinder-RPG.Rayon de givre</link><link>Pathfinder-RPG.Signature magique</link><link>Pathfinder-RPG.Aptitude magique</link><link>Pathfinder-RPG.Dispense de composantes matérielles</link><link>Pathfinder-RPG.Représentation supplémentaire</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Serviteur invisible</link><link>Pathfinder-RPG.Bouche magique</link><link>Pathfinder-RPG.Corde animée</link><link>Pathfinder-RPG.Aura magique</link><link>Pathfinder-RPG.Effacement</link></outLinks>
+  <body><![CDATA[&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide du ma&#238;tre (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gamemastery Guide/Guide du ma&#238;tre&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGDM.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;Derri&#232;re le voile de la r&#233;alit&#233; se tapissent des v&#233;rit&#233;s et des myst&#232;res cach&#233;s aux yeux des mortels. Cependant, certains poss&#232;dent l’intuition et le talent n&#233;cessaires pour entrevoir ce royaume &#224; la fois terrible et merveilleux. Ces devins touch&#233;s par les dieux, la magie ou la folie se tiennent &#224; l’&#233;cart du reste des mortels. Ils ressentent leur pouvoir comme un don ou une mal&#233;diction, mais tous explorent les trames complexes du destin et entrent en contact avec les entit&#233;s de l’au-del&#224;.&lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ANNONCIATEURDEMALHEURS&quot; href=&quot;#ANNONCIATEURDEMALHEURS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Annonciateur de malheurs&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;adepte&lt;/a&gt; 3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 11, contact 9, pris au d&#233;pourvu 11 (armure +2, Dex –1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 10 (3d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +0, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; serpe, +1 (1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; dard, +0 (1d4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;sorts d’adepte pr&#233;par&#233;s&lt;/b&gt; (NLS 3 ; Concentration +5)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;up&gt;er&lt;/sup&gt;  — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction.html&quot; title=&quot;B&#233;n&#233;diction&quot;&gt;b&#233;n&#233;diction&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Brume-De-Dissimulation.html&quot; title=&quot;Brume de dissimulation&quot;&gt;brume de dissimulation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mains-Br&#251;lantes.html&quot; title=&quot;Mains br&#251;lantes&quot;&gt;mains br&#251;lantes&lt;/a&gt;&lt;/i&gt; (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0&lt;up&gt;e&lt;/sup&gt; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assistance-Divine.html&quot; title=&quot;Assistance divine&quot;&gt;assistance divine&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fatigue.html&quot; title=&quot;Fatigue&quot;&gt;fatigue&lt;/a&gt;&lt;/i&gt; (DD 12), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt;&lt;/i&gt; (DD 12)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 11, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +1, &lt;b&gt;DMD&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;criture-De-Parchemins.html&quot; title=&quot;&#201;criture de parchemins&quot;&gt;&#201;criture de parchemins&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Persuasion.html&quot; title=&quot;Persuasion&quot;&gt;Persuasion&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Intimidation)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +3, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (scribe) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (d&#233;clamation) +2, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt;  invocation de familier (crapaud)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; parchemins de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frayeur.html&quot; title=&quot;Frayeur&quot;&gt;frayeur&lt;/a&gt;&lt;/i&gt; (4), de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt; (4), de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil.html&quot; title=&quot;Sommeil&quot;&gt;sommeil&lt;/a&gt;&lt;/i&gt; (4) et d’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Injonction.html&quot; title=&quot;Injonction&quot;&gt;injonction&lt;/a&gt;&lt;/i&gt; (4) ; &lt;b&gt;Autre &#233;quipement&lt;/b&gt; armure de cuir, serpe, dards (4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Un annonciateur de malheurs peut donner aux PJ une r&#233;putation terrifiante et ainsi leur octroyer pendant 1 semaine un bonus de circonstances de +2 aux tests d’Intimidation effectu&#233;s dans une communaut&#233;. Il peut aussi fabriquer des parchemins avec une r&#233;duction de prix de 10%.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+Les annonciateurs de malheurs sont des d&#233;magogues qui haranguent les foules sur les places des villes en pr&#233;disant cataclysmes, destruction et grands malheurs, ou en distribuant des pamphlets dans les communaut&#233;s plus &#233;rudites. Ils peuvent &#234;tre &#224; la t&#234;te d’un culte de la personnalit&#233; mais prennent surtout plaisir &#224; s’assurer que les autres soient malheureux.&lt;br /&gt;&lt;br /&gt;Les annonciateurs de malheurs peuvent servir de chamanes primitifs, d’adorateurs dans des cultes malfaisants, de sorciers ou de &#171; pr&#234;tres &#187; hargneux dans les villages &#233;loign&#233;s situ&#233;s aux fronti&#232;res de la civilisation, l&#224; o&#249; il n’y a aucun clerg&#233; organis&#233;.&lt;br /&gt;&lt;br /&gt;Un annonciateur de malheurs est souvent accompagn&#233; de deux &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Temples.html#ACOLYTE&quot; title=&quot;PNJ - Les temples&quot;&gt;acolytes&lt;/a&gt; ou de deux &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Rues.html#MENDIANT&quot; title=&quot;PNJ - Les rues&quot;&gt;mendiants&lt;/a&gt; qui lui servent de disciples (FP 3 ou 4). Il peut travailler avec un groupe de trois &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Routes.html#VOTAGEUR&quot; title=&quot;PNJ - Les routes&quot;&gt;voyageurs&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-H&#233;r&#233;tiques.html#ADORATEUR&quot; title=&quot;PNJ - Les h&#233;r&#233;tiques&quot;&gt;adorateurs&lt;/a&gt; (FP 6) ou &#234;tre l’apprenti d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-&#201;rudits.html#MAGICIENAMATEUR&quot; title=&quot;PNJ - Les &#233;rudits&quot;&gt;magicien amateur&lt;/a&gt; (FP 5). En ville, il peut s’associer avec un gang de quatre &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#PICKPOCKET&quot; title=&quot;PNJ - Les criminels&quot;&gt;pickpockets&lt;/a&gt; (FP 4) qui s’occupent de la foule rassembl&#233;e pour l’&#233;couter parler. En rempla&#231;ant &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Intimidation) par &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Premiers secours), il devient un gu&#233;risseur la&#239;que qui pourrait accompagner un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Routes.html#PELERIN&quot; title=&quot;PNJ - Les routes&quot;&gt;p&#232;lerin&lt;/a&gt; (FP 4).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MEDIUM&quot; href=&quot;#MEDIUM&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Medium&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 11, pris au d&#233;pourvu 20 (armure +7, bouclier +3, Dex +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 22 (5d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +3, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; masse d’armes l&#233;g&#232;re, +2 (1d6–1))
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; dard, +4 (1d4–1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; canalisation d’&#233;nergie positive 7/jour (DD 14, 3d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques de domaine&lt;/b&gt; (NLS 5 ; Concentration +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+6/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Repos.html&quot; title=&quot;Domaine du Repos&quot;&gt;engourdissement&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Toucher-Apaisant.html&quot; title=&quot;Toucher apaisant&quot;&gt;toucher apaisant&lt;/a&gt;&lt;/i&gt; (1d6+5 non l&#233;tal)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;sorts de pr&#234;tre pr&#233;par&#233;s&lt;/b&gt; (NLS 5 ; concentration +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3&lt;sup&gt;e&lt;/sup&gt; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Morts.html&quot; title=&quot;Communication avec les morts&quot;&gt;communication avec les morts&lt;/a&gt;&lt;/i&gt; D, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Main-Du-Berger.html&quot; title=&quot;Main du berger&quot;&gt;main du berger&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Mal&#233;diction.html&quot; title=&quot;mal&#233;diction&quot;&gt;mal&#233;diction&lt;/a&gt;&lt;/i&gt; (DD 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+2&lt;sup&gt;e&lt;/sup&gt; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Spirituelle.html&quot; title=&quot;Arme spirituelle&quot;&gt;arme spirituelle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Augure.html&quot; title=&quot;Augure&quot;&gt;augure&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;servation-Des-Morts.html&quot; title=&quot;Pr&#233;servation des morts&quot;&gt;pr&#233;servation des morts&lt;/a&gt;&lt;/i&gt; D, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Silence.html&quot; title=&quot;Silence&quot;&gt;silence&lt;/a&gt;&lt;/i&gt; (DD 15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction.html&quot; title=&quot;B&#233;n&#233;diction&quot;&gt;b&#233;n&#233;diction&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compr&#233;hension-Des-Langages.html&quot; title=&quot;Compr&#233;hension des langages&quot;&gt;compr&#233;hension des langages&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Injonction.html&quot; title=&quot;Injonction&quot;&gt;injonction&lt;/a&gt;&lt;/i&gt; (DD 14), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Mort.html&quot; title=&quot;Perception de la mort&quot;&gt;perception de la mort&lt;/a&gt;&lt;/i&gt; D, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanctuaire.html&quot; title=&quot;Sanctuaire&quot;&gt;sanctuaire&lt;/a&gt;&lt;/i&gt; (DD 14)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assistance-Divine.html&quot; title=&quot;Assistance divine&quot;&gt;assistance divine&lt;/a&gt;&lt;/i&gt; D, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+D — sort de domaine ; &lt;b&gt;Domaines&lt;/b&gt; Communaut&#233;, Repos
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-Du-Bouclier.html&quot; title=&quot;Art du bouclier&quot;&gt;Art du bouclier&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Canalisation-Suppl&#233;mentaire.html&quot; title=&quot;Canalisation suppl&#233;mentaire&quot;&gt;Canalisation suppl&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Renvoi-Des-Morts-Vivants.html&quot; title=&quot;Renvoi des morts-vivants&quot;&gt;Renvoi des morts-vivants&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +9, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +9, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (accoucheur) +9, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; c&#233;leste, commun, infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; aura du Bien, canalisation d’&#233;nergie positive (DD 15, 4d6), gr&#226;ces (fatigu&#233;, h&#233;b&#233;t&#233;), imposition des mains (3d6, 5/jour), pacte divin (arme +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement&lt;/b&gt; &lt;i&gt;cotte de mailles +1&lt;/i&gt;, &#233;cu en bois, masse d’armes l&#233;g&#232;re, dards (2), &lt;i&gt;cape de r&#233;sistance +1&lt;/i&gt;, symbole sacr&#233; en argent, focalisateur pour les augures
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Un m&#233;dium peut lancer augure, communication avec les morts ou pr&#233;servation des morts gratuitement ou offrir des soins magiques avec une r&#233;duction de prix de 10%.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+Un  m&#233;dium est un interm&#233;diaire entre le monde des vivants et celui des morts. Il aide les morts &#224; conna&#238;tre le repos, b&#233;nit les cimeti&#232;res, assiste aux naissances et met les morts en terre. Il pr&#233;side &#233;galement les s&#233;ances qui rappellent les esprits des morts et garantit la continuit&#233; entre le pass&#233;, le pr&#233;sent et le futur de la communaut&#233;.&lt;br /&gt;&lt;br /&gt;Un  m&#233;dium peut &#234;tre un pr&#234;tre ou une sage-femme dans un village, ou encore un pr&#234;tre itin&#233;rant g&#233;n&#233;rique ou un des nombreux pr&#234;tres de bas ou moyen niveau qui travaillent dans un temple.&lt;br /&gt;&lt;br /&gt;Un m&#233;dium peut &#234;tre accompagn&#233; de deux &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Temples.html#ACOLYTE&quot; title=&quot;PNJ - Les temples&quot;&gt;acolytes&lt;/a&gt; ou d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Devins.html#ANNONCIATEURDEMALHEURS&quot; title=&quot;PNJ - Les devins&quot;&gt;annonciateur de malheurs&lt;/a&gt; (FP 5) ou encore de deux &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-H&#233;r&#233;tiques.html#ADORATEUR&quot; title=&quot;PNJ - Les h&#233;r&#233;tiques&quot;&gt;adorateurs&lt;/a&gt; (FP 6). Un m&#233;dium avec un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-&#201;rudits.html#MAGICIENAMATEUR&quot; title=&quot;PNJ - Les &#233;rudits&quot;&gt;magicien amateur&lt;/a&gt; (FP 6), un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Terres-Sauvages.html#HERMITE&quot; title=&quot;PNJ - Les terres sauvages&quot;&gt;hermite&lt;/a&gt; (FP 7) ou un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-H&#233;r&#233;tiques.html#CONJUREUR&quot; title=&quot;PNJ - Les h&#233;r&#233;tiques&quot;&gt;conjureur&lt;/a&gt; (FP 7) peut veiller sur un &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;oracle&lt;/a&gt; dans une for&#234;t ou &#234;tre un mendiant mystique itin&#233;rant. Un m&#233;dium et deux &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Temples.html#ACOLYTE&quot; title=&quot;PNJ - Les temples&quot;&gt;acolytes&lt;/a&gt; peuvent accompagner un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Temples.html#PRETRE&quot; title=&quot;PNJ - Les temples&quot;&gt;pr&#234;tre&lt;/a&gt; (FP 9) alors que cinq ou six m&#233;diums formeront l’entourage d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Crois&#233;s.html#SAINTHOMME&quot; title=&quot;PNJ - Les crois&#233;s&quot;&gt;saint homme&lt;/a&gt; (FP 12) ou d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Temples.html#HAUTPRETRE&quot; title=&quot;PNJ - Les temples&quot;&gt;haut pr&#234;tre&lt;/a&gt; (FP 13).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;DISEUSEDEBONNEAVENTURE&quot; href=&quot;#DISEUSEDEBONNEAVENTURE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Diseuse de bonne aventure&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 3 / &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt; 3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; bravoure (3 m), fermet&#233; (3 m), justice (3 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 11, contact 11, pris au d&#233;pourvu 10 (Dex +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 23 (6 DV ; 3d8+3d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +8 ; +4 contre les repr&#233;sentations bardiques et les effets de son ou de langage
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; gr&#226;ce divine +5 ; RD 5/magie ; Immunit&#233;s charme, maladies, terreur
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; dague, +2 (1d4–1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; dague, +4 (1d4–1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; repr&#233;sentation bardique 18 rounds/jour (contre-chant, distraction, fascination (DD 15), inspiration talentueuse +2, inspiration vaillante +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques de lignage&lt;/b&gt; (NLS 12 ; Concentration +17)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques de lignage&lt;/b&gt; (NLS 3 ; Concentration +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+7/jour — toucher rieur
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;sorts de barde connus&lt;/b&gt; (NLS 3 ; Concentration +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (4/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fou-Rire.html&quot; title=&quot;Fou rire&quot;&gt;fou rire&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Silencieuse.html&quot; title=&quot;Image silencieuse&quot;&gt;image silencieuse&lt;/a&gt;&lt;/i&gt; (DD15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;, &lt;/i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ventriloquie.html&quot; title=&quot;Ventriloquie&quot;&gt;ventriloquie&lt;/a&gt;&lt;i&gt; (DD15)&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lecture-De-La-Magie.html&quot; title=&quot;Lecture de la magie&quot;&gt;lecture de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Message.html&quot; title=&quot;Message&quot;&gt;message&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rep&#233;rage.html&quot; title=&quot;Rep&#233;rage&quot;&gt;rep&#233;rage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;r&#233;sistance&quot;&gt;r&#233;sistance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Son-Imaginaire.html&quot; title=&quot;Son imaginaire&quot;&gt;son imaginaire&lt;/a&gt; (DD 14)&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;sorts d’ensorceleur connus&lt;/b&gt; (NLS 3 ; Concentration +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1&lt;sup&gt;er&lt;/sup&gt; (6/jour) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Mage.html&quot; title=&quot;Armure de mage&quot;&gt;armure de mage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt; (DD15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enchev&#234;trement.html&quot; title=&quot;Enchev&#234;trement&quot;&gt;enchev&#234;trement&lt;/a&gt; (DD 15), &lt;/i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnose.html&quot; title=&quot;Hypnose&quot;&gt;hypnose&lt;/a&gt;&lt;i&gt; (DD17)&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+0 (&#224; volont&#233;) — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;b&#233;tement.html&quot; title=&quot;H&#233;b&#233;tement&quot;&gt;h&#233;b&#233;tement&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestidigitation.html&quot; title=&quot;Prestidigitation&quot;&gt;prestidigitation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Givre.html&quot; title=&quot;Rayon de givre&quot;&gt;rayon de givre&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signature-Magique.html&quot; title=&quot;Signature magique&quot;&gt;signature magique&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Lignage&lt;/b&gt; f&#233;erique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Aptitude-Magique.html&quot; title=&quot;Aptitude magique&quot;&gt;Aptitude magique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dispense-De-Composantes-Mat&#233;rielles.html&quot; title=&quot;Dispense de composantes mat&#233;rielles&quot;&gt;Dispense de composantes mat&#233;rielles&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation-Suppl&#233;mentaire.html&quot; title=&quot;Repr&#233;sentation suppl&#233;mentaire&quot;&gt;Repr&#233;sentation suppl&#233;mentaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Escamotage), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Repr&#233;sentation (sc&#232;ne))
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +7, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (d&#233;clamation) +12, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (sc&#232;ne) +16, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d’objets magiques&lt;/a&gt; +15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo, commun, draconique, sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; arcanes de lignage, d&#233;placement facilit&#233;, savoir bardique +1, versatilit&#233; artistique (sc&#232;ne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; baguette de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Serviteur-Invisible.html&quot; title=&quot;Serviteur invisible&quot;&gt;serviteur invisible&lt;/a&gt;&lt;/i&gt; (50 charges), parchemins de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouche-Magique.html&quot; title=&quot;Bouche magique&quot;&gt;bouche magique&lt;/a&gt;&lt;/i&gt;, de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compr&#233;hension-Des-Langages.html&quot; title=&quot;Compr&#233;hension des langages&quot;&gt;compr&#233;hension des langages&lt;/a&gt;&lt;/i&gt; (4), de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Corde-Anim&#233;e.html&quot; title=&quot;Corde anim&#233;e&quot;&gt;corde anim&#233;e&lt;/a&gt;&lt;/i&gt;, d’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aura-Magique.html&quot; title=&quot;Aura magique&quot;&gt;aura magique&lt;/a&gt;&lt;/i&gt; et d’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Effacement.html&quot; title=&quot;Effacement&quot;&gt;effacement&lt;/a&gt;&lt;/i&gt; ; b&#226;tons fumig&#232;nes (2) ; pierres &#224; tonnerre (2) ; Autre &#233;quipement dagues (2), &lt;i&gt;cape de r&#233;sistance +1&lt;/i&gt;, boule de cristal non magique, cartes de tarot, focalisateur pour les augures
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Une diseuse de bonne fortune peut conseiller les PJ sur la meilleure m&#233;thode pour tromper les habitants d’une communaut&#233; et ainsi leur octroyer pendant 1 semaine un bonus de circonstances de +2 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; et d’&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; dans cette zone.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:GdM}Derrière le voile de la réalité se tapissent des vérités et des mystères cachés aux yeux des mortels. Cependant, certains possèdent l’intuition et le talent nécessaires pour entrevoir ce royaume à la fois terrible et merveilleux. Ces devins touchés par les dieux, la magie ou la folie se tiennent à l’écart du reste des mortels. Ils ressentent leur pouvoir comme un don ou une malédiction, mais tous explorent les trames complexes du destin et entrent en contact avec les entités de l’au-delà.
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|ANNONCIATEURDEMALHEURS}
+{s:BDTitre|Annonciateur de malheurs|FP 1}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|Humain [[adepte|adepte]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 11, contact 9, pris au dépourvu 11 (armure +2, Dex –1)}
+{s:BDTexte|'''pv''' 10 (3d6)}
+{s:BDTexte|'''Réf''' +0, '''Vig''' +8, '''Vol''' +5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' serpe, +1 (1d6)}
+{s:BDTexte|'''A distance''' dard, +0 (1d4)}
+{s:BDTexte|'''sorts d’adepte préparés''' (NLS 3 ; Concentration +5)}
+{s:BDSorts|1<up>er</sup>  — ''[[bénédiction]]'', ''[[brume de dissimulation]]'', ''[[mains brûlantes]]'' (DD 13)}
+{s:BDSorts|0<up>e</sup> — ''[[assistance divine]]'', ''[[fatigue]]'' (DD 12), ''[[son imaginaire]]'' (DD 12)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 11, '''Dex''' 9, '''Con''' 10, '''Int''' 8, '''Sag''' 15, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +1, '''DMD''' 10}
+{s:BDTexte|'''Dons''' [[Écriture de parchemins]], [[Persuasion]], [[Talent]] (Intimidation)}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +3, [[Connaissances]] (religion) +3, [[Diplomatie]] +4, [[Intimidation]] +7, [[Perception]] +5, [[Premiers secours]] +6, [[Profession]] (scribe) +6, [[Psychologie]] +4, [[Représentation]] (déclamation) +2, [[Survie]] +6}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités'''  invocation de familier (crapaud)}
+{s:BDTexte|'''Équipement de combat''' parchemins de ''[[frayeur]]'' (4), de ''[[soins légers]]'' (4), de ''[[sommeil]]'' (4) et d’''[[injonction]]'' (4) ; '''Autre équipement''' armure de cuir, serpe, dards (4)}
+{s:BDTexte|'''Faveur''' Un annonciateur de malheurs peut donner aux PJ une réputation terrifiante et ainsi leur octroyer pendant 1 semaine un bonus de circonstances de +2 aux tests d’Intimidation effectués dans une communauté. Il peut aussi fabriquer des parchemins avec une réduction de prix de 10%.}
+</div>
+</td><td><div>
+Les annonciateurs de malheurs sont des démagogues qui haranguent les foules sur les places des villes en prédisant cataclysmes, destruction et grands malheurs, ou en distribuant des pamphlets dans les communautés plus érudites. Ils peuvent être à la tête d’un culte de la personnalité mais prennent surtout plaisir à s’assurer que les autres soient malheureux.
+
+Les annonciateurs de malheurs peuvent servir de chamanes primitifs, d’adorateurs dans des cultes malfaisants, de sorciers ou de « prêtres » hargneux dans les villages éloignés situés aux frontières de la civilisation, là où il n’y a aucun clergé organisé.
+
+Un annonciateur de malheurs est souvent accompagné de deux [[PNJ temples#ACOLYTE|acolytes]] ou de deux [[PNJ rues#MENDIANT|mendiants]] qui lui servent de disciples (FP 3 ou 4). Il peut travailler avec un groupe de trois [[PNJ routes#VOTAGEUR|voyageurs]] ou [[PNJ hérétiques#ADORATEUR|adorateurs]] (FP 6) ou être l’apprenti d’un [[PNJ érudits#MAGICIENAMATEUR|magicien amateur]] (FP 5). En ville, il peut s’associer avec un gang de quatre [[PNJ criminels#PICKPOCKET|pickpockets]] (FP 4) qui s’occupent de la foule rassemblée pour l’écouter parler. En remplaçant [[Talent]] (Intimidation) par [[Talent]] (Premiers secours), il devient un guérisseur laïque qui pourrait accompagner un [[PNJ routes#PELERIN|pèlerin]] (FP 4).
+</div></td></tr></table>
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|MEDIUM}
+{s:BDTitre|Medium|FP 4}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|Humain [[prêtre]] 5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 21, contact 11, pris au dépourvu 20 (armure +7, bouclier +3, Dex +1)}
+{s:BDTexte|'''pv''' 22 (5d8)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +5, '''Vol''' +8}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m (4 {s:c})}
+{s:BDTexte|'''Corps à corps''' masse d’armes légère, +2 (1d6–1))}
+{s:BDTexte|'''A distance''' dard, +4 (1d4–1)}
+{s:BDTexte|'''Attaque spéciale''' canalisation d’énergie positive 7/jour (DD 14, 3d6)}
+{s:BDTexte|'''Pouvoirs magiques de domaine''' (NLS 5 ; Concentration +8)}
+{s:BDTexte|6/jour — ''[[Domaine du Repos|engourdissement]]'', ''[[toucher apaisant]]'' (1d6+5 non létal)}
+{s:BDTexte|'''sorts de prêtre préparés''' (NLS 5 ; concentration +8)}
+{s:BDSorts|3<sup>e</sup> — ''[[communication avec les morts]]'' D, ''[[main du berger]]'', ''[[malédiction]]'' (DD 16)}
+{s:BDSorts|2<sup>e</sup> — ''[[arme spirituelle]]'', ''[[augure]]'', ''[[préservation des morts]]'' D, ''[[silence]]'' (DD 15)}
+{s:BDSorts|1<sup>er</sup> — ''[[bénédiction]]'', ''[[compréhension des langages]]'', ''[[injonction]]'' (DD 14), ''[[perception de la mort]]'' D, ''[[sanctuaire]]'' (DD 14)}
+{s:BDSorts|0 (à volonté) — ''[[assistance divine]]'' D, ''[[détection de la magie]]'', ''[[lecture de la magie]]'', ''[[lumière]]''}
+{s:BDSorts|D — sort de domaine ; '''Domaines''' Communauté, Repos}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 12, '''Con''' 10, '''Int''' 14, '''Sag''' 17, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +2, '''DMD''' 13}
+{s:BDTexte|'''Dons''' [[Art du bouclier]], [[Canalisation supplémentaire]], [[Renvoi des morts-vivants]], [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +6, [[Connaissances]] (plans) +9, [[Connaissances]] (religion) +9, [[Diplomatie]] +10, [[Perception]] +8, [[Premiers secours]] +11, [[Profession]] (accoucheur) +9, [[Psychologie]] +13}
+{s:BDTexte|'''Langues''' céleste, commun, infernal}
+{s:BDTexte|'''Particularités''' aura du Bien, canalisation d’énergie positive (DD 15, 4d6), grâces (fatigué, hébété), imposition des mains (3d6, 5/jour), pacte divin (arme +1)}
+{s:BDTexte|'''Équipement''' ''cotte de mailles +1'', écu en bois, masse d’armes légère, dards (2), ''cape de résistance +1'', symbole sacré en argent, focalisateur pour les augures}
+{s:BDTexte|'''Faveur''' Un médium peut lancer augure, communication avec les morts ou préservation des morts gratuitement ou offrir des soins magiques avec une réduction de prix de 10%.}
+</div>
+</td><td><div>
+Un  médium est un intermédiaire entre le monde des vivants et celui des morts. Il aide les morts à connaître le repos, bénit les cimetières, assiste aux naissances et met les morts en terre. Il préside également les séances qui rappellent les esprits des morts et garantit la continuité entre le passé, le présent et le futur de la communauté.
+
+Un  médium peut être un prêtre ou une sage-femme dans un village, ou encore un prêtre itinérant générique ou un des nombreux prêtres de bas ou moyen niveau qui travaillent dans un temple.
+
+Un médium peut être accompagné de deux [[PNJ temples#ACOLYTE|acolytes]] ou d’un [[PNJ devins#ANNONCIATEURDEMALHEURS|annonciateur de malheurs]] (FP 5) ou encore de deux [[PNJ hérétiques#ADORATEUR|adorateurs]] (FP 6). Un médium avec un [[PNJ érudits#MAGICIENAMATEUR|magicien amateur]] (FP 6), un [[PNJ terres sauvages#HERMITE|hermite]] (FP 7) ou un [[PNJ hérétiques#CONJUREUR|conjureur]] (FP 7) peut veiller sur un [[oracle]] dans une forêt ou être un mendiant mystique itinérant. Un médium et deux [[PNJ temples#ACOLYTE|acolytes]] peuvent accompagner un [[PNJ temples#PRETRE|prêtre]] (FP 9) alors que cinq ou six médiums formeront l’entourage d’un [[PNJ croisés#SAINTHOMME|saint homme]] (FP 12) ou d’un [[PNJ temples#HAUTPRETRE|haut prêtre]] (FP 13).
+</div></td></tr></table>
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|DISEUSEDEBONNEAVENTURE}
+{s:BDTitre|Diseuse de bonne aventure|FP 5}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|Humain [[barde]] 3 / [[ensorceleur]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, CN}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Perception]] +5}
+{s:BDTexte|'''Aura''' bravoure (3 m), fermeté (3 m), justice (3 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 11, contact 11, pris au dépourvu 10 (Dex +1)}
+{s:BDTexte|'''pv''' 23 (6 DV ; 3d8+3d6)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +3, '''Vol''' +8 ; +4 contre les représentations bardiques et les effets de son ou de langage}
+{s:BDTexte|'''Capacités défensives''' grâce divine +5 ; RD 5/magie ; Immunités charme, maladies, terreur}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' dague, +2 (1d4–1/19–20)}
+{s:BDTexte|'''A distance''' dague, +4 (1d4–1/19–20)}
+{s:BDTexte|'''Attaque spéciale''' représentation bardique 18 rounds/jour (contre-chant, distraction, fascination (DD 15), inspiration talentueuse +2, inspiration vaillante +1)}
+{s:BDTexte|'''Pouvoirs magiques de lignage''' (NLS 12 ; Concentration +17)}
+{s:BDTexte|À volonté — ''[[détection du Mal]]''}
+{s:BDTexte|'''Pouvoirs magiques de lignage''' (NLS 3 ; Concentration +7)}
+{s:BDTexte|7/jour — toucher rieur}
+{s:BDTexte|'''sorts de barde connus''' (NLS 3 ; Concentration +7)}
+{s:BDSorts|1<sup>er</sup> (4/jour) — ''[[fou rire]]'' (DD 17), ''[[image silencieuse]]'' (DD15), ''[[soins légers]], ''[[ventriloquie]]'' (DD15)''}
+{s:BDSorts|0 (à volonté) — ''[[lecture de la magie]]'', ''[[manipulation à distance]]'', ''[[message]]'', ''[[repérage]]'', ''[[résistance]]'', ''[[son imaginaire]] (DD 14)''}
+{s:BDTexte|'''sorts d’ensorceleur connus''' (NLS 3 ; Concentration +7)}
+{s:BDSorts|1<sup>er</sup> (6/jour) — ''[[armure de mage]]'', ''[[charme-personne]]'' (DD15), ''[[enchevêtrement]] (DD 15), ''[[hypnose]]'' (DD17)''}
+{s:BDSorts|0 (à volonté) — ''[[détection de la magie]]'', ''[[hébétement]]'' (DD 16), ''[[prestidigitation]]'', ''[[rayon de givre]]'', ''[[signature magique]]''}
+{s:BDTexte|'''Lignage''' féerique}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 13, '''Con''' 10, '''Int''' 14, '''Sag''' 12, '''Cha''' 18}
+{s:BDTexte|'''BBA''' +3, '''BMO''' +2, '''DMD''' 13}
+{s:BDTexte|'''Dons''' [[Aptitude magique]], [[Dispense de composantes matérielles]], [[Représentation supplémentaire]], [[Talent]] (Escamotage), [[Talent]] (Représentation (scène))}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +10, [[Bluff]] +16, [[Connaissances]] (folklore local) +7, [[Connaissances]] (mystères) +7, [[Connaissances]] (nature) +7, [[Connaissances]] (plans) +7, [[Connaissances]] (religion) +7, [[Déguisement]] +16, [[Diplomatie]] +10, [[Escamotage]] +13, [[Intimidation]] +10, [[Linguistique]] +6, [[Perception]] +5, [[Psychologie]] +10, [[Représentation]] (déclamation) +12, [[Représentation]] (scène) +16, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +15}
+{s:BDTexte|'''Langues''' aklo, commun, draconique, sylvestre}
+{s:BDTexte|'''Particularités''' arcanes de lignage, déplacement facilité, savoir bardique +1, versatilité artistique (scène)}
+{s:BDTexte|'''Équipement de combat''' baguette de ''[[serviteur invisible]]'' (50 charges), parchemins de ''[[bouche magique]]'', de ''[[compréhension des langages]]'' (4), de ''[[corde animée]]'', d’''[[aura magique]]'' et d’''[[effacement]]'' ; bâtons fumigènes (2) ; pierres à tonnerre (2) ; Autre équipement dagues (2), ''cape de résistance +1'', boule de cristal non magique, cartes de tarot, focalisateur pour les augures}
+{s:BDTexte|'''Faveur''' Une diseuse de bonne fortune peut conseiller les PJ sur la meilleure méthode pour tromper les habitants d’une communauté et ainsi leur octroyer pendant 1 semaine un bonus de circonstances de +2 aux tests de [[Bluff]] et d’[[Intimidation]] dans cette zone.}
+</div></td><td></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.PNJ devins</fullName>
+</wikiPage>

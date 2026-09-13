@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Poupée zonzon d'absolution</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-06-14 23:17:38Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Pénitence</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Splendeur de laigle</link><link>Pathfinder-RPG.Shélyn (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fShelyn.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Sh&#233;lyn (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fShelyn.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Sh&#233;lyn-(Technique).html&quot; title=&quot;Sh&#233;lyn&quot;&gt;Sh&#233;lyn&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Poup&#233;e zonzon d&#39;absolution&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 9 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 5 000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette poup&#233;e de chiffon, cr&#233;&#233;e &#224; l&#39;image d&#39;une cr&#233;ature sp&#233;cifique choisie au moment de la fabrication, doit &#234;tre aim&#233;e pour activer ses pouvoirs. Cet amour prend la forme de temps pass&#233; &#224; prendre soin de la poup&#233;e, &#224; la garder sur soi et &#224; l&#39;emp&#234;cher d&#39;&#234;tre abim&#233;e ou malmen&#233;e.&lt;br /&gt;&lt;br /&gt;Pour utiliser les pouvoirs accumul&#233;s dans une &lt;i&gt;poup&#233;e Zonzon d&#39;absolution&lt;/i&gt;, son propri&#233;taire doit la donner &#224; la cr&#233;ature &#224; laquelle elle ressemble. En fonction de la dur&#233;e pendant laquelle le propri&#233;taire de la poup&#233;e s&#39;en est occup&#233;, la poup&#233;e peut conf&#233;rer jusqu&#39;&#224; trois effets cumulatifs. Chaque effet dure 24 heures, sauf indication contraire.&lt;br /&gt;&lt;br /&gt;Si la poup&#233;e est offerte apr&#232;s 1 jour de soins, elle conf&#232;re &#224; son propri&#233;taire un bonus de saintet&#233; de +5 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; contre la cr&#233;ature &#224; laquelle elle ressemble (ci-apr&#232;s nomm&#233;e la &#171; cr&#233;ature cible &#187;). Si la poup&#233;e est offerte apr&#232;s 1 semaine de soins, son propri&#233;taire peut utiliser la comp&#233;tence Diplomatie pour modifier l&#39;attitude de la cr&#233;ature cible vers une attitude plus positive, jusqu&#39;&#224; un maximum de trois cat&#233;gories (au-del&#224; de la limite normale de deux cat&#233;gories) et ne subit aucun malus en cas d&#39;&#233;chec de 5 ou plus &#224; un test de Diplomatie. Enfin, si la poup&#233;e est offerte apr&#232;s 1 mois de soins, la cr&#233;ature cible peut l&#39;activer dans les 24 heures pour b&#233;n&#233;ficier d&#39;un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;P&#233;nitence.html&quot; title=&quot;P&#233;nitence&quot;&gt;p&#233;nitence&lt;/a&gt;&lt;/i&gt;. Une fois la poup&#233;e offerte et la dur&#233;e de l&#39;effet expir&#233;e, la poup&#233;e Zonzon redevient une poup&#233;e de chiffon normale d&#233;pourvue de pouvoirs magiques.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;P&#233;nitence.html&quot; title=&quot;P&#233;nitence&quot;&gt;p&#233;nitence&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Splendeur-De-Laigle.html&quot; title=&quot;Splendeur de l&amp;#39;aigle&quot;&gt;splendeur de l&#39;aigle&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 3 750 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Shélyn|%2fPCUP%2fReligion-PNG%2fShelyn.png}<div class="BD">
+{s:BDTitre|Poupée zonzon d'absolution|{s:ISG}}
+'''Aura''' [[Abjuration]] modérée ; '''NLS''' 9 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 5 000 po ; '''Poids''' 0,5 kg
+(((Description)))
+{s:cs}Cette poupée de chiffon, créée à l'image d'une créature spécifique choisie au moment de la fabrication, doit être aimée pour activer ses pouvoirs. Cet amour prend la forme de temps passé à prendre soin de la poupée, à la garder sur soi et à l'empêcher d'être abimée ou malmenée.
+
+Pour utiliser les pouvoirs accumulés dans une ''poupée Zonzon d'absolution'', son propriétaire doit la donner à la créature à laquelle elle ressemble. En fonction de la durée pendant laquelle le propriétaire de la poupée s'en est occupé, la poupée peut conférer jusqu'à trois effets cumulatifs. Chaque effet dure 24 heures, sauf indication contraire.
+
+Si la poupée est offerte après 1 jour de soins, elle confère à son propriétaire un bonus de sainteté de +5 aux tests de [[Diplomatie]] contre la créature à laquelle elle ressemble (ci-après nommée la « créature cible »). Si la poupée est offerte après 1 semaine de soins, son propriétaire peut utiliser la compétence Diplomatie pour modifier l'attitude de la créature cible vers une attitude plus positive, jusqu'à un maximum de trois catégories (au-delà de la limite normale de deux catégories) et ne subit aucun malus en cas d'échec de 5 ou plus à un test de Diplomatie. Enfin, si la poupée est offerte après 1 mois de soins, la créature cible peut l'activer dans les 24 heures pour bénéficier d'un sort de ''[[pénitence]]''. Une fois la poupée offerte et la durée de l'effet expirée, la poupée Zonzon redevient une poupée de chiffon normale dépourvue de pouvoirs magiques.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[pénitence]]'', ''[[splendeur de laigle|splendeur de l'aigle]]'' ; '''Coût''' 3 750 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Poupée Zonzon dabsolution</fullName>
+</wikiPage>

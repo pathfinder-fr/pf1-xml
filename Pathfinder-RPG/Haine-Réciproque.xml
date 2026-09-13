@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Haine réciproque</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don combat</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2020-10-08 18:00:04Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.orque (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Orque (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;i&gt;L’orque est d&#233;test&#233; des autres mais leur haine alimente la sienne.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCOMBAT&quot; title=&quot;Les dons&quot;&gt;combat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; L’orque gagne un bonus de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;de d&#233;g&#226;ts&lt;/a&gt; contre les cr&#233;atures dont le trait racial de haine ou le pouvoir de classe &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#ENNEMIJURE&quot; title=&quot;Le r&#244;deur&quot;&gt;ennemi jur&#233;&lt;/a&gt; s’applique &#224; lui. Par exemple, l’orque gagnerait ce bonus contre tous les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt; ainsi que contre les &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deurs&lt;/a&gt; ayant choisi la cat&#233;gorie humano&#239;de (orque) comme ennemi jur&#233;.
+]]></body>
+  <raw><![CDATA[{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:cm}''L’orque est détesté des autres mais leur haine alimente la sienne.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Avantages.''' L’orque gagne un bonus de +1 aux [[jet dattaque|jets d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] contre les créatures dont le trait racial de haine ou le pouvoir de classe [[Rôdeur#ENNEMIJURE|ennemi juré]] s’applique à lui. Par exemple, l’orque gagnerait ce bonus contre tous les [[nain|nains]] ainsi que contre les [[rôdeur|rôdeurs]] ayant choisi la catégorie humanoïde (orque) comme ennemi juré.]]></raw>
+  <fullName>Pathfinder-RPG.Haine réciproque</fullName>
+</wikiPage>

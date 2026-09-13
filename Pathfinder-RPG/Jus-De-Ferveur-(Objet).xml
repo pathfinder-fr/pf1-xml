@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Jus de ferveur</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:48:44Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Hobgobelin (race)</link><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Parangon hobgobelin</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Férocité (capacité)</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Hobgobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Hobgobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Hobgobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Hobgobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Hobgobelin-(Race).html&quot; title=&quot;Les hobgobelins&quot;&gt;hobgobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;Prix&lt;/b&gt; 50 po ; &lt;b&gt;Poids&lt;/b&gt; — ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 20  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette d&#233;coction alchimique au go&#251;t infecte accorde, pendant une courte p&#233;riode, une incroyable f&#233;rocit&#233; &#224; celui qui la boit. Cela fonctionne comme le pouvoir de monstre &lt;a class=&quot;pagelink&quot; href=&quot;F&#233;rocit&#233;-(Capacit&#233;).html&quot; title=&quot;F&#233;rocit&#233; (Ext)&quot;&gt;f&#233;rocit&#233;&lt;/a&gt; et dure une heure apr&#232;s absorption. Il faut r&#233;ussir un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 pour cr&#233;er cet objet.
+]]></body>
+  <raw><![CDATA[{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:CM}'''Prix''' 50 po ; '''Poids''' — ; '''DD d'Artisanat (alchimie)''' 20  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+Cette décoction alchimique au goût infecte accorde, pendant une courte période, une incroyable férocité à celui qui la boit. Cela fonctionne comme le pouvoir de monstre [[férocité (capacité)|férocité]] et dure une heure après absorption. Il faut réussir un test d’[[Artisanat]] (alchimie) [[DD]] 20 pour créer cet objet.]]></raw>
+  <fullName>Pathfinder-RPG.Jus de ferveur (objet)</fullName>
+</wikiPage>

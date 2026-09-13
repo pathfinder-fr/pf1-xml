@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Manticore mythique</title>
+  <categories><category>Pathfinder-RPG.Monstre mythique</category><category>Pathfinder-RPG.Src Campagnes mythiques</category></categories>
+  <lastModified>2021-04-08 21:25:27Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Campagnes mythiques (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres mythiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.sous-type mythique</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.RDépique</link><link>Pathfinder-RPG.Bond (capacité)</link><link>Pathfinder-RPG.Poison (capacité)</link><link>Pathfinder-RPG.Pouvoir mythique (capacité)</link><link>Pathfinder-RPG.Montée en puissance (capacité)</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.facteur de portée</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.For</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Manticore mythique&lt;div style=&quot;float:right;&quot;&gt;FP 6/RMy 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Campagnes mythiques p.207&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Magique.html&quot; title=&quot;Cr&#233;ature magique&quot;&gt;Cr&#233;ature magique&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;) de taille G, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 11, pris au d&#233;pourvu 17 (+2 Dex, +8 naturelle, -1 taille)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 77 (6d10+44)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Rdepique.html&quot; title=&quot;RD&#233;pique&quot;&gt;&#233;pique&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, vol 15 m (d&#233;plorable)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +11 (1d8+6) et 2 griffes, +11 (2d4+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; 4 pointes, +9 (1d6+6 plus poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bond-(Capacit&#233;).html&quot; title=&quot;Bond (Ext)&quot;&gt;bond&lt;/a&gt;, embrochement, &lt;a class=&quot;pagelink&quot; href=&quot;Poison-(Capacit&#233;).html&quot; title=&quot;Poison (Ext ou Sur)&quot;&gt;poison&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (2/jour, &lt;a class=&quot;pagelink&quot; href=&quot;Mont&#233;e-En-Puissance-(Capacit&#233;).html&quot; title=&quot;Mont&#233;e en puissance (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;mont&#233;e en puissance&lt;/a&gt; +1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 7, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +13, &lt;b&gt;DMD&lt;/b&gt; 25 (29 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (pointes)&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +4 (+8 pour le pistage), &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; -3 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Perception, +4 en Survie pour le pistage
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines et marais chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou troupe (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Embrochement (Ext).&lt;/b&gt; Quand la manticore mythique confirme un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Coupcritique.html&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt; avec une pointe, la pointe immobilise la cible au sol ou sur une surface proche. Si la cible est en train de voler gr&#226;ce &#224; des ailes, la pointe pi&#232;ge ses ailes. La cible est consid&#233;r&#233;e comme &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Agripp&#233;.html&quot; title=&quot;Agripp&#233;&quot;&gt;agripp&#233;e&lt;/a&gt; par la manticore (bien que celle-ci ne soit pas consid&#233;r&#233;e comme en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) et doit &#233;chapper &#224; son &#233;treinte pour pouvoir s’&#233;chapper de sa case. Une cr&#233;ature volante doit s’&#233;chapper lors de son tour ou tomber au sol. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;, la manticore mythique peut d&#233;penser une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; pour embrocher toutes les cibles qu’elle touche avec ses pointes lors de ce tour, m&#234;me si ses attaques n’&#233;taient pas des coups critiques.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pointes (Ext).&lt;/b&gt; D’un coup sec de la queue, la manticore mythique peut lib&#233;rer une vol&#233;e de quatre pointes par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; (faites un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jet d’attaque&lt;/a&gt; pour chaque pointe). Cette attaque a une port&#233;e de 54 m&#232;tres sans &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Facteurdeportee.html&quot; title=&quot;facteur de port&#233;e&quot;&gt;facteur de port&#233;e&lt;/a&gt;. Toutes les cibles doivent &#234;tre &#224; moins de 9 m&#232;tres les unes des autres. La cr&#233;ature ne peut lancer que 24 pointes par p&#233;riode de 24 heures.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Pointe — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Cette redoutable cr&#233;ature a un corps de lion, des ailes de dragon, un visage d’humain grima&#231;ant et une queue h&#233;riss&#233;e de pointes d&#233;goulinantes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+La manticore mythique est une cr&#233;ature cauchemardesque qui pourrait &#234;tre le r&#233;sultat de croisements entre des drakes empoisonn&#233;s, des sphinx d&#233;cadents ou des chim&#232;res aberrantes. Mangeuse vorace, la manticore mythique peut d&#233;vorer un cadavre dans son int&#233;gralit&#233;, avec ses armes et son armure, ne laissant derri&#232;re elle qu’une tra&#238;n&#233;e de sang et les quelques organes qu’elle n’aura pas trouv&#233;s &#224; son go&#251;t. Toutes les pi&#232;ces m&#233;talliques qu’elle ing&#232;re sont dig&#233;r&#233;es et servent &#224; alimenter la croissance de ses pointes mortelles. Certaines manticores sont r&#233;put&#233;es pour se nourrir d’araign&#233;es et de serpents venimeux g&#233;ants dans le seul but d’augmenter la puissance de leur poison.&lt;br /&gt;&lt;br /&gt;La manticore mythique se sert des pointes qu’elle lance pour clouer ses proies sur place &#224; distance, afin de mieux bondir sur elles et de les d&#233;chiqueter. Elle aime tout particuli&#232;rement &#233;pingler les ailes des cr&#233;atures volantes pour les faire plonger au sol o&#249; elles deviennent des proies tr&#232;s faciles. Son poison affaiblissant la rend particuli&#232;rement dangereuse pour les montures ail&#233;es puisque la cr&#233;ature empoisonn&#233;e peut se voir dans l’incapacit&#233; de porter son cavalier.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Manticore mythique|FP 6/RMy 2}
+{s:pucem|Créature magique|Collines|Tropical}
+{s:BDtexte|''Source : Campagnes mythiques p.207''}
+{s:BDtexte|'''PX''' 2 400}
+{s:BDtexte|[[type Créature magique|Créature magique]] ([[sous-type mythique|mythique]]) de taille G, LM}
+{s:BDtexte|'''Init''' +2 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Odorat (capacité)|odorat]] ; [[Perception]] +9}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 19, contact 11, pris au dépourvu 17 (+2 Dex, +8 naturelle, -1 taille)}
+{s:BDtexte|'''pv''' 77 (6d10+44)}
+{s:BDtexte|'''Réf''' +7, '''Vig''' +9, '''Vol''' +3}
+{s:BDtexte|'''RD''' 5/[[RDépique|épique]]}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 9 m, vol 15 m (déplorable)}
+{s:BDtexte|'''Corps à corps''' morsure, +11 (1d8+6) et 2 griffes, +11 (2d4+6)}
+{s:BDtexte|'''À distance''' 4 pointes, +9 (1d6+6 plus poison)}
+{s:BDtexte|'''Espace occupé''' 3 m ; '''Allonge''' 1,50 m}
+{s:BDtexte|'''Attaques spéciales''' [[Bond (capacité)|bond]], embrochement, [[Poison (capacité)|poison]], [[Pouvoir mythique (capacité)|pouvoir mythique]] (2/jour, [[Montée en puissance (capacité)|montée en puissance]] +1d6)}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 22, '''Dex''' 15, '''Con''' 18, '''Int''' 7, '''Sag''' 12, '''Cha''' 9}
+{s:BDtexte|'''BBA''' +6, '''BMO''' +13, '''DMD''' 25 (29 contre le [[croc-en-jambe]])}
+{s:BDtexte|'''Dons''' [[Arme de prédilection]] (pointes)<sup>M</sup>, [[Attaque en vol]], [[Vol stationnaire]]}
+{s:BDtexte|'''Compétences''' [[Perception]] +9, [[Survie]] +4 (+8 pour le pistage), [[Vol]] -3 ; '''Modificateurs raciaux''' +4 en Perception, +4 en Survie pour le pistage}
+{s:BDtexte|'''Langues''' commun}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' collines et marais chauds}
+{s:BDtexte|'''Organisation sociale''' solitaire, couple ou troupe (3-6)}
+{s:BDtexte|'''Trésor''' standard}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Embrochement (Ext).''' Quand la manticore mythique confirme un [[coup critique]] avec une pointe, la pointe immobilise la cible au sol ou sur une surface proche. Si la cible est en train de voler grâce à des ailes, la pointe piège ses ailes. La cible est considérée comme [[agrippé|agrippée]] par la manticore (bien que celle-ci ne soit pas considérée comme en [[lutte]]) et doit échapper à son étreinte pour pouvoir s’échapper de sa case. Une créature volante doit s’échapper lors de son tour ou tomber au sol. Par une [[action rapide]], la manticore mythique peut dépenser une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] pour embrocher toutes les cibles qu’elle touche avec ses pointes lors de ce tour, même si ses attaques n’étaient pas des coups critiques.}
+{s:BDtexte|'''Pointes (Ext).''' D’un coup sec de la queue, la manticore mythique peut libérer une volée de quatre pointes par une [[action simple]] (faites un [[jet dattaque|jet d’attaque]] pour chaque pointe). Cette attaque a une portée de 54 mètres sans [[facteur de portée]]. Toutes les cibles doivent être à moins de 9 mètres les unes des autres. La créature ne peut lancer que 24 pointes par période de 24 heures.}
+{s:BDtexte|'''Poison (Ext).''' Pointe — blessure ; ''JdS'' [[Vigueur]] [[DD]] 17 ; ''fréquence'' 1/[[round]] pendant 6 rounds ; ''effet'' 1d4 [[For]] ; ''guérison'' 2 réussites consécutives.}
+</div>
+</td>
+<td>
+<div>
+''Cette redoutable créature a un corps de lion, des ailes de dragon, un visage d’humain grimaçant et une queue hérissée de pointes dégoulinantes.''
+
+
+La manticore mythique est une créature cauchemardesque qui pourrait être le résultat de croisements entre des drakes empoisonnés, des sphinx décadents ou des chimères aberrantes. Mangeuse vorace, la manticore mythique peut dévorer un cadavre dans son intégralité, avec ses armes et son armure, ne laissant derrière elle qu’une traînée de sang et les quelques organes qu’elle n’aura pas trouvés à son goût. Toutes les pièces métalliques qu’elle ingère sont digérées et servent à alimenter la croissance de ses pointes mortelles. Certaines manticores sont réputées pour se nourrir d’araignées et de serpents venimeux géants dans le seul but d’augmenter la puissance de leur poison.
+
+La manticore mythique se sert des pointes qu’elle lance pour clouer ses proies sur place à distance, afin de mieux bondir sur elles et de les déchiqueter. Elle aime tout particulièrement épingler les ailes des créatures volantes pour les faire plonger au sol où elles deviennent des proies très faciles. Son poison affaiblissant la rend particulièrement dangereuse pour les montures ailées puisque la créature empoisonnée peut se voir dans l’incapacité de porter son cavalier.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Manticore mythique</fullName>
+</wikiPage>

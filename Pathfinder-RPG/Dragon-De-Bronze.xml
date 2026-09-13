@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les dragons métalliques de bronze</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire</category></categories>
+  <lastModified>2024-08-25 15:54:19Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.Dragon de bronze adulte</link><link>Pathfinder-RPG.Dragon de bronze vénérable</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Jeune dragon de bronze</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.sous-type Eau</link><link>Pathfinder-RPG.ligne</link><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.métamorphose</link><link>Pathfinder-RPG.Communication avec les animaux</link><link>Pathfinder-RPG.Création de nourriture et deau</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Contrôle de leau</link><link>Pathfinder-RPG.Contrôle du climat</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Aventures en extérieur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Élémentaire de lEau</link><link>Pathfinder-RPG.Jeune dragon de bronze</link><link>Pathfinder-RPG.Dragon de bronze adulte</link><link>Pathfinder-RPG.Dragon de bronze vénérable</link><link>Pathfinder-RPG.dragon métallique</link><link>Pathfinder-RPG.Respiration aquatique</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.RM</link><link>Pathfinder-RPG.Présence terrifiante</link><link>Pathfinder-RPG.Détection de pensées</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon m&#233;tallique de bronze&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Dragon&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire p.110&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Eau.html&quot; title=&quot;Eau (sous-type)&quot;&gt;Eau&lt;/a&gt;), LB
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Statistiques de base&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;FP&lt;/b&gt; 5 ; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;DV&lt;/b&gt; 6d12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), nage 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armure naturelle&lt;/b&gt; +5 ; &lt;b&gt;Souffle&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defligne.html&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt;, 2d6 &#233;lectricit&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 14, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; r&#233;gions c&#244;ti&#232;res temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura &#233;lectrique (Sur).&lt;/b&gt; Les dragons de bronze vieux ou plus &#226;g&#233;s poss&#232;dent une aura &#233;lectrique. Toutes les cr&#233;atures situ&#233;es &#224; 1,50 m (1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ou moins d&#39;eux subissent 1d6 points de d&#233;g&#226;ts d&#39;&#233;lectricit&#233; au d&#233;but du tour du fragon. L&#39;aura des dragons v&#233;n&#233;rables s&#39;&#233;tend sur 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;). Les d&#233;g&#226;ts de l&#39;aura des grands dracosires de bronze passent &#224; 2d6. Les dragons de bronze peuvent annuler cette aura &#224; volont&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Changement de forme (Sur).&lt;/b&gt; Les dragons de bronze jeunes ou plus &#226;g&#233;s peuvent prendre la forme de n&#39;importe quel &lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;animal&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;humano&#239;de&lt;/a&gt; trois fois par jour, comme s&#39;ils utilisaient un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphose.html&quot; title=&quot;M&#233;tamorphose&quot;&gt;m&#233;tamorphose&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ma&#238;trise des vagues (Sur).&lt;/b&gt; Pendant un maximum de 10 minutes par cat&#233;gorie d&#39;&#226;ge par jour, un dragon de bronze adolescent et toutes les cr&#233;atures ou navires qui se trouvent &#224; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ou moins de lui peuvent se d&#233;placer dans l&#39;eau au double de leur vitesse normale.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques (Mag)&lt;/b&gt; Les dragons de bronze acqui&#232;rent les pouvoirs magiques suivants, qu&#39;ils peuvent utiliser &#224; volont&#233; une fois l&#39;&#226;ge requis atteint. Tr&#232;s jeune - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt; ; Adolescent - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Nourriture-Et-Deau.html&quot; title=&quot;Cr&#233;ation de nourriture et d&amp;#39;eau&quot;&gt;cr&#233;ation de nourriture et d&#39;eau&lt;/a&gt;&lt;/i&gt; ; Adulte - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt; ; V&#233;n&#233;rable - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-De-Leau.html&quot; title=&quot;Contr&#244;le de l&amp;#39;eau&quot;&gt;contr&#244;le de l&#39;eau&lt;/a&gt;&lt;/i&gt; ; Grand dracosire - &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Raz-de-mar&#233;e (Sur).&lt;/b&gt; Un grand dracosire de bronze peut faire en sorte que la mer se l&#232;ve et qu&#39;elle &#233;crase ses ennemis une fois par jour par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;. Cette capacit&#233; affecte une zone c&#244;ti&#232;re de 36 m (24 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de longueur et touche toutes le cr&#233;atures situ&#233;es &#224; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ou moins de la c&#244;te. L&#39;effet est le m&#234;me que si les cr&#233;atures avaient &#233;t&#233; touch&#233;es par une avalanche (voir la section &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#AVALANCHES&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Avalanches&lt;/a&gt;&quot;, consid&#233;rez que toutes les cr&#233;atures se trouvent dans la zone de coul&#233;e). Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; permettant de diviser par deux les d&#233;g&#226;ts est &#233;gal &#224; celui du souffle du dragon. Les cr&#233;atures qui ratent leur &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; subissent les d&#233;g&#226;ts entiers, sont emport&#233;es &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) de la c&#244;te et se retrouvent 6 m (4 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) sous la surface le round apr&#232;s que la vague ait frapp&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Respiration aquatique (Ext).&lt;/b&gt;  Un dragon de bronze peut respirer sous l&#39;eau. Il peut &#233;galement utiliser son souffle, ses sorts et ses capacit&#233;s lorsqu&#39;il est immerg&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle de r&#233;pulsion (Sur).&lt;/b&gt; Plut&#244;t que de produire une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defligne.html&quot; title=&quot;ligne&quot;&gt;ligne&lt;/a&gt; d&#39;&#233;lectricit&#233; avec son souffle, un dragon de bronze peut choisir de cr&#233;er un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Defcone.html&quot; title=&quot;c&#244;ne&quot;&gt;c&#244;ne&lt;/a&gt; de gaz r&#233;pulsif. Les cibles doivent effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;. En cas d&#39;&#233;chec, elles ne peuvent rien faire d&#39;autre que s&#39;&#233;loigner du dragon pendant 1d6 rounds plus 1 round par cat&#233;gorie d&#39;&#226;ge. Il s&#39;agit d&#39;un effet mental de coercition.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vortex (Ext).&lt;/b&gt; Une fois par jour, un dragon de bronze v&#233;n&#233;rable ou plus &#226;g&#233; peut cr&#233;er un vortex per une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, exactement comme un seigneur &lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;mentaire-De-Leau.html&quot; title=&quot;&#201;l&#233;mentaire de l&amp;#39;Eau&quot;&gt;&#233;l&#233;mentaire de l&#39;eau&lt;/a&gt;. Il peut maintenir ce vortex pendant 1 round par cat&#233;gorie d&#39;&#226;ge.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de dragon de bronze&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jeune-Dragon-De-Bronze.html&quot; title=&quot;Dragon m&#233;tallique, Jeune dragon de bronze&quot;&gt;Jeune dragon de bronze&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dragon-De-Bronze-Adulte.html&quot; title=&quot;Dragon m&#233;tallique, Dragon de bronze adulte&quot;&gt;Dragon de bronze adulte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dragon-De-Bronze-V&#233;n&#233;rable.html&quot; title=&quot;Dragon m&#233;tallique, Dragon de bronze v&#233;n&#233;rable&quot;&gt;Dragon de bronze v&#233;n&#233;rable&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html&quot; title=&quot;Les dragons m&#233;talliques&quot;&gt;dragons m&#233;talliques&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Ce dragon &#233;lanc&#233; est recouvert d’&#233;cailles m&#233;talliques ternes dont la couleur varie du bronze brillant au bleu marbr&#233;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dragons de bronze s’allient parfois aux voyageurs
+et aux aventuriers dont la cause est juste et qui
+promettent une r&#233;compense
+ad&#233;quate.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo toutgauche&quot;&gt;&lt;caption&gt;Tableau des gains de capacit&#233;s&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Cat&#233;gorie d&#39;&#226;ge &lt;/td&gt;&lt;td&gt;Capacit&#233;s sp&#233;ciales&lt;/td&gt;&lt;td&gt;NLS&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Dragonnet&lt;/td&gt;&lt;td&gt;immunit&#233; (&#233;lectricit&#233;), &lt;a class=&quot;pagelink&quot; href=&quot;Respiration-Aquatique.html&quot; title=&quot;Respiration aquatique&quot;&gt;respiration aquatique&lt;/a&gt;, &lt;br/&gt;souffle de r&#233;pulsion&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Tr&#232;s jeune&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Animaux.html&quot; title=&quot;Communication avec les animaux&quot;&gt;communication avec les animaux&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;—&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adolescent&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Nourriture-Et-Deau.html&quot; title=&quot;Cr&#233;ation de nourriture et d&amp;#39;eau&quot;&gt;cr&#233;ation de nourriture et d&#39;eau&lt;/a&gt;&lt;/i&gt;, &lt;br/&gt;ma&#238;trise des vagues&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeune adulte&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 5/magie ; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Magie-(Capacit&#233;).html&quot; title=&quot;RM&quot;&gt;RM&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Adulte&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sence-Terrifiante-(Capacit&#233;).html&quot; title=&quot;Pr&#233;sence terrifiante&quot;&gt;pr&#233;sence terrifiante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#194;ge m&#251;r&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 10/magie&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Vieux&lt;/td&gt;&lt;td&gt;aura &#233;lectrique, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tr&#232;s vieux&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 15/magie&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;V&#233;n&#233;rable&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-De-Leau.html&quot; title=&quot;Contr&#244;le de l&amp;#39;eau&quot;&gt;contr&#244;le de l&#39;eau&lt;/a&gt;&lt;/i&gt;, vortex&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dracosire&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; 20/magie&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;Grand dracosire&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt;, raz-de-mar&#233;e&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon métallique de bronze|}
+{s:pucem|Dragon|Aquatique|Tempéré}
+{s:BDTexte|''Source : Bestiaire p.110''}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Eau|Eau]]), LB}
+{s:BDSousTitre|Statistiques de base}
+{s:BDTexte|'''FP''' 5 ; '''Taille''' P ; '''DV''' 6d12}
+{s:BDTexte|'''VD''' 12 m (8 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Armure naturelle''' +5 ; '''Souffle''' [[ligne]], 2d6 électricité}
+{s:BDTexte|'''For''' 13, '''Dex''' 14, '''Con''' 13, '''Int''' 14, '''Sag''' 15, '''Cha''' 14}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' régions côtières tempérées}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' triple}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Aura électrique (Sur).''' Les dragons de bronze vieux ou plus âgés possèdent une aura électrique. Toutes les créatures situées à 1,50 m (1 {s:c}) ou moins d'eux subissent 1d6 points de dégâts d'électricité au début du tour du fragon. L'aura des dragons vénérables s'étend sur 3 m (2 {s:c}). Les dégâts de l'aura des grands dracosires de bronze passent à 2d6. Les dragons de bronze peuvent annuler cette aura à volonté.}
+{s:BDTexte|'''Changement de forme (Sur).''' Les dragons de bronze jeunes ou plus âgés peuvent prendre la forme de n'importe quel [[type animal|animal]] ou [[type humanoïde|humanoïde]] trois fois par jour, comme s'ils utilisaient un sort de ''[[métamorphose]]''.}
+{s:BDTexte|'''Maîtrise des vagues (Sur).''' Pendant un maximum de 10 minutes par catégorie d'âge par jour, un dragon de bronze adolescent et toutes les créatures ou navires qui se trouvent à 15 m (10 {s:c}) ou moins de lui peuvent se déplacer dans l'eau au double de leur vitesse normale.}
+{s:BDTexte|'''Pouvoirs magiques (Mag)''' Les dragons de bronze acquièrent les pouvoirs magiques suivants, qu'ils peuvent utiliser à volonté une fois l'âge requis atteint. Très jeune - ''[[communication avec les animaux]]'' ; Adolescent - ''[[création de nourriture et deau|création de nourriture et d'eau]]'' ; Adulte - ''[[nappe de brouillard]]'' ; Vénérable - ''[[contrôle de leau|contrôle de l'eau]]'' ; Grand dracosire - ''[[contrôle du climat]]''.}
+{s:BDTexte|'''Raz-de-marée (Sur).''' Un grand dracosire de bronze peut faire en sorte que la mer se lève et qu'elle écrase ses ennemis une fois par jour par une [[action simple]]. Cette capacité affecte une zone côtière de 36 m (24 {s:c}) de longueur et touche toutes le créatures situées à 12 m (8 {s:c}) ou moins de la côte. L'effet est le même que si les créatures avaient été touchées par une avalanche (voir la section "[[Aventures en extérieur#AVALANCHES|Avalanches]]", considérez que toutes les créatures se trouvent dans la zone de coulée). Le [[DD]] du [[jet de sauvegarde]] permettant de diviser par deux les dégâts est égal à celui du souffle du dragon. Les créatures qui ratent leur [[jet de sauvegarde]] subissent les dégâts entiers, sont emportées à 18 m (12 {s:c}) de la côte et se retrouvent 6 m (4 {s:c}) sous la surface le round après que la vague ait frappé.}
+{s:BDTexte|'''Respiration aquatique (Ext).'''  Un dragon de bronze peut respirer sous l'eau. Il peut également utiliser son souffle, ses sorts et ses capacités lorsqu'il est immergé.}
+{s:BDTexte|'''Souffle de répulsion (Sur).''' Plutôt que de produire une [[ligne]] d'électricité avec son souffle, un dragon de bronze peut choisir de créer un [[cône]] de gaz répulsif. Les cibles doivent effectuer un jet de [[Volonté]]. En cas d'échec, elles ne peuvent rien faire d'autre que s'éloigner du dragon pendant 1d6 rounds plus 1 round par catégorie d'âge. Il s'agit d'un effet mental de coercition.}
+{s:BDTexte|'''Vortex (Ext).''' Une fois par jour, un dragon de bronze vénérable ou plus âgé peut créer un vortex per une [[action simple]], exactement comme un seigneur [[élémentaire de leau|élémentaire de l'eau]]. Il peut maintenir ce vortex pendant 1 round par catégorie d'âge.}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de dragon de bronze
+|- CLASS="titre"
+| Nom || &nbsp; || FP
+|- CLASS="premier"
+| [[Jeune dragon de bronze]] || &nbsp; || 9
+|-
+| [[Dragon de bronze adulte]] || &nbsp; || 13
+|-
+| [[Dragon de bronze vénérable]] || &nbsp; || 18
+|}
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[dragon métallique|dragons métalliques]].'''''</li></ul>''Ce dragon élancé est recouvert d’écailles métalliques ternes dont la couleur varie du bronze brillant au bleu marbré.''
+
+Les dragons de bronze s’allient parfois aux voyageurs
+et aux aventuriers dont la cause est juste et qui
+promettent une récompense
+adéquate.
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Tableau des gains de capacités
+|- CLASS="titre"
+| Catégorie d'âge  || Capacités spéciales || NLS
+|- CLASS="premier"
+| Dragonnet || immunité (électricité), [[respiration aquatique]], <br/>souffle de répulsion || —
+|- CLASS="alt"
+| Très jeune || ''[[communication avec les animaux]]'' || —
+|-
+| Jeune || [[changement de forme (Capacité)|changement de forme]] || 1
+|- CLASS="alt"
+| Adolescent || ''[[création de nourriture et deau|création de nourriture et d'eau]]'', <br/>maîtrise des vagues || 3
+|-
+| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
+|- CLASS="alt"
+| Adulte || ''[[nappe de brouillard]]'', [[présence terrifiante]] || 7
+|-
+| Âge mûr || [[RD]] 10/magie || 9
+|- CLASS="alt"
+| Vieux || aura électrique, ''[[détection de pensées]]'' || 11
+|-
+| Très vieux || [[RD]] 15/magie || 13
+|- CLASS="alt"
+| Vénérable || ''[[contrôle de leau|contrôle de l'eau]]'', vortex || 15
+|-
+| Dracosire || [[RD]] 20/magie || 17
+|- CLASS="alt"
+| Grand dracosire || ''[[contrôle du climat]]'', raz-de-marée || 19
+|}
+</center>
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dragon de bronze</fullName>
+</wikiPage>

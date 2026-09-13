@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Lamhigyn</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-20 15:45:21Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision dans les ténèbres (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.Sagesse</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Lamhigyn&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.164&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille P, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Les-T&#233;n&#232;bres-(Capacit&#233;).html&quot; title=&quot;Vision dans les t&#233;n&#232;bres (Sur)&quot;&gt;vision dans les t&#233;n&#232;bres&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 13, pris au d&#233;pourvu 13 (Dex +2, naturelle +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 32 (5d10+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 18 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; dard, +10 (1d3+4 plus poison) et 2 ailes, +5 (1d3+2 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (1d3+1), poison, ailes enveloppantes
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 5, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5 ; &lt;b&gt;BMO&lt;/b&gt; +8 (+12 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 20 (24 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abysses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, paire, poign&#233;e (3-9) ou ruche (10-30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ailes enveloppantes (Ext).&lt;/b&gt; Quand un lamhigyn utilise ses ailes pour &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treindre&lt;/a&gt; son adversaire, il les enroule autour de la t&#234;te de ce dernier, qui devient alors &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Aveugl&#233;.html&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugl&#233;&lt;/a&gt; tant que le lamhigyn &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; avec lui. Cette capacit&#233; n’a pas d’effet sur les cr&#233;atures qui n’ont pas d’organe sensoriel au niveau de la t&#234;te.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Dard — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 13 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 4 rounds ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette petite cr&#233;ature &#224; trois yeux a des ailes d&#233;chiquet&#233;es stri&#233;es de rouge et une queue barbel&#233;e mena&#231;ante.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les lamhigyns sont de simples parasites qui &#233;mergent de la structure chaotique des Abysses. Ils empoisonnent leurs proies jusqu’&#224; ce que celles-ci tombent dans le coma, puis la d&#233;p&#232;cent lentement, morceau par morceau, &#224; l’aide de leur gueule r&#226;peuse. Les lamhigyns font preuve de d&#233;dain envers les intrus qui p&#233;n&#232;trent sur leur territoire et leurs piq&#251;res ont laiss&#233; plus d’un aventurier fou ou handicap&#233;, faisant d’eux des victimes opportunes pour les insatiables pr&#233;dateurs des Abysses. Bien que les lamhigyns n’aient rien de terrifiant en eux-m&#234;mes, de plus grandes terreurs suivent leur sillage, dans l’espoir d’y trouver des proies faciles.&lt;br /&gt;&lt;br /&gt;Les lamhigyns sont des cr&#233;atures d’apparence &#233;trange. Ils sont souvent d&#233;crits par les mortels qui visitent les Abysses comme des t&#234;tards g&#233;ants et volants, munis d’ailes de chauvesouris et d’une queue se terminant par un dard. Ils r&#244;dent dans les recoins sombres des Abysses et dans des lieux d&#233;nu&#233;s de lumi&#232;re du plan Mat&#233;riel, pr&#232;s de failles permettant d’acc&#233;der &#224; leur plan d’origine. Leurs yeux globuleux et d&#233;nu&#233;s de paupi&#232;res rappellent vaguement ceux d’une grenouille et il s’agit souvent de la derni&#232;re chose que voit un aventurier, ces fichues cr&#233;atures ayant la f&#226;cheuse tendance &#224; aveugler leurs victimes en enveloppant leurs ailes autour de leur t&#234;te. Leurs minuscules bouches abritent une &#233;paisse langue qui darde quand ils se trouvent en pr&#233;sence d’une proie.&lt;br /&gt;&lt;br /&gt;Les lamhigyns ont une peau &#233;paisse et &#233;cailleuse dont la couleur va du rouge au vert. Bien qu’on les voie la plupart du temps en train de voler, les lamhigyns qui se trouvent au sol se d&#233;placent sur quatre pattes insecto&#239;des qu’ils gardent repli&#233;es sous eux quand ils se posent dans leur nid. Ils ont beau &#234;tre de petite taille, avec un corps de 60 cm de haut pour un poids d’environ 4 kilos, ils n’en sont pas moins impressionnants quand ils fondent sur leurs victimes depuis les airs.&lt;br /&gt;&lt;br /&gt;En ce qui concerne leur propre race, les lamhigyns peuvent &#234;tre assez inconstants. Ils ont tendance &#224; bien s’entendre avec leurs cong&#233;n&#232;res, mais un rien peut les faire s’emporter. Quand cela arrive, les lamhigyns laissent libre cours &#224; leur furie chaotique et se jettent sur leurs camarades, les agrippant et les piquant furieusement jusqu’&#224; ce que seule une – ou parfois aucune – des deux cr&#233;atures ne survive.&lt;br /&gt;&lt;br /&gt;Quand ils ne se battent pas entre eux, les lamhigyns vivent dans des ruches bruyantes, au milieu du bruit des claquements d’ailes, en attendant qu’une cr&#233;ature malchanceuse s’aventure malencontreusement dans leur domaine. En ce qui concerne leurs victimes, les lamhigyns pr&#233;f&#232;rent celles qui peuvent penser et marcher, car ce sont elles qui ont les r&#233;actions les plus d&#233;licieusement terrifi&#233;es. En effet, il n’y a rien que les lamhigyns aiment tant qu’injecter leur toxine abrutissante dans des victimes terrifi&#233;es qui hurlent et se d&#233;battent en vain. Ils ignorent g&#233;n&#233;ralement les animaux les plus courants, sauf s’ils ont attendu trop longtemps une nouvelle proie et commencent &#224; s’ennuyer. Parfois, cependant, une ruche particuli&#232;rement importante tentera de s’attaquer &#224; de grandes et imposantes cr&#233;atures simplement pour le d&#233;fi que cela repr&#233;sente.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Lamhigyn|FP 3}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.164]]''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille P, CM}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision dans les ténèbres (capacité)|vision dans les ténèbres]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 13, pris au dépourvu 13 (Dex +2, naturelle +2, taille +1)}
+{s:BDTexte|'''pv''' 32 (5d10+5)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +5, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m, [[Vol (capacité)|vol]] 18 m (bonne)}
+{s:BDTexte|'''Corps à corps''' dard, +10 (1d3+4 plus poison) et 2 ailes, +5 (1d3+2 plus [[Étreinte (capacité)|étreinte]])}
+{s:BDTexte|'''Attaques spéciales''' [[Constriction (capacité)|constriction]] (1d3+1), poison, ailes enveloppantes}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 15, '''Con''' 13, '''Int''' 5, '''Sag''' 12, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +5 ; '''BMO''' +8 (+12 en [[lutte]]) ; '''DMD''' 20 (24 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]], [[Vol stationnaire]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +14, [[Perception]] +9, [[Vol]] +16}
+{s:BDTexte|'''Langues''' abyssal}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Abysses)}
+{s:BDTexte|'''Organisation''' solitaire, paire, poignée (3-9) ou ruche (10-30)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Ailes enveloppantes (Ext).''' Quand un lamhigyn utilise ses ailes pour [[étreinte (capacité)|étreindre]] son adversaire, il les enroule autour de la tête de ce dernier, qui devient alors [[aveuglé]] tant que le lamhigyn [[lutte]] avec lui. Cette capacité n’a pas d’effet sur les créatures qui n’ont pas d’organe sensoriel au niveau de la tête.}
+{s:BDTexte|'''Poison (Ext).''' Dard — blessure ; ''JdS'' [[Vigueur]] DD 13 ; ''fréquence'' 1/round pendant 4 rounds ; ''effet'' [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 [[Sagesse]] ; ''guérison'' 2 réussites consécutives.}
+
+</div></td>
+<td><div>''Cette petite créature à trois yeux a des ailes déchiquetées striées de rouge et une queue barbelée menaçante.''
+
+Les lamhigyns sont de simples parasites qui émergent de la structure chaotique des Abysses. Ils empoisonnent leurs proies jusqu’à ce que celles-ci tombent dans le coma, puis la dépècent lentement, morceau par morceau, à l’aide de leur gueule râpeuse. Les lamhigyns font preuve de dédain envers les intrus qui pénètrent sur leur territoire et leurs piqûres ont laissé plus d’un aventurier fou ou handicapé, faisant d’eux des victimes opportunes pour les insatiables prédateurs des Abysses. Bien que les lamhigyns n’aient rien de terrifiant en eux-mêmes, de plus grandes terreurs suivent leur sillage, dans l’espoir d’y trouver des proies faciles.
+
+Les lamhigyns sont des créatures d’apparence étrange. Ils sont souvent décrits par les mortels qui visitent les Abysses comme des têtards géants et volants, munis d’ailes de chauvesouris et d’une queue se terminant par un dard. Ils rôdent dans les recoins sombres des Abysses et dans des lieux dénués de lumière du plan Matériel, près de failles permettant d’accéder à leur plan d’origine. Leurs yeux globuleux et dénués de paupières rappellent vaguement ceux d’une grenouille et il s’agit souvent de la dernière chose que voit un aventurier, ces fichues créatures ayant la fâcheuse tendance à aveugler leurs victimes en enveloppant leurs ailes autour de leur tête. Leurs minuscules bouches abritent une épaisse langue qui darde quand ils se trouvent en présence d’une proie.
+
+Les lamhigyns ont une peau épaisse et écailleuse dont la couleur va du rouge au vert. Bien qu’on les voie la plupart du temps en train de voler, les lamhigyns qui se trouvent au sol se déplacent sur quatre pattes insectoïdes qu’ils gardent repliées sous eux quand ils se posent dans leur nid. Ils ont beau être de petite taille, avec un corps de 60 cm de haut pour un poids d’environ 4 kilos, ils n’en sont pas moins impressionnants quand ils fondent sur leurs victimes depuis les airs.
+
+En ce qui concerne leur propre race, les lamhigyns peuvent être assez inconstants. Ils ont tendance à bien s’entendre avec leurs congénères, mais un rien peut les faire s’emporter. Quand cela arrive, les lamhigyns laissent libre cours à leur furie chaotique et se jettent sur leurs camarades, les agrippant et les piquant furieusement jusqu’à ce que seule une – ou parfois aucune – des deux créatures ne survive.
+
+Quand ils ne se battent pas entre eux, les lamhigyns vivent dans des ruches bruyantes, au milieu du bruit des claquements d’ailes, en attendant qu’une créature malchanceuse s’aventure malencontreusement dans leur domaine. En ce qui concerne leurs victimes, les lamhigyns préfèrent celles qui peuvent penser et marcher, car ce sont elles qui ont les réactions les plus délicieusement terrifiées. En effet, il n’y a rien que les lamhigyns aiment tant qu’injecter leur toxine abrutissante dans des victimes terrifiées qui hurlent et se débattent en vain. Ils ignorent généralement les animaux les plus courants, sauf s’ils ont attendu trop longtemps une nouvelle proie et commencent à s’ennuyer. Parfois, cependant, une ruche particulièrement importante tentera de s’attaquer à de grandes et imposantes créatures simplement pour le défi que cela représente.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Lamhigyn</fullName>
+</wikiPage>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Châtiment des abominations</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort inquisiteur 4</category><category>Pathfinder-RPG.Sort prêtre 5</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:42:02Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Pharasma (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fPharasma.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Pharasma (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fPharasma.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Pharasma-(Technique).html&quot; title=&quot;Pharasma&quot;&gt;Pharasma&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Evocation.html&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 5  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; personnelle  
+&lt;b&gt;Cibles&lt;/b&gt; le lanceur de sorts  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 round/niveau&lt;br /&gt;&lt;br /&gt;Le personnage puise dans l&#39;&#233;nergie positive pour imiter en partie la capacit&#233; des paladins &#224; ch&#226;tier les morts-vivants. Il choisit une cr&#233;ature &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morte-vivante&lt;/a&gt; contre laquelle ses attaques au corps &#224; corps gagnent un bonus aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt; &#233;gal &#224; son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;, selon le plus &#233;lev&#233;, ainsi qu&#39;un bonus aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;jets de d&#233;g&#226;ts&lt;/a&gt; &#233;gal &#224; son &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt;. De plus, ses attaques ignorent la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt; de ce mort-vivant. Ces bonus ne se cumulent pas avec ceux du &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html#CHATIMENTDUMAL&quot; title=&quot;Le paladin&quot;&gt;ch&#226;timent du Mal&lt;/a&gt; d&#39;un paladin.
+]]></body>
+  <raw><![CDATA[{s:divin|Pharasma|%2fPCUP%2fReligion-PNG%2fPharasma.png}{s:cs}{s:ISG}'''École''' [[Évocation]] ; '''Niveau''' [[Inquisiteur|Inq]] 4, [[Prêtre|Prê]] 5  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, FD]]  
+'''Portée''' personnelle  
+'''Cibles''' le lanceur de sorts  
+'''Durée''' 1 round/niveau
+
+Le personnage puise dans l'énergie positive pour imiter en partie la capacité des paladins à châtier les morts-vivants. Il choisit une créature [[type Mort-vivant|morte-vivante]] contre laquelle ses attaques au corps à corps gagnent un bonus aux [[jet dattaque|jets d'attaque]] égal à son modificateur de [[Charisme]] ou de [[Sagesse]], selon le plus élevé, ainsi qu'un bonus aux [[Valeurs de combat#DEGATS|jets de dégâts]] égal à son [[NLS|niveau de lanceur de sorts]]. De plus, ses attaques ignorent la [[RD|réduction de dégâts]] de ce mort-vivant. Ces bonus ne se cumulent pas avec ceux du [[Paladin#CHATIMENTDUMAL|châtiment du Mal]] d'un paladin.]]></raw>
+  <fullName>Pathfinder-RPG.Châtiment des abominations</fullName>
+</wikiPage>

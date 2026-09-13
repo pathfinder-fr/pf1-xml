@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Cerf-volant de terreur</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-22 15:19:17Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Jeux</link><link>Pathfinder-RPG.Tengu (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Jeux</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.destruction</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Spécialisation martiale</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.Tengu (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Tengu.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Tengu (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Tengu.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Tengu-(Race).html&quot; title=&quot;Les tengus&quot;&gt;tengus&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 20 po ; &lt;b&gt;Poids&lt;/b&gt; —  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Jeux.html&quot; title=&quot;Jeux&quot;&gt;Jeux&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Ce petit cerf-volant arbore g&#233;n&#233;ralement un visage f&#233;roce et des couleurs vives, et il est bord&#233; de lames de bois en dents de scie. On renforce sa ficelle en la plongeant dans de la colle et en l’agr&#233;mentant parfois de verre pil&#233; pour lui donner un peu de tranchant. Le cerf-volant a une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration#Solidite.html&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 5 et 3 points de vie. Ceux qui participent &#224; une bataille de cerfs-volants alternent les manœuvres offensives de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Destruction.html&quot; title=&quot;destruction&quot;&gt;destruction&lt;/a&gt; contre les cerfs-volants des autres ; chaque manœuvre offensive r&#233;ussie permet au participant de lancer 1d6 points de d&#233;g&#226;ts contre le cerf-volant de l’adversaire. Lorsqu’un cerf-volant tombe &#224; 0 point de vie, il est cass&#233; ou sa ficelle se rompt, et le joueur perd la partie. Dans certaines comp&#233;titions, on attribue des points &#224; la ficelle de l’adversaire lorsqu’on touche le sommet du cerf-volant, le vainqueur &#233;tant le premier &#224; atteindre le total de points fix&#233;. Ceux qui s’int&#233;ressent aux batailles de cerfs-volants peuvent prendre le cerf-volant de terreur comme arme pour des dons comme &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Sp&#233;cialisation-Martiale.html&quot; title=&quot;Sp&#233;cialisation martiale&quot;&gt;Sp&#233;cialisation martiale&lt;/a&gt;, et appliquer ces bonus &#224; leurs &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;jets de d&#233;g&#226;ts&lt;/a&gt; de cerf-volant et &#224; leurs tests de manœuvre offensive de destruction lorsqu’ils utilisent des cerfs-volants de terreur.
+]]></body>
+  <raw><![CDATA[{s:racial|Tengu (race)|tengus|Illustrations/PNJ/Tengu.jpg}{s:MR}'''Prix''' 20 po ; '''Poids''' —  
+<span class="Catégorie">'''Catégorie''' [[Jeux]]</span>
+<hr>
+Ce petit cerf-volant arbore généralement un visage féroce et des couleurs vives, et il est bordé de lames de bois en dents de scie. On renforce sa ficelle en la plongeant dans de la colle et en l’agrémentant parfois de verre pilé pour lui donner un peu de tranchant. Le cerf-volant a une [[solidité]] de 5 et 3 points de vie. Ceux qui participent à une bataille de cerfs-volants alternent les manœuvres offensives de [[destruction]] contre les cerfs-volants des autres ; chaque manœuvre offensive réussie permet au participant de lancer 1d6 points de dégâts contre le cerf-volant de l’adversaire. Lorsqu’un cerf-volant tombe à 0 point de vie, il est cassé ou sa ficelle se rompt, et le joueur perd la partie. Dans certaines compétitions, on attribue des points à la ficelle de l’adversaire lorsqu’on touche le sommet du cerf-volant, le vainqueur étant le premier à atteindre le total de points fixé. Ceux qui s’intéressent aux batailles de cerfs-volants peuvent prendre le cerf-volant de terreur comme arme pour des dons comme [[Arme de prédilection]] et [[Spécialisation martiale]], et appliquer ces bonus à leurs [[valeurs de combat#DEGATS|jets de dégâts]] de cerf-volant et à leurs tests de manœuvre offensive de destruction lorsqu’ils utilisent des cerfs-volants de terreur.]]></raw>
+  <fullName>Pathfinder-RPG.Cerf-volant de terreur (objet)</fullName>
+</wikiPage>

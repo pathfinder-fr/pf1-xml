@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Impasse égarée</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort barde 4</category><category>Pathfinder-RPG.Sort hypnotiseur 3</category><category>Pathfinder-RPG.Sort magicien 4</category><category>Pathfinder-RPG.Sort psychiste 4</category><category>Pathfinder-RPG.Src Inner Sea Races</category></categories>
+  <lastModified>2025-06-19 17:06:00Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Impasse égarée</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Localité égarée</link><link>Pathfinder-RPG.Races de la mer Intérieure (Contenu)</link><link>Pathfinder-RPG.samsaran (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.branche coercition</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.terrain difficile</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Permanence</link><link>Pathfinder-RPG.Localité égarée</link><link>Pathfinder-RPG.Impasse égarée</link><link>Pathfinder-RPG.samsaran (race)</link><link>Pathfinder-RPG.samsaran (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Samsaran.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Samsaran (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Samsaran.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Samsaran-(Race).html&quot; title=&quot;Les samsarans&quot;&gt;samsarans&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Races de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Races/Races de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Coercition.html&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;Bien, feu&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;Hyp&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Psy&lt;/a&gt; 4  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; longue (120 m + 12 m/niveau) (80 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/niveau)  
+&lt;b&gt;Zone d&#39;effet&lt;/b&gt; jusqu&#39;&#224; un cube de 9 m&#232;tres d&#39;ar&#234;te/niveau (&lt;a class=&quot;pagelink&quot; href=&quot;Pr%C3%A9sentation%20des%20sorts.ashx##DEFFACONNABLE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;F&lt;/a&gt;)  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 2 heures/niveau (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;T&lt;/a&gt;)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui
+&lt;hr&gt;
+Les cr&#233;atures dans la zone d&#39;effet de ce sort sont sujettes &#224; un subtil enchantement qui embrouille leur sens de l&#39;orientation, interf&#232;re avec leur capacit&#233; &#224; reconna&#238;tre des rep&#232;res environnementaux, et les pousse &#224; mal juger les angles et les distances. Les cr&#233;atures qui entrent dans la zone d&#39;effet doivent r&#233;ussir un nouveau test de &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; pour &#233;viter de se perdre imm&#233;diatement, qu&#39;elles aient r&#233;ussi leur &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; ou non. Celles qui ratent ce jet de sauvegarde subissent un malus &#224; ces tests de Survie &#233;gal au double du &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; du personnage, consid&#232;rent toutes les cases qu&#39;elles traversent comme un &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement-Et-Position#Terraindifficile.html&quot; title=&quot;terrain difficile&quot;&gt;terrain difficile&lt;/a&gt; tant qu&#39;elles restent dans la zone d&#39;effet et pendant 1 heure par niveau de lanceur de sorts par la suite, perdent les avantages de tous les effets qui leur permettent d&#39;ignorer le terrain difficile, et subissent un malus de -4 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Impasse &#233;gar&#233;e&lt;/i&gt; peut &#234;tre rendu permanent gr&#226;ce &#224; un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Permanence.html&quot; title=&quot;Permanence&quot;&gt;permanence&lt;/a&gt;&lt;/i&gt; et 10.000 po de composantes mat&#233;rielles.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;box&quot;&gt;&lt;style&gt;.box { width: 844px; } #PageContentDiv .voiraussi h4 { line-height: 16px; }&lt;/style&gt;&lt;div class=&quot;voiraussi&quot; style=&quot;width:100%&quot;&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Sorts qui &#171; fonctionnent comme &#187; &lt;i&gt;impasse &#233;gar&#233;e&lt;/i&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_qui_&#171;_fonctionnent_comme_&#187;_impasse_&#233;gar&#233;e__0&quot; href=&quot;#Sorts_qui_&#171;_fonctionnent_comme_&#187;_impasse_&#233;gar&#233;e__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;&lt;/div&gt;
+&lt;h1 class=&quot;separator&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localit&#233;-&#201;gar&#233;e.html&quot; title=&quot;Localit&#233; &#233;gar&#233;e&quot;&gt;Localit&#233; &#233;gar&#233;e&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;_Localit&#233;_&#233;gar&#233;e__0&quot; href=&quot;#_Localit&#233;_&#233;gar&#233;e__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Samsaran.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Samsaran (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Samsaran.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Samsaran-(Race).html&quot; title=&quot;Les samsarans&quot;&gt;samsarans&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Races de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Races/Races de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Coercition.html&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effet mental&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 9, &lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Psy&lt;/a&gt; 9  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 24 heures  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; 0,75 km/niveau  
+&lt;b&gt;Zone d&#39;effet&lt;/b&gt; jusqu&#39;&#224; un cube de 0,75 km d&#39;ar&#234;te/niveau  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 2 heures/niveau (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#DUREE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;T&lt;/a&gt;)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;partiel&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui
+&lt;hr&gt;
+Ce sort fonctionne comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Impasse-&#201;gar&#233;e.html&quot; title=&quot;Impasse &#233;gar&#233;e&quot;&gt;impasse &#233;gar&#233;e&lt;/a&gt;&lt;/i&gt;, except&#233; qu&#39;il affecte une zone plus grande. &lt;i&gt;Localit&#233; &#233;gar&#233;e&lt;/i&gt; peut &#234;tre rendu permanent gr&#226;ce &#224; un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Permanence.html&quot; title=&quot;Permanence&quot;&gt;permanence&lt;/a&gt;&lt;/i&gt; et 90.000 po de composantes mat&#233;rielles.
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Samsaran (race)|samsarans|Illustrations/PNJ/Samsaran.jpg}{s:cs}{s:ISR}'''École''' [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|Bien, feu]]<nowiki>]</nowiki> ; '''Niveau''' [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 3, [[Psychiste|Psy]] 4  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G]]  
+'''Portée''' longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)  
+'''Zone d'effet''' jusqu'à un cube de 9 mètres d'arête/niveau ([[Présentation des sorts##DEFFACONNABLE|F]])  
+'''Durée''' 2 heures/niveau ([[Présentation des sorts#DUREE|T]])  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; '''Résistance à la magie''' oui
+<hr>
+Les créatures dans la zone d'effet de ce sort sont sujettes à un subtil enchantement qui embrouille leur sens de l'orientation, interfère avec leur capacité à reconnaître des repères environnementaux, et les pousse à mal juger les angles et les distances. Les créatures qui entrent dans la zone d'effet doivent réussir un nouveau test de [[Survie]] pour éviter de se perdre immédiatement, qu'elles aient réussi leur [[jds|jet de sauvegarde]] ou non. Celles qui ratent ce jet de sauvegarde subissent un malus à ces tests de Survie égal au double du [[NLS|niveau de lanceur de sorts]] du personnage, considèrent toutes les cases qu'elles traversent comme un [[terrain difficile]] tant qu'elles restent dans la zone d'effet et pendant 1 heure par niveau de lanceur de sorts par la suite, perdent les avantages de tous les effets qui leur permettent d'ignorer le terrain difficile, et subissent un malus de -4 à la [[Dextérité]].
+
+''Impasse égarée'' peut être rendu permanent grâce à un sort de ''[[permanence]]'' et 10.000 po de composantes matérielles.
+
+
+
+((({s:sortssimilaires|impasse égarée}
+==[[Localité égarée]]==
+{s:racial|Samsaran (race)|samsarans|Illustrations/PNJ/Samsaran.jpg}{s:cs}{s:ISR}'''École''' [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; '''Niveau''' [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9  
+'''Temps d'incantation''' 24 heures  
+'''Composantes''' [[composantes|V, G]]  
+'''Portée''' 0,75 km/niveau  
+'''Zone d'effet''' jusqu'à un cube de 0,75 km d'arête/niveau  
+'''Durée''' 2 heures/niveau ([[Présentation des sorts#DUREE|T]])  
+'''Jet de sauvegarde''' [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; '''Résistance à la magie''' oui
+<hr>
+Ce sort fonctionne comme ''[[impasse égarée]]'', excepté qu'il affecte une zone plus grande. ''Localité égarée'' peut être rendu permanent grâce à un sort de ''[[permanence]]'' et 90.000 po de composantes matérielles.
+)))]]></raw>
+  <fullName>Pathfinder-RPG.Impasse égarée</fullName>
+</wikiPage>

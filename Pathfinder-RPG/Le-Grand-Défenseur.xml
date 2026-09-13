@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Héraut, Le Grand Défenseur</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2025-01-09 17:58:39Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type héraut</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des créatures artificielles (capacité)</link><link>Pathfinder-RPG.Souffle (capacité)</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Immobiliser</link><link>Pathfinder-RPG.Lancer improvisé</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.fer froid</link><link>Pathfinder-RPG.argent</link><link>Pathfinder-RPG.adamantium</link><link>Pathfinder-RPG.écu (armure)</link><link>Pathfinder-RPG.Golem de fer</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.marteau de guerre (arme)</link><link>Pathfinder-RPG.Torag (technique)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Le Grand D&#233;fenseur&lt;div style=&quot;float:right;&quot;&gt;FP 15&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 51 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-H&#233;raut.html&quot; title=&quot;H&#233;raut (sous-type)&quot;&gt;h&#233;raut&lt;/a&gt;) de taille TG, LB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +20
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 32, contact 7, pris au d&#233;pourvu 32 (bouclier +5, Dex -1, naturelle +20, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 157 (18d10+58)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; magie, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles (Ext)&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt; ; &lt;b&gt;RD&lt;/b&gt; 15/adamantium
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; marteau de guerre, +27/+22/+17/+12 (3d6+11/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 4,5 m ; &lt;b&gt;Allonge&lt;/b&gt; 4,5 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle (Sur)&quot;&gt;souffle&lt;/a&gt;, temp&#234;te de marteaux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 32, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +18 ; &lt;b&gt;BMO&lt;/b&gt; +31 (+33 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 40 (46 contre &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt;, 44 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Immobiliser.html&quot; title=&quot;Immobiliser&quot;&gt;Immobiliser&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Improvis&#233;.html&quot; title=&quot;Lancer improvis&#233;&quot;&gt;Lancer improvis&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (exploration souterraine, folklore local, histoire, ing&#233;nierie, nature, religion) +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; c&#233;leste, igneux, nain, terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; adaptation ablative, bouclier du D&#233;fenseur, &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html#TRAITSSTANDARDS&quot; title=&quot;Les nains&quot;&gt;traits nains&lt;/a&gt; (armes famili&#232;res, connaissance de la pierre, entra&#238;nement d&#233;fensif, haine, robuste, stabilit&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre Paradis)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Adaptation ablative (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, le Grand D&#233;fenseur peut d&#233;faire sa couche externe de m&#233;tal, r&#233;v&#233;lant une version l&#233;g&#232;rement plus petite de lui-m&#234;me. Cette nouvelle forme peut &#234;tre faite de fer froid (sa &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;RD&lt;/a&gt; passe &#224; 15/&lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux#Ferfroid.html&quot; title=&quot;fer froid&quot;&gt;fer froid&lt;/a&gt;), de mithral (RD 15/&lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux#Argent.html&quot; title=&quot;argent&quot;&gt;argent&lt;/a&gt;) ou de fer (RD 15/&lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux#Adamantium.html&quot; title=&quot;adamantium&quot;&gt;adamantium&lt;/a&gt;, comme d&#39;habitude). Ses attaques comptent comme ce type de m&#233;tal dans le cadre de la &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;duction des d&#233;g&#226;ts&lt;/a&gt;. Si le h&#233;raut est r&#233;duit &#224; 0 point de vie, il devient inerte ; 1d4 heures apr&#232;s avoir subi ses derniers d&#233;g&#226;ts, il se d&#233;barrasse de sa couche externe et se r&#233;anime &#224; la moiti&#233; de ses points de vie normaux. Une fois qu&#39;il s&#39;est d&#233;barrass&#233; de sa couche ext&#233;rieure, celle-ci se d&#233;compose en une poudre sans valeur en 1d4 minutes.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Bouclier du D&#233;fenseur (Ext).&lt;/b&gt; Le bouclier du h&#233;raut est un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;cu-(Armure).html&quot; title=&quot;&#201;cu (bois/acier)&quot;&gt;&#233;cu en acier&lt;/a&gt; +3&lt;/i&gt;, bien qu&#39;il devienne non-magique si le h&#233;raut est d&#233;truit ou s&#39;il n&#39;est plus en sa possession.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233; &#224; la magie (Sur).&lt;/b&gt; Le h&#233;raut poss&#232;de la m&#234;me immunit&#233; &#224; la magie qu&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Golem-De-Fer.html&quot; title=&quot;Golem, Golem de fer&quot;&gt;golem de fer&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle (Sur).&lt;/b&gt; Le souffle empoisonn&#233; du h&#233;raut fonctionne comme celui d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Golem-De-Fer.html&quot; title=&quot;Golem, Golem de fer&quot;&gt;golem de fer&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; tous les 1d4 rounds, cube de 3 m d&#39;ar&#234;te, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 19, 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;, 2 r&#233;ussites cons&#233;cutives). Le DD du jet de sauvegarde est bas&#233; sur la Constitution. Le nuage persiste pendant 1 round.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Temp&#234;te de marteaux (Ext).&lt;/b&gt; Le h&#233;raut peut projeter une rafale de marteaux de guerre depuis sa bouche, ce qui fonctionne comme un &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle (Sur)&quot;&gt;souffle&lt;/a&gt; (c&#244;ne de 9 m, 15d6 points de d&#233;g&#226;ts contondants plus &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 19 moiti&#233;, utilisable 1 fois/jour). Si le h&#233;raut est sous forme de fer froid ou de mithral, ces marteaux comptent comme &#233;tant en fer froid ou en argent, respectivement. Le h&#233;raut peut exclure n&#39;importe quel nombre de cases dans le c&#244;ne. La temp&#234;te de marteaux cr&#233;e 24 &lt;a class=&quot;pagelink&quot; href=&quot;Marteau-De-Guerre-(Arme).html&quot; title=&quot;Marteau de guerre&quot;&gt;marteaux de guerre&lt;/a&gt; physiques qui persistent apr&#232;s l&#39;attaque instantan&#233;e et peuvent &#234;tre utilis&#233;s par des cr&#233;atures (il s&#39;agit toutefois de marteaux de guerre normaux, pas de marteaux de ma&#238;tre, de fer froid ou de mithral). Le h&#233;raut peut passer 1 minute &#224; manger 24 marteaux de guerre (ou une quantit&#233; &#233;quivalente de m&#233;tal comme celui cr&#233;&#233; par sa capacit&#233; d&#39;adaptation ablative) pour recharger cette capacit&#233;. Le DD du jet de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Fabriqu&#233; &#224; partir de fer poli, ce puissant golem ressemble &#224; un nain &#224; l&#39;œil vif. Il porte un marteau de guerre et un bouclier portant le symbole de Torag.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le Grand D&#233;fenseur est un puissant tombeau en forme de golem qui sert de corps commun et de lieu de repos aux plus grands h&#233;ros nains de &lt;a class=&quot;pagelink&quot; href=&quot;Torag-(Technique).html&quot; title=&quot;Torag&quot;&gt;Torag&lt;/a&gt;. Il mesure 5,4 m de haut et p&#232;se environ 10 tonnes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Le Grand Défenseur|FP 15}
+{s:BDTexte|'''PX''' 51 200}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type héraut|héraut]]) de taille TG, LB}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +20}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 32, contact 7, pris au dépourvu 32 (bouclier +5, Dex -1, naturelle +20, taille -2)}
+{s:BDTexte|'''pv''' 157 (18d10+58)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +6, '''Vol''' +8}
+{s:BDTexte|'''Immunités''' magie, [[Traits des créatures artificielles (capacité)|traits des créatures artificielles]] ; '''RD''' 15/adamantium}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' marteau de guerre, +27/+22/+17/+12 (3d6+11/×3)}
+{s:BDTexte|'''Espace occupé''' 4,5 m ; '''Allonge''' 4,5 m}
+{s:BDTexte|'''Attaques spéciales''' [[Souffle (capacité)|souffle]], tempête de marteaux}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 32, '''Dex''' 9, '''Con''' —, '''Int''' 15, '''Sag''' 14, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +18 ; '''BMO''' +31 (+33 en [[bousculade]]) ; '''DMD''' 40 (46 contre [[bousculade]], 44 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Immobiliser]], [[Lancer improvisé]], [[Robustesse]], [[Science de la bousculade]], [[Science de linitiative|Science de l'initiative]], [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (exploration souterraine, folklore local, histoire, ingénierie, nature, religion) +11, [[Perception]] +20}
+{s:BDTexte|'''Langues''' céleste, igneux, nain, terreux}
+{s:BDTexte|'''Particularités''' adaptation ablative, bouclier du Défenseur, [[Nain#TRAITSSTANDARDS|traits nains]] (armes familières, connaissance de la pierre, entraînement défensif, haine, robuste, stabilité)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre Paradis)}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Adaptation ablative (Sur).''' Par une [[action simple]], le Grand Défenseur peut défaire sa couche externe de métal, révélant une version légèrement plus petite de lui-même. Cette nouvelle forme peut être faite de fer froid (sa [[RD]] passe à 15/[[fer froid]]), de mithral (RD 15/[[argent]]) ou de fer (RD 15/[[adamantium]], comme d'habitude). Ses attaques comptent comme ce type de métal dans le cadre de la [[RD|réduction des dégâts]]. Si le héraut est réduit à 0 point de vie, il devient inerte ; 1d4 heures après avoir subi ses derniers dégâts, il se débarrasse de sa couche externe et se réanime à la moitié de ses points de vie normaux. Une fois qu'il s'est débarrassé de sa couche extérieure, celle-ci se décompose en une poudre sans valeur en 1d4 minutes.}
+{s:BDTexte|'''Bouclier du Défenseur (Ext).''' Le bouclier du héraut est un ''[[écu (armure)|écu en acier]] +3'', bien qu'il devienne non-magique si le héraut est détruit ou s'il n'est plus en sa possession.}
+{s:BDTexte|'''Immunité à la magie (Sur).''' Le héraut possède la même immunité à la magie qu'un [[golem de fer]].}
+{s:BDTexte|'''Souffle (Sur).''' Le souffle empoisonné du héraut fonctionne comme celui d'un [[golem de fer]] ([[action libre]] tous les 1d4 rounds, cube de 3 m d'arête, [[Vigueur]] DD 19, 1d4 [[Constitution]], 2 réussites consécutives). Le DD du jet de sauvegarde est basé sur la Constitution. Le nuage persiste pendant 1 round.}
+{s:BDTexte|'''Tempête de marteaux (Ext).''' Le héraut peut projeter une rafale de marteaux de guerre depuis sa bouche, ce qui fonctionne comme un [[Souffle (capacité)|souffle]] (cône de 9 m, 15d6 points de dégâts contondants plus [[Coup fabuleux]], [[Réflexes]] DD 19 moitié, utilisable 1 fois/jour). Si le héraut est sous forme de fer froid ou de mithral, ces marteaux comptent comme étant en fer froid ou en argent, respectivement. Le héraut peut exclure n'importe quel nombre de cases dans le cône. La tempête de marteaux crée 24 [[marteau de guerre (arme)|marteaux de guerre]] physiques qui persistent après l'attaque instantanée et peuvent être utilisés par des créatures (il s'agit toutefois de marteaux de guerre normaux, pas de marteaux de maître, de fer froid ou de mithral). Le héraut peut passer 1 minute à manger 24 marteaux de guerre (ou une quantité équivalente de métal comme celui créé par sa capacité d'adaptation ablative) pour recharger cette capacité. Le DD du jet de sauvegarde est basé sur la Constitution.}
+</div>
+</td><td><div>''Fabriqué à partir de fer poli, ce puissant golem ressemble à un nain à l'œil vif. Il porte un marteau de guerre et un bouclier portant le symbole de Torag.''
+
+Le Grand Défenseur est un puissant tombeau en forme de golem qui sert de corps commun et de lieu de repos aux plus grands héros nains de [[Torag (technique)|Torag]]. Il mesure 5,4 m de haut et pèse environ 10 tonnes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Le Grand Défenseur</fullName>
+</wikiPage>

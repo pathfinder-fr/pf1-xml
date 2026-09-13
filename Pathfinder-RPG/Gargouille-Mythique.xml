@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Gargouille mythique</title>
+  <categories><category>Pathfinder-RPG.Monstre mythique</category><category>Pathfinder-RPG.Src Campagnes mythiques</category></categories>
+  <lastModified>2021-04-01 19:28:56Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Campagnes mythiques (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres mythiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.sous-type mythique</link><link>Pathfinder-RPG.sous-type Terre</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.RDépique</link><link>Pathfinder-RPG.Pouvoir mythique (capacité)</link><link>Pathfinder-RPG.Montée en puissance (capacité)</link><link>Pathfinder-RPG.Souffle (capacité)</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.AO</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.Gargouille</link><link>Pathfinder-RPG.Sans défense</link><link>Pathfinder-RPG.Action de mouvement</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gargouille mythique&lt;div style=&quot;float:right;&quot;&gt;FP 5/RMY 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de monstrueux&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de monstrueux.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Campagnes mythiques p.198&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Terre.html&quot; title=&quot;Terre (sous-type)&quot;&gt;terre&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 12, pris au d&#233;pourvu 16 (+2 Dex, +6 naturelle)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 62 (5d10+35)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Rdepique.html&quot; title=&quot;RD&#233;pique&quot;&gt;&#233;pique&lt;/a&gt; et magique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m, vol 18 m (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +8 (1d4+3) et 2 griffes, +8 (1d6+3) et corne, +8 (1d4+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (2/jour, &lt;a class=&quot;pagelink&quot; href=&quot;Mont&#233;e-En-Puissance-(Capacit&#233;).html&quot; title=&quot;Mont&#233;e en puissance (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;mont&#233;e en puissance&lt;/a&gt; +1d6), &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle (Sur)&quot;&gt;souffle&lt;/a&gt; (ligne de 18 m, 6d6 d&#233;g&#226;ts acide, R&#233;flexes DD 15 1/2 d&#233;g&#226;ts, utilisable tous les 1d4 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5, &lt;b&gt;BMO&lt;/b&gt; +8, &lt;b&gt;DMD&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Vol), &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11 (+17 : +6 dans les environnements rocheux), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +12 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +2 en Discr&#233;tion (+8 : +6 dans les environnements rocheux)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; d&#233;placement opportuniste, immobilit&#233;, possession de statue
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou escadron (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;placement opportuniste (Ext).&lt;/b&gt; La gargouille mythique peut se d&#233;placer tr&#232;s rapidement pour tirer avantage des d&#233;fenses affaiblies d’un adversaire. Quand un adversaire situ&#233; dans un rayon de 9 m&#232;tres entreprend une action qui provoque une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;Attaque d&amp;#39;opportunit&#233; (redirection)&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;, la gargouille peut d&#233;penser une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Immediate.html&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt; pour se d&#233;placer d’un maximum de 12 m&#232;tres, s’arr&#234;tant &#224; c&#244;t&#233; de la cr&#233;ature qui a provoqu&#233; l’attaque d’opportunit&#233; et portant elle aussi une attaque d’opportunit&#233; contre elle. Le d&#233;placement que fait la gargouille gr&#226;ce &#224; ce pouvoir ne provoque pas d’attaque d’opportunit&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immobilit&#233; (Ext).&lt;/b&gt; La gargouille peut rester si immobile qu’on la confond avec une statue. Une gargouille qui utilise ce pouvoir peut faire 20 &#224; son test de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; pour se cacher en pleine lumi&#232;re en se faisant passer pour une statue de pierre.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Possession de statue (Sur).&lt;/b&gt; La gargouille mythique peut d&#233;penser une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; pour poss&#233;der et animer une statue de pierre de taille M dans un rayon de 30 m&#232;tres. La statue poss&#233;d&#233;e fonctionne comme une &lt;a class=&quot;pagelink&quot; href=&quot;Gargouille.html&quot; title=&quot;Gargouille&quot;&gt;gargouille non-mythique&lt;/a&gt; tant que la statue est &#224; port&#233;e et que la gargouille reste concentr&#233;e. Quand la gargouille utilise ce pouvoir, son corps physique est immobile (comme si elle utilisait son pouvoir immobilit&#233;) et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Sansd&#233;fense.html&quot; title=&quot;Sans d&#233;fense&quot;&gt;sans d&#233;fense&lt;/a&gt;. Elle peut arr&#234;ter ce pouvoir par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;. Si la statue est d&#233;truite, la force vitale de la gargouille retourne dans son propre corps.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Cette statue de pierre vivante pr&#233;sente la silhouette d’un humano&#239;de ail&#233; et cornu et de l’acide vert goutte de sa gueule.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+La gargouille mythique est un roi ou une reine parmi les siens et doit g&#233;n&#233;ralement ses pouvoirs &#224; un dieu de la terre, &#224; une pierre pr&#233;cieuse mythique incrust&#233;e dans sa poitrine ou &#224; des si&#232;cles d’exposition &#224; une puissante magie. Elle a une apparence particuli&#232;re et les autres membres de son escadron changent peu &#224; peu pour imiter son apparence.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Kapoacinthe mythique&lt;a class=&quot;headeranchor&quot; id=&quot;Kapoacinthe_mythique_0&quot; href=&quot;#Kapoacinthe_mythique_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;La gargouille mythique aquatique est presque identique &#224; la gargouille mythique mais elle a g&#233;n&#233;ralement un souffle &#233;lectrique plut&#244;t qu’acide. Certaines ont le pouvoir de poss&#233;der les les statues de bois ou de corail plut&#244;t que de pierre.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Gargouille mythique|FP 5/RMY 2}
+{s:pucem|Humanoïde monstrueux|Ruines-Donjons|Tempéré}
+{s:BDtexte|''Source : Campagnes mythiques p.198''}
+{s:BDtexte|'''PX''' 1 600}
+{s:BDtexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type mythique|mythique]], [[sous-type terre|terre]]) de taille M, CM}
+{s:BDtexte|'''Init''' +6 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +5}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 18, contact 12, pris au dépourvu 16 (+2 Dex, +6 naturelle)}
+{s:BDtexte|'''pv''' 62 (5d10+35)}
+{s:BDtexte|'''Réf''' +6, '''Vig''' +4, '''Vol''' +6}
+{s:BDtexte|'''RD''' 10/[[RDépique|épique]] et magique}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 12 m, vol 18 m (moyenne)}
+{s:BDtexte|'''Corps à corps''' morsure, +8 (1d4+3) et 2 griffes, +8 (1d6+3) et corne, +8 (1d4+3)}
+{s:BDtexte|'''Attaques spéciales''' [[Pouvoir mythique (capacité)|pouvoir mythique]] (2/jour, [[Montée en puissance (capacité)|montée en puissance]] +1d6), [[Souffle (capacité)|souffle]] (ligne de 18 m, 6d6 dégâts acide, Réflexes DD 15 1/2 dégâts, utilisable tous les 1d4 rounds)}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 17, '''Dex''' 14, '''Con''' 16, '''Int''' 6, '''Sag''' 11, '''Cha''' 7}
+{s:BDtexte|'''BBA''' +5, '''BMO''' +8, '''DMD''' 20}
+{s:BDtexte|'''Dons''' [[Science de linitiative|Science de l’initiative]], [[Talent]] (Vol), [[Volonté de fer]]<sup>M</sup>}
+{s:BDtexte|'''Compétences''' [[Discrétion]] +11 (+17 : +6 dans les environnements rocheux), [[Perception]] +5, [[Vol]] +12 ; '''Modificateurs raciaux''' +2 en Discrétion (+8 : +6 dans les environnements rocheux)}
+{s:BDtexte|'''Langues''' commun, terreux}
+{s:BDtexte|'''Particularités''' déplacement opportuniste, immobilité, possession de statue}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' tous}
+{s:BDtexte|'''Organisation sociale''' solitaire, couple ou escadron (3-12)}
+{s:BDtexte|'''Trésor''' standard}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Déplacement opportuniste (Ext).''' La gargouille mythique peut se déplacer très rapidement pour tirer avantage des défenses affaiblies d’un adversaire. Quand un adversaire situé dans un rayon de 9 mètres entreprend une action qui provoque une [[AO|attaque d’opportunité]], la gargouille peut dépenser une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] par une [[action immédiate]] pour se déplacer d’un maximum de 12 mètres, s’arrêtant à côté de la créature qui a provoqué l’attaque d’opportunité et portant elle aussi une attaque d’opportunité contre elle. Le déplacement que fait la gargouille grâce à ce pouvoir ne provoque pas d’attaque d’opportunité.}
+{s:BDtexte|'''Immobilité (Ext).''' La gargouille peut rester si immobile qu’on la confond avec une statue. Une gargouille qui utilise ce pouvoir peut faire 20 à son test de [[Discrétion]] pour se cacher en pleine lumière en se faisant passer pour une statue de pierre.}
+{s:BDtexte|'''Possession de statue (Sur).''' La gargouille mythique peut dépenser une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] pour posséder et animer une statue de pierre de taille M dans un rayon de 30 mètres. La statue possédée fonctionne comme une [[Gargouille|gargouille non-mythique]] tant que la statue est à portée et que la gargouille reste concentrée. Quand la gargouille utilise ce pouvoir, son corps physique est immobile (comme si elle utilisait son pouvoir immobilité) et [[sans défense]]. Elle peut arrêter ce pouvoir par une [[action de mouvement]]. Si la statue est détruite, la force vitale de la gargouille retourne dans son propre corps.}
+</div>
+</td>
+<td>
+<div>
+''Cette statue de pierre vivante présente la silhouette d’un humanoïde ailé et cornu et de l’acide vert goutte de sa gueule.''
+
+
+La gargouille mythique est un roi ou une reine parmi les siens et doit généralement ses pouvoirs à un dieu de la terre, à une pierre précieuse mythique incrustée dans sa poitrine ou à des siècles d’exposition à une puissante magie. Elle a une apparence particulière et les autres membres de son escadron changent peu à peu pour imiter son apparence.
+
+====Kapoacinthe mythique====
+La gargouille mythique aquatique est presque identique à la gargouille mythique mais elle a généralement un souffle électrique plutôt qu’acide. Certaines ont le pouvoir de posséder les les statues de bois ou de corail plutôt que de pierre.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Gargouille mythique</fullName>
+</wikiPage>

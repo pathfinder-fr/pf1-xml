@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bouclier désarmant (bois/acier)</title>
+  <categories><category>Pathfinder-RPG.Armure</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-15 23:01:52Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des armures</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Tableau récapitulatif des armures</link><link>Pathfinder-RPG.désarmement</link><link>Pathfinder-RPG.Gnome</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gnome.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gnome.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gnome.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;gnomes&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 37/50 po ; &lt;b&gt;Poids&lt;/b&gt; 7,5/10 kg  
+&lt;b&gt;Bonus de bouclier&lt;/b&gt; +2 ; &lt;b&gt;Bonus de Dex maximal&lt;/b&gt; — ; &lt;b&gt;Malus d&#39;armure&lt;/b&gt; -3  
+&lt;b&gt;Risque d&#39;&#233;chec des sorts profanes&lt;/b&gt; 15% ; &lt;b&gt;Vitesse&lt;/b&gt; —/—  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html#TABBOUCLIERS&quot; title=&quot;Tableau r&#233;capitulatif des armures&quot;&gt;Boucliers&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Une dizaine de tiges en bois ou en m&#233;tal est fix&#233;e sur la face avant de ce lourd bouclier. Le personnage peut l’utiliser pour &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Desarmement.html&quot; title=&quot;d&#233;sarmement&quot;&gt;d&#233;sarmer&lt;/a&gt; ses adversaires.
+]]></body>
+  <raw><![CDATA[{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}'''Prix''' 37/50 po ; '''Poids''' 7,5/10 kg  
+'''Bonus de bouclier''' +2 ; '''Bonus de Dex maximal''' — ; '''Malus d'armure''' -3  
+'''Risque d'échec des sorts profanes''' 15% ; '''Vitesse''' —/—  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armures#TABBOUCLIERS|Boucliers]]</span>
+<hr>
+Une dizaine de tiges en bois ou en métal est fixée sur la face avant de ce lourd bouclier. Le personnage peut l’utiliser pour [[désarmement|désarmer]] ses adversaires.]]></raw>
+  <fullName>Pathfinder-RPG.Bouclier désarmant (armure)</fullName>
+</wikiPage>

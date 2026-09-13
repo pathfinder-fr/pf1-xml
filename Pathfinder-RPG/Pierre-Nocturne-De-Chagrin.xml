@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pierre nocturne de chagrin</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-31 16:13:47Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux portés autour du cou</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Objets merveilleux portés autour du cou</link><link>Pathfinder-RPG.Résistance (capacité)</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Signature magique</link><link>Pathfinder-RPG.Dahak (technique)</link><link>Pathfinder-RPG.Fracassement</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Regain dassurance</link><link>Pathfinder-RPG.Résistance aux énergies destructives</link><link>Pathfinder-RPG.Dahak (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fDahak.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Dahak (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fDahak.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Dahak-(Technique).html&quot; title=&quot;Dahak&quot;&gt;Dahak&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Pierre nocturne de chagrin&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;Mal&lt;/a&gt;] faible ; &lt;b&gt;NLS&lt;/b&gt; 3 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Autour-Du-Cou.html&quot; title=&quot;Objets merveilleux port&#233;s autour du cou&quot;&gt;cou&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 3 300 po ; &lt;b&gt;Poids&lt;/b&gt; 1 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette pierre noire a un aspect gr&#234;l&#233; et partiellement calcin&#233; et fondu ; on la porte habituellement accroch&#233;e &#224; une lourde cha&#238;ne. Elle d&#233;gage une impression d’imprudence mal&#233;fique, qui tient plus d’une sensation de danger que d’un quelconque autre sentiment. Le personnage b&#233;n&#233;ficie d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;r&#233;sistance&lt;/a&gt; au feu 1 et d’un bonus de r&#233;sistance de +1 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; contre la terreur. Si la pierre subit au moins 10 points de d&#233;g&#226;ts de feu en un seul &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;, un motif en forme de griffe brille faiblement &#224; sa surface, comme avec une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signature-Magique.html&quot; title=&quot;Signature magique&quot;&gt;signature magique&lt;/a&gt;&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Si le personnage est un suivant de &lt;a class=&quot;pagelink&quot; href=&quot;Dahak-(Technique).html&quot; title=&quot;Dahak&quot;&gt;Dahak&lt;/a&gt;, il peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fracassement.html&quot; title=&quot;Fracassement&quot;&gt;fracassement&lt;/a&gt;&lt;/i&gt; une fois par jour. Il peut faire briller le symbole griffu &#224; volont&#233; ; les dragons Bons et Mauvais reconnaissent cette marque comme une repr&#233;sentation du dieu.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signature-Magique.html&quot; title=&quot;Signature magique&quot;&gt;signature magique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Regain-Dassurance.html&quot; title=&quot;Regain d&amp;#39;assurance&quot;&gt;regain d’assurance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;R&#233;sistance aux &#233;nergies destructives&quot;&gt;r&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fracassement.html&quot; title=&quot;Fracassement&quot;&gt;fracassement&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 650 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Dahak|%2fPCUP%2fReligion-PNG%2fDahak.png}<div class="BD">
+{s:BDTitre|Pierre nocturne de chagrin|{s:ISG}{s:GeM}}
+'''Aura''' [[Abjuration]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> faible ; '''NLS''' 3 ; '''Emplacement''' [[Objets merveilleux portés autour du cou|cou]] ; '''Prix''' 3 300 po ; '''Poids''' 1 kg
+(((Description)))
+Cette pierre noire a un aspect grêlé et partiellement calciné et fondu ; on la porte habituellement accrochée à une lourde chaîne. Elle dégage une impression d’imprudence maléfique, qui tient plus d’une sensation de danger que d’un quelconque autre sentiment. Le personnage bénéficie d'une [[Résistance (capacité)|résistance]] au feu 1 et d’un bonus de résistance de +1 aux jets de [[Volonté]] contre la terreur. Si la pierre subit au moins 10 points de dégâts de feu en un seul [[round]], un motif en forme de griffe brille faiblement à sa surface, comme avec une ''[[signature magique]]''.
+
+Si le personnage est un suivant de [[Dahak (technique)|Dahak]], il peut utiliser ''[[fracassement]]'' une fois par jour. Il peut faire briller le symbole griffu à volonté ; les dragons Bons et Mauvais reconnaissent cette marque comme une représentation du dieu.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[signature magique]]'', ''[[regain dassurance|regain d’assurance]]'', ''[[résistance aux énergies destructives]]'', ''[[fracassement]]'' ; '''Coût''' 1 650 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Pierre nocturne de chagrin</fullName>
+</wikiPage>

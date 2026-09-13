@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fext</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-05-29 09:44:02Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des morts-vivants (capacité)</link><link>Pathfinder-RPG.Absorption dénergie (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Communication avec les morts</link><link>Pathfinder-RPG.Mise à mort</link><link>Pathfinder-RPG.Protection contre le Bien</link><link>Pathfinder-RPG.sort Malédiction</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque éclair</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Succession denchaînements</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.épée bâtarde (arme)</link><link>Pathfinder-RPG.harnois (armure)</link><link>Pathfinder-RPG.écu (armure)</link><link>Pathfinder-RPG.Inconscient</link><link>Pathfinder-RPG.Guérison accélérée (capacité)</link><link>Pathfinder-RPG.Eau bénite (objet)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Fext&lt;div style=&quot;float:right;&quot;&gt;FP 10&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Mort-vivant&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.128&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 9 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +20
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 12, pris au d&#233;pourvu 23 (armure +9, bouclier +2, Dex +1, esquive +1, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 127 (15d8+60)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/verre ou obsidienne, &lt;b&gt;Immunit&#233;s&lt;/b&gt; froid, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants (Ext)&quot;&gt;traits des morts-vivants&lt;/a&gt; ; &lt;b&gt;R&#233;sistances&lt;/b&gt; &#233;lectricit&#233; 10, feu 10 ; &lt;b&gt;RM&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m (9 m en armure)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e b&#226;tarde +1, +20/+15/+10 (1d10+8/17-20) ou coup, +18 (1d4+10 plus &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;Absorption d’&#233;nergie (Sur)&quot;&gt;absorption d&#39;&#233;nergie&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;Absorption d’&#233;nergie (Sur)&quot;&gt;absorption d&#39;&#233;nergie&lt;/a&gt; (1d4 niveaux, DD 21)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 15 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Communication-Avec-Les-Morts.html&quot; title=&quot;Communication avec les morts&quot;&gt;communication avec les morts&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Bien.html&quot; title=&quot;Protection contre le Bien&quot;&gt;protection contre le Bien&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Mal&#233;diction.html&quot; title=&quot;Mal&#233;diction&quot;&gt;mal&#233;diction&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 25, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +11 ; &lt;b&gt;BMO&lt;/b&gt; +18 ; &lt;b&gt;DMD&lt;/b&gt; 33
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (&#233;p&#233;e b&#226;tarde), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-&#201;clair.html&quot; title=&quot;Attaque &#233;clair&quot;&gt;Attaque &#233;clair&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (&#233;p&#233;e b&#226;tarde), &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Succession-Dencha&#238;nements.html&quot; title=&quot;Succession d&amp;#39;encha&#238;nements&quot;&gt;Succession d&#39;encha&#238;nements&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (ing&#233;nierie) +12, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +12, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +20, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; indestructible
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;p&#233;e-B&#226;tarde-(Arme).html&quot; title=&quot;&#201;p&#233;e b&#226;tarde&quot;&gt;&#233;p&#233;e b&#226;tarde&lt;/a&gt; +1&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Harnois-(Armure).html&quot; title=&quot;Harnois&quot;&gt;harnois&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;cu-(Armure).html&quot; title=&quot;&#201;cu (bois/acier)&quot;&gt;&#233;cu en acier&lt;/a&gt;, autre &#233;quipement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Indestructible (Sur).&lt;/b&gt; Quand son nombre de points de vie tombe &#224; 0 suite &#224; n’importe quel type d’attaque, &#224; l’exception de celles inflig&#233;es par une arme en verre ou en obsidienne, un fext n’est pas d&#233;truit mais tombe dans l’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Inconscient.html&quot; title=&quot;Inconscient&quot;&gt;inconscience&lt;/a&gt; &#224; la place. De plus, 1d4 minutes apr&#232;s &#234;tre tomb&#233; inconscient, il b&#233;n&#233;ficie d’une &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 1. Pour d&#233;truire d&#233;finitivement un fext, son nombre de points de vie doit &#234;tre r&#233;duit &#224; 0 &#224; l’aide d’une arme en verre ou en obsidienne ou, s’il est d&#233;j&#224; inconscient, sa t&#234;te doit &#234;tre tranch&#233;e puis enduite d’&lt;a class=&quot;pagelink&quot; href=&quot;Eau-B&#233;nite-(Objet).html&quot; title=&quot;Eau b&#233;nite&quot;&gt;eau b&#233;nite&lt;/a&gt;. Une fois d&#233;truit, un fext se d&#233;sagr&#232;ge en fines cendres.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;La peau blafarde et les yeux morts et vides de cette cr&#233;ature dissimulent sa robustesse et sa puissance physique. Elle porte une armure impressionnante.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les bons g&#233;n&#233;raux interdisent &#224; leurs troupes de mentionner l’existence des fexts, mais une telle restriction ne parvient pas vraiment &#224; emp&#234;cher les soldats de murmurer des histoires &#224; propos d’officiers immortels &#224; la t&#234;te d’unit&#233;s ennemies.&lt;br /&gt;&lt;br /&gt;Ces officiers surnaturels ne semblent presque jamais tomber au combat et, m&#234;me si c’est le cas, ils reviennent, imperturbables, pour participer &#224; la bataille suivante. Les soldats pr&#233;tendent, &#224; voix basse, que ces commandants immortels ne sont vuln&#233;rables qu’aux armes en verre. Les histoires sur les fexts, habituellement rabaiss&#233;es au rang de contes folkloriques narr&#233;s dans les camps par des soldats frustr&#233;s lors des campagnes et des batailles perdues, sont toutes effroyablement vraies : une v&#233;rit&#233; que les officiers bien vivants cachent aux soldats de base, car il faut &#234;tre le plus dur des meneurs pour envoyer des soldats se battre contre un adversaire indestructible. Ces abominations sont souvent au service de monarques corrompus ou de tyrans d&#233;sesp&#233;r&#233;s et assoiff&#233;s de pouvoir. D’autres s’infiltrent dans des arm&#233;es au service du bien et oeuvrent comme agents doubles, bravant les id&#233;aux de leur nation. Les fexts utilisent la politique et la d&#233;sinformation pour cacher la v&#233;rit&#233; quant aux atrocit&#233;s qu’ils commettent sur les champs de bataille et pour soumettre ceux sous leurs ordres.&lt;br /&gt;&lt;br /&gt;Un fext est le plus souvent celui qui donne les ordres sur le champ de bataille mais, une fois engag&#233; dans un combat, il se sert de ses puissants talents martiaux, en compl&#233;tant ses frappes rapides et ses coups mortels par des mal&#233;dictions perturbatrices et son pouvoir d’absorption d’&#233;nergie.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Fext|FP 10}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.128]]''}
+{s:BDTexte|'''PX''' 9 600}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, LM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +20}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 12, pris au dépourvu 23 (armure +9, bouclier +2, Dex +1, esquive +1, naturelle +2)}
+{s:BDTexte|'''pv''' 127 (15d8+60)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +9, '''Vol''' +11}
+{s:BDTexte|'''RD''' 10/verre ou obsidienne, '''Immunités''' froid, [[Traits des morts-vivants (capacité)|traits des morts-vivants]] ; '''Résistances''' électricité 10, feu 10 ; '''RM''' 21}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m (9 m en armure)}
+{s:BDTexte|'''Corps à corps''' épée bâtarde +1, +20/+15/+10 (1d10+8/17-20) ou coup, +18 (1d4+10 plus [[Absorption dénergie (capacité)|absorption d'énergie]])}
+{s:BDTexte|'''Attaques spéciales''' [[Absorption dénergie (capacité)|absorption d'énergie]] (1d4 niveaux, DD 21)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 15 ; [[concentration]] +19)}
+{s:BDSorts|À volonté — ''[[communication avec les morts]]'' (DD 17), ''[[mise à mort]]'' (DD 16), ''[[protection contre le Bien]]''}
+{s:BDSorts|3/jour — ''[[sort Malédiction|malédiction]]'' (DD 17)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 25, '''Dex''' 18, '''Con''' —, '''Int''' 13, '''Sag''' 15, '''Cha''' 18}
+{s:BDTexte|'''BBA''' +11 ; '''BMO''' +18 ; '''DMD''' 33}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (épée bâtarde), [[Attaque éclair]], [[Attaque en puissance]], [[Enchaînement]], [[Esquive]], [[Science du critique]] (épée bâtarde), [[Souplesse du serpent]], [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +4, [[Connaissances]] (ingénierie) +12, [[Connaissances]] (religion) +12, [[Déguisement]] +15, [[Discrétion]] +11, [[Intimidation]] +20, [[Perception]] +20, [[Psychologie]] +9}
+{s:BDTexte|'''Langues''' commun, infernal}
+{s:BDTexte|'''Particularités''' indestructible}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' standard (''[[épée bâtarde (arme)|épée bâtarde]] +1'', [[harnois (armure)|harnois]], [[écu (armure)|écu en acier]], autre équipement)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Indestructible (Sur).''' Quand son nombre de points de vie tombe à 0 suite à n’importe quel type d’attaque, à l’exception de celles infligées par une arme en verre ou en obsidienne, un fext n’est pas détruit mais tombe dans l’[[inconscient|inconscience]] à la place. De plus, 1d4 minutes après être tombé inconscient, il bénéficie d’une [[Guérison accélérée (capacité)|guérison accélérée]] 1. Pour détruire définitivement un fext, son nombre de points de vie doit être réduit à 0 à l’aide d’une arme en verre ou en obsidienne ou, s’il est déjà inconscient, sa tête doit être tranchée puis enduite d’[[Eau bénite (objet)|eau bénite]]. Une fois détruit, un fext se désagrège en fines cendres.}
+
+</div></td>
+<td><div>''La peau blafarde et les yeux morts et vides de cette créature dissimulent sa robustesse et sa puissance physique. Elle porte une armure impressionnante.''
+
+Les bons généraux interdisent à leurs troupes de mentionner l’existence des fexts, mais une telle restriction ne parvient pas vraiment à empêcher les soldats de murmurer des histoires à propos d’officiers immortels à la tête d’unités ennemies.
+
+Ces officiers surnaturels ne semblent presque jamais tomber au combat et, même si c’est le cas, ils reviennent, imperturbables, pour participer à la bataille suivante. Les soldats prétendent, à voix basse, que ces commandants immortels ne sont vulnérables qu’aux armes en verre. Les histoires sur les fexts, habituellement rabaissées au rang de contes folkloriques narrés dans les camps par des soldats frustrés lors des campagnes et des batailles perdues, sont toutes effroyablement vraies : une vérité que les officiers bien vivants cachent aux soldats de base, car il faut être le plus dur des meneurs pour envoyer des soldats se battre contre un adversaire indestructible. Ces abominations sont souvent au service de monarques corrompus ou de tyrans désespérés et assoiffés de pouvoir. D’autres s’infiltrent dans des armées au service du bien et oeuvrent comme agents doubles, bravant les idéaux de leur nation. Les fexts utilisent la politique et la désinformation pour cacher la vérité quant aux atrocités qu’ils commettent sur les champs de bataille et pour soumettre ceux sous leurs ordres.
+
+Un fext est le plus souvent celui qui donne les ordres sur le champ de bataille mais, une fois engagé dans un combat, il se sert de ses puissants talents martiaux, en complétant ses frappes rapides et ses coups mortels par des malédictions perturbatrices et son pouvoir d’absorption d’énergie.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Fext</fullName>
+</wikiPage>

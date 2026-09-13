@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Compétences fusionnées, Influence</title>
+  <categories><category>Pathfinder-RPG.Src Pathfinder unchained</category></categories>
+  <lastModified>2020-11-18 12:30:06Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences fusionnées, Influence</link><link>Pathfinder-RPG.Compétences fusionnées, Perception</link><link>Pathfinder-RPG.Compétences groupées</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Compétences fusionnées, Influence</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Compétences fusionnées, Perception</link><link>Pathfinder-RPG.Compétences fusionnées, Discrétion</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.MJ</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Secoué</link><link>Pathfinder-RPG.feinte</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.PNJ</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Règles alternatives unchained</link><link>Pathfinder-RPG.Classes unchained</link><link>Pathfinder-RPG.Barbare unchained</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Moine unchained</link><link>Pathfinder-RPG.Roublard unchained</link><link>Pathfinder-RPG.Bonus de base fractionnaires</link><link>Pathfinder-RPG.Progression échelonnée</link><link>Pathfinder-RPG.Compétences et options unchained</link><link>Pathfinder-RPG.Compétences contextuelles</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Artisanat et Profession alternatives</link><link>Pathfinder-RPG.Extensions de compétences</link><link>Pathfinder-RPG.Variante de multiclassage</link><link>Pathfinder-RPG.Mécanismes de jeu unchained</link><link>Pathfinder-RPG.Alignement unchained</link><link>Pathfinder-RPG.Éliminer lalignement</link><link>Pathfinder-RPG.Gestion dactions révisée</link><link>Pathfinder-RPG.Éliminer les attaques multiples</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Seuils de blessure</link><link>Pathfinder-RPG.Maladies et poisons unchained</link><link>Pathfinder-RPG.Magie unchained</link><link>Pathfinder-RPG.Incantation simplifiée</link><link>Pathfinder-RPG.Altérations de la magie</link><link>Pathfinder-RPG.Composantes matérielles ésotériques</link><link>Pathfinder-RPG.Bonus de progression automatique</link><link>Pathfinder-RPG.Bonus intrinsèques des objets</link><link>Pathfinder-RPG.Objets évolutifs</link><link>Pathfinder-RPG.Création dynamique dobjets magiques</link><link>Pathfinder-RPG.Création de monstres simplifiée</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 1</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 3</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 4</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 5</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 6</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 7</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 8</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 9</link><link>Pathfinder-RPG.Création de monstres simplifiée, Exemple</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles alternatives unchained&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_alternatives_unchained_0&quot; href=&quot;#R&#232;gles_alternatives_unchained_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Alternatives-Unchained.html&quot; title=&quot;R&#232;gles alternatives unchained&quot;&gt;Pr&#233;sentation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonClasses&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Classes&#39;);&quot; onmouseout=&quot;outButton(&#39;Classes&#39;);&quot; onclick=&quot;expandMenu(&#39;Classes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-Unchained.html&quot; title=&quot;Classes unchained&quot;&gt;Classes unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Classes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare-Unchained.html&quot; title=&quot;Le barbare unchained&quot;&gt;Barbare unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;Conjurateur unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine-Unchained.html&quot; title=&quot;Le moine unchained&quot;&gt;Moine unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard-Unchained.html&quot; title=&quot;Le roublard unchained&quot;&gt;Roublard unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Base-Fractionnaires.html&quot; title=&quot;Bonus de base fractionnaires&quot;&gt;Bonus de base fractionnaires&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Progression-&#201;chelonn&#233;e.html&quot; title=&quot;Progression &#233;chelonn&#233;e&quot;&gt;Progression &#233;chelonn&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonComp&#233;tences&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Comp&#233;tences&#39;);&quot; onmouseout=&quot;outButton(&#39;Comp&#233;tences&#39;);&quot; onclick=&quot;expandMenu(&#39;Comp&#233;tences&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Et-Options-Unchained.html&quot; title=&quot;Comp&#233;tences et options unchained&quot;&gt;Comp&#233;tences et options unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Comp&#233;tences&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Contextuelles.html&quot; title=&quot;Comp&#233;tences contextuelles&quot;&gt;Comp&#233;tences contextuelles&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es&quot;&gt;Comp&#233;tences fusionn&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Group&#233;es.html&quot; title=&quot;Comp&#233;tences group&#233;es&quot;&gt;Comp&#233;tences group&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat-Et-Profession-Alternatives.html&quot; title=&quot;Artisanat et Profession alternatives&quot;&gt;Artisanat et Profession alternatives&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extensions-De-Comp&#233;tences.html&quot; title=&quot;Extensions de comp&#233;tences&quot;&gt;Extensions de comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variante-De-Multiclassage.html&quot; title=&quot;Variante de multiclassage&quot;&gt;Variante de multiclassage&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonM&#233;canismes&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;M&#233;canismes&#39;);&quot; onmouseout=&quot;outButton(&#39;M&#233;canismes&#39;);&quot; onclick=&quot;expandMenu(&#39;M&#233;canismes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;canismes-De-Jeu-Unchained.html&quot; title=&quot;M&#233;canismes de jeu unchained&quot;&gt;M&#233;canismes de jeu unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;M&#233;canismes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Unchained.html&quot; title=&quot;L&amp;#39;alignement unchained&quot;&gt;Alignement unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Lalignement.html&quot; title=&quot;&#201;liminer l&amp;#39;alignement&quot;&gt;&#201;liminer l&#39;alignement&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gestion-Dactions-R&#233;vis&#233;e.html&quot; title=&quot;Gestion d&amp;#39;actions r&#233;vis&#233;e&quot;&gt;Gestion d&#39;actions r&#233;vis&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Les-Attaques-Multiples.html&quot; title=&quot;&#201;liminer les attaques multiples&quot;&gt;&#201;liminer les attaques multiples&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Et-Astuces-Martiales.html&quot; title=&quot;Endurance et Astuces martiales&quot;&gt;Endurance et Astuces martiales&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seuils-De-Blessure.html&quot; title=&quot;Seuils de blessure&quot;&gt;Seuils de blessure&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies-Et-Poisons-Unchained.html&quot; title=&quot;Maladies et poisons unchained&quot;&gt;Maladies et poisons unchained&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMagie&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Magie&#39;);&quot; onmouseout=&quot;outButton(&#39;Magie&#39;);&quot; onclick=&quot;expandMenu(&#39;Magie&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Unchained.html&quot; title=&quot;Magie unchained&quot;&gt;Magie unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Magie&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Simplifi&#233;e.html&quot; title=&quot;Incantation simplifi&#233;e&quot;&gt;Incantation simplifi&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alt&#233;rations-De-La-Magie.html&quot; title=&quot;Alt&#233;rations de la magie&quot;&gt;Alt&#233;rations de la magie&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Composantes-Mat&#233;rielles-&#201;sot&#233;riques.html&quot; title=&quot;Composantes mat&#233;rielles &#233;sot&#233;riques&quot;&gt;Composantes mat&#233;rielles &#233;sot&#233;riques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Progression-Automatique.html&quot; title=&quot;Bonus de progression automatique&quot;&gt;Bonus de progression automatique&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-Intrins&#232;ques-Des-Objets.html&quot; title=&quot;Bonus intrins&#232;ques des objets&quot;&gt;Bonus intrins&#232;ques des objets&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-&#201;volutifs.html&quot; title=&quot;Objets &#233;volutifs&quot;&gt;Objets &#233;volutifs&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dynamique-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation dynamique d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation dynamique d&#39;objets magiques&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMonstres&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Monstres&#39;);&quot; onmouseout=&quot;outButton(&#39;Monstres&#39;);&quot; onclick=&quot;expandMenu(&#39;Monstres&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e&quot;&gt;Cr&#233;ation de monstres simplifi&#233;e&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Monstres&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-1.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 1 : La gamme&quot;&gt;&#201;tape 1. La gamme&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-2.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 2 : La greffe de type de cr&#233;ature ou de classe&quot;&gt;&#201;tape 2. La greffe de type de cr&#233;ature ou de classe&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-3.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 3 : La greffe de sous-type&quot;&gt;&#201;tape 3. La greffe de sous-type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-4.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 4 : La greffe d&amp;#39;arch&#233;type&quot;&gt;&#201;tape 4. La greffe d’arch&#233;type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-5.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 5 : La greffe de taille&quot;&gt;&#201;tape 5. La greffe de taille&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-6.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 6&quot;&gt;&#201;tape 6. Les sorts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-7.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 7 : Les options de monstre&quot;&gt;&#201;tape 7. Les options de monstre&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-8.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 8&quot;&gt;&#201;tape 8. Les comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-9.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 9&quot;&gt;&#201;tape 9. Les d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-Exemple.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, Exemple&quot;&gt;Exemples de cr&#233;ation de monstres&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Pathfinder unchained (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Pathfinder unchained&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoPU.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Le personnage peut manipuler autrui par la n&#233;gociation, la tromperie ou l’intimidation.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Caract&#233;ristique associ&#233;e :&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; ; &lt;b&gt;Formation n&#233;cessaire :&lt;/b&gt; Non ; &lt;b&gt;Malus d&#39;armure :&lt;/b&gt; Non&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Fonctions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#CREERUNEDIVERSION&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;Cr&#233;er une diversion&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#DEMANDERUNSERVICE&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;demander un service&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#DEMORALISERUNADVERSAIRE&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;d&#233;moraliser un adversaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#FEINTERENCOMBAT&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;feinter en combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#INTIMIDER&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;intimider&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#MENTIR&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;mentir&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#MODIFIERLATTITUDEDAUTRESCREATURES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;modifier l’attitude d’autres cr&#233;atures&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#RECUEILLIRDESINFORMATIONS&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;recueillir des informations&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#TRANSMETTREUNMESSAGESECRET&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;transmettre un message secret&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Comp&#233;tences de base.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CREERUNEDIVERSION&quot; href=&quot;#CREERUNEDIVERSION&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Cr&#233;er une diversion&lt;a class=&quot;headeranchor&quot; id=&quot;Cr&#233;er_une_diversion_0&quot; href=&quot;#Cr&#233;er_une_diversion_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le personnage peut cr&#233;er une diversion pour se cacher. Il effectue un test d’Influence oppos&#233; au r&#233;sultat du test de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;Perception&lt;/a&gt; de l’observateur pour d&#233;tecter les mensonges. Si le personnage r&#233;ussit ce test, il peut effectuer un test de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Discr&#233;tion.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;. Le cas &#233;ch&#233;ant, appliquez les m&#234;mes modificateurs que ceux de la fonction &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#MENTIR&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;mentir&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;Action simple&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;DEMANDERUNSERVICE&quot; href=&quot;#DEMANDERUNSERVICE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Demander un service&lt;a class=&quot;headeranchor&quot; id=&quot;Demander_un_service_1&quot; href=&quot;#Demander_un_service_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Requ&#234;te&lt;/td&gt;&lt;td&gt;Mod au DD du&lt;br /&gt;test d’Influence&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Donner un conseil g&#233;n&#233;ral&lt;br /&gt;ou indiquer le chemin&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Donner des conseils pr&#233;cis&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Apporter une aide banale&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;R&#233;v&#233;ler un secret peu&lt;br /&gt;important&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aider par un acte long ou&lt;br /&gt;complexe&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aider par un acte dangereux&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;R&#233;v&#233;ler un secret important&lt;/td&gt;&lt;td&gt;+10 ou plus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aider par un acte qui&lt;br /&gt;risque d’&#234;tre puni&lt;/td&gt;&lt;td&gt;+15 ou plus&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Requ&#234;tes suppl&#233;mentaires&lt;/td&gt;&lt;td&gt;+5 par requ&#234;te&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Le personnage peut demander un service &#224; une cr&#233;ature dont l’attitude est indiff&#233;rente, amicale ou serviable. Utilisez le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; correspondant &#224; l’attitude de la cr&#233;ature, indiqu&#233; dans la table de la fonction &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Influence.html#MODIFIERLATTITUDEDAUTRESCREATURES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Influence&quot;&gt;modifier l’attitude d’autres cr&#233;atures&lt;/a&gt;, et appliquez-lui les modificateurs pr&#233;sent&#233;s ici. Une cr&#233;ature &#224; l’attitude serviable acceptera g&#233;n&#233;ralement toutes les requ&#234;tes du personnage sans qu’il ait besoin de faire de test, &#224; moins qu’on lui demande de faire quelque chose de contraire &#224; sa nature ou de se mettre en grave danger. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Maitredujeu.html&quot; title=&quot;MJ&quot;&gt;MJ&lt;/a&gt; peut d&#233;cider que certaines requ&#234;tes seront toujours refus&#233;es si elles vont &#224; l’encontre des valeurs ou de la nature d’une cr&#233;ature.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; ou plus en fonction de la complexit&#233; de la requ&#234;te.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Non, mais le personnage peut adresser d’autres requ&#234;tes &#224; la m&#234;me cr&#233;ature.&lt;br /&gt;&lt;br /&gt;&lt;br style=&quot;clear:right&quot; /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;DEMORALISERUNADVERSAIRE&quot; href=&quot;#DEMORALISERUNADVERSAIRE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;D&#233;moraliser un adversaire&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;moraliser_un_adversaire_2&quot; href=&quot;#D&#233;moraliser_un_adversaire_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le personnage peut secouer un adversaire. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du test est &#233;gal &#224; 10 + le nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;d&#233;s de vie&lt;/a&gt; de la cible + le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; de la cible. En cas de r&#233;ussite, la cible est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Secou&#233;.html&quot; title=&quot;secou&#233;&quot;&gt;secou&#233;e&lt;/a&gt; pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;, plus 1 round suppl&#233;mentaire par tranche de 5 points obtenus au-dessus du DD. Le personnage peut seulement affecter un adversaire situ&#233; &#224; 9 m&#232;tres ou moins qui peut le voir et l’entendre distinctement. S’il d&#233;moralise un ennemi &#224; plusieurs reprises, il ne fait que rallonger la dur&#233;e de l’effet, il n’augmente pas l’intensit&#233; de la peur ressentie.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;Action simple&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui, mais le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; augmente de 5 &#224; chaque test suppl&#233;mentaire contre un m&#234;me adversaire. Il faut laisser une heure s’&#233;couler pour revenir au DD initial.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bonus de taille.&lt;/b&gt; Si le personnage est plus grand que sa cible, il obtient un bonus de +4 aux tests pour la d&#233;moraliser. S’il est plus petit, il subit un malus de -4.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;FEINTERENCOMBAT&quot; href=&quot;#FEINTERENCOMBAT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Feinter en combat&lt;a class=&quot;headeranchor&quot; id=&quot;Feinter_en_combat_3&quot; href=&quot;#Feinter_en_combat_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;La feinte au combat est d&#233;crite &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Feinte.html&quot; title=&quot;feinte&quot;&gt;ici&lt;/a&gt;. Le personnage utilise l’Influence au lieu de la comp&#233;tence de base de &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; et son adversaire utilise la &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;Perception&lt;/a&gt; au lieu de la comp&#233;tence de base de &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;Action simple&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;INTIMIDER&quot; href=&quot;#INTIMIDER&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Intimider&lt;a class=&quot;headeranchor&quot; id=&quot;Intimider_4&quot; href=&quot;#Intimider_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le personnage peut forcer un adversaire &#224; se montrer amical envers lui pendant 1d6 &#215; 10 minutes en r&#233;ussissant un test d’Influence dont le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; est &#233;gal &#224; 10 + le nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;d&#233;s de vie&lt;/a&gt; de la cible + le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; de la cible. En cas de r&#233;ussite, la cible livre au personnage l’information qu’il d&#233;sire, lui rend des services tant que cela ne la met pas en danger ou lui apporte une aide limit&#233;e. Au terme de cette p&#233;riode, la cible adopte une attitude inamicale envers le personnage et peut m&#234;me la d&#233;noncer aux autorit&#233;s locales. En cas de test rat&#233; de 5 points ou plus, la cible tente de tromper le personnage ou de lui mettre des b&#226;tons dans les roues d’une mani&#232;re ou d’une autre.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; 1 minute de discussion.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui, mais le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; augmente de +5 &#224; chaque test suppl&#233;mentaire. Il faut laisser une heure s’&#233;couler pour revenir au DD initial.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bonus de taille.&lt;/b&gt; Si le personnage est plus grand que sa cible, il obtient un bonus de +4 aux tests effectu&#233;s pour l’intimider. Inversement, s’il est plus petit, il subit un malus de -4.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MENTIR&quot; href=&quot;#MENTIR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Mentir&lt;a class=&quot;headeranchor&quot; id=&quot;Mentir_5&quot; href=&quot;#Mentir_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Circonstances du mensonge&lt;/td&gt;&lt;td&gt;Mod au DD du&lt;br /&gt;test d’Influence&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;La cible veut croire le personnage&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Le mensonge est cr&#233;dible&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Le mensonge est peu cr&#233;dible&lt;/td&gt;&lt;td&gt;-5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Le mensonge est tr&#232;s&lt;br /&gt;peu cr&#233;dible&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Le mensonge est impossible&lt;br /&gt;&#224; croire&lt;/td&gt;&lt;td&gt;-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;La cible est saoule ou vuln&#233;rable&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Le personnage poss&#232;de une&lt;br /&gt;preuve convaincante&lt;/td&gt;&lt;td&gt;jusqu’&#224; +10&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Le personnage peut tenter de berner quelqu’un en effectuant un test d’Influence. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de ce test est &#233;gal au r&#233;sultat du test de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;Perception&lt;/a&gt; effectu&#233; par l’adversaire pour d&#233;tecter les mensonges. Appliquez les modificateurs appropri&#233;s issus de la table ci-contre. Ces modificateurs se cumulent entre eux mais seul l’un de ceux li&#233;s &#224; la cr&#233;dibilit&#233; du mensonge s’applique. Moins le mensonge est cr&#233;dible et plus le personnage &#233;prouvera de difficult&#233;s &#224; le faire croire. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Maitredujeu.html&quot; title=&quot;MJ&quot;&gt;MJ&lt;/a&gt; peut d&#233;cider que certains mensonges sont si incroyables qu’il est impossible de convaincre qui que ce soit qu’il s’agit de la v&#233;rit&#233;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; mais cela peut prendre plus longtemps en cas de mensonge complexe.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui. Les tests suivants contre la m&#234;me cible subissent un malus de -10.&lt;br /&gt;&lt;br /&gt;&lt;br style=&quot;clear:right&quot; /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MODIFIERLATTITUDEDAUTRESCREATURES&quot; href=&quot;#MODIFIERLATTITUDEDAUTRESCREATURES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Modifier l’attitude d’autres cr&#233;atures&lt;a class=&quot;headeranchor&quot; id=&quot;Modifier_l’attitude_d’autres_cr&#233;atures_6&quot; href=&quot;#Modifier_l’attitude_d’autres_cr&#233;atures_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Attitude initiale&lt;/td&gt;&lt;td&gt;DD du test&lt;br /&gt;d’Influence&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Hostile&lt;/td&gt;&lt;td&gt;25 + modificateur de&lt;br /&gt;Cha de la cible&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Inamical&lt;/td&gt;&lt;td&gt;20 + modificateur de&lt;br /&gt;Cha de la cible&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Indiff&#233;rent&lt;/td&gt;&lt;td&gt;15 + modificateur de&lt;br /&gt;Cha de la cible&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Amical&lt;/td&gt;&lt;td&gt;10 + modificateur de&lt;br /&gt;Cha de la cible&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Serviable&lt;/td&gt;&lt;td&gt;0 + modificateur de&lt;br /&gt;Cha de la cible&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Le personnage peut utiliser l’Influence pour modifier l’attitude des &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Personnagenonjoueur.html&quot; title=&quot;PNJ&quot;&gt;PNJ&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du test d&#233;pend de l’attitude initiale de la cr&#233;ature plus son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Si le test r&#233;ussit, l’attitude de la cible envers le personnage s’am&#233;liore d’une cat&#233;gorie. Son attitude s’am&#233;liore d’une cat&#233;gorie en plus si le r&#233;sultat du test d&#233;passe le DD de 5 points ou plus. Il est impossible de provoquer un changement d’attitude de plus de deux cat&#233;gories avec un seul test. Si le test &#233;choue de 4 points ou moins, l’attitude de la cible ne change pas et, s’il &#233;choue de 5 points ou plus, elle se d&#233;t&#233;riore d’une cat&#233;gorie. Les modifications d’attitude persistent en moyenne pendant 1d4 heures. Le personnage peut utiliser l’Influence pour demander un service &#224; une cr&#233;ature dont l’attitude envers lui est indiff&#233;rente, amicale ou serviable.&lt;br /&gt;&lt;br /&gt;Un personnage ne peut pas changer l’attitude d’une cr&#233;ature qui ne le comprend pas ou qui poss&#232;de une &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; inf&#233;rieure ou &#233;gale &#224; 3. Cette fonction de l’Influence est en g&#233;n&#233;ral inefficace pendant les combats.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Une minute de dialogue ininterrompu.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Le personnage ne peut pas modifier l’attitude d’une cr&#233;ature donn&#233;e plus d’une fois par p&#233;riode de vingt-quatre heures.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;RECUEILLIRDESINFORMATIONS&quot; href=&quot;#RECUEILLIRDESINFORMATIONS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Recueillir des informations&lt;a class=&quot;headeranchor&quot; id=&quot;Recueillir_des_informations_7&quot; href=&quot;#Recueillir_des_informations_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Information recherch&#233;e&lt;/td&gt;&lt;td&gt;DD du test&lt;br /&gt;d’Influence&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Fait ou rumeur&lt;br /&gt;bien connu&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Secret ou information&lt;br /&gt;peu connu&lt;/td&gt;&lt;td&gt;20 ou plus&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;En visitant les tavernes locales, les march&#233;s et autres lieux de rencontre, le personnage peut recueillir des informations sur un sujet ou un individu sp&#233;cifique. C’est le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Maitredujeu.html&quot; title=&quot;MJ&quot;&gt;MJ&lt;/a&gt; qui d&#233;cide si certains sujets sont tout simplement inconnus des gens du peuple.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; 1d4 heures.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui.&lt;br /&gt;&lt;br /&gt;&lt;br style=&quot;clear:right&quot; /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TRANSMETTREUNMESSAGESECRET&quot; href=&quot;#TRANSMETTREUNMESSAGESECRET&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Transmettre un message secret&lt;a class=&quot;headeranchor&quot; id=&quot;Transmettre_un_message_secret_8&quot; href=&quot;#Transmettre_un_message_secret_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Message secret&lt;/td&gt;&lt;td&gt;DD du test&lt;br /&gt;d’Influence&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Message simple&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Message complexe&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Le personnage peut transmettre &#224; une autre personne un message &#224; mots couverts sans que les autres individus puissent le comprendre. En cas de r&#233;ussite, la cible comprend automatiquement le message pour autant que le personnage utilise un langage qu’elle conna&#238;t. Si le personnage rate son test de 5 points ou plus, il transmet un message erron&#233;. Les autres individus qui per&#231;oivent le message peuvent tenter de le comprendre en r&#233;ussissant un test de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;Perception&lt;/a&gt; pour d&#233;tecter les mensonges oppos&#233; au r&#233;sultat du test du personnage. Voir la fonction de Perception &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html#INTERCEPTERUNMESSAGESECRET&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;intercepter un message secret&lt;/a&gt; pour d&#233;terminer si le message secret est intercept&#233;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Il faut deux fois plus de temps pour transmettre un message secret que pour le d&#233;livrer normalement.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui. 
+]]></body>
+  <raw><![CDATA[{s:MenuPathfinderunchained}{s:PU}''Le personnage peut manipuler autrui par la négociation, la tromperie ou l’intimidation.''
+
+'''Caractéristique associée :''' [[Charisme]] ; '''Formation nécessaire :''' Non ; '''Malus d'armure :''' Non
+
+'''Fonctions.''' [[Compétences fusionnées, Influence#CREERUNEDIVERSION|Créer une diversion]], [[Compétences fusionnées, Influence#DEMANDERUNSERVICE|demander un service]], [[Compétences fusionnées, Influence#DEMORALISERUNADVERSAIRE|démoraliser un adversaire]], [[Compétences fusionnées, Influence#FEINTERENCOMBAT|feinter en combat]], [[Compétences fusionnées, Influence#INTIMIDER|intimider]], [[Compétences fusionnées, Influence#MENTIR|mentir]], [[Compétences fusionnées, Influence#MODIFIERLATTITUDEDAUTRESCREATURES|modifier l’attitude d’autres créatures]], [[Compétences fusionnées, Influence#RECUEILLIRDESINFORMATIONS|recueillir des informations]], [[Compétences fusionnées, Influence#TRANSMETTREUNMESSAGESECRET|transmettre un message secret]].
+
+'''Compétences de base.''' [[Bluff]], [[Diplomatie]], [[Intimidation]].
+
+{s:Reference|CREERUNEDIVERSION}
+===Créer une diversion===
+Le personnage peut créer une diversion pour se cacher. Il effectue un test d’Influence opposé au résultat du test de [[Compétences fusionnées, Perception|Perception]] de l’observateur pour détecter les mensonges. Si le personnage réussit ce test, il peut effectuer un test de [[Compétences fusionnées, Discrétion|Discrétion]]. Le cas échéant, appliquez les mêmes modificateurs que ceux de la fonction [[Compétences fusionnées, Influence#MENTIR|mentir]].
+
+'''Action.''' [[Action simple]].
+
+'''Nouvelles tentatives.''' Oui.
+
+{s:Reference|DEMANDERUNSERVICE}
+===Demander un service===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Requête || Mod au DD du<br>test d’Influence
+|- CLASS="premier"
+| Donner un conseil général<br>ou indiquer le chemin || -5
+|-
+| Donner des conseils précis || +0
+|-
+| Apporter une aide banale || +0
+|-
+| Révéler un secret peu<br>important || +5
+|-
+| Aider par un acte long ou<br>complexe || +5
+|-
+| Aider par un acte dangereux || +10
+|-
+| Révéler un secret important || +10 ou plus
+|-
+| Aider par un acte qui<br>risque d’être puni || +15 ou plus
+|-
+| Requêtes supplémentaires || +5 par requête
+|}
+</center></div></div>Le personnage peut demander un service à une créature dont l’attitude est indifférente, amicale ou serviable. Utilisez le [[DD]] correspondant à l’attitude de la créature, indiqué dans la table de la fonction [[Compétences fusionnées, Influence#MODIFIERLATTITUDEDAUTRESCREATURES|modifier l’attitude d’autres créatures]], et appliquez-lui les modificateurs présentés ici. Une créature à l’attitude serviable acceptera généralement toutes les requêtes du personnage sans qu’il ait besoin de faire de test, à moins qu’on lui demande de faire quelque chose de contraire à sa nature ou de se mettre en grave danger. Le [[MJ]] peut décider que certaines requêtes seront toujours refusées si elles vont à l’encontre des valeurs ou de la nature d’une créature.
+
+'''Action.''' Un [[round]] ou plus en fonction de la complexité de la requête.
+
+'''Nouvelles tentatives.''' Non, mais le personnage peut adresser d’autres requêtes à la même créature.
+
+{s:ClearRight}{s:Reference|DEMORALISERUNADVERSAIRE}
+===Démoraliser un adversaire===
+Le personnage peut secouer un adversaire. Le [[DD]] du test est égal à 10 + le nombre de [[DV|dés de vie]] de la cible + le modificateur de [[Sagesse]] de la cible. En cas de réussite, la cible est [[secoué|secouée]] pendant 1 [[round]], plus 1 round supplémentaire par tranche de 5 points obtenus au-dessus du DD. Le personnage peut seulement affecter un adversaire situé à 9 mètres ou moins qui peut le voir et l’entendre distinctement. S’il démoralise un ennemi à plusieurs reprises, il ne fait que rallonger la durée de l’effet, il n’augmente pas l’intensité de la peur ressentie.
+
+'''Action.''' [[Action simple]].
+
+'''Nouvelles tentatives.''' Oui, mais le [[DD]] augmente de 5 à chaque test supplémentaire contre un même adversaire. Il faut laisser une heure s’écouler pour revenir au DD initial.
+
+'''Bonus de taille.''' Si le personnage est plus grand que sa cible, il obtient un bonus de +4 aux tests pour la démoraliser. S’il est plus petit, il subit un malus de -4.
+
+{s:Reference|FEINTERENCOMBAT}
+===Feinter en combat===
+La feinte au combat est décrite [[feinte|ici]]. Le personnage utilise l’Influence au lieu de la compétence de base de [[Bluff]] et son adversaire utilise la [[Compétences fusionnées, Perception|Perception]] au lieu de la compétence de base de [[Psychologie]].
+
+'''Action.''' [[Action simple]].
+
+'''Nouvelles tentatives.''' Oui.
+
+{s:Reference|INTIMIDER}
+===Intimider===
+Le personnage peut forcer un adversaire à se montrer amical envers lui pendant 1d6 × 10 minutes en réussissant un test d’Influence dont le [[DD]] est égal à 10 + le nombre de [[DV|dés de vie]] de la cible + le modificateur de [[Sagesse]] de la cible. En cas de réussite, la cible livre au personnage l’information qu’il désire, lui rend des services tant que cela ne la met pas en danger ou lui apporte une aide limitée. Au terme de cette période, la cible adopte une attitude inamicale envers le personnage et peut même la dénoncer aux autorités locales. En cas de test raté de 5 points ou plus, la cible tente de tromper le personnage ou de lui mettre des bâtons dans les roues d’une manière ou d’une autre.
+
+'''Action.''' 1 minute de discussion.
+
+'''Nouvelles tentatives.''' Oui, mais le [[DD]] augmente de +5 à chaque test supplémentaire. Il faut laisser une heure s’écouler pour revenir au DD initial.
+
+'''Bonus de taille.''' Si le personnage est plus grand que sa cible, il obtient un bonus de +4 aux tests effectués pour l’intimider. Inversement, s’il est plus petit, il subit un malus de -4.
+
+{s:Reference|MENTIR}
+===Mentir===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Circonstances du mensonge || Mod au DD du<br>test d’Influence
+|- CLASS="premier"
+| La cible veut croire le personnage || +5
+|-
+| Le mensonge est crédible || +0
+|-
+| Le mensonge est peu crédible || -5
+|-
+| Le mensonge est très<br>peu crédible || -10
+|-
+| Le mensonge est impossible<br>à croire || -20
+|-
+| La cible est saoule ou vulnérable || +5
+|-
+| Le personnage possède une<br>preuve convaincante || jusqu’à +10
+|}
+</center></div></div>Le personnage peut tenter de berner quelqu’un en effectuant un test d’Influence. Le [[DD]] de ce test est égal au résultat du test de [[Compétences fusionnées, Perception|Perception]] effectué par l’adversaire pour détecter les mensonges. Appliquez les modificateurs appropriés issus de la table ci-contre. Ces modificateurs se cumulent entre eux mais seul l’un de ceux liés à la crédibilité du mensonge s’applique. Moins le mensonge est crédible et plus le personnage éprouvera de difficultés à le faire croire. Le [[MJ]] peut décider que certains mensonges sont si incroyables qu’il est impossible de convaincre qui que ce soit qu’il s’agit de la vérité.
+
+'''Action.''' 1 [[round]] mais cela peut prendre plus longtemps en cas de mensonge complexe.
+
+'''Nouvelles tentatives.''' Oui. Les tests suivants contre la même cible subissent un malus de -10.
+
+{s:ClearRight}{s:Reference|MODIFIERLATTITUDEDAUTRESCREATURES}
+===Modifier l’attitude d’autres créatures===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Attitude initiale || DD du test<br>d’Influence
+|- CLASS="premier"
+| Hostile || 25 + modificateur de<br>Cha de la cible
+|-
+| Inamical || 20 + modificateur de<br>Cha de la cible
+|-
+| Indifférent || 15 + modificateur de<br>Cha de la cible
+|-
+| Amical || 10 + modificateur de<br>Cha de la cible
+|-
+| Serviable || 0 + modificateur de<br>Cha de la cible
+|}
+</center></div></div>Le personnage peut utiliser l’Influence pour modifier l’attitude des [[PNJ]]. Le [[DD]] du test dépend de l’attitude initiale de la créature plus son modificateur de [[Charisme]]. Si le test réussit, l’attitude de la cible envers le personnage s’améliore d’une catégorie. Son attitude s’améliore d’une catégorie en plus si le résultat du test dépasse le DD de 5 points ou plus. Il est impossible de provoquer un changement d’attitude de plus de deux catégories avec un seul test. Si le test échoue de 4 points ou moins, l’attitude de la cible ne change pas et, s’il échoue de 5 points ou plus, elle se détériore d’une catégorie. Les modifications d’attitude persistent en moyenne pendant 1d4 heures. Le personnage peut utiliser l’Influence pour demander un service à une créature dont l’attitude envers lui est indifférente, amicale ou serviable.
+
+Un personnage ne peut pas changer l’attitude d’une créature qui ne le comprend pas ou qui possède une [[Intelligence]] inférieure ou égale à 3. Cette fonction de l’Influence est en général inefficace pendant les combats.
+
+'''Action.''' Une minute de dialogue ininterrompu.
+
+'''Nouvelles tentatives.''' Le personnage ne peut pas modifier l’attitude d’une créature donnée plus d’une fois par période de vingt-quatre heures.
+
+{s:Reference|RECUEILLIRDESINFORMATIONS}
+===Recueillir des informations===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Information recherchée || DD du test<br>d’Influence
+|- CLASS="premier"
+| Fait ou rumeur<br>bien connu || 10
+|-
+| Secret ou information<br>peu connu || 20 ou plus
+|}
+</center></div></div>En visitant les tavernes locales, les marchés et autres lieux de rencontre, le personnage peut recueillir des informations sur un sujet ou un individu spécifique. C’est le [[MJ]] qui décide si certains sujets sont tout simplement inconnus des gens du peuple.
+
+'''Action.''' 1d4 heures.
+
+'''Nouvelles tentatives.''' Oui.
+
+{s:ClearRight}{s:Reference|TRANSMETTREUNMESSAGESECRET}
+===Transmettre un message secret===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Message secret || DD du test<br>d’Influence
+|- CLASS="premier"
+| Message simple || 15
+|-
+| Message complexe || 20
+|}
+</center></div></div>Le personnage peut transmettre à une autre personne un message à mots couverts sans que les autres individus puissent le comprendre. En cas de réussite, la cible comprend automatiquement le message pour autant que le personnage utilise un langage qu’elle connaît. Si le personnage rate son test de 5 points ou plus, il transmet un message erroné. Les autres individus qui perçoivent le message peuvent tenter de le comprendre en réussissant un test de [[Compétences fusionnées, Perception|Perception]] pour détecter les mensonges opposé au résultat du test du personnage. Voir la fonction de Perception [[Compétences fusionnées, Perception#INTERCEPTERUNMESSAGESECRET|intercepter un message secret]] pour déterminer si le message secret est intercepté.
+
+'''Action.''' Il faut deux fois plus de temps pour transmettre un message secret que pour le délivrer normalement.
+
+'''Nouvelles tentatives.''' Oui. ]]></raw>
+  <fullName>Pathfinder-RPG.Compétences fusionnées, Influence</fullName>
+</wikiPage>

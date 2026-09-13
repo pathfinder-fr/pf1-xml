@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Vase putride</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-22 17:01:23Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.Vision aveugle (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des vases (capacité)</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.Constriction (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.jet dattaque</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Vase putride&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vase&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.278&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;Vision aveugle (Ext)&quot;&gt;vision aveugle&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; -5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 7, contact 7, pris au d&#233;pourvu 7 (Dex -1, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 172 (15d8+105)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/— ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Vases-(Capacit&#233;).html&quot; title=&quot;Traits des vases (Ext)&quot;&gt;traits des vases&lt;/a&gt; ; &lt;b&gt;R&#233;sistances&lt;/b&gt; &#233;lectricit&#233; 20, feu 20
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, escalade 6 m, nage 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +20 (6d6+16 plus 2d6 acide et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; &#233;claboussure, +8 (10d6 acide)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 4,5 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Constriction-(Capacit&#233;).html&quot; title=&quot;Constriction (Ext)&quot;&gt;constriction&lt;/a&gt; (6d6+16 plus 2d6 acide), acide putride, &#233;claboussure
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 32, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; 24, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 1, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +11 ; &lt;b&gt;BMO&lt;/b&gt; +24 (+28 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 33 (croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Acide putride (Ext).&lt;/b&gt; Une vase putride s&#233;cr&#232;te un acide digestif capable de dissoudre sans mal les m&#233;taux et la mati&#232;re organique, mais qui n’a pas d’effet sur la pierre. Chaque fois qu’une cr&#233;ature subit des d&#233;g&#226;ts acides caus&#233;s par une vase putride, ses v&#234;tements et son armure subissent le m&#234;me nombre de d&#233;g&#226;ts acides qu’elle (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; DD 23 annule les d&#233;g&#226;ts aux v&#234;tements et armures). Une arme en m&#233;tal ou en bois utilis&#233;e pour frapper une vase putride subit 2d6 points de d&#233;g&#226;ts acides, &#224; moins que l’attaquant ne r&#233;ussisse un jet de R&#233;flexes DD 23. Si une vase putride reste en contact avec un objet en bois ou en m&#233;tal pendant 1 round complet, cet objet subit 30 points de d&#233;g&#226;ts acides (aucun jet de sauvegarde). Le DD des jets de sauvegarde est bas&#233; sur la Constitution.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;claboussure (Ext).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, une vase putride peut projeter une portion de sa boue acide sur une cr&#233;ature qui se trouve dans un rayon de 9 m&#232;tres. La vase putride doit r&#233;ussir un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt; &#224; distance pour toucher sa cible. Les cr&#233;atures touch&#233;es par les &#233;claboussures subissent 10d6 points de d&#233;g&#226;ts acides.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Des agr&#233;gats de charognes et de d&#233;chets &#233;mergent de cette &#233;norme flaque de boue ondulante.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les vases putrides sont essentiellement compos&#233;es de fange organique anim&#233;e par des &#233;nergies abyssales. Ces cr&#233;atures peuvent exister &#224; proximit&#233; de n’importe quel portail ou faille menant aux Abysses. Anim&#233;es d’une faim aveugle et malveillante, elles dissolvent sans distinction les plantes et les animaux. Les vases putrides tiennent leur nom de leur habitude d&#233;rangeante d’int&#233;grer des cadavres de cr&#233;atures &#224; leurs corps g&#233;latineux. Elles sont g&#233;n&#233;ralement compos&#233;es en partie d’une boue bouillonnante d’un gris brun, qui fait penser &#224; du goudron m&#233;lang&#233; avec des graviers humides, mais leur corps contient aussi des portions non dig&#233;r&#233;es des cr&#233;atures dont elles se nourrissent. Elles laissent donc appara&#238;tre en permanence un ensemble de membres pourrissants, de t&#234;tes coup&#233;es et d’un fouillis d’entrailles m&#234;l&#233;s &#224; la masse boueuse qui compose l’essentiel de leur corps.&lt;br /&gt;&lt;br /&gt;La plupart des mat&#233;riaux les plus r&#233;sistants consomm&#233;s par les vases putrides ne sont jamais compl&#232;tement dig&#233;r&#233;s. Les vases putrides dissolvent lentement leurs repas, qui prennent la m&#234;me consistance que la bouillie grumeleuse qui compose leurs corps. Il n’est pas fr&#233;quent qu’une vase putride se retrouve affam&#233;e, mais quand cela arrive, les vases affaiblies par le manque de nourriture utilisent ce qu’il leur reste d’&#233;nergie pour se glisser dans des fosses ou des ravines, o&#249; elles attendent en embuscade qu’un repas passe &#224; leur port&#233;e. Dans ces endroits obscurs, les vases putrides rentrent en hibernation jusqu’&#224; ce qu’une cr&#233;ature s’aventure &#224; proximit&#233;, ne ressemblant &#224; rien d’autre qu’&#224; des flaques boueuses d’acide collant. Cela dit, bien qu’elles se trouvent en hibernation, un simple contact suffit &#224; les tirer de leur coma. Par contraste, les vases putrides robustes et bien nourries sont des cr&#233;atures intimidantes qui ont rarement l’occasion (ou besoin) de surprendre leurs proies.&lt;br /&gt;&lt;br /&gt;&#192; la diff&#233;rence aux autres vases, les vases putrides ne se reproduisent pas par mitose (le ph&#233;nom&#232;ne consistant &#224; se s&#233;parer en deux vases identiques de plus petite taille). Elles se forment en effet spontan&#233;ment pr&#232;s de failles menant aux Abysses. Certains adeptes de Jubilex, le seigneur d&#233;mon des monstres de vase, ont tent&#233; de g&#233;n&#233;rer des vases putrides en exposant des amas d’entrailles, de salet&#233;s et d’acide &#224; des &#233;nergies mal&#233;fiques. &#192; leurs yeux, la g&#233;n&#233;ration spontan&#233;e de ces vases est une manifestation du Seigneur sans visage.&lt;br /&gt;&lt;br /&gt;Quand les vases putrides subissent assez de d&#233;g&#226;ts pour &#234;tre d&#233;truites, elles fondent pour devenir une flaque de boue inerte semblable &#224; la plupart des autres vases. On ne sait pas encore avec certitude si la vase putride finit par se reformer ou non. Selon certains &#233;rudits, la lumi&#232;re du soleil finit de d&#233;composer les vases putrides une fois qu’elles ont &#233;t&#233; d&#233;truites.&lt;br /&gt;&lt;br /&gt;Une vase putride couvre g&#233;n&#233;ralement une zone carr&#233;e de 3,60 m&#232;tres de c&#244;t&#233; et peut atteindre des hauteurs de 2,40 m&#232;tres pour un poids d’environ 20 tonnes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Vase putride|FP 11}
+{s:pucem|Vase|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.278]]''}
+{s:BDTexte|'''PX''' 12 800}
+{s:BDTexte|[[type Vase|Vase]] de taille TG, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[Vision aveugle (capacité)|vision aveugle]] à 18 m ; [[Perception]] -5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 7, contact 7, pris au dépourvu 7 (Dex -1, taille -2)}
+{s:BDTexte|'''pv''' 172 (15d8+105)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +12, '''Vol''' +0}
+{s:BDTexte|'''RD''' 10/— ; '''Immunités''' [[Traits des vases (capacité)|traits des vases]] ; '''Résistances''' électricité 20, feu 20}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, escalade 6 m, nage 9 m}
+{s:BDTexte|'''Corps à corps''' coup, +20 (6d6+16 plus 2d6 acide et [[Étreinte (capacité)|étreinte]])}
+{s:BDTexte|'''Distance''' éclaboussure, +8 (10d6 acide)}
+{s:BDTexte|'''Espace occupé''' 4,5 m ; '''Allonge''' 3 m}
+{s:BDTexte|'''Attaques spéciales''' [[Constriction (capacité)|constriction]] (6d6+16 plus 2d6 acide), acide putride, éclaboussure}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 32, '''Dex''' 9, '''Con''' 24, '''Int''' —, '''Sag''' 1, '''Cha''' 1}
+{s:BDTexte|'''BBA''' +11 ; '''BMO''' +24 (+28 en [[lutte]]) ; '''DMD''' 33 (croc-en-jambe impossible)}
+{s:BDTexte|'''Compétences''' [[Escalade]] +19, [[Natation]] +19}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Acide putride (Ext).''' Une vase putride sécrète un acide digestif capable de dissoudre sans mal les métaux et la matière organique, mais qui n’a pas d’effet sur la pierre. Chaque fois qu’une créature subit des dégâts acides causés par une vase putride, ses vêtements et son armure subissent le même nombre de dégâts acides qu’elle ([[Réflexes]] DD 23 annule les dégâts aux vêtements et armures). Une arme en métal ou en bois utilisée pour frapper une vase putride subit 2d6 points de dégâts acides, à moins que l’attaquant ne réussisse un jet de Réflexes DD 23. Si une vase putride reste en contact avec un objet en bois ou en métal pendant 1 round complet, cet objet subit 30 points de dégâts acides (aucun jet de sauvegarde). Le DD des jets de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|'''Éclaboussure (Ext).''' Par une [[action simple]], une vase putride peut projeter une portion de sa boue acide sur une créature qui se trouve dans un rayon de 9 mètres. La vase putride doit réussir un [[jet dattaque|jet d'attaque]] à distance pour toucher sa cible. Les créatures touchées par les éclaboussures subissent 10d6 points de dégâts acides.}
+
+</div></td>
+<td><div>''Des agrégats de charognes et de déchets émergent de cette énorme flaque de boue ondulante.''
+
+Les vases putrides sont essentiellement composées de fange organique animée par des énergies abyssales. Ces créatures peuvent exister à proximité de n’importe quel portail ou faille menant aux Abysses. Animées d’une faim aveugle et malveillante, elles dissolvent sans distinction les plantes et les animaux. Les vases putrides tiennent leur nom de leur habitude dérangeante d’intégrer des cadavres de créatures à leurs corps gélatineux. Elles sont généralement composées en partie d’une boue bouillonnante d’un gris brun, qui fait penser à du goudron mélangé avec des graviers humides, mais leur corps contient aussi des portions non digérées des créatures dont elles se nourrissent. Elles laissent donc apparaître en permanence un ensemble de membres pourrissants, de têtes coupées et d’un fouillis d’entrailles mêlés à la masse boueuse qui compose l’essentiel de leur corps.
+
+La plupart des matériaux les plus résistants consommés par les vases putrides ne sont jamais complètement digérés. Les vases putrides dissolvent lentement leurs repas, qui prennent la même consistance que la bouillie grumeleuse qui compose leurs corps. Il n’est pas fréquent qu’une vase putride se retrouve affamée, mais quand cela arrive, les vases affaiblies par le manque de nourriture utilisent ce qu’il leur reste d’énergie pour se glisser dans des fosses ou des ravines, où elles attendent en embuscade qu’un repas passe à leur portée. Dans ces endroits obscurs, les vases putrides rentrent en hibernation jusqu’à ce qu’une créature s’aventure à proximité, ne ressemblant à rien d’autre qu’à des flaques boueuses d’acide collant. Cela dit, bien qu’elles se trouvent en hibernation, un simple contact suffit à les tirer de leur coma. Par contraste, les vases putrides robustes et bien nourries sont des créatures intimidantes qui ont rarement l’occasion (ou besoin) de surprendre leurs proies.
+
+À la différence aux autres vases, les vases putrides ne se reproduisent pas par mitose (le phénomène consistant à se séparer en deux vases identiques de plus petite taille). Elles se forment en effet spontanément près de failles menant aux Abysses. Certains adeptes de Jubilex, le seigneur démon des monstres de vase, ont tenté de générer des vases putrides en exposant des amas d’entrailles, de saletés et d’acide à des énergies maléfiques. À leurs yeux, la génération spontanée de ces vases est une manifestation du Seigneur sans visage.
+
+Quand les vases putrides subissent assez de dégâts pour être détruites, elles fondent pour devenir une flaque de boue inerte semblable à la plupart des autres vases. On ne sait pas encore avec certitude si la vase putride finit par se reformer ou non. Selon certains érudits, la lumière du soleil finit de décomposer les vases putrides une fois qu’elles ont été détruites.
+
+Une vase putride couvre généralement une zone carrée de 3,60 mètres de côté et peut atteindre des hauteurs de 2,40 mètres pour un poids d’environ 20 tonnes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Vase putride</fullName>
+</wikiPage>

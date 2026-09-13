@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Momie mythique</title>
+  <categories><category>Pathfinder-RPG.Monstre mythique</category><category>Pathfinder-RPG.Src Campagnes mythiques</category></categories>
+  <lastModified>2021-04-08 21:51:24Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Campagnes mythiques (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres mythiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.sous-type mythique</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Guérison accélérée (capacité)</link><link>Pathfinder-RPG.Traits des morts-vivants (capacité)</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.Pouvoir mythique (capacité)</link><link>Pathfinder-RPG.Montée en puissance (capacité)</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Momie</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Transmutation de la pierre en boue</link><link>Pathfinder-RPG.Image accomplie</link><link>Pathfinder-RPG.Marchand de sable</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Con</link><link>Pathfinder-RPG.Cha</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Momie mythique&lt;div style=&quot;float:right;&quot;&gt;FP 7/RMy 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Mort-vivant&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Campagnes mythiques p.211&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;) de taille M, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; d&#233;sespoir (9 m, paralys&#233; pendant 1d4 rounds, Volont&#233; DD 16 annule)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 23, contact 10, pris au d&#233;pourvu 23 (+13 naturelle)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 92 (8d8+56) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/— ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants (Ext)&quot;&gt;traits des morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; coup, +15 (1d8+12 plus putr&#233;faction de la momie)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; cr&#233;ation de rejetons, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (3/jour, &lt;a class=&quot;pagelink&quot; href=&quot;Mont&#233;e-En-Puissance-(Capacit&#233;).html&quot; title=&quot;Mont&#233;e en puissance (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;mont&#233;e en puissance&lt;/a&gt; +1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 26, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; +14, &lt;b&gt;DMD&lt;/b&gt; 24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (coup), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Perception)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; (tout humano&#239;de ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d’apparence&lt;/a&gt;&lt;/i&gt;), ma&#238;trise du d&#233;sert
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, escouade de protection (2-6) ou d&#233;tachement de gardiens (7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Cr&#233;ation de rejetons (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;, la momie mythique peut d&#233;penser une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; pour transformer un adversaire tu&#233; en une &lt;a class=&quot;pagelink&quot; href=&quot;Momie.html&quot; title=&quot;Momie&quot;&gt;momie non-mythique&lt;/a&gt; avec l’arch&#233;type simple &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;&#233;volu&#233;&lt;/a&gt;. La nouvelle momie est sous le contr&#244;le de la momie qui l’a cr&#233;&#233;e et lui reste soumise jusqu’&#224; la mort de la momie mythique, apr&#232;s quoi elle devient une cr&#233;ature ayant sa volont&#233; propre. Le rejeton ne conserve aucune des capacit&#233;s qu’il avait de son vivant.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;sespoir (Sur).&lt;/b&gt; Toutes les cr&#233;atures dans un rayon de 9 m&#232;tres qui voient une momie doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 pour ne pas &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Paralys&#233;.html&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;es&lt;/a&gt; par la peur pendant 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Chacune des cr&#233;atures n’a qu’un seul &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; &#224; faire par p&#233;riode de 24 heures contre le pouvoir de d&#233;sespoir d’une momie donn&#233;e. Il s’agit d’un effet mental de terreur et de paralysie. Le DD du jet de sauvegarde est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; et inclut un bonus racial de +2.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ma&#238;trise du d&#233;sert (Sur).&lt;/b&gt; La momie mythique peut commander &#224; la terre et au sable, dans un rayon de 30 m&#232;tres, de cr&#233;er toute une vari&#233;t&#233; d’effets magiques. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, la momie peut r&#233;duire la roche en sable (comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Transmutation-De-La-Pierre-En-Boue.html&quot; title=&quot;Transmutation de la pierre en boue&quot;&gt;transmutation de la pierre en boue&lt;/a&gt;&lt;/i&gt;) ou cr&#233;er des silhouettes r&#233;alistes &#224; partir du sable (comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Accomplie.html&quot; title=&quot;Image accomplie&quot;&gt;image accomplie&lt;/a&gt;&lt;/i&gt;, mais ces formes s’&#233;croulent quand on les attaque ou qu’on les perce &#224; jour). La momie peut d&#233;penser une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; pour invoquer un &lt;a class=&quot;pagelink&quot; href=&quot;Marchand-De-Sable.html&quot; title=&quot;Marchand de sable&quot;&gt;marchand de sable&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;&#233;volu&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREGEANTE&quot; title=&quot;Les arch&#233;types&quot;&gt;g&#233;ant&lt;/a&gt;. Pour ces effets, le &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; de la momie est &#233;gal &#224; ses &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;d&#233;s de vie&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Putr&#233;faction de la momie (Sur).&lt;/b&gt; Mal&#233;diction et maladie — coup ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 ; &lt;i&gt;incubation&lt;/i&gt; 1 minute ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; 1d6 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; et 1d6 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Cha&quot;&gt;Cha&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; —. Outre cela, ce pouvoir fonctionne comme la putr&#233;faction de la &lt;a class=&quot;pagelink&quot; href=&quot;Momie.html&quot; title=&quot;Momie&quot;&gt;momie normale&lt;/a&gt;. Le DD du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; et inclut un bonus racial de +2.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Cette momie royale empeste les &#233;pices de conservation et porte les atours et les bijoux d’un riche pharaon.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+La momie mythique est un vestige anim&#233; et conserv&#233; de la royaut&#233; : un mort honor&#233; que la momie commune est contrainte de prot&#233;ger. Ayant certains pouvoirs sur le sable et &#233;tant capable de cr&#233;er de nouveaux sbires pour remplacer les anciens, la momie mythique est un adversaire exceptionnel. Elle est habitu&#233;e &#224; ce que ses sujets vivants et morts-vivants lui t&#233;moignent une ob&#233;issance absolue. Si elle est d&#233;rang&#233;e dans son sommeil &#233;ternel, la momie mythique se sert de sa magie pour appara&#238;tre telle qu’elle &#233;tait de son vivant mais si on la met en col&#232;re ou qu’on la surprend, elle peut r&#233;v&#233;ler sa forme de morte-vivante.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Momie mythique|FP 7/RMy 3}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tropical}
+{s:BDtexte|''Source : Campagnes mythiques p.211''}
+{s:BDtexte|'''PX''' 3 200}
+{s:BDtexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type mythique|mythique]]) de taille M, LM}
+{s:BDtexte|'''Init''' +0 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +16}
+{s:BDtexte|'''Aura''' désespoir (9 m, paralysé pendant 1d4 rounds, Volonté DD 16 annule)}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 23, contact 10, pris au dépourvu 23 (+13 naturelle)}
+{s:BDtexte|'''pv''' 92 (8d8+56) ; [[Guérison accélérée (capacité)|guérison accélérée]] 5}
+{s:BDtexte|'''Réf''' +2, '''Vig''' +4, '''Vol''' +8}
+{s:BDtexte|'''RD''' 5/— ; '''Immunités''' [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
+{s:BDtexte|'''Faiblesses''' [[Vulnérabilités (capacité)|vulnérabilité]] au feu}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 6 m}
+{s:BDtexte|'''Corps à corps''' coup, +15 (1d8+12 plus putréfaction de la momie)}
+{s:BDtexte|'''Attaques spéciales''' création de rejetons, [[Pouvoir mythique (capacité)|pouvoir mythique]] (3/jour, [[Montée en puissance (capacité)|montée en puissance]] +1d6)}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 26, '''Dex''' 10, '''Con''' —, '''Int''' 6, '''Sag''' 15, '''Cha''' 15}
+{s:BDtexte|'''BBA''' +6, '''BMO''' +14, '''DMD''' 24}
+{s:BDtexte|'''Dons''' [[Arme de prédilection]] (coup), [[Attaque en puissance]]<sup>M</sup>, [[Robustesse]]<sup>M</sup>, [[Talent]] (Perception)}
+{s:BDtexte|'''Compétences''' [[Discrétion]] +11, [[Perception]] +16}
+{s:BDtexte|'''Langues''' commun}
+{s:BDtexte|'''Particularités''' [[Changement de forme (capacité)|changement de forme]] (tout humanoïde ; ''[[modification dapparence|modification d’apparence]]''), maîtrise du désert}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' tous}
+{s:BDtexte|'''Organisation sociale''' solitaire, escouade de protection (2-6) ou détachement de gardiens (7-12)}
+{s:BDtexte|'''Trésor''' standard}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Création de rejetons (Sur).''' Par une [[action rapide]], la momie mythique peut dépenser une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] pour transformer un adversaire tué en une [[Momie|momie non-mythique]] avec l’archétype simple [[Archétypes#CREATUREEVOLUEE|évolué]]. La nouvelle momie est sous le contrôle de la momie qui l’a créée et lui reste soumise jusqu’à la mort de la momie mythique, après quoi elle devient une créature ayant sa volonté propre. Le rejeton ne conserve aucune des capacités qu’il avait de son vivant.}
+{s:BDtexte|'''Désespoir (Sur).''' Toutes les créatures dans un rayon de 9 mètres qui voient une momie doivent réussir un jet de [[Volonté]] [[DD]] 18 pour ne pas être [[paralysé|paralysées]] par la peur pendant 1d4 [[round|rounds]]. Chacune des créatures n’a qu’un seul [[jds|jet de sauvegarde]] à faire par période de 24 heures contre le pouvoir de désespoir d’une momie donnée. Il s’agit d’un effet mental de terreur et de paralysie. Le DD du jet de sauvegarde est basé sur le [[Charisme]] et inclut un bonus racial de +2.}
+{s:BDtexte|'''Maîtrise du désert (Sur).''' La momie mythique peut commander à la terre et au sable, dans un rayon de 30 mètres, de créer toute une variété d’effets magiques. Par une [[action simple]], la momie peut réduire la roche en sable (comme ''[[transmutation de la pierre en boue]]'') ou créer des silhouettes réalistes à partir du sable (comme ''[[image accomplie]]'', mais ces formes s’écroulent quand on les attaque ou qu’on les perce à jour). La momie peut dépenser une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] pour invoquer un [[Marchand de sable|marchand de sable]] [[Archétypes#CREATUREEVOLUEE|évolué]] [[Archétypes#CREATUREGEANTE|géant]]. Pour ces effets, le [[NLS|niveau de lanceur de sorts]] de la momie est égal à ses [[DV|dés de vie]].}
+{s:BDtexte|'''Putréfaction de la momie (Sur).''' Malédiction et maladie — coup ; ''JdS'' [[Vigueur]] [[DD]] 18 ; ''incubation'' 1 minute ; ''fréquence'' 1/jour ; ''effet'' 1d6 [[Con]] et 1d6 [[Cha]] ; ''guérison'' —. Outre cela, ce pouvoir fonctionne comme la putréfaction de la [[Momie|momie normale]]. Le DD du [[jds|jet de sauvegarde]] est basé sur le [[Charisme]] et inclut un bonus racial de +2.}
+</div>
+</td>
+<td>
+<div>
+''Cette momie royale empeste les épices de conservation et porte les atours et les bijoux d’un riche pharaon.''
+
+
+La momie mythique est un vestige animé et conservé de la royauté : un mort honoré que la momie commune est contrainte de protéger. Ayant certains pouvoirs sur le sable et étant capable de créer de nouveaux sbires pour remplacer les anciens, la momie mythique est un adversaire exceptionnel. Elle est habituée à ce que ses sujets vivants et morts-vivants lui témoignent une obéissance absolue. Si elle est dérangée dans son sommeil éternel, la momie mythique se sert de sa magie pour apparaître telle qu’elle était de son vivant mais si on la met en colère ou qu’on la surprend, elle peut révéler sa forme de morte-vivante.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Momie mythique</fullName>
+</wikiPage>

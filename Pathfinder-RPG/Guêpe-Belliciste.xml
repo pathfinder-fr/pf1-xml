@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Guêpe belliciste</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Guide de la Plaie du monde</category></categories>
+  <lastModified>2023-02-07 15:14:13Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.type Créature artificielle</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Guérison accélérée (capacité)</link><link>Pathfinder-RPG.Traits des créatures artificielles (capacité)</link><link>Pathfinder-RPG.Poison (capacité)</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Attaque spéciale renforcée</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Dex</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Allié majeur doutreplan</link><link>Pathfinder-RPG.Contrat intermédiaire</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.eidolon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gu&#234;pe belliciste&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Cr&#233;ature artificielle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature artificielle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Courts-Suppl&#233;ments-Univers-(Contenu).html&quot; title=&quot;Courts suppl&#233;ments univers (Contenu)&quot;&gt;Guide de la Plaie du monde p.57&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Cr&#233;ature-Artificielle.html&quot; title=&quot;Cr&#233;ature artificielle&quot;&gt;Cr&#233;ature artificielle&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +10 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 15, pris au d&#233;pourvu 15 (Dex +6, naturelle +6, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 85 (10d10+30) ; &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Cr&#233;atures-Artificielles-(Capacit&#233;).html&quot; title=&quot;Traits des cr&#233;atures artificielles (Ext)&quot;&gt;traits des cr&#233;atures artificielles&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, vol 9 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +15 (1d8+4) et 2 griffes, +15 (1d6+4) et dard, +15 (1d6+4/19-20 plus poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; d&#233;charge &#233;lectrostatique, &lt;a class=&quot;pagelink&quot; href=&quot;Poison-(Capacit&#233;).html&quot; title=&quot;Poison (Ext ou Sur)&quot;&gt;poison&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 23, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 3, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +15, &lt;b&gt;DMD&lt;/b&gt; 31
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Sp&#233;ciale-Renforc&#233;e.html&quot; title=&quot;Attaque sp&#233;ciale renforc&#233;e&quot;&gt;Attaque sp&#233;ciale renforc&#233;e&lt;/a&gt; (poison), &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (dard), &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +14 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en Perception, +8 en Discr&#233;tion
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal (ne peut pas parler)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abysses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, ou essaim (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Dard — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;Dex&quot;&gt;Dex&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;charge &#233;lectrostatique (Sur).&lt;/b&gt; Une fois tous les 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;, lors d’une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; engag&#233;e pour voler sur au moins 3 m&#232;tres, les ailes de la gu&#234;pe belliciste peuvent lib&#233;rer une d&#233;charge d’&#233;lectricit&#233; &#224; une port&#233;e maximale de 18 m&#232;tres. La d&#233;charge explose au moment o&#249; elle touche sa cible, couvrant un rayonnement de 6 m&#232;tres de rayon infligeant 6d6 points de d&#233;g&#226;ts d’&#233;lectricit&#233; (&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15, 1/2 d&#233;g&#226;ts).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Cette cr&#233;ature semblable &#224; une gu&#234;pe semble en partie compos&#233;e de m&#233;tal. Ses ailes g&#233;n&#232;rent une lueur iridescente tandis qu’elle bourdonne dans les airs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Comme les puissantes horreurs chasseresses, la gu&#234;pe belliciste est une cr&#233;ature artificielle construite gr&#226;ce &#224; la chair protoplasmique et &#224; la f&#233;condit&#233; des Abysses. &#192; demi organiques et &#224; demi m&#233;talliques, les gu&#234;pes bellicistes servent dans les arm&#233;es d&#233;moniaques comme support a&#233;rien lors des grandes batailles et les arm&#233;es de la Faille d&#233;moniaque ne font pas exception. Leurs explosions d’&#233;lectricit&#233; fonctionnent tr&#232;s bien sur les champs de bataille o&#249; les d&#233;mons et les mortels s’affrontent puisque les attaques d’&#233;lectricit&#233; n’ont aucun effet sur les d&#233;mons. Il serait plus exact de dire que ces gu&#234;pes sont &#233;lev&#233;es plut&#244;t que construites et, si les proc&#233;dures de construction de ces viles cr&#233;atures artificielles &#233;chappent &#224; l’entendement des artisans mortels, les lanceurs de sorts sont capables de les invoquer (cf. plus bas). Les gu&#234;pes bellicistes n’ont que l’intelligence n&#233;cessaire pour comprendre les ordres simples et universellement associ&#233;s aux conditions des champs de bataille.&lt;br /&gt;&lt;br /&gt;Dans la Faille d&#233;moniaque, un grand nombre de ces gu&#234;pes bellicistes ont &#233;t&#233; abandonn&#233;es &#224; elles-m&#234;mes. Ces gu&#234;pes &#171; sauvages &#187; bourdonnent dans les cieux, constamment &#224; l’aff&#251;t de tout non-d&#233;mon sur lequel fondre et porter leurs attaques. Les fanatiques et autres adorateurs du seigneur d&#233;mon des sauterelles qui ne sont pas escort&#233;s par des d&#233;mons s’empressent de parler en abyssal et de montrer leur symbole maudit quand ils ont affaire &#224; un essaim de gu&#234;pes bellicistes. Les PJ qui cherchent &#224; faire de m&#234;me peuvent convaincre les gu&#234;pes de les laisser en paix en r&#233;ussissant un test de Bluff DD 20 (&#224; condition qu’ils s’expriment en abyssal).&lt;br /&gt;&lt;br /&gt;La gu&#234;pe belliciste mesure environ 3 m&#232;tres de long pour une envergure de 6 m&#232;tres. Elle p&#232;se 600 kilogrammes.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Invoquer une gu&#234;pe belliciste&lt;a class=&quot;headeranchor&quot; id=&quot;Invoquer_une_gu&#234;pe_belliciste_0&quot; href=&quot;#Invoquer_une_gu&#234;pe_belliciste_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Bien que la gu&#234;pe belliciste ne soit pas un ext&#233;rieur, il est n&#233;anmoins possible de l’invoquer avec un sort d’&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alli&#233;-Majeur-Doutreplan.html&quot; title=&quot;Alli&#233; majeur d&amp;#39;outreplan&quot;&gt;alli&#233; majeur d’outreplan&lt;/a&gt;&lt;/i&gt; ou de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contrat-Interm&#233;diaire.html&quot; title=&quot;Contrat interm&#233;diaire&quot;&gt;contrat interm&#233;diaire&lt;/a&gt;&lt;/i&gt;. Pour ce faire, le lanceur de sorts doit cependant prendre garde &#224; utiliser des encens rares, des s&#233;cr&#233;tions d’insectes rares et violents et tracer des diagrammes complexes sur le sol et les murs avec des encres phosphorescentes on&#233;reuses, sinon, la gu&#234;pe l’attaquera une fois la convocation achev&#233;e. Ces composantes co&#251;tent 15 000 po et remplacent les co&#251;ts associ&#233;s au lancement du sort (y compris le test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; n&#233;cessaire au &lt;i&gt;contrat interm&#233;diaire&lt;/i&gt;).&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Gu&#234;pe massacreuse&lt;a class=&quot;headeranchor&quot; id=&quot;Gu&#234;pe_massacreuse_1&quot; href=&quot;#Gu&#234;pe_massacreuse_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les gu&#234;pes bellicistes se d&#233;veloppent de fa&#231;on organique &#224; partir de chair et de chaos protoplasmique, ce n’est donc pas une surprise si, &#224; l’inverse de la plupart des cr&#233;atures artificielles, elles poss&#232;dent toutes une apparence unique et terrifiante. De plus, elles se d&#233;forment, changent et mutent au fil du temps. G&#233;n&#233;ralement, quand ces mutations sont trop importantes, elles sont handicapantes et finissent par causer la mort de la gu&#234;pe, mais parfois la gu&#234;pe mut&#233;e atteint un nouveau stade d’&#233;volution et devient une gu&#234;pe massacreuse : une version plus puissante de la gu&#234;pe belliciste commune, capable d’&#233;chafauder une strat&#233;gie et de diriger les autres gu&#234;pes lors de manœuvres sur le champ de bataille. Une gu&#234;pe massacreuse est g&#233;n&#233;ralement dot&#233;e de l’arch&#233;type simple de cr&#233;ature &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREGEANTE&quot; title=&quot;Les arch&#233;types&quot;&gt;g&#233;ante&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;&#233;volu&#233;e&lt;/a&gt;, ainsi que de 6 points d’&#233;volution &#224; r&#233;partir parmi les &lt;a class=&quot;pagelink&quot; href=&quot;Eidolon.html#EVOLUTIONS&quot; title=&quot;L&amp;#39;eidolon du conjurateur&quot;&gt;&#233;volutions de l’eidolon&lt;/a&gt; (Manuel des joueurs, r&#232;gles avanc&#233;es Pathfinder JdR pages 48-52) ou parmi les autres pouvoirs de monstres de m&#234;me niveau et de m&#234;me type. La d&#233;charge &#233;lectrostatique de la gu&#234;pe massacreuse fonctionne une fois par round et non une fois tous les 1d4 rounds.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Guêpe belliciste|FP 7}
+{s:pucem|Créature artificielle|Ville|Extraplanaire}
+{s:BDtexte|''Source : [[Courts suppléments univers (Contenu)|Guide de la Plaie du monde p.57]]''}
+{s:BDtexte|'''PX''' 3 200}
+{s:BDtexte|[[type Créature artificielle|Créature artificielle]] ([[sous-type extraplanaire|extraplanaire]]) de taille G, CM}
+{s:BDtexte|'''Init''' +10 ; '''Sens''' [[vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +13}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 21, contact 15, pris au dépourvu 15 (Dex +6, naturelle +6, taille -1)}
+{s:BDtexte|'''pv''' 85 (10d10+30) ; [[Guérison accélérée (capacité)|guérison accélérée]] 5}
+{s:BDtexte|'''Réf''' +9, '''Vig''' +5, '''Vol''' +4}
+{s:BDtexte|'''Immunités''' électricité, [[Traits des créatures artificielles (capacité)|traits des créatures artificielles]]}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 9 m, vol 9 m (bonne)}
+{s:BDtexte|'''Corps à corps''' morsure, +15 (1d8+4) et 2 griffes, +15 (1d6+4) et dard, +15 (1d6+4/19-20 plus poison)}
+{s:BDtexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDtexte|'''Attaques spéciales''' décharge électrostatique, [[Poison (capacité)|poison]]}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 18, '''Dex''' 23, '''Con''' —, '''Int''' 3, '''Sag''' 13, '''Cha''' 1}
+{s:BDtexte|'''BBA''' +10, '''BMO''' +15, '''DMD''' 31}
+{s:BDtexte|'''Dons''' [[Attaque en finesse]], [[Attaque spéciale renforcée]] (poison), [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (dard), [[Vigueur surhumaine]]}
+{s:BDtexte|'''Compétences''' [[Discrétion]] +13, [[Perception]] +13, [[Vol]] +14 ; '''Modificateurs raciaux''' +8 en Perception, +8 en Discrétion}
+{s:BDtexte|'''Langues''' abyssal (ne peut pas parler)}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' tous (Abysses)}
+{s:BDtexte|'''Organisation sociale''' solitaire, couple, ou essaim (3-12)}
+{s:BDtexte|'''Trésor''' aucun}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Poison (Ext).''' Dard — blessure ; ''JdS'' [[Vigueur]] [[DD]] 17 ; ''fréquence'' 1/round pendant 6 rounds ; ''effet'' 1d4 [[Dex]] ; ''guérison'' 2 réussites consécutives.}
+{s:BDtexte|'''Décharge électrostatique (Sur).''' Une fois tous les 1d4 [[round|rounds]], lors d’une [[action de mouvement]] engagée pour voler sur au moins 3 mètres, les ailes de la guêpe belliciste peuvent libérer une décharge d’électricité à une portée maximale de 18 mètres. La décharge explose au moment où elle touche sa cible, couvrant un rayonnement de 6 mètres de rayon infligeant 6d6 points de dégâts d’électricité ([[Réflexes]] [[DD]] 15, 1/2 dégâts).}
+</div>
+</td>
+<td>
+<div>
+''Cette créature semblable à une guêpe semble en partie composée de métal. Ses ailes génèrent une lueur iridescente tandis qu’elle bourdonne dans les airs.''
+
+Comme les puissantes horreurs chasseresses, la guêpe belliciste est une créature artificielle construite grâce à la chair protoplasmique et à la fécondité des Abysses. À demi organiques et à demi métalliques, les guêpes bellicistes servent dans les armées démoniaques comme support aérien lors des grandes batailles et les armées de la Faille démoniaque ne font pas exception. Leurs explosions d’électricité fonctionnent très bien sur les champs de bataille où les démons et les mortels s’affrontent puisque les attaques d’électricité n’ont aucun effet sur les démons. Il serait plus exact de dire que ces guêpes sont élevées plutôt que construites et, si les procédures de construction de ces viles créatures artificielles échappent à l’entendement des artisans mortels, les lanceurs de sorts sont capables de les invoquer (cf. plus bas). Les guêpes bellicistes n’ont que l’intelligence nécessaire pour comprendre les ordres simples et universellement associés aux conditions des champs de bataille.
+
+Dans la Faille démoniaque, un grand nombre de ces guêpes bellicistes ont été abandonnées à elles-mêmes. Ces guêpes « sauvages » bourdonnent dans les cieux, constamment à l’affût de tout non-démon sur lequel fondre et porter leurs attaques. Les fanatiques et autres adorateurs du seigneur démon des sauterelles qui ne sont pas escortés par des démons s’empressent de parler en abyssal et de montrer leur symbole maudit quand ils ont affaire à un essaim de guêpes bellicistes. Les PJ qui cherchent à faire de même peuvent convaincre les guêpes de les laisser en paix en réussissant un test de Bluff DD 20 (à condition qu’ils s’expriment en abyssal).
+
+La guêpe belliciste mesure environ 3 mètres de long pour une envergure de 6 mètres. Elle pèse 600 kilogrammes.
+
+====Invoquer une guêpe belliciste====
+Bien que la guêpe belliciste ne soit pas un extérieur, il est néanmoins possible de l’invoquer avec un sort d’''[[allié majeur doutreplan|allié majeur d’outreplan]]'' ou de ''[[contrat intermédiaire]]''. Pour ce faire, le lanceur de sorts doit cependant prendre garde à utiliser des encens rares, des sécrétions d’insectes rares et violents et tracer des diagrammes complexes sur le sol et les murs avec des encres phosphorescentes onéreuses, sinon, la guêpe l’attaquera une fois la convocation achevée. Ces composantes coûtent 15 000 po et remplacent les coûts associés au lancement du sort (y compris le test de [[Charisme]] nécessaire au ''contrat intermédiaire'').
+
+====Guêpe massacreuse====
+Les guêpes bellicistes se développent de façon organique à partir de chair et de chaos protoplasmique, ce n’est donc pas une surprise si, à l’inverse de la plupart des créatures artificielles, elles possèdent toutes une apparence unique et terrifiante. De plus, elles se déforment, changent et mutent au fil du temps. Généralement, quand ces mutations sont trop importantes, elles sont handicapantes et finissent par causer la mort de la guêpe, mais parfois la guêpe mutée atteint un nouveau stade d’évolution et devient une guêpe massacreuse : une version plus puissante de la guêpe belliciste commune, capable d’échafauder une stratégie et de diriger les autres guêpes lors de manœuvres sur le champ de bataille. Une guêpe massacreuse est généralement dotée de l’archétype simple de créature [[Archétypes#CREATUREGEANTE|géante]] ou [[Archétypes#CREATUREEVOLUEE|évoluée]], ainsi que de 6 points d’évolution à répartir parmi les [[Eidolon#EVOLUTIONS|évolutions de l’eidolon]] (Manuel des joueurs, règles avancées Pathfinder JdR pages 48-52) ou parmi les autres pouvoirs de monstres de même niveau et de même type. La décharge électrostatique de la guêpe massacreuse fonctionne une fois par round et non une fois tous les 1d4 rounds.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Guêpe belliciste</fullName>
+</wikiPage>

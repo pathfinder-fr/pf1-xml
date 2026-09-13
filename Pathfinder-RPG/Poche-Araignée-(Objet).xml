@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Poche-araignée</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:51:03Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Drow (race)</link><link>Pathfinder-RPG.Outils alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Grappin (objet)</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.lasso (arme)</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Drow (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Drow.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Drow (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Drow.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Drow-(Race).html&quot; title=&quot;Les drows&quot;&gt;drows&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 30 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 20  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Contrairement &#224; ce qu’indique son nom, la poche-araign&#233;e n’a rien &#224; voir avec les araign&#233;es, mais correspond plut&#244;t &#224; un outil alchimique dot&#233; d’un syst&#232;me de rangement unique. Utilis&#233;s pour l’escalade aussi bien que pour le combat, ces petits sacs gris&#226;tres en forme de gourde sont cr&#233;&#233;s &#224; partir d’un champignon sp&#233;cialement cultiv&#233; avec une paroi ext&#233;rieure r&#233;sistante, mais caoutchouteuse. Le fongo&#239;de est soigneusement r&#233;colt&#233;, perc&#233; &#224; une extr&#233;mit&#233;, &#233;vid&#233; puis rempli d’un solide adh&#233;sif alchimique qui se solidifie pour former un mat&#233;riau fibreux presque instantan&#233;ment lorsqu’il est expos&#233; &#224; l’air. Quand on presse la poche-araign&#233;e, son adh&#233;sif s’&#233;lance &#224; une port&#233;e maximale de 3 m&#232;tres pour se fixer &#224; ce qu’il vient heurter, puis le fil s&#232;che aussit&#244;t pour former une solide corde fibreuse. Quand il s’agit d’escalader, consid&#233;rez la poche-araign&#233;e comme un &lt;a class=&quot;pagelink&quot; href=&quot;Grappin-(Objet).html&quot; title=&quot;Grappin&quot;&gt;grappin&lt;/a&gt;, &#224; la seule diff&#233;rence que toutes les surfaces ont une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de 5. La poche-araign&#233;e peut &#233;galement servir de &lt;a class=&quot;pagelink&quot; href=&quot;Lasso-(Arme).html&quot; title=&quot;Lasso&quot;&gt;lasso&lt;/a&gt;, &#224; la seule diff&#233;rence qu’il a une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de 10, 4 points de vie et n&#233;cessite un test de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 24 pour &#234;tre lanc&#233;. La poche-araign&#233;e est un objet &#224; usage unique.
+]]></body>
+  <raw><![CDATA[{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:MR}'''Prix''' 30 po ; '''Poids''' 0,5 kg ; '''DD d'Artisanat (alchimie)''' 20  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+Contrairement à ce qu’indique son nom, la poche-araignée n’a rien à voir avec les araignées, mais correspond plutôt à un outil alchimique doté d’un système de rangement unique. Utilisés pour l’escalade aussi bien que pour le combat, ces petits sacs grisâtres en forme de gourde sont créés à partir d’un champignon spécialement cultivé avec une paroi extérieure résistante, mais caoutchouteuse. Le fongoïde est soigneusement récolté, percé à une extrémité, évidé puis rempli d’un solide adhésif alchimique qui se solidifie pour former un matériau fibreux presque instantanément lorsqu’il est exposé à l’air. Quand on presse la poche-araignée, son adhésif s’élance à une portée maximale de 3 mètres pour se fixer à ce qu’il vient heurter, puis le fil sèche aussitôt pour former une solide corde fibreuse. Quand il s’agit d’escalader, considérez la poche-araignée comme un [[Grappin (objet)|grappin]], à la seule différence que toutes les surfaces ont une [[CA]] de 5. La poche-araignée peut également servir de [[lasso (arme)|lasso]], à la seule différence qu’il a une [[CA]] de 10, 4 points de vie et nécessite un test de [[Force]] [[DD]] 24 pour être lancé. La poche-araignée est un objet à usage unique.]]></raw>
+  <fullName>Pathfinder-RPG.Poche-araignée (objet)</fullName>
+</wikiPage>

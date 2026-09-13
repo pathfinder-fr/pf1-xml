@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Âme-en-peine apostat</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire de la mer Intérieure</category></categories>
+  <lastModified>2023-09-08 15:17:49Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire de la mer Intérieure (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire de la mer Intérieure (Contenu)</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.sous-type intangible</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Intangible (capacité)</link><link>Pathfinder-RPG.Résistance à la canalisation (capacité)</link><link>Pathfinder-RPG.Traits des morts-vivants (capacité)</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Absorption dénergie (capacité)</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Renvoi des morts-vivants</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Localisation de créature</link><link>Pathfinder-RPG.NLS</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#194;me-en-peine apostat&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Mort-vivant&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Plaines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Plaines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-De-La-Mer-Int&#233;rieure-(Contenu).html&quot; title=&quot;Bestiaire de la mer Int&#233;rieure (Contenu)&quot;&gt;Bestiaire de la mer Int&#233;rieure p.3&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Intangible.html&quot; title=&quot;Intangible (sous-type)&quot;&gt;intangible&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; perception des apostats, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 16, pris au d&#233;pourvu 12 (Dex +4, parade +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 52 (8d8+16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Intangible-(Capacit&#233;).html&quot; title=&quot;Intangible (Ext)&quot;&gt;intangible&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Canalisation-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance &#224; la canalisation (Ext)&quot;&gt;r&#233;sistance &#224; la canalisation&lt;/a&gt; +4 ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Morts-Vivants-(Capacit&#233;).html&quot; title=&quot;Traits des morts-vivants (Ext)&quot;&gt;traits des morts-vivants&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; aversion envers les razmiriens
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 18 m (parfaite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; contact intangible, +10 (1d8 plus &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;Absorption d’&#233;nergie (Sur)&quot;&gt;absorption d&#39;&#233;nergie&lt;/a&gt; et lac&#233;ration de la foi)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;Absorption d’&#233;nergie (Sur)&quot;&gt;absorption d&#39;&#233;nergie&lt;/a&gt; (1 niveau, DD 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; —, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; —, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6 ; &lt;b&gt;BMO&lt;/b&gt; +10 ; &lt;b&gt;DMD&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +11, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, hallit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Razmiran)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou groupe (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aversion envers les razmiriens (Ext).&lt;/b&gt; L’&#226;me-en-peine apostat a bien du mal &#224; surmonter le conditionnement razmirien dont elle a fait l’objet au cours de sa vie. Si elle est confront&#233;e &#224; un pr&#234;tre de Razmir ou &#224; quiconque qui parvient &#224; prendre l’aspect d’un tel individu, l’&#226;me-en-peine apostat doit effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; est &#233;gal &#224; 10 + 1/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; + le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; du pr&#234;tre razmirien de plus haut niveau pr&#233;sent. L’&#226;me-en-peine apostat ne peut effectuer ce jet qu’une seule fois par rencontre, quel que soit le nombre de pr&#234;tres de Razmir pr&#233;sents. Si elle &#233;choue, elle est forc&#233;e de fuir comme si elle &#233;tait affect&#233;e par le don &lt;a class=&quot;pagelink&quot; href=&quot;Renvoi-Des-Morts-Vivants.html&quot; title=&quot;Renvoi des morts-vivants&quot;&gt;Renvoi des morts-vivants&lt;/a&gt;. Si elle r&#233;ussit, elle surmonte son aversion et gagne un bonus de +2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt; et double les d&#233;g&#226;ts qu’elle inflige aux pr&#234;tres de Razmir (ou ceux qui ont endossent l’aspect de ces individus) pendant toute la dur&#233;e de la rencontre.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Lac&#233;ration de la foi (Sur).&lt;/b&gt; Lors d’une attaque de contact intangible r&#233;ussie contre un ennemi capable de lancer des sorts divins, de canaliser l’&#233;nergie ou d’utiliser d’autres pouvoirs sp&#233;ciaux accord&#233;s par une divinit&#233;, la malveillance et le m&#233;pris fondamentaux de l’&#226;me-en-peine apostat &#224; l’&#233;gard de tout ce qui est religieux rompt le lien de la cible avec son dieu. La victime doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 16, sinon elle est incapable d’utiliser le moindre de ce genre de pouvoirs pendant 1 round. Le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Perception des apostats (Sur).&lt;/b&gt; L’&#226;me-en-peine apostat peut percevoir la pr&#233;sence des pr&#234;tres de Razmir et d&#233;terminer leur position comme si elle utilisait le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-De-Cr&#233;ature.html&quot; title=&quot;Localisation de cr&#233;ature&quot;&gt;localisation de cr&#233;ature&lt;/a&gt;&lt;/i&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 20). Il est impossible de dissiper ce pouvoir.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette silhouette fantomatique et enfum&#233;e arbore un masque bris&#233; qui lui donne un regard glacial et r&#233;solu.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Quand l’&#226;me des disciples du Dieu vivant Razmir atteint la Cour de Pharasma, elle est le plus souvent encha&#238;n&#233;e &#224; la Cour int&#233;rieure o&#249; se d&#233;cide son ultime destin en tant qu’adoratrice d’un faux dieu. Ces &#226;mes mortelles sont si traumatis&#233;es quand elles d&#233;couvrent le caract&#232;re factice de leur foi que le d&#233;sir de se venger de ceux qui les ont dup&#233;es de leur vivant prend le dessus sur tout le reste. Elles renient la l&#233;gitimit&#233; de l’ensemble des dieux et reviennent sur le plan Mat&#233;riel pour faire valoir leur vengeance.&lt;br /&gt;&lt;br /&gt;L’&#226;me-en-peine apostat est en permanence &#233;cartel&#233;e entre la honte br&#251;lante qu’elle ressent &#224; s’&#234;tre laiss&#233;e prendre au jeu d’une telle duplicit&#233; au cours de sa vie et son m&#233;pris plein de haine pour les disciples dont les croyances s’av&#232;rent authentiques. Sa motivation principale consiste &#224; appliquer sa vengeance sur la pr&#234;trise mensong&#232;re de Razmir mais le conditionnement mental de cette religion est si efficace qu’il est difficile pour ces &#226;mes-en-peine apostats de seulement approcher leurs proies. Lorsqu’une &#226;me-en-peine apostat est capable de surmonter son aversion, sa fureur est terrible. Sinon, elle passe volontiers sa rage sur les disciples d’autres dieux afin de leur ouvrir les yeux (ne serait-ce qu’un instant) sur le d&#233;sespoir &#233;prouv&#233; quand on prend conscience que la religion est source de mensonges.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Âme-en-peine apostat|FP 6}
+{s:pucem|Mort-vivant|Plaines|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire de la mer Intérieure (contenu)|Bestiaire de la mer Intérieure p.3]]''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type intangible|intangible]]) de taille M, CM}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' perception des apostats, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +11}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 16, pris au dépourvu 12 (Dex +4, parade +2)}
+{s:BDTexte|'''pv''' 52 (8d8+16)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +4, '''Vol''' +8}
+{s:BDTexte|'''Capacités défensives''' [[Intangible (capacité)|intangible]], [[résistance à la canalisation (capacité)|résistance à la canalisation]] +4 ; '''Immunités''' [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
+{s:BDTexte|'''Faiblesses''' aversion envers les razmiriens}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' [[Vol (capacité)|vol]] 18 m (parfaite)}
+{s:BDTexte|'''Corps à corps''' contact intangible, +10 (1d8 plus [[Absorption dénergie (capacité)|absorption d'énergie]] et lacération de la foi)}
+{s:BDTexte|'''Attaques spéciales''' [[Absorption dénergie (capacité)|absorption d'énergie]] (1 niveau, DD 16)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' —, '''Dex''' 18, '''Con''' —, '''Int''' 10, '''Sag''' 11, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +10 ; '''DMD''' 22}
+{s:BDTexte|'''Dons''' [[Attaques réflexes]], [[Combat en aveugle]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (religion) +11, [[Discrétion]] +15, [[Perception]] +11, [[Vol]] +23}
+{s:BDTexte|'''Langues''' commun, hallit}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Razmiran)}
+{s:BDTexte|'''Organisation''' solitaire, couple ou groupe (3-6)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Aversion envers les razmiriens (Ext).''' L’âme-en-peine apostat a bien du mal à surmonter le conditionnement razmirien dont elle a fait l’objet au cours de sa vie. Si elle est confrontée à un prêtre de Razmir ou à quiconque qui parvient à prendre l’aspect d’un tel individu, l’âme-en-peine apostat doit effectuer un jet de [[Volonté]]. Le [[DD]] est égal à 10 + 1/2 [[DV]] + le modificateur de [[Charisme]] du prêtre razmirien de plus haut niveau présent. L’âme-en-peine apostat ne peut effectuer ce jet qu’une seule fois par rencontre, quel que soit le nombre de prêtres de Razmir présents. Si elle échoue, elle est forcée de fuir comme si elle était affectée par le don [[Renvoi des morts-vivants]]. Si elle réussit, elle surmonte son aversion et gagne un bonus de +2 aux [[jet dattaque|jets d'attaque]] et double les dégâts qu’elle inflige aux prêtres de Razmir (ou ceux qui ont endossent l’aspect de ces individus) pendant toute la durée de la rencontre.}
+{s:BDTexte|'''Lacération de la foi (Sur).''' Lors d’une attaque de contact intangible réussie contre un ennemi capable de lancer des sorts divins, de canaliser l’énergie ou d’utiliser d’autres pouvoirs spéciaux accordés par une divinité, la malveillance et le mépris fondamentaux de l’âme-en-peine apostat à l’égard de tout ce qui est religieux rompt le lien de la cible avec son dieu. La victime doit réussir un jet de [[Volonté]] [[DD]] 16, sinon elle est incapable d’utiliser le moindre de ce genre de pouvoirs pendant 1 round. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Perception des apostats (Sur).''' L’âme-en-peine apostat peut percevoir la présence des prêtres de Razmir et déterminer leur position comme si elle utilisait le sort ''[[localisation de créature]]'' ([[NLS]] 20). Il est impossible de dissiper ce pouvoir.}
+
+</div>
+</td><td><div>''Cette silhouette fantomatique et enfumée arbore un masque brisé qui lui donne un regard glacial et résolu.''
+
+Quand l’âme des disciples du Dieu vivant Razmir atteint la Cour de Pharasma, elle est le plus souvent enchaînée à la Cour intérieure où se décide son ultime destin en tant qu’adoratrice d’un faux dieu. Ces âmes mortelles sont si traumatisées quand elles découvrent le caractère factice de leur foi que le désir de se venger de ceux qui les ont dupées de leur vivant prend le dessus sur tout le reste. Elles renient la légitimité de l’ensemble des dieux et reviennent sur le plan Matériel pour faire valoir leur vengeance.
+
+L’âme-en-peine apostat est en permanence écartelée entre la honte brûlante qu’elle ressent à s’être laissée prendre au jeu d’une telle duplicité au cours de sa vie et son mépris plein de haine pour les disciples dont les croyances s’avèrent authentiques. Sa motivation principale consiste à appliquer sa vengeance sur la prêtrise mensongère de Razmir mais le conditionnement mental de cette religion est si efficace qu’il est difficile pour ces âmes-en-peine apostats de seulement approcher leurs proies. Lorsqu’une âme-en-peine apostat est capable de surmonter son aversion, sa fureur est terrible. Sinon, elle passe volontiers sa rage sur les disciples d’autres dieux afin de leur ouvrir les yeux (ne serait-ce qu’un instant) sur le désespoir éprouvé quand on prend conscience que la religion est source de mensonges.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Âme-en-peine apostat</fullName>
+</wikiPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ambroisie (fiole)</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-19 20:07:22Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Aasimar (race)</link><link>Pathfinder-RPG.Ambroisie</link><link>Pathfinder-RPG.Remèdes alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Remèdes alchimiques</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Absorption dénergie (capacité)</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.niveau négatif</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.Eau bénite (objet)</link><link>Pathfinder-RPG.Aasimar (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Aasimar.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Aasimar (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Aasimar.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Aasimar-(Race).html&quot; title=&quot;Les aasimars&quot;&gt;aasimars&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 100 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 25  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Rem&#232;des-Alchimiques.html&quot; title=&quot;Rem&#232;des alchimiques&quot;&gt;Rem&#232;des alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+La consommation de cet &#233;lixir divin, infusion d’eau et d’herbes b&#233;nites, accorde un bonus sacr&#233; de +2 &#224; tous les &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; contre l’&#233;nergie n&#233;gative, l’&lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;Absorption d’&#233;nergie (Sur)&quot;&gt;absorption d’&#233;nergie&lt;/a&gt; et les effets de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;mort&lt;/a&gt; pendant 1 heure, y compris aux jets de sauvegarde pour annuler les &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-D&#233;nergie-(Capacit&#233;).html&quot; title=&quot;niveau n&#233;gatif&quot;&gt;niveaux n&#233;gatifs&lt;/a&gt;. L’ambroisie affecte les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;morts-vivants&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;ext&#233;rieurs&lt;/a&gt; Mauvais au m&#234;me titre que l’&lt;a class=&quot;pagelink&quot; href=&quot;Eau-B&#233;nite-(Objet).html&quot; title=&quot;Eau b&#233;nite&quot;&gt;eau b&#233;nite&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}'''Prix''' 100 po ; '''Poids''' 0,5 kg ; '''DD d'Artisanat (alchimie)''' 25  
+<span class="Catégorie">'''Catégorie''' [[Remèdes alchimiques]]</span>
+<hr>
+La consommation de cet élixir divin, infusion d’eau et d’herbes bénites, accorde un bonus sacré de +2 à tous les [[jds|jets de sauvegarde]] contre l’énergie négative, l’[[Absorption dénergie (capacité)|absorption d’énergie]] et les effets de [[registre|mort]] pendant 1 heure, y compris aux jets de sauvegarde pour annuler les [[niveau négatif|niveaux négatifs]]. L’ambroisie affecte les [[type Mort-vivant|morts-vivants]] et les [[type Extérieur|extérieurs]] Mauvais au même titre que l’[[Eau bénite (objet)|eau bénite]].]]></raw>
+  <fullName>Pathfinder-RPG.Ambroisie (objet)</fullName>
+</wikiPage>

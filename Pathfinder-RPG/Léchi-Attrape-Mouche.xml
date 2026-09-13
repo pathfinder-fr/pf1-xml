@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Léchi, Léchi attrape-mouche</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-20 17:25:30Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Léchi</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Plante</link><link>Pathfinder-RPG.sous-type léchi</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Traits des plantes (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.Forme darbre</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Léchi</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Convocation dalliés naturels IV</link><link>Pathfinder-RPG.Croissance végétale</link><link>Pathfinder-RPG.Invasion dorties</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;L&#233;chi attrape-mouche&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Plante&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Plante.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Marais&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.166&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Plante.html&quot; title=&quot;Plante&quot;&gt;Plante&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-L&#233;chi.html&quot; title=&quot;L&#233;chi (sous-type)&quot;&gt;l&#233;chi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 13, pris au d&#233;pourvu 15 (Dex +2, naturelle +4, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 39 (6d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, son, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Des-Plantes-(Capacit&#233;).html&quot; title=&quot;Traits des plantes (Ext)&quot;&gt;traits des plantes&lt;/a&gt; ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +7 (1d4+1 plus 1d4 acide et digestion) et 2 mains attrape-mouches, +7 (1d3+1 plus 1d3 acide et digestion)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; crachat acide, +7 (1d4 acide et digestion)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; digestion, attaque sournoise +1d6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 10 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +12)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — passage sans trace (NLS 12)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 15, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4 ; &lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +6 (+10 dans les mar&#233;cages), &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +0 (+4 dans les mar&#233;cages) ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Discr&#233;tion dans les mar&#233;cages, +4 en Survie dans les mar&#233;cages
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; druidique, sylvestre ; langue des plantes (attrape-mouches)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; amalgame, &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; (petit attrapemouche ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-Darbre.html&quot; title=&quot;Forme d&amp;#39;arbre&quot;&gt;forme d&#39;arbre&lt;/a&gt;&lt;/i&gt;), &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-L&#233;chi.html&quot; title=&quot;L&#233;chi (sous-type)&quot;&gt;explosion verdoyante&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; mar&#233;cages chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou bouquet (4-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Amalgame (Ext).&lt;/b&gt; Plusieurs l&#233;chis attrape-mouches (avec un maximum de 25 l&#233;chis) peuvent temporairement se regrouper pour former une unique cr&#233;ature. Chaque l&#233;chi en plus du premier accorde un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;d&#233; de vie&lt;/a&gt; &#224; l’amalgame qui change de cat&#233;gorie de taille quand il atteint 9, 12, 18 puis 30 d&#233;s de vie. L’amalgame a un nombre d’attaques de morsure &#233;gal au nombre de morsures que peuvent infliger tous les l&#233;chis qui le composent, mais il ne peut porter que deux attaques de mains attrape-mouches. Si le nombre de points de vie de l’amalgame descend en dessous de 0, il se fragmente et les d&#233;g&#226;ts sont r&#233;partis entre les diff&#233;rents l&#233;chis qui le composent.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Digestion (Ext).&lt;/b&gt; Une cr&#233;ature qui subit des d&#233;g&#226;ts acides cons&#233;cutifs &#224; la morsure ou au crachat d’un l&#233;chi attrape-mouche doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ou devenir &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Fi&#233;vreux.html&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreux&lt;/a&gt; pendant 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mains attrape-mouches (Ext).&lt;/b&gt; En plus de l’attrape-mouche qui lui sert de t&#234;te, un l&#233;chi attrape-mouche poss&#232;de deux attrape-mouches suppl&#233;mentaires plus petits qui lui servent de mains. Ces mains peuvent &#234;tre utilis&#233;es pour infliger l’&#233;quivalent de morsures d’une cr&#233;ature de taille TP.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;L&#233;chi.html&quot; title=&quot;Les l&#233;chis&quot;&gt;l&#233;chis&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Cette grappe d’attrape-mouches a une forme vaguement humano&#239;de. Au-dessus du plus grand attrape-mouche qui la compose, cette cr&#233;ature lance un regard mena&#231;ant de ses yeux per&#231;ants.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;La plupart des l&#233;chis sont des cr&#233;atures pacifiques dont l’activit&#233; principale consiste &#224; entretenir leur environnement naturel. Mais si les l&#233;chis attrape-mouches ne quittent pas leur domaine pour chercher la confrontation, ils prennent cependant un plaisir certain &#224; s’en prendre aux intrus. Ces plantes carnivores ont tendance &#224; attaquer avant de poser des questions. Et si elles ne s’associent que rarement avec d’autres cr&#233;atures, ces v&#233;g&#233;taux agressifs collaborent sans mal avec leurs cong&#233;n&#232;res. Ils combattent d’ailleurs mieux en &#233;quipe et se coordonnent avec une telle efficacit&#233; qu’un groupe de l&#233;chis attrape-mouches fonctionne quasiment comme un seul organisme – une illusion encore renforc&#233;e par la similitude entre la t&#234;te et les mains d’un l&#233;chi attrape-mouche. Les l&#233;chis attrape-mouches les plus courants ont une t&#234;te et une seule paire de mains, mais il existe des variantes plus puissantes de ces cr&#233;atures qui ont plus de t&#234;tes et de mains que la normale.&lt;br /&gt;&lt;br /&gt;L’agressivit&#233; des l&#233;chis attrape-mouches repr&#233;sente un aspect brutal et &#224; premi&#232;re vue cruel du cycle naturel, mais un aspect qui est en d&#233;finitive n&#233;cessaire au bien-&#234;tre du plus grand nombre. Quand les l&#233;chis attrape-mouches doivent d&#233;fendre leur habitat, ils n’h&#233;sitent pas &#224; allumer des incendies contr&#244;l&#233;s en comptant sur leur r&#233;sistance au feu pour traverser les flammes.&lt;br /&gt;&lt;br /&gt;&#192; la diff&#233;rence de la plupart des autres l&#233;chis, les l&#233;chis attrape- mouches se nourrissent de chair et ne sont pas regardants sur le type de viande qu’ils consomment. Ils appr&#233;cient particuli&#232;rement les insectes et une fa&#231;on d’apaiser un l&#233;chi attrapemouche est de lui offrir un insecte rare ou inhabituel.&lt;br /&gt;&lt;br /&gt;Un l&#233;chi attrape-mouche mesure g&#233;n&#233;ralement 60 centim&#232;tres et p&#232;se 10 kilos.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Faire pousser un l&#233;chi attrape-mouche&lt;a class=&quot;headeranchor&quot; id=&quot;Faire_pousser_un_l&#233;chi_attrape-mouche_0&quot; href=&quot;#Faire_pousser_un_l&#233;chi_attrape-mouche_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Un l&#233;chi attrape-mouche pousse g&#233;n&#233;ralement dans un terrain mar&#233;cageux. Il n’&#233;mergera que si on lui offre un petit tas d’insectes fra&#238;chement tu&#233;s pour qu’il s’en nourrisse.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;NLS&lt;/b&gt; 10 ; &lt;b&gt;Prix&lt;/b&gt; 6 500 po  
+&lt;b&gt;Conditions requises&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) 5 rangs, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-Dalli&#233;s-Naturels-Iv.html&quot; title=&quot;Convocation d&amp;#39;alli&#233;s naturels IV&quot;&gt;convocation d’alli&#233;s naturels IV&lt;/a&gt;&lt;/i&gt;, &#39;&lt;a class=&quot;pagelink&quot; href=&quot;Croissance-V&#233;g&#233;tale.html&quot; title=&quot;Croissance v&#233;g&#233;tale&quot;&gt;croissance v&#233;g&#233;tale&lt;/a&gt;&lt;i&gt;, &#39;&lt;a class=&quot;pagelink&quot; href=&quot;Invasion-Dorties.html&quot; title=&quot;Invasion d&amp;#39;orties&quot;&gt;invasion d’orties&lt;/a&gt;&lt;/i&gt;  
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 ; &lt;b&gt;Co&#251;t&lt;/b&gt; 3 250 po
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Léchi attrape-mouche|FP 4}
+{s:pucem|Plante|Marais|Tropical}
+{s:BDTexte|''Source : Bestiaire 5 p.166''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Plante|Plante]] ([[sous-type léchi|léchi]], [[sous-type métamorphe|métamorphe]]) de taille P, N}
+{s:BDTexte|'''Init''' +6 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +11}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 13, pris au dépourvu 15 (Dex +2, naturelle +4, taille +1)}
+{s:BDTexte|'''pv''' 39 (6d8+12)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +7, '''Vol''' +4}
+{s:BDTexte|'''Immunités''' électricité, son, [[Traits des plantes (capacité)|traits des plantes]] ; '''Résistances''' feu 5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m}
+{s:BDTexte|'''Corps à corps''' morsure, +7 (1d4+1 plus 1d4 acide et digestion) et 2 mains attrape-mouches, +7 (1d3+1 plus 1d3 acide et digestion)}
+{s:BDTexte|'''Distance''' crachat acide, +7 (1d4 acide et digestion)}
+{s:BDTexte|'''Attaques spéciales''' digestion, attaque sournoise +1d6}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 10 ; [[concentration]] +12)}
+{s:BDSorts|Constant — passage sans trace (NLS 12)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 15, '''Con''' 14, '''Int''' 10, '''Sag''' 15, '''Cha''' 15}
+{s:BDTexte|'''BBA''' +4 ; '''BMO''' +4 ; '''DMD''' 16}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Attaques réflexes]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Intimidation]] +8, [[Perception]] +11, [[Discrétion]] +6 (+10 dans les marécages), [[Survie]] +0 (+4 dans les marécages) ; '''Modificateurs raciaux''' +4 en Discrétion dans les marécages, +4 en Survie dans les marécages}
+{s:BDTexte|'''Langues''' druidique, sylvestre ; langue des plantes (attrape-mouches)}
+{s:BDTexte|'''Particularités''' amalgame, [[Changement de forme (capacité)|changement de forme]] (petit attrapemouche ; ''[[forme darbre|forme d'arbre]]''), [[sous-type Léchi|explosion verdoyante]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marécages chauds}
+{s:BDTexte|'''Organisation''' solitaire ou bouquet (4-8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Amalgame (Ext).''' Plusieurs léchis attrape-mouches (avec un maximum de 25 léchis) peuvent temporairement se regrouper pour former une unique créature. Chaque léchi en plus du premier accorde un [[DV|dé de vie]] à l’amalgame qui change de catégorie de taille quand il atteint 9, 12, 18 puis 30 dés de vie. L’amalgame a un nombre d’attaques de morsure égal au nombre de morsures que peuvent infliger tous les léchis qui le composent, mais il ne peut porter que deux attaques de mains attrape-mouches. Si le nombre de points de vie de l’amalgame descend en dessous de 0, il se fragmente et les dégâts sont répartis entre les différents léchis qui le composent.}
+{s:BDTexte|'''Digestion (Ext).''' Une créature qui subit des dégâts acides consécutifs à la morsure ou au crachat d’un léchi attrape-mouche doit réussir un jet de [[Vigueur]] [[DD]] 15 ou devenir [[fiévreux]] pendant 1d4 [[round|rounds]]. Le [[DD]] du [[jds|jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|'''Mains attrape-mouches (Ext).''' En plus de l’attrape-mouche qui lui sert de tête, un léchi attrape-mouche possède deux attrape-mouches supplémentaires plus petits qui lui servent de mains. Ces mains peuvent être utilisées pour infliger l’équivalent de morsures d’une créature de taille TP.}
+</div></td>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[léchi|léchis]].'''''</li></ul>''Cette grappe d’attrape-mouches a une forme vaguement humanoïde. Au-dessus du plus grand attrape-mouche qui la compose, cette créature lance un regard menaçant de ses yeux perçants.''
+
+La plupart des léchis sont des créatures pacifiques dont l’activité principale consiste à entretenir leur environnement naturel. Mais si les léchis attrape-mouches ne quittent pas leur domaine pour chercher la confrontation, ils prennent cependant un plaisir certain à s’en prendre aux intrus. Ces plantes carnivores ont tendance à attaquer avant de poser des questions. Et si elles ne s’associent que rarement avec d’autres créatures, ces végétaux agressifs collaborent sans mal avec leurs congénères. Ils combattent d’ailleurs mieux en équipe et se coordonnent avec une telle efficacité qu’un groupe de léchis attrape-mouches fonctionne quasiment comme un seul organisme – une illusion encore renforcée par la similitude entre la tête et les mains d’un léchi attrape-mouche. Les léchis attrape-mouches les plus courants ont une tête et une seule paire de mains, mais il existe des variantes plus puissantes de ces créatures qui ont plus de têtes et de mains que la normale.
+
+L’agressivité des léchis attrape-mouches représente un aspect brutal et à première vue cruel du cycle naturel, mais un aspect qui est en définitive nécessaire au bien-être du plus grand nombre. Quand les léchis attrape-mouches doivent défendre leur habitat, ils n’hésitent pas à allumer des incendies contrôlés en comptant sur leur résistance au feu pour traverser les flammes.
+
+À la différence de la plupart des autres léchis, les léchis attrape- mouches se nourrissent de chair et ne sont pas regardants sur le type de viande qu’ils consomment. Ils apprécient particulièrement les insectes et une façon d’apaiser un léchi attrapemouche est de lui offrir un insecte rare ou inhabituel.
+
+Un léchi attrape-mouche mesure généralement 60 centimètres et pèse 10 kilos.
+
+===Faire pousser un léchi attrape-mouche===
+Un léchi attrape-mouche pousse généralement dans un terrain marécageux. Il n’émergera que si on lui offre un petit tas d’insectes fraîchement tués pour qu’il s’en nourrisse.
+
+'''NLS''' 10 ; '''Prix''' 6 500 po  
+'''Conditions requises''' [[Connaissances]] (nature) 5 rangs, ''[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]'', '[[croissance végétale]]'', '[[invasion dorties|invasion d’orties]]''  
+'''Compétences''' [[Connaissances]] (nature) [[DD]] 18 ; '''Coût''' 3 250 po
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Léchi attrape-mouche</fullName>
+</wikiPage>

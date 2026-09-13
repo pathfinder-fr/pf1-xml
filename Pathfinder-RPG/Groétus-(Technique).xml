@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Groétus</title>
+  <categories><category>Pathfinder-RPG.Divinité</category></categories>
+  <lastModified>2023-09-07 16:10:37Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Cape du traqueur de mort</link><link>Pathfinder-RPG.Cape du traqueur de mort</link><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Fléau de linconscient</link><link>Pathfinder-RPG.Objets merveilleux portés sur les épaules</link><link>Pathfinder-RPG.Traits religieux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Fléau darmes lourd (arme)</link><link>Pathfinder-RPG.Domaine du Chaos</link><link>Pathfinder-RPG.Domaine de la Destruction</link><link>Pathfinder-RPG.Domaine de la Folie</link><link>Pathfinder-RPG.Domaine de lObscurité</link><link>Pathfinder-RPG.Domaine du Vide</link><link>Pathfinder-RPG.Pharasma (technique)</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Confusion</link><link>Pathfinder-RPG.Confusion mineure</link><link>Pathfinder-RPG.Terreur</link><link>Pathfinder-RPG.Convocation de monstres II</link><link>Pathfinder-RPG.Akata</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.Convocation de monstres VI</link><link>Pathfinder-RPG.Bête du Chaos</link><link>Pathfinder-RPG.Homme-phalène</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fGroetus.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;%2fPCUP%2fReligion-PNG%2fGroetus.png&lt;/i&gt;&quot;); }
+  let align = &quot;Chaotique Neutre&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Gro&#233;tus,&lt;br/&gt;La Fin des Temps&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fGroetus.png&quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#AUTRES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Autres divinit&#233;s&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Chaotique Neutre&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Lieux vides, n&#233;ant et ruines
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Fous&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Aucun
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#233;au-Darmes-Lourd-(Arme).html&quot; title=&quot;Fl&#233;au d&amp;#39;armes lourd&quot;&gt;Fl&#233;au d&#39;armes lourd&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Destruction.html&quot; title=&quot;Domaine de la Destruction&quot;&gt;Destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Folie.html&quot; title=&quot;Domaine de la Folie&quot;&gt;Folie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Lobscurit&#233;.html&quot; title=&quot;Domaine de l&amp;#39;Obscurit&#233;&quot;&gt;Obscurit&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Vide.html&quot; title=&quot;Domaine du Vide&quot;&gt;Vide&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Destruction.html&quot; title=&quot;Domaine de la Destruction&quot;&gt;Catastrophe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;Entropie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Vide.html&quot; title=&quot;Domaine du Vide&quot;&gt;&#201;toiles&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Folie.html&quot; title=&quot;Domaine de la Folie&quot;&gt;Insanit&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Lobscurit&#233;.html&quot; title=&quot;Domaine de l&amp;#39;Obscurit&#233;&quot;&gt;Nuit&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Lobscurit&#233;.html&quot; title=&quot;Domaine de l&amp;#39;Obscurit&#233;&quot;&gt;Perte&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Folie.html&quot; title=&quot;Domaine de la Folie&quot;&gt;V&#233;rit&#233;&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;pagelink&quot; href=&quot;../Golarion/Gro&#233;tus.html&quot; title=&quot;Gro&#233;tus, la Fin des Temps&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;Le Cimeti&#232;re de &lt;a class=&quot;pagelink&quot; href=&quot;Pharasma-(Technique).html&quot; title=&quot;Pharasma&quot;&gt;Pharasma&lt;/a&gt; est surplomb&#233; par un autre dieu, moins pr&#233;dominant. Il s&#39;agit de Gro&#233;tus, le dieu de la fin des temps, une lune consciente et cruelle qui observe le Cimeti&#232;re et attend la mort de la derni&#232;re &#226;me vivante. Selon la &lt;i&gt;Concordance des rivaux&lt;/i&gt;, lorsque Pharasma jugera la derni&#232;re &#226;me apr&#232;s la mort du dernier corps vivant sur le plan Mat&#233;riel, Gro&#233;tus descendra jusqu&#39;au Cimeti&#232;re pour rencontrer Pharasma sur son tr&#244;ne en ruine avant de se rendre sur le plan Mat&#233;riel pour &quot;nettoyer&quot; et faire la poussi&#232;re avant qu&#39;une autre r&#233;alit&#233; le remplace. Gro&#233;tus dispara&#238;tra une fois qu&#39;il aura confirm&#233; qu&#39;il ne reste plus rien. Cependant, tout comme Pharasma est venue d&#39;une r&#233;alit&#233; pr&#233;c&#233;dente, un nouveau Survivant &#233;chappera &#224; la destruction pour recr&#233;er le cosmos.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles uniques aux suivants&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_uniques_aux_suivants_0&quot; href=&quot;#R&#232;gles_uniques_aux_suivants_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;pr&#234;tre combattant&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Confusion.html&quot; title=&quot;Confusion&quot;&gt;Confusion&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau. (pr&#234;tre du &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Folie.html&quot; title=&quot;Domaine de la Folie&quot;&gt;domaine de la Folie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Vide.html&quot; title=&quot;Domaine du Vide&quot;&gt;du Vide&lt;/a&gt; uniquement)
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Confusion-Mineure.html&quot; title=&quot;Confusion mineure&quot;&gt;Confusion mineure&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 2e niveau. (pr&#234;tre du &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Folie.html&quot; title=&quot;Domaine de la Folie&quot;&gt;domaine de la Folie&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Vide.html&quot; title=&quot;Domaine du Vide&quot;&gt;du Vide&lt;/a&gt; uniquement)
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Terreur.html&quot; title=&quot;Terreur&quot;&gt;Terreur&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Convocations &#233;tendues.&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Ii.html&quot; title=&quot;Convocation de monstres II&quot;&gt;Convocation de monstres II&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Akata.html&quot; title=&quot;Akata&quot;&gt;Akata&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;)  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Vi.html&quot; title=&quot;Convocation de monstres VI&quot;&gt;Convocation de monstres VI&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;B&#234;te-Du-Chaos.html&quot; title=&quot;B&#234;te du Chaos&quot;&gt;B&#234;te du Chaos&lt;/a&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Vi.html&quot; title=&quot;Convocation de monstres VI&quot;&gt;Convocation de monstres VI&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Phal&#232;ne.html&quot; title=&quot;Homme-phal&#232;ne&quot;&gt;Homme-phal&#232;ne&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Options de personnage th&#233;matiques&lt;a class=&quot;headeranchor&quot; id=&quot;Options_de_personnage_th&#233;matiques_1&quot; href=&quot;#Options_de_personnage_th&#233;matiques_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;i&gt;&#192; VENIR&lt;/i&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Groétus|Groétus,<br/>La Fin des Temps|%2fPCUP%2fReligion-PNG%2fGroetus.png|[[Divinités#AUTRES|Autres divinités]]
+|Chaotique Neutre|Lieux vides, néant et ruines
+|Fous|Aucun
+|[[Fléau darmes lourd (arme)|Fléau d'armes lourd]]
+|[[Domaine du Chaos|Chaos]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Folie|Folie]], [[Domaine de lObscurité|Obscurité]], [[Domaine du Vide|Vide]]
+|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Chaos|Entropie]], [[Domaine du Vide|Étoiles]], [[Domaine de la Folie|Insanité]], [[Domaine de lObscurité|Nuit]], [[Domaine de lObscurité|Perte]], [[Domaine de la Folie|Vérité]]
+|—}{s:cs}{s:ISG}Le Cimetière de [[Pharasma (technique)|Pharasma]] est surplombé par un autre dieu, moins prédominant. Il s'agit de Groétus, le dieu de la fin des temps, une lune consciente et cruelle qui observe le Cimetière et attend la mort de la dernière âme vivante. Selon la ''Concordance des rivaux'', lorsque Pharasma jugera la dernière âme après la mort du dernier corps vivant sur le plan Matériel, Groétus descendra jusqu'au Cimetière pour rencontrer Pharasma sur son trône en ruine avant de se rendre sur le plan Matériel pour "nettoyer" et faire la poussière avant qu'une autre réalité le remplace. Groétus disparaîtra une fois qu'il aura confirmé qu'il ne reste plus rien. Cependant, tout comme Pharasma est venue d'une réalité précédente, un nouveau Survivant échappera à la destruction pour recréer le cosmos.
+
+===Règles uniques aux suivants===
+'''Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).'''  
+• ''[[Confusion]]'' peut être préparé comme un sort de 4e niveau. (prêtre du [[domaine de la Folie]] ou [[Domaine du Vide|du Vide]] uniquement)
+• ''[[Confusion mineure]]'' peut être préparé comme un sort de 2e niveau. (prêtre du [[domaine de la Folie]] ou [[Domaine du Vide|du Vide]] uniquement)
+• ''[[Terreur]]'' peut être préparé comme un sort de 4e niveau.
+
+'''Convocations étendues.'''  
+• ''[[Convocation de monstres II]].'' [[Akata]] ([[sous-type extraplanaire|extraplanaire]])  
+• ''[[Convocation de monstres VI]].'' [[Bête du Chaos]]  
+• ''[[Convocation de monstres VI]].'' [[Homme-phalène]] ([[sous-type extraplanaire|extraplanaire]])
+
+===Options de personnage thématiques===
+''À VENIR'']]></raw>
+  <fullName>Pathfinder-RPG.Groétus (technique)</fullName>
+</wikiPage>

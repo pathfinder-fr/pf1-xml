@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sanglantes représailles</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort paladin 4</category><category>Pathfinder-RPG.Sort prêtre 6</category><category>Pathfinder-RPG.Sort rôdeur 4</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2020-07-28 19:43:59Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts de rôdeurs</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Nain</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Pal&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 6, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;R&#244;d&lt;/a&gt; 4  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (le sang du personnage)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; personnelle  
+&lt;b&gt;Cible&lt;/b&gt; le lanceur de sorts  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; sp&#233;ciale (voir description)&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Ce sort est r&#233;serv&#233; aux personnages qui v&#233;n&#232;rent la d&#233;esse naine de la vengeance.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Lorsqu’il lance ce sort, le personnage entaille une partie de son corps et prononce un serment de repr&#233;sailles avec son sang. Il d&#233;termine la quantit&#233; de d&#233;g&#226;ts qu’il s’inflige par le biais de cette attaque, jusqu’&#224; un maximum de 25 points. Ces d&#233;g&#226;ts ne peuvent &#234;tre soign&#233;s tant que dure le sort. &#192; chaque fois qu’il effectue une attaque, une sauvegarde ou un test directement li&#233;s au serment qui le rapproche de son accomplissement, il gagne un bonus de moral &#224; ces jets &#233;gal au nombre de points de d&#233;g&#226;ts qu’il s’est inflig&#233;s lors de la prononciation du serment, divis&#233;s par 5. Le MJ est l’arbitre final pour d&#233;terminer si une action peut b&#233;n&#233;ficier ou non de ce bonus. Lorsqu’il accomplit le serment (ou d&#233;cide de le renier), le sort prend fin et les points de vie perdus peuvent &#234;tre soign&#233;s.&lt;br /&gt;&lt;br /&gt;Par exemple, un chef bandit tristement c&#233;l&#232;bre a tu&#233; le fr&#232;re de Stigur et Stigur veut venger la mort de son fr&#232;re. Il lance ce sort et sacrifie 20 points de vie. Pendant toute la dur&#233;e de ce sort, Stigur gagne un bonus de moral de +4 sur ses jets d’attaque effectu&#233;s contre les s&#233;ides du chef des bandits, &#224; ses jets de sauvegarde contre ces m&#234;mes s&#233;ides, &#224; ses tests d’Intimidation pour obliger un informateur &#224; lui r&#233;v&#233;ler l’emplacement du campement du chef, et ainsi de suite.
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}'''École''' [[Nécromancie]] ; '''Niveau''' [[paladin|Pal]] 4, [[prêtre|Prê]] 6, [[rôdeur|Rôd]] 4  
+'''Temps d'incantation''' 1 [[round]]  
+'''Composantes''' [[composantes|V, G, M]] (le sang du personnage)  
+'''Portée''' personnelle  
+'''Cible''' le lanceur de sorts  
+'''Durée''' spéciale (voir description)
+
+''Ce sort est réservé aux personnages qui vénèrent la déesse naine de la vengeance.''
+
+Lorsqu’il lance ce sort, le personnage entaille une partie de son corps et prononce un serment de représailles avec son sang. Il détermine la quantité de dégâts qu’il s’inflige par le biais de cette attaque, jusqu’à un maximum de 25 points. Ces dégâts ne peuvent être soignés tant que dure le sort. À chaque fois qu’il effectue une attaque, une sauvegarde ou un test directement liés au serment qui le rapproche de son accomplissement, il gagne un bonus de moral à ces jets égal au nombre de points de dégâts qu’il s’est infligés lors de la prononciation du serment, divisés par 5. Le MJ est l’arbitre final pour déterminer si une action peut bénéficier ou non de ce bonus. Lorsqu’il accomplit le serment (ou décide de le renier), le sort prend fin et les points de vie perdus peuvent être soignés.
+
+Par exemple, un chef bandit tristement célèbre a tué le frère de Stigur et Stigur veut venger la mort de son frère. Il lance ce sort et sacrifie 20 points de vie. Pendant toute la durée de ce sort, Stigur gagne un bonus de moral de +4 sur ses jets d’attaque effectués contre les séides du chef des bandits, à ses jets de sauvegarde contre ces mêmes séides, à ses tests d’Intimidation pour obliger un informateur à lui révéler l’emplacement du campement du chef, et ainsi de suite.]]></raw>
+  <fullName>Pathfinder-RPG.Sanglantes représailles</fullName>
+</wikiPage>

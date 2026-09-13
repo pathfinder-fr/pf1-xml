@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chauve-souris sanguinaire de selle</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-14 15:51:44Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Animaux, montures et leur équipement</link><link>Pathfinder-RPG.Drow (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Animaux, montures et leur équipement</link><link>Pathfinder-RPG.Chauve-souris sanguinaire</link><link>Pathfinder-RPG.Drow (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Drow.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Drow (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Drow.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Drow-(Race).html&quot; title=&quot;Les drows&quot;&gt;drows&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 300 po (normale), 450 po (entra&#238;n&#233;e au combat) ; &lt;b&gt;Poids&lt;/b&gt; 200 kg (normale), 225 kg (entra&#238;n&#233;e au combat)  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Animaux,-Montures-Et-Leur-&#201;quipement.html&quot; title=&quot;Animaux, montures et leur &#233;quipement&quot;&gt;Animaux, montures et leur &#233;quipement&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Consid&#233;r&#233;es comme le mode de transport non-magique le plus rapide des royaumes souterrains et des cavernes, les chauves-souris sanguinaires sont dress&#233;es en captivit&#233; pour servir d’animaux de selle. G&#233;n&#233;ralement, les &#233;tables capables d’accueillir ces cr&#233;atures &#233;normes se trouvent seulement dans les villes b&#226;ties dans de grandes grottes souterraines, car il faut beaucoup d’espace pour entra&#238;ner ces b&#234;tes mais les &#233;claireurs de certaines races souterraines les font voler presque jusqu’&#224; la surface. Il faut une selle sp&#233;ciale pour chevaucher ces cr&#233;atures. Voir les statistiques de la &lt;a class=&quot;pagelink&quot; href=&quot;Chauve-Souris-Sanguinaire.html&quot; title=&quot;Chauve-souris, Chauve-souris sanguinaire&quot;&gt;chauve-souris sanguinaire&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Chauve-souris de selle (entra&#238;n&#233;e au combat)&lt;/i&gt;. Les &#233;claireurs et les militaires utilisent ces animaux pour la guerre.
+]]></body>
+  <raw><![CDATA[{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:AE}{s:MR}'''Prix''' 300 po (normale), 450 po (entraînée au combat) ; '''Poids''' 200 kg (normale), 225 kg (entraînée au combat)  
+<span class="Catégorie">'''Catégorie''' [[Animaux, montures et leur équipement]]</span>
+<hr>
+Considérées comme le mode de transport non-magique le plus rapide des royaumes souterrains et des cavernes, les chauves-souris sanguinaires sont dressées en captivité pour servir d’animaux de selle. Généralement, les étables capables d’accueillir ces créatures énormes se trouvent seulement dans les villes bâties dans de grandes grottes souterraines, car il faut beaucoup d’espace pour entraîner ces bêtes mais les éclaireurs de certaines races souterraines les font voler presque jusqu’à la surface. Il faut une selle spéciale pour chevaucher ces créatures. Voir les statistiques de la [[chauve-souris sanguinaire]].<br/><br/>''Chauve-souris de selle (entraînée au combat)''. Les éclaireurs et les militaires utilisent ces animaux pour la guerre.]]></raw>
+  <fullName>Pathfinder-RPG.Chauve-souris sanguinaire de selle (objet)</fullName>
+</wikiPage>

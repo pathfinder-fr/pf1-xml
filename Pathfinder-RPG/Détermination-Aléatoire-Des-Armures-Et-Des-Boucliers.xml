@@ -1,0 +1,705 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Détermination aléatoire des armures et des boucliers</title>
+  <categories><category>Pathfinder-RPG.Détermination aléatoire</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Armes et équipement</category></categories>
+  <lastModified>2024-08-25 22:44:07Z</lastModified>
+  <version>11</version>
+  <inLinks><link>Pathfinder-RPG.Afflictions</link><link>Pathfinder-RPG.Apparitions</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Courses poursuites</link><link>Pathfinder-RPG.Description des plaies magiques</link><link>Pathfinder-RPG.Détermination aléatoire des anneaux magiques</link><link>Pathfinder-RPG.Détermination aléatoire des armes</link><link>Pathfinder-RPG.Détermination aléatoire des armures et des boucliers</link><link>Pathfinder-RPG.Détermination aléatoire des baguettes magiques</link><link>Pathfinder-RPG.Détermination aléatoire des bâtons magiques</link><link>Pathfinder-RPG.Détermination aléatoire des objets merveilleux</link><link>Pathfinder-RPG.Détermination aléatoire des parchemins magiques</link><link>Pathfinder-RPG.Détermination aléatoire des potions et des huiles magiques</link><link>Pathfinder-RPG.Détermination aléatoire des sceptres magiques</link><link>Pathfinder-RPG.Détermination aléatoire dobjets magiques</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Galerie de PNJ</link><link>Pathfinder-RPG.Gemmes et bijoux</link><link>Pathfinder-RPG.Générateur de trésors</link><link>Pathfinder-RPG.Générateur de trésors</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Objets dArt</link><link>Pathfinder-RPG.Plaies</link><link>Pathfinder-RPG.Profil des monstres</link><link>Pathfinder-RPG.Règles de monstres universelles</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Types de créatures</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.crevice (armure)</link><link>Pathfinder-RPG.cuirasse (armure)</link><link>Pathfinder-RPG.targe (armure)</link><link>Pathfinder-RPG.chemise de mailles (armure)</link><link>Pathfinder-RPG.cotte de mailles (armure)</link><link>Pathfinder-RPG.harnois (armure)</link><link>Pathfinder-RPG.armure de plaques (armure)</link><link>Pathfinder-RPG.écu (armure)</link><link>Pathfinder-RPG.armure de peau (armure)</link><link>Pathfinder-RPG.armure de cuir (armure)</link><link>Pathfinder-RPG.rondache (armure)</link><link>Pathfinder-RPG.armure matelassée (armure)</link><link>Pathfinder-RPG.armure décailles (armure)</link><link>Pathfinder-RPG.clibanion (armure)</link><link>Pathfinder-RPG.armure de cuir cloutée (armure)</link><link>Pathfinder-RPG.pavois (armure)</link><link>Pathfinder-RPG.armure légère</link><link>Pathfinder-RPG.armure intermédiaire</link><link>Pathfinder-RPG.armure lourde</link><link>Pathfinder-RPG.Bouclier</link><link>Pathfinder-RPG.Tableau récapitulatif des armures</link><link>Pathfinder-RPG.soutien (propriété armure)</link><link>Pathfinder-RPG.résistance au poison (propriété)</link><link>Pathfinder-RPG.équilibrée (propriété)</link><link>Pathfinder-RPG.amertume (propriété)</link><link>Pathfinder-RPG.renforcement (propriété)</link><link>Pathfinder-RPG.pugilat (propriété)</link><link>Pathfinder-RPG.championne (propriété)</link><link>Pathfinder-RPG.fourberie (propriété)</link><link>Pathfinder-RPG.immortalité (propriété)</link><link>Pathfinder-RPG.opposition (propriété)</link><link>Pathfinder-RPG.défense légère (propriété)</link><link>Pathfinder-RPG.barbelée (propriété)</link><link>Pathfinder-RPG.solide (propriété armure)</link><link>Pathfinder-RPG.miroir (propriété)</link><link>Pathfinder-RPG.stockage de sort (propriété armure)</link><link>Pathfinder-RPG.garrot (propriété)</link><link>Pathfinder-RPG.prévention (propriété)</link><link>Pathfinder-RPG.mimétisme (propriété armure)</link><link>Pathfinder-RPG.joute (propriété)</link><link>Pathfinder-RPG.ombre (propriété)</link><link>Pathfinder-RPG.graisseuse (propriété)</link><link>Pathfinder-RPG.expéditive (propriété)</link><link>Pathfinder-RPG.discrétion (propriété)</link><link>Pathfinder-RPG.ralliement (propriété)</link><link>Pathfinder-RPG.résistance à la magie 13 (propriété)</link><link>Pathfinder-RPG.adhésive (propriété)</link><link>Pathfinder-RPG.niche (propriété)</link><link>Pathfinder-RPG.éclatante (propriété)</link><link>Pathfinder-RPG.fouisseuse (propriété)</link><link>Pathfinder-RPG.putride (propriété)</link><link>Pathfinder-RPG.défense intermédiaire (propriété)</link><link>Pathfinder-RPG.spectrale (propriété armure)</link><link>Pathfinder-RPG.invulnérabilité (propriété)</link><link>Pathfinder-RPG.résistance à la magie 15 (propriété)</link><link>Pathfinder-RPG.titanesque (propriété)</link><link>Pathfinder-RPG.forme animale (propriété)</link><link>Pathfinder-RPG.harmonique (propriété)</link><link>Pathfinder-RPG.ombre supérieure (propriété)</link><link>Pathfinder-RPG.graisseuse supérieure (propriété)</link><link>Pathfinder-RPG.résistance aux énergies destructives (propriété)</link><link>Pathfinder-RPG.martyr (propriété)</link><link>Pathfinder-RPG.résistance à la magie 17 (propriété)</link><link>Pathfinder-RPG.vertueuse (propriété)</link><link>Pathfinder-RPG.libertaire (propriété)</link><link>Pathfinder-RPG.impie (propriété armure)</link><link>Pathfinder-RPG.vigilante (propriété)</link><link>Pathfinder-RPG.détermination (propriété)</link><link>Pathfinder-RPG.Ombre suprême (propriété)</link><link>Pathfinder-RPG.graisseuse suprême (propriété)</link><link>Pathfinder-RPG.résistance supérieure aux énergies destructives (propriété)</link><link>Pathfinder-RPG.éthérée (propriété)</link><link>Pathfinder-RPG.contrôle des morts-vivants (propriété)</link><link>Pathfinder-RPG.résistance suprême aux énergies destructives (propriété)</link><link>Pathfinder-RPG.défense lourde (propriété)</link><link>Pathfinder-RPG.résistance à la magie 19 (propriété)</link><link>Pathfinder-RPG.interception de projectile (propriété)</link><link>Pathfinder-RPG.Attaque (propriété)</link><link>Pathfinder-RPG.aveuglante (propriété)</link><link>Pathfinder-RPG.retentissant (propriété)</link><link>Pathfinder-RPG.bélier (propriété)</link><link>Pathfinder-RPG.souffle draconique (propriété)</link><link>Pathfinder-RPG.animée (propriété)</link><link>Pathfinder-RPG.anti-projectiles (propriété)</link><link>Pathfinder-RPG.fusion (propriété)</link><link>Pathfinder-RPG.réfléchissante (propriété)</link><link>Pathfinder-RPG.Chemise de mailles en mithral</link><link>Pathfinder-RPG.Maillebrume</link><link>Pathfinder-RPG.Armure En Peau dOtyugh</link><link>Pathfinder-RPG.Harnois en peau de dragon</link><link>Pathfinder-RPG.Cotte de mailles elfique</link><link>Pathfinder-RPG.Armure en peau de rhinocéros</link><link>Pathfinder-RPG.Armure En Peau de Morlock</link><link>Pathfinder-RPG.Cuirasse en adamantium</link><link>Pathfinder-RPG.Habits du devin</link><link>Pathfinder-RPG.Armure Équestre</link><link>Pathfinder-RPG.Armure En Peau dAnguille Enchantée</link><link>Pathfinder-RPG.Armure de contorsionniste</link><link>Pathfinder-RPG.Habits noirs du meurtrier</link><link>Pathfinder-RPG.Armure pliante</link><link>Pathfinder-RPG.Cuirasse de Volatilisation</link><link>Pathfinder-RPG.armure dinsultes</link><link>Pathfinder-RPG.Harnois nain</link><link>Pathfinder-RPG.Crevice de la seconde chance</link><link>Pathfinder-RPG.Armure En Peau de Chat</link><link>Pathfinder-RPG.Armure céleste</link><link>Pathfinder-RPG.cuirasse du boucanier</link><link>Pathfinder-RPG.Harnois des profondeurs</link><link>Pathfinder-RPG.Cuirasse de commandement</link><link>Pathfinder-RPG.Crevice impie</link><link>Pathfinder-RPG.Harnois en mithral de vitesse</link><link>Pathfinder-RPG.Gardien des Forêts</link><link>Pathfinder-RPG.Cuirasse-scarabée</link><link>Pathfinder-RPG.Armure en peau de géant</link><link>Pathfinder-RPG.Armure En Peau dHamatula</link><link>Pathfinder-RPG.Armure démoniaque</link><link>Pathfinder-RPG.Cotte de Mailles de Malveillance</link><link>Pathfinder-RPG.Astre du jour</link><link>Pathfinder-RPG.Armure dInvincibilité</link><link>Pathfinder-RPG.Harnois Prismatique</link><link>Pathfinder-RPG.Écu En Acier Vivant</link><link>Pathfinder-RPG.Rondache en ébénite</link><link>Pathfinder-RPG.Écu en ébénite</link><link>Pathfinder-RPG.Écu en mithral</link><link>Pathfinder-RPG.Bouclier En Peau de Zombi</link><link>Pathfinder-RPG.Bouclier des arcanes</link><link>Pathfinder-RPG.Targe du Cambrioleur</link><link>Pathfinder-RPG.Bouclier de la manticore</link><link>Pathfinder-RPG.Bouclier du Pourfendeur de Dragons</link><link>Pathfinder-RPG.Pavois Pliant</link><link>Pathfinder-RPG.Bouclier du lion</link><link>Pathfinder-RPG.Bouclier des Arcanes Suprême</link><link>Pathfinder-RPG.Bouclier céleste</link><link>Pathfinder-RPG.Bouclier Maelström</link><link>Pathfinder-RPG.Bouclier Volcanique</link><link>Pathfinder-RPG.Bouclier des Tempêtes</link><link>Pathfinder-RPG.Bouclier crénelé</link><link>Pathfinder-RPG.Bouclier ailé</link><link>Pathfinder-RPG.Bouclier des Éboulis</link><link>Pathfinder-RPG.Bouclier forteresse</link><link>Pathfinder-RPG.Bouclier du Pourfendeur de Dracosires</link><link>Pathfinder-RPG.Pavois dEsquive Magique</link><link>Pathfinder-RPG.Targe de Blocage Éclair</link><link>Pathfinder-RPG.Bouclier Agressif</link><link>Pathfinder-RPG.Pavois de Force</link><link>Pathfinder-RPG.Bouclier phagocyte</link><link>Pathfinder-RPG.Bouclier de lÉlysée</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.Gemmes et bijoux</link><link>Pathfinder-RPG.Objets dArt</link><link>Pathfinder-RPG.Générateur de trésors</link><link>Pathfinder-RPG.Détermination aléatoire des armes</link><link>Pathfinder-RPG.Détermination aléatoire des armures et des boucliers</link><link>Pathfinder-RPG.Détermination aléatoire des anneaux magiques</link><link>Pathfinder-RPG.Détermination aléatoire des bâtons magiques</link><link>Pathfinder-RPG.Détermination aléatoire des sceptres magiques</link><link>Pathfinder-RPG.Détermination aléatoire des baguettes magiques</link><link>Pathfinder-RPG.Détermination aléatoire des parchemins magiques</link><link>Pathfinder-RPG.Détermination aléatoire des potions et des huiles magiques</link><link>Pathfinder-RPG.Détermination aléatoire des objets merveilleux</link><link>Pathfinder-RPG.Profil des monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Types de créatures</link><link>Pathfinder-RPG.Règles de monstres universelles</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Galerie de PNJ</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Apparitions</link><link>Pathfinder-RPG.Afflictions</link><link>Pathfinder-RPG.Drogues</link><link>Pathfinder-RPG.Maladies</link><link>Pathfinder-RPG.Malédictions</link><link>Pathfinder-RPG.Poisons</link><link>Pathfinder-RPG.Santé mentale</link><link>Pathfinder-RPG.Courses poursuites</link><link>Pathfinder-RPG.Plaies</link><link>Pathfinder-RPG.Description des plaies magiques</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Acc&#232;s rapide aux sections sur l&#39;opposition&lt;a class=&quot;headeranchor&quot; id=&quot;Acc&#232;s_rapide_aux_sections_sur_lopposition_0&quot; href=&quot;#Acc&#232;s_rapide_aux_sections_sur_lopposition_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top; text-align: left&quot;&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html&quot; title=&quot;Les rencontres&quot;&gt;Les rencontres&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#EXPERIENCE&quot; title=&quot;Les rencontres&quot;&gt;L&#39;exp&#233;rience&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#TRESOR&quot; title=&quot;Les rencontres&quot;&gt;Les tr&#233;sors&lt;/a&gt;&lt;/li&gt;
+    &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gemmes-Et-Bijoux.html&quot; title=&quot;Gemmes et bijoux&quot;&gt;Les gemmes et les bijoux&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Dart.html&quot; title=&quot;Les objets d&amp;#39;art&quot;&gt;Les objets d&#39;art&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonGENERATEURTRESOR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;GENERATEURTRESOR&#39;);&quot; onmouseout=&quot;outButton(&#39;GENERATEURTRESOR&#39;);&quot; onclick=&quot;expandMenu(&#39;GENERATEURTRESOR&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;G&#233;n&#233;rateur-De-Tr&#233;sors.html&quot; title=&quot;G&#233;n&#233;rateur de tr&#233;sors&quot;&gt;Le g&#233;n&#233;rateur al&#233;atoire de tr&#233;sors&lt;/a&gt;
+        &lt;ul ID=&quot;GENERATEURTRESOR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Armes.html&quot; title=&quot;D&#233;termination al&#233;atoire des armes&quot;&gt;armes&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Armures-Et-Des-Boucliers.html&quot; title=&quot;D&#233;termination al&#233;atoire des armures et des boucliers&quot;&gt;armures et boucliers&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Anneaux-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des anneaux magiques&quot;&gt;anneaux magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-B&#226;tons-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des b&#226;tons magiques&quot;&gt;b&#226;tons magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Sceptres-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des sceptres magiques&quot;&gt;sceptres magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Baguettes-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des baguettes magiques&quot;&gt;baguettes magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Parchemins-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des parchemins magiques&quot;&gt;parchemins magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Potions-Et-Des-Huiles-Magiques.html&quot; title=&quot;D&#233;termination al&#233;atoire des potions et des huiles magiques&quot;&gt;potions et huiles magiques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Objets-Merveilleux.html&quot; title=&quot;D&#233;termination al&#233;atoire des objets merveilleux&quot;&gt;objets merveilleux&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Profil-Des-Monstres.html&quot; title=&quot;Lire le profil des monstres&quot;&gt;Lire le profil des monstres&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonLISTESMONSTRES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;LISTESMONSTRES&#39;);&quot; onmouseout=&quot;outButton(&#39;LISTESMONSTRES&#39;);&quot; onclick=&quot;expandMenu(&#39;LISTESMONSTRES&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Alphab&#233;tique-Des-Monstres.html&quot; title=&quot;Liste alphab&#233;tique des monstres&quot;&gt;Liste alphab&#233;tique des monstres&lt;/a&gt;
+    &lt;ul ID=&quot;LISTESMONSTRES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Fp.html&quot; title=&quot;Liste des monstres par FP&quot;&gt;Liste des monstres par FP&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Fp-Avec-Familles.html&quot; title=&quot;Liste des monstres par FP avec familles&quot;&gt;avec familles&lt;/a&gt;)&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Milieu-Naturel.html&quot; title=&quot;Liste des monstres par milieu naturel&quot;&gt;Liste des monstres par milieu naturel&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Milieu-Naturel-Avec-Familles.html&quot; title=&quot;Liste des monstres par milieu naturel avec familles&quot;&gt;avec familles&lt;/a&gt;)&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Type.html&quot; title=&quot;Liste des monstres par type&quot;&gt;Liste des monstres par type&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Familles-De-Monstres.html&quot; title=&quot;Les familles de monstres&quot;&gt;Les familles de monstres&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-De-Cr&#233;atures.html&quot; title=&quot;Les types et sous type de cr&#233;atures&quot;&gt;Les types et sous type de cr&#233;atures&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-De-Monstres-Universelles.html&quot; title=&quot;R&#232;gles de monstres universelles&quot;&gt;Les r&#232;gles de monstres universelles&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;Les arch&#233;types&quot;&gt;Les arch&#233;types de cr&#233;ature&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Galerie-De-Pnj.html&quot; title=&quot;Galerie de PNJ&quot;&gt;Galerie de PNJ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonPNJ&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PNJ&#39;);&quot; onmouseout=&quot;outButton(&#39;PNJ&#39;);&quot; onclick=&quot;expandMenu(&#39;PNJ&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Les classes de PNJ&lt;/a&gt;
+    &lt;ul ID=&quot;PNJ&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;L&#39;adepte&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;L&#39;expert&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;L&#39;homme d&#39;arme&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Du-Peuple.html&quot; title=&quot;L&amp;#39;homme du peuple&quot;&gt;L&#39;homme du peuple&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Noble.html&quot; title=&quot;Le noble&quot;&gt;Le noble&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;20%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Apparitions.html&quot; title=&quot;Les apparitions&quot;&gt;Les apparitions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonAFFLICTIONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;AFFLICTIONS&#39;);&quot; onmouseout=&quot;outButton(&#39;AFFLICTIONS&#39;);&quot; onclick=&quot;expandMenu(&#39;AFFLICTIONS&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Afflictions.html&quot; title=&quot;Les afflictions&quot;&gt;Les afflictions&lt;/a&gt;
+    &lt;ul ID=&quot;AFFLICTIONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot; style=&quot;font-size:100%&quot;&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Les drogues&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;Les maladies&quot;&gt;Les maladies&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions.html&quot; title=&quot;Les mal&#233;dictions&quot;&gt;Les mal&#233;dictions&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;Les poisons  &quot;&gt;Le poison&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sant&#233;-Mentale.html&quot; title=&quot;La sant&#233; mentale et la folie&quot;&gt;La sant&#233; mentale et la folie&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Courses-Poursuites.html&quot; title=&quot;Les courses poursuites&quot;&gt;Les courses poursuites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plaies.html&quot; title=&quot;Les plaies magiques&quot;&gt;Les plaies magiques&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Description-Des-Plaies-Magiques.html&quot; title=&quot;Description des plaies magiques&quot;&gt;descriptions individuelles&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Armure ou bouclier al&#233;atoire&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Type d&#39;armure ou de bouclier&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-04&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Crevice-(Armure).html&quot; title=&quot;Crevice&quot;&gt;crevice&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;05-11&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cuirasse-(Armure).html&quot; title=&quot;Cuirasse&quot;&gt;cuirasse&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12-14&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Targe-(Armure).html&quot; title=&quot;Targe&quot;&gt;targe&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-21&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chemise-De-Mailles-(Armure).html&quot; title=&quot;Chemise de mailles&quot;&gt;chemise de mailles&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;22-27&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cotte-De-Mailles-(Armure).html&quot; title=&quot;Cotte de mailles&quot;&gt;cotte de mailles&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;28-34&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Harnois-(Armure).html&quot; title=&quot;Harnois&quot;&gt;harnois&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;35-39&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Plaques-(Armure).html&quot; title=&quot;Armure de plaques&quot;&gt;armure de plaques&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;40-45&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;cu-(Armure).html&quot; title=&quot;&#201;cu (bois/acier)&quot;&gt;&#233;cu en acier&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;46-51&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;cu-(Armure).html&quot; title=&quot;&#201;cu (bois/acier)&quot;&gt;&#233;cu en bois&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;52-55&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Armures#Armuredepeau.html&quot; title=&quot;armure de peau (armure)&quot;&gt;armure de peau&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;56-61&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Cuir-(Armure).html&quot; title=&quot;Armure de cuir&quot;&gt;armure de cuir&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;tr&gt;&lt;td&gt;62-65&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rondache-(Armure).html&quot; title=&quot;Rondache (bois/acier)&quot;&gt;rondache en acier&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;66-69&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rondache-(Armure).html&quot; title=&quot;Rondache (bois/acier)&quot;&gt;rondache en bois&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;70-72&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-Matelass&#233;e-(Armure).html&quot; title=&quot;Armure matelass&#233;e&quot;&gt;armure matelass&#233;e&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-77&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-D&#233;cailles-(Armure).html&quot; title=&quot;Armure d&amp;#39;&#233;cailles&quot;&gt;armure d&#39;&#233;cailles&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;78-81&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Clibanion-(Armure).html&quot; title=&quot;Clibanion&quot;&gt;clibanion&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;82-87&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Cuir-Clout&#233;e-(Armure).html&quot; title=&quot;Armure de cuir clout&#233;e&quot;&gt;armure de cuir clout&#233;e&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;88-90&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pavois-(Armure).html&quot; title=&quot;Pavois&quot;&gt;pavois&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-93&lt;/td&gt;&lt;td&gt;autre &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures#Legeres.html&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armure l&#233;g&#232;re&lt;/a&gt;*&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;94-95&lt;/td&gt;&lt;td&gt;autre &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures#Intermediaires.html&quot; title=&quot;armure interm&#233;diaire&quot;&gt;armure interm&#233;diaire&lt;/a&gt;*&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;96-98&lt;/td&gt;&lt;td&gt;autre &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures#Lourdes.html&quot; title=&quot;armure lourde&quot;&gt;armure lourde&lt;/a&gt;*&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;99-100&lt;/td&gt;&lt;td&gt;autre &lt;a class=&quot;pagelink&quot; href=&quot;Bouclier.html&quot; title=&quot;Bouclier&quot;&gt;bouclier&lt;/a&gt;*&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;note&quot;&gt;&lt;td | COLSPAN=&quot;2&quot;&gt;&lt;i&gt;(*) Consultez le &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html&quot; title=&quot;Tableau r&#233;capitulatif des armures&quot;&gt;tableau r&#233;capitulatif des armures&lt;/a&gt; pour un vaste choix d&#39;armures et de boucliers.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt;D&#233;termination al&#233;atoire des armures et boucliers magiques&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;termination_al&#233;atoire_des_armures_et_boucliers_magiques_4&quot; href=&quot;#D&#233;termination_al&#233;atoire_des_armures_et_boucliers_magiques_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Armure ou bouclier magique al&#233;atoire&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure ou bouclier faible inf&#233;rieur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-80&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-100&lt;/td&gt;&lt;td&gt;Armure ou bouclier sp&#233;cifique faible inf&#233;rieure&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure ou bouclier faible sup&#233;rieur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-26&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27-53&lt;/td&gt;&lt;td&gt;Armure ou bouclier +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;54-80&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-100&lt;/td&gt;&lt;td&gt;Armure ou bouclier sp&#233;cifique faible sup&#233;rieure&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure ou bouclier interm&#233;diaire inf&#233;rieur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-20&lt;/td&gt;&lt;td&gt;Armure ou bouclier +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-32&lt;/td&gt;&lt;td&gt;Armure ou bouclier +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-44&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-56&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1 avec deux propri&#233;t&#233;s sp&#233;ciales +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57-68&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1 avec une propri&#233;t&#233; sp&#233;ciale +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-80&lt;/td&gt;&lt;td&gt;Armure ou bouclier +2 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-100&lt;/td&gt;&lt;td&gt;Armure ou bouclier sp&#233;cifique interm&#233;diaire inf&#233;rieure&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure ou bouclier interm&#233;diaire sup&#233;rieur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;Armure ou bouclier +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-22&lt;/td&gt;&lt;td&gt;Armure ou bouclier +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23-32&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-44&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1 avec une propri&#233;t&#233; sp&#233;ciale +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-56&lt;/td&gt;&lt;td&gt;Armure ou bouclier +2 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57-68&lt;/td&gt;&lt;td&gt;Armure ou bouclier +2 avec une propri&#233;t&#233; sp&#233;ciale +2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;tr&gt;&lt;td&gt;69-80&lt;/td&gt;&lt;td&gt;Armure ou bouclier +3 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-100&lt;/td&gt;&lt;td&gt;Armure ou bouclier sp&#233;cifique interm&#233;diaire sup&#233;rieure&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure ou bouclier puissant inf&#233;rieur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;Armure ou bouclier +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-22&lt;/td&gt;&lt;td&gt;Armure ou bouclier +4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23-32&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1 avec une propri&#233;t&#233; sp&#233;ciale +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-44&lt;/td&gt;&lt;td&gt;Armure ou bouclier +1 avec une propri&#233;t&#233; sp&#233;ciale +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;45-56&lt;/td&gt;&lt;td&gt;Armure ou bouclier +2 avec une propri&#233;t&#233; sp&#233;ciale +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;57-68&lt;/td&gt;&lt;td&gt;Armure ou bouclier +3 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;69-80&lt;/td&gt;&lt;td&gt;Armure ou bouclier +4 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-100&lt;/td&gt;&lt;td&gt;Armure ou bouclier sp&#233;cifique puissante inf&#233;rieure&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure ou bouclier puissant sup&#233;rieur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;Armure ou bouclier +4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-20&lt;/td&gt;&lt;td&gt;Armure ou bouclier +5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-30&lt;/td&gt;&lt;td&gt;Armure ou bouclier +4 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-38&lt;/td&gt;&lt;td&gt;Armure ou bouclier +4 avec une propri&#233;t&#233; sp&#233;ciale +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-46&lt;/td&gt;&lt;td&gt;Armure ou bouclier +4 avec une propri&#233;t&#233; sp&#233;ciale +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47-51&lt;/td&gt;&lt;td&gt;Armure ou bouclier +4 avec une propri&#233;t&#233; sp&#233;ciale +4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;52-59&lt;/td&gt;&lt;td&gt;Armure ou bouclier +5 avec une propri&#233;t&#233; sp&#233;ciale +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;60-67&lt;/td&gt;&lt;td&gt;Armure ou bouclier +5 avec une propri&#233;t&#233; sp&#233;ciale +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;68-71&lt;/td&gt;&lt;td&gt;Armure ou bouclier +5 avec une propri&#233;t&#233; sp&#233;ciale +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;72-74&lt;/td&gt;&lt;td&gt;Armure ou bouclier +5 avec deux propri&#233;t&#233;s sp&#233;ciales +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75-77&lt;/td&gt;&lt;td&gt;Armure ou bouclier +5 avec une propri&#233;t&#233; sp&#233;ciale +4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;78-80&lt;/td&gt;&lt;td&gt;Armure ou bouclier +5 avec une propri&#233;t&#233; sp&#233;ciale +5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-100&lt;/td&gt;&lt;td&gt;Armure ou bouclier sp&#233;cifique puissant sup&#233;rieur&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt;D&#233;termination des propri&#233;t&#233;s sp&#233;ciales des armures et boucliers magiques&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;termination_des_propri&#233;t&#233;s_sp&#233;ciales_des_armures_et_boucliers_magiques_5&quot; href=&quot;#D&#233;termination_des_propri&#233;t&#233;s_sp&#233;ciales_des_armures_et_boucliers_magiques_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;&lt;h2 class=&quot;separator&quot;&gt;Propri&#233;t&#233;s sp&#233;ciales des armures&lt;a class=&quot;headeranchor&quot; id=&quot;Propri&#233;t&#233;s_sp&#233;ciales_des_armures_0&quot; href=&quot;#Propri&#233;t&#233;s_sp&#233;ciales_des_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Propri&#233;t&#233; sp&#233;ciale d&#39;armure al&#233;atoire&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Propri&#233;t&#233; sp&#233;ciale d&#39;armure +1&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-06&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Soutien.html&quot; title=&quot;soutien (propri&#233;t&#233; armure)&quot;&gt;Soutien&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+2 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;07-12&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-Au-Poison.html&quot; title=&quot;r&#233;sistance au poison (propri&#233;t&#233;)&quot;&gt;R&#233;sistance au poison&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+2 250 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13-18&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#&#201;quilibr&#233;e.html&quot; title=&quot;&#233;quilibr&#233;e (propri&#233;t&#233;)&quot;&gt;&#201;quilibr&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19-24&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Amertume.html&quot; title=&quot;amertume (propri&#233;t&#233;)&quot;&gt;Amertume&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-30&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Renforcement.html&quot; title=&quot;renforcement (propri&#233;t&#233;)&quot;&gt;Renforcement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-36&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Pugilat.html&quot; title=&quot;pugilat (propri&#233;t&#233;)&quot;&gt;Pugilat&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;37-42&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Championne.html&quot; title=&quot;championne (propri&#233;t&#233;)&quot;&gt;Championne&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;43-48&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Fourberie.html&quot; title=&quot;fourberie (propri&#233;t&#233;)&quot;&gt;Fourberie&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-54&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Immortalit&#233;.html&quot; title=&quot;immortalit&#233; (propri&#233;t&#233;)&quot;&gt;Immortalit&#233;&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;55-60&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Opposition.html&quot; title=&quot;opposition (propri&#233;t&#233;)&quot;&gt;Opposition&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-66&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#D&#233;fense-(L&#233;g&#232;re).html&quot; title=&quot;d&#233;fense l&#233;g&#232;re (propri&#233;t&#233;)&quot;&gt;D&#233;fense (l&#233;g&#232;re)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-71&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Barbel&#233;e.html&quot; title=&quot;barbel&#233;e (propri&#233;t&#233;)&quot;&gt;Barbel&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;72-76&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Solide.html&quot; title=&quot;solide (propri&#233;t&#233; armure)&quot;&gt;Solide&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-82&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Miroir.html&quot; title=&quot;miroir (propri&#233;t&#233;)&quot;&gt;Miroir&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-88&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Stockage-De-Sort.html&quot; title=&quot;stockage de sort (propri&#233;t&#233; armure)&quot;&gt;Stockage de sort&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-94&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Garrot.html&quot; title=&quot;garrot (propri&#233;t&#233;)&quot;&gt;Garrot&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;95-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Pr&#233;vention.html&quot; title=&quot;pr&#233;vention (propri&#233;t&#233;)&quot;&gt;Pr&#233;vention&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Propri&#233;t&#233; sp&#233;ciale d&#39;armure +2&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-12&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Mim&#233;tisme.html&quot; title=&quot;mim&#233;tisme (propri&#233;t&#233; armure)&quot;&gt;Mim&#233;tisme&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+2 700 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13-24&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Joute.html&quot; title=&quot;joute (propri&#233;t&#233;)&quot;&gt;Joute&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+3 750 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-38&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Ombre.html&quot; title=&quot;ombre (propri&#233;t&#233;)&quot;&gt;Ombre&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+3 750 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-52&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Graisseuse.html&quot; title=&quot;graisseuse (propri&#233;t&#233;)&quot;&gt;Graisseuse&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+3 750 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-64&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Exp&#233;ditive.html&quot; title=&quot;exp&#233;ditive (propri&#233;t&#233;)&quot;&gt;Exp&#233;ditive&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+4 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-76&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Discr&#233;tion.html&quot; title=&quot;discr&#233;tion (propri&#233;t&#233;)&quot;&gt;Discr&#233;tion&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+5 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-88&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Ralliement.html&quot; title=&quot;ralliement (propri&#233;t&#233;)&quot;&gt;Ralliement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+5 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-&#192;-La-Magie-(13).html&quot; title=&quot;r&#233;sistance &#224; la magie 13 (propri&#233;t&#233;)&quot;&gt;R&#233;sistance &#224; la magie (13)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Propri&#233;t&#233; sp&#233;ciale d&#39;armure +3&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-08&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Adh&#233;sive.html&quot; title=&quot;adh&#233;sive (propri&#233;t&#233;)&quot;&gt;Adh&#233;sive&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+7 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;09-17&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Niche.html&quot; title=&quot;niche (propri&#233;t&#233;)&quot;&gt;Niche&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+7 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18-26&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#&#201;clatante.html&quot; title=&quot;&#233;clatante (propri&#233;t&#233;)&quot;&gt;&#201;clatante&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+7 500 po&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;tr&gt;&lt;td&gt;27-36&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Fouisseuse.html&quot; title=&quot;fouisseuse (propri&#233;t&#233;)&quot;&gt;Fouisseuse&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+10 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;37-45&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Putride.html&quot; title=&quot;putride (propri&#233;t&#233;)&quot;&gt;Putride&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+10 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;46-55&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#D&#233;fense-(Interm&#233;diaire).html&quot; title=&quot;d&#233;fense interm&#233;diaire (propri&#233;t&#233;)&quot;&gt;D&#233;fense (interm&#233;diaire)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;56-65&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Spectrale.html&quot; title=&quot;spectrale (propri&#233;t&#233; armure)&quot;&gt;Spectrale&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;66-74&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Invuln&#233;rabilit&#233;.html&quot; title=&quot;invuln&#233;rabilit&#233; (propri&#233;t&#233;)&quot;&gt;Invuln&#233;rabilit&#233;&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;75-84&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-&#192;-La-Magie-(15).html&quot; title=&quot;r&#233;sistance &#224; la magie 15 (propri&#233;t&#233;)&quot;&gt;R&#233;sistance &#224; la magie (15)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-92&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Titanesque.html&quot; title=&quot;titanesque (propri&#233;t&#233;)&quot;&gt;Titanesque&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Forme-Animale.html&quot; title=&quot;forme animale (propri&#233;t&#233;)&quot;&gt;Forme animale&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;br /&gt;D100&lt;/td&gt;&lt;td&gt;&lt;br /&gt;Propri&#233;t&#233; sp&#233;ciale d&#39;armure +4&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-16&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Harmonique.html&quot; title=&quot;harmonique (propri&#233;t&#233;)&quot;&gt;Harmonique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+15 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17-33&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Ombre-Sup&#233;rieure.html&quot; title=&quot;ombre sup&#233;rieure (propri&#233;t&#233;)&quot;&gt;Ombre sup&#233;rieure&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+15 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;34-50&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Graisseuse-Sup&#233;rieure.html&quot; title=&quot;graisseuse sup&#233;rieure (propri&#233;t&#233;)&quot;&gt;Graisseuse sup&#233;rieure&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+15 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-67&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;r&#233;sistance aux &#233;nergies destructives (propri&#233;t&#233;)&quot;&gt;R&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+18 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;68-83&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Martyr.html&quot; title=&quot;martyr (propri&#233;t&#233;)&quot;&gt;Martyr&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+18 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;84-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-&#192;-La-Magie-(17).html&quot; title=&quot;r&#233;sistance &#224; la magie 17 (propri&#233;t&#233;)&quot;&gt;R&#233;sistance &#224; la magie (17)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;br /&gt;D100&lt;/td&gt;&lt;td&gt;&lt;br /&gt;Propri&#233;t&#233; sp&#233;ciale d&#39;armure +5&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-08&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Vertueuse.html&quot; title=&quot;vertueuse (propri&#233;t&#233;)&quot;&gt;Vertueuse&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+27 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;09-15&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Libertaire.html&quot; title=&quot;libertaire (propri&#233;t&#233;)&quot;&gt;Libertaire&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+27 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16-23&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Impie.html&quot; title=&quot;impie (propri&#233;t&#233; armure)&quot;&gt;Impie&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+27 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;24-30&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Vigilante.html&quot; title=&quot;vigilante (propri&#233;t&#233;)&quot;&gt;Vigilante&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+27 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-37&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#D&#233;termination.html&quot; title=&quot;d&#233;termination (propri&#233;t&#233;)&quot;&gt;D&#233;termination&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+30 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;38-45&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Ombre-Supr&#234;me.html&quot; title=&quot;Ombre supr&#234;me (propri&#233;t&#233;)&quot;&gt;Ombre supr&#234;me&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+33 750 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;46-53&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Graisseuse-Supr&#234;me.html&quot; title=&quot;graisseuse supr&#234;me (propri&#233;t&#233;)&quot;&gt;Graisseuse supr&#234;me&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+33 750 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;54-61&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-Sup&#233;rieure-Aux-&#201;nergies-Destructives.html&quot; title=&quot;r&#233;sistance sup&#233;rieure aux &#233;nergies destructives (propri&#233;t&#233;)&quot;&gt;R&#233;sistance sup&#233;rieure aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+42 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;62-69&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#&#201;th&#233;r&#233;e.html&quot; title=&quot;&#233;th&#233;r&#233;e (propri&#233;t&#233;)&quot;&gt;&#201;th&#233;r&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+49 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;70-76&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Contr&#244;le-Des-Morts-Vivants.html&quot; title=&quot;contr&#244;le des morts-vivants (propri&#233;t&#233;)&quot;&gt;Contr&#244;le des morts-vivants&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+49 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-84&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-Supr&#234;me-Aux-&#201;nergies-Destructives.html&quot; title=&quot;r&#233;sistance supr&#234;me aux &#233;nergies destructives (propri&#233;t&#233;)&quot;&gt;R&#233;sistance supr&#234;me aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+66 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-92&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#D&#233;fense-(Lourde).html&quot; title=&quot;d&#233;fense lourde (propri&#233;t&#233;)&quot;&gt;D&#233;fense (lourde)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;93-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-&#192;-La-Magie-(19).html&quot; title=&quot;r&#233;sistance &#224; la magie 19 (propri&#233;t&#233;)&quot;&gt;R&#233;sistance &#224; la magie (19)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Propri&#233;t&#233;s sp&#233;ciales des boucliers&lt;a class=&quot;headeranchor&quot; id=&quot;Propri&#233;t&#233;s_sp&#233;ciales_des_boucliers_1&quot; href=&quot;#Propri&#233;t&#233;s_sp&#233;ciales_des_boucliers_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Propri&#233;t&#233; sp&#233;ciale de bouclier al&#233;atoire&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Propri&#233;t&#233; sp&#233;ciale de bouclier +1&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-Au-Poison.html&quot; title=&quot;r&#233;sistance au poison (propri&#233;t&#233;)&quot;&gt;R&#233;sistance au poison&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+2 250 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-19&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Interception-De-Projectile.html&quot; title=&quot;interception de projectile (propri&#233;t&#233;)&quot;&gt;Interception de projectile&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20-28&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Attaque.html&quot; title=&quot;attaque (propri&#233;t&#233;)&quot;&gt;Attaque&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;29-37&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Aveuglante.html&quot; title=&quot;aveuglante (propri&#233;t&#233;)&quot;&gt;Aveuglante&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;38-46&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Retentissant.html&quot; title=&quot;retentissant (propri&#233;t&#233;)&quot;&gt;Retentissant&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;47-55&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Opposition.html&quot; title=&quot;opposition (propri&#233;t&#233;)&quot;&gt;Opposition&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;56-64&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#D&#233;fense-(L&#233;g&#232;re).html&quot; title=&quot;d&#233;fense l&#233;g&#232;re (propri&#233;t&#233;)&quot;&gt;D&#233;fense (l&#233;g&#232;re)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-73&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Barbel&#233;e.html&quot; title=&quot;barbel&#233;e (propri&#233;t&#233;)&quot;&gt;Barbel&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;74-82&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Solide.html&quot; title=&quot;solide (propri&#233;t&#233; armure)&quot;&gt;Solide&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-91&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Miroir.html&quot; title=&quot;miroir (propri&#233;t&#233;)&quot;&gt;Miroir&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;92-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#B&#233;lier.html&quot; title=&quot;b&#233;lier (propri&#233;t&#233;)&quot;&gt;B&#233;lier&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Propri&#233;t&#233; sp&#233;ciale de bouclier +2&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-15&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Ralliement.html&quot; title=&quot;ralliement (propri&#233;t&#233;)&quot;&gt;Ralliement&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+5 700 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16-30&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Souffle-Draconique.html&quot; title=&quot;souffle draconique (propri&#233;t&#233;)&quot;&gt;Souffle draconique&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+5 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-50&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Anim&#233;e.html&quot; title=&quot;anim&#233;e (propri&#233;t&#233;)&quot;&gt;Anim&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-67&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Anti-Projectiles.html&quot; title=&quot;anti-projectiles (propri&#233;t&#233;)&quot;&gt;Anti-projectiles&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;68-82&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Fusion.html&quot; title=&quot;fusion (propri&#233;t&#233;)&quot;&gt;Fusion&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-&#192;-La-Magie-(13).html&quot; title=&quot;r&#233;sistance &#224; la magie 13 (propri&#233;t&#233;)&quot;&gt;R&#233;sistance &#224; la magie (13)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;br /&gt;D100&lt;/td&gt;&lt;td&gt;&lt;br /&gt;Propri&#233;t&#233; sp&#233;ciale de bouclier +3&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-15&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Niche.html&quot; title=&quot;niche (propri&#233;t&#233;)&quot;&gt;Niche&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+7 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16-32&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#&#201;clatante.html&quot; title=&quot;&#233;clatante (propri&#233;t&#233;)&quot;&gt;&#201;clatante&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+7 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-49&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#D&#233;fense-(Interm&#233;diaire).html&quot; title=&quot;d&#233;fense interm&#233;diaire (propri&#233;t&#233;)&quot;&gt;D&#233;fense (interm&#233;diaire)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;50-66&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Spectrale.html&quot; title=&quot;spectrale (propri&#233;t&#233; armure)&quot;&gt;Spectrale&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-83&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-&#192;-La-Magie-(15).html&quot; title=&quot;r&#233;sistance &#224; la magie 15 (propri&#233;t&#233;)&quot;&gt;R&#233;sistance &#224; la magie (15)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;84-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Forme-Animale.html&quot; title=&quot;forme animale (propri&#233;t&#233;)&quot;&gt;Forme animale&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;br /&gt;D100&lt;/td&gt;&lt;td&gt;&lt;br /&gt;Propri&#233;t&#233; sp&#233;ciale de bouclier +4&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-50&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;r&#233;sistance aux &#233;nergies destructives (propri&#233;t&#233;)&quot;&gt;R&#233;sistance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+18 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-&#192;-La-Magie-(17).html&quot; title=&quot;r&#233;sistance &#224; la magie 17 (propri&#233;t&#233;)&quot;&gt;R&#233;sistance &#224; la magie (17)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;br /&gt;D100&lt;/td&gt;&lt;td&gt;&lt;br /&gt;Propri&#233;t&#233; sp&#233;ciale de bouclier +5&lt;/td&gt;&lt;td&gt;Mod. au prix&lt;br /&gt;de base&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-11&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#D&#233;termination.html&quot; title=&quot;d&#233;termination (propri&#233;t&#233;)&quot;&gt;D&#233;termination&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+30 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12-27&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-Sup&#233;rieure-Aux-&#201;nergies-Destructives.html&quot; title=&quot;r&#233;sistance sup&#233;rieure aux &#233;nergies destructives (propri&#233;t&#233;)&quot;&gt;R&#233;sistance sup&#233;rieure aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+42 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;28-38&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#Contr&#244;le-Des-Morts-Vivants.html&quot; title=&quot;contr&#244;le des morts-vivants (propri&#233;t&#233;)&quot;&gt;Contr&#244;le des morts-vivants&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+49 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-55&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-Supr&#234;me-Aux-&#201;nergies-Destructives.html&quot; title=&quot;r&#233;sistance supr&#234;me aux &#233;nergies destructives (propri&#233;t&#233;)&quot;&gt;R&#233;sistance supr&#234;me aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;+66 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;56-70&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#D&#233;fense-(Lourde).html&quot; title=&quot;d&#233;fense lourde (propri&#233;t&#233;)&quot;&gt;D&#233;fense (lourde)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-85&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;fl&#233;chissante.html&quot; title=&quot;r&#233;fl&#233;chissante (propri&#233;t&#233;)&quot;&gt;R&#233;fl&#233;chissante&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;86-100&lt;/td&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armures-Et-Des-Boucliers#R&#233;sistance-&#192;-La-Magie-(19).html&quot; title=&quot;r&#233;sistance &#224; la magie 19 (propri&#233;t&#233;)&quot;&gt;R&#233;sistance &#224; la magie (19)&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;bonus de +5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h1 class=&quot;separator&quot;&gt;D&#233;termination des armures et boucliers magiques sp&#233;cifiques&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;termination_des_armures_et_boucliers_magiques_sp&#233;cifiques_6&quot; href=&quot;#D&#233;termination_des_armures_et_boucliers_magiques_sp&#233;cifiques_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h1&gt;&lt;h2 class=&quot;separator&quot;&gt;Armures magiques sp&#233;cifiques&lt;a class=&quot;headeranchor&quot; id=&quot;Armures_magiques_sp&#233;cifiques_2&quot; href=&quot;#Armures_magiques_sp&#233;cifiques_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Armure magique sp&#233;cifique al&#233;atoire&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure magique sp&#233;cifique faible inf&#233;rieure&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-50&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chemise-De-Mailles-En-Mithral.html&quot; title=&quot;Chemise de mailles en mithral&quot;&gt;Chemise de mailles en mithral&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1 100&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-100&lt;/td&gt;&lt;td&gt;Armure de ma&#238;tre ou armure non-magique&lt;br /&gt;fabriqu&#233; dans un mat&#233;riau sp&#233;cial&lt;/td&gt;&lt;td&gt;variable&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure magique sp&#233;cifique faible sup&#233;rieure&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-33&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maillebrume.html&quot; title=&quot;Maillebrume&quot;&gt;Maillebrume&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2 250&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;34-66&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-Dotyugh.html&quot; title=&quot;Armure en peau d&amp;#39;otyugh&quot;&gt;Armure en peau d’otyugh&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2 565&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Harnois-En-Peau-De-Dragon.html&quot; title=&quot;Harnois en peau de dragon&quot;&gt;Harnois en peau de dragon&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3 300&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure magique sp&#233;cifique interm&#233;diaire inf&#233;rieure&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-33&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cotte-De-Mailles-Elfique.html&quot; title=&quot;Cotte de mailles elfique&quot;&gt;Cotte de mailles elfique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5 150&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;34-66&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-De-Rhinoc&#233;ros.html&quot; title=&quot;Armure en peau de rhinoc&#233;ros&quot;&gt;Armure en peau de rhinoc&#233;ros&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5 165&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;67-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-De-Morlock.html&quot; title=&quot;Armure en peau de morlock&quot;&gt;Armure en peau de morlock&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8 910&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure magique sp&#233;cifique interm&#233;diaire sup&#233;rieure&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-15&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cuirasse-En-Adamantium.html&quot; title=&quot;Cuirasse en adamantium&quot;&gt;Cuirasse en adamantium&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10 200&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16-25&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Habits-Du-Devin.html&quot; title=&quot;Habits du devin&quot;&gt;Habits du devin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10 300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;26-38&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-&#201;questre.html&quot; title=&quot;Armure &#233;questre&quot;&gt;Armure &#233;questre&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10 650&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-50&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-Danguille-Enchant&#233;e.html&quot; title=&quot;Armure en peau d’anguille enchant&#233;e&quot;&gt;Armure en peau d’anguille enchant&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;11 160&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-62&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Contorsionniste.html&quot; title=&quot;Armure de contorsionniste&quot;&gt;Armure de contorsionniste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12 160&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;63-72&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Habits-Noirs-Du-Meurtrier.html&quot; title=&quot;Habits noirs du meurtrier&quot;&gt;Habits noirs du meurtrier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12 405&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;73-86&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-Pliante.html&quot; title=&quot;Armure pliante&quot;&gt;Armure pliante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;12 650&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;87-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cuirasse-De-Volatilisation.html&quot; title=&quot;Cuirasse de volatilisation&quot;&gt;Cuirasse de volatilisation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;15 200&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure magique sp&#233;cifique puissante inf&#233;rieure&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-13&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-Dinsultes.html&quot; title=&quot;Armure d&amp;#39;insultes&quot;&gt;Armure d’insultes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;16 175&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;tr&gt;&lt;td&gt;14-29&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Harnois-Nain.html&quot; title=&quot;Harnois nain&quot;&gt;Harnois nain&lt;/a&gt;&lt;/td&gt;&lt;td&gt;16 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;30-45&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Crevice-De-La-Seconde-Chance.html&quot; title=&quot;Crevice de la seconde chance&quot;&gt;Crevice de la seconde chance&lt;/a&gt;&lt;/td&gt;&lt;td&gt;18 900&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;46-58&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-De-Chat.html&quot; title=&quot;Armure en peau de chat&quot;&gt;Armure en peau de chat&lt;/a&gt;&lt;/td&gt;&lt;td&gt;18 910&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-71&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-C&#233;leste.html&quot; title=&quot;Armure c&#233;leste&quot;&gt;Armure c&#233;leste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;22 400&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;72-84&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cuirasse-Du-Boucanier.html&quot; title=&quot;Cuirasse du boucanier&quot;&gt;Cuirasse du boucanier&lt;/a&gt;&lt;/td&gt;&lt;td&gt;23 850&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;85-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Harnois-Des-Profondeurs.html&quot; title=&quot;Harnois des profondeurs&quot;&gt;Harnois des profondeurs&lt;/a&gt;&lt;/td&gt;&lt;td&gt;24 650&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Armure magique sp&#233;cifique puissante sup&#233;rieure&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cuirasse-De-Commandement.html&quot; title=&quot;Cuirasse de commandement&quot;&gt;Cuirasse de commandement&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25 400&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-14&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Crevice-Impie.html&quot; title=&quot;Crevice impie&quot;&gt;Crevice impie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25 400&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-24&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Harnois-En-Mithral-De-Vitesse.html&quot; title=&quot;Harnois en mithral de vitesse&quot;&gt;Harnois en mithral de vitesse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;26 500&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25-28&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Des-For&#234;ts.html&quot; title=&quot;Gardien des for&#234;ts&quot;&gt;Gardien des for&#234;ts&lt;/a&gt;&lt;/td&gt;&lt;td&gt;29 350&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;29-32&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cuirasse-Scarab&#233;e.html&quot; title=&quot;Cuirasse-scarab&#233;e&quot;&gt;Cuirasse-scarab&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;32 350&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;33-38&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-De-G&#233;ant.html&quot; title=&quot;Armure en peau de g&#233;ant&quot;&gt;Armure en peau de g&#233;ant&lt;/a&gt;&lt;br /&gt;(ogre)&lt;/td&gt;&lt;td&gt;39 165&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;39-42&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-Dhamatula.html&quot; title=&quot;Armure en peau d&amp;#39;hamatula&quot;&gt;Armure en peau d’hamatula&lt;/a&gt;&lt;/td&gt;&lt;td&gt;44 215&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;43-48&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-De-G&#233;ant.html&quot; title=&quot;Armure en peau de g&#233;ant&quot;&gt;Armure en peau de g&#233;ant&lt;/a&gt;&lt;br /&gt;(g&#233;ant des collines)&lt;/td&gt;&lt;td&gt;46 665&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;49-52&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-D&#233;moniaque.html&quot; title=&quot;Armure d&#233;moniaque&quot;&gt;Armure d&#233;moniaque&lt;/a&gt;&lt;/td&gt;&lt;td&gt;52 260&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;53-58&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-De-G&#233;ant.html&quot; title=&quot;Armure en peau de g&#233;ant&quot;&gt;Armure en peau de g&#233;ant&lt;/a&gt;&lt;br /&gt;(g&#233;ant de pierre, de feu ou de froid)&lt;/td&gt;&lt;td&gt;54 165&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;59-64&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-De-G&#233;ant.html&quot; title=&quot;Armure en peau de g&#233;ant&quot;&gt;Armure en peau de g&#233;ant&lt;/a&gt;&lt;br /&gt;(troll)&lt;/td&gt;&lt;td&gt;59 165&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;65-70&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cotte-De-Mailles-De-Malveillance.html&quot; title=&quot;Cotte de mailles de malveillance&quot;&gt;Cotte de mailles de malveillance&lt;/a&gt;&lt;/td&gt;&lt;td&gt;61 300&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-76&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-De-G&#233;ant.html&quot; title=&quot;Armure en peau de g&#233;ant&quot;&gt;Armure en peau de g&#233;ant&lt;/a&gt;&lt;br /&gt;(g&#233;ant des nuages)&lt;/td&gt;&lt;td&gt;69 165&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;77-82&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-En-Peau-De-G&#233;ant.html&quot; title=&quot;Armure en peau de g&#233;ant&quot;&gt;Armure en peau de g&#233;ant&lt;/a&gt;&lt;br /&gt;(g&#233;ant des temp&#234;tes)&lt;/td&gt;&lt;td&gt;76 665&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;83-88&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Astre-Du-Jour.html&quot; title=&quot;Astre du jour&quot;&gt;Astre du jour&lt;/a&gt;&lt;/td&gt;&lt;td&gt;81 250&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;89-96&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armure-Dinvincibilit&#233;.html&quot; title=&quot;Armure d’invincibilit&#233;&quot;&gt;Armure d’invincibilit&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;137 650&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;97-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Harnois-Prismatique.html&quot; title=&quot;Harnois prismatique&quot;&gt;Harnois prismatique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;160 650&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Boucliers magiques sp&#233;cifiques&lt;a class=&quot;headeranchor&quot; id=&quot;Boucliers_magiques_sp&#233;cifiques_3&quot; href=&quot;#Boucliers_magiques_sp&#233;cifiques_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;caption&gt;Bouclier magique sp&#233;cifique al&#233;atoire&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Bouclier magique sp&#233;cifique faible inf&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-20&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;cu-En-Acier-Vivant.html&quot; title=&quot;&#201;cu en acier vivant&quot;&gt;&#201;cu en acier vivant&lt;/a&gt;&lt;/td&gt;&lt;td&gt;120&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-45&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rondache-En-&#201;b&#233;nite.html&quot; title=&quot;Rondache en &#233;b&#233;nite&quot;&gt;Rondache en &#233;b&#233;nite&lt;/a&gt;&lt;/td&gt;&lt;td&gt;203&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;46-70&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;cu-En-&#201;b&#233;nite.html&quot; title=&quot;&#201;cu en &#233;b&#233;nite&quot;&gt;&#201;cu en &#233;b&#233;nite&lt;/a&gt;&lt;/td&gt;&lt;td&gt;257&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;cu-En-Mithral.html&quot; title=&quot;&#201;cu en mithral&quot;&gt;&#201;cu en mithral&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1 020&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Bouclier magique sp&#233;cifique faible sup&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-30&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-En-Peau-De-Zombi.html&quot; title=&quot;Bouclier en peau de zombi&quot;&gt;Bouclier en peau de zombi&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2 159&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-75&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Des-Arcanes.html&quot; title=&quot;Bouclier des arcanes&quot;&gt;Bouclier des arcanes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3 153&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;76-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Targe-Du-Cambrioleur.html&quot; title=&quot;Targe du cambrioleur&quot;&gt;Targe du cambrioleur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4 655&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Bouclier magique sp&#233;cifique interm&#233;diaire inf&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-35&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-De-La-Manticore.html&quot; title=&quot;Bouclier de la manticore&quot;&gt;Bouclier de la manticore&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5 580&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36-50&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Du-Pourfendeur-De-Dragons.html&quot; title=&quot;Bouclier du pourfendeur de dragons&quot;&gt;Bouclier du pourfendeur de dragons&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7 170&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-65&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pavois-Pliant.html&quot; title=&quot;Pavois pliant&quot;&gt;Pavois pliant&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8 170&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;66-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Du-Lion.html&quot; title=&quot;Bouclier du lion&quot;&gt;Bouclier du lion&lt;/a&gt;&lt;/td&gt;&lt;td&gt;9 170&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Bouclier magique sp&#233;cifique interm&#233;diaire sup&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-20&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Des-Arcanes-Supr&#234;me.html&quot; title=&quot;Bouclier des arcanes supr&#234;me&quot;&gt;Bouclier des arcanes supr&#234;me&lt;/a&gt;&lt;/td&gt;&lt;td&gt;10 153&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;td width=&quot;50%&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot; WIDTH=&quot;94%&quot;&gt;&lt;tr&gt;&lt;td&gt;21-40&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-C&#233;leste.html&quot; title=&quot;Bouclier c&#233;leste&quot;&gt;Bouclier c&#233;leste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;13 170&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-60&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Maelstr&#246;m.html&quot; title=&quot;Bouclier maelstr&#246;m&quot;&gt;Bouclier maelstr&#246;m&lt;/a&gt;&lt;/td&gt;&lt;td&gt;14 170&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-80&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Volcanique.html&quot; title=&quot;Bouclier volcanique&quot;&gt;Bouclier volcanique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;14 170&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Des-Temp&#234;tes.html&quot; title=&quot;Bouclier des temp&#234;tes&quot;&gt;Bouclier des temp&#234;tes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;15 170&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Bouclier magique sp&#233;cifique puissant inf&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-20&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Cr&#233;nel&#233;.html&quot; title=&quot;Bouclier cr&#233;nel&#233;&quot;&gt;Bouclier cr&#233;nel&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;16 180&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-40&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Ail&#233;.html&quot; title=&quot;Bouclier ail&#233;&quot;&gt;Bouclier ail&#233;&lt;/a&gt;&lt;/td&gt;&lt;td&gt;17 257&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-60&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Des-&#201;boulis.html&quot; title=&quot;Bouclier des &#233;boulis&quot;&gt;Bouclier des &#233;boulis&lt;/a&gt;&lt;/td&gt;&lt;td&gt;19 170&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-80&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Forteresse.html&quot; title=&quot;Bouclier forteresse&quot;&gt;Bouclier forteresse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;19 180&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Du-Pourfendeur-De-Dracosires.html&quot; title=&quot;Bouclier du pourfendeur de dracosires&quot;&gt;Bouclier du pourfendeur de dracosires&lt;/a&gt;&lt;/td&gt;&lt;td&gt;20 170&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;td&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D100&lt;/td&gt;&lt;td&gt;Bouclier magique sp&#233;cifique puissant sup&#233;rieur&lt;/td&gt;&lt;td&gt;Prix(po)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-20&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pavois-Desquive-Magique.html&quot; title=&quot;Pavois d’esquive magique&quot;&gt;Pavois d’esquive magique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;25 180&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-35&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Targe-De-Blocage-&#201;clair.html&quot; title=&quot;Targe de blocage &#233;clair&quot;&gt;Targe de blocage &#233;clair&lt;/a&gt;&lt;/td&gt;&lt;td&gt;36 155&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36-50&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Agressif.html&quot; title=&quot;Bouclier agressif&quot;&gt;Bouclier agressif&lt;/a&gt;&lt;/td&gt;&lt;td&gt;36 170&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-65&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pavois-De-Force.html&quot; title=&quot;Pavois de force&quot;&gt;Pavois de force&lt;/a&gt;&lt;/td&gt;&lt;td&gt;46 030&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;66-85&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-Phagocyte.html&quot; title=&quot;Bouclier phagocyte&quot;&gt;Bouclier phagocyte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;50 170&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;86-100&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-De-L&#233;lys&#233;e.html&quot; title=&quot;Bouclier de l’&#201;lys&#233;e&quot;&gt;Bouclier de l’&#201;lys&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;52 620&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuOpposition}{s:AE}
+
+<table width="100%"><tr><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Armure ou bouclier aléatoire
+|- CLASS="titre"
+| D100 || Type d'armure ou de bouclier
+|- CLASS="premier"
+| 01-04 || [[crevice (armure)|crevice]]
+|-
+| 05-11 || [[cuirasse (armure)|cuirasse]]
+|-
+| 12-14 || [[targe (armure)|targe]]
+|-
+| 15-21 || [[chemise de mailles (armure)|chemise de mailles]]
+|-
+| 22-27 || [[cotte de mailles (armure)|cotte de mailles]]
+|-
+| 28-34 || [[harnois (armure)|harnois]]
+|-
+| 35-39 || [[armure de plaques (armure)|armure de plaques]]
+|-
+| 40-45 || [[écu (armure)|écu en acier]]
+|-
+| 46-51 || [[écu (armure)|écu en bois]]
+|-
+| 52-55 || [[armure de peau (armure)|armure de peau]]
+|-
+| 56-61 || [[armure de cuir (armure)|armure de cuir]]
+|}
+</td><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+| 62-65 || [[rondache (armure)|rondache en acier]]
+|-
+| 66-69 || [[rondache (armure)|rondache en bois]]
+|-
+| 70-72 || [[armure matelassée (armure)|armure matelassée]]
+|-
+| 73-77 || [[armure décailles (armure)|armure d'écailles]]
+|-
+| 78-81 || [[clibanion (armure)|clibanion]]
+|-
+| 82-87 || [[armure de cuir cloutée (armure)|armure de cuir cloutée]]
+|-
+| 88-90 || [[pavois (armure)|pavois]]
+|-
+| 91-93 || autre [[armure légère]]*
+|-
+| 94-95 || autre [[armure intermédiaire]]*
+|-
+| 96-98 || autre [[armure lourde]]*
+|-
+| 99-100 || autre [[bouclier]]*
+|- CLASS="note"
+| | COLSPAN="2" | ''(*) Consultez le [[tableau récapitulatif des armures]] pour un vaste choix d'armures et de boucliers.''
+|}
+</td></tr></table>
+
+==Détermination aléatoire des armures et boucliers magiques==
+<table width="100%"><tr><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Armure ou bouclier magique aléatoire
+|- CLASS="titre"
+| D100 || Armure ou bouclier faible inférieur
+|- CLASS="premier"
+| 01-80 || Armure ou bouclier +1
+|-
+| 81-100 || Armure ou bouclier spécifique faible inférieure
+|- CLASS="titre"
+| </sup> || &emsp;
+|- CLASS="titre"
+| D100 || Armure ou bouclier faible supérieur
+|- CLASS="premier"
+| 01-26 || Armure ou bouclier +1
+|-
+| 27-53 || Armure ou bouclier +2
+|-
+| 54-80 || Armure ou bouclier +1 avec une propriété spéciale +1
+|-
+| 81-100 || Armure ou bouclier spécifique faible supérieure
+|- CLASS="titre"
+| </sup> || &emsp;
+|- CLASS="titre"
+| D100 || Armure ou bouclier intermédiaire inférieur
+|- CLASS="premier"
+| 01-10 || Armure ou bouclier +1
+|-
+| 11-20 || Armure ou bouclier +2
+|-
+| 21-32 || Armure ou bouclier +3
+|-
+| 33-44 || Armure ou bouclier +1 avec une propriété spéciale +1
+|-
+| 45-56 || Armure ou bouclier +1 avec deux propriétés spéciales +1
+|-
+| 57-68 || Armure ou bouclier +1 avec une propriété spéciale +2
+|-
+| 69-80 || Armure ou bouclier +2 avec une propriété spéciale +1
+|-
+| 81-100 || Armure ou bouclier spécifique intermédiaire inférieure
+|- CLASS="titre"
+| </sup> || &emsp;
+|- CLASS="titre"
+| D100 || Armure ou bouclier intermédiaire supérieur
+|- CLASS="premier"
+| 01-10 || Armure ou bouclier +2
+|-
+| 11-22 || Armure ou bouclier +3
+|-
+| 23-32 || Armure ou bouclier +1 avec une propriété spéciale +1
+|-
+| 33-44 || Armure ou bouclier +1 avec une propriété spéciale +2
+|-
+| 45-56 || Armure ou bouclier +2 avec une propriété spéciale +1
+|-
+| 57-68 || Armure ou bouclier +2 avec une propriété spéciale +2
+|}
+</td><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+| 69-80 || Armure ou bouclier +3 avec une propriété spéciale +1
+|-
+| 81-100 || Armure ou bouclier spécifique intermédiaire supérieure
+|- CLASS="titre"
+| </sup> || &emsp;
+|- CLASS="titre"
+| D100 || Armure ou bouclier puissant inférieur
+|- CLASS="premier"
+| 01-10 || Armure ou bouclier +3
+|-
+| 11-22 || Armure ou bouclier +4
+|-
+| 23-32 || Armure ou bouclier +1 avec une propriété spéciale +2
+|-
+| 33-44 || Armure ou bouclier +1 avec une propriété spéciale +3
+|-
+| 45-56 || Armure ou bouclier +2 avec une propriété spéciale +2
+|-
+| 57-68 || Armure ou bouclier +3 avec une propriété spéciale +1
+|-
+| 69-80 || Armure ou bouclier +4 avec une propriété spéciale +1
+|-
+| 81-100 || Armure ou bouclier spécifique puissante inférieure
+|- CLASS="titre"
+| </sup> || &emsp;
+|- CLASS="titre"
+| D100 || Armure ou bouclier puissant supérieur
+|- CLASS="premier"
+| 01-10 || Armure ou bouclier +4
+|-
+| 11-20 || Armure ou bouclier +5
+|-
+| 21-30 || Armure ou bouclier +4 avec une propriété spéciale +1
+|-
+| 31-38 || Armure ou bouclier +4 avec une propriété spéciale +2
+|-
+| 39-46 || Armure ou bouclier +4 avec une propriété spéciale +3
+|-
+| 47-51 || Armure ou bouclier +4 avec une propriété spéciale +4
+|-
+| 52-59 || Armure ou bouclier +5 avec une propriété spéciale +1
+|-
+| 60-67 || Armure ou bouclier +5 avec une propriété spéciale +2
+|-
+| 68-71 || Armure ou bouclier +5 avec une propriété spéciale +3
+|-
+| 72-74 || Armure ou bouclier +5 avec deux propriétés spéciales +2
+|-
+| 75-77 || Armure ou bouclier +5 avec une propriété spéciale +4
+|-
+| 78-80 || Armure ou bouclier +5 avec une propriété spéciale +5
+|-
+| 81-100 || Armure ou bouclier spécifique puissant supérieur
+|}
+</td></tr></table>
+
+==Détermination des propriétés spéciales des armures et boucliers magiques==
+===Propriétés spéciales des armures===
+<table width="100%"><tr><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Propriété spéciale d'armure aléatoire
+|- CLASS="titre"
+| D100 || Propriété spéciale d'armure +1 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-06 || ''[[Soutien (propriété armure)|Soutien]]'' || +2 000 po
+|-
+| 07-12 || ''[[Résistance au poison (propriété)|Résistance au poison]]'' || +2 250 po
+|-
+| 13-18 || ''[[Équilibrée (propriété)|Équilibrée]]'' || bonus de +1
+|-
+| 19-24 || ''[[Amertume (propriété)|Amertume]]'' || bonus de +1
+|-
+| 25-30 || ''[[Renforcement (propriété)|Renforcement]]'' || bonus de +1
+|-
+| 31-36 || ''[[Pugilat (propriété)|Pugilat]]'' || bonus de +1
+|-
+| 37-42 || ''[[Championne (propriété)|Championne]]'' || bonus de +1
+|-
+| 43-48 || ''[[Fourberie (propriété)|Fourberie]]'' || bonus de +1
+|-
+| 49-54 || ''[[Immortalité (propriété)|Immortalité]]'' || bonus de +1
+|-
+| 55-60 || ''[[Opposition (propriété)|Opposition]]'' || bonus de +1
+|-
+| 61-66 || ''[[Défense légère (propriété)|Défense (légère)]]'' || bonus de +1
+|-
+| 67-71 || ''[[Barbelée (propriété)|Barbelée]]'' || bonus de +1
+|-
+| 72-76 || ''[[Solide (propriété armure)|Solide]]'' || bonus de +1
+|-
+| 77-82 || ''[[Miroir (propriété)|Miroir]]'' || bonus de +1
+|-
+| 83-88 || ''[[Stockage de sort (propriété armure)|Stockage de sort]]'' || bonus de +1
+|-
+| 89-94 || ''[[Garrot (propriété)|Garrot]]'' || bonus de +1
+|-
+| 95-100 || ''[[Prévention (propriété)|Prévention]]'' || bonus de +1
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Propriété spéciale d'armure +2 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-12 || ''[[Mimétisme (propriété armure)|Mimétisme]]'' || +2 700 po
+|-
+| 13-24 || ''[[Joute (propriété)|Joute]]'' || +3 750 po
+|-
+| 25-38 || ''[[Ombre (propriété)|Ombre]]'' || +3 750 po
+|-
+| 39-52 || ''[[Graisseuse (propriété)|Graisseuse]]'' || +3 750 po
+|-
+| 53-64 || ''[[Expéditive (propriété)|Expéditive]]'' || +4 000 po
+|-
+| 65-76 || ''[[Discrétion (propriété)|Discrétion]]'' || +5 000 po
+|-
+| 77-88 || ''[[Ralliement (propriété)|Ralliement]]'' || +5 000 po
+|-
+| 89-100 || ''[[Résistance à la magie 13 (propriété)|Résistance à la magie (13)]]'' || bonus de +2
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Propriété spéciale d'armure +3 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-08 || ''[[Adhésive (propriété)|Adhésive]]'' || +7 000 po
+|-
+| 09-17 || ''[[Niche (propriété)|Niche]]'' || +7 500 po
+|-
+| 18-26 || ''[[Éclatante (propriété)|Éclatante]]'' || +7 500 po
+|}
+</td><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|-
+| 27-36 || ''[[Fouisseuse (propriété)|Fouisseuse]]'' || +10 000 po
+|-
+| 37-45 || ''[[Putride (propriété)|Putride]]'' || +10 000 po
+|-
+| 46-55 || ''[[Défense intermédiaire (propriété)|Défense (intermédiaire)]]'' || bonus de +3
+|-
+| 56-65 || ''[[Spectrale (propriété armure)|Spectrale]]'' || bonus de +3
+|-
+| 66-74 || ''[[Invulnérabilité (propriété)|Invulnérabilité]]'' || bonus de +3
+|-
+| 75-84 || ''[[Résistance à la magie 15 (propriété)|Résistance à la magie (15)]]'' || bonus de +3
+|-
+| 85-92 || ''[[Titanesque (propriété)|Titanesque]]'' || bonus de +3
+|-
+| 93-100 || ''[[Forme animale (propriété)|Forme animale]]'' || bonus de +3
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| <br>D100 || <br>Propriété spéciale d'armure +4 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-16 || ''[[Harmonique (propriété)|Harmonique]]'' || +15 000 po
+|-
+| 17-33 || ''[[Ombre supérieure (propriété)|Ombre supérieure]]'' || +15 000 po
+|-
+| 34-50 || ''[[Graisseuse supérieure (propriété)|Graisseuse supérieure]]'' || +15 000 po
+|-
+| 51-67 || ''[[Résistance aux énergies destructives (propriété)|Résistance aux énergies destructives]]'' || +18 000 po
+|-
+| 68-83 || ''[[Martyr (propriété)|Martyr]]'' || +18 000 po
+|-
+| 84-100 || ''[[Résistance à la magie 17 (propriété)|Résistance à la magie (17)]]'' || bonus de +4
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| <br>D100 || <br>Propriété spéciale d'armure +5 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-08 || ''[[Vertueuse (propriété)|Vertueuse]]'' || +27 000 po
+|-
+| 09-15 || ''[[Libertaire (propriété)|Libertaire]]'' || +27 000 po
+|-
+| 16-23 || ''[[Impie (propriété armure)|Impie]]'' || +27 000 po
+|-
+| 24-30 || ''[[Vigilante (propriété)|Vigilante]]'' || +27 000 po
+|-
+| 31-37 || ''[[Détermination (propriété)|Détermination]]'' || +30 000 po
+|-
+| 38-45 || ''[[Ombre suprême (propriété)|Ombre suprême]]'' || +33 750 po
+|-
+| 46-53 || ''[[Graisseuse suprême (propriété)|Graisseuse suprême]]'' || +33 750 po
+|-
+| 54-61 || ''[[Résistance supérieure aux énergies destructives (propriété)|Résistance supérieure aux énergies destructives]]'' || +42 000 po
+|-
+| 62-69 || ''[[Éthérée (propriété)|Éthérée]]'' || +49 000 po
+|-
+| 70-76 || ''[[Contrôle des morts-vivants (propriété)|Contrôle des morts-vivants]]'' || +49 000 po
+|-
+| 77-84 || ''[[Résistance suprême aux énergies destructives (propriété)|Résistance suprême aux énergies destructives]]'' || +66 000 po
+|-
+| 85-92 || ''[[Défense lourde (propriété)|Défense (lourde)]]'' || bonus de +5
+|-
+| 93-100 || ''[[Résistance à la magie 19 (propriété)|Résistance à la magie (19)]]'' || bonus de +5
+|}
+</td></tr></table>
+
+===Propriétés spéciales des boucliers===
+<table width="100%"><tr><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Propriété spéciale de bouclier aléatoire
+|- CLASS="titre"
+| D100 || Propriété spéciale de bouclier +1 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-10 || ''[[Résistance au poison (propriété)|Résistance au poison]]'' || +2 250 po
+|-
+| 11-19 || ''[[Interception de projectile (propriété)|Interception de projectile]]'' || bonus de +1
+|-
+| 20-28 || ''[[Attaque (propriété)|Attaque]]'' || bonus de +1
+|-
+| 29-37 || ''[[Aveuglante (propriété)|Aveuglante]]'' || bonus de +1
+|-
+| 38-46 || ''[[Retentissant (propriété)|Retentissant]]'' || bonus de +1
+|-
+| 47-55 || ''[[Opposition (propriété)|Opposition]]'' || bonus de +1
+|-
+| 56-64 || ''[[Défense légère (propriété)|Défense (légère)]]'' || bonus de +1
+|-
+| 65-73 || ''[[Barbelée (propriété)|Barbelée]]'' || bonus de +1
+|-
+| 74-82 || ''[[Solide (propriété armure)|Solide]]'' || bonus de +1
+|-
+| 83-91 || ''[[Miroir (propriété)|Miroir]]'' || bonus de +1
+|-
+| 92-100 || ''[[Bélier (propriété)|Bélier]]'' || bonus de +1
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Propriété spéciale de bouclier +2 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-15 || ''[[Ralliement (propriété)|Ralliement]]'' || +5 700 po
+|-
+| 16-30 || ''[[Souffle draconique (propriété)|Souffle draconique]]'' || +5 000 po
+|-
+| 31-50 || ''[[Animée (propriété)|Animée]]'' || bonus de +2
+|-
+| 51-67 || ''[[Anti-projectiles (propriété)|Anti-projectiles]]'' || bonus de +2
+|-
+| 68-82 || ''[[Fusion (propriété)|Fusion]]'' || bonus de +2
+|-
+| 83-100 || ''[[Résistance à la magie 13 (propriété)|Résistance à la magie (13)]]'' || bonus de +2
+|}
+</td><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|- CLASS="titre"
+| <br>D100 || <br>Propriété spéciale de bouclier +3 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-15 || ''[[Niche (propriété)|Niche]]'' || +7 500 po
+|-
+| 16-32 || ''[[Éclatante (propriété)|Éclatante]]'' || +7 500 po
+|-
+| 33-49 || ''[[Défense intermédiaire (propriété)|Défense (intermédiaire)]]'' || bonus de +3
+|-
+| 50-66 || ''[[Spectrale (propriété armure)|Spectrale]]'' || bonus de +3
+|-
+| 67-83 || ''[[Résistance à la magie 15 (propriété)|Résistance à la magie (15)]]'' || bonus de +3
+|-
+| 84-100 || ''[[Forme animale (propriété)|Forme animale]]'' || bonus de +3
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| <br>D100 || <br>Propriété spéciale de bouclier +4 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-50 || ''[[Résistance aux énergies destructives (propriété)|Résistance aux énergies destructives]]'' || +18 000 po
+|-
+| 51-100 || ''[[Résistance à la magie 17 (propriété)|Résistance à la magie (17)]]'' || bonus de +4
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| <br>D100 || <br>Propriété spéciale de bouclier +5 || Mod. au prix<br>de base
+|- CLASS="premier"
+| 01-11 || ''[[Détermination (propriété)|Détermination]]'' || +30 000 po
+|-
+| 12-27 || ''[[Résistance supérieure aux énergies destructives (propriété)|Résistance supérieure aux énergies destructives]]'' || +42 000 po
+|-
+| 28-38 || ''[[Contrôle des morts-vivants (propriété)|Contrôle des morts-vivants]]'' || +49 000 po
+|-
+| 39-55 || ''[[Résistance suprême aux énergies destructives (propriété)|Résistance suprême aux énergies destructives]]'' || +66 000 po
+|-
+| 56-70 || ''[[Défense lourde (propriété)|Défense (lourde)]]'' || bonus de +5
+|-
+| 71-85 || ''[[Réfléchissante (propriété)|Réfléchissante]]'' || bonus de +5
+|-
+| 86-100 || ''[[Résistance à la magie 19 (propriété)|Résistance à la magie (19)]]'' || bonus de +5
+|}
+</td></tr></table>
+
+==Détermination des armures et boucliers magiques spécifiques==
+===Armures magiques spécifiques===
+<table width="100%"><tr><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Armure magique spécifique aléatoire
+|- CLASS="titre"
+| D100 || Armure magique spécifique faible inférieure || Prix(po)
+|- CLASS="premier"
+| 01-50 || [[Chemise de mailles en mithral]] || 1 100
+|-
+| 51-100 || Armure de maître ou armure non-magique<br>fabriqué dans un matériau spécial || variable
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Armure magique spécifique faible supérieure || Prix(po)
+|- CLASS="premier"
+| 01-33 || [[Maillebrume]] || 2 250
+|-
+| 34-66 || [[Armure en peau dotyugh|Armure en peau d’otyugh]] || 2 565
+|-
+| 67-100 || [[Harnois en peau de dragon]] || 3 300
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Armure magique spécifique intermédiaire inférieure || Prix(po)
+|- CLASS="premier"
+| 01-33 || [[Cotte de mailles elfique]] || 5 150
+|-
+| 34-66 || [[Armure en peau de rhinocéros]] || 5 165
+|-
+| 67-100 || [[Armure en peau de morlock]] || 8 910
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Armure magique spécifique intermédiaire supérieure || Prix(po)
+|- CLASS="premier"
+| 01-15 || [[Cuirasse en adamantium]] || 10 200
+|-
+| 16-25 || [[Habits du devin]] || 10 300
+|-
+| 26-38 || [[Armure équestre]] || 10 650
+|-
+| 39-50 || [[Armure en peau danguille enchantée|Armure en peau d’anguille enchantée]] || 11 160
+|-
+| 51-62 || [[Armure de contorsionniste]] || 12 160
+|-
+| 63-72 || [[Habits noirs du meurtrier]] || 12 405
+|-
+| 73-86 || [[Armure pliante]] || 12 650
+|-
+| 87-100 || [[Cuirasse de volatilisation]] || 15 200
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Armure magique spécifique puissante inférieure || Prix(po)
+|- CLASS="premier"
+| 01-13 || [[Armure dinsultes|Armure d’insultes]] || 16 175
+|}
+</td><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+| 14-29 || [[Harnois nain]] || 16 500
+|-
+| 30-45 || [[Crevice de la seconde chance]] || 18 900
+|-
+| 46-58 || [[Armure en peau de chat]] || 18 910
+|-
+| 59-71 || [[Armure céleste]] || 22 400
+|-
+| 72-84 || [[Cuirasse du boucanier]] || 23 850
+|-
+| 85-100 || [[Harnois des profondeurs]] || 24 650
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Armure magique spécifique puissante supérieure || Prix(po)
+|- CLASS="premier"
+| 01-10 || [[Cuirasse de commandement]] || 25 400
+|-
+| 11-14 || [[Crevice impie]] || 25 400
+|-
+| 15-24 || [[Harnois en mithral de vitesse]] || 26 500
+|-
+| 25-28 || [[Gardien des forêts]] || 29 350
+|-
+| 29-32 || [[Cuirasse-scarabée]] || 32 350
+|-
+| 33-38 || [[Armure en peau de géant]]<br>(ogre) || 39 165
+|-
+| 39-42 || [[Armure en peau dhamatula|Armure en peau d’hamatula]] || 44 215
+|-
+| 43-48 || [[Armure en peau de géant]]<br>(géant des collines) || 46 665
+|-
+| 49-52 || [[Armure démoniaque]] || 52 260
+|-
+| 53-58 || [[Armure en peau de géant]]<br>(géant de pierre, de feu ou de froid) || 54 165
+
+|-
+| 59-64 || [[Armure en peau de géant]]<br>(troll) || 59 165
+|-
+| 65-70 || [[Cotte de mailles de malveillance]] || 61 300
+|-
+| 71-76 || [[Armure en peau de géant]]<br>(géant des nuages) || 69 165
+|-
+| 77-82 || [[Armure en peau de géant]]<br>(géant des tempêtes) || 76 665
+|-
+| 83-88 || [[Astre du jour]] || 81 250
+|-
+| 89-96 || [[Armure dinvincibilité|Armure d’invincibilité]] || 137 650
+|-
+| 97-100 || [[Harnois prismatique]] || 160 650
+|}
+</td></tr></table>
+
+===Boucliers magiques spécifiques===
+<table width="100%"><tr><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+|+ Bouclier magique spécifique aléatoire
+|- CLASS="titre"
+| D100 || Bouclier magique spécifique faible inférieur || Prix(po)
+|- CLASS="premier"
+| 01-20 || [[Écu en acier vivant]] || 120
+|-
+| 21-45 || [[Rondache en ébénite]] || 203
+|-
+| 46-70 || [[Écu en ébénite]] || 257
+|-
+| 71-100 || [[Écu en mithral]] || 1 020
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Bouclier magique spécifique faible supérieur || Prix(po)
+|- CLASS="premier"
+| 01-30 || [[Bouclier en peau de zombi]] || 2 159
+|-
+| 31-75 || [[Bouclier des arcanes]] || 3 153
+|-
+| 76-100 || [[Targe du cambrioleur]] || 4 655
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Bouclier magique spécifique intermédiaire inférieur || Prix(po)
+|- CLASS="premier"
+| 01-35 || [[Bouclier de la manticore]] || 5 580
+|-
+| 36-50 || [[Bouclier du pourfendeur de dragons]] || 7 170
+|-
+| 51-65 || [[Pavois pliant]] || 8 170
+|-
+| 66-100 || [[Bouclier du lion]] || 9 170
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Bouclier magique spécifique intermédiaire supérieur || Prix(po)
+|- CLASS="premier"
+| 01-20 || [[Bouclier des arcanes suprême]] || 10 153
+|}
+</td><td width="50%">
+{| CLASS="tablo centre autoalt" WIDTH="94%"
+| 21-40 || [[Bouclier céleste]] || 13 170
+|-
+| 41-60 || [[Bouclier maelström]] || 14 170
+|-
+| 61-80 || [[Bouclier volcanique]] || 14 170
+|-
+| 81-100 || [[Bouclier des tempêtes]] || 15 170
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Bouclier magique spécifique puissant inférieur || Prix(po)
+|- CLASS="premier"
+| 01-20 || [[Bouclier crénelé]] || 16 180
+|-
+| 21-40 || [[Bouclier ailé]] || 17 257
+|-
+| 41-60 || [[Bouclier des éboulis]] || 19 170
+|-
+| 61-80 || [[Bouclier forteresse]] || 19 180
+|-
+| 81-100 || [[Bouclier du pourfendeur de dracosires]] || 20 170
+|- CLASS="titre"
+| </sup> || &emsp; || </sup>
+|- CLASS="titre"
+| D100 || Bouclier magique spécifique puissant supérieur || Prix(po)
+|- CLASS="premier"
+| 01-20 || [[Pavois desquive magique|Pavois d’esquive magique]] || 25 180
+|-
+| 21-35 || [[Targe de blocage éclair]] || 36 155
+|-
+| 36-50 || [[Bouclier agressif]] || 36 170
+|-
+| 51-65 || [[Pavois de force]] || 46 030
+|-
+| 66-85 || [[Bouclier phagocyte]] || 50 170
+|-
+| 86-100 || [[Bouclier de lÉlysée|Bouclier de l’Élysée]] || 52 620
+|}
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Détermination aléatoire des armures et des boucliers</fullName>
+</wikiPage>

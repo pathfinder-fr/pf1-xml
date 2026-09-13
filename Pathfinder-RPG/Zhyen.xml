@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Zhyen</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Recueil de la Société des Éclaireurs</category></categories>
+  <lastModified>2024-01-06 15:58:49Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.Recueil de la Société des Éclaireurs (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Endurance aux énergies destructives</link><link>Pathfinder-RPG.Fatigue</link><link>Pathfinder-RPG.défense totale</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Méphite</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Zhyen&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;D&#233;sert&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/D&#233;sert.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Recueil de la Soci&#233;t&#233; des &#201;claireurs p.290&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (air, terre, feu ou eau) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 14, pris au d&#233;pourvu 15 (+2 Dex, +3 naturelle, +2 taille)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 9 (2d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sistances&lt;/b&gt; acide 5, froid 5, &#233;lectricit&#233; 5, feu 5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 9 m (parfaite), nage 9 m (pour un zhyen de l’eau)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; contact au corps &#224; corps, +1 (1d4 d&#233;g&#226;ts d’acide, de froid, d’&#233;lectricit&#233; ou de feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 75 cm ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Aux-&#201;nergies-Destructives.html&quot; title=&quot;Endurance aux &#233;nergies destructives&quot;&gt;endurance aux &#233;nergies destructives&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fatigue.html&quot; title=&quot;Fatigue&quot;&gt;fatigue&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Tactique&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avant le combat&lt;/b&gt; Les zhyens n’engagent pas le combat d’eux-m&#234;mes, &#224; moins d’&#234;tre convoqu&#233;s.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pendant le combat&lt;/b&gt; Le zhyen pr&#233;f&#232;re &#233;viter les attaques au moyen d’une action de &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Defensetotale.html&quot; title=&quot;d&#233;fense totale&quot;&gt;d&#233;fense totale&lt;/a&gt; mais, s’il est accul&#233;, il attaque jusqu’&#224; ce qu’il puisse s’enfuir.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Moral&lt;/b&gt; Pas habitu&#233; et g&#233;n&#233;ralement pas pr&#233;par&#233; au combat, le zhyen tente de fuir quand il est r&#233;duit &#224; la moiti&#233; de ses points de vie ou moins.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 6, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; 9, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1 ; &lt;b&gt;BMO&lt;/b&gt; -3; &lt;b&gt;DMD&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +0, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +0, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +3, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, Nage +6, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; a&#233;rien, aquatique, commun, ign&#233;, terreux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; Tous les d&#233;serts ou plans &#233;l&#233;mentaires
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; Solitaire ou gang (1 zhyen et 2-4 &lt;a class=&quot;pagelink&quot; href=&quot;M&#233;phite.html&quot; title=&quot;M&#233;phite&quot;&gt;m&#233;phites&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; Aucun
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce petit g&#233;nie flotte dans les airs. Il mesure &#224; peine 30 centim&#232;tres mais il n’a pas de jambes qui permettraient d’estimer sa v&#233;ritable taille. Des volutes de lumi&#232;re &#233;l&#233;mentaire s’&#233;chappent de ses yeux et il s’incline, pr&#234;t &#224; vous servir.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le zhyen est un g&#233;nie mineur qui sert de messager et de serviteur aux &#234;tres sup&#233;rieurs. Ils savent que les g&#233;nies sont sup&#233;rieurs aux lanceurs de sorts mortels mais ils servent souvent de familiers &#224; de puissants mages, notamment aux amis des g&#233;nies que l’on appelle les daivrat (cf. p.280). Ils peuvent &#234;tre convoqu&#233;s gr&#226;ce &#224; un sort de convocation de monstres II.&lt;br /&gt;&lt;br /&gt;Tous les zhyens ressemblent &#224; des djinns miniatures jusqu’&#224; la taille, toujours musculeux et s&#233;duisants. Sous la taille, ils n’ont pas de forme du tout, ils se terminent par une &#171; queue &#187; compos&#233;e de l’&#233;l&#233;ment de pr&#233;dilection du g&#233;nie : des volutes de brumes pour l’air, une vague mouvante pour l’eau, une tra&#238;n&#233;e de flammes pour le feu ou une chute apparemment infinie de pierres pour la terre. Cette apparence se refl&#232;te &#233;galement dans le teint du zhyen mais n’a aucune influence sur ses pouvoirs ou ses capacit&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_0&quot; href=&quot;#&#201;cologie_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les zhyens vivent sur le plan &#233;l&#233;mentaire correspondant &#224; leur type &#233;l&#233;mentaire. Certains &#233;rudits sp&#233;cialistes des plans pensent que ces g&#233;nies miniatures sont des portions de ces plans ayant d&#233;velopp&#233; une conscience et s’&#233;tant lib&#233;r&#233;es de la trame &#233;l&#233;mentaire. D’autres disent qu’il s’agit de g&#233;nies mineurs, sorter de rejetons des grandes races. D’autres encore affirment que les zhyens naissent quand un puissant g&#233;nie d&#233;sire un compagnon agr&#233;able et r&#233;fl&#233;chi, un peu comme les mages humains cr&#233;ent des homoncules.&lt;br /&gt;&lt;br /&gt;En r&#233;alit&#233;, les zhyens voient le jour de toutes ces fa&#231;ons. Quel que soit le moteur de sa cr&#233;ation, le zhyen appara&#238;t toujours compl&#232;tement form&#233; et coh&#233;rent et il ne lui faut que quelques minutes pour s’habituer &#224; son environnement et en apprendre ce qu’il a besoin de savoir. S’il &#171; na&#238;t &#187; pr&#232;s d’une autre cr&#233;ature dou&#233;e de conscience, le zhyen cr&#233;e un lien affectif avec elle tant que son compagnon ne refuse pas de le traiter avec bienveillance ou ne s’en r&#233;v&#232;le pas incapable.&lt;br /&gt;&lt;br /&gt;N’ayant pas besoin de manger (bien qu’ils aiment le faire) et insensibles &#224; la rudesse de l’environnement, les zhyens n’ont g&#233;n&#233;ralement pas de foyers permanents, pr&#233;f&#233;rant sillonner les fronti&#232;res des royaumes &#233;l&#233;mentaires. Pourtant, ce sont des &#234;tres curieux sans cesse en qu&#234;te de distractions. Sur les plans, les zhyens satisfont leur curiosit&#233; en explorant les fronti&#232;res o&#249; un domaine ou un &#233;l&#233;ment se m&#234;le &#224; un autre. Leur curiosit&#233; les conduit souvent &#224; se retrouver captifs d’&#234;tres plus puissants.&lt;br /&gt;&lt;br /&gt;Les zhyens sont avant tout attir&#233;s par les endroits o&#249; des forces oppos&#233;es se heurtent et fusionnent. Sur le Plan mat&#233;riel, ils sont attir&#233;s par les littoraux et les chutes d’eau, par les hauts pics montagneux et, assez &#233;trangement, par les bouilloires et les cocottes. La plupart des zhyens ne peuvent pas rester sur le Plan mat&#233;riel sauf s’ils sont au service d’un puissant lanceur de sorts et pr&#233;f&#232;rent de loin ce type de servitude confortable &#224; une situation d’esclave aupr&#232;s d’un ma&#238;tre &#233;frit ou shaitan.&lt;br /&gt;&lt;br /&gt;Les zhyens n’ont ni pr&#233;dateurs ni proies naturels. Bien qu’ils puissent &#234;tre m&#226;les ou femelles, ils sont en r&#233;alit&#233; asexu&#233;s et ne se reproduisent pas. Ils ne vieillissent pas non plus.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Habitat et soci&#233;t&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Habitat_et_soci&#233;t&#233;_1&quot; href=&quot;#Habitat_et_soci&#233;t&#233;_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Comme les zhyens sont plus petits et moins puissants que les autres g&#233;nies, ils sont presque dans l’incapacit&#233; de b&#226;tir quelque soci&#233;t&#233; que ce soit dans les plans. La plupart d’entre eux finissent donc comme serviteurs aupr&#232;s de g&#233;nies plus puissants, employ&#233;s comme messagers et favoris dans les cours des grandes races de g&#233;nies. Les zhyens n’appr&#233;cient pas d’&#234;tre trait&#233;s de la sorte mais, &#233;tant donn&#233; leur faiblesse relative par rapport aux autres g&#233;nies, ils sont incapables de changer leur statut.&lt;br /&gt;&lt;br /&gt;Il arrive parfois qu’un zhyen convoqu&#233; sur le Plan mat&#233;riel soit &#233;bloui par les diverses merveilles du monde des mortels et cherche &#224; y revenir. Ces zhyens r&#233;pondent aux convocations et aux invocations aussi souvent que possible et peuvent &#233;ventuellement chercher &#224; rejoindre d&#233;finitivement ce monde en tant que familiers d’un daivrat. Le fait d’&#234;tre au service d’un daivrat permet au zhyen de satisfaire sa curiosit&#233; et son besoin d’exploration tout en profitant d’un ma&#238;tre en mesure de le prot&#233;ger contre les g&#233;nies plus puissants qui cherchent &#224; exploiter les cr&#233;atures plus faibles.&lt;br /&gt;&lt;br /&gt;Une fois convoqu&#233;s sur le Plan mat&#233;riel, les zhyens cherchent souvent un moyen de prolonger leur s&#233;jour au-del&#224; du temps impos&#233; par la magie les ayant amen&#233;s l&#224;. Ils d&#233;couvrent parfois des objets magiques mineurs qui leur permettent de rester dans le monde des mortels et veillent souvent sur leurs mortels pr&#233;f&#233;r&#233;s et leurs descendants, leur apportant une aide mineure quand ils peuvent le faire sans &#234;tre rep&#233;r&#233;s.&lt;br /&gt;&lt;br /&gt;Les zhyens ne recherchent pas la compagnie de leurs pairs de m&#234;me type &#233;l&#233;mentaire, m&#234;me sur le Plan mat&#233;riel, et ils trouvent que ceux des autres types sont des curiosit&#233;s amusantes et d’&#233;tranges connaissances au mieux. Ils ont une affinit&#233; particuli&#232;re avec les m&#233;phites, notamment avec ceux qui repr&#233;sentent des &#233;l&#233;ments mixtes.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Les jocta&lt;a class=&quot;headeranchor&quot; id=&quot;Les_jocta_2&quot; href=&quot;#Les_jocta_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Certains zhyens connaissent un malheureux destin et sont asservis par des g&#233;nies cruels et mal&#233;fiques ou par des ma&#238;tres mortels qui les exploitent et s’en servent g&#233;n&#233;ralement de bouffons ou de cible pour des plaisanteries humiliantes. Avec le temps, cela p&#232;se sur l’esprit du zhyen, le corrompant de l’int&#233;rieur jusqu’&#224; ce que son corps subisse une transformation physique refl&#233;tant sa souffrance int&#233;rieure. Le zhyen se voit alors pousser des jambes &#224; la place de sa moiti&#233; &#233;l&#233;mentaire, il devient compl&#232;tement chauve et sa peau prend une couleur et un grain plus ternes, plus humains. La cr&#233;ature qui en r&#233;sulte est un vilain petit g&#233;nie appel&#233; un jocta. La transformation lib&#232;re le jocta des sorts de lien gr&#226;ce auxquels il a &#233;t&#233; asservi en tant que zhyen. La plupart prennent la fuite aussit&#244;t pour ne pas &#234;tre li&#233;s de nouveau. La plupart des jocta sont Chaotiques Neutres ou Neutres Mauvais.&lt;br /&gt;&lt;br /&gt;Le jocta conserve toutes ses capacit&#233;s de zhyen et peut passer de la taille TP &#224; la taille P et vice et versa &#224; volont&#233; par une action libre (il s’agit d’une capacit&#233; surnaturelle). On peut convoquer les jocta comme les zhyens, voire m&#234;me les lier comme familiers, mais ils sont sombres et peu coop&#233;ratifs et adorent plus que tout retourner vers leur ancien &#171; ma&#238;tre &#187; pour lui d&#233;rober quelques objets de valeur, mon&#233;taire ou affective, avant de s’&#233;clipser &#224; nouveau.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Zhyen|FP 1/2}
+{s:pucem|Extérieur|Désert|Tempéré}
+{s:BDTexte|''Source : Recueil de la Société des Éclaireurs p.290''}
+{s:BDTexte|[[type Extérieur|Extérieur]] (air, terre, feu ou eau) de taille TP, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 14, pris au dépourvu 15 (+2 Dex, +3 naturelle, +2 taille)}
+{s:BDTexte|'''pv''' 9 (2d8)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +0, '''Vol''' +4}
+{s:BDTexte|'''Résistances''' acide 5, froid 5, électricité 5, feu 5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m, [[Vol (capacité)|vol]] 9 m (parfaite), nage 9 m (pour un zhyen de l’eau)}
+{s:BDTexte|'''Corps à corps''' contact au corps à corps, +1 (1d4 dégâts d’acide, de froid, d’électricité ou de feu)}
+{s:BDTexte|'''Espace occupé''' 75 cm ; '''Allonge''' 0 m}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 2)}
+{s:BDSorts|À volonté — ''[[manipulation à distance]]'', ''[[réparation]]''}
+{s:BDSorts|1/jour — ''[[endurance aux énergies destructives]]'', ''[[fatigue]]''}
+{s:BDSousTitre|Tactique}
+{s:BDTexte|'''Avant le combat''' Les zhyens n’engagent pas le combat d’eux-mêmes, à moins d’être convoqués.}
+{s:BDTexte|'''Pendant le combat''' Le zhyen préfère éviter les attaques au moyen d’une action de [[défense totale]] mais, s’il est acculé, il attaque jusqu’à ce qu’il puisse s’enfuir.}
+{s:BDTexte|'''Moral''' Pas habitué et généralement pas préparé au combat, le zhyen tente de fuir quand il est réduit à la moitié de ses points de vie ou moins.}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 6, '''Dex''' 14, '''Con''' 10, '''Int''' 9, '''Sag''' 14, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +1 ; '''BMO''' -3; '''DMD''' 9}
+{s:BDTexte|'''Dons''' [[Course]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +0, [[Connaissances]] (mystères) +0, [[Connaissances]] (plans) +3, [[Discrétion]] +14, Nage +6, [[Perception]] +6, [[Vol]] +6}
+{s:BDTexte|'''Langues''' aérien, aquatique, commun, igné, terreux}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' Tous les déserts ou plans élémentaires}
+{s:BDTexte|'''Organisation''' Solitaire ou gang (1 zhyen et 2-4 [[méphite|méphites]])}
+{s:BDTexte|'''Trésor''' Aucun}
+</div></td>
+<td><div>''Ce petit génie flotte dans les airs. Il mesure à peine 30 centimètres mais il n’a pas de jambes qui permettraient d’estimer sa véritable taille. Des volutes de lumière élémentaire s’échappent de ses yeux et il s’incline, prêt à vous servir.''
+
+Le zhyen est un génie mineur qui sert de messager et de serviteur aux êtres supérieurs. Ils savent que les génies sont supérieurs aux lanceurs de sorts mortels mais ils servent souvent de familiers à de puissants mages, notamment aux amis des génies que l’on appelle les daivrat (cf. p.280). Ils peuvent être convoqués grâce à un sort de convocation de monstres II.
+
+Tous les zhyens ressemblent à des djinns miniatures jusqu’à la taille, toujours musculeux et séduisants. Sous la taille, ils n’ont pas de forme du tout, ils se terminent par une « queue » composée de l’élément de prédilection du génie : des volutes de brumes pour l’air, une vague mouvante pour l’eau, une traînée de flammes pour le feu ou une chute apparemment infinie de pierres pour la terre. Cette apparence se reflète également dans le teint du zhyen mais n’a aucune influence sur ses pouvoirs ou ses capacités.
+
+====Écologie====
+Les zhyens vivent sur le plan élémentaire correspondant à leur type élémentaire. Certains érudits spécialistes des plans pensent que ces génies miniatures sont des portions de ces plans ayant développé une conscience et s’étant libérées de la trame élémentaire. D’autres disent qu’il s’agit de génies mineurs, sorter de rejetons des grandes races. D’autres encore affirment que les zhyens naissent quand un puissant génie désire un compagnon agréable et réfléchi, un peu comme les mages humains créent des homoncules.
+
+En réalité, les zhyens voient le jour de toutes ces façons. Quel que soit le moteur de sa création, le zhyen apparaît toujours complètement formé et cohérent et il ne lui faut que quelques minutes pour s’habituer à son environnement et en apprendre ce qu’il a besoin de savoir. S’il « naît » près d’une autre créature douée de conscience, le zhyen crée un lien affectif avec elle tant que son compagnon ne refuse pas de le traiter avec bienveillance ou ne s’en révèle pas incapable.
+
+N’ayant pas besoin de manger (bien qu’ils aiment le faire) et insensibles à la rudesse de l’environnement, les zhyens n’ont généralement pas de foyers permanents, préférant sillonner les frontières des royaumes élémentaires. Pourtant, ce sont des êtres curieux sans cesse en quête de distractions. Sur les plans, les zhyens satisfont leur curiosité en explorant les frontières où un domaine ou un élément se mêle à un autre. Leur curiosité les conduit souvent à se retrouver captifs d’êtres plus puissants.
+
+Les zhyens sont avant tout attirés par les endroits où des forces opposées se heurtent et fusionnent. Sur le Plan matériel, ils sont attirés par les littoraux et les chutes d’eau, par les hauts pics montagneux et, assez étrangement, par les bouilloires et les cocottes. La plupart des zhyens ne peuvent pas rester sur le Plan matériel sauf s’ils sont au service d’un puissant lanceur de sorts et préfèrent de loin ce type de servitude confortable à une situation d’esclave auprès d’un maître éfrit ou shaitan.
+
+Les zhyens n’ont ni prédateurs ni proies naturels. Bien qu’ils puissent être mâles ou femelles, ils sont en réalité asexués et ne se reproduisent pas. Ils ne vieillissent pas non plus.
+
+====Habitat et société====
+Comme les zhyens sont plus petits et moins puissants que les autres génies, ils sont presque dans l’incapacité de bâtir quelque société que ce soit dans les plans. La plupart d’entre eux finissent donc comme serviteurs auprès de génies plus puissants, employés comme messagers et favoris dans les cours des grandes races de génies. Les zhyens n’apprécient pas d’être traités de la sorte mais, étant donné leur faiblesse relative par rapport aux autres génies, ils sont incapables de changer leur statut.
+
+Il arrive parfois qu’un zhyen convoqué sur le Plan matériel soit ébloui par les diverses merveilles du monde des mortels et cherche à y revenir. Ces zhyens répondent aux convocations et aux invocations aussi souvent que possible et peuvent éventuellement chercher à rejoindre définitivement ce monde en tant que familiers d’un daivrat. Le fait d’être au service d’un daivrat permet au zhyen de satisfaire sa curiosité et son besoin d’exploration tout en profitant d’un maître en mesure de le protéger contre les génies plus puissants qui cherchent à exploiter les créatures plus faibles.
+
+Une fois convoqués sur le Plan matériel, les zhyens cherchent souvent un moyen de prolonger leur séjour au-delà du temps imposé par la magie les ayant amenés là. Ils découvrent parfois des objets magiques mineurs qui leur permettent de rester dans le monde des mortels et veillent souvent sur leurs mortels préférés et leurs descendants, leur apportant une aide mineure quand ils peuvent le faire sans être repérés.
+
+Les zhyens ne recherchent pas la compagnie de leurs pairs de même type élémentaire, même sur le Plan matériel, et ils trouvent que ceux des autres types sont des curiosités amusantes et d’étranges connaissances au mieux. Ils ont une affinité particulière avec les méphites, notamment avec ceux qui représentent des éléments mixtes.
+
+====Les jocta====
+Certains zhyens connaissent un malheureux destin et sont asservis par des génies cruels et maléfiques ou par des maîtres mortels qui les exploitent et s’en servent généralement de bouffons ou de cible pour des plaisanteries humiliantes. Avec le temps, cela pèse sur l’esprit du zhyen, le corrompant de l’intérieur jusqu’à ce que son corps subisse une transformation physique reflétant sa souffrance intérieure. Le zhyen se voit alors pousser des jambes à la place de sa moitié élémentaire, il devient complètement chauve et sa peau prend une couleur et un grain plus ternes, plus humains. La créature qui en résulte est un vilain petit génie appelé un jocta. La transformation libère le jocta des sorts de lien grâce auxquels il a été asservi en tant que zhyen. La plupart prennent la fuite aussitôt pour ne pas être liés de nouveau. La plupart des jocta sont Chaotiques Neutres ou Neutres Mauvais.
+
+Le jocta conserve toutes ses capacités de zhyen et peut passer de la taille TP à la taille P et vice et versa à volonté par une action libre (il s’agit d’une capacité surnaturelle). On peut convoquer les jocta comme les zhyens, voire même les lier comme familiers, mais ils sont sombres et peu coopératifs et adorent plus que tout retourner vers leur ancien « maître » pour lui dérober quelques objets de valeur, monétaire ou affective, avant de s’éclipser à nouveau.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Zhyen</fullName>
+</wikiPage>

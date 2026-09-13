@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Gorthek</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2024-01-14 23:37:32Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Animaux, montures et leur équipement</link><link>Pathfinder-RPG.Brigand orque</link><link>Pathfinder-RPG.Chevaucheur de gorthek</link><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Éclaireur orque</link><link>Pathfinder-RPG.Harnais à corne (objet)</link><link>Pathfinder-RPG.Lieutenant orque</link><link>Pathfinder-RPG.Masques gortheks</link><link>Pathfinder-RPG.Mystique orque</link><link>Pathfinder-RPG.Orque</link><link>Pathfinder-RPG.Seigneur de guerre orque (barbare)</link><link>Pathfinder-RPG.Seigneur de guerre orque (guerrier)</link><link>Pathfinder-RPG.Selle de gorthek (objet)</link><link>Pathfinder-RPG.Sergent orque</link><link>Pathfinder-RPG.Sorcier docteur orque</link><link>Pathfinder-RPG.Tambour de guerre orque</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Charge puissante (capacité)</link><link>Pathfinder-RPG.Piétinement (capacité)</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.destruction</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science de la destruction</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Orque</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Force</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gorthek&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Codex-Monstrueux-(Contenu).html&quot; title=&quot;Codex monstrueux (Contenu)&quot;&gt;Codex monstrueux p.196&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 8, pris au d&#233;pourvu 18 (-1 Dex, +10 naturelle, -1 taille)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 85 (9d8+45)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +13, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/—
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; corne, +16 (2d6+16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,5 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante (Ext)&quot;&gt;charge puissante&lt;/a&gt; (corne, 4d6+22), &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement-(Capacit&#233;).html&quot; title=&quot;Pi&#233;tinement (Ext)&quot;&gt;pi&#233;tinement&lt;/a&gt; (2d6+16, DD 25)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 32, &lt;b&gt;Dex&lt;/b&gt; 9, &lt;b&gt;Con&lt;/b&gt; 21, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6 ; &lt;b&gt;BMO&lt;/b&gt; +18 (+20 pour la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt; ou la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Destruction.html&quot; title=&quot;destruction&quot;&gt;destruction&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 27 (29 contre la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt; ou la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Destruction.html&quot; title=&quot;destruction&quot;&gt;destruction&lt;/a&gt;, 31 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Destruction.html&quot; title=&quot;Science de la destruction&quot;&gt;Science de la destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +12
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines et plaines temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou troupeau (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;b&gt;Ces cr&#233;atures accompagnent souvent les &lt;a class=&quot;pagelink&quot; href=&quot;Orque.html&quot; title=&quot;Orque&quot;&gt;orques&lt;/a&gt;.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Cet &#233;norme quadrup&#232;de est couvert d’une peau &#233;paisse et toute rid&#233;e en plus d’arborer des cornes incurv&#233;es. Son visage l&#233;onin est encadr&#233; d’une crini&#232;re hirsute.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le gorthek est sans aucun doute l’une des cr&#233;atures les plus grincheuses &#224; sillonner les &#233;tendues sauvages. &#201;trange combinaison entre le bison primitif et le rhinoc&#233;ros ronchon, avec une t&#234;te l&#233;onine couronn&#233;e de cornes de b&#233;lier, le gorthek est &#224; la fois immens&#233;ment puissant et extr&#234;mement difficile &#224; blesser. Son &#233;norme t&#234;te de b&#233;lier et son corps extr&#234;mement r&#233;sistant en font un adversaire redoutable, surtout quand il est &#233;nerv&#233; et charge &#224; pleine puissance.&lt;br /&gt;&lt;br /&gt;Les gortheks se d&#233;placent souvent en petits troupeaux, broutant dans les prairies isol&#233;es des climats temp&#233;r&#233;s ou sur les collines aux bois &#233;pars. Quand un gorthek per&#231;oit une menace (ce qui, pour un gorthek, inclut &#224; peu pr&#232;s tout et, souvent, les autres gortheks eux-m&#234;mes), il se met &#224; charger de toutes ses forces dans la ferme intention d’envoyer son ennemi valser.&lt;br /&gt;&lt;br /&gt;Les tribus orques &#233;l&#232;vent ces b&#234;tes d&#232;s leur naissance pour en faire des engins de si&#232;ge vivants pour leurs guerres. Les futurs cavaliers gortheks se lient tr&#232;s t&#244;t &#224; ces cr&#233;atures et, quand ils le peuvent, utilisent des masques gortheks afin de renforcer ces liens. Quand un orque chevauche pour la bataille, il s’installe sur le dos de son gorthek gr&#226;ce &#224;
+une lani&#232;re sp&#233;cifique, attach&#233;e derri&#232;re ses &#233;normes cornes, et guide la b&#234;te gr&#226;ce &#224; des r&#234;nes &#224; pointes.&lt;br /&gt;&lt;br /&gt;Un gorthek m&#226;le adulte mesure environ deux m&#232;tres dix au garrot et p&#232;se pr&#232;s de 4,5 tonnes.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le gorthek comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_gorthek_comme_compagnon_animal_0&quot; href=&quot;#Le_gorthek_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Vitesse&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); &lt;b&gt;CA&lt;/b&gt; armure naturelle +4 ; &lt;b&gt;Attaque&lt;/b&gt; corne (1d8) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 16, Dex 11, Con 13, Int 2, Sag 12, Cha 5 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; (18 m), &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 7.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; G ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +3 ; &lt;b&gt;Attaque&lt;/b&gt; corne (2d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +8, Dex -2, Con +4 ; &lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Charge-Puissante-(Capacit&#233;).html&quot; title=&quot;Charge puissante (Ext)&quot;&gt;charge puissante&lt;/a&gt; (corne, 4d6 + deux fois le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Gorthek|FP 7}
+{s:pucem|Animal|Collines|Tempéré}
+{s:BDTexte|''Source : [[Codex monstrueux (Contenu)|Codex monstrueux p.196]]''}
+{s:BDTexte|'''PX''' 3 200}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 8, pris au dépourvu 18 (-1 Dex, +10 naturelle, -1 taille)}
+{s:BDTexte|'''pv''' 85 (9d8+45)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +13, '''Vol''' +3}
+{s:BDTexte|'''RD''' 5/—}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m}
+{s:BDTexte|'''Corps à corps''' corne, +16 (2d6+16)}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 1,5 m}
+{s:BDTexte|'''Attaques spéciales''' [[Charge puissante (capacité)|charge puissante]] (corne, 4d6+22), [[Piétinement (capacité)|piétinement]] (2d6+16, DD 25)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 32, '''Dex''' 9, '''Con''' 21, '''Int''' 2, '''Sag''' 10, '''Cha''' 5}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +18 (+20 pour la [[bousculade]] ou la [[destruction]]) ; '''DMD''' 27 (29 contre la [[bousculade]] ou la [[destruction]], 31 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Coup fabuleux]], [[Science de la bousculade]], [[Science de la destruction]], [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +12}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines et plaines tempérées}
+{s:BDTexte|'''Organisation''' solitaire, couple ou troupeau (3-12)}
+{s:BDTexte|'''Trésor''' aucun}
+
+</div></td>
+<td><div>'''Ces créatures accompagnent souvent les [[Orque|orques]].'''
+
+''Cet énorme quadrupède est couvert d’une peau épaisse et toute ridée en plus d’arborer des cornes incurvées. Son visage léonin est encadré d’une crinière hirsute.''
+
+Le gorthek est sans aucun doute l’une des créatures les plus grincheuses à sillonner les étendues sauvages. Étrange combinaison entre le bison primitif et le rhinocéros ronchon, avec une tête léonine couronnée de cornes de bélier, le gorthek est à la fois immensément puissant et extrêmement difficile à blesser. Son énorme tête de bélier et son corps extrêmement résistant en font un adversaire redoutable, surtout quand il est énervé et charge à pleine puissance.
+
+Les gortheks se déplacent souvent en petits troupeaux, broutant dans les prairies isolées des climats tempérés ou sur les collines aux bois épars. Quand un gorthek perçoit une menace (ce qui, pour un gorthek, inclut à peu près tout et, souvent, les autres gortheks eux-mêmes), il se met à charger de toutes ses forces dans la ferme intention d’envoyer son ennemi valser.
+
+Les tribus orques élèvent ces bêtes dès leur naissance pour en faire des engins de siège vivants pour leurs guerres. Les futurs cavaliers gortheks se lient très tôt à ces créatures et, quand ils le peuvent, utilisent des masques gortheks afin de renforcer ces liens. Quand un orque chevauche pour la bataille, il s’installe sur le dos de son gorthek grâce à
+une lanière spécifique, attachée derrière ses énormes cornes, et guide la bête grâce à des rênes à pointes.
+
+Un gorthek mâle adulte mesure environ deux mètres dix au garrot et pèse près de 4,5 tonnes.
+
+====Le gorthek comme compagnon animal====
+'''Caractéristiques de départ.''' '''Taille''' M ; '''Vitesse''' 12 m (8 {s:c}); '''CA''' armure naturelle +4 ; '''Attaque''' corne (1d8) ; '''Caractéristiques''' For 16, Dex 11, Con 13, Int 2, Sag 12, Cha 5 ; '''Particularités''' [[vision dans le noir (capacité)|vision dans le noir]] (18 m), [[vision nocturne]].
+
+'''Développement au niveau 7.''' '''Taille''' G ; '''CA''' armure naturelle +3 ; '''Attaque''' corne (2d6) ; '''Caractéristiques''' For +8, Dex -2, Con +4 ; '''Attaques spéciales''' [[charge puissante (capacité)|charge puissante]] (corne, 4d6 + deux fois le modificateur de [[Force]]).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Gorthek</fullName>
+</wikiPage>

@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Démon, Thoxel</title>
+  <categories><category>Pathfinder-RPG.Monstre</category></categories>
+  <lastModified>2024-07-10 19:51:31Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Démon</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type démon</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Confusion mineure</link><link>Pathfinder-RPG.Ordre assassin</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Combat à deux armes</link><link>Pathfinder-RPG.Double frappe</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Domination</link><link>Pathfinder-RPG.Démon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Thoxel&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : La col&#232;re des justes p. 520&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-D&#233;mon.html&quot; title=&quot;D&#233;mon (sous-type)&quot;&gt;d&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;chaos&lt;/a&gt;) de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#201;FENSE&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 12, pris au d&#233;pourvu 18 (Armure +6,Dex +2, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 51 (6d10+18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +8, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, poison
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, froid 10, feu 10
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;ATTAQUE&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;La ligne Corps &#224; corps est une erreur jamais trait&#233;e par Paizo. Elle devrait dire &#171; double lame de ma&#238;tre, +10/+10/+5 (1d8+4/19-20) &#187;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;b&gt;Corps &#224; corps&lt;/b&gt; double lame de ma&#238;tre, +10/+10/+7 (1d8+6/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arc long composite,  +8/+3 (1d8+4/x3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; lame du tra&#238;tre, perturbation de la coordination
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 6 ; concentration +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+A volont&#233; – &lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d&#39;apparence&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt; (soi-m&#234;me et 25 kg d’objets uniquement), &lt;a class=&quot;pagelink&quot; href=&quot;Confusion-Mineure.html&quot; title=&quot;Confusion mineure&quot;&gt;confusion mineure&lt;/a&gt; (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour – &lt;a class=&quot;pagelink&quot; href=&quot;Ordre-Assassin.html&quot; title=&quot;Ordre assassin&quot;&gt;ordre assassin&lt;/a&gt; (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;CARACT&#201;RISTIQUES&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 19, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6 ; &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (double lame), &lt;a class=&quot;pagelink&quot; href=&quot;Combat-&#192;-Deux-Armes.html&quot; title=&quot;Combat &#224; deux armes&quot;&gt;Combat &#224; deux armes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Double-Frappe.html&quot; title=&quot;Double frappe&quot;&gt;Double frappe&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (arme) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (armure) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;, +11, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +8,
+&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (soldat) +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, c&#233;leste, draconique ; t&#233;l&#233;pathie 30 m
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;&#201;COLOGIE&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abysses)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, escouade (3-6) ou peloton (7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (cotte de mailles, arc long composite, double lame de ma&#238;tre, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;CAPACIT&#201;S SP&#201;CIALES&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura d&#39;insolence (Sur).&lt;/b&gt; Les cr&#233;atures adjacentes &#224; un thoxel doivent r&#233;ussir un jet de volont&#233; DD 15 pour ne pas devenir insolentes et peu coop&#233;ratives envers leurs alli&#233;s. On consid&#232;re que les cr&#233;atures affect&#233;es par cet aura ne sont plus les alli&#233;s des cr&#233;atures avec lesquelles elle coop&#233;raient avant. Une cr&#233;ature affect&#233;e ne peut pas participer &#224; une prise en tenaille, faire office d&#39;alli&#233; pour l&#39;utilisation des don de travail d&#39;&#233;quipe ou pour les action d&#39;aider quelqu&#39;un et ne permet plus &#224; ses alli&#233;s de traverses l&#39;espace qu&#39;elle occupe. Les sorts qui prennent pour cible des cr&#233;atures consentantes &#233;chouent si elle sont utilis&#233;es sur une cr&#233;ature affect&#233;e par cet aura. De plus les effets inoffensifs n&#233;cessitent un jet d&#39;attaque (si possible) et la cr&#233;ature doit effectuer un jet de sauvegarde contre eux. Une cr&#233;ature affect&#233;e reste insolente aussi longtemps qu&#39;elle reste adjacente au thoxel et pendant 1d4 rounds par la suite. Une cr&#233;ature qui r&#233;ussit son jet de sauvegarde ne peut plus &#234;tre victime de l&#39;aura d&#39;un m&#234;me thoxel pendant les prochaines 24 heures. Les thoxels sont immunis&#233;s &#224; cet effet. le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Lame du tra&#238;tre (Sur).&lt;/b&gt; Si un thoxel parvient &#224; frapper une m&#234;me cr&#233;ature avec les deux lames de son arme lors d&#39;un m&#234;me round, le coup oblige cette cr&#233;ature &#224; agresser son chef. Elle peut annuler en r&#233;ussissant un jet de Volont&#233; DD 15. Une cr&#233;ature affect&#233;e par cet effet se retourne contre son chef ou son commandant et l&#39;attaque comme si elle &#233;tait &lt;a class=&quot;pagelink&quot; href=&quot;Domination.html&quot; title=&quot;Domination&quot;&gt;domin&#233;e&lt;/a&gt; pendant 1d6 rounds. Un compagnon animal, un compagnon d&#39;arme ou un familier doit attaquer son ma&#238;tre et une cr&#233;ature appel&#233;e, charm&#233;e, domin&#233;e ou convoqu&#233;e doit attaquer la cr&#233;ature qui la contr&#244;le. SI une cr&#233;ature n&#39;a pas de chef, elle attaque &#224; la place un alli&#233; d&#233;termin&#233; al&#233;atoirement. C&#39;est un effet mental de coercition et le DD du jet de sauvegarde est bas&#233; sur le charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Perturbation de la coordination (Sur).&lt;/b&gt; A chaque fois qu&#39;une cr&#233;ature menac&#233;e par un thoxel effectue l&#39;action d&#39;aider quelqu&#39;un, le thoxel peut, par une action imm&#233;diate, tenter d&#39;interrompre et d&#39;annuler l&#39;action. Le thoxel doit effectuer un jet d&#39;attaque. Le r&#233;sultat du jet d&#39;attaque obtenu par la cr&#233;ature qui aide quelqu&#39;un doit &#234;tre sup&#233;rieur ou &#233;gal &#224; celui du d&#233;mon, sinon l&#39;action est annul&#233;e.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;mon.html&quot; title=&quot;Les d&#233;mons&quot;&gt;d&#233;mons&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;La peau br&#251;l&#233;e et cireuse de cette cr&#233;ature est couverte de cicatrices d&#39;un blanc cadav&#233;rique et de pans de chaires rouge mise &#224; nue. Elle donne l&#39;impression d&#39;avoir subit mille coup de fouets et marques au fer rouge.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les thoxels, &#233;galement appel&#233;s d&#233;mons de l&#39;insubordination peuvent prendre l&#39;apparence de soldats d&#39;infanterie afin d&#39;infecter, tel un cancer, les rangs des arm&#233;es ennemies. Il consacrent la moindre parcelle de leur ruse malveillante &#224; saper l&#39;esprit de coop&#233;ration qui r&#232;gne entre les cr&#233;atures form&#233;es &#224; combattre ensemble. Parmi les soldats mortels, les thoxels murmurent des paroles d&#233;sobligeantes envers les commandants, parlent tout bas du danger des batailles &#224; venir ou d&#233;nigrent les exploits accomplis par les autres soldats. On raconte de nombre de grandes batailles ont &#233;t&#233; perdues &#224; cause de la pr&#233;sence subtile mais d&#233;vastatrice de ces d&#233;mons au sein d&#39;une arm&#233;e. Ils incarnent le massacre pour le plaisir, sans soucis des ordres, du contr&#244;le et de leurs alli&#233;s. Malgr&#233; leurs importantes comp&#233;tences martiales, les thoxels sont des cr&#233;atures paresseuses et peu digne de confiance. Ils mesurent 1,80 m&#232;tres de haut pour un poids de 100 kilogrammes.
+&lt;/div&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Thoxel|FP 5}
+{s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
+{s:BDTexte|''Source : La colère des justes p. 520''}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type démon|démon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Chaos|chaos]]) de taille M, CM}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[vision dans le noir]] 18 m ; [[Perception]] +13}
+(((DÉFENSE)))
+{s:BDTexte|'''CA''' 20, contact 12, pris au dépourvu 18 (Armure +6,Dex +2, naturelle +2)}
+{s:BDTexte|'''pv''' 51 (6d10+18)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +8, '''Vol''' +2}
+{s:BDTexte|'''Immunités''' électricité, poison}
+{s:BDTexte|'''Résistances''' acide 10, froid 10, feu 10}
+(((ATTAQUE)))
+{s:BDTexte|'''VD''' 6 m}
+{s:BDTexte|{s:Desambi|La ligne Corps à corps est une erreur jamais traitée par Paizo. Elle devrait dire « double lame de maître, +10/+10/+5 (1d8+4/19-20) ».}'''Corps à corps''' double lame de maître, +10/+10/+7 (1d8+6/19-20)}
+{s:BDTexte|'''Distance''' arc long composite,  +8/+3 (1d8+4/x3)}
+{s:BDTexte|'''Attaques spéciales''' lame du traître, perturbation de la coordination}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 6 ; concentration +8)}
+{s:BDSorts|A volonté – [[modification dapparence|modification d'apparence]], [[téléportation suprême]] (soi-même et 25 kg d’objets uniquement), [[confusion mineure]] (DD 13)}
+{s:BDSorts|3/jour – [[ordre assassin]] (DD 13)}
+(((CARACTÉRISTIQUES)))
+{s:BDTexte|'''For''' 19, '''Dex''' 15, '''Con''' 17, '''Int''' 8, '''Sag''' 10, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +10, '''DMD''' 22}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (double lame), [[Combat à deux armes]], [[Double frappe]]}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (arme) +4, [[Artisanat]] (armure) +4, [[Bluff]], +11, [[Déguisement]] +8,
+[[Intimidation]] +8, [[Perception]] +13, [[Profession]] (soldat) +9}
+{s:BDTexte|'''Modificateurs raciaux''' +8 en [[Perception]]}
+{s:BDTexte|'''Langues''' abyssal, céleste, draconique ; télépathie 30 m}
+(((ÉCOLOGIE)))
+{s:BDTexte|'''Environnement''' tous (Abysses)}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, escouade (3-6) ou peloton (7-12)}
+{s:BDTexte|'''Trésor''' standard (cotte de mailles, arc long composite, double lame de maître, autres trésors)}
+(((CAPACITÉS SPÉCIALES)))
+{s:BDTexte|'''Aura d'insolence (Sur).''' Les créatures adjacentes à un thoxel doivent réussir un jet de volonté DD 15 pour ne pas devenir insolentes et peu coopératives envers leurs alliés. On considère que les créatures affectées par cet aura ne sont plus les alliés des créatures avec lesquelles elle coopéraient avant. Une créature affectée ne peut pas participer à une prise en tenaille, faire office d'allié pour l'utilisation des don de travail d'équipe ou pour les action d'aider quelqu'un et ne permet plus à ses alliés de traverses l'espace qu'elle occupe. Les sorts qui prennent pour cible des créatures consentantes échouent si elle sont utilisées sur une créature affectée par cet aura. De plus les effets inoffensifs nécessitent un jet d'attaque (si possible) et la créature doit effectuer un jet de sauvegarde contre eux. Une créature affectée reste insolente aussi longtemps qu'elle reste adjacente au thoxel et pendant 1d4 rounds par la suite. Une créature qui réussit son jet de sauvegarde ne peut plus être victime de l'aura d'un même thoxel pendant les prochaines 24 heures. Les thoxels sont immunisés à cet effet. le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Lame du traître (Sur).''' Si un thoxel parvient à frapper une même créature avec les deux lames de son arme lors d'un même round, le coup oblige cette créature à agresser son chef. Elle peut annuler en réussissant un jet de Volonté DD 15. Une créature affectée par cet effet se retourne contre son chef ou son commandant et l'attaque comme si elle était [[Domination|dominée]] pendant 1d6 rounds. Un compagnon animal, un compagnon d'arme ou un familier doit attaquer son maître et une créature appelée, charmée, dominée ou convoquée doit attaquer la créature qui la contrôle. SI une créature n'a pas de chef, elle attaque à la place un allié déterminé aléatoirement. C'est un effet mental de coercition et le DD du jet de sauvegarde est basé sur le charisme.}
+{s:BDTexte|'''Perturbation de la coordination (Sur).''' A chaque fois qu'une créature menacée par un thoxel effectue l'action d'aider quelqu'un, le thoxel peut, par une action immédiate, tenter d'interrompre et d'annuler l'action. Le thoxel doit effectuer un jet d'attaque. Le résultat du jet d'attaque obtenu par la créature qui aide quelqu'un doit être supérieur ou égal à celui du démon, sinon l'action est annulée.}
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Démon|démons]].'''''</li></ul>
+''La peau brûlée et cireuse de cette créature est couverte de cicatrices d'un blanc cadavérique et de pans de chaires rouge mise à nue. Elle donne l'impression d'avoir subit mille coup de fouets et marques au fer rouge.''
+
+Les thoxels, également appelés démons de l'insubordination peuvent prendre l'apparence de soldats d'infanterie afin d'infecter, tel un cancer, les rangs des armées ennemies. Il consacrent la moindre parcelle de leur ruse malveillante à saper l'esprit de coopération qui règne entre les créatures formées à combattre ensemble. Parmi les soldats mortels, les thoxels murmurent des paroles désobligeantes envers les commandants, parlent tout bas du danger des batailles à venir ou dénigrent les exploits accomplis par les autres soldats. On raconte de nombre de grandes batailles ont été perdues à cause de la présence subtile mais dévastatrice de ces démons au sein d'une armée. Ils incarnent le massacre pour le plaisir, sans soucis des ordres, du contrôle et de leurs alliés. Malgré leurs importantes compétences martiales, les thoxels sont des créatures paresseuses et peu digne de confiance. Ils mesurent 1,80 mètres de haut pour un poids de 100 kilogrammes.
+</div>
+
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Thoxel</fullName>
+</wikiPage>

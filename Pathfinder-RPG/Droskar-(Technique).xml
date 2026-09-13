@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Droskar</title>
+  <categories><category>Pathfinder-RPG.Divinité</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-09-08 15:03:08Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Anneau guide de Droskar</link><link>Pathfinder-RPG.Anneau guide de Droskar</link><link>Pathfinder-RPG.Armure du labeur interminable</link><link>Pathfinder-RPG.Couvre-chef du vieux parieur</link><link>Pathfinder-RPG.Couvre-chef du vieux parieur</link><link>Pathfinder-RPG.duergar (race)</link><link>Pathfinder-RPG.Traits religieux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.duergar (race)</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.marteau léger (arme)</link><link>Pathfinder-RPG.Domaine de lArtisanat</link><link>Pathfinder-RPG.Domaine du Charme</link><link>Pathfinder-RPG.Domaine de la Duperie</link><link>Pathfinder-RPG.Domaine du Mal</link><link>Pathfinder-RPG.Domaine de lObscurité</link><link>Pathfinder-RPG.Armure du labeur interminable</link><link>Pathfinder-RPG.Anneau guide de Droskar</link><link>Pathfinder-RPG.Couvre-chef du vieux parieur</link><link>Pathfinder-RPG.Traits religieux</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fDroskar.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;%2fPCUP%2fReligion-PNG%2fDroskar.png&lt;/i&gt;&quot;); }
+  let align = &quot;Neutre Mauvais&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Droskar,&lt;br/&gt;Le Sombre Forgeron&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fDroskar.png&quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#RACIALES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Divinit&#233;s naines&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Neutre Mauvais&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Esclavage, infid&#233;lit&#233; et labeur
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duergar-(Race).html&quot; title=&quot;Les duergars&quot;&gt;Duergars&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Scarab&#233;e
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marteau-L&#233;ger-(Arme).html&quot; title=&quot;Marteau l&#233;ger&quot;&gt;Marteau l&#233;ger&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Lartisanat.html&quot; title=&quot;Domaine de l&amp;#39;Artisanat&quot;&gt;Artisanat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Charme.html&quot; title=&quot;Domaine du Charme&quot;&gt;Charme&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Duperie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Lobscurit&#233;.html&quot; title=&quot;Domaine de l&amp;#39;Obscurit&#233;&quot;&gt;Obscurit&#233;&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Lartisanat.html&quot; title=&quot;Domaine de l&amp;#39;Artisanat&quot;&gt;Construction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Da&#233;mons&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Espionnage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Lartisanat.html&quot; title=&quot;Domaine de l&amp;#39;Artisanat&quot;&gt;Labeur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-Lobscurit&#233;.html&quot; title=&quot;Domaine de l&amp;#39;Obscurit&#233;&quot;&gt;Perte&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Supercherie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Voleurs&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;pagelink&quot; href=&quot;../Golarion/Droskar.html&quot; title=&quot;Droskar, le Sombre Forgeron&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;M&#234;me si la plupart des &#233;rudits de Golarion pensent qu’il est mort, le culte de Droskar est la foi la plus r&#233;pandue chez les duergars. En son nom, ceux-ci produisent &#224; tour de bras des armes et des armures destin&#233;es &#224; des conflits se d&#233;roulant loin sous la surface. Il enseigne que le travail r&#233;p&#233;titif am&#233;liore les comp&#233;tences et que si on est suffisamment passionn&#233;, on peut arriver &#224; de grandes choses. Ceux qui peinent sans y arriver ne travaillent pas assez dur ou n’y mettent pas tout leur cœur. Droskar pense que l’utilisation d’une main d’œuvre servile permet aux artisans de se consacrer aux aspects cr&#233;atifs du travail sans plus s’inqui&#233;ter des petits d&#233;tails ; les esclaves font aussi de bons boucs &#233;missaires lorsque le rendement n’est pas conforme aux pr&#233;visions. Il existe une forte comp&#233;tition dans les rangs des fid&#232;les et celui qui parvient &#224; cr&#233;er quelque chose d’exceptionnel ou d’innovant doit se m&#233;fier de ses rivaux ou de ses sup&#233;rieurs, qui pourraient lui voler son invention ou s’en attribuer tout le m&#233;rite.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Options de personnage th&#233;matiques&lt;a class=&quot;headeranchor&quot; id=&quot;Options_de_personnage_th&#233;matiques_0&quot; href=&quot;#Options_de_personnage_th&#233;matiques_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;article_2col&quot;&gt;
+&lt;b&gt;Objets magiques - Armures.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armure-Du-Labeur-Interminable.html&quot; title=&quot;Armure du labeur interminable&quot;&gt;Armure du labeur interminable&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Objets magiques - Anneaux.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Anneau-Guide-De-Droskar.html&quot; title=&quot;Anneau guide de Droskar&quot;&gt;Anneau guide de Droskar&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Objets magiques - Objets merveilleux.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Couvre-Chef-Du-Vieux-Parieur.html&quot; title=&quot;Couvre-chef du vieux parieur&quot;&gt;Couvre-chef du vieux parieur&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Traits.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Religieux.html#ARTISANCONSCIENCIEUX&quot; title=&quot;Les traits religieux&quot;&gt;Artisant consciencieux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Religieux.html#LABEURINTERMINABLE&quot; title=&quot;Les traits religieux&quot;&gt;labeur interminable&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Traits-Religieux.html#RESIGNE&quot; title=&quot;Les traits religieux&quot;&gt;r&#233;sign&#233;&lt;/a&gt;.
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Droskar|Droskar,<br/>Le Sombre Forgeron|%2fPCUP%2fReligion-PNG%2fDroskar.png|[[Divinités#RACIALES|Divinités naines]]
+|Neutre Mauvais|Esclavage, infidélité et labeur
+|[[Duergar (race)|Duergars]], [[Nain|nains]]|Scarabée
+|[[Marteau léger (arme)|Marteau léger]]
+|[[Domaine de lArtisanat|Artisanat]], [[Domaine du Charme|Charme]], [[Domaine de la Duperie|Duperie]], [[Domaine du Mal|Mal]], [[Domaine de lObscurité|Obscurité]]
+|[[Domaine de lArtisanat|Construction]], [[Domaine du Mal|Daémons]], [[Domaine de la Duperie|Espionnage]], [[Domaine de lArtisanat|Labeur]], [[Domaine de lObscurité|Perte]], [[Domaine de la Duperie|Supercherie]], [[Domaine de la Duperie|Voleurs]]
+|—}{s:cs}{s:ISG}Même si la plupart des érudits de Golarion pensent qu’il est mort, le culte de Droskar est la foi la plus répandue chez les duergars. En son nom, ceux-ci produisent à tour de bras des armes et des armures destinées à des conflits se déroulant loin sous la surface. Il enseigne que le travail répétitif améliore les compétences et que si on est suffisamment passionné, on peut arriver à de grandes choses. Ceux qui peinent sans y arriver ne travaillent pas assez dur ou n’y mettent pas tout leur cœur. Droskar pense que l’utilisation d’une main d’œuvre servile permet aux artisans de se consacrer aux aspects créatifs du travail sans plus s’inquiéter des petits détails ; les esclaves font aussi de bons boucs émissaires lorsque le rendement n’est pas conforme aux prévisions. Il existe une forte compétition dans les rangs des fidèles et celui qui parvient à créer quelque chose d’exceptionnel ou d’innovant doit se méfier de ses rivaux ou de ses supérieurs, qui pourraient lui voler son invention ou s’en attribuer tout le mérite.
+
+===Options de personnage thématiques===
+<div class="article_2col">
+'''Objets magiques - Armures.''' [[Armure du labeur interminable]].
+
+'''Objets magiques - Anneaux.''' [[Anneau guide de Droskar]].
+
+'''Objets magiques - Objets merveilleux.''' [[Couvre-chef du vieux parieur]].
+
+'''Traits.''' [[Traits religieux#ARTISANCONSCIENCIEUX|Artisant consciencieux]], [[Traits religieux#LABEURINTERMINABLE|labeur interminable]], [[Traits religieux#RESIGNE|résigné]].
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Droskar (technique)</fullName>
+</wikiPage>

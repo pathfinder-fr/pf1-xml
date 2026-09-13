@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>PNJ - Les marins</title>
+  <categories><category>Pathfinder-RPG.Classe de PNJ</category><category>Pathfinder-RPG.Src Guide du maître</category></categories>
+  <lastModified>2015-11-24 22:13:37Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Galerie de PNJ</link><link>Pathfinder-RPG.Guide du maître (Contenu)</link><link>Pathfinder-RPG.PNJ hérétiques</link><link>Pathfinder-RPG.PNJ maraudeurs</link><link>Pathfinder-RPG.PNJ marins</link><link>Pathfinder-RPG.PNJ tavernes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.combattant</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.PNJ criminels</link><link>Pathfinder-RPG.PNJ marchands</link><link>Pathfinder-RPG.PNJ maraudeurs</link><link>Pathfinder-RPG.PNJ marins</link><link>Pathfinder-RPG.PNJ tavernes</link><link>Pathfinder-RPG.PNJ routes</link><link>Pathfinder-RPG.PNJ amuseurs publiques</link><link>Pathfinder-RPG.PNJ rues</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Arme en main</link><link>Pathfinder-RPG.Athlétisme</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Combat à deux armes</link><link>Pathfinder-RPG.Maniement dune arme exotique</link><link>Pathfinder-RPG.Science du combat à deux armes</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Spécialisation martiale</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Plume magique</link><link>Pathfinder-RPG.Respiration aquatique</link><link>Pathfinder-RPG.Arme de prédilection supérieure</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Maître artisan</link><link>Pathfinder-RPG.Riposte</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Savancer</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Gemme à élémentaire</link></outLinks>
+  <body><![CDATA[&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide du ma&#238;tre (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gamemastery Guide/Guide du ma&#238;tre&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGDM.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;Dans tous les ports, on trouve des marins professionnels pr&#234;ts &#224; braver quasiment tous les oc&#233;ans, &#224; traverser les mers et &#224; faire face aux dangers en qu&#234;te de richesse, d’aventure ou simplement de la libert&#233; qu’offre le grand large. Les vieux loups de mer, les v&#233;t&#233;rans de la marine, les navigateurs marchands, les capitaines chevronn&#233;s et les pirates sanguinaires, tous ceux qui ont une exp&#233;rience sur mer et des talents pour d&#233;chiffrer l’humeur des oc&#233;ans peuvent vivre de nouvelles aventures en se laissant emporter par les flots. La mer fa&#231;onne des personnages hauts en couleurs et semble endurcir ceux qui chevauchent ses vagues, &#233;levant certains esprits vers la noblesse et en noyant d’autres vers les profondeurs sombres de la cruaut&#233;.&lt;br /&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MATELOT&quot; href=&quot;#MATELOT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Matelot&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;expert&lt;/a&gt; 1 / &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;combattant&quot;&gt;combattant&lt;/a&gt; 1 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 12, pris au d&#233;pourvu 13 (armure +3, Dex +1, esquive +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 11 (2 DV ; 1d8+1d10+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; cimeterre, +2 (1d6+1/18–20) ou dague, +2 (1d4+1/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt;arc long composite, +2 (1d8+1/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Profession [marin])
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (navires) +3, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (p&#234;cheur) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement&lt;/b&gt; armure de cuir clout&#233;e de ma&#238;tre, arc long composite [For +1] avec 20 fl&#232;ches, cimeterre, dagues (2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Un matelot peut faire entrer ou sortir discr&#232;tement un petit objet d’un bateau ou aider les PJ &#224; faire de m&#234;me en cr&#233;ant une diversion (les autres observateurs ont un malus de –4 &#224; leurs tests de Perception pour rep&#233;rer les PJ pendant 1 minute).
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;
+Les matelots sont des marins ordinaires, des membres d’&#233;quipage normaux qui permettent aux vaisseaux petits et grands de continuer &#224; flotter et &#224; avancer. Ils sont attentifs aux dangers, pleins de bon sens, habitu&#233;s aux vents, aux vagues et au
+soleil mais toujours impatients de d&#233;couvrir ce qui les attend au del&#224; de l’horizon.&lt;br /&gt;&lt;br /&gt;Les matelots peuvent repr&#233;senter des soldats marins de bas niveau, des conducteurs de barges ou de barques ou m&#234;me des habitants des marais (vivant dans des maisons sur pilotis). En rempla&#231;ant le don Esquive par Athl&#233;tisme, on r&#233;duit la CA et le DMD de 1 mais on accro&#238;t les comp&#233;tences d’Escalade et de Natation de 2 chacune. En d&#233;pla&#231;ant les rangs de Profession (p&#234;cheur) en Linguistique ou en Connaissances, on peut obtenir un marin qui a visit&#233; le monde et conna&#238;t des terres et des langages exotiques.&lt;br /&gt;&lt;br /&gt;Sur un vaisseau, les matelots peuvent former un &#233;quipage servant divers types de personnages : huit matelots peuvent travailler pour un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Criminels.html#ESCLAVAGISTE&quot; title=&quot;PNJ - Les criminels&quot;&gt;esclavagiste&lt;/a&gt; d’alignement Mauvais (FP 6), un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marchands.html#MARCHANDITINERANT&quot; title=&quot;PNJ - Les marchands&quot;&gt;marchand itin&#233;rant&lt;/a&gt; qui voyage sur mer (FP 7), un pilleur &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Maraudeurs.html#VIKING&quot; title=&quot;PNJ - Les maraudeurs&quot;&gt;viking&lt;/a&gt; (FP 8) ou un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Maraudeurs.html#CAPITAINEPIRATE&quot; title=&quot;PNJ - Les maraudeurs&quot;&gt;capitaine pirate&lt;/a&gt; et son &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marins.html#SECOND&quot; title=&quot;PNJ - Les marins&quot;&gt;second&lt;/a&gt; (FP 12). Sur terre, six matelots peuvent former un groupe de recrutement &#224; la recherche de proies faciles &#224; ajouter &#224; l’&#233;quipage d’un vaisseau pirate (FP 4). Un matelot peut &#234;tre vu en compagnie d’une &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tavernes.html#SERVEUSE&quot; title=&quot;PNJ - Les tavernes&quot;&gt;serveuse&lt;/a&gt; (FP 1) ou avec un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Routes.html#VAGABOND&quot; title=&quot;PNJ - Les routes&quot;&gt;vagabond&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Amuseurs-Publiques.html#CONTEUR&quot; title=&quot;PNJ - Les amuseurs publics&quot;&gt;conteur&lt;/a&gt; (FP 2). Deux matelots peuvent s’acoquiner avec un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Tavernes.html#IVROGNE&quot; title=&quot;PNJ - Les tavernes&quot;&gt;ivrogne&lt;/a&gt; ou une &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Rues.html#PEOSTITUEE&quot; title=&quot;PNJ - Les rues&quot;&gt;prostitu&#233;e&lt;/a&gt; pendant que leur navire est &#224; quai (FP 3).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SECOND&quot; href=&quot;#SECOND&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Second&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;expert&lt;/a&gt; 4 / &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 21, contact 14, pris au d&#233;pourvu 17 (armure +7, Dex +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 63 (9 DV ; 4d8+5d10+18)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +6 ; +1 contre la terreur
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; courage +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;&#233;p&#233;e courte +1&lt;/i&gt;, +15/+10 (1d6+6/17–20) ou &lt;i&gt;&#233;p&#233;e courte +1&lt;/i&gt;, +13/+8 (1d6+6/17–20), &lt;i&gt;&#233;p&#233;e courte +1&lt;/i&gt;, +13/+8 (1d6+5/17–20) ou &lt;i&gt;&#233;p&#233;e courte +1&lt;/i&gt;, +13/+8 (1d6+6/17–20), fouet de ma&#238;tre, +11 (1d3+1 non l&#233;tal)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; arbal&#232;te lourde de ma&#238;tre, +13 (1d10/19–20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1,50 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (4,50 m avec fouet)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; entra&#238;nement aux armes (lames l&#233;g&#232;res +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 14, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +8, &lt;b&gt;BMO&lt;/b&gt; +10, &lt;b&gt;DMD&lt;/b&gt; 24
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (&#233;p&#233;e courte), &lt;a class=&quot;pagelink&quot; href=&quot;Arme-En-Main.html&quot; title=&quot;Arme en main&quot;&gt;Arme en main&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Athl&#233;tisme.html&quot; title=&quot;Athl&#233;tisme&quot;&gt;Athl&#233;tisme&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Combat-&#192;-Deux-Armes.html&quot; title=&quot;Combat &#224; deux armes&quot;&gt;Combat &#224; deux armes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Maniement-Dune-Arme-Exotique.html&quot; title=&quot;Maniement d&amp;#39;une arme exotique&quot;&gt;Maniement d’une arme exotique&lt;/a&gt; (fouet), &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Combat-&#192;-Deux-Armes.html&quot; title=&quot;Science du combat &#224; deux armes&quot;&gt;Science du combat &#224; deux armes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (&#233;p&#233;e courte), &lt;a class=&quot;pagelink&quot; href=&quot;Sp&#233;cialisation-Martiale.html&quot; title=&quot;Sp&#233;cialisation martiale&quot;&gt;Sp&#233;cialisation martiale&lt;/a&gt; (&#233;p&#233;e courte)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (navires) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (g&#233;ographie) +3, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +3, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) +12, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (chant) +4, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (instruments &#224; vent) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique, commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; entra&#238;nement aux armures 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plume-Magique.html&quot; title=&quot;Plume magique&quot;&gt;plumes magiques&lt;/a&gt;&lt;/i&gt; (ancre, &#233;ventail), potion de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Respiration-Aquatique.html&quot; title=&quot;Respiration aquatique&quot;&gt;respiration aquatique&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Autre &#233;quipement&lt;/b&gt; &lt;i&gt;cuirasse +1&lt;/i&gt;, arbal&#232;te lourde de ma&#238;tre avec 10 carreaux, &lt;i&gt;&#233;p&#233;es courtes +1&lt;/i&gt; (2), fouet de ma&#238;tre, &lt;i&gt;anneau de nage&lt;/i&gt;, torche &#233;ternelle, instrument de musique (concertina ou fifre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Un second peut arranger une entrevue entre les PJ et un capitaine ou un prince marchand faisant partie de ses connaissances, et leur octroyer un bonus de circonstances de +2 aux tests de Diplomatie gr&#226;ce &#224; sa r&#233;putation. Il peut aussi accompagner les PJ dans une chaloupe et avec un &#233;quipage de quatre matelots pendant 1 journ&#233;e.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;
+Le second est l’assistant loyal du capitaine d’un navire. Craint, mais respect&#233;, il veille &#224; la discipline et &#224; l’accomplissement des travaux &#224; bord du vaisseau. Il peut se donner en spectacle avec des chansons de matelots &#224; un moment donn&#233; puis faire claquer son fouet ou tirer ses sabres au clair la minute qui suit.&lt;br /&gt;&lt;br /&gt;Un second peut aussi &#234;tre le gardien d’une &#238;le-prison exotique. Sur terre, les seconds sont parfois accompagn&#233;s d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marchands.html#MARCHANDITINERANT&quot; title=&quot;PNJ - Les marchands&quot;&gt;marchand itin&#233;rant&lt;/a&gt; agissant comme intendant (FP 9) ou d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marins.html#CAPITAINE&quot; title=&quot;PNJ - Les marins&quot;&gt;capitaine&lt;/a&gt; (FP 12).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CAPITAINE&quot; href=&quot;#CAPITAINE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Capitaine&lt;div style=&quot;float:right;&quot;&gt;FP 11&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 12 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Humain &lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;expert&lt;/a&gt; 3 / &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; 9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 25, contact 11, pris au d&#233;pourvu 24 (armure +10, bouclier +3, Dex +1, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 89 (12 DV ; 3d8+9d10+26)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +11, &lt;b&gt;Vol&lt;/b&gt; +8 ; +2 contre la terreur
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; courage +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &lt;i&gt;trident d’alerte sous-marine&lt;/i&gt;, +22/+17 (1d8+11) ou lam&#233;toile, +18/+13 (1d4+7/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;A distance&lt;/b&gt; arc long composite +1, +14/+9 (1d8+7/&#215;3) ou lam&#233;toile, +14 (1d4+7/&#215;3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 1,50 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m (4,50 m avec fouet)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; entra&#238;nement aux armes (arcs +1, armes de lancer +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +11, &lt;b&gt;BMO&lt;/b&gt; +16, &lt;b&gt;DMD&lt;/b&gt; 27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (trident), &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection-Sup&#233;rieure.html&quot; title=&quot;Arme de pr&#233;dilection sup&#233;rieure&quot;&gt;Arme de pr&#233;dilection sup&#233;rieure&lt;/a&gt; (trident), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d’objets merveilleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Artisan.html&quot; title=&quot;Ma&#238;tre artisan&quot;&gt;Ma&#238;tre artisan&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Riposte.html&quot; title=&quot;Riposte&quot;&gt;Riposte&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Savancer.html&quot; title=&quot;S&amp;#39;avancer&quot;&gt;S’avancer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sp&#233;cialisation-Martiale.html&quot; title=&quot;Sp&#233;cialisation martiale&quot;&gt;Sp&#233;cialisation martiale&lt;/a&gt; (trident), &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Profession [marin])
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt;(navires) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (g&#233;ographie) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (ing&#233;nierie) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (noblesse) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marchand) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (marin) +21, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (claviers) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique, a&#233;rien, commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; entra&#238;nement aux armures 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gemme-&#192;-&#201;l&#233;mentaire.html&quot; title=&quot;Gemme &#224; &#233;l&#233;mentaire&quot;&gt;gemme &#224; &#233;l&#233;mentaire&lt;/a&gt;&lt;/i&gt; (eau) ; &lt;b&gt;Autre &#233;quipement&lt;/b&gt; &lt;i&gt;&#233;cu en bois +1&lt;/i&gt;, &lt;i&gt;harnois +1&lt;/i&gt;, &lt;i&gt;arc long composite +1&lt;/i&gt; [For +5] avec 20 fl&#232;ches, lam&#233;toile, &lt;i&gt;trident d’alerte sous-marine&lt;/i&gt;, &lt;i&gt;amulette d’armure naturelle +1&lt;/i&gt;, &lt;i&gt;cape de r&#233;sistance +2&lt;/i&gt;, &lt;i&gt;ceinturon de force de g&#233;ant +2&lt;/i&gt;, &lt;i&gt;gants de nage et d’escalade&lt;/i&gt;, instrument de musique (clavecin ou petit orgue), longue-vue
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faveur&lt;/b&gt; Un capitaine peut organiser un voyage vers n’importe quelle destination accessible en bateau (pour les PJ ou pour une cargaison). Il peut aider les PJ &#224; trouver comment se rendre vers une destination peu connue (bonus de +5 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; [g&#233;ographie] ou autres tests pertinents). S’il travaille pour une organisation plus importante, il peut aussi promulguer des d&#233;crets officiels en son nom.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;
+En mer, le capitaine est le seul ma&#238;tre &#224; bord. Il peut &#234;tre une autorit&#233; l&#233;gale et un repr&#233;sentant pour sa nation, sa compagnie, sa foi ou sa faction ou bien un capitaine ind&#233;pendant qui n’a aucun compte &#224; rendre et pas d’autres demeures que la mer.&lt;br /&gt;&lt;br /&gt;Un capitaine peut &#234;tre utilis&#233; comme pirate, amiral ou ma&#238;tre marchand. Il est g&#233;n&#233;ralement accompagn&#233; d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marins.html#SECOND&quot; title=&quot;PNJ - Les marins&quot;&gt;second&lt;/a&gt; et d’un &lt;a class=&quot;pagelink&quot; href=&quot;Pnj-Marchands.html#MARCHANDITINERANT&quot; title=&quot;PNJ - Les marchands&quot;&gt;marchand itin&#233;rant&lt;/a&gt; agissant comme intendant (FP 12).
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:GdM}Dans tous les ports, on trouve des marins professionnels prêts à braver quasiment tous les océans, à traverser les mers et à faire face aux dangers en quête de richesse, d’aventure ou simplement de la liberté qu’offre le grand large. Les vieux loups de mer, les vétérans de la marine, les navigateurs marchands, les capitaines chevronnés et les pirates sanguinaires, tous ceux qui ont une expérience sur mer et des talents pour déchiffrer l’humeur des océans peuvent vivre de nouvelles aventures en se laissant emporter par les flots. La mer façonne des personnages hauts en couleurs et semble endurcir ceux qui chevauchent ses vagues, élevant certains esprits vers la noblesse et en noyant d’autres vers les profondeurs sombres de la cruauté.
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|MATELOT}
+{s:BDTitre|Matelot|FP 1/2}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|Humain [[expert]] 1 / [[combattant]] 1 }
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Perception]] +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 12, pris au dépourvu 13 (armure +3, Dex +1, esquive +1)}
+{s:BDTexte|'''pv''' 11 (2 DV ; 1d8+1d10+2)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +3, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' cimeterre, +2 (1d6+1/18–20) ou dague, +2 (1d4+1/19–20)}
+{s:BDTexte|'''A distance'''arc long composite, +2 (1d8+1/×3)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 13, '''Con''' 12, '''Int''' 8, '''Sag''' 10, '''Cha''' 9}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Esquive]], [[Talent]] (Profession <nowiki>[</nowiki>marin<nowiki>]</nowiki>)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +5, [[Artisanat]] (navires) +3, [[Escalade]] +5, [[Natation]] +5, [[Perception]] +4, [[Profession]] (marin) +8, [[Profession]] (pêcheur) +4, [[Survie]] +4}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Équipement''' armure de cuir cloutée de maître, arc long composite <nowiki>[</nowiki>For +1<nowiki>]</nowiki> avec 20 flèches, cimeterre, dagues (2)}
+{s:BDTexte|'''Faveur''' Un matelot peut faire entrer ou sortir discrètement un petit objet d’un bateau ou aider les PJ à faire de même en créant une diversion (les autres observateurs ont un malus de –4 à leurs tests de Perception pour repérer les PJ pendant 1 minute).}
+</div></td>
+<td><div>
+Les matelots sont des marins ordinaires, des membres d’équipage normaux qui permettent aux vaisseaux petits et grands de continuer à flotter et à avancer. Ils sont attentifs aux dangers, pleins de bon sens, habitués aux vents, aux vagues et au
+soleil mais toujours impatients de découvrir ce qui les attend au delà de l’horizon.
+
+Les matelots peuvent représenter des soldats marins de bas niveau, des conducteurs de barges ou de barques ou même des habitants des marais (vivant dans des maisons sur pilotis). En remplaçant le don Esquive par Athlétisme, on réduit la CA et le DMD de 1 mais on accroît les compétences d’Escalade et de Natation de 2 chacune. En déplaçant les rangs de Profession (pêcheur) en Linguistique ou en Connaissances, on peut obtenir un marin qui a visité le monde et connaît des terres et des langages exotiques.
+
+Sur un vaisseau, les matelots peuvent former un équipage servant divers types de personnages : huit matelots peuvent travailler pour un [[PNJ criminels#ESCLAVAGISTE|esclavagiste]] d’alignement Mauvais (FP 6), un [[PNJ marchands#MARCHANDITINERANT|marchand itinérant]] qui voyage sur mer (FP 7), un pilleur [[PNJ maraudeurs#VIKING|viking]] (FP 8) ou un [[PNJ maraudeurs#CAPITAINEPIRATE|capitaine pirate]] et son [[PNJ marins#SECOND|second]] (FP 12). Sur terre, six matelots peuvent former un groupe de recrutement à la recherche de proies faciles à ajouter à l’équipage d’un vaisseau pirate (FP 4). Un matelot peut être vu en compagnie d’une [[PNJ tavernes#SERVEUSE|serveuse]] (FP 1) ou avec un [[PNJ routes#VAGABOND|vagabond]] ou un [[PNJ amuseurs publiques#CONTEUR|conteur]] (FP 2). Deux matelots peuvent s’acoquiner avec un [[PNJ tavernes#IVROGNE|ivrogne]] ou une [[PNJ rues#PEOSTITUEE|prostituée]] pendant que leur navire est à quai (FP 3).
+</div></td></tr></table>
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|SECOND}
+{s:BDTitre|Second|FP 8}
+{s:BDTexte|'''PX''' 4 800}
+{s:BDTexte|Humain [[expert]] 4 / [[guerrier]] 5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 21, contact 14, pris au dépourvu 17 (armure +7, Dex +4)}
+{s:BDTexte|'''pv''' 63 (9 DV ; 4d8+5d10+18)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +7, '''Vol''' +6 ; +1 contre la terreur}
+{s:BDTexte|'''Capacités défensives''' courage +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' ''épée courte +1'', +15/+10 (1d6+6/17–20) ou ''épée courte +1'', +13/+8 (1d6+6/17–20), ''épée courte +1'', +13/+8 (1d6+5/17–20) ou ''épée courte +1'', +13/+8 (1d6+6/17–20), fouet de maître, +11 (1d3+1 non létal)}
+{s:BDTexte|'''A distance''' arbalète lourde de maître, +13 (1d10/19–20)}
+{s:BDTexte|'''Espace''' 1,50 m ; '''Allonge''' 1,50 m (4,50 m avec fouet)}
+{s:BDTexte|'''Attaque spéciale''' entraînement aux armes (lames légères +1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 14, '''Dex''' 18, '''Con''' 14, '''Int''' 8, '''Sag''' 12, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +8, '''BMO''' +10, '''DMD''' 24}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (épée courte), [[Arme en main]], [[Athlétisme]], [[Attaque en finesse]], [[Combat à deux armes]], [[Maniement dune arme exotique|Maniement d’une arme exotique]] (fouet), [[Science du combat à deux armes]], [[Science du critique]] (épée courte), [[Spécialisation martiale]] (épée courte)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +13, [[Artisanat]] (navires) +5, [[Connaissances]] (géographie) +3, [[Connaissances]] (nature) +3, [[Escalade]] +10, [[Intimidation]] +5, [[Linguistique]] +3, [[Natation]] +13, [[Perception]] +10, [[Profession]] (marin) +12, [[Représentation]] (chant) +4, [[Représentation]] (instruments à vent) +5, [[Survie]] +5}
+{s:BDTexte|'''Langues''' aquatique, commun}
+{s:BDTexte|'''Particularités''' entraînement aux armures 1}
+{s:BDTexte|'''Équipement de combat''' ''[[Plume magique|plumes magiques]]'' (ancre, éventail), potion de ''[[respiration aquatique]]'' ; '''Autre équipement''' ''cuirasse +1'', arbalète lourde de maître avec 10 carreaux, ''épées courtes +1'' (2), fouet de maître, ''anneau de nage'', torche éternelle, instrument de musique (concertina ou fifre)}
+{s:BDTexte|'''Faveur''' Un second peut arranger une entrevue entre les PJ et un capitaine ou un prince marchand faisant partie de ses connaissances, et leur octroyer un bonus de circonstances de +2 aux tests de Diplomatie grâce à sa réputation. Il peut aussi accompagner les PJ dans une chaloupe et avec un équipage de quatre matelots pendant 1 journée.}
+</div></td>
+<td><div>
+Le second est l’assistant loyal du capitaine d’un navire. Craint, mais respecté, il veille à la discipline et à l’accomplissement des travaux à bord du vaisseau. Il peut se donner en spectacle avec des chansons de matelots à un moment donné puis faire claquer son fouet ou tirer ses sabres au clair la minute qui suit.
+
+Un second peut aussi être le gardien d’une île-prison exotique. Sur terre, les seconds sont parfois accompagnés d’un [[PNJ marchands#MARCHANDITINERANT|marchand itinérant]] agissant comme intendant (FP 9) ou d’un [[PNJ marins#CAPITAINE|capitaine]] (FP 12).
+</div></td></tr></table>
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|CAPITAINE}
+{s:BDTitre|Capitaine|FP 11}
+{s:BDTexte|'''PX''' 12 800}
+{s:BDTexte|Humain [[expert]] 3 / [[guerrier]] 9}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 25, contact 11, pris au dépourvu 24 (armure +10, bouclier +3, Dex +1, naturelle +1)}
+{s:BDTexte|'''pv''' 89 (12 DV ; 3d8+9d10+26)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +11, '''Vol''' +8 ; +2 contre la terreur}
+{s:BDTexte|'''Capacités défensives''' courage +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' ''trident d’alerte sous-marine'', +22/+17 (1d8+11) ou lamétoile, +18/+13 (1d4+7/×3)}
+{s:BDTexte|'''A distance''' arc long composite +1, +14/+9 (1d8+7/×3) ou lamétoile, +14 (1d4+7/×3}
+{s:BDTexte|'''Espace''' 1,50 m ; '''Allonge''' 1,50 m (4,50 m avec fouet)}
+{s:BDTexte|'''Attaque spéciale''' entraînement aux armes (arcs +1, armes de lancer +2)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 20, '''Dex''' 13, '''Con''' 14, '''Int''' 12, '''Sag''' 10, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +11, '''BMO''' +16, '''DMD''' 27}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (trident), [[Arme de prédilection supérieure]] (trident), [[Attaque en puissance]], [[Création darmes et armures magiques|Création d’armes et armures magiques]], [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Frappe décisive]], [[Maître artisan]], [[Riposte]], [[Robustesse]], [[Savancer|S’avancer]], [[Spécialisation martiale]] (trident), [[Talent]] (Profession <nowiki>[</nowiki>marin<nowiki>]</nowiki>)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +10, [[Art de la magie]] +16, [[Artisanat]](navires) +5, [[Connaissances]] (folklore local) +5, [[Connaissances]] (géographie) +10, [[Connaissances]] (histoire) +5, [[Connaissances]] (ingénierie) +5, [[Connaissances]] (nature) +10, [[Connaissances]] (noblesse) +5, [[Diplomatie]] +10, [[Escalade]] +10, [[Linguistique]] +5, [[Natation]] +10, [[Perception]] +10, [[Profession]] (marchand) +5, [[Profession]] (marin) +21, [[Représentation]] (claviers) +5, [[Survie]] +10}
+{s:BDTexte|'''Langues''' aquatique, aérien, commun}
+{s:BDTexte|'''Particularités''' entraînement aux armures 2}
+{s:BDTexte|'''Équipement de combat''' ''[[gemme à élémentaire]]'' (eau) ; '''Autre équipement''' ''écu en bois +1'', ''harnois +1'', ''arc long composite +1'' <nowiki>[</nowiki>For +5<nowiki>]</nowiki> avec 20 flèches, lamétoile, ''trident d’alerte sous-marine'', ''amulette d’armure naturelle +1'', ''cape de résistance +2'', ''ceinturon de force de géant +2'', ''gants de nage et d’escalade'', instrument de musique (clavecin ou petit orgue), longue-vue}
+{s:BDTexte|'''Faveur''' Un capitaine peut organiser un voyage vers n’importe quelle destination accessible en bateau (pour les PJ ou pour une cargaison). Il peut aider les PJ à trouver comment se rendre vers une destination peu connue (bonus de +5 aux tests de [[Connaissances]] <nowiki>[</nowiki>géographie<nowiki>]</nowiki> ou autres tests pertinents). S’il travaille pour une organisation plus importante, il peut aussi promulguer des décrets officiels en son nom.}
+</div></td>
+<td><div>
+En mer, le capitaine est le seul maître à bord. Il peut être une autorité légale et un représentant pour sa nation, sa compagnie, sa foi ou sa faction ou bien un capitaine indépendant qui n’a aucun compte à rendre et pas d’autres demeures que la mer.
+
+Un capitaine peut être utilisé comme pirate, amiral ou maître marchand. Il est généralement accompagné d’un [[PNJ marins#SECOND|second]] et d’un [[PNJ marchands#MARCHANDITINERANT|marchand itinérant]] agissant comme intendant (FP 12).
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.PNJ marins</fullName>
+</wikiPage>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Manuel du reflet calme</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Dieux et magie</category></categories>
+  <lastModified>2024-06-14 03:04:10Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Irori (technique)</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Aide</link><link>Pathfinder-RPG.Irori (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fIrori.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Irori (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fIrori.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Irori-(Technique).html&quot; title=&quot;Irori&quot;&gt;Irori&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Manuel du reflet calme&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 4 000 po ; &lt;b&gt;Poids&lt;/b&gt; 1 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Certains des manuels attribu&#233;s au dieu du savoir traitent des r&#233;gimes physiques et apprennent &#224; leur lecteur &#224; utiliser son corps comme une arme de combat. D’autres enseignent des exercices mentaux pour aiguiser l’esprit et aff&#251;ter les sens. Le &lt;i&gt;Manuel du reflet calme&lt;/i&gt;, un &#233;pais ouvrage de 30 chapitres, aide le lecteur &#224; focaliser son &#226;me et &#224; s’ancrer en lui-m&#234;me. Apr&#232;s avoir pass&#233; 1 heure &#224; lire le livre, le lecteur b&#233;n&#233;ficie d’un bonus de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les sorts &#224; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effets mentaux&lt;/a&gt; pendant le reste de la journ&#233;e.&lt;br /&gt;&lt;br /&gt;Si &lt;a class=&quot;pagelink&quot; href=&quot;Irori-(Technique).html&quot; title=&quot;Irori&quot;&gt;Irori&lt;/a&gt; est la divinit&#233; tut&#233;laire du personnage, le bonus passe &#224; +2.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aide.html&quot; title=&quot;Aide&quot;&gt;aide&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 2 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Irori|%2fPCUP%2fReligion-PNG%2fIrori.png}<div class="BD">
+{s:BDTitre|Manuel du reflet calme|{s:GeM}}
+'''Aura''' [[Transmutation]] faible ; '''NLS''' 5 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 4 000 po ; '''Poids''' 1 kg
+(((Description)))
+Certains des manuels attribués au dieu du savoir traitent des régimes physiques et apprennent à leur lecteur à utiliser son corps comme une arme de combat. D’autres enseignent des exercices mentaux pour aiguiser l’esprit et affûter les sens. Le ''Manuel du reflet calme'', un épais ouvrage de 30 chapitres, aide le lecteur à focaliser son âme et à s’ancrer en lui-même. Après avoir passé 1 heure à lire le livre, le lecteur bénéficie d’un bonus de +1 aux [[jds|jets de sauvegarde]] contre les sorts à [[registre|effets mentaux]] pendant le reste de la journée.
+
+Si [[Irori (technique)|Irori]] est la divinité tutélaire du personnage, le bonus passe à +2.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[aide]]'' ; '''Coût''' 2 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Manuel du reflet calme</fullName>
+</wikiPage>

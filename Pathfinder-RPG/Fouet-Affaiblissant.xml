@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fouet affaiblissant</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort magicien 2</category><category>Pathfinder-RPG.Sort sorcière 2</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2020-07-24 16:47:16Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts densorceleursmagiciens</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.attaque de contact</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.Gobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;Ens&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Mag&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor&lt;/a&gt; 2  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, M&lt;/a&gt; (une gu&#234;pe morte)  
+&lt;b&gt;Port&#233;e&lt;/b&gt; 6 m  
+&lt;b&gt;Cible&lt;/b&gt; une cr&#233;ature  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; sp&#233;cial (voir description)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le personnage cr&#233;e un fouet constitu&#233; d’&#233;nergie n&#233;cromantique qui enserre le cou d’un ennemi et le paralyse compl&#232;tement, &#224; l’exception de sa t&#234;te, jusqu’&#224; ce que le fouet soit l&#226;ch&#233; ou d&#233;truit. Le personnage effectue une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquesdecontact.html&quot; title=&quot;attaque de contact&quot;&gt;attaque de contact&lt;/a&gt; &#224; distance avec ce sort. S’il touche sa cible, il lui inflige une p&#233;nalit&#233; de 1d6 points de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt;, de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; chaque &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Cette p&#233;nalit&#233; ne peut r&#233;duire la valeur d’une caract&#233;ristique en dessous de 1. Une fois que l’une de ces caract&#233;ristiques est r&#233;duite &#224; 1, la cible s’effondre et son corps, except&#233; sa t&#234;te, est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Paralys&#233;.html&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;&lt;/a&gt;. La cible ainsi paralys&#233;e conserve n&#233;anmoins tous ses sens, y compris sa capacit&#233; &#224; ressentir la douleur et &#224; parler (elle peut donc lancer des sorts qui n&#233;cessitent une composante gestuelle seulement pour pouvoir &#234;tre lanc&#233;s). Le fouet est long de 6 m&#232;tres, poss&#232;de 15 points de vie et une solidit&#233; de 5. Le sort prend fin d&#232;s que le personnage l&#226;che le fouet ou si celui-ci est d&#233;truit. Lorsque le sort prend fin, toutes les p&#233;nalit&#233;s inflig&#233;es par ce sort sur la cible disparaissent &#233;galement.
+]]></body>
+  <raw><![CDATA[{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}'''École''' [[Nécromancie]] ; '''Niveau''' [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[sorcière|Sor]] 2  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, M]] (une guêpe morte)  
+'''Portée''' 6 m  
+'''Cible''' une créature  
+'''Durée''' spécial (voir description)  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' oui
+
+Le personnage crée un fouet constitué d’énergie nécromantique qui enserre le cou d’un ennemi et le paralyse complètement, à l’exception de sa tête, jusqu’à ce que le fouet soit lâché ou détruit. Le personnage effectue une [[attaque de contact]] à distance avec ce sort. S’il touche sa cible, il lui inflige une pénalité de 1d6 points de [[Force]], de [[Dextérité]] et de [[Constitution]] chaque [[round]]. Cette pénalité ne peut réduire la valeur d’une caractéristique en dessous de 1. Une fois que l’une de ces caractéristiques est réduite à 1, la cible s’effondre et son corps, excepté sa tête, est [[paralysé]]. La cible ainsi paralysée conserve néanmoins tous ses sens, y compris sa capacité à ressentir la douleur et à parler (elle peut donc lancer des sorts qui nécessitent une composante gestuelle seulement pour pouvoir être lancés). Le fouet est long de 6 mètres, possède 15 points de vie et une solidité de 5. Le sort prend fin dès que le personnage lâche le fouet ou si celui-ci est détruit. Lorsque le sort prend fin, toutes les pénalités infligées par ce sort sur la cible disparaissent également.]]></raw>
+  <fullName>Pathfinder-RPG.Fouet affaiblissant</fullName>
+</wikiPage>

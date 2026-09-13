@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Daémon, Témerdaémon</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Livre des damnés</category></categories>
+  <lastModified>2024-02-26 17:53:49Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Daémon</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Livre des damnés 1 (Contenu)</link><link>Pathfinder-RPG.Phasmadaémon</link><link>Pathfinder-RPG.Temp-Bestiaire du Livre des damnés</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type daémon</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.malédiction</link><link>Pathfinder-RPG.Mise à mort</link><link>Pathfinder-RPG.État gazeux</link><link>Pathfinder-RPG.Passe-muraille</link><link>Pathfinder-RPG.Façonnage de la pierre</link><link>Pathfinder-RPG.Télékinésie</link><link>Pathfinder-RPG.Désintégration</link><link>Pathfinder-RPG.Dissipation suprême</link><link>Pathfinder-RPG.Mur illusoire</link><link>Pathfinder-RPG.Suggestion</link><link>Pathfinder-RPG.convocation</link><link>Pathfinder-RPG.Hydrodaémon</link><link>Pathfinder-RPG.Critique aveuglant</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Expertise du combat</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du croc-en-jambe</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Daémon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;t&#233;merda&#233;mon&lt;div style=&quot;float:right;&quot;&gt;FP 14&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Livre des damn&#233;s p.190&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 38 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Da&#233;mon.html&quot; title=&quot;Da&#233;mon (sous-type)&quot;&gt;da&#233;mon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille G, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init &lt;/b&gt;+8 ; &lt;b&gt;Sens&lt;/b&gt; vision dans le noir &#224; 18m ; Perception +27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura &lt;/b&gt; mal&#233;diction du faucheur (9 m)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 27, contact 13, pris au d&#233;pourvu 23 (Dex +4, naturelle +14, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PV&lt;/b&gt; 195 (17d10+102) 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f &lt;/b&gt;+11, &lt;b&gt;Vig &lt;/b&gt;+16, &lt;b&gt;Vol &lt;/b&gt;+17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/Bien et argent ; &lt;b&gt;Immunit&#233;&lt;/b&gt; acide, effets de mort, maladie, poison ; &lt;b&gt;R&#233;sistance&lt;/b&gt; froid 10,  &#233;lectricit&#233; 10, feu 10  ; &lt;b&gt;RM&lt;/b&gt; 25
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; faux +1, +24/+19/+14/+9 (2d4+10/&#215;4 plus confusion), 2 griffes, +22 (1d4+6 plus confusion)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; confusion
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 17 ; concentration +22)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; – &lt;a class=&quot;pagelink&quot; href=&quot;Sort-Mal&#233;diction.html&quot; title=&quot;mal&#233;diction&quot;&gt;mal&#233;diction&lt;/a&gt; (DD 19), &lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt; (DD 17), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tat-Gazeux.html&quot; title=&quot;&#201;tat gazeux&quot;&gt;&#201;tat gazeux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Passe-Muraille.html&quot; title=&quot;Passe-muraille&quot;&gt;passe-muraille&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Fa&#231;onnage-De-La-Pierre.html&quot; title=&quot;Fa&#231;onnage de la pierre&quot;&gt;fa&#231;onnage de la pierre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;kin&#233;sie.html&quot; title=&quot;T&#233;l&#233;kin&#233;sie&quot;&gt;t&#233;l&#233;kin&#233;sie&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour - &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;sint&#233;gration.html&quot; title=&quot;D&#233;sint&#233;gration&quot;&gt;d&#233;sint&#233;gration&lt;/a&gt; (DD21), &lt;a class=&quot;pagelink&quot; href=&quot;Dissipation-Supr&#234;me.html&quot; title=&quot;Dissipation supr&#234;me&quot;&gt;dissipation supr&#234;me&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mur-Illusoire.html&quot; title=&quot;Mur illusoire&quot;&gt;mur illusoire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Suggestion.html&quot; title=&quot;Suggestion&quot;&gt;suggestion&lt;/a&gt; (DD18)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour - &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Convocation.html&quot; title=&quot;convocation&quot;&gt;convocation&lt;/a&gt; (niveau 6  1 &lt;a class=&quot;pagelink&quot; href=&quot;Hydroda&#233;mon.html&quot; title=&quot;Da&#233;mon, Hydroda&#233;mon&quot;&gt;hydroda&#233;mon&lt;/a&gt;, 50%)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 23, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 23, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 24, &lt;b&gt;Cha&lt;/b&gt; 20
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA &lt;/b&gt;+17 ; &lt;b&gt;BMO &lt;/b&gt;+24 ; &lt;b&gt;DMD&lt;/b&gt; 38  (42 contre les crocs-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Critique-Aveuglant.html&quot; title=&quot;Critique aveuglant&quot;&gt;Critique aveuglant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Expertise-Du-Combat.html&quot; title=&quot;Expertise du combat&quot;&gt;Expertise du combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Croc-En-Jambe.html&quot; title=&quot;Science du croc-en-jambe&quot;&gt;Science du croc-en-jambe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (faux)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +26, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +12, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +20,  &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +27, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +27
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, draconique, infernal; t&#233;l&#233;pathie 30m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s &lt;/b&gt; armes de taille inf&#233;rieure
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; quelconque (Abaddon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou bande de trappeurs (3 temerda&#233;mons et 15–30 cacoda&#233;mons)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (faux +1, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;box&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Confusion (Sur)&lt;/b&gt; Les cr&#233;atures touch&#233;es en combat par les griffes
+ou la faux d’un t&#233;merda&#233;mon doivent r&#233;ussir un jet de Volont&#233;
+DD 25 ou &#234;tre confuses pendant 1 round. C’est un effet mental.
+Le DD du jet de sauvegarde d&#233;pend du Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mal&#233;diction du faucheur (Sur)&lt;/b&gt; Ceux qui se tiennent pr&#232;s d’un
+t&#233;merda&#233;mon sont afflig&#233;s par une effarante augmentation du
+nombre de blessures inflig&#233;es par eux-m&#234;me ou leurs alli&#233;s,
+d’&#233;checs de sorts et de d&#233;g&#226;ts accidentels similaires. Les probabilit&#233;s
+d’&#233;chec de sort en cas de port d’armure sont doubl&#233;es.
+Une cr&#233;ature qui obtient un 1 naturel sur son jet d’attaque relance
+automatiquement l’attaque contre elle-m&#234;me (01-50%) ou
+un alli&#233; (51-100%). S’il n’y a aucun alli&#233; &#224; port&#233;e, l’attaque cible
+toujours la cr&#233;ature. Si elle obtient un 1 naturel lorsqu’elle lance
+un sort sur la d&#233;fensive, elle subit un incident (voir Incidents,
+Manuel des joueurs page 497). Les tests de comp&#233;tence qui ont
+de s&#233;rieuses cons&#233;quences s’ils sont rat&#233;s de 5 ou plus (comme
+Escalade, Natation et Sabotage) sont &#233;galement concern&#233;s sur
+un simple &#233;chec.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Da&#233;mon.html&quot; title=&quot;Les da&#233;mons&quot;&gt;da&#233;mons&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Cette cr&#233;ature avance en titubant sur plusieurs bras et jambes, son
+dos douloureusement courb&#233; et ses hanches au-dessus de sa t&#234;te.
+Cette chose semble distraite et se parler &#224; elle-m&#234;me, elle l&#232;ve rarement
+ses yeux rougeoyants et sa chevelure est faite de centaines de
+fines vrilles blanches qui tombent sur sa t&#234;te comme un voile. Des
+sacoches et des bourses pleines d’objets bizarres sont attach&#233;es &#224; diff&#233;rents
+endroits du corps de la cr&#233;ature et ses bras &#224; l’arri&#232;re tiennent
+une large faux &#224; lame noire, encore tach&#233;e du sang de la derni&#232;re
+victime du fi&#233;lon. &lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les t&#233;merda&#233;mons personnifient le concept de la mort accidentelle.
+Un chevalier tombe sur son &#233;p&#233;e, un paysan glisse
+et se rompt le cou, une structure s’effondre d’une fa&#231;on que
+ses architectes n’avaient pas pr&#233;vue et ensevelit des dizaines
+d’innocents et pendant ce temps, un lointain t&#233;merda&#233;mon
+ricane d’un air complice. Si les vrais accidents plaisent au
+fi&#233;lon, il adore aussi en imaginer et met au point des plans
+incroyablement complexes conduisant au massacre du plus
+grand nombre de mortels possible. Un t&#233;merda&#233;mon r&#244;de
+souvent dans les parages de telles catastrophes, trucidant les
+survivants estropi&#233;s et semant la confusion et l&#39;hyst&#233;rie par
+sa seule pr&#233;sence.
+Le t&#233;merda&#233;mon ordinaire est une masse d&#233;gingand&#233;e
+faite d’un torse rondelet, de quatre bras et de quatre jambes,
+qui mesure trois m&#232;tres de long et p&#232;se 600 kilos, sans
+compter son &#233;trange collection de f&#233;tiches m&#233;caniques et
+d’&#233;quipement bricol&#233;.
+&lt;/div&gt;&lt;br /&gt;&lt;div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_0&quot; href=&quot;#&#201;cologie_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les fi&#233;lons mineurs qui restent dans le sillage d’un t&#233;merda&#233;mon
+et apprennent de ses actions sont typiquement choisis
+par l’un des Quatre Cavaliers ou un membre de l’&#233;lite da&#233;moniaque
+pour int&#233;grer cette terrible caste de g&#233;ants estropi&#233;s.
+Cependant, une &#226;me mortelle se r&#233;v&#232;le parfois digne de ce statut
+apr&#232;s &#234;tre mort dans un accident singuli&#232;rement atroce, en
+particulier lorsqu’elle l’a lui-m&#234;me orchestr&#233;. Dans ce genre
+de cas, la transition entre le statut d’&#226;me et celui de t&#233;merda&#233;mon
+est courte - &#224; l’&#233;chelle cosmique - et encore plus courte
+gr&#226;ce &#224; une propension &#224; chasser d’autres mortels.
+Bien qu’on pense que Zyphus, le dieu des morts accidentelles
+et des trag&#233;dies, soit le p&#232;re conceptuel des t&#233;merda&#233;mons,
+le Sombre faucheur n’a jamais ouvertement reconnu
+sa responsabilit&#233;. Il appr&#233;cie n&#233;anmoins beaucoup ces da&#233;mons
+et les &#226;mes qu’ils lui livrent &#224; intervalle irr&#233;gulier. Ni
+Zyphus, ni les t&#233;merda&#233;mons ne cherchent &#224; s’attribuer les
+&#226;mes r&#233;clam&#233;es par l’autre. Les destinations de ces mortels
+morts tragiquement se croisent souvent et ils peuvent autant
+finir entre les mains des da&#233;mons que des serviteurs du dieu.
+Les fid&#232;les de Zyphus v&#233;n&#232;rent souvent les actions des t&#233;merda&#233;mons,
+bien que les da&#233;mons eux m&#233;prisent un tel
+culte de la part des m&#234;mes mortels qu’ils cherchent &#224; d&#233;truire.
+M&#234;me tuer ces idiots se r&#233;v&#232;le difficile pour ces cr&#233;atures col&#233;riques
+puisque leurs accidents orchestr&#233;s de main de ma&#238;tre
+sont g&#226;ch&#233;s sur ceux qui esp&#232;rent ces &#233;v&#233;nements horribles.
+Selon les t&#233;merda&#233;mons, les accidents improbables fonctionnent
+mieux sur ceux qui vivent leur vie sans prendre garde
+au danger, en particulier quand ils s’y attendent le moins. Les
+gens qui font attention, y compris les parano&#239;aques et les
+tra&#238;tres, ne satisfont pas autant les d&#233;sirs morbides des t&#233;merda&#233;mons
+que l’enfant r&#234;veur ou l’idiot du village.
+Il n’existe pas deux da&#233;mons qui se ressemblent, pour la
+simple et bonne raison que ces cr&#233;atures fourbes prennent
+autant de formes qu’il y a de mani&#232;res improbables de mourir.
+Des individus particuli&#232;rement puissants peuvent atteindre
+des tailles &#233;normes, poss&#233;der des dizaines de bras et de jambes
+et plusieurs t&#234;tes qui font tout leur possible pour provoquer le
+maximum de d&#233;sastres sur les &#226;mes autour d’eux.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Habitat &amp; Soci&#233;t&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Habitat__Soci&#233;t&#233;_1&quot; href=&quot;#Habitat__Soci&#233;t&#233;_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les t&#233;merda&#233;mons errent dans l’univers en qu&#234;te d’opportunit&#233;s
+de sabotage et de perfidie. Les adorateurs de Zyphus
+assez stupides pour convoquer les da&#233;mons et marchander
+leurs services se retrouvent souvent victimes de leurs
+propres rituels &#233;labor&#233;s. Dans le meilleur des cas, un t&#233;merda&#233;mon
+appara&#238;t sur le Plan mat&#233;riel seulement pour remercier
+ses convocateurs d’un sourire torve et d’une aura
+mortelle, provoquant un certain nombre de catastrophes.
+Les chandeliers tombent sur la t&#234;te de ses victimes peu m&#233;fiantes,
+les pr&#234;tres se prennent les pieds dans leurs robes et
+tr&#233;buchent sur des cand&#233;labres pointus, des torches se d&#233;crochent
+des murs et mettent le feu &#224; des rideaux poussi&#233;reux,
+tout &#231;a pour faire flamber tout un b&#226;timent. Sur le Plan
+mat&#233;riel, une fois ses convocateurs morts, un t&#233;merda&#233;mon
+s’attache &#224; cr&#233;er autant de d&#233;sordre et de malveillance que
+possible avant d’&#234;tre renvoy&#233; en Abaddon. S’il n’y avait pas
+la mort extravagante et terriblement tragique de ses fid&#232;les,
+Zyphus pourrait ne pas appr&#233;cier du tout les actions
+de ces rus&#233;s da&#233;mons mais dans tous les cas, ces
+deux forces partagent par inadvertance des objectifs similaires
+et entrent rarement en conflit.
+Les t&#233;merda&#233;mons coop&#232;rent rarement avec leurs cong&#233;n&#232;res
+lorsqu’ils mettent au point de magistraux et mortels
+accidents. Ils pr&#233;f&#232;rent agir seuls et fanfaronner ensuite devant
+les leurs au sujet de leurs massacres. Chaque accident
+est diff&#233;rent et bien que les fi&#233;lons se regroupent parfois &#224;
+deux ou trois pour des projets particuli&#232;rement &#233;labor&#233;s, ils
+n’ont aucune raison de partager leurs techniques ou planifier
+&#224; long terme, car pr&#233;m&#233;diter un massacre donn&#233; est tout &#224;
+fait contre-productif aux yeux d’un t&#233;merda&#233;mon. Pour ces
+improvisateurs, un meurtre accidentel est m&#234;me plus satisfaisant
+qu’une simple mort accidentelle.
+Malgr&#233; leur go&#251;t pour les actions solitaires, les
+t&#233;merda&#233;mons utilisent parfois avec joie leurs cong&#233;n&#232;res
+inf&#233;rieurs comme rouages involontaires dans leurs plans
+d&#233;sastreux. Parmi ces pions, les minuscules cacoda&#233;mons,
+qui forment fr&#233;quemment autour de ces fi&#233;lons des groupes
+pouvant compter jusqu’&#224; une douzaine d’individus, sont
+tout pr&#234;ts &#224; absorber et &#224; r&#233;gurgiter les &#226;mes des tueries de
+leurs sup&#233;rieurs. Lorsqu’un t&#233;merda&#233;mon ne peut attirer
+de serviteurs cacoda&#233;mons, il les capture simplement. Un
+individu particuli&#232;rement puissant peut souvent se lier &#224;
+des dizaine de ces petits da&#233;mons, empal&#233;s sur des crochets
+barbel&#233;s, enferm&#233;s dans des sacoches bien ferm&#233;es ou
+entass&#233;s dans de petites cages, et accroche chaque
+r&#233;cipient &#224; ses sangles, ses ceintures et ses &#233;tuis
+innombrables.&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|témerdaémon|FP 14}
+{s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
+{s:BDTexte|''Source : Livre des damnés p.190''}
+{s:BDTexte|'''PX''' 38 400}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille G, NM}
+{s:BDTexte|'''Init '''+8 ; '''Sens''' vision dans le noir à 18m ; Perception +27}
+{s:BDTexte|'''Aura ''' malédiction du faucheur (9 m)}
+(((Défense)))
+{s:BDTexte|'''CA''' 27, contact 13, pris au dépourvu 23 (Dex +4, naturelle +14, taille -1)}
+{s:BDTexte|'''PV''' 195 (17d10+102) }
+{s:BDTexte|'''Réf '''+11, '''Vig '''+16, '''Vol '''+17}
+{s:BDTexte|'''RD''' 10/Bien et argent ; '''Immunité''' acide, effets de mort, maladie, poison ; '''Résistance''' froid 10,  électricité 10, feu 10  ; '''RM''' 25}
+(((Attaque)))
+{s:BDTexte|'''VD''' 9m}
+{s:BDTexte|'''Corps à corps''' faux +1, +24/+19/+14/+9 (2d4+10/×4 plus confusion), 2 griffes, +22 (1d4+6 plus confusion)}
+{s:BDTexte|'''Espace''' 3 m ; '''Allonge''' 3 m}
+{s:BDTexte|'''Attaques spéciales''' confusion}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 17 ; concentration +22)}
+{s:BDSorts|À volonté – [[malédiction]] (DD 19), [[mise à mort]] (DD 17), [[État gazeux]], [[passe-muraille]], [[façonnage de la pierre]], [[télékinésie]]}
+{s:BDSorts|3/jour - [[désintégration ]] (DD21), [[dissipation suprême]], [[mur illusoire]], [[suggestion ]] (DD18)}
+{s:BDSorts|1/jour - [[convocation]] (niveau 6  1 [[hydrodaémon ]], 50%)}
+(((Statistiques)))
+{s:BDTexte|'''For''' 23, '''Dex''' 18, '''Con''' 23, '''Int''' 13, '''Sag''' 24, '''Cha''' 20}
+{s:BDTexte|'''BBA '''+17 ; '''BMO '''+24 ; '''DMD''' 38  (42 contre les crocs-en-jambe)}
+{s:BDTexte|'''Dons''' [[Critique aveuglant]], [[Enchaînement]], [[Expertise du combat]], [[Don pour les critiques]], [[Science de linitiative|Science de l’initiative]], [[Science du croc-en-jambe]], [[Réflexes surhumains]], [[Attaque en puissance]], [[Arme de prédilection]] (faux)}
+{s:BDTexte|'''Compétences''' [[Bluff]] +25, [[Escalade]] +26, [[Intimidation]] +25, [[Connaissances]] (plans) +13, [[Connaissances]] (religion) +12, [[Discrétion]] +20,  [[Perception]] +27, [[Psychologie]] +27}
+{s:BDTexte|'''Langues''' abyssal, draconique, infernal; télépathie 30m}
+{s:BDTexte|'''Particularités ''' armes de taille inférieure}
+(((Écologie)))
+{s:BDTexte|'''Environnement''' quelconque (Abaddon)}
+{s:BDTexte|'''Organisation''' solitaire, couple ou bande de trappeurs (3 temerdaémons et 15–30 cacodaémons)}
+{s:BDTexte|'''Trésor''' standard (faux +1, autre trésor)}
+(((Pouvoirs spéciaux)))
+{s:BDTexte|'''Confusion (Sur)''' Les créatures touchées en combat par les griffes
+ou la faux d’un témerdaémon doivent réussir un jet de Volonté
+DD 25 ou être confuses pendant 1 round. C’est un effet mental.
+Le DD du jet de sauvegarde dépend du Charisme.}
+{s:BDTexte|'''Malédiction du faucheur (Sur)''' Ceux qui se tiennent près d’un
+témerdaémon sont affligés par une effarante augmentation du
+nombre de blessures infligées par eux-même ou leurs alliés,
+d’échecs de sorts et de dégâts accidentels similaires. Les probabilités
+d’échec de sort en cas de port d’armure sont doublées.
+Une créature qui obtient un 1 naturel sur son jet d’attaque relance
+automatiquement l’attaque contre elle-même (01-50%) ou
+un allié (51-100%). S’il n’y a aucun allié à portée, l’attaque cible
+toujours la créature. Si elle obtient un 1 naturel lorsqu’elle lance
+un sort sur la défensive, elle subit un incident (voir Incidents,
+Manuel des joueurs page 497). Les tests de compétence qui ont
+de sérieuses conséquences s’ils sont ratés de 5 ou plus (comme
+Escalade, Natation et Sabotage) sont également concernés sur
+un simple échec.}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[daémon|daémons]].'''''</li></ul>
+''Cette créature avance en titubant sur plusieurs bras et jambes, son
+dos douloureusement courbé et ses hanches au-dessus de sa tête.
+Cette chose semble distraite et se parler à elle-même, elle lève rarement
+ses yeux rougeoyants et sa chevelure est faite de centaines de
+fines vrilles blanches qui tombent sur sa tête comme un voile. Des
+sacoches et des bourses pleines d’objets bizarres sont attachées à différents
+endroits du corps de la créature et ses bras à l’arrière tiennent
+une large faux à lame noire, encore tachée du sang de la dernière
+victime du fiélon. ''
+
+Les témerdaémons personnifient le concept de la mort accidentelle.
+Un chevalier tombe sur son épée, un paysan glisse
+et se rompt le cou, une structure s’effondre d’une façon que
+ses architectes n’avaient pas prévue et ensevelit des dizaines
+d’innocents et pendant ce temps, un lointain témerdaémon
+ricane d’un air complice. Si les vrais accidents plaisent au
+fiélon, il adore aussi en imaginer et met au point des plans
+incroyablement complexes conduisant au massacre du plus
+grand nombre de mortels possible. Un témerdaémon rôde
+souvent dans les parages de telles catastrophes, trucidant les
+survivants estropiés et semant la confusion et l'hystérie par
+sa seule présence.
+Le témerdaémon ordinaire est une masse dégingandée
+faite d’un torse rondelet, de quatre bras et de quatre jambes,
+qui mesure trois mètres de long et pèse 600 kilos, sans
+compter son étrange collection de fétiches mécaniques et
+d’équipement bricolé.
+</div>
+
+<div>
+====Écologie====
+Les fiélons mineurs qui restent dans le sillage d’un témerdaémon
+et apprennent de ses actions sont typiquement choisis
+par l’un des Quatre Cavaliers ou un membre de l’élite daémoniaque
+pour intégrer cette terrible caste de géants estropiés.
+Cependant, une âme mortelle se révèle parfois digne de ce statut
+après être mort dans un accident singulièrement atroce, en
+particulier lorsqu’elle l’a lui-même orchestré. Dans ce genre
+de cas, la transition entre le statut d’âme et celui de témerdaémon
+est courte - à l’échelle cosmique - et encore plus courte
+grâce à une propension à chasser d’autres mortels.
+Bien qu’on pense que Zyphus, le dieu des morts accidentelles
+et des tragédies, soit le père conceptuel des témerdaémons,
+le Sombre faucheur n’a jamais ouvertement reconnu
+sa responsabilité. Il apprécie néanmoins beaucoup ces daémons
+et les âmes qu’ils lui livrent à intervalle irrégulier. Ni
+Zyphus, ni les témerdaémons ne cherchent à s’attribuer les
+âmes réclamées par l’autre. Les destinations de ces mortels
+morts tragiquement se croisent souvent et ils peuvent autant
+finir entre les mains des daémons que des serviteurs du dieu.
+Les fidèles de Zyphus vénèrent souvent les actions des témerdaémons,
+bien que les daémons eux méprisent un tel
+culte de la part des mêmes mortels qu’ils cherchent à détruire.
+Même tuer ces idiots se révèle difficile pour ces créatures colériques
+puisque leurs accidents orchestrés de main de maître
+sont gâchés sur ceux qui espèrent ces événements horribles.
+Selon les témerdaémons, les accidents improbables fonctionnent
+mieux sur ceux qui vivent leur vie sans prendre garde
+au danger, en particulier quand ils s’y attendent le moins. Les
+gens qui font attention, y compris les paranoïaques et les
+traîtres, ne satisfont pas autant les désirs morbides des témerdaémons
+que l’enfant rêveur ou l’idiot du village.
+Il n’existe pas deux daémons qui se ressemblent, pour la
+simple et bonne raison que ces créatures fourbes prennent
+autant de formes qu’il y a de manières improbables de mourir.
+Des individus particulièrement puissants peuvent atteindre
+des tailles énormes, posséder des dizaines de bras et de jambes
+et plusieurs têtes qui font tout leur possible pour provoquer le
+maximum de désastres sur les âmes autour d’eux.
+
+====Habitat & Société====
+Les témerdaémons errent dans l’univers en quête d’opportunités
+de sabotage et de perfidie. Les adorateurs de Zyphus
+assez stupides pour convoquer les daémons et marchander
+leurs services se retrouvent souvent victimes de leurs
+propres rituels élaborés. Dans le meilleur des cas, un témerdaémon
+apparaît sur le Plan matériel seulement pour remercier
+ses convocateurs d’un sourire torve et d’une aura
+mortelle, provoquant un certain nombre de catastrophes.
+Les chandeliers tombent sur la tête de ses victimes peu méfiantes,
+les prêtres se prennent les pieds dans leurs robes et
+trébuchent sur des candélabres pointus, des torches se décrochent
+des murs et mettent le feu à des rideaux poussiéreux,
+tout ça pour faire flamber tout un bâtiment. Sur le Plan
+matériel, une fois ses convocateurs morts, un témerdaémon
+s’attache à créer autant de désordre et de malveillance que
+possible avant d’être renvoyé en Abaddon. S’il n’y avait pas
+la mort extravagante et terriblement tragique de ses fidèles,
+Zyphus pourrait ne pas apprécier du tout les actions
+de ces rusés daémons mais dans tous les cas, ces
+deux forces partagent par inadvertance des objectifs similaires
+et entrent rarement en conflit.
+Les témerdaémons coopèrent rarement avec leurs congénères
+lorsqu’ils mettent au point de magistraux et mortels
+accidents. Ils préfèrent agir seuls et fanfaronner ensuite devant
+les leurs au sujet de leurs massacres. Chaque accident
+est différent et bien que les fiélons se regroupent parfois à
+deux ou trois pour des projets particulièrement élaborés, ils
+n’ont aucune raison de partager leurs techniques ou planifier
+à long terme, car préméditer un massacre donné est tout à
+fait contre-productif aux yeux d’un témerdaémon. Pour ces
+improvisateurs, un meurtre accidentel est même plus satisfaisant
+qu’une simple mort accidentelle.
+Malgré leur goût pour les actions solitaires, les
+témerdaémons utilisent parfois avec joie leurs congénères
+inférieurs comme rouages involontaires dans leurs plans
+désastreux. Parmi ces pions, les minuscules cacodaémons,
+qui forment fréquemment autour de ces fiélons des groupes
+pouvant compter jusqu’à une douzaine d’individus, sont
+tout prêts à absorber et à régurgiter les âmes des tueries de
+leurs supérieurs. Lorsqu’un témerdaémon ne peut attirer
+de serviteurs cacodaémons, il les capture simplement. Un
+individu particulièrement puissant peut souvent se lier à
+des dizaine de ces petits daémons, empalés sur des crochets
+barbelés, enfermés dans des sacoches bien fermées ou
+entassés dans de petites cages, et accroche chaque
+récipient à ses sangles, ses ceintures et ses étuis
+innombrables.
+
+
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Témerdaémon</fullName>
+</wikiPage>

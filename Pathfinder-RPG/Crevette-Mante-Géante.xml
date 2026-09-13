@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Crevette-mante géante</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2021-02-07 19:37:39Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Aveuglé</link><link>Pathfinder-RPG.Vision aveugle (capacité)</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.round de surprise</link><link>Pathfinder-RPG.solidité</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Crevette-mante g&#233;ante&lt;div style=&quot;float:right;&quot;&gt;FP 9&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vermine&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vermine.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.70&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 6 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; 18 m, vision extraordinaire ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 26, contact 17, pris au d&#233;pourvu 19 (Dex +7, naturelle +9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 105 (14d8+42)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +11, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux ; &lt;b&gt;R&#233;sistances&lt;/b&gt; son 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m ; nage 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; pince, +17/+12 (2d6+4 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt; et explosion sonore) et pince, +17 (2d6+4 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt; et explosion sonore)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; explosion sonore, pince rapide
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 25, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +10, &lt;b&gt;BMO&lt;/b&gt; +14 (+18 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;), &lt;b&gt;DMD&lt;/b&gt; 31 (43 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; c&#244;tes chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pince rapide (Ext).&lt;/b&gt; Une crevette-mante g&#233;ante peut porter des attaques r&#233;p&#233;t&#233;es avec une unique pince.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Explosion sonore (Ext).&lt;/b&gt; L’attaque d’une crevette-mante g&#233;ante est tellement rapide que ses pinces provoquent une explosion de lumi&#232;re et une onde de choc quand elles se ferment. Chaque fois qu’une crevette-mante g&#233;ante attaque &#224; l’aide de ses pinces, qu’elle touche sa cible ou non, toutes les cr&#233;atures qui se trouvent dans un rayon de 3 m&#232;tres autour de la cible de l’attaque subissent 1d8 points de d&#233;g&#226;ts de son et doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;tourdi.html&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdies&lt;/a&gt; pendant 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;. Une cr&#233;ature qui r&#233;ussit son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; est immunis&#233;e &#224; l&#39;effet d›&#233;tourdissement des explosions sonores suivantes jusqu’au prochain tour de la vermine, mais subit quand m&#234;me les d&#233;g&#226;ts de son. Les crevettes-mantes g&#233;antes sont immunis&#233;es &#224; cet effet. Le DD du jet de sauvegarde est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vision extraordinaire (Ext).&lt;/b&gt; Une crevette-mante g&#233;ante peut percevoir bien plus de couleurs que les humains et peut voir parfaitement, quelle que soit la luminosit&#233;, y compris dans les t&#233;n&#232;bres surnaturelles. Tant qu’une crevette-mante g&#233;ante n’est pas &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Aveugl&#233;.html&quot; title=&quot;Aveugl&#233;&quot;&gt;aveugl&#233;e&lt;/a&gt;, on consid&#232;re qu’elle a une &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;Vision aveugle (Ext)&quot;&gt;vision aveugle&lt;/a&gt; &#224; 18 m&#232;tres.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Ce crustac&#233; aux couleurs vives ressemble &#224; un gros homard pr&#233;c&#233;d&#233; de pinces mena&#231;antes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+Bien que les carapaces color&#233;es des crevettes-mantes soient de toute beaut&#233;, en voir une est souvent synonyme de mort. On trouve g&#233;n&#233;ralement ces superpr&#233;dateurs dans les flaques de mar&#233;e et les eaux c&#244;ti&#232;res peu profondes, et ils se disputent leur territoire avec les karkinois et les crabes mangeurs de requins.&lt;br /&gt;&lt;br /&gt;Une crevette-mante g&#233;ante typique mesure 1,20 m&#232;tre de haut pour 1,80 m&#232;tre de long et p&#232;se environ 100 kilos.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Variantes de crevettes-mantes g&#233;antes&lt;a class=&quot;headeranchor&quot; id=&quot;Variantes_de_crevettes-mantes_g&#233;antes_0&quot; href=&quot;#Variantes_de_crevettes-mantes_g&#233;antes_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;La vision incroyable et les pinces mortelles des crevettes-mantes g&#233;antes en font de formidables pr&#233;dateurs dans n’importe quel environnement.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Crevette-mante des cavernes.&lt;/b&gt; Une crevette-mante des cavernes s’est adapt&#233;e &#224; la vie des cavernes. Sa carapace a perdu les couleurs vives qu’arborent encore ses cousines pour devenir presque transparente. En cons&#233;quence, une crevette-mante des cavernes gagne un bonus racial de +8 &#224; ses tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; et peut faire une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pendant le &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;roulement-Dun-Combat#Roundsurprise.html&quot; title=&quot;round de surprise&quot;&gt;round de surprise&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Crevette-mante royale.&lt;/b&gt; La crevette-mante royale se trouve sur le plancher oc&#233;anique, dans des eaux plus profondes que ses cong&#233;n&#232;res de plus petite taille. Les crevettes-mantes royales sont de Grande taille. Quand elles s’en prennent &#224; un objet, leurs attaques ignorent les 20 premiers points de &lt;a class=&quot;pagelink&quot; href=&quot;Exploration#Solidite.html&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt;. Elles profitent de cet avantage pour couler des bateaux afin d’en d&#233;vorer les cargaisons et les &#233;quipages malchanceux.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Crevette-mante des sables.&lt;/b&gt; Les crevettes-mantes des sables s’enterrent dans les d&#233;serts, guettant quiconque s’approchera un peu trop pr&#232;s de leurs pinces. Une crevette-mante des sables perd le sous-type &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Crevette-mante géante|FP 9}
+{s:pucem|Vermine|Aquatique|Tropical}
+{s:BDtexte|''Source : Bestiaire 5 p.70''}
+{s:BDtexte|'''PX''' 6 400}
+{s:BDtexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille M, N}
+{s:BDtexte|'''Init''' +7 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] 18 m, vision extraordinaire ; [[Perception]] +1}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 26, contact 17, pris au dépourvu 19 (Dex +7, naturelle +9)}
+{s:BDtexte|'''pv''' 105 (14d8+42)}
+{s:BDtexte|'''Réf''' +11, '''Vig''' +12, '''Vol''' +5}
+{s:BDtexte|'''Immunités''' effets mentaux ; '''Résistances''' son 10}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 12 m ; nage 9 m}
+{s:BDtexte|'''Corps à corps''' pince, +17/+12 (2d6+4 plus [[Étreinte (capacité)|étreinte]] et explosion sonore) et pince, +17 (2d6+4 plus [[Étreinte (capacité)|étreinte]] et explosion sonore)}
+{s:BDtexte|'''Attaques spéciales''' explosion sonore, pince rapide}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 18, '''Dex''' 25, '''Con''' 16, '''Int''' —, '''Sag''' 13, '''Cha''' 16}
+{s:BDtexte|'''BBA''' +10, '''BMO''' +14 (+18 en [[lutte]]), '''DMD''' 31 (43 contre le [[croc-en-jambe]])}
+{s:BDtexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' côtes chaudes}
+{s:BDtexte|'''Organisation sociale''' solitaire}
+{s:BDtexte|'''Trésor''' aucun}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Pince rapide (Ext).''' Une crevette-mante géante peut porter des attaques répétées avec une unique pince.}
+{s:BDtexte|'''Explosion sonore (Ext).''' L’attaque d’une crevette-mante géante est tellement rapide que ses pinces provoquent une explosion de lumière et une onde de choc quand elles se ferment. Chaque fois qu’une crevette-mante géante attaque à l’aide de ses pinces, qu’elle touche sa cible ou non, toutes les créatures qui se trouvent dans un rayon de 3 mètres autour de la cible de l’attaque subissent 1d8 points de dégâts de son et doivent réussir un jet de [[Réflexes]] [[DD]] 20 ou être [[étourdi|étourdies]] pendant 1 [[round]]. Une créature qui réussit son [[jds|jet de sauvegarde]] est immunisée à l'effet d›étourdissement des explosions sonores suivantes jusqu’au prochain tour de la vermine, mais subit quand même les dégâts de son. Les crevettes-mantes géantes sont immunisées à cet effet. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
+{s:BDtexte|'''Vision extraordinaire (Ext).''' Une crevette-mante géante peut percevoir bien plus de couleurs que les humains et peut voir parfaitement, quelle que soit la luminosité, y compris dans les ténèbres surnaturelles. Tant qu’une crevette-mante géante n’est pas [[aveuglé|aveuglée]], on considère qu’elle a une [[Vision aveugle (capacité)|vision aveugle]] à 18 mètres.}
+</div>
+</td>
+<td>
+<div>
+''Ce crustacé aux couleurs vives ressemble à un gros homard précédé de pinces menaçantes.''
+
+
+Bien que les carapaces colorées des crevettes-mantes soient de toute beauté, en voir une est souvent synonyme de mort. On trouve généralement ces superprédateurs dans les flaques de marée et les eaux côtières peu profondes, et ils se disputent leur territoire avec les karkinois et les crabes mangeurs de requins.
+
+Une crevette-mante géante typique mesure 1,20 mètre de haut pour 1,80 mètre de long et pèse environ 100 kilos.
+
+====Variantes de crevettes-mantes géantes====
+La vision incroyable et les pinces mortelles des crevettes-mantes géantes en font de formidables prédateurs dans n’importe quel environnement.
+
+'''Crevette-mante des cavernes.''' Une crevette-mante des cavernes s’est adaptée à la vie des cavernes. Sa carapace a perdu les couleurs vives qu’arborent encore ses cousines pour devenir presque transparente. En conséquence, une crevette-mante des cavernes gagne un bonus racial de +8 à ses tests de [[Discrétion]] et peut faire une [[action complexe]] pendant le [[round de surprise]].
+
+'''Crevette-mante royale.''' La crevette-mante royale se trouve sur le plancher océanique, dans des eaux plus profondes que ses congénères de plus petite taille. Les crevettes-mantes royales sont de Grande taille. Quand elles s’en prennent à un objet, leurs attaques ignorent les 20 premiers points de [[solidité]]. Elles profitent de cet avantage pour couler des bateaux afin d’en dévorer les cargaisons et les équipages malchanceux.
+
+'''Crevette-mante des sables.''' Les crevettes-mantes des sables s’enterrent dans les déserts, guettant quiconque s’approchera un peu trop près de leurs pinces. Une crevette-mante des sables perd le sous-type [[sous-type Aquatique|aquatique]].
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Crevette-mante géante</fullName>
+</wikiPage>

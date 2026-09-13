@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pierres-éponges (10)</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-04 19:07:49Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.Poisons</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.fronde (arme)</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Brisé</link><link>Pathfinder-RPG.Halfelin</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Halfelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Halfelin.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;halfelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 10 po ; &lt;b&gt;Poids&lt;/b&gt; 1 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABMUNITIONS&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Munitions&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Ces balles sont en r&#233;alit&#233; faites d’une pierre poreuse ou d’un bois dense qui absorbent les liquides et &#233;clatent &#224; l’impact. Les pierres-&#233;ponges sont souvent utilis&#233;es pour d&#233;livrer des &lt;a class=&quot;pagelink&quot; href=&quot;Poisons.html&quot; title=&quot;Les poisons  &quot;&gt;poisons&lt;/a&gt; ou de l’huile br&#251;lante. Une fiole d’huile permet de saturer compl&#232;tement 10 pierres-&#233;ponges. Lorsqu’elle est enflamm&#233;e (par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; s’il y a du feu &#224; disposition), une pierre-&#233;ponge br&#251;lante imbib&#233;e d’huile inflige +1d2 points de d&#233;g&#226;ts de feu et peut enflammer les mat&#233;riaux combustibles (comme un toit de chaume). Le fait de laisser br&#251;ler une pierre-&#233;ponge dans une poche de &lt;a class=&quot;pagelink&quot; href=&quot;Fronde-(Arme).html&quot; title=&quot;Fronde&quot;&gt;fronde&lt;/a&gt; pendant plus de 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Bris&#233;.html&quot; title=&quot;Bris&#233;&quot;&gt;brise&lt;/a&gt; la fronde.
+]]></body>
+  <raw><![CDATA[{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}'''Prix''' 10 po ; '''Poids''' 1 kg  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
+<hr>
+Ces balles sont en réalité faites d’une pierre poreuse ou d’un bois dense qui absorbent les liquides et éclatent à l’impact. Les pierres-éponges sont souvent utilisées pour délivrer des [[Poisons|poisons]] ou de l’huile brûlante. Une fiole d’huile permet de saturer complètement 10 pierres-éponges. Lorsqu’elle est enflammée (par une [[action libre]] s’il y a du feu à disposition), une pierre-éponge brûlante imbibée d’huile inflige +1d2 points de dégâts de feu et peut enflammer les matériaux combustibles (comme un toit de chaume). Le fait de laisser brûler une pierre-éponge dans une poche de [[fronde (arme)|fronde]] pendant plus de 1d3 [[round|rounds]] [[brisé|brise]] la fronde.]]></raw>
+  <fullName>Pathfinder-RPG.pierres-éponges (arme)</fullName>
+</wikiPage>

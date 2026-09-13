@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Petit-gris</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-21 16:02:59Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.sous-type Petit-gris</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type Petit-gris</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Paralysie (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Anticipation des pensées</link><link>Pathfinder-RPG.Coup mental II</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.Clignotement</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Science de la volonté de fer</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Paralysé</link><link>Pathfinder-RPG.Modification de mémoire</link><link>Pathfinder-RPG.Sans défense</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.contact</link><link>Pathfinder-RPG.Étourdi</link><link>Pathfinder-RPG.Intelligence</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Petit-gris&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.203&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Petit-Gris.html&quot; title=&quot;Petit-gris (sous-type)&quot;&gt;petit-gris&lt;/a&gt;) de taille P, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 9 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 14, pris au d&#233;pourvu 11 (Dex +3, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 39 (6d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; contact, +2 (surcharge sensorielle)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;Paralysie (Ext ou Sur)&quot;&gt;paralysie&lt;/a&gt; du sommeil (DD 16), sonde
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Magie psychique&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +9)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+7 EP — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anticipation-Des-Pens&#233;es.html&quot; title=&quot;Anticipation des pens&#233;es&quot;&gt;anticipation des pens&#233;es&lt;/a&gt;&lt;/i&gt; (2 EP, DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Mental-Ii.html&quot; title=&quot;Coup mental II&quot;&gt;coup mental II&lt;/a&gt;&lt;/i&gt; (2 EP, DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil.html&quot; title=&quot;Sommeil&quot;&gt;sommeil&lt;/a&gt;&lt;/i&gt; (1 EP, DD 15)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +9)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Clignotement.html&quot; title=&quot;Clignotement&quot;&gt;clignotement&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 9, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 18, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +1 ; &lt;b&gt;DMD&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Volont&#233;-De-Fer.html&quot; title=&quot;Science de la volont&#233; de fer&quot;&gt;Science de la volont&#233; de fer&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (une au choix) +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo (ne peut pas parler) ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; d&#233;phasage
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou invasion (6-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;phasage (Sur).&lt;/b&gt; Un petit-gris peut se d&#233;phaser et traverser ainsi les murs et les obstacles mat&#233;riels. Pour utiliser ce pouvoir, un petit-gris doit commencer et terminer son tour hors des murs et des obstacles qu’il traverse. Il ne peut pas traverser des cr&#233;atures tangibles de cette fa&#231;on et sa vitesse de d&#233;placement est r&#233;duite de moiti&#233; quand il traverse un mur ou un obstacle. Cette affinit&#233; pour le d&#233;phasage permet &#224; un petit-gris d’activer et de d&#233;sactiver son pouvoir de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Clignotement.html&quot; title=&quot;Clignotement&quot;&gt;clignotement&lt;/a&gt;&lt;/i&gt; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; lors de son tour.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Paralysie du sommeil (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un petit-gris peut paralyser une cr&#233;ature endormie situ&#233;e &#224; 9 m&#232;tres ou moins dans son champ de vision. Une cible qui r&#233;ussit un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 17 reste endormie et b&#233;n&#233;ficie d’une immunit&#233; contre la paralysie du sommeil de ce petit-gris en particulier pendant 24 heures. Une cr&#233;ature qui rate son jet de sauvegarde se r&#233;veille &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Paralys&#233;.html&quot; title=&quot;Paralys&#233;&quot;&gt;paralys&#233;e&lt;/a&gt; pendant 1d6 minutes. Toute attaque ou action hostile entreprise contre la cible, &#224; l’exception du pouvoir de sonde d’un petit-gris, met fin &#224; la paralysie. Si la paralysie n’est pas interrompue pr&#233;matur&#233;ment, la cible se rendort &#224; la fin de la dur&#233;e de ce pouvoir et ne se souvient de rien de ce qui vient de se d&#233;rouler, comme si ce souvenir avait &#233;t&#233; effac&#233; avec une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-De-M&#233;moire.html&quot; title=&quot;Modification de m&#233;moire&quot;&gt;modification de m&#233;moire&lt;/a&gt;&lt;/i&gt;. La cr&#233;ature effectue un jet de Volont&#233; contre l’&#233;limination du souvenir et, en cas de r&#233;ussite, elle se souvient vaguement de sa paralysie et de la sonde. C’est un effet mental dont le DD des jets de sauvegarde est bas&#233; sur l’Intelligence.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sonde (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un petit-gris peut sonder l’esprit d’une unique cr&#233;ature intelligente, consciente et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Sansd&#233;fense.html&quot; title=&quot;Sans d&#233;fense&quot;&gt;sans d&#233;fense&lt;/a&gt;, qu’il touche. Pour chaque minute pass&#233;e &#224; la sonder, il obtient une r&#233;ponse &#224; une seule question (&#171; O&#249; se cache ta famille ? &#187;, par exemple) ou une information sur un sujet plus g&#233;n&#233;ral connu de la cr&#233;ature. En outre, tant que le petit-gris a sond&#233; l’esprit du sujet pendant au moins 1 minute, il peut choisir une comp&#233;tence de &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; dans laquelle le sujet poss&#232;de au moins 1 rang et effectue les tests du type de Connaissances choisi en appliquant le modificateur de comp&#233;tence du sujet &#224; la place du sien pendant 24 heures. C’est un &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effet mental&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Surcharge sensorielle (Sur).&lt;/b&gt; Une cr&#233;ature que le petit-gris parvient &#224; toucher avec son attaque de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquesdecontact.html&quot; title=&quot;contact&quot;&gt;contact&lt;/a&gt; est victime d’une surcharge sensorielle qui l’&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;tourdi.html&quot; title=&quot;&#201;tourdi&quot;&gt;&#233;tourdit&lt;/a&gt; pour 1d4 rounds, &#224; moins qu’elle ne r&#233;ussisse un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 16. Un petit-gris ne peut utiliser ses pouvoirs de sonde et de surcharge sensorielle en m&#234;me temps et doit choisir l’un ou l’autre chaque fois qu’il parvient &#224; toucher une cr&#233;ature. Le DD du jet de sauvegarde est bas&#233; sur l’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet humano&#239;de &#224; la peau grise a de longs membres tout fins et une t&#234;te bulbeuse avec deux yeux noirs trop grands.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les &#233;nigmatiques petits-gris se rendent sur le plan Mat&#233;riel en qu&#234;te de savoir et de sp&#233;cimens vivants sur lesquels ils m&#232;nent leurs recherches. On ne sait toutefois pas grand-chose de leurs motivations ou de leurs origines. Les histoires &#224; propos des rencontres avec ces cr&#233;atures relatent les vagues cauchemars des personnes ayant succomb&#233; &#224; la paralysie du sommeil d’un petit-gris. Certains ex-captifs se souviennent des petits-gris les embarquant dans leurs grands vaisseaux extraterrestres pour les soumettre &#224; leurs exp&#233;riences cauchemardesques. D’autres conservent des souvenirs terrifiants et vivaces de confinement dans des endroits exigus et obscurs. Malgr&#233; ces diff&#233;rences, les personnes ayant d&#233;j&#224; rencontr&#233; des petits-gris les trouvent tous profond&#233;ment &#233;tranges, condescendants et sinistres. Les mouvements et les expressions des petits-gris sont d&#233;routants et inhumains, leurs intentions insondables. Lorsqu’ils entrent en contact t&#233;l&#233;pathique avec des cr&#233;atures, celles-ci ressentent une pr&#233;sence malveillante intense et inflexible. En dehors de cela, le visage et les grands yeux noirs des petits-gris ne montrent que peu d’&#233;motions. Leurs mouvements sont pr&#233;cis et ils passent souvent plusieurs minutes en d&#233;lib&#233;ration avant chacun de leurs mouvements. Ils semblent ne communiquer entre eux que par t&#233;l&#233;pathie, le langage corporel et le contact visuel ne leur sont d’aucune utilit&#233;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Petit-gris|FP 4}
+{s:pucem|Humanoïde|Ville|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.203]]''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type petit-gris|petit-gris]]) de taille P, NM}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 9 m ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)}
+{s:BDTexte|'''pv''' 39 (6d8+12)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +4, '''Vol''' +9}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m}
+{s:BDTexte|'''Corps à corps''' contact, +2 (surcharge sensorielle)}
+{s:BDTexte|'''Attaques spéciales''' [[Paralysie (capacité)|paralysie]] du sommeil (DD 16), sonde}
+{s:BDTexte|'''Magie psychique''' ([[NLS]] 5 ; [[concentration]] +9)}
+{s:BDSorts|7 EP — ''[[anticipation des pensées]]'' (2 EP, DD 16), ''[[coup mental II]]'' (2 EP, DD 16), ''[[sommeil]]'' (1 EP, DD 15)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 5 ; [[concentration]] +9)}
+{s:BDSorts|Constant — ''[[clignotement]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 9, '''Dex''' 16, '''Con''' 15, '''Int''' 18, '''Sag''' 14, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +1 ; '''DMD''' 13}
+{s:BDTexte|'''Dons''' [[Magie de guerre]], [[Science de la volonté de fer]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +10, [[Connaissances]] (mystères) +7, [[Connaissances]] (plans) +10, [[Connaissances]] (une au choix) +10, [[Perception]] +8, [[Premiers secours]] +8, [[Psychologie]] +8}
+{s:BDTexte|'''Langues''' aklo (ne peut pas parler) ; [[Télépathie (capacité)|télépathie]] 30 m}
+{s:BDTexte|'''Particularités''' déphasage}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous}
+{s:BDTexte|'''Organisation''' solitaire, couple ou invasion (6-12)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Déphasage (Sur).''' Un petit-gris peut se déphaser et traverser ainsi les murs et les obstacles matériels. Pour utiliser ce pouvoir, un petit-gris doit commencer et terminer son tour hors des murs et des obstacles qu’il traverse. Il ne peut pas traverser des créatures tangibles de cette façon et sa vitesse de déplacement est réduite de moitié quand il traverse un mur ou un obstacle. Cette affinité pour le déphasage permet à un petit-gris d’activer et de désactiver son pouvoir de ''[[clignotement]]'' par une [[action libre]] lors de son tour.}
+{s:BDTexte|'''Paralysie du sommeil (Sur).''' Par une [[action simple]], un petit-gris peut paralyser une créature endormie située à 9 mètres ou moins dans son champ de vision. Une cible qui réussit un jet de [[Volonté]] DD 17 reste endormie et bénéficie d’une immunité contre la paralysie du sommeil de ce petit-gris en particulier pendant 24 heures. Une créature qui rate son jet de sauvegarde se réveille [[paralysé|paralysée]] pendant 1d6 minutes. Toute attaque ou action hostile entreprise contre la cible, à l’exception du pouvoir de sonde d’un petit-gris, met fin à la paralysie. Si la paralysie n’est pas interrompue prématurément, la cible se rendort à la fin de la durée de ce pouvoir et ne se souvient de rien de ce qui vient de se dérouler, comme si ce souvenir avait été effacé avec une ''[[modification de mémoire]]''. La créature effectue un jet de Volonté contre l’élimination du souvenir et, en cas de réussite, elle se souvient vaguement de sa paralysie et de la sonde. C’est un effet mental dont le DD des jets de sauvegarde est basé sur l’Intelligence.}
+{s:BDTexte|'''Sonde (Sur).''' Par une [[action simple]], un petit-gris peut sonder l’esprit d’une unique créature intelligente, consciente et [[sans défense]], qu’il touche. Pour chaque minute passée à la sonder, il obtient une réponse à une seule question (« Où se cache ta famille ? », par exemple) ou une information sur un sujet plus général connu de la créature. En outre, tant que le petit-gris a sondé l’esprit du sujet pendant au moins 1 minute, il peut choisir une compétence de [[Connaissances]] dans laquelle le sujet possède au moins 1 rang et effectue les tests du type de Connaissances choisi en appliquant le modificateur de compétence du sujet à la place du sien pendant 24 heures. C’est un [[registre|effet mental]].}
+{s:BDTexte|'''Surcharge sensorielle (Sur).''' Une créature que le petit-gris parvient à toucher avec son attaque de [[contact]] est victime d’une surcharge sensorielle qui l’[[étourdi|étourdit]] pour 1d4 rounds, à moins qu’elle ne réussisse un jet de [[Volonté]] DD 16. Un petit-gris ne peut utiliser ses pouvoirs de sonde et de surcharge sensorielle en même temps et doit choisir l’un ou l’autre chaque fois qu’il parvient à toucher une créature. Le DD du jet de sauvegarde est basé sur l’[[Intelligence]].}
+
+</div></td>
+<td><div>''Cet humanoïde à la peau grise a de longs membres tout fins et une tête bulbeuse avec deux yeux noirs trop grands.''
+
+Les énigmatiques petits-gris se rendent sur le plan Matériel en quête de savoir et de spécimens vivants sur lesquels ils mènent leurs recherches. On ne sait toutefois pas grand-chose de leurs motivations ou de leurs origines. Les histoires à propos des rencontres avec ces créatures relatent les vagues cauchemars des personnes ayant succombé à la paralysie du sommeil d’un petit-gris. Certains ex-captifs se souviennent des petits-gris les embarquant dans leurs grands vaisseaux extraterrestres pour les soumettre à leurs expériences cauchemardesques. D’autres conservent des souvenirs terrifiants et vivaces de confinement dans des endroits exigus et obscurs. Malgré ces différences, les personnes ayant déjà rencontré des petits-gris les trouvent tous profondément étranges, condescendants et sinistres. Les mouvements et les expressions des petits-gris sont déroutants et inhumains, leurs intentions insondables. Lorsqu’ils entrent en contact télépathique avec des créatures, celles-ci ressentent une présence malveillante intense et inflexible. En dehors de cela, le visage et les grands yeux noirs des petits-gris ne montrent que peu d’émotions. Leurs mouvements sont précis et ils passent souvent plusieurs minutes en délibération avant chacun de leurs mouvements. Ils semblent ne communiquer entre eux que par télépathie, le langage corporel et le contact visuel ne leur sont d’aucune utilité.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Petit-gris</fullName>
+</wikiPage>

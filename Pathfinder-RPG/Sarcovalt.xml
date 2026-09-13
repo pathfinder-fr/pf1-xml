@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Sarcovalt</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-08-15 14:59:45Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.Perception de la mort</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Férocité (capacité)</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Saignement (capacité)</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.absorption de sang (capacité)</link><link>Pathfinder-RPG.Maladie (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Purification de nourriture et deau</link><link>Pathfinder-RPG.Animation des morts mineure</link><link>Pathfinder-RPG.Mise à mort</link><link>Pathfinder-RPG.Vomir une nuée</link><link>Pathfinder-RPG.Contagion</link><link>Pathfinder-RPG.Flèche acide</link><link>Pathfinder-RPG.Nuage nauséabond</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Maladies</link><link>Pathfinder-RPG.vorpale (propriété)</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Urgathoa (technique)</link><link>Pathfinder-RPG.Psychopompes</link><link>Pathfinder-RPG.Pharasma (technique)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sarcovalt&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille TP, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Mort.html&quot; title=&quot;Perception de la mort&quot;&gt;perception de la mort&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 15, pris au d&#233;pourvu 16 (Dex +3, naturelle +4, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 34 (4d10+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;F&#233;rocit&#233;-(Capacit&#233;).html&quot; title=&quot;F&#233;rocit&#233; (Ext)&quot;&gt;f&#233;rocit&#233;&lt;/a&gt; ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; maladie ; &lt;b&gt;RD&lt;/b&gt; 5/argent ou Bien ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, froid 10 ; &lt;b&gt;RM&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, escalade 6 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 18 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +9 (1d8+1 plus &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt;, maladie, et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 0,75 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Absorption-De-Sang-(Capacit&#233;).html&quot; title=&quot;Absorption de sang (Ext)&quot;&gt;absorption de sang&lt;/a&gt; (1d2 Constitution), &lt;a class=&quot;pagelink&quot; href=&quot;Maladie-(Capacit&#233;).html&quot; title=&quot;Maladie (Ext ou Sur)&quot;&gt;maladie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Saignement-(Capacit&#233;).html&quot; title=&quot;Saignement (Ext)&quot;&gt;saignement&lt;/a&gt; (1d6), t&#234;te d&#233;tachable
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 4 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Mort.html&quot; title=&quot;Perception de la mort&quot;&gt;perception de la mort&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Purification-De-Nourriture-Et-Deau.html&quot; title=&quot;Purification de nourriture et d&amp;#39;eau&quot;&gt;purification de nourriture et d&#39;eau&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animation-Des-Morts-Mineure.html&quot; title=&quot;Animation des morts mineure&quot;&gt;animation des morts mineure&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mise-&#192;-Mort.html&quot; title=&quot;Mise &#224; mort&quot;&gt;mise &#224; mort&lt;/a&gt;&lt;/i&gt; (DD 10), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vomir-Une-Nu&#233;e.html&quot; title=&quot;Vomir une nu&#233;e&quot;&gt;vomir une nu&#233;e&lt;/a&gt;&lt;/i&gt; (voir ci-dessous)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contagion.html&quot; title=&quot;Contagion&quot;&gt;contagion&lt;/a&gt;&lt;/i&gt; (DD 11), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#232;che-Acide.html&quot; title=&quot;Fl&#232;che acide&quot;&gt;fl&#232;che acide&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nuage-Naus&#233;abond.html&quot; title=&quot;Nuage naus&#233;abond&quot;&gt;nuage naus&#233;abond&lt;/a&gt;&lt;/i&gt; (DD 10)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4 ; &lt;b&gt;BMO&lt;/b&gt; +5 (+9 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 18 (26 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, infernal ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; &#224; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; nu&#233;e maladive
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Abaddon)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple, ou nu&#233;e (3–5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Ext).&lt;/b&gt; Fi&#232;vre des marais : Morsure - blessure ; &lt;i&gt;jds&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 15; &lt;i&gt;incubation&lt;/i&gt; 1d3 jours ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; 1d3 Dext&#233;rit&#233; et 1d3 Constitution ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Nu&#233;e maladive (Sur).&lt;/b&gt; Le pouvoir &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vomir-Une-Nu&#233;e.html&quot; title=&quot;Vomir une nu&#233;e&quot;&gt;vomir une nu&#233;e&lt;/a&gt;&lt;/i&gt; d&#39;un sarcovalt convoque un nuage de mouches plut&#244;t qu&#39;un essaim d&#39;araign&#233;es. Cette nu&#233;e poss&#232;de une vitesse de vol de 12 m (bonne) et inocule la &lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html#FIEVREDESMARRAIS&quot; title=&quot;Les maladies&quot;&gt;fi&#232;vre des marais&lt;/a&gt; (DD 12) chez ses cibles &#224; la place du poison habituel.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;T&#234;te d&#233;tachable (Sur).&lt;/b&gt; Un sarcovalt peut survivre sans sa t&#234;te. Les attaques qui lui tranchent la t&#234;te (comme celles d&#39;une arme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Vorpale.html&quot; title=&quot;vorpale (propri&#233;t&#233;)&quot;&gt;vorpale&lt;/a&gt;&lt;/i&gt;) ne le tuent pas. S&#39;il est attaqu&#233; par plusieurs cr&#233;atures, il saisit un adversaire, d&#233;tache sa t&#234;te (qui continue &#224; absorber le sang de sa cible) et utilise son corps pour continuer &#224; attaquer avec ses pouvoirs magiques. Sa t&#234;te et son corps partagent les m&#234;mes points de vie, mais sont trait&#233;s comme des cr&#233;atures diff&#233;rentes lorsqu&#39;ils sont s&#233;par&#233;s. La t&#234;te a une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; de 19, contact 15, pris au d&#233;pourvu 16 (Dex +3, naturelle +4, taille +2) et peut voler &#224; la vitesse normale de la cr&#233;ature. La t&#234;te ne peut pas lancer d&#39;attaques par elle-m&#234;me, et si elle est retir&#233;e d&#39;une cible, elle retourne vers le corps &#224; son prochain tour. Le corps ne peut pas voir, mais il peut percevoir &#224; travers les cavit&#233;s oculaires de la t&#234;te s&#39;il a une ligne d&#39;effet avec la t&#234;te.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette mouche domestique de la taille d&#39;un cheval a un cou de vautour qui sort de son corps, surmont&#233; d&#39;un cr&#226;ne de vautour sans chair.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les sarcovalts sont des serviteurs charognards d&#233;go&#251;tants d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Urgathoa-(Technique).html&quot; title=&quot;Urgathoa&quot;&gt;Urgathoa&lt;/a&gt; qui ramassent la salet&#233; et les restes d&#39;&#226;mes d&#233;vor&#233;es dans son royaume planaire. Ils ont peu d&#39;identit&#233; personnelle et se souviennent &#224; peine d&#39;&#233;v&#233;nements datant de plus de quelques heures. Bien qu&#39;ils soient suffisamment intelligents pour converser et reconna&#238;tre leur propre esp&#232;ce, les autres serviteurs de la Princesse p&#226;le et les d&#233;mons, ils ont tendance &#224; consid&#233;rer les autres cr&#233;atures comme des menaces ou de la nourriture. Les sarcovalts travaillent parfois ensemble pour tuer des proies plus grosses, mais ils se contentent g&#233;n&#233;ralement de manger les restes laiss&#233;s par des ext&#233;rieurs plus puissants.&lt;br /&gt;&lt;br /&gt;Un sarcovalt ressemble &#224; une &#233;norme mouche avec un cou de vautour, mais au lieu d&#39;une t&#234;te charnue, sa t&#234;te est le cr&#226;ne nu d&#39;un vautour avec des yeux noirs scintillants. Lorsque son cr&#226;ne est d&#233;tach&#233;, son cou chauve se termine par un moignon de chair en lambeaux. Il savoure l&#39;occasion de boire du sang, mais ne peut l&#39;avaler, et c&#39;est pourquoi son cr&#226;ne est normalement peint avec le fluide vital de ses victimes. Dans leur empressement &#224; d&#233;chiqueter les corps, en particulier la chair vivante, ces charognards avides se retrouvent souvent pi&#233;g&#233;s dans leur cr&#226;ne par de petits tr&#233;sors comme des amulettes, des anneaux ou d&#39;autres &#233;quipements port&#233;s pr&#232;s du corps. Apr&#232;s avoir laiss&#233; ces objets s&#39;agiter dans leur t&#234;te pendant quelques jours, ils les vomissent sans c&#233;r&#233;monie, enrob&#233;s des restes ignobles de leurs derniers repas. Les sarcovalts utilisent leur cr&#226;ne de la m&#234;me mani&#232;re que les &lt;a class=&quot;pagelink&quot; href=&quot;Psychopompes.html&quot; title=&quot;Les psychopompes&quot;&gt;psychopompes&lt;/a&gt; portent des masques, et les premiers sarcovalts pourraient avoir &#233;t&#233; cr&#233;&#233;s pour se moquer des serviteurs de &lt;a class=&quot;pagelink&quot; href=&quot;Pharasma-(Technique).html&quot; title=&quot;Pharasma&quot;&gt;Pharasma&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Les serviteurs d&#39;Urgathoa invoquent fr&#233;quemment des sarcovalts pour servir d&#39;&#233;claireurs et de sentinelles, ou de menaces pour semer la peur et la maladie dans les lieux qu&#39;ils cherchent &#224; terroriser. Dans le meilleur des cas, un seul sarcovalt peut r&#233;pandre une maladie entra&#238;nant la mort de dizaines de personnes, ce qui donne aux pr&#234;tres d&#39;Urgathoa de nombreux cadavres qu&#39;ils peuvent transformer en morts-vivants ou utiliser dans des complots plus terribles lorsqu&#39;ils se r&#233;v&#232;lent.&lt;br /&gt;&lt;br /&gt;Les sarcovalts mesurent 60 cm de long et p&#232;sent 2,5 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Sarcovalt|FP 4}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille TP, NM}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' ''[[perception de la mort]]'', [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 15, pris au dépourvu 16 (Dex +3, naturelle +4, taille +2)}
+{s:BDTexte|'''pv''' 34 (4d10+12)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +6, '''Vol''' +5}
+{s:BDTexte|'''Capacités défensives''' [[Férocité (capacité)|férocité]] ; '''Immunités''' maladie ; '''RD''' 5/argent ou Bien ; '''Résistances''' acide 10, froid 10 ; '''RM''' 15}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m, escalade 6 m, [[Vol (capacité)|vol]] 18 m (bonne)}
+{s:BDTexte|'''Corps à corps''' morsure, +9 (1d8+1 plus [[Saignement (capacité)|saignement]], maladie, et [[Étreinte (capacité)|étreinte]])}
+{s:BDTexte|'''Espace occupé''' 0,75 m ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' [[Absorption de sang (capacité)|absorption de sang]] (1d2 Constitution), [[Maladie (capacité)|maladie]], [[Saignement (capacité)|saignement]] (1d6), tête détachable}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 4 ; [[concentration]] +2)}
+{s:BDSorts|Constant — ''[[perception de la mort]]''}
+{s:BDSorts|À volonté — ''[[purification de nourriture et deau|purification de nourriture et d'eau]]''}
+{s:BDSorts|3/jour — ''[[animation des morts mineure]]'', ''[[mise à mort]]'' (DD 10), ''[[vomir une nuée]]'' (voir ci-dessous)}
+{s:BDSorts|1/jour — ''[[contagion]]'' (DD 11), ''[[flèche acide]]'', ''[[nuage nauséabond]]'' (DD 10)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 17, '''Con''' 16, '''Int''' 10, '''Sag''' 13, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +4 ; '''BMO''' +5 (+9 en [[lutte]]) ; '''DMD''' 18 (26 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (nature) +7, [[Connaissances]] (religion) +7, [[Discrétion]] +18, [[Escalade]] +9, [[Intimidation]] +5, [[Perception]] +8, [[Survie]] +8, [[Vol]] +11}
+{s:BDTexte|'''Langues''' abyssal, infernal ; [[Télépathie (capacité)|télépathie]] à 9 m}
+{s:BDTexte|'''Particularités''' nuée maladive}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Abaddon)}
+{s:BDTexte|'''Organisation''' solitaire, couple, ou nuée (3–5)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Maladie (Ext).''' Fièvre des marais : Morsure - blessure ; ''jds'' [[Vigueur]] DD 15; ''incubation'' 1d3 jours ; ''fréquence'' 1/jour ; ''effet'' 1d3 Dextérité et 1d3 Constitution ; ''guérison'' 2 réussites consécutives.}
+{s:BDTexte|'''Nuée maladive (Sur).''' Le pouvoir ''[[vomir une nuée]]'' d'un sarcovalt convoque un nuage de mouches plutôt qu'un essaim d'araignées. Cette nuée possède une vitesse de vol de 12 m (bonne) et inocule la [[Maladies#FIEVREDESMARRAIS|fièvre des marais]] (DD 12) chez ses cibles à la place du poison habituel.}
+{s:BDTexte|'''Tête détachable (Sur).''' Un sarcovalt peut survivre sans sa tête. Les attaques qui lui tranchent la tête (comme celles d'une arme ''[[vorpale (propriété)|vorpale]]'') ne le tuent pas. S'il est attaqué par plusieurs créatures, il saisit un adversaire, détache sa tête (qui continue à absorber le sang de sa cible) et utilise son corps pour continuer à attaquer avec ses pouvoirs magiques. Sa tête et son corps partagent les mêmes points de vie, mais sont traités comme des créatures différentes lorsqu'ils sont séparés. La tête a une [[CA]] de 19, contact 15, pris au dépourvu 16 (Dex +3, naturelle +4, taille +2) et peut voler à la vitesse normale de la créature. La tête ne peut pas lancer d'attaques par elle-même, et si elle est retirée d'une cible, elle retourne vers le corps à son prochain tour. Le corps ne peut pas voir, mais il peut percevoir à travers les cavités oculaires de la tête s'il a une ligne d'effet avec la tête.}
+</div>
+</td><td><div>''Cette mouche domestique de la taille d'un cheval a un cou de vautour qui sort de son corps, surmonté d'un crâne de vautour sans chair.''
+
+Les sarcovalts sont des serviteurs charognards dégoûtants d'[[Urgathoa (technique)|Urgathoa]] qui ramassent la saleté et les restes d'âmes dévorées dans son royaume planaire. Ils ont peu d'identité personnelle et se souviennent à peine d'événements datant de plus de quelques heures. Bien qu'ils soient suffisamment intelligents pour converser et reconnaître leur propre espèce, les autres serviteurs de la Princesse pâle et les démons, ils ont tendance à considérer les autres créatures comme des menaces ou de la nourriture. Les sarcovalts travaillent parfois ensemble pour tuer des proies plus grosses, mais ils se contentent généralement de manger les restes laissés par des extérieurs plus puissants.
+
+Un sarcovalt ressemble à une énorme mouche avec un cou de vautour, mais au lieu d'une tête charnue, sa tête est le crâne nu d'un vautour avec des yeux noirs scintillants. Lorsque son crâne est détaché, son cou chauve se termine par un moignon de chair en lambeaux. Il savoure l'occasion de boire du sang, mais ne peut l'avaler, et c'est pourquoi son crâne est normalement peint avec le fluide vital de ses victimes. Dans leur empressement à déchiqueter les corps, en particulier la chair vivante, ces charognards avides se retrouvent souvent piégés dans leur crâne par de petits trésors comme des amulettes, des anneaux ou d'autres équipements portés près du corps. Après avoir laissé ces objets s'agiter dans leur tête pendant quelques jours, ils les vomissent sans cérémonie, enrobés des restes ignobles de leurs derniers repas. Les sarcovalts utilisent leur crâne de la même manière que les [[psychopompes]] portent des masques, et les premiers sarcovalts pourraient avoir été créés pour se moquer des serviteurs de [[Pharasma (technique)|Pharasma]].
+
+Les serviteurs d'Urgathoa invoquent fréquemment des sarcovalts pour servir d'éclaireurs et de sentinelles, ou de menaces pour semer la peur et la maladie dans les lieux qu'ils cherchent à terroriser. Dans le meilleur des cas, un seul sarcovalt peut répandre une maladie entraînant la mort de dizaines de personnes, ce qui donne aux prêtres d'Urgathoa de nombreux cadavres qu'ils peuvent transformer en morts-vivants ou utiliser dans des complots plus terribles lorsqu'ils se révèlent.
+
+Les sarcovalts mesurent 60 cm de long et pèsent 2,5 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Sarcovalt</fullName>
+</wikiPage>

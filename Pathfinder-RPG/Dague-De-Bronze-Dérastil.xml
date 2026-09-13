@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dague de bronze d'Érastil</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-06-13 21:15:45Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.école divination</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Érastil (technique)</link><link>Pathfinder-RPG.Coup au but</link><link>Pathfinder-RPG.boomerang (propriété)</link><link>Pathfinder-RPG.arme de maître</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Création de nourriture et deau</link><link>Pathfinder-RPG.Ralentissement du poison</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Érastil (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fErastil.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.&#201;rastil (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fErastil.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;&#201;rastil-(Technique).html&quot; title=&quot;&#201;rastil&quot;&gt;&#201;rastil&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dague de bronze d&#39;&#201;rastil&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Divination.html&quot; title=&quot;Divination&quot;&gt;Divination&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 3 300 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette dague de bronze ancienne porte le symbole d&#39;&#201;rastil sur sa lame. Con&#231;ue comme un outil de chasse, il est impossible de l&#39;utiliser comme une arme. Tant que le personnage la porte, il est capable de trouver assez de nourriture et d’eau dans la nature pour &#233;tancher la faim et la soif d&#39;une cr&#233;ature (que ce soit lui ou une personne qui l&#39;accompagne). De plus, il b&#233;n&#233;ficie d’un bonus de r&#233;sistance de +1 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Si le personnage est un fid&#232;le d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;rastil-(Technique).html&quot; title=&quot;&#201;rastil&quot;&gt;&#201;rastil&lt;/a&gt;, il peut, une fois par jour et apr&#232;s avoir prononc&#233; un mot de commande, utiliser le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt;. Une fois par jour, le personnage peut prononcer un mot de commande pour conf&#233;rer &#224; une arme de jet, une fl&#232;che ou un carreau qu’il touche la propri&#233;t&#233; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Boomerang.html&quot; title=&quot;boomerang (propri&#233;t&#233;)&quot;&gt;boomerang&lt;/a&gt;&lt;/i&gt; pendant 1 minute. Une fl&#232;che ou un carreau magique qui revient au lanceur ne conserve pas ses propri&#233;t&#233;s magiques mais reste utilisable en tant que munition &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armesmaitre.html&quot; title=&quot;arme de ma&#238;tre&quot;&gt;de ma&#238;tre&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Nourriture-Et-Deau.html&quot; title=&quot;Cr&#233;ation de nourriture et d&amp;#39;eau&quot;&gt;cr&#233;ation de nourriture et d’eau&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ralentissement-Du-Poison.html&quot; title=&quot;Ralentissement du poison&quot;&gt;ralentissement du poison&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Coup-Au-But.html&quot; title=&quot;Coup au but&quot;&gt;coup au but&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 650 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png}<div class="BD">
+{s:BDTitre|Dague de bronze d'Érastil|{s:ISG}{s:GeM}}
+'''Aura''' [[école Divination|Divination]] faible ; '''NLS''' 5 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 3 300 po ; '''Poids''' 0,5 kg
+(((Description)))
+Cette dague de bronze ancienne porte le symbole d'Érastil sur sa lame. Conçue comme un outil de chasse, il est impossible de l'utiliser comme une arme. Tant que le personnage la porte, il est capable de trouver assez de nourriture et d’eau dans la nature pour étancher la faim et la soif d'une créature (que ce soit lui ou une personne qui l'accompagne). De plus, il bénéficie d’un bonus de résistance de +1 aux jets de [[Vigueur]].
+
+Si le personnage est un fidèle d'[[Érastil (technique)|Érastil]], il peut, une fois par jour et après avoir prononcé un mot de commande, utiliser le sort ''[[coup au but]]''. Une fois par jour, le personnage peut prononcer un mot de commande pour conférer à une arme de jet, une flèche ou un carreau qu’il touche la propriété ''[[boomerang (propriété)|boomerang]]'' pendant 1 minute. Une flèche ou un carreau magique qui revient au lanceur ne conserve pas ses propriétés magiques mais reste utilisable en tant que munition [[arme de maître|de maître]].
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[création de nourriture et deau|création de nourriture et d’eau]]'', ''[[ralentissement du poison]]'', ''[[manipulation à distance]]'', ''[[coup au but]]'' ; '''Coût''' 1 650 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Dague de bronze dÉrastil</fullName>
+</wikiPage>

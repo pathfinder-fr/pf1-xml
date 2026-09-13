@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Breuvage de guerre hobgobelin</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:45:40Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Hobgobelin (race)</link><link>Pathfinder-RPG.Outils alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Hobgobelin (race)</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Secoué</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.sous-type gobelinoïde</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Hobgobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Hobgobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Hobgobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Hobgobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Hobgobelin-(Race).html&quot; title=&quot;Les hobgobelins&quot;&gt;hobgobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 10 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 20  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette boisson est un m&#233;lange alchimique naus&#233;abond d’alcool brut, d’asticots &#233;cras&#233;s et de champignons m&#233;dicinaux. Un &lt;a class=&quot;pagelink&quot; href=&quot;Hobgobelin-(Race).html&quot; title=&quot;Les hobgobelins&quot;&gt;hobgobelin&lt;/a&gt; sous les effets de ce breuvage de guerre ignore tous les malus dus aux &#233;tats pr&#233;judiciables &lt;a class=&quot;pagelink&quot; href=&quot;../&#201;tats pr&#233;judiciables#Fatigu&#233;
+
+Un personnage fatigu&#233; est dans l’incapacit&#233; de courir et de charger/-Il-Subit-Un-Malus-De--2-En-Force-Ainsi-Qu’En-Dext&#233;rit&#233;.-La-Fatigue-Se-Dissipe-Au-Bout-De-Huit-Heures-De-Repos-Total.-Un-Personnage-Fatigu&#233;-Devient-&#201;puis&#233;-D&#232;s-Qu’Il-Fait-Quoi-Que-Ce-Soit-Qui-Causerait-Un-Nouvel-&#201;tat-Fatigu&#233;..html&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Secou&#233;.html&quot; title=&quot;secou&#233;&quot;&gt;secou&#233;&lt;/a&gt; pendant 10 minutes, apr&#232;s quoi il doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Fi&#233;vreux.html&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreux&lt;/a&gt; pendant 1 heure. Quiconque n’est pas de sous-type &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Gobelino&#239;de.html&quot; title=&quot;Gobelino&#239;de (sous-type)&quot;&gt;gobelino&#239;de&lt;/a&gt; et boit du breuvage de guerre doit imm&#233;diatement faire un jet de Vigueur DD 15 ou &#234;tre fi&#233;vreux pendant 1 heure ; si le buveur r&#233;ussit son jet, il ignore tous les malus dus aux &#233;tats pr&#233;judiciables fatigu&#233; et secou&#233; pendant 1 minute, apr&#232;s quoi il est fi&#233;vreux pendant 10 minutes. Le breuvage de guerre hobgobelin n’a aucun effet sur les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;immunis&#233;es&lt;/a&gt; aux poisons.
+]]></body>
+  <raw><![CDATA[{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:MR}'''Prix''' 10 po ; '''Poids''' 0,5 kg ; '''DD d'Artisanat (alchimie)''' 20  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+Cette boisson est un mélange alchimique nauséabond d’alcool brut, d’asticots écrasés et de champignons médicinaux. Un [[Hobgobelin (race)|hobgobelin]] sous les effets de ce breuvage de guerre ignore tous les malus dus aux états préjudiciables [[fatigué]] et [[secoué]] pendant 10 minutes, après quoi il doit réussir un jet de [[Vigueur]] [[DD]] 15 ou être [[fiévreux]] pendant 1 heure. Quiconque n’est pas de sous-type [[sous-type Gobelinoïde|gobelinoïde]] et boit du breuvage de guerre doit immédiatement faire un jet de Vigueur DD 15 ou être fiévreux pendant 1 heure ; si le buveur réussit son jet, il ignore tous les malus dus aux états préjudiciables fatigué et secoué pendant 1 minute, après quoi il est fiévreux pendant 10 minutes. Le breuvage de guerre hobgobelin n’a aucun effet sur les créatures [[Immunité (capacité)|immunisées]] aux poisons.]]></raw>
+  <fullName>Pathfinder-RPG.Breuvage de guerre hobgobelin (objet)</fullName>
+</wikiPage>

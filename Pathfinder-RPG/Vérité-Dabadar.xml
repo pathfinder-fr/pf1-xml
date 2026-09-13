@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Vérité d'Abadar</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort inquisiteur 1</category><category>Pathfinder-RPG.Sort paladin 1</category><category>Pathfinder-RPG.Sort prêtre 1</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:54:14Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Abadar (technique)</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Liste des sorts par registre</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.branche coercition</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Zone de vérité</link><link>Pathfinder-RPG.Archon</link><link>Pathfinder-RPG.Inévitable</link><link>Pathfinder-RPG.Abadar (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fAbadar.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Abadar (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fAbadar.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Abadar-(Technique).html&quot; title=&quot;Abadar&quot;&gt;Abadar&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Coercition.html&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effet mental&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Pal&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 1  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, DF&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; contact  
+&lt;b&gt;Cible&lt;/b&gt; cr&#233;ature touch&#233;e  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 minute/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; Volont&#233;, annule ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Ce sort fonctionne comme le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Zone-De-V&#233;rit&#233;.html&quot; title=&quot;Zone de v&#233;rit&#233;&quot;&gt;zone de v&#233;rit&#233;&lt;/a&gt;&lt;/i&gt;, &#224; l’exception de ce qui est indiqu&#233; plus haut. La cible prend temporairement l&#39;apparence d&#39;un &#234;tre personnifiant l&#39;ordre, comme un &lt;a class=&quot;pagelink&quot; href=&quot;Archon.html&quot; title=&quot;Les archons&quot;&gt;archon&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;In&#233;vitable.html&quot; title=&quot;Les in&#233;vitables&quot;&gt;in&#233;vitable&lt;/a&gt;, afin que tous ceux qui la voient sachent qu&#39;elle est affect&#233;e par ce sort. Ce d&#233;guisement divin vacille sur la cible pendant quelques instants et ne lui permet pas de passer pour un membre d&#39;une race diff&#233;rente.
+]]></body>
+  <raw><![CDATA[{s:divin|Abadar|%2fPCUP%2fReligion-PNG%2fAbadar.png}{s:ISG}{s:GeM}'''École''' [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; '''Niveau''' [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, DF]]  
+'''Portée''' contact  
+'''Cible''' créature touchée  
+'''Durée''' 1 minute/[[niveau]]  
+'''Jet de sauvegarde''' Volonté, annule ; '''Résistance à la magie''' oui
+
+Ce sort fonctionne comme le sort ''[[zone de vérité]]'', à l’exception de ce qui est indiqué plus haut. La cible prend temporairement l'apparence d'un être personnifiant l'ordre, comme un [[archon]] ou un [[inévitable]], afin que tous ceux qui la voient sachent qu'elle est affectée par ce sort. Ce déguisement divin vacille sur la cible pendant quelques instants et ne lui permet pas de passer pour un membre d'une race différente.]]></raw>
+  <fullName>Pathfinder-RPG.Vérité dAbadar</fullName>
+</wikiPage>

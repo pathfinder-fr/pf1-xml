@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Poche de vérole</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-04 15:14:04Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Armes alchimiques</link><link>Pathfinder-RPG.Homme-rat (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Armes alchimiques</link><link>Pathfinder-RPG.arme à aspersion</link><link>Pathfinder-RPG.attaque de contact</link><link>Pathfinder-RPG.facteur de portée</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Maladies</link><link>Pathfinder-RPG.Homme-rat (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Homme-rat.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Homme-rat (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Homme-rat.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Rat-(Race).html&quot; title=&quot;Les hommes-rats&quot;&gt;h-rats&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 50 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 20  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Alchimiques.html&quot; title=&quot;Armes alchimiques&quot;&gt;Armes alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Une poche de v&#233;role est une gourde ou vessie animale alchimiquement prot&#233;g&#233;e que l’on a remplie de mat&#233;riaux toxiques en d&#233;composition. Le personnage peut lancer une poche de v&#233;role comme une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Armeaspersion.html&quot; title=&quot;arme &#224; aspersion&quot;&gt;arme &#224; aspersion&lt;/a&gt;. Traitez cette attaque comme une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquesdecontact.html&quot; title=&quot;attaque de contact&quot;&gt;attaque de contact&lt;/a&gt; &#224; distance avec un &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Facteurdeportee.html&quot; title=&quot;facteur de port&#233;e&quot;&gt;facteur de port&#233;e&lt;/a&gt; de 3 m&#232;tres. Si la cible est touch&#233;e directement, elle doit faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13 ou contracter la &lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html#FIEVREDESMARRAIS&quot; title=&quot;Les maladies&quot;&gt;fi&#232;vre des marais&lt;/a&gt;. Tous les espaces adjacents &#224; la case occup&#233;e par la cible de la poche de v&#233;role sont recouverts de salet&#233;s infectieuses. Au cours de la minute qui suit, toutes les cr&#233;atures bless&#233;es se trouvant dans l’un de ces espaces doivent &#233;galement r&#233;ussir un jet de Vigueur DD 9 ou contracter la fi&#232;vre des marais.
+]]></body>
+  <raw><![CDATA[{s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}{s:MR}'''Prix''' 50 po ; '''Poids''' 0,5 kg ; '''DD d'Artisanat (alchimie)''' 20  
+<span class="Catégorie">'''Catégorie''' [[Armes alchimiques]]</span>
+<hr>
+Une poche de vérole est une gourde ou vessie animale alchimiquement protégée que l’on a remplie de matériaux toxiques en décomposition. Le personnage peut lancer une poche de vérole comme une [[arme à aspersion]]. Traitez cette attaque comme une [[attaque de contact]] à distance avec un [[facteur de portée]] de 3 mètres. Si la cible est touchée directement, elle doit faire un jet de [[Vigueur]] [[DD]] 13 ou contracter la [[Maladies#FIEVREDESMARRAIS|fièvre des marais]]. Tous les espaces adjacents à la case occupée par la cible de la poche de vérole sont recouverts de saletés infectieuses. Au cours de la minute qui suit, toutes les créatures blessées se trouvant dans l’un de ces espaces doivent également réussir un jet de Vigueur DD 9 ou contracter la fièvre des marais.]]></raw>
+  <fullName>Pathfinder-RPG.Poche de vérole (objet)</fullName>
+</wikiPage>

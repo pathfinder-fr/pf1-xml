@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Infusion de puanteur</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-04 15:13:21Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Armes alchimiques</link><link>Pathfinder-RPG.Hobgobelin (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Armes alchimiques</link><link>Pathfinder-RPG.Hobgobelin (race)</link><link>Pathfinder-RPG.arme à aspersion</link><link>Pathfinder-RPG.facteur de portée</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Hobgobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Hobgobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Hobgobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Hobgobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Hobgobelin-(Race).html&quot; title=&quot;Les hobgobelins&quot;&gt;hobgobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 40 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 25  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Alchimiques.html&quot; title=&quot;Armes alchimiques&quot;&gt;Armes alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Musc animal, viande avari&#233;e, plantes piquantes et toute autre substance f&#233;tide &#224; port&#233;e de main viennent composer cette infusion de puanteur. Lorsqu’on fait bouillir ce m&#233;lange, il se transforme en une &#233;paisse vase alchimique adh&#233;rant &#224; tout ce qu’elle touche. Le &lt;a class=&quot;pagelink&quot; href=&quot;Hobgobelin-(Race).html&quot; title=&quot;Les hobgobelins&quot;&gt;hobgobelin&lt;/a&gt; peut projeter cette infusion de puanteur comme une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Armeaspersion.html&quot; title=&quot;arme &#224; aspersion&quot;&gt;arme &#224; aspersion&lt;/a&gt; avec un &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Facteurdeportee.html&quot; title=&quot;facteur de port&#233;e&quot;&gt;facteur de port&#233;e&lt;/a&gt; de 3 m&#232;tres. Une cr&#233;ature touch&#233;e directement doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Fi&#233;vreux.html&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuse&lt;/a&gt; pendant 2d6 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Si la cible rate son jet, elle doit faire un deuxi&#232;me jet de Vigueur ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Naus&#233;eux.html&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;euse&lt;/a&gt; pendant 1 round. Les cr&#233;atures situ&#233;es dans la zone d’aspersion doivent r&#233;ussir un jet de Vigueur ou &#234;tre fi&#233;vreuses pendant 1 round. Une cr&#233;ature qui boit une infusion de puanteur n’a pas droit &#224; un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; et est fi&#233;vreuse pendant 2d6 rounds et naus&#233;euse pendant 1 round.
+]]></body>
+  <raw><![CDATA[{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:MR}'''Prix''' 40 po ; '''Poids''' 0,5 kg ; '''DD d'Artisanat (alchimie)''' 25  
+<span class="Catégorie">'''Catégorie''' [[Armes alchimiques]]</span>
+<hr>
+Musc animal, viande avariée, plantes piquantes et toute autre substance fétide à portée de main viennent composer cette infusion de puanteur. Lorsqu’on fait bouillir ce mélange, il se transforme en une épaisse vase alchimique adhérant à tout ce qu’elle touche. Le [[Hobgobelin (race)|hobgobelin]] peut projeter cette infusion de puanteur comme une [[arme à aspersion]] avec un [[facteur de portée]] de 3 mètres. Une créature touchée directement doit réussir un jet de [[Vigueur]] [[DD]] 15 ou être [[fiévreux|fiévreuse]] pendant 2d6 [[round|rounds]]. Si la cible rate son jet, elle doit faire un deuxième jet de Vigueur ou être [[nauséeux|nauséeuse]] pendant 1 round. Les créatures situées dans la zone d’aspersion doivent réussir un jet de Vigueur ou être fiévreuses pendant 1 round. Une créature qui boit une infusion de puanteur n’a pas droit à un [[jds|jet de sauvegarde]] et est fiévreuse pendant 2d6 rounds et nauséeuse pendant 1 round.]]></raw>
+  <fullName>Pathfinder-RPG.Infusion de puanteur (objet)</fullName>
+</wikiPage>

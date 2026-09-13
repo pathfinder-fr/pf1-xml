@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bannière de la horde déferlante</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2024-06-17 14:20:39Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Science du renversement</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.orque (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Orque (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Banni&#232;re de la horde d&#233;ferlante&lt;div style=&quot;float:right;&quot;&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 10 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 60 000 po ; &lt;b&gt;Poids&lt;/b&gt; 2,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+La &lt;i&gt;banni&#232;re de la horde d&#233;ferlante&lt;/i&gt; est un drapeau en lambeaux qui fait g&#233;n&#233;ralement 90 centim&#232;tres de large pour un m&#232;tre quatre-vingt de long et qui repr&#233;sente la technique ou l’insigne d’une tribu ou d’une unit&#233; d’orques. Elle peut &#234;tre fix&#233;e &#224; un b&#226;ton, &#224; une perche plant&#233;e dans le sol ou au harnais d’un grand animal. Les alli&#233;s situ&#233;s dans un rayon de 18 m&#232;tres de la banni&#232;re b&#233;n&#233;ficient des avantages des dons &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Renversement.html&quot; title=&quot;Science du renversement&quot;&gt;Science du renversement&lt;/a&gt;. Si la banni&#232;re est plant&#233;e dans le sol, elle ne n&#233;cessite aucun porteur mais si un ennemi la touche ou la renverse, elle perd ses pouvoirs jusqu’&#224; ce que son propri&#233;taire ou ses alli&#233;s la r&#233;cup&#232;rent et la replantent.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Force-De-Taureau.html&quot; title=&quot;Force de taureau&quot;&gt;force de taureau&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 30 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}<div class="BD">
+{s:BDTitre|Bannière de la horde déferlante|{s:CM}}
+'''Aura''' [[Transmutation]] modérée ; '''NLS''' 10 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 60 000 po ; '''Poids''' 2,5 kg
+(((Description)))
+La ''bannière de la horde déferlante'' est un drapeau en lambeaux qui fait généralement 90 centimètres de large pour un mètre quatre-vingt de long et qui représente la technique ou l’insigne d’une tribu ou d’une unité d’orques. Elle peut être fixée à un bâton, à une perche plantée dans le sol ou au harnais d’un grand animal. Les alliés situés dans un rayon de 18 mètres de la bannière bénéficient des avantages des dons [[Science de la bousculade]] et [[Science du renversement]]. Si la bannière est plantée dans le sol, elle ne nécessite aucun porteur mais si un ennemi la touche ou la renverse, elle perd ses pouvoirs jusqu’à ce que son propriétaire ou ses alliés la récupèrent et la replantent.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[force de taureau]]'' ; '''Coût''' 30 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Bannière de la horde déferlante</fullName>
+</wikiPage>

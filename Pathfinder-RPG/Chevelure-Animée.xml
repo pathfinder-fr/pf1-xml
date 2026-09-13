@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chevelure animée</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2021-01-26 23:38:10Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Vase</link><link>Pathfinder-RPG.Science de la lutte</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Compression</link><link>Pathfinder-RPG.ne respire pas</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div class=&quot;BD&quot;&gt;&lt;div class=&quot;BDtitre&quot;&gt;CHEVELURE ANIM&#201;E&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vase.html&quot; title=&quot;Vase&quot;&gt;Vase&lt;/a&gt; de taille TP, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; vision aveugle 18 m, test
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 13, pris au d&#233;pourvu 12 (Dex +1, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 11 (2d8+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +1, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; traits des vases ; &lt;b&gt;RD&lt;/b&gt; 5/tranchant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rabilit&#233; au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, escalade 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +3 (1d2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 0,75 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; infestation, murmures meurtriers
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 10, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; 1, &lt;b&gt;BMO&lt;/b&gt; -1 (+1 en lutte), &lt;b&gt;DMD&lt;/b&gt; 10 (12 contre la lutte, croc-en-jambe impossible)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; Science de l’initiative, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Lutte.html&quot; title=&quot;Science de la lutte&quot;&gt;Science de la lutte&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en D&#233;guisement en perruque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun (ne peut pas parler) ; empathie
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Compression.html&quot; title=&quot;Compression&quot;&gt;compression&lt;/a&gt;, &lt;a class=&quot;unknownlink&quot; href=&quot;Ne-Respire-Pas.html&quot; title=&quot;Pathfinder-RPG.ne respire pas&quot;&gt;ne respire pas&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; villes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou emm&#234;lement (2-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; fortuit
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Empathie (Sur).&lt;/b&gt; Une chevelure anim&#233;e peut communiquer par empathie avec un h&#244;te sur lequel elle s’est fix&#233;e. Cette empathie permet &#224; la chevelure anim&#233;e d’encourager ou de d&#233;courager certaines actions en communiquant ses &#233;motions et besoins. Elle ne permet aucune communication verbale.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Infestation (Sur).&lt;/b&gt; Une chevelure anim&#233;e peut grimper sur un humano&#239;de consentant ou sans d&#233;fense de taille M ou P et s’y fixer par une action simple. La chevelure anim&#233;e occupe le m&#234;me emplacement de 1,50 m&#232;tre que celui de son h&#244;te. Ceci n’a aucune cons&#233;quence n&#233;gative sur la chevelure anim&#233;e ni sur son h&#244;te. Les attaques r&#233;ussies sur une chevelure anim&#233;e fix&#233;e sur un h&#244;te infligent la moiti&#233; de leurs d&#233;g&#226;ts &#224; la chevelure anim&#233;e et l’autre moiti&#233; &#224; son h&#244;te. On peut d&#233;tacher la chevelure anim&#233;e d’un h&#244;te en r&#233;ussissant un test de manoeuvre offensive de lutte contre le DMD de la chevelure anim&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Murmures meurtriers (Mag).&lt;/b&gt; Une chevelure anim&#233;e peut utiliser &#224; volont&#233; le sort ordre assassinAM (DD 13) sur son h&#244;te avec un niveau de lanceur de sorts &#233;gal &#224; son nombre de d&#233;s de vie. Une cr&#233;ature qui r&#233;ussit son jet de sauvegarde contre cet effet est immunis&#233;e contre l’ordre assassin d’une m&#234;me chevelure anim&#233;e pendant 24 heures. Le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td><div class="BD">{s:BDtitre|CHEVELURE ANIMÉE|FP 1}
+{s:BDtexte|'''PX''' 200}
+{s:BDtexte|[[type Vase|Vase]] de taille TP, NM}
+{s:BDtexte|'''Init''' +4 ; '''Sens''' vision aveugle 18 m, test}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)}
+{s:BDtexte|'''pv''' 11 (2d8+2)}
+{s:BDtexte|'''Réf''' +1, '''Vig''' +1, '''Vol''' +1}
+{s:BDtexte|'''Capacités défensives''' traits des vases ; '''RD''' 5/tranchant}
+{s:BDtexte|'''Faiblesses''' vulnérabilité au feu}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 6 m, escalade 6 m}
+{s:BDtexte|'''Corps à corps''' 2 coups, +3 (1d2)}
+{s:BDtexte|'''Espace occupé''' 0,75 m ; '''Allonge''' 0 m}
+{s:BDtexte|'''Attaques spéciales''' infestation, murmures meurtriers}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 10, '''Dex''' 13, '''Con''' 12, '''Int''' 6, '''Sag''' 13, '''Cha''' 15}
+{s:BDtexte|'''BBA''' 1, '''BMO''' -1 (+1 en lutte), '''DMD''' 10 (12 contre la lutte, croc-en-jambe impossible)}
+{s:BDtexte|'''Dons''' Science de l’initiative, [[Science de la lutte]]}
+{s:BDtexte|'''Compétences''' [[Déguisement]] +4, [[Escalade]] +8 ; '''Modificateurs raciaux''' +4 en Déguisement en perruque}
+{s:BDtexte|'''Langues''' commun (ne peut pas parler) ; empathie}
+{s:BDtexte|'''Particularités''' [[compression]], [[ne respire pas]]}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' villes}
+{s:BDtexte|'''Organisation sociale''' solitaire ou emmêlement (2-6)}
+{s:BDtexte|'''Trésor''' fortuit}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Empathie (Sur).''' Une chevelure animée peut communiquer par empathie avec un hôte sur lequel elle s’est fixée. Cette empathie permet à la chevelure animée d’encourager ou de décourager certaines actions en communiquant ses émotions et besoins. Elle ne permet aucune communication verbale.}
+{s:BDtexte|'''Infestation (Sur).''' Une chevelure animée peut grimper sur un humanoïde consentant ou sans défense de taille M ou P et s’y fixer par une action simple. La chevelure animée occupe le même emplacement de 1,50 mètre que celui de son hôte. Ceci n’a aucune conséquence négative sur la chevelure animée ni sur son hôte. Les attaques réussies sur une chevelure animée fixée sur un hôte infligent la moitié de leurs dégâts à la chevelure animée et l’autre moitié à son hôte. On peut détacher la chevelure animée d’un hôte en réussissant un test de manoeuvre offensive de lutte contre le DMD de la chevelure animée.}
+{s:BDtexte|'''Murmures meurtriers (Mag).''' Une chevelure animée peut utiliser à volonté le sort ordre assassinAM (DD 13) sur son hôte avec un niveau de lanceur de sorts égal à son nombre de dés de vie. Une créature qui réussit son jet de sauvegarde contre cet effet est immunisée contre l’ordre assassin d’une même chevelure animée pendant 24 heures. Le DD du jet de sauvegarde est basé sur le Charisme.}</div></td><td><div></div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Chevelure animée</fullName>
+</wikiPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Encensoir céleste</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-24 22:06:00Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Aasimar (race)</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Outils de compétences</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils de compétences</link><link>Pathfinder-RPG.Bâton fumigène (objet)</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.Ébloui</link><link>Pathfinder-RPG.Aasimar (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Aasimar.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Aasimar (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Aasimar.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Aasimar-(Race).html&quot; title=&quot;Les aasimars&quot;&gt;aasimars&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 50 po ; &lt;b&gt;Poids&lt;/b&gt; 1,5 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-De-Comp&#233;tences.html&quot; title=&quot;Outils de comp&#233;tences&quot;&gt;Outils de comp&#233;tences&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cet encensoir b&#233;ni contient jusqu’&#224; 10 b&#226;tonnets d’encens et br&#251;le &#224; raison de 1 b&#226;tonnet par heure. Si on ajoute un &lt;a class=&quot;pagelink&quot; href=&quot;B&#226;ton-Fumig&#232;ne-(Objet).html&quot; title=&quot;B&#226;ton fumig&#232;ne&quot;&gt;b&#226;ton fumig&#232;ne&lt;/a&gt; &#224; l’encens alors qu’il est en train de br&#251;ler, les cr&#233;atures de sous-type &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt; sont &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;bloui.html&quot; title=&quot;&#201;bloui&quot;&gt;&#233;blouies&lt;/a&gt; tant qu’elles restent dans la zone de fum&#233;e produite.
+]]></body>
+  <raw><![CDATA[{s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}'''Prix''' 50 po ; '''Poids''' 1,5 kg  
+<span class="Catégorie">'''Catégorie''' [[Outils de compétences]]</span>
+<hr>
+Cet encensoir béni contient jusqu’à 10 bâtonnets d’encens et brûle à raison de 1 bâtonnet par heure. Si on ajoute un [[Bâton fumigène (objet)|bâton fumigène]] à l’encens alors qu’il est en train de brûler, les créatures de sous-type [[sous-type Mal|Mal]] sont [[ébloui|éblouies]] tant qu’elles restent dans la zone de fumée produite.]]></raw>
+  <fullName>Pathfinder-RPG.Encensoir céleste (objet)</fullName>
+</wikiPage>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Couteau de mer</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-01 15:41:03Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.aquatique (race)</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.arme légère</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.À terre</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.aquatique (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Aquatique.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Aquatique (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Aquatique.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Aquatique-(Race).html&quot; title=&quot;Les aquatiques&quot;&gt;aquatiques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 8 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg ; &lt;b&gt;Groupes&lt;/b&gt; —  
+&lt;b&gt;D&#233;g&#226;ts&lt;/b&gt; 1d3 (P), 1d4 (M) ; &lt;b&gt;Critique&lt;/b&gt; 19-20/&#215;2 ; &lt;b&gt;Port&#233;e&lt;/b&gt; — ; &lt;b&gt;Type&lt;/b&gt; T ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; —  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABGUERRE&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Armes de guerre&lt;/a&gt; ; &lt;b&gt;Maniement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armelegere.html&quot; title=&quot;arme l&#233;g&#232;re&quot;&gt;arme de corps &#224; corps l&#233;g&#232;re&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Le couteau de mer est une arme &#224; manche long et &#224; lame courte. Il est con&#231;u pour &#234;tre port&#233; &#224; la cheville ou au pied du porteur, la lame vers le bas, pour prolonger sa jambe. Enfiler ou retirer un couteau de mer n&#233;cessite une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;. Le porteur ne peut pas se servir de la jambe &#224; laquelle est attach&#233; le couteau de mer pour marcher ou pour courir. Le couteau de mer peut &#234;tre utilis&#233; comme une arme de corps &#224; corps l&#233;g&#232;re lorsque le porteur nage, vole ou est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#192;terre.html&quot; title=&quot;&#192; terre&quot;&gt;&#224; terre&lt;/a&gt;. Cela lui permet d’utiliser une arme &#224; deux mains, ou de manier une arme &#224; une main et de porter un bouclier, tout en effectuant des attaques au couteau de mer de sa main non-directrice. Les attaques port&#233;es avec un couteau de mer re&#231;oivent un malus de circonstances de -2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt;, en plus de tous les autres malus.
+]]></body>
+  <raw><![CDATA[{s:racial|Aquatique (race)|aquatiques|Illustrations/PNJ/Aquatique.jpg}{s:MR}'''Prix''' 8 po ; '''Poids''' 0,5 kg ; '''Groupes''' —  
+'''Dégâts''' 1d3 (P), 1d4 (M) ; '''Critique''' 19-20/×2 ; '''Portée''' — ; '''Type''' T ; '''Spécial''' —  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; '''Maniement''' [[arme légère|arme de corps à corps légère]]</span>
+<hr>
+Le couteau de mer est une arme à manche long et à lame courte. Il est conçu pour être porté à la cheville ou au pied du porteur, la lame vers le bas, pour prolonger sa jambe. Enfiler ou retirer un couteau de mer nécessite une [[action complexe]]. Le porteur ne peut pas se servir de la jambe à laquelle est attaché le couteau de mer pour marcher ou pour courir. Le couteau de mer peut être utilisé comme une arme de corps à corps légère lorsque le porteur nage, vole ou est [[à terre]]. Cela lui permet d’utiliser une arme à deux mains, ou de manier une arme à une main et de porter un bouclier, tout en effectuant des attaques au couteau de mer de sa main non-directrice. Les attaques portées avec un couteau de mer reçoivent un malus de circonstances de -2 aux [[jet dattaque|jets d’attaque]], en plus de tous les autres malus.]]></raw>
+  <fullName>Pathfinder-RPG.couteau de mer (arme)</fullName>
+</wikiPage>

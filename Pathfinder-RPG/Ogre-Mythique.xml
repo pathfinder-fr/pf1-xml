@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ogre mythique</title>
+  <categories><category>Pathfinder-RPG.Monstre mythique</category><category>Pathfinder-RPG.Src Campagnes mythiques</category></categories>
+  <lastModified>2021-04-08 21:55:12Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Campagnes mythiques (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres mythiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type géant</link><link>Pathfinder-RPG.sous-type mythique</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.RDépique</link><link>Pathfinder-RPG.Pouvoir mythique (capacité)</link><link>Pathfinder-RPG.Montée en puissance (capacité)</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.armure décailles (armure)</link><link>Pathfinder-RPG.armure de maître</link><link>Pathfinder-RPG.massue (arme)</link><link>Pathfinder-RPG.arme de maître</link><link>Pathfinder-RPG.javeline (arme)</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.pv</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.Ogre</link><link>Pathfinder-RPG.Dragon rouge</link><link>Pathfinder-RPG.Résistance (capacité)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ogre mythique&lt;div style=&quot;float:right;&quot;&gt;FP 4/RMy 1&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Campagnes mythiques p.212&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-G&#233;ant.html&quot; title=&quot;G&#233;ant (sous-type)&quot;&gt;g&#233;ant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mythique.html&quot; title=&quot;Mythique (sous-type)&quot;&gt;mythique&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 8, pris au d&#233;pourvu 19 (+5 armure, -1 Dex, +6 naturelle, -1 taille)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 50 (5d8+28)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +0, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; r&#233;silience de fer ; &lt;b&gt;RD&lt;/b&gt; 5/&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique#Rdepique.html&quot; title=&quot;RD&#233;pique&quot;&gt;&#233;pique&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (12 m de base)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; massue de ma&#238;tre, +9 (2d8+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#192; distance&lt;/b&gt; javeline, +1 (1d8+5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; mont&#233;e de fureur, &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; (1/jour, &lt;a class=&quot;pagelink&quot; href=&quot;Mont&#233;e-En-Puissance-(Capacit&#233;).html&quot; title=&quot;Mont&#233;e en puissance (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;mont&#233;e en puissance&lt;/a&gt; +1d6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 21, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 6, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3, &lt;b&gt;BMO&lt;/b&gt; +9, &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (massue), &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;&lt;sup&gt;M&lt;/sup&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines froides ou temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple, gang (3-4) ou famille (5-16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&lt;a class=&quot;pagelink&quot; href=&quot;Armure-D&#233;cailles-(Armure).html&quot; title=&quot;Armure d&amp;#39;&#233;cailles&quot;&gt;armure d’&#233;cailles&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures#Armuresmaitre.html&quot; title=&quot;armure de ma&#238;tre&quot;&gt;de ma&#238;tre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Massue-(Arme).html&quot; title=&quot;Massue&quot;&gt;massue&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armesmaitre.html&quot; title=&quot;arme de ma&#238;tre&quot;&gt;de ma&#238;tre&lt;/a&gt;, 4 &lt;a class=&quot;pagelink&quot; href=&quot;Javeline-(Arme).html&quot; title=&quot;Javeline&quot;&gt;javelines&lt;/a&gt;, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mont&#233;e de fureur (Ext).&lt;/b&gt; Chaque fois que l’ogre mythique re&#231;oit des d&#233;g&#226;ts, il gagne un bonus de moral de +2 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;jets de d&#233;g&#226;ts&lt;/a&gt; jusqu’&#224; la fin de son prochain tour. Ce bonus augmente de +2 chaque fois que l’ogre re&#231;oit des d&#233;g&#226;ts, jusqu’&#224; un maximum de +10. &#192; la fin de son tour, ce bonus de d&#233;g&#226;ts retombe &#224; +0.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;silience de fer (Ext).&lt;/b&gt; Une fois par &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;, l’ogre mythique peut ignorer une attaque qui le r&#233;duirait normalement &#224; un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Point-De-Vie.html&quot; title=&quot;pv&quot;&gt;points de vie&lt;/a&gt; n&#233;gatifs ou le tuerait. Il ne re&#231;oit aucun d&#233;g&#226;t de l’attaque. Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Immediate.html&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt;, l’ogre mythique peut d&#233;penser une utilisation de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoir-Mythique-(Capacit&#233;).html&quot; title=&quot;Pouvoir mythique (Sur) &amp;#91;Mythique&amp;#93;&quot;&gt;pouvoir mythique&lt;/a&gt; pour utiliser ce pouvoir afin d’ignorer toutes les attaques d’une cr&#233;ature pendant 1 round.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;
+&lt;i&gt;Ce g&#233;ant immense et musculeux porte une lourde armure d’&#233;cailles et manie un gourdin orn&#233; d’une griffe g&#233;ante.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;
+L’ogre mythique est un exemple de consanguinit&#233; parfaitement r&#233;ussie, une combinaison parfaite de robustesse et de maturit&#233; rapide sans aucune difformit&#233; significative qui risquerait d’entraver sa capacit&#233; &#224; chasser. Capable d’&#233;chapper &#224; la mort tel un monstrueux cafard et enclin aux acc&#232;s de violence tel un enfant berserk, l’ogre mythique poss&#232;de toutes les qualit&#233;s que les &lt;a class=&quot;pagelink&quot; href=&quot;Ogre.html&quot; title=&quot;Ogre&quot;&gt;ogres ordinaires&lt;/a&gt; admirent et peut facilement prendre le contr&#244;le de la cellule familiale en intimidant les autres et en les for&#231;ant &#224; se soumettre. Certains parviennent m&#234;me &#224; dominer des tribus de g&#233;ants des collines par la force du nombre, la g&#233;n&#233;ration qui suit &#233;tant alors plus grande et plus forte.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;L’ogre tueur de dragons&lt;a class=&quot;headeranchor&quot; id=&quot;L’ogre_tueur_de_dragons_0&quot; href=&quot;#L’ogre_tueur_de_dragons_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Il arrive parfois que le territoire de la tribu d’un ogre mythique chevauche celui d’un &lt;a class=&quot;pagelink&quot; href=&quot;Dragon-Rouge.html&quot; title=&quot;Les dragons chromatiques rouges&quot;&gt;dragon rouge&lt;/a&gt;. Si le dragon se reproduit, les ogres r&#233;pondent &#224; la menace que repr&#233;sentent ses rejetons en traquant le dragon et ses enfants et en fabriquant des armures et des armes &#224; partir des restes sanglants de leurs ennemis. Certaines de ces familles finissent par d&#233;velopper une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;r&#233;sistance&lt;/a&gt; au feu, une particularit&#233; qui se transmet &#224; leurs enfants.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Ogre mythique|FP 4/RMy 1}
+{s:pucem|Humanoïde|Collines|Tempéré}
+{s:BDtexte|''Source : Campagnes mythiques p.212''}
+{s:BDtexte|'''PX''' 1 200}
+{s:BDtexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]], [[sous-type mythique|mythique]]) de taille G, CM}
+{s:BDtexte|'''Init''' -1 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +6}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 19, contact 8, pris au dépourvu 19 (+5 armure, -1 Dex, +6 naturelle, -1 taille)}
+{s:BDtexte|'''pv''' 50 (5d8+28)}
+{s:BDtexte|'''Réf''' +0, '''Vig''' +7, '''Vol''' +3}
+{s:BDtexte|'''Capacités défensives''' résilience de fer ; '''RD''' 5/[[RDépique|épique]]}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 9 m (12 m de base)}
+{s:BDtexte|'''Corps à corps''' massue de maître, +9 (2d8+7)}
+{s:BDtexte|'''À distance''' javeline, +1 (1d8+5)}
+{s:BDtexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDtexte|'''Attaques spéciales''' montée de fureur, [[Pouvoir mythique (capacité)|pouvoir mythique]] (1/jour, [[Montée en puissance (capacité)|montée en puissance]] +1d6)}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 21, '''Dex''' 8, '''Con''' 17, '''Int''' 6, '''Sag''' 10, '''Cha''' 7}
+{s:BDtexte|'''BBA''' +3, '''BMO''' +9, '''DMD''' 18}
+{s:BDtexte|'''Dons''' [[Arme de prédilection]] (massue), [[Robustesse]], [[Volonté de fer]]<sup>M</sup>}
+{s:BDtexte|'''Compétences''' [[Escalade]] +7, [[Perception]] +6}
+{s:BDtexte|'''Langues''' géant}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' collines froides ou tempérées}
+{s:BDtexte|'''Organisation sociale''' solitaire, couple, gang (3-4) ou famille (5-16)}
+{s:BDtexte|'''Trésor''' standard ([[armure décailles (armure)|armure d’écailles]] [[armure de maître|de maître]], [[massue (arme)|massue]] [[arme de maître|de maître]], 4 [[javeline (arme)|javelines]], autre trésor)}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Montée de fureur (Ext).''' Chaque fois que l’ogre mythique reçoit des dégâts, il gagne un bonus de moral de +2 aux [[Valeurs de combat#DEGATS|jets de dégâts]] jusqu’à la fin de son prochain tour. Ce bonus augmente de +2 chaque fois que l’ogre reçoit des dégâts, jusqu’à un maximum de +10. À la fin de son tour, ce bonus de dégâts retombe à +0.}
+{s:BDtexte|'''Résilience de fer (Ext).''' Une fois par [[round]], l’ogre mythique peut ignorer une attaque qui le réduirait normalement à un nombre de [[pv|points de vie]] négatifs ou le tuerait. Il ne reçoit aucun dégât de l’attaque. Par une [[action immédiate]], l’ogre mythique peut dépenser une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] pour utiliser ce pouvoir afin d’ignorer toutes les attaques d’une créature pendant 1 round.}
+</div>
+</td>
+<td>
+<div>
+''Ce géant immense et musculeux porte une lourde armure d’écailles et manie un gourdin orné d’une griffe géante.''
+
+
+L’ogre mythique est un exemple de consanguinité parfaitement réussie, une combinaison parfaite de robustesse et de maturité rapide sans aucune difformité significative qui risquerait d’entraver sa capacité à chasser. Capable d’échapper à la mort tel un monstrueux cafard et enclin aux accès de violence tel un enfant berserk, l’ogre mythique possède toutes les qualités que les [[Ogre|ogres ordinaires]] admirent et peut facilement prendre le contrôle de la cellule familiale en intimidant les autres et en les forçant à se soumettre. Certains parviennent même à dominer des tribus de géants des collines par la force du nombre, la génération qui suit étant alors plus grande et plus forte.
+
+====L’ogre tueur de dragons====
+Il arrive parfois que le territoire de la tribu d’un ogre mythique chevauche celui d’un [[Dragon rouge|dragon rouge]]. Si le dragon se reproduit, les ogres répondent à la menace que représentent ses rejetons en traquant le dragon et ses enfants et en fabriquant des armures et des armes à partir des restes sanglants de leurs ennemis. Certaines de ces familles finissent par développer une [[Résistance (capacité)|résistance]] au feu, une particularité qui se transmet à leurs enfants.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Ogre mythique</fullName>
+</wikiPage>

@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kyton, Éphialtès</title>
+  <categories></categories>
+  <lastModified>2021-04-25 11:38:25Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Kytons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type kyton</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception de la mort</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Réduction de dégâts (capacité)</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Ancre dimensionnelle</link><link>Pathfinder-RPG.Flou</link><link>Pathfinder-RPG.Silence</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Traversée des ombres</link><link>Pathfinder-RPG.Localisation suprême</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Critique sanglant</link><link>Pathfinder-RPG.Don pour les critiques</link><link>Pathfinder-RPG.Immobiliser</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Science du critique</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Kytons</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;phialt&#232;s&lt;div style=&quot;float:right;&quot;&gt;FP 16&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Le conseil des voleurs p.168&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 76 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Kyton.html&quot; title=&quot;Kyton (sous-type)&quot;&gt;kyton&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Mal.html&quot; title=&quot;Mal (sous-type)&quot;&gt;Mal&lt;/a&gt;) de taille TG, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Perception-De-La-Mort.html&quot; title=&quot;Perception de la mort&quot;&gt;perception de la mort&lt;/a&gt;&lt;/i&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 30, contact 10, pris au d&#233;pourvu 28 (armure +8, Dex +2, naturelle +12, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 243 (18d10+144) ; r&#233;g&#233;n&#233;ration 5 (armes et sorts de Bien, armes en argent)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +13, &lt;b&gt;Vig&lt;/b&gt; +14, &lt;b&gt;Vol&lt;/b&gt; +14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives armure de cha&#238;nes&lt;/b&gt; ; &lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;R&#233;duction de d&#233;g&#226;ts (Ext ou Sur)&quot;&gt;RD&lt;/a&gt;&lt;/b&gt; 10/argent ou Bien ;
+&lt;b&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;Immunit&#233;&lt;/a&gt;&lt;/b&gt;froid, poison, terreur ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, feu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +24 (2d6+8) et 2 cha&#238;nes, +25 (2d8+8/19-20) et 2 griffes, +24 (1d8+8) et queue, +19 (1d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 4,50 m; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m (9 m avec les cha&#238;nes)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; attirer (souffle, 3 m), danse des cha&#238;nes, &#233;ventration (2 cha&#238;nes, 2d8+12), pi&#232;ge de cha&#238;nes, souffle (c&#244;ne de 15 m, 2d8+8 d&#233;g&#226;ts perforants plus &#233;treinte, R&#233;flexes DD 27 pour 1/2 d&#233;g&#226;ts, utilisable tous les 1d4 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (NLS 16)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ancre-Dimensionnelle.html&quot; title=&quot;Ancre dimensionnelle&quot;&gt;ancre dimensionnelle&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Flou.html&quot; title=&quot;Flou&quot;&gt;flou&lt;/a&gt;&lt;/i&gt; (soi uniquement)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Silence.html&quot; title=&quot;Silence&quot;&gt;silence&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;n&#232;bres-Profondes.html&quot; title=&quot;T&#233;n&#232;bres profondes&quot;&gt;t&#233;n&#232;bres profondes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Travers&#233;e-Des-Ombres.html&quot; title=&quot;Travers&#233;e des ombres&quot;&gt;travers&#233;e des ombres&lt;/a&gt;&lt;/i&gt; (DD 19) 
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-Supr&#234;me.html&quot; title=&quot;Localisation supr&#234;me&quot;&gt;localisation supr&#234;me&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 26, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 26, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +18 ; &lt;b&gt;BMO&lt;/b&gt; +28 (+32 pour la lutte et pour attirer) ; &lt;b&gt;DMD&lt;/b&gt; 40 (44 contre le croc-en-jambe)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (cha&#238;nes), &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Critique-Sanglant.html&quot; title=&quot;Critique sanglant&quot;&gt;Critique sanglant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Don-Pour-Les-Critiques.html&quot; title=&quot;Don pour les critiques&quot;&gt;Don pour les critiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Immobiliser.html&quot; title=&quot;Immobiliser&quot;&gt;Immobiliser&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Critique.html&quot; title=&quot;Science du critique&quot;&gt;Science du critique&lt;/a&gt; (cha&#238;nes), &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +24, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +22
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; infernal
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (plan de l’Ombre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou &#233;quipe (2-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle (Sur).&lt;/b&gt; Par une action complexe, le kyton &#233;phialt&#232;s peut
+exhaler un nuage de cha&#238;nes barbel&#233;es ancr&#233;es dans sa gueule
+massive et viser jusqu’&#224; six cr&#233;atures pr&#233;sentes dans un c&#244;ne de
+15 m&#232;tres. Celles qui ratent un jet de R&#233;flexes DD 27 re&#231;oivent
+2d8+8 points de d&#233;g&#226;ts perforants. Le kyton a droit &#224; un test de
+manoeuvre offensive imm&#233;diat pour agripper chaque victime &#224;
+l’aide de ses cha&#238;nes anim&#233;es. Si une victime r&#233;ussit son jet de
+R&#233;flexes, elle r&#233;duit ses d&#233;g&#226;ts de moiti&#233; et ne peut pas &#234;tre agripp&#233;e.
+Une victime agripp&#233;e se retrouve soumise au pouvoir attirer
+du kyton. Un kyton ne peut pas utiliser son souffle tant qu’il
+agrippe ou attire une victime avec une cha&#238;ne issue de ce souffle.
+Outre cela, il peut l’utiliser tous les 1d4 rounds. Le DD du jet de
+sauvegarde est bas&#233; sur la Constitution. 
+Il est possible de briser les cha&#238;nes du kyton &#233;phialt&#232;s (solidit&#233;
+10, pv 10, Briser DD 26), ou de les attaquer avec une destruction
+d’arme. Si la cha&#238;ne agrippe une cible, l’attaquant gagne un bonus
+de circonstance de +4 au test de BMO pour d&#233;truire l’arme. Une
+cha&#238;ne bris&#233;e n’inflige aucun d&#233;g&#226;t au kyton.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armure de cha&#238;nes (Ext).&lt;/b&gt; Les cha&#238;nes qui recouvrent l’&#233;phialt&#232;s lui
+donnent un bonus d’armure de +8 mais ne sont pas consid&#233;r&#233;es
+comme une armure vis-&#224;-vis des risques d’&#233;chec de sorts, du bonus
+de Dext&#233;rit&#233; maximal, de la charge port&#233;e ou de la formation au
+port des armures.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Danse des cha&#238;nes (Sur).&lt;/b&gt; Par une action simple, le kyton &#233;phialt&#232;s
+peut contr&#244;ler jusqu’&#224; quatre cha&#238;nes dans un rayon de 9 m&#232;tres
+et les faire danser ou se d&#233;placer selon ses d&#233;sirs. De plus, le kyton
+peut allonger ces cha&#238;nes de 4,50 m&#232;tres au maximum et les doter
+de barbel&#233;s ac&#233;r&#233;s. Les cha&#238;nes attaquent avec la m&#234;me efficacit&#233;
+que le kyton lui-m&#234;me. Si l’une des cha&#238;nes se trouve en possession
+d’une autre cr&#233;ature, cette derni&#232;re peut effectuer un jet de
+Volont&#233; DD 22 pour tenter de briser le pouvoir que le kyton exerce
+sur la cha&#238;ne. Si elle r&#233;ussit, le kyton ne peut plus contr&#244;ler cette
+cha&#238;ne pendant 24 heures, &#224; moins que la cr&#233;ature ne l’abandonne.
+Le kyton peut escalader les cha&#238;nes qu’il contr&#244;le en se d&#233;pla&#231;ant &#224;
+sa vitesse normale et sans faire de tests d’Escalade. Le DD du jet de
+sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pi&#232;ge de cha&#238;nes (Sur).&lt;/b&gt; Si le kyton &#233;phialt&#232;s r&#233;ussit un test de
+manoeuvre offensive, il peut transf&#233;rer une cr&#233;ature adjacente
+&#224; lui et agripp&#233;e par les cha&#238;nes de son souffle aux cha&#238;nes qui
+couvrent son corps. La victime est alors immobilis&#233;e tandis que
+le kyton s’occupe de ses autres adversaires, n’&#233;tant plus consid&#233;r&#233;
+comme en situation de lutte. Une victime immobilis&#233;e peut
+se lib&#233;rer avec un test de manœuvre offensive destin&#233; &#224; briser
+l’&#233;treinte ou avec un test d’&#201;vasion. Les autres cr&#233;atures peuvent
+tenter de lib&#233;rer les victimes immobilis&#233;es avec des destructions
+d’arme (solidit&#233; 10, pv 10). Le kyton &#233;phialt&#232;s peut immobiliser
+ainsi 1 cr&#233;ature de taille G, 2 de taille M, 8 P, 32 TP et 128 Min ou
+plus petites.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attirer (Ext).&lt;/b&gt; Le kyton &#233;phialt&#232;s dispose d’un bonus racial de +4 aux
+tests de BMO quand il utilise l’attaque sp&#233;ciale attirer.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Kytons.html&quot; title=&quot;Les kytons&quot;&gt;kytons&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Un cliquetis de cha&#238;nes et des bruits de pas lourds retentissent au milieu
+d’un nuage ondoyant, noir comme de l’encre, annon&#231;ant l’arriv&#233;e d’un
+&#234;tre imposant. Un hal&#232;tement infernal et sifflant aspire les t&#233;n&#232;bres,
+r&#233;v&#233;lant un fi&#233;lon tortur&#233; pourvu de quatre pattes. Ses os &#224; nu, les
+lambeaux de chair qui lui restent sont drap&#233;s de cha&#238;nes. Des crochets et
+des barbel&#233;s pendent de ses fers, imitant la queue de la cr&#233;ature tandis
+qu’ils se tordent et ondulent comme des serpents &#224; la recherche d’une
+proie.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Chasseurs et tortionnaires sadiques qui traquent tous les vivants,
+les kytons &#233;phialt&#232;s sillonnent les plans au service des seigneurs
+des Enfers et des ombres ou, parfois, par int&#233;r&#234;t personnel.
+Impitoyables, ils enl&#232;vent les innocents et ram&#232;nent les damn&#233;s,
+emportant leurs victimes dans les flammes des Enfers ou dans
+les t&#233;n&#232;bres hurlantes et &#233;crasantes du plan de l’Ombre. Ils ne
+connaissent pas la peur et traquent leur cible sans se soucier
+de la distance &#224; parcourir ou du d&#233;fi que celle-ci repr&#233;sente,
+encha&#238;nant aussi bien les dragons, les g&#233;ants et les humano&#239;des
+pour les emporter vers des tortures &#233;ternelles.&lt;br /&gt;&lt;br /&gt;Les kytons &#233;phialt&#232;s se d&#233;placent avec une gr&#226;ce silencieuse
+mais renoncent &#224; leur voile de discr&#233;tion d&#232;s qu’ils sont pr&#234;ts
+&#224; intimider ceux qu’ils sont venus r&#233;cup&#233;rer ou punir. Leur
+regard terrifiant s’accorde alors aux intentions meurtri&#232;res des
+cha&#238;nes anim&#233;es qui transpercent leur chair. Ces bandes de fer
+servent de protection et d’armes &#224; tous les kytons mais, chez les
+&#233;phialt&#232;s, elles permettent aussi d’attacher les victimes &#224; la peau
+sanguinolente du kyton afin de les emporter dans le Grand Audel&#224;.
+Un &#233;phialt&#232;s mesure pr&#232;s de huit m&#232;tres pour quinze
+tonnes, en comptant le poids de ses cha&#238;nes.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_0&quot; href=&quot;#&#201;cologie_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le kyton &#233;phialt&#232;s na&#238;t de la transformation d’un
+kyton inf&#233;rieur, quand ce dernier a r&#233;ussi &#224; tuer ou &#224;
+lier au plan de l’Ombre 999 victimes mortelles. Il peut
+alors traverser les ombres et acc&#233;der &#224; d’autres plans
+sans avoir besoin d’attendre qu’un invocateur fasse
+appel &#224; lui. Vigilants et opportunistes, les &#233;phialt&#232;s
+chassent de nouvelles victimes afin d’entra&#238;ner les
+jeunes kytons. Les &#233;phialt&#232;s &#233;tant experts dans
+l’art de capturer et de tourmenter les &#226;mes, l’&#233;lite
+diabolique (des mortels comme des seigneurs
+&#233;ternels des Enfers) les appr&#233;cie beaucoup et
+cherche &#224; en faire ses serviteurs. Certains kytons se
+rangent volontairement aux c&#244;t&#233;s des dirigeants des
+Enfers et se d&#233;lectent des tourments suppl&#233;mentaires
+que leur autorisent ces royaumes.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Habitat et soci&#233;t&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Habitat_et_soci&#233;t&#233;_1&quot; href=&quot;#Habitat_et_soci&#233;t&#233;_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les &#233;phialt&#232;s dirigent toute la soci&#233;t&#233;
+des kytons. S’ils ne sont pas plus rus&#233;s
+que les autres fi&#233;lons, ils sont anim&#233;s
+d’une loyaut&#233; farouche &#224; l’&#233;gard de leur
+esp&#232;ce et ob&#233;issent &#224; une hi&#233;rarchie
+rigide bas&#233;e sur la puissance et la
+r&#233;ussite. Sur le plan de l’Ombre, leurs
+demeures restent toujours
+cach&#233;es, le bruit des
+cha&#238;nes qui arrachent la
+chair &#233;tant le seul indice
+&#224; r&#233;v&#233;ler leurs m&#233;thodes
+de torture. Peu d’&#233;trangers
+comprennent pourquoi ils se
+livrent &#224; ces tourments &#233;labor&#233;s
+mais les rumeurs sugg&#232;rent que cela les renforcerait et leur
+permettrait de se transformer en kytons encore plus puissants.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Convoquer un kyton &#233;phialt&#232;s&lt;a class=&quot;headeranchor&quot; id=&quot;Convoquer_un_kyton_&#233;phialt&#232;s_2&quot; href=&quot;#Convoquer_un_kyton_&#233;phialt&#232;s_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Tant que l’invocateur n’interrompt pas une chasse en cours,
+la plupart des &#233;phialt&#232;s adorent &#234;tre convoqu&#233;s, avides de
+pourchasser de nouvelles proies ou de punir les mages qui n’ont
+pas r&#233;ussi &#224; les lier. Un test de Charisme effectu&#233; dans le cadre
+d’un contrat supr&#234;me pour convaincre le kyton de faire autre
+chose que de tuer, enlever ou torturer des victimes donn&#233;es
+s’accompagne d’un malus de –2.
+Une fois que l’&#233;phialt&#232;s a accept&#233; une
+mission, il exige 1 000 po sous forme d’onyx
+ou d’opales noires par d&#233; de vie de la cible. Si
+l’invocateur ne paie pas le prix demand&#233; avec
+les gemmes sp&#233;cifi&#233;es, le kyton ne s’acquitte
+qu’en partie de la mission : il estropie plut&#244;t
+que d’assassiner, il n’enl&#232;ve la victime que pour
+une dur&#233;e limit&#233;e (1d4+3 jours, en g&#233;n&#233;ral) ou il
+torture sa cible jusqu’&#224; ce qu’elle ait r&#233;pondu &#224; une
+unique question quand il s’agit d’un interrogatoire.
+Si le convocateur tente de contraindre l’&#233;phialt&#232;s
+&#224; accomplir une mission diff&#233;rente ou &#224;
+accepter une autre forme de paiement, le kyton
+en prend ombrage et tous les tests de Charisme
+que le mage fera &#224; l’avenir pour interagir avec
+ce kyton subiront un malus de –2.
+Quand un &#233;phialt&#232;s accepte une mission,
+il ne s’int&#233;resse plus qu’&#224; la proie qui
+lui a &#233;t&#233; d&#233;sign&#233;e. Il propose toujours
+d’emporter ses victimes sur le plan
+de l’Ombre afin d’aider les kytons
+inf&#233;rieurs &#224; &#233;liminer suffisamment
+d’&#226;mes pour devenir, eux aussi, des
+&#233;phialt&#232;s.
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Éphialtès|FP 16}
+{s:BDTexte|''Source : Le conseil des voleurs p.168''}
+{s:BDTexte|'''PX''' 76 800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type kyton|kyton]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille TG, LM}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; ''[[perception de la mort]]'' ; [[Perception]] +7}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 30, contact 10, pris au dépourvu 28 (armure +8, Dex +2, naturelle +12, taille -2)}
+{s:BDTexte|'''pv''' 243 (18d10+144) ; régénération 5 (armes et sorts de Bien, armes en argent)}
+{s:BDTexte|'''Réf''' +13, '''Vig''' +14, '''Vol''' +14}
+{s:BDTexte|'''Capacités défensives armure de chaînes''' ; '''[[Réduction de dégâts (capacité)|RD]]''' 10/argent ou Bien ;
+'''[[Immunité (capacité)|Immunité]]'''froid, poison, terreur ; '''Résistances''' acide 10, feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9m}
+{s:BDTexte|'''Corps à corps''' morsure, +24 (2d6+8) et 2 chaînes, +25 (2d8+8/19-20) et 2 griffes, +24 (1d8+8) et queue, +19 (1d8+4)}
+{s:BDTexte|'''Espace occupé''' 4,50 m; '''Allonge''' 4,50 m (9 m avec les chaînes)}
+{s:BDTexte|'''Attaques spéciales''' attirer (souffle, 3 m), danse des chaînes, éventration (2 chaînes, 2d8+12), piège de chaînes, souffle (cône de 15 m, 2d8+8 dégâts perforants plus étreinte, Réflexes DD 27 pour 1/2 dégâts, utilisable tous les 1d4 rounds)}
+{s:BDTexte|'''Pouvoirs magiques''' (NLS 16)}
+{s:BDSorts|À volonté — ''[[ancre dimensionnelle]]'', ''[[flou]]'' (soi uniquement)}
+{s:BDSorts|3/jour — ''[[silence]]'' (DD 15), ''[[ténèbres profondes]]'', ''[[traversée des ombres]]'' (DD 19) }
+{s:BDSorts|1/jour — ''[[localisation suprême]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 26, '''Dex''' 14, '''Con''' 26, '''Int''' 10, '''Sag''' 12, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +18 ; '''BMO''' +28 (+32 pour la lutte et pour attirer) ; '''DMD''' 40 (44 contre le croc-en-jambe)}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (chaînes), [[Attaques réflexes]], [[Critique sanglant]], [[Don pour les critiques]], [[Immobiliser]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (chaînes), [[Vigilance]], [[Volonté de fer]] }
+{s:BDTexte|'''Compétences''' [[Bluff]] +12, [[Connaissances]] (plans) +13, [[Discrétion]] +15, [[Escalade]] +15, [[Évasion]] +13, [[Intimidation]] +24, [[Perception]] +24, [[Psychologie]] +18, [[Survie]] +22}
+{s:BDTexte|'''Langues''' infernal}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (plan de l’Ombre)}
+{s:BDTexte|'''Organisation''' solitaire ou équipe (2-8)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Souffle (Sur).''' Par une action complexe, le kyton éphialtès peut
+exhaler un nuage de chaînes barbelées ancrées dans sa gueule
+massive et viser jusqu’à six créatures présentes dans un cône de
+15 mètres. Celles qui ratent un jet de Réflexes DD 27 reçoivent
+2d8+8 points de dégâts perforants. Le kyton a droit à un test de
+manoeuvre offensive immédiat pour agripper chaque victime à
+l’aide de ses chaînes animées. Si une victime réussit son jet de
+Réflexes, elle réduit ses dégâts de moitié et ne peut pas être agrippée.
+Une victime agrippée se retrouve soumise au pouvoir attirer
+du kyton. Un kyton ne peut pas utiliser son souffle tant qu’il
+agrippe ou attire une victime avec une chaîne issue de ce souffle.
+Outre cela, il peut l’utiliser tous les 1d4 rounds. Le DD du jet de
+sauvegarde est basé sur la Constitution. 
+Il est possible de briser les chaînes du kyton éphialtès (solidité
+10, pv 10, Briser DD 26), ou de les attaquer avec une destruction
+d’arme. Si la chaîne agrippe une cible, l’attaquant gagne un bonus
+de circonstance de +4 au test de BMO pour détruire l’arme. Une
+chaîne brisée n’inflige aucun dégât au kyton.}
+{s:BDTexte|'''Armure de chaînes (Ext).''' Les chaînes qui recouvrent l’éphialtès lui
+donnent un bonus d’armure de +8 mais ne sont pas considérées
+comme une armure vis-à-vis des risques d’échec de sorts, du bonus
+de Dextérité maximal, de la charge portée ou de la formation au
+port des armures.}
+{s:BDTexte|'''Danse des chaînes (Sur).''' Par une action simple, le kyton éphialtès
+peut contrôler jusqu’à quatre chaînes dans un rayon de 9 mètres
+et les faire danser ou se déplacer selon ses désirs. De plus, le kyton
+peut allonger ces chaînes de 4,50 mètres au maximum et les doter
+de barbelés acérés. Les chaînes attaquent avec la même efficacité
+que le kyton lui-même. Si l’une des chaînes se trouve en possession
+d’une autre créature, cette dernière peut effectuer un jet de
+Volonté DD 22 pour tenter de briser le pouvoir que le kyton exerce
+sur la chaîne. Si elle réussit, le kyton ne peut plus contrôler cette
+chaîne pendant 24 heures, à moins que la créature ne l’abandonne.
+Le kyton peut escalader les chaînes qu’il contrôle en se déplaçant à
+sa vitesse normale et sans faire de tests d’Escalade. Le DD du jet de
+sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Piège de chaînes (Sur).''' Si le kyton éphialtès réussit un test de
+manoeuvre offensive, il peut transférer une créature adjacente
+à lui et agrippée par les chaînes de son souffle aux chaînes qui
+couvrent son corps. La victime est alors immobilisée tandis que
+le kyton s’occupe de ses autres adversaires, n’étant plus considéré
+comme en situation de lutte. Une victime immobilisée peut
+se libérer avec un test de manœuvre offensive destiné à briser
+l’étreinte ou avec un test d’Évasion. Les autres créatures peuvent
+tenter de libérer les victimes immobilisées avec des destructions
+d’arme (solidité 10, pv 10). Le kyton éphialtès peut immobiliser
+ainsi 1 créature de taille G, 2 de taille M, 8 P, 32 TP et 128 Min ou
+plus petites.}
+{s:BDTexte|'''Attirer (Ext).''' Le kyton éphialtès dispose d’un bonus racial de +4 aux
+tests de BMO quand il utilise l’attaque spéciale attirer.}
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Kytons|kytons]].'''''</li></ul>''Un cliquetis de chaînes et des bruits de pas lourds retentissent au milieu
+d’un nuage ondoyant, noir comme de l’encre, annonçant l’arrivée d’un
+être imposant. Un halètement infernal et sifflant aspire les ténèbres,
+révélant un fiélon torturé pourvu de quatre pattes. Ses os à nu, les
+lambeaux de chair qui lui restent sont drapés de chaînes. Des crochets et
+des barbelés pendent de ses fers, imitant la queue de la créature tandis
+qu’ils se tordent et ondulent comme des serpents à la recherche d’une
+proie.''
+
+Chasseurs et tortionnaires sadiques qui traquent tous les vivants,
+les kytons éphialtès sillonnent les plans au service des seigneurs
+des Enfers et des ombres ou, parfois, par intérêt personnel.
+Impitoyables, ils enlèvent les innocents et ramènent les damnés,
+emportant leurs victimes dans les flammes des Enfers ou dans
+les ténèbres hurlantes et écrasantes du plan de l’Ombre. Ils ne
+connaissent pas la peur et traquent leur cible sans se soucier
+de la distance à parcourir ou du défi que celle-ci représente,
+enchaînant aussi bien les dragons, les géants et les humanoïdes
+pour les emporter vers des tortures éternelles.
+
+Les kytons éphialtès se déplacent avec une grâce silencieuse
+mais renoncent à leur voile de discrétion dès qu’ils sont prêts
+à intimider ceux qu’ils sont venus récupérer ou punir. Leur
+regard terrifiant s’accorde alors aux intentions meurtrières des
+chaînes animées qui transpercent leur chair. Ces bandes de fer
+servent de protection et d’armes à tous les kytons mais, chez les
+éphialtès, elles permettent aussi d’attacher les victimes à la peau
+sanguinolente du kyton afin de les emporter dans le Grand Audelà.
+Un éphialtès mesure près de huit mètres pour quinze
+tonnes, en comptant le poids de ses chaînes.
+
+===Écologie===
+Le kyton éphialtès naît de la transformation d’un
+kyton inférieur, quand ce dernier a réussi à tuer ou à
+lier au plan de l’Ombre 999 victimes mortelles. Il peut
+alors traverser les ombres et accéder à d’autres plans
+sans avoir besoin d’attendre qu’un invocateur fasse
+appel à lui. Vigilants et opportunistes, les éphialtès
+chassent de nouvelles victimes afin d’entraîner les
+jeunes kytons. Les éphialtès étant experts dans
+l’art de capturer et de tourmenter les âmes, l’élite
+diabolique (des mortels comme des seigneurs
+éternels des Enfers) les apprécie beaucoup et
+cherche à en faire ses serviteurs. Certains kytons se
+rangent volontairement aux côtés des dirigeants des
+Enfers et se délectent des tourments supplémentaires
+que leur autorisent ces royaumes.
+
+===Habitat et société===
+Les éphialtès dirigent toute la société
+des kytons. S’ils ne sont pas plus rusés
+que les autres fiélons, ils sont animés
+d’une loyauté farouche à l’égard de leur
+espèce et obéissent à une hiérarchie
+rigide basée sur la puissance et la
+réussite. Sur le plan de l’Ombre, leurs
+demeures restent toujours
+cachées, le bruit des
+chaînes qui arrachent la
+chair étant le seul indice
+à révéler leurs méthodes
+de torture. Peu d’étrangers
+comprennent pourquoi ils se
+livrent à ces tourments élaborés
+mais les rumeurs suggèrent que cela les renforcerait et leur
+permettrait de se transformer en kytons encore plus puissants.
+
+===Convoquer un kyton éphialtès===
+Tant que l’invocateur n’interrompt pas une chasse en cours,
+la plupart des éphialtès adorent être convoqués, avides de
+pourchasser de nouvelles proies ou de punir les mages qui n’ont
+pas réussi à les lier. Un test de Charisme effectué dans le cadre
+d’un contrat suprême pour convaincre le kyton de faire autre
+chose que de tuer, enlever ou torturer des victimes données
+s’accompagne d’un malus de –2.
+Une fois que l’éphialtès a accepté une
+mission, il exige 1 000 po sous forme d’onyx
+ou d’opales noires par dé de vie de la cible. Si
+l’invocateur ne paie pas le prix demandé avec
+les gemmes spécifiées, le kyton ne s’acquitte
+qu’en partie de la mission : il estropie plutôt
+que d’assassiner, il n’enlève la victime que pour
+une durée limitée (1d4+3 jours, en général) ou il
+torture sa cible jusqu’à ce qu’elle ait répondu à une
+unique question quand il s’agit d’un interrogatoire.
+Si le convocateur tente de contraindre l’éphialtès
+à accomplir une mission différente ou à
+accepter une autre forme de paiement, le kyton
+en prend ombrage et tous les tests de Charisme
+que le mage fera à l’avenir pour interagir avec
+ce kyton subiront un malus de –2.
+Quand un éphialtès accepte une mission,
+il ne s’intéresse plus qu’à la proie qui
+lui a été désignée. Il propose toujours
+d’emporter ses victimes sur le plan
+de l’Ombre afin d’aider les kytons
+inférieurs à éliminer suffisamment
+d’âmes pour devenir, eux aussi, des
+éphialtès.
+</div>
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Éphialtès</fullName>
+</wikiPage>

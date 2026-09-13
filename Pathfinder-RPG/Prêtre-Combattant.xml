@@ -1,0 +1,753 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Le prêtre combattant</title>
+  <categories><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs - Classes avancées</category></categories>
+  <lastModified>2026-07-27 17:52:30Z</lastModified>
+  <version>12</version>
+  <inLinks><link>Pathfinder-RPG.Abadar (technique)</link><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Achaékek (technique)</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Adepte démoniaque</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Alseta (technique)</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Apsu (technique)</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Arme colérique</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Armes magiques spécifiques</link><link>Pathfinder-RPG.Armures magiques</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Asmodéus (technique)</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Attaque du gantelet-bouclier</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Bénédiction accélérée</link><link>Pathfinder-RPG.Bénédiction canalisée</link><link>Pathfinder-RPG.Bénédiction de guerre</link><link>Pathfinder-RPG.Bénédiction de la gloire</link><link>Pathfinder-RPG.Bénédiction de lair</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Besmara (technique)</link><link>Pathfinder-RPG.Bravades</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Brigh (technique)</link><link>Pathfinder-RPG.Buveur dâmes</link><link>Pathfinder-RPG.Calistria (technique)</link><link>Pathfinder-RPG.Canalisation supplémentaire</link><link>Pathfinder-RPG.Cayden Cailéan (technique)</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Champion de la foi (prêtre combattant)</link><link>Pathfinder-RPG.Champion de la foi (prêtre combattant)</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Champion tempéré (paladin)</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)</link><link>Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.Chef de culte (prêtre combattant)</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Commandant divin (prêtre combattant)</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Compagnons vermines</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Dahak (technique)</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Descriptions individuelles des propriétés spéciales des armes</link><link>Pathfinder-RPG.Descriptions individuelles des propriétés spéciales des armures et des boucliers</link><link>Pathfinder-RPG.Désenchanteur (prêtre combattant)</link><link>Pathfinder-RPG.Desna (technique)</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Diaboliste</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Épée longue du croisé</link><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Érastil (technique)</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Études approfondies</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs (Combat)</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Ghlaunder (technique)</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Gorum (technique)</link><link>Pathfinder-RPG.Gozreh (technique)</link><link>Pathfinder-RPG.Groétus (technique)</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Gyronna (technique)</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Iomédae (technique)</link><link>Pathfinder-RPG.Irori (technique)</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.Kurgess (technique)</link><link>Pathfinder-RPG.Lamashtu (technique)</link><link>Pathfinder-RPG.Lame de liberté (prêtre combattant)</link><link>Pathfinder-RPG.Lame de liberté (prêtre combattant)</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Légionnaire infernal</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Manuel des joueurs - Classes avancées (Contenu)</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Milani (technique)</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Naderi (technique)</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Néthys (technique)</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Nivi Rhomboéblouissante (technique)</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Norgorber (technique)</link><link>Pathfinder-RPG.Oboles (objet)</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Peinture de guerre charmante</link><link>Pathfinder-RPG.Pharasma (technique)</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Pisteur divin (rôdeur)</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.Poing du signifer</link><link>Pathfinder-RPG.Poing sacré (prêtre combattant)</link><link>Pathfinder-RPG.Porte-bouclier (prêtre combattant)</link><link>Pathfinder-RPG.Porte-bouclier (prêtre combattant)</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Prêtre forgeron (prêtre combattant)</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Rovagug (technique)</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Sarenraé (technique)</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Shélyn (technique)</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Sivanah (technique)</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Tableau récapitulatif des compétences</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons - Temp</link><link>Pathfinder-RPG.Tableau récapitulatif des dons des classes avancées</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.Technique de combat divine</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Temp-aventures occultes</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Torag (technique)</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Tyran de fer (antipaladin)</link><link>Pathfinder-RPG.Urgathoa (technique)</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Voeux</link><link>Pathfinder-RPG.Ydersius (technique)</link><link>Pathfinder-RPG.Zélote de la mante (prêtre combattant)</link><link>Pathfinder-RPG.Zélote de la mante (prêtre combattant)</link><link>Pathfinder-RPG.Zon-Kuthon (technique)</link><link>Pathfinder-RPG.Zyphus (technique)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Science du combat à mains nues</link><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Action rapide</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Armures magiques</link><link>Pathfinder-RPG.Pénitence</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.compagnon animal</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Voeux</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Champion de la foi (prêtre combattant)</link><link>Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)</link><link>Pathfinder-RPG.Chef de culte (prêtre combattant)</link><link>Pathfinder-RPG.Commandant divin (prêtre combattant)</link><link>Pathfinder-RPG.Désenchanteur (prêtre combattant)</link><link>Pathfinder-RPG.Lame de liberté (prêtre combattant)</link><link>Pathfinder-RPG.Poing sacré (prêtre combattant)</link><link>Pathfinder-RPG.Porte-bouclier (prêtre combattant)</link><link>Pathfinder-RPG.Prêtre forgeron (prêtre combattant)</link><link>Pathfinder-RPG.Zélote de la mante (prêtre combattant)</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;13%&quot;&gt;&lt;center&gt;&lt;img ID=&quot;menuclasseIMG3&quot; src=&quot;/wiki/public/upload/Illustrations/Autres/Head.jpg&quot; WIDTH=&quot;90%&quot; style=&quot;border: 1px solid #4b3124&quot; /&gt;&lt;/center&gt;&lt;/td&gt;&lt;td width=&quot;86%&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les classes hybrides&lt;a class=&quot;headeranchor&quot; id=&quot;Les_classes_hybrides_0&quot; href=&quot;#Les_classes_hybrides_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Arcaniste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;L&#39;arcaniste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;exploitations&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Bretteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bretteur.html&quot; title=&quot;Le bretteur&quot;&gt;Le bretteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits-(Bretteur).html&quot; title=&quot;Les exploits du bretteur&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chaman.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Le chaman&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(Chaman).html&quot; title=&quot;Les esprits du chaman&quot;&gt;esprits&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices-(Chaman).html&quot; title=&quot;Les mal&#233;fices du chaman&quot;&gt;mal&#233;fices&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur.html&quot; title=&quot;Le chasseur&quot;&gt;Le chasseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;compagnon animal&quot;&gt;compagnon animal&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Enqu&#234;teur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enqu&#234;teur.html&quot; title=&quot;L&amp;#39;enqu&#234;teur&quot;&gt;L&#39;enqu&#234;teur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Enqu&#234;teur).html&quot; title=&quot;Les talents d&amp;#39;enqu&#234;teur&quot;&gt;talents d’enqu&#234;teur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Lutteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lutteur.html&quot; title=&quot;Le lutteur&quot;&gt;Le lutteur&lt;/a&gt; &lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre combattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Le pr&#234;tre combattant&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;dictions.html&quot; title=&quot;Les b&#233;n&#233;dictions du pr&#234;tre combattant&quot;&gt;b&#233;n&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sanguin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;Le sanguin&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages-(Sanguin).html&quot; title=&quot;Les lignages du sanguin&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Scalde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html&quot; title=&quot;Le scalde&quot;&gt;Le scalde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html&quot; title=&quot;Les chants de rage du scalde&quot;&gt;chants de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Tueur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tueur.html&quot; title=&quot;Le tueur&quot;&gt;Le tueur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Tueur).html&quot; title=&quot;Les talents de tueur&quot;&gt;talents de tueur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESDEBASE&quot; title=&quot;Les classes&quot;&gt;Classes de base&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barbare.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;Le barbare&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;pouvoirs de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Le barde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html&quot; title=&quot;Les repr&#233;sentations bardiques du barde&quot;&gt;repr&#233;sentations&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Les chefs d&amp;#39;œuvre du barde&quot;&gt;chefs d&#39;oeuvre&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Druide.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Le druide&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaines-Animaux-Et-Environnementaux.html&quot; title=&quot;Les domaines animaux et environnementaux du druide&quot;&gt;Domaines animaux et environnementaux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ensorceleur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;L&#39;ensorceleur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages.html&quot; title=&quot;Les lignages d&amp;#39;ensorceleur&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Guerrier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;Le guerrier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Groupe-Darmes.html&quot; title=&quot;Les groupes d&amp;#39;arme du guerrier&quot;&gt;groupes d&#39;armes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Entra&#238;nements-Avanc&#233;s.html&quot; title=&quot;Les entra&#238;nements avanc&#233;s du guerrier&quot;&gt;entra&#238;nements avanc&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magicien.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Le magicien&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-De-Magie.html&quot; title=&quot;Les &#233;coles de magie du magicien&quot;&gt;&#233;coles de magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes-Arcaniques.html&quot; title=&quot;Les d&#233;couvertes arcaniques du magicien&quot;&gt;d&#233;couvertes arcaniques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Moine.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine.html&quot; title=&quot;Le moine&quot;&gt;Le moine&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Voeux.html&quot; title=&quot;Les vœux du moine&quot;&gt;voeux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Paladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Le paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Le pr&#234;tre&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variantes-De-Canalisation.html&quot; title=&quot;Les variantes de canalisation du pr&#234;tre&quot;&gt;variantes de canalisation&lt;/a&gt;&lt;/i&gt;) (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines du pr&#234;tre&quot;&gt;domaines&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/R&#244;deur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;Le r&#244;deur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges-De-R&#244;deur.html&quot; title=&quot;Pi&#232;ges de r&#244;deur&quot;&gt;Pi&#232;ges de r&#244;deur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Roublard.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;Le roublard&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html&quot; title=&quot;Les talents de roublard&quot;&gt;talents&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESSUPPLEMENTAIRES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESSUPPLEMENTAIRES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESSUPPLEMENTAIRES&quot; title=&quot;Les classes&quot;&gt;Classes suppl&#233;mentaires&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESSUPPLEMENTAIRES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Alchimiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;L&#39;alchimiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes.html&quot; title=&quot;Les d&#233;couvertes d&amp;#39;alchimiste&quot;&gt;d&#233;couvertes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Antipaladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;L&#39;anti-paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur de vampire.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur-De-Vampire.html&quot; title=&quot;Le chasseur de vampire&quot;&gt;Le chasseur de vampire&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Techniques-De-Chasseur-De-Vampire.html&quot; title=&quot;les techniques de chasseur de vampire&quot;&gt;techniques de chasseur de vampire&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chevalier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier.html&quot; title=&quot;Le chevalier&quot;&gt;Le chevalier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Conjurateur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;Le conjurateur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon.html&quot; title=&quot;L&amp;#39;eidolon du conjurateur&quot;&gt;eidolon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mod&#232;les-Deidolon.html&quot; title=&quot;Les mod&#232;les d&amp;#39;eidolon du conjurateur&quot;&gt;mod&#232;les d&#39;eidolon&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Inquisiteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;L&#39;inquisiteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html&quot; title=&quot;Les inquisitions d&amp;#39;inquisiteur&quot;&gt;inquisitions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Justicier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Justicier.html&quot; title=&quot;Le justicier&quot;&gt;Le justicier&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sociaux.html&quot; title=&quot;Les talents sociaux du justicier&quot;&gt;talents sociaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talents-De-Justicier.html&quot; title=&quot;Les talents de justicier&quot;&gt;talents de justicier&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magus.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le magus&quot;&gt;Le magus&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcanes.html&quot; title=&quot;Les arcanes du magus&quot;&gt;arcanes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;tamorphe.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphe.html&quot; title=&quot;Le m&#233;tamorphe&quot;&gt;Le m&#233;tamorphe&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Aspects.html&quot; title=&quot;Les aspects du m&#233;tamorphe&quot;&gt;aspects du m&#233;tamorphe&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ninja.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ninja.html&quot; title=&quot;Le ninja&quot;&gt;Le ninja&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Astuces.html&quot; title=&quot;Les astuces de ninja&quot;&gt;astuces&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Oracle.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;L&#39;oracle&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;res&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions-Doracle.html&quot; title=&quot;Les mal&#233;dictions d&amp;#39;oracle&quot;&gt;mal&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pistolier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html&quot; title=&quot;Le pistolier&quot;&gt;Le pistolier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits.html&quot; title=&quot;Les exploits du pistolier&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Samoura&#239;.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html&quot; title=&quot;Le samoura&#239;&quot;&gt;Le samoura&#239;&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sorci&#232;re.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;La sorci&#232;re&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices.html&quot; title=&quot;Les mal&#233;fices de la sorci&#232;re&quot;&gt;mal&#233;fices&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Protecteurs.html&quot; title=&quot;Les protecteurs de la sorci&#232;re&quot;&gt;protecteurs&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESOCCULTES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESOCCULTES3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESOCCULTES3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESOCCULTES3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESOCCULTES&quot; title=&quot;Les classes&quot;&gt;Classes occultes&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESOCCULTES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Cin&#233;tiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cin&#233;tiste.html&quot; title=&quot;Le cin&#233;tiste&quot;&gt;Le cin&#233;tiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;ments.html&quot; title=&quot;Les &#233;l&#233;ments du cin&#233;tiste&quot;&gt;&#233;l&#233;ments&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sauvages.html&quot; title=&quot;Les talents sauvages du cin&#233;tiste&quot;&gt;talents sauvages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Hypnotiseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;L&#39;hypnotiseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inductions.html&quot; title=&quot;Les inductions d&amp;#39;hypnotiseur&quot;&gt;inductions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;dium.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;dium.html&quot; title=&quot;Le m&#233;dium&quot;&gt;Le m&#233;dium&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(M&#233;dium).html&quot; title=&quot;Les esprits du m&#233;dium&quot;&gt;esprits&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-L&#233;gendaires.html&quot; title=&quot;Les esprits l&#233;gendaires de m&#233;dium&quot;&gt;esprits l&#233;gendaires&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Occultiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Occultiste.html&quot; title=&quot;L&amp;#39;occultiste&quot;&gt;L&#39;occultiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-Instrumentales.html&quot; title=&quot;&#201;coles instrumentales&quot;&gt;&#233;coles instrumentales&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Instruments-Sacr&#233;s.html&quot; title=&quot;Les instruments sacr&#233;s d&amp;#39;occultiste&quot;&gt;instruments sacr&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Psychiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Le psychiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Amplifications-Phr&#233;niques.html&quot; title=&quot;Les amplifications phr&#233;niques du psychiste&quot;&gt;amplifications phr&#233;niques&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciplines-Psychiques.html&quot; title=&quot;Les disciplines psychiques du psychiste&quot;&gt;disciplines psychiques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Spirite.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Spirite.html&quot; title=&quot;Le spirite&quot;&gt;Le spirite&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fant&#244;mes-(Spirite).html&quot; title=&quot;Le fant&#244;me du spirite&quot;&gt;fant&#244;mes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPRESTIGE3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPRESTIGE3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPRESTIGE3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPRESTIGE3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Prestige.html&quot; title=&quot;Les classes de prestige&quot;&gt;Classes de prestige&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPRESTIGE3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Acolyte-De-La-Foi-Verte.html&quot; title=&quot;Acolyte de la Nature&quot;&gt;Acolyte de la Nature&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte-De-La-Flamme-Noire.html&quot; title=&quot;Adepte de la Flamme noire&quot;&gt;Adepte de la Flamme noire&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-La-Cour-Des-Ombres.html&quot; title=&quot;Agent de l&amp;#39;Ombre&quot;&gt;Agent de l&#39;Ombre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-Terrain-Des-&#201;claireurs.html&quot; title=&quot;Agent de terrain des Explorateurs&quot;&gt;Agent de terrain des Explorateurs&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-Consortium-De-Laspis.html&quot; title=&quot;Agent du consortium&quot;&gt;Agent du consortium&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-R&#233;seau-Campanule.html&quot; title=&quot;Agent du r&#233;seau&quot;&gt;Agent du r&#233;seau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste-De-Magaambya.html&quot; title=&quot;Arcaniste de l&amp;#39;acad&#233;mie du Vieux-Mage&quot;&gt;Arcaniste de l&#39;acad&#233;mie du Vieux-Mage&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Archer-Mage.html&quot; title=&quot;L&amp;#39;archer-mage&quot;&gt;Archer-mage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arpenteur-Dhorizon.html&quot; title=&quot;L&amp;#39;arpenteur d&amp;#39;horizon&quot;&gt;Arpenteur d&#39;horizon&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aspirant-&#192;-Lillumination.html&quot; title=&quot;Aspirant &#224; l&amp;#39;Illumination&quot;&gt;Aspirant &#224; l&#39;Illumination&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin-Des-Mantes-Rouges.html&quot; title=&quot;Assassin pourpre&quot;&gt;Assassin pourpre&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin.html&quot; title=&quot;L&amp;#39;assassin&quot;&gt;Assassin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Attiseur-De-Temp&#234;tes.html&quot; title=&quot;Attiseur de temp&#234;tes&quot;&gt;Attiseur de temp&#234;tes&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jardinier-Gris.html&quot; title=&quot;Bourreau gris&quot;&gt;Bourreau gris&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Dirori.html&quot; title=&quot;Champion de la perfection&quot;&gt;Champion de la perfection&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Occultiste.html&quot; title=&quot;Le champion occultiste&quot;&gt;Champion occultiste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Dozem.html&quot; title=&quot;Chevalier de la vie&quot;&gt;Chevalier de la vie&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevaucheur-De-Mammouth.html&quot; title=&quot;Chevaucheur de mammouth&quot;&gt;Chevaucheur de mammouth&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chroniqueur.html&quot; title=&quot;Le chroniqueur&quot;&gt;Chroniqueur&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Daivrat.html&quot; title=&quot;Daivrat&quot;&gt;Daivrat&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tective-Des-Insomniaques.html&quot; title=&quot;D&#233;tective des Insomniaques&quot;&gt;D&#233;tective des Insomniaques&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-De-Kalistrade.html&quot; title=&quot;Disciple des Proph&#233;ties&quot;&gt;Disciple des Proph&#233;ties&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciple-Draconien.html&quot; title=&quot;Le disciple draconien&quot;&gt;Disciple draconien&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissident-De-La-Fleur-De-Laube.html&quot; title=&quot;Dissident de l&amp;#39;aube&quot;&gt;Dissident de l&#39;aube&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duelliste.html&quot; title=&quot;Le duelliste&quot;&gt;Duelliste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Empoisonneur-De-Dague.html&quot; title=&quot;Empoisonneur de la guilde&quot;&gt;Empoisonneur de la guilde&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enfant-Divin.html&quot; title=&quot;Enfant divin&quot;&gt;Enfant divin&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Estimateur-Dabadar.html&quot; title=&quot;Estimateur l&#233;gal&quot;&gt;Estimateur l&#233;gal&lt;/a&gt; (CSU)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tudiant-De-La-Guerre.html&quot; title=&quot;&#201;tudiant de la guerre&quot;&gt;&#201;tudiant de la guerre&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;vang&#233;liste.html&quot; title=&quot;&#201;vang&#233;liste&quot;&gt;&#201;vang&#233;liste&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exalt&#233;.html&quot; title=&quot;Exalt&#233;&quot;&gt;Exalt&#233;&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Explorateur.html&quot; title=&quot;Explorateur&quot;&gt;Explorateur&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Savant.html&quot; title=&quot;Explorateur savant&quot;&gt;Explorateur savant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Razmirien.html&quot; title=&quot;Faux pr&#234;tre&quot;&gt;Faux pr&#234;tre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fid&#232;le-D&#233;fenseur.html&quot; title=&quot;Le fid&#232;le d&#233;fenseur&quot;&gt;Fid&#232;le d&#233;fenseur&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fr&#232;re-Du-Sceau.html&quot; title=&quot;Fr&#232;re du Sceau&quot;&gt;Fr&#232;re du Sceau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;gionnaire-Dor&#233;.html&quot; title=&quot;Garde de la libert&#233;&quot;&gt;Garde de la libert&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-De-La-Nature.html&quot; title=&quot;Le gardien de la nature&quot;&gt;Gardien de la nature&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Des-Failles.html&quot; title=&quot;Gardien des failles&quot;&gt;Gardien des failles&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html&quot; title=&quot;Le gardien du savoir&quot;&gt;Gardien du savoir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier-De-La-Fosse.html&quot; title=&quot;Guerrier de la fosse&quot;&gt;Guerrier de la fosse&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;raut.html&quot; title=&quot;Le h&#233;raut&quot;&gt;H&#233;raut&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ritier-Noble.html&quot; title=&quot;H&#233;ritier noble&quot;&gt;H&#233;ritier noble&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Illusionniste-Voil&#233;.html&quot; title=&quot;Illusionniste voil&#233;&quot;&gt;Illusionniste voil&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lame-Des-Lions.html&quot; title=&quot;Lame des lions&quot;&gt;Lame des lions&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Infernal.html&quot; title=&quot;L&#233;gionnaire infernal&quot;&gt;L&#233;gionnaire infernal&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mage-Des-Glyphes.html&quot; title=&quot;Mage des glyphes&quot;&gt;Mage des glyphes&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Chymiste.html&quot; title=&quot;Le ma&#238;tre chymiste&quot;&gt;Ma&#238;tre chymiste&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Des-Ombres.html&quot; title=&quot;Le ma&#238;tre des ombres&quot;&gt;Ma&#238;tre des ombres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Espion.html&quot; title=&quot;Le ma&#238;tre espion&quot;&gt;Ma&#238;tre espion&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mar&#233;chal-Bouclier.html&quot; title=&quot;Mar&#233;chal-bouclier&quot;&gt;Mar&#233;chal-bouclier&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faucon-Dacier.html&quot; title=&quot;Missionnaire de la libert&#233;&quot;&gt;Missionnaire de la libert&#233;&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monolithe-Vivant.html&quot; title=&quot;Monolithe vivant&quot;&gt;Monolithe vivant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystificateur-Profane.html&quot; title=&quot;Le mystificateur profane&quot;&gt;Mystificateur profane&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystique-Tatou&#233;.html&quot; title=&quot;Mystique tatou&#233;&quot;&gt;Mystique tatou&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Opportuniste-Halfelin.html&quot; title=&quot;Opportuniste halfelin&quot;&gt;Opportuniste halfelin&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pirate-De-La-Mer-Int&#233;rieure.html&quot; title=&quot;Pirate de Haute Mer&quot;&gt;Pirate de Haute mer&lt;/a&gt; (PMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porteur-De-Lanterne.html&quot; title=&quot;Porteur de lanterne&quot;&gt;Porteur de lanterne&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-Enrag&#233;.html&quot; title=&quot;Le proph&#232;te enrag&#233;&quot;&gt;Proph&#232;te enrag&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prospecteur-C&#233;leste.html&quot; title=&quot;Prospecteur c&#233;leste&quot;&gt;Prospecteur c&#233;leste&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sentinelle.html&quot; title=&quot;Sentinelle&quot;&gt;Sentinelle&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-De-Larche-Du-Nex.html&quot; title=&quot;Seigneur de l&amp;#39;arche&quot;&gt;Seigneur de l&#39;arche&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-Des-&#201;p&#233;es-Aldori.html&quot; title=&quot;Seigneur des &#233;p&#233;es&quot;&gt;Seigneur des &#233;p&#233;es&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signifer-Infernal.html&quot; title=&quot;Signifer infernal&quot;&gt;Signifer infernal&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re-De-Lhiver.html&quot; title=&quot;Sorci&#232;re de l&amp;#39;hiver&quot;&gt;Sorci&#232;re de l&#39;hiver&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Templier-D&#233;chu.html&quot; title=&quot;Templier parjure&quot;&gt;Templier parjure&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Th&#233;urge-Mystique.html&quot; title=&quot;Le th&#233;urge mystique&quot;&gt;Th&#233;urge mystique&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vengeur-Sacr&#233;.html&quot; title=&quot;Le vengeur sacr&#233;&quot;&gt;Vengeur sacr&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liseuse-De-Tourment.html&quot; title=&quot;Voyante&quot;&gt;Voyante&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPNJ3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPNJ3&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPNJ3&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPNJ3&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Classes de PNJ&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPNJ3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniAdepte.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;L&#39;adepte&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniExpert.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;L&#39;expert&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniCombattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;L&#39;homme d&#39;arme&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniHomme du Peuple.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Du-Peuple.html&quot; title=&quot;L&amp;#39;homme du peuple&quot;&gt;L&#39;homme du peuple&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG3&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniNoble.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Noble.html&quot; title=&quot;Le noble&quot;&gt;Le noble&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fright&quot;&gt;&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;dictions.html&quot; title=&quot;Les b&#233;n&#233;dictions du pr&#234;tre combattant&quot;&gt;b&#233;n&#233;dictions&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Pr&#234;tres.html&quot; title=&quot;Liste des sorts de pr&#234;tre/pr&#234;tre combattant/oracle&quot;&gt;liste des sorts de pr&#234;tre&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonpr&#234;trecombattant&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onclick=&quot;expandMenu(&#39;pr&#234;trecombattant&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;Voir les arch&#233;types du pr&#234;tre combattant&lt;/b&gt;&amp;emsp;
+  &lt;li ID=&quot;pr&#234;trecombattant&quot; CLASS=&quot;listecach&#233;e&quot; STYLE=&quot;display:none&quot;&gt;&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les arch&#233;types &lt;/br&gt;de pr&#234;tre combattant&lt;a class=&quot;headeranchor&quot; id=&quot;Les_arch&#233;types_de_pr&#234;tre_combattant_0&quot; href=&quot;#Les_arch&#233;types_de_pr&#234;tre_combattant_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&amp;nbsp;Retour &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;classe&lt;/a&gt;.
+&lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-La-Foi-(Pr&#234;tre-Combattant).html&quot; title=&quot;Champion de la foi&quot;&gt;Champion de la Foi&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chapelain-De-Larsenal-Militaire-(Pr&#234;tre-Combattant).html&quot; title=&quot;Chapelain de l&amp;#39;arsenal&quot;&gt;Chapelain de l&#39;arsenal militaire&lt;/a&gt; (&lt;i&gt;WMH&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chef-De-Culte-(Pr&#234;tre-Combattant).html&quot; title=&quot;Chef de culte&quot;&gt;Chef de culte&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Commandant-Divin-(Pr&#234;tre-Combattant).html&quot; title=&quot;Commandant divin&quot;&gt;Commandant divin&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;senchanteur-(Pr&#234;tre-Combattant).html&quot; title=&quot;D&#233;senchanteur&quot;&gt;D&#233;senchanteur&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lame-De-Libert&#233;-(Pr&#234;tre-Combattant).html&quot; title=&quot;Lame de libert&#233;&quot;&gt;Lame de libert&#233;&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poing-Sacr&#233;-(Pr&#234;tre-Combattant).html&quot; title=&quot;Poing sacr&#233;&quot;&gt;Poing sacr&#233;&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Bouclier-(Pr&#234;tre-Combattant).html&quot; title=&quot;Porte-bouclier&quot;&gt;Porte bouclier&lt;/a&gt; (&lt;i&gt;AMH&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Forgeron-(Pr&#234;tre-Combattant).html&quot; title=&quot;Pr&#234;tre forgeron&quot;&gt;Pr&#234;tre forgeron&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Z&#233;lote-De-La-Mante-(Pr&#234;tre-Combattant).html&quot; title=&quot;Z&#233;lote de la mante&quot;&gt;Z&#233;lote de la mante&lt;/a&gt; (MCA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Capables d’utiliser la puissance des dieux sous forme de b&#233;n&#233;dictions et de sorts, les pr&#234;tres combattants m&#234;lent magie divine et talents martiaux. Ce sont d’imprenables bastions de leur religion qui chantent les louanges de leur dieu alors m&#234;me qu’ils soumettent leurs ennemis en les rouant de coups. Ils ne reculent jamais devant un d&#233;fi lanc&#233; &#224; leurs croyances. Les pr&#234;tres usent souvent de subtilit&#233; et de diplomatie pour atteindre leurs objectifs alors que les pr&#234;tres combattants n’h&#233;sitent pas &#224; recourir &#224; la violence d&#232;s que la situation l’exige. Dans nombre de religions, ils forment le noyau des forces martiales de leur &#233;glise : ils r&#233;cup&#232;rent les reliques perdues, volent au secours des membres du clerg&#233; enlev&#233;s et d&#233;fendent les pr&#233;ceptes de leur &#233;glise contre tous ceux qui osent les d&#233;fier.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre&quot;&gt;&lt;caption&gt;Le pr&#234;tre combattant&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot; CLASS=&quot;gauche&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot; CLASS=&quot;center&quot;&gt;Arme Sacr&#233;e*&lt;/td&gt;&lt;td COLSPAN=&quot;7&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMEDEPREDILECTION&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;arme sacr&#233;e&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#AURA&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;aura&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#BENEDICTIONS&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;b&#233;n&#233;dictions&lt;/a&gt; (mineures), &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ORAISONS&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;oraisons&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#FERVEUR&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Ferveur&lt;/a&gt; 1d6&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#DONSUPPLEMENTAIRE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Arme sacr&#233;e&lt;/a&gt; +1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#CANALISATIONDENERGIE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;canalisation d&#39;&#233;nergie&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#FERVEUR&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Ferveur&lt;/a&gt; 2d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#DONSUPPLEMENTAIRE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMURESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Armure sacr&#233;e&lt;/a&gt; +1&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Arme sacr&#233;e&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#FERVEUR&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Ferveur&lt;/a&gt; 3d6&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#DONSUPPLEMENTAIRE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMURESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Armure sacr&#233;e&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#BENEDICTIONS&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;b&#233;n&#233;dictions&lt;/a&gt; (majeures)&lt;/td&gt;&lt;td&gt;1d10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#FERVEUR&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Ferveur&lt;/a&gt; 4d6&lt;/td&gt;&lt;td&gt;1d10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Arme sacr&#233;e&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#DONSUPPLEMENTAIRE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1d10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMURESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Armure sacr&#233;e&lt;/a&gt; +3&lt;/td&gt;&lt;td&gt;1d10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#FERVEUR&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Ferveur&lt;/a&gt; 5d6&lt;/td&gt;&lt;td&gt;1d10&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#DONSUPPLEMENTAIRE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Arme sacr&#233;e&lt;/a&gt; +4, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMURESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;armure sacr&#233;e&lt;/a&gt; +4&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#FERVEUR&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Ferveur&lt;/a&gt; 6d6&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+13/+8/+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#DONSUPPLEMENTAIRE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Don suppl&#233;mentaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2d6 &lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMURESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Armure sacr&#233;e&lt;/a&gt; +5&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+15/+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Arme sacr&#233;e&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ASPECTDELAGUERRE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;aspect de la guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#FERVEUR&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;ferveur&lt;/a&gt; 7d6&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;note&quot;&gt;&lt;td COLSPAN=&quot;14&quot;&gt;&lt;i&gt;(*) Les valeurs sont indiqu&#233;es pour des pr&#234;tres combattants de taille M. Pour ceux de taille P et G, consultez le pouvoir de classe &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html#ARMESACREE&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;arme sacr&#233;e&lt;/a&gt;.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;b&gt;R&#244;le.&lt;/b&gt; Les pr&#234;tres combattants sont des gu&#233;risseurs et des lanceurs de sorts comp&#233;tents qui puisent dans leurs pouvoirs divins au beau milieu des batailles o&#249; leur armure et leurs talents martiaux sont mis &#224; rude &#233;preuve.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Classes m&#232;res.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;Guerrier&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; L’alignement du pr&#234;tre combattant ne doit pas s’&#233;loigner de plus d’un cran de celui de sa divinit&#233; sur l’axe Loi/Chaos ou Bien/Mal.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233; de vie.&lt;/b&gt; d8.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Argent de d&#233;part.&lt;/b&gt; 5d6 x 10 po (moyenne 175 po).&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Comp&#233;tences de classe&lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_15&quot; href=&quot;#Comp&#233;tences_de_classe_15&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les comp&#233;tences de classe du pr&#234;tre combattant : &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (ing&#233;nierie) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; (Dex), &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; (For), &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; (Sag)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Rangs de comp&#233;tence par niveau.&lt;/b&gt; 2 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Descriptif de la classe&lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_16&quot; href=&quot;#Descriptif_de_la_classe_16&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les aptitudes de classe du pr&#234;tre combattant.&lt;br /&gt;&lt;br /&gt;&lt;IMG SRC=&quot;/wiki/public/upload/Illustrations/PNJ/Oloch.jpg&quot; WIDTH=&quot;40%&quot; STYLE=&quot;float: right; background-color: white; padding: 0 0 5px 5px;&quot;/&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ARMESETARMURES&quot; href=&quot;#ARMESETARMURES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Armes et armures&lt;a class=&quot;headeranchor&quot; id=&quot;Armes_et_armures_0&quot; href=&quot;#Armes_et_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le pr&#234;tre combattant est form&#233; au maniement de toutes les armes courantes et de guerre, ainsi que de l’arme de pr&#233;dilection de son dieu. &lt;br /&gt;&lt;br /&gt;Il est form&#233; au port des armures (lourdes, l&#233;g&#232;res et interm&#233;diaires) et au maniement des boucliers (&#224; l’exception du pavois). Si le pr&#234;tre combattant v&#233;n&#232;re un dieu ayant pour arme de pr&#233;dilection les mains nues, il gagne le don &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Combat-&#192;-Mains-Nues.html&quot; title=&quot;Science du combat &#224; mains nues&quot;&gt;Science du combat &#224; mains nues&lt;/a&gt; comme don suppl&#233;mentaire.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SORTS&quot; href=&quot;#SORTS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le pr&#234;tre combattant lance des sorts divins issus de la liste du pr&#234;tre. Un pr&#234;tre combattant ne peut pas lancer de sorts dont l’alignement est oppos&#233; au sien ou &#224; celui de son dieu (s’il en sert un). L’alignement d’un sort est indiqu&#233; dans sa description par les registres Bien, Chaos, Loi et Mal. &lt;br /&gt;&lt;br /&gt;Le pr&#234;tre combattant choisit et pr&#233;pare ses sorts &#224; l’avance. Le pr&#234;tre combattant lance des sorts de niveau 6 au maximum, les sorts de pr&#234;tres de niveau 7 et plus ne figurent pas sur sa propre liste de sorts et il ne peut pas utiliser d’objets &#224; potentiel magique ou &#224; fin d’incantation utilisant un sort de pr&#234;tre de niveau 7 ou plus (&#224; moins de r&#233;ussir un test d’Utilisation d’objets magiques).&lt;br /&gt;&lt;br /&gt;Pour pr&#233;parer ou lancer un sort, le pr&#234;tre combattant doit avoir une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; au moins &#233;gale &#224; 10 + niveau du sort. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; pour r&#233;sister au sort du pr&#234;tre combattant est de 10 + niveau du sort + modificateur de Sagesse du pr&#234;tre combattant. &lt;br /&gt;&lt;br /&gt;Comme d’autres lanceurs de sorts, le pr&#234;tre combattant lance un nombre limit&#233; de sorts de chaque niveau chaque jour. Ce nombre figure dans la table ci-dessus. De plus, s’il a une valeur de Sagesse &#233;lev&#233;e, il re&#231;oit des &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DETERMINERLESMODIFICATEURS&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;sorts quotidiens suppl&#233;mentaires&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Le pr&#234;tre combattant prie ou m&#233;dite pour obtenir ses sorts. Il choisit la p&#233;riode de la journ&#233;e pendant laquelle il consacre,
+chaque jour, une heure en contemplation silencieuse ou en suppliques, afin de r&#233;cup&#233;rer son nombre de sorts quotidiens. Le pr&#234;tre combattant peut pr&#233;parer et lancer n’importe quel &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Pr&#234;tres.html&quot; title=&quot;Liste des sorts de pr&#234;tre/pr&#234;tre combattant/oracle&quot;&gt;sort de la liste du pr&#234;tre&lt;/a&gt;, &#224; condition d’avoir le niveau requis, mais il doit choisir les sorts qu’il pr&#233;pare lors de sa m&#233;ditation quotidienne.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ORAISONS&quot; href=&quot;#ORAISONS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Oraisons&lt;a class=&quot;headeranchor&quot; id=&quot;Oraisons_2&quot; href=&quot;#Oraisons_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les pr&#234;tres combattants pr&#233;parent un certain nombre d’oraisons (ou sorts de niveau 0), comme indiqu&#233; dans la table ci-dessus. Ces oraisons se lancent comme les autres sorts mais ne sont pas d&#233;pens&#233;es et sont donc r&#233;utilisables.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;AURA&quot; href=&quot;#AURA&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Aura (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Aura_Ext_3&quot; href=&quot;#Aura_Ext_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Le pr&#234;tre combattant d’une divinit&#233; Chaotique, Mauvaise, Bonne ou Loyale produit une aura particuli&#232;rement puissante (comme un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;), correspondant &#224; l’alignement de son dieu (voir &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt;).&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;BENEDICTIONS&quot; href=&quot;#BENEDICTIONS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;B&#233;n&#233;dictions (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;B&#233;n&#233;dictions_Sur_4&quot; href=&quot;#B&#233;n&#233;dictions_Sur_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;La divinit&#233; du pr&#234;tre combattant influe sur son alignement, sur sa magie, ses valeurs et la mani&#232;re dont les autres le consid&#232;rent. Chaque pr&#234;tre choisit deux b&#233;n&#233;dictions parmi celles qu’accorde son dieu (chaque divinit&#233; conf&#232;re des b&#233;n&#233;dictions li&#233;es &#224; ses domaines). Le pr&#234;tre combattant ne peut pas choisir une b&#233;n&#233;diction d’alignement (Chaos, Mal, Bien ou Loi) si son alignement ne correspond pas &#224; celui du domaine associ&#233;. Si le pr&#234;tre combattant ne v&#233;n&#232;re pas une divinit&#233; particuli&#232;re, il choisit tout de m&#234;me deux b&#233;n&#233;dictions repr&#233;sentant ses inclinaisons spirituelles et ses capacit&#233;s, &#224; faire approuver par le MJ. La restriction sur les domaines d’alignement s’applique toujours.&lt;br /&gt;&lt;br /&gt;Chaque b&#233;n&#233;diction accorde un pouvoir mineur au niveau 1 et un pouvoir majeur au niveau 10. &lt;br /&gt;&lt;br /&gt;Chaque jour, le pr&#234;tre combattant peut faire appel au pouvoir de ses b&#233;n&#233;dictions un nombre total de fois &#233;gal &#224; 3 + 1/2 niveau de pr&#234;tre combattant (pour un maximum de 13 fois au niveau 20). Chaque fois que le pr&#234;tre combattant utilise une de ses b&#233;n&#233;dictions, une utilisation est d&#233;compt&#233;e de ce quota quotidien.&lt;br /&gt;&lt;br /&gt;Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; contre une b&#233;n&#233;diction est de 10 + 1/2 niveau du pr&#234;tre combattant + son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt;. Si le pr&#234;tre combattant poss&#232;de des niveaux dans une autre classe offrant des &lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines du pr&#234;tre&quot;&gt;domaines&lt;/a&gt; de pr&#234;tres, ses b&#233;n&#233;dictions doivent &#234;tre issues des m&#234;mes domaines. Si le MJ accepte, le pr&#234;tre combattant peut changer ses b&#233;n&#233;dictions ou ses domaines pour les mettre en conformit&#233;.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;dictions.html&quot; title=&quot;Les b&#233;n&#233;dictions du pr&#234;tre combattant&quot;&gt;liste des b&#233;n&#233;dictions&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ARMEDEPREDILECTION&quot; href=&quot;#ARMEDEPREDILECTION&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Arme de pr&#233;dilection.&lt;a class=&quot;headeranchor&quot; id=&quot;Arme_de_pr&#233;dilection_5&quot; href=&quot;#Arme_de_pr&#233;dilection_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 1, le pr&#234;tre combattant re&#231;oit &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; comme don suppl&#233;mentaire (il peut choisir n’importe quelle arme, pas seulement l’arme de pr&#233;dilection de son dieu).&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ARMESACREE&quot; href=&quot;#ARMESACREE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Arme sacr&#233;e (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Arme_sacr&#233;e_Sur_6&quot; href=&quot;#Arme_sacr&#233;e_Sur_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot;&gt;&lt;caption&gt;D&#233;g&#226;ts de l&#39;arme sacr&#233;e des pr&#234;tres&lt;br/&gt;combattants de taille P ou G&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;1&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;1&quot;&gt;D&#233;gats (P)&lt;/td&gt;&lt;td ROWSPAN=&quot;1&quot;&gt;D&#233;gats (G)&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1-4&lt;/td&gt;&lt;td&gt;1d4&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5-9&lt;/td&gt;&lt;td&gt;1d6&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10-14&lt;/td&gt;&lt;td&gt;1d8&lt;/td&gt;&lt;td&gt;2d8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15-19&lt;/td&gt;&lt;td&gt;1d10&lt;/td&gt;&lt;td&gt;3d6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;2d6&lt;/td&gt;&lt;td&gt;3d8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;D&#232;s le niveau 1, les armes du pr&#234;tre combattant sont impr&#233;gn&#233;es de la puissance de sa foi. Cela s’applique &#224; l’arme de pr&#233;dilection de son dieu mais aussi &#224; toutes celles qui b&#233;n&#233;ficient du don &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt;. Si le pr&#234;tre combattant a pris ce don &#224; plusieurs reprises, toutes les armes associ&#233;es sont sacr&#233;es pour lui. &lt;br /&gt;&lt;br /&gt;Quand le pr&#234;tre combattant touche un adversaire avec une arme sacr&#233;e, les d&#233;g&#226;ts se basent sur le niveau du pr&#234;tre combattant et non sur le type de l’arme. Les d&#233;g&#226;ts des armes sacr&#233;es des pr&#234;tres combattants de taille M figurent dans la table de la classe, ceux des pr&#234;tres de taille P et G se trouvent dans la table ci-contre. Le pr&#234;tre combattant peut choisir d’appliquer les d&#233;g&#226;ts de base de son arme au lieu des d&#233;g&#226;ts de l’arme sacr&#233;e mais il doit l’annoncer avant de faire son jet (si les d&#233;g&#226;ts de base de l’arme exc&#232;dent ceux de l’arme sacr&#233;e, ils ne changent pas). &lt;br /&gt;&lt;br /&gt;L’augmentation de d&#233;g&#226;ts n’affecte pas les autres aspects de l’arme et ne s’applique pas aux objets alchimiques, aux bombes et autres armes infligeant des d&#233;g&#226;ts d’&#233;nergie destructive.&lt;br /&gt;&lt;br /&gt;Au niveau 4, le pr&#234;tre combattant apprend &#224; am&#233;liorer une arme sacr&#233;e en l’impr&#233;gnant de la puissance divine par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;. L’arme b&#233;n&#233;ficie alors d’un bonus d’alt&#233;ration de +1. Tous les quatre niveaux apr&#232;s le 4&lt;sup&gt;&#232;me&lt;/sup&gt;, ce bonus augmente de 1, pour un maximum de +5 au niveau 20. Si le pr&#234;tre combattant poss&#232;de plusieurs armes sacr&#233;es, il peut en am&#233;liorer une autre au round suivant par une nouvelle &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Rapide.html&quot; title=&quot;Action rapide&quot;&gt;action rapide&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Chaque jour, le pr&#234;tre combattant peut utiliser ce pouvoir un nombre de rounds &#233;gal &#224; son niveau de classe, ces rounds n’&#233;tant pas forc&#233;ment cons&#233;cutifs. Ces bonus se cumulent avec ceux que l’arme poss&#232;de peut-&#234;tre d&#233;j&#224;, sans jamais d&#233;passer +5 au total. &lt;br /&gt;&lt;br /&gt;Le pr&#234;tre combattant peut am&#233;liorer une arme en la dotant des propri&#233;t&#233;s sp&#233;ciales d’arme suivantes : &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Ac&#233;r&#233;e&quot; title=&quot;Les armes magiques&quot;&gt;ac&#233;r&#233;e&lt;/a&gt;, de &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Destruction&quot; title=&quot;Les armes magiques&quot;&gt;destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Feu&quot; title=&quot;Les armes magiques&quot;&gt;de feu&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Froid&quot; title=&quot;Les armes magiques&quot;&gt;de froid&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Lumi&#232;re&quot; title=&quot;Les armes magiques&quot;&gt;de lumi&#232;re&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Gardienne&quot; title=&quot;Les armes magiques&quot;&gt;gardienne&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Foudre&quot; title=&quot;Les armes magiques&quot;&gt;de foudre&lt;/a&gt;. 
+&lt;ul&gt;&lt;li&gt;S’il est Chaotique, il peut aussi ajouter &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Anarchique&quot; title=&quot;Les armes magiques&quot;&gt;anarchique&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Vicieuse&quot; title=&quot;Les armes magiques&quot;&gt;vicieuse&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;S’il est Mauvais, il peut aussi ajouter &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Encha&#238;nement&quot; title=&quot;Les armes magiques&quot;&gt;d’encha&#238;nement&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Impie&quot; title=&quot;Les armes magiques&quot;&gt;impie&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;S’il est Bon, il peut aussi ajouter &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Spectrale&quot; title=&quot;Les armes magiques&quot;&gt;spectrale&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Sainte&quot; title=&quot;Les armes magiques&quot;&gt;sainte&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;S’il est Loyal, il peut aussi ajouter &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Axiomatique&quot; title=&quot;Les armes magiques&quot;&gt;axiomatique&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Mis&#233;ricordieuse&quot; title=&quot;Les armes magiques&quot;&gt;mis&#233;ricordieuse&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;S’il est Neutre (sans autre composante d’alignement), il peut aussi ajouter &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Stockagedesort&quot; title=&quot;Les armes magiques&quot;&gt;de stockage de sorts&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html#Tonnerre&quot; title=&quot;Les armes magiques&quot;&gt;tonnerre&lt;/a&gt;.&lt;br /&gt;Ces propri&#233;t&#233;s co&#251;tent et remplacent un bonus d’alt&#233;ration de valeur &#233;quivalente. Les propri&#233;t&#233;s en double ne se cumulent pas. L’arme doit disposer d’un bonus d’alt&#233;ration d’au moins +1 avant de pouvoir b&#233;n&#233;ficier de propri&#233;t&#233;s sp&#233;ciales.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Si le pr&#234;tre combattant am&#233;liore plusieurs armes, elles consomment des rounds de pouvoir ind&#233;pendamment les unes des autres.&lt;br /&gt;&lt;br /&gt;Le bonus d’alt&#233;ration et les propri&#233;t&#233;s sp&#233;ciales sont &#224; d&#233;terminer quand le pr&#234;tre combattant utilise ce pouvoir pour la premi&#232;re fois de la journ&#233;e. Il ne peut plus en changer jusqu’au lendemain. &lt;br /&gt;&lt;br /&gt;Ces bonus ne s’appliquent pas si une cr&#233;ature autre que le pr&#234;tre combattant manie l’arme mais ils restent actifs si l’arme quitte sa main (s’il la lance, par exemple). Le pr&#234;tre combattant peut mettre fin &#224; cette aptitude par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; au d&#233;but de son tour (ce round n’est pas d&#233;compt&#233; de sa limite d’utilisations quotidiennes, &#224; moins qu’il ne r&#233;active le pouvoir au cours du m&#234;me round). Si le pr&#234;tre combattant utilise ce pouvoir sur une arme double, l’effet s’applique sur l’une des t&#234;tes de l’arme seulement.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;INCANTATIONSPONTANEE&quot; href=&quot;#INCANTATIONSPONTANEE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Incantation spontan&#233;e&lt;a class=&quot;headeranchor&quot; id=&quot;Incantation_spontan&#233;e_7&quot; href=&quot;#Incantation_spontan&#233;e_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Un pr&#234;tre combattant Bon (ou Neutre v&#233;n&#233;rant une divinit&#233; Bonne) peut canaliser l’&#233;nergie de ses sorts pr&#233;par&#233;s pour les transformer en sorts de soins, sans avoir besoin de les pr&#233;parer &#224; l’avance. Il peut d&#233;penser n’importe quel sort (hormis les oraisons), pour lancer un sort de soins de m&#234;me niveau ou de niveau inf&#233;rieur. Un sort de soins est un sort comportant le mot &#171; soins &#187; dans son nom. &lt;br /&gt;&lt;br /&gt;Un pr&#234;tre combattant Mauvais (ou Neutre v&#233;n&#233;rant une divinit&#233; Mauvaise) ne convertit pas ses sorts en sorts de soins mais en sorts de blessure. Un sort de blessure est un sort comportant le mot &#171; blessure &#187; dans son nom.&lt;br /&gt;&lt;br /&gt;Un pr&#234;tre combattant qui n’est ni Bon ni Mauvais et v&#233;n&#232;re une divinit&#233; ni Bonne ni Mauvaise peut convertir ses sorts en sorts de soins ou de blessure. Une fois qu’il a choisi, il ne peut plus revenir sur sa d&#233;cision. Ce choix d&#233;termine aussi le type d’&#233;nergie qu’il canalise : positive ou n&#233;gative.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Sorts Chaotiques, Mauvais, Bons et Loyaux&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_Chaotiques_Mauvais_Bons_et_Loyaux_8&quot; href=&quot;#Sorts_Chaotiques_Mauvais_Bons_et_Loyaux_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Un pr&#234;tre combattant ne peut pas lancer des sorts d’un alignement oppos&#233; au sien ou &#224; celui de sa divinit&#233; (s’il en a une). Les sorts associ&#233;s &#224; un alignement particulier sont not&#233;s comme appartenant au registre du Chaos, du Mal, du Bien ou de la Loi. &lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;LANGUESSUPPLEMENTAIRES&quot; href=&quot;#LANGUESSUPPLEMENTAIRES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Langues suppl&#233;mentaires&lt;a class=&quot;headeranchor&quot; id=&quot;Langues_suppl&#233;mentaires_9&quot; href=&quot;#Langues_suppl&#233;mentaires_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Un pr&#234;tre combattant ajoute l’abyssal, le c&#233;leste et l’infernal &#224; sa liste de langues suppl&#233;mentaires. Ces langages viennent en plus de ceux d&#233;j&#224; accessibles gr&#226;ce &#224; sa race.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;FERVEUR&quot; href=&quot;#FERVEUR&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Ferveur (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Ferveur_Sur_10&quot; href=&quot;#Ferveur_Sur_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 2, le pr&#234;tre combattant puise dans sa foi pour soigner les blessures ou blesser ses ennemis. Il peut aussi se servir de cette aptitude pour lancer rapidement un sort susceptible de l’aider dans sa lutte. Chaque jour, il peut utiliser cette aptitude un nombre de fois &#233;gal &#224; 1/2 niveau de pr&#234;tre combattant + son modificateur de Sagesse. &lt;br /&gt;&lt;br /&gt;En d&#233;pensant une utilisation de cette aptitude, un pr&#234;tre combattant Bon (ou v&#233;n&#233;rant une divinit&#233; Bonne) touche une cr&#233;ature pour la gu&#233;rir de 1d6 points de d&#233;g&#226;ts, plus 1d6 points tous les trois niveaux de pr&#234;tre combattant apr&#232;s le deuxi&#232;me (pour un maximum de 7d6 au niveau 20). Cette aptitude s’utilise par une action simple (&#224; moins que le pr&#234;tre ne se prenne pour cible, auquel cas c’est une action rapide). Le pr&#234;tre combattant peut aussi utiliser cette aptitude pour blesser un mort-vivant et lui infliger alors, par une attaque de contact au corps &#224; corps, le m&#234;me montant de d&#233;g&#226;ts que celui qu’il aurait soign&#233;. Utilis&#233;e ainsi, la ferveur demande une action simple et provoque des attaques d’opportunit&#233;. Les morts-vivants n’ont pas droit &#224; un jet de sauvegarde contre ces d&#233;g&#226;ts assimil&#233;s &#224; de l’&#233;nergie positive. &lt;br /&gt;&lt;br /&gt;Un pr&#234;tre combattant Mauvais (ou v&#233;n&#233;rant une divinit&#233; Mauvaise) peut utiliser ce pouvoir pour blesser des cr&#233;atures vivantes avec une attaque de contact au corps &#224; corps ou pour soigner des morts-vivants en contact avec lui. C’est une manipulation d’&#233;nergie n&#233;gative.&lt;br /&gt;&lt;br /&gt;Un pr&#234;tre combattant Neutre (ou qui ne v&#233;n&#232;re pas de divinit&#233; particuli&#232;re) utilise ce pouvoir comme un pr&#234;tre combattant Bon s’il a choisi de lancer spontan&#233;ment des sorts de soins ou comme un pr&#234;tre combattant Mauvais s’il a choisi les sorts de blessure.&lt;br /&gt;&lt;br /&gt;Par une action rapide, le pr&#234;tre combattant peut d&#233;penser une utilisation de cette aptitude pour lancer n’importe quel sort de pr&#234;tre combattant qu’il a pr&#233;par&#233; ayant un temps d&#39;incantation d&#39;un round ou moins. Un sort ainsi lanc&#233; affecte uniquement le pr&#234;tre combattant, m&#234;me s’il devrait normalement affecter plusieurs cibles. Ce genre de sort ignore les composantes gestuelles et ne provoque pas d’attaque d’opportunit&#233;. Le pr&#234;tre n’a pas besoin d’avoir une main libre pour lancer ainsi son sort.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;DONSUPPLEMENTAIRE&quot; href=&quot;#DONSUPPLEMENTAIRE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Dons suppl&#233;mentaires&lt;a class=&quot;headeranchor&quot; id=&quot;Dons_suppl&#233;mentaires_11&quot; href=&quot;#Dons_suppl&#233;mentaires_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 3 puis tous les trois niveaux, le pr&#234;tre combattant gagne un don suppl&#233;mentaire, en plus de ceux obtenus gr&#226;ce &#224; son &#233;volution normale. Il doit les choisir parmi les dons de combat. Il doit remplir les conditions requises mais consid&#232;re ses niveaux de pr&#234;tre combattant comme &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Bonusdebasealattaque.html&quot; title=&quot;BBA&quot;&gt;bonus de base &#224; l’attaque&lt;/a&gt; (qu’il ajoute aux bonus de base &#224; l’attaque obtenus gr&#226;ce aux autres classes et &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; raciaux) pour d&#233;terminer s&#39;il en remplit les pr&#233;requis. Enfin, vis-&#224;-vis de ces dons, le pr&#234;tre combattant peut choisir des dons n&#233;cessitant un nombre minimum de niveaux de guerrier, en consid&#233;rant son niveau de pr&#234;tre combattant comme le niveau de guerrier.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CANALISATIONDENERGIE&quot; href=&quot;#CANALISATIONDENERGIE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Canalisation d’&#233;nergie (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Canalisation_d’&#233;nergie_Sur_12&quot; href=&quot;#Canalisation_d’&#233;nergie_Sur_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; partir du niveau 4, le pr&#234;tre combattant peut lib&#233;rer une vague d’&#233;nergie en canalisant la puissance de sa foi &#224; travers son symbole sacr&#233; (ou impie). Cette &#233;nergie sert &#224; blesser ou &#224; soigner, selon son type et celui de la cr&#233;ature vis&#233;e. Pour utiliser cette aptitude, il faut accomplir une action simple et d&#233;penser deux utilisations de ferveur. Ce pouvoir ne provoque pas d’attaque d’opportunit&#233; mais, pour s’en servir, le pr&#234;tre combattant doit montrer son symbole sacr&#233; ou impie.
+&lt;ul&gt;&lt;li&gt;Un pr&#234;tre combattant Bon (ou qui v&#233;n&#232;re une divinit&#233; Bonne) canalise de l’&#233;nergie positive et peut soigner les vivants ou blesser les morts-vivants.&lt;/li&gt;&lt;li&gt;Un pr&#234;tre combattant Mauvais (ou qui  v&#233;n&#232;re une divinit&#233; Mauvaise) canalise de l’&#233;nergie n&#233;gative et soigne les morts-vivants ou blesse les vivants.&lt;/li&gt;&lt;li&gt;Un pr&#234;tre combattant Neutre (ou qui ne v&#233;n&#232;re aucune divinit&#233; particuli&#232;re) canalise l’&#233;nergie positive s’il a choisi de lancer des sorts spontan&#233;s de soins ou de l’&#233;nergie n&#233;gative s’il a choisi de lancer des sorts spontan&#233;s de blessure.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;La canalisation d’&#233;nergie se pr&#233;sente sous forme de rayonnement qui affecte toutes les cr&#233;atures d’un m&#234;me type (vivantes ou mortes-vivantes) dans un rayon de 9 m&#232;tres autour du pr&#234;tre combattant. La quantit&#233; de d&#233;g&#226;ts soign&#233;s ou inflig&#233;s est &#233;gale
+&#224; celle indiqu&#233;e dans le pouvoir ferveur. Une cr&#233;ature qui subit des d&#233;g&#226;ts &#224; cause de l’&#233;nergie les r&#233;duit de moiti&#233; &#224; condition de r&#233;ussir un jet de Volont&#233; dont le DD est &#233;gal &#224; 10 +1/2 niveau du pr&#234;tre combattant + son modificateur de Sagesse. Les points de vie soign&#233;s par la canalisation d’&#233;nergie ne permettent pas de d&#233;passer le maximum de points de vie d’une cr&#233;ature, les points exc&#233;dentaires sont perdus. Le pr&#234;tre combattant peut s’inclure dans l’effet ou non, au choix.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ARMURESACREE&quot; href=&quot;#ARMURESACREE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Armure sacr&#233;e (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Armure_sacr&#233;e_Sur_13&quot; href=&quot;#Armure_sacr&#233;e_Sur_13&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 7, le pr&#234;tre combattant peut am&#233;liorer son armure gr&#226;ce &#224; la puissance divine par une action rapide. L’armure b&#233;n&#233;ficie alors d’un bonus d’alt&#233;ration de +1. Tous les trois niveaux apr&#232;s le 7&#232;me, ce bonus augmente de 1 (pour un maximum de +5 au niveau 19). Chaque jour, le pr&#234;tre combattant peut utiliser ce pouvoir un nombre de minutes &#233;gal &#224; son niveau de classe. Cette dur&#233;e se d&#233;coupe en p&#233;riodes d’une minute au minimum mais n’est pas forc&#233;ment cons&#233;cutive. Ces bonus se cumulent avec ceux que l’armure poss&#232;de d&#233;j&#224;, jusqu’&#224; un maximum de +5 au total. Le pr&#234;tre combattant peut doter son armure des propri&#233;t&#233;s suivantes : de &lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html#D&#233;fense&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;d&#233;fense&lt;/a&gt; (lourde, interm&#233;diaire ou l&#233;g&#232;re), de &lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html#Mim&#233;tisme&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;mim&#233;tisme&lt;/a&gt;, de &lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html#R&#233;sistance&#224;lamagie&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;r&#233;sistance &#224; la magie&lt;/a&gt; (13, 15, 17 ou 19), de &lt;a class=&quot;pagelink&quot; href=&quot;Armures-Magiques.html#R&#233;sistanceaux&#233;nergies&quot; title=&quot;Les armures et boucliers magiques&quot;&gt;r&#233;sistance aux &#233;nergies&lt;/a&gt; (normale, sup&#233;rieure ou supr&#234;me). Ces propri&#233;t&#233;s co&#251;tent et remplacent un bonus d’alt&#233;ration de valeur &#233;quivalente. Dans ce cas, la propri&#233;t&#233; sp&#233;ciale d’armure de mim&#233;tisme compte comme un bonus de +1, de r&#233;sistance aux &#233;nergies comme un bonus de +2, de r&#233;sistance aux &#233;nergies sup&#233;rieure comme un bonus de +4 et de r&#233;sistance aux &#233;nergies supr&#234;me comme un bonus de +5. Les propri&#233;t&#233;s en double ne se cumulent pas. L’armure doit disposer d’un bonus d’alt&#233;ration d’au moins +1 avant de pouvoir b&#233;n&#233;ficier de propri&#233;t&#233;s sp&#233;ciales. &lt;br /&gt;&lt;br /&gt;Le bonus d’alt&#233;ration et les propri&#233;t&#233;s sp&#233;ciales sont &#224; d&#233;terminer quand le pr&#234;tre combattant utilise cette aptitude pour la premi&#232;re fois de la journ&#233;e. Il ne peut plus en changer jusqu’au lendemain. Ces bonus s’appliquent uniquement tant que le pr&#234;tre combattant porte l’armure et se dissipent s’il l’&#244;te ou ne se trouve plus en sa possession. Le pr&#234;tre combattant peut mettre fin &#224; cette aptitude par une action libre au d&#233;but de son tour. Cette aptitude ne fonctionne pas sur les boucliers. &lt;br /&gt;&lt;br /&gt;Quand le pr&#234;tre combattant utilise cette aptitude, il peut aussi utiliser son aptitude d’arme sacr&#233;e par une action libre, en d&#233;pensant une utilisation de ferveur.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ASPECTDELAGUERRE&quot; href=&quot;#ASPECTDELAGUERRE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Aspect de la guerre (Sur)&lt;a class=&quot;headeranchor&quot; id=&quot;Aspect_de_la_guerre_Sur_14&quot; href=&quot;#Aspect_de_la_guerre_Sur_14&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 20, le pr&#234;tre combattant canalise un aspect de la guerre qui augmente sa puissance et ses comp&#233;tences martiales. Une fois par jour et par une action rapide, il traite son niveau comme son bonus de base &#224; l’attaque, gagne une RD 10/— et se d&#233;place &#224; sa vitesse normale quelle que soit l’armure et la charge qu’il porte. De plus, tant que l’aptitude est active, les b&#233;n&#233;dictions qu’il utilise ne sont pas d&#233;compt&#233;es de son nombre d’utilisations quotidiennes. Cette aptitude dure pendant une minute.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Anciens pr&#234;tres combattants&lt;a class=&quot;headeranchor&quot; id=&quot;Anciens_pr&#234;tres_combattants_17&quot; href=&quot;#Anciens_pr&#234;tres_combattants_17&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Un pr&#234;tre combattant qui commet une violation &#233;hont&#233;e du code de conduite de sa religion perd tous ses sorts et ses aptitudes de classe, &#224; l’exception de sa ma&#238;trise des armes, des armures et des boucliers et de ses dons suppl&#233;mentaires. Il ne peut plus gagner de niveaux dans la classe de pr&#234;tre combattant d&#233;di&#233;e &#224; ce dieu tant qu’il n’a pas fait amende honorable (voir le sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;P&#233;nitence.html&quot; title=&quot;P&#233;nitence&quot;&gt;p&#233;nitence&lt;/a&gt;&lt;/i&gt;).
+]]></body>
+  <raw><![CDATA[{s:Menuclasseshybrides}
+<div class="fright">'''''Voir aussi les [[Bénédictions|bénédictions]].'''''  
+'''''Voir aussi la [[Liste des sorts de prêtres|liste des sorts de prêtre]].'''''  
+{s:PM0|prêtrecombattant}'''Voir les archétypes du prêtre combattant'''&emsp;
+  <li ID="prêtrecombattant" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeprêtrecombattant}</li>
+</div>{s:mca}''Capables d’utiliser la puissance des dieux sous forme de bénédictions et de sorts, les prêtres combattants mêlent magie divine et talents martiaux. Ce sont d’imprenables bastions de leur religion qui chantent les louanges de leur dieu alors même qu’ils soumettent leurs ennemis en les rouant de coups. Ils ne reculent jamais devant un défi lancé à leurs croyances. Les prêtres usent souvent de subtilité et de diplomatie pour atteindre leurs objectifs alors que les prêtres combattants n’hésitent pas à recourir à la violence dès que la situation l’exige. Dans nombre de religions, ils forment le noyau des forces martiales de leur église : ils récupèrent les reliques perdues, volent au secours des membres du clergé enlevés et défendent les préceptes de leur église contre tous ceux qui osent les défier.''
+
+{| CLASS="tablo centre"
+|+ Le prêtre combattant
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" CLASS="gauche" | Spécial
+| ROWSPAN="2" CLASS="center" | Arme Sacrée*
+| COLSPAN="7" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 0
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +2
+| +2
+| CLASS="gauche" | [Prêtre combattant#ARMEDEPREDILECTION|Arme de prédilection], [Prêtre combattant#ARMESACREE|arme sacrée], [Prêtre combattant#AURA|aura], [Prêtre combattant#BENEDICTIONS|bénédictions] (mineures), [Prêtre combattant#ORAISONS|oraisons]
+| 1d6
+| 3
+| 1
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +3
+| +3
+| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 1d6
+| 1d6
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +1
+| +3
+| +3
+| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| 1d6
+| 4
+| 3
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +3
+| +1
+| +4
+| +4
+| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +1, [Prêtre combattant#CANALISATIONDENERGIE|canalisation d'énergie]
+| 1d6
+| 4
+| 3
+| 1
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +1
+| +4
+| +4
+| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 2d6
+| 1d8
+| 4
+| 4
+| 2
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +4
+| +2
+| +5
+| +5
+| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| 1d8
+| 5
+| 4
+| 3
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +2
+| +5
+| +5
+| CLASS="gauche" | [Prêtre combattant#ARMURESACREE|Armure sacrée] +1
+| 1d8
+| 5
+| 4
+| 3
+| 1
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +6/+1
+| +2
+| +6
+| +6
+| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +2, [Prêtre combattant#FERVEUR|Ferveur] 3d6
+| 1d8
+| 5
+| 4
+| 4
+| 2
+| -
+| -
+| -
+|-
+| 9
+| +6/+1
+| +3
+| +6
+| +6
+| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| 1d8
+| 5
+| 5
+| 4
+| 3
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +7/+2
+| +3
+| +7
+| +7
+| CLASS="gauche" | [Prêtre combattant#ARMURESACREE|Armure sacrée] +2, [Prêtre combattant#BENEDICTIONS|bénédictions] (majeures)
+| 1d10
+| 5
+| 5
+| 4
+| 3
+| 1
+| -
+| -
+|-
+| 11
+| +8/+3
+| +3
+| +7
+| +7
+| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 4d6
+| 1d10
+| 5
+| 5
+| 4
+| 4
+| 2
+| -
+| -
+|- CLASS="alt"
+| 12
+| +9/+4
+| +4
+| +8
+| +8
+| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +3, [Prêtre combattant#DONSUPPLEMENTAIRE|don supplémentaire]
+| 1d10
+| 5
+| 5
+| 5
+| 4
+| 3
+| -
+| -
+|-
+| 13
+| +9/+4
+| +4
+| +8
+| +8
+| CLASS="gauche" | [Prêtre combattant#ARMURESACREE|Armure sacrée] +3
+| 1d10
+| 5
+| 5
+| 5
+| 4
+| 3
+| 1
+| -
+|- CLASS="alt"
+| 14
+| +10/+5
+| +4
+| +9
+| +9
+| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 5d6
+| 1d10
+| 5
+| 5
+| 5
+| 4
+| 4
+| 2
+| -
+|-
+| 15
+| +11/+6/+1
+| +5
+| +9
+| +9
+| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| 2d6
+| 5
+| 5
+| 5
+| 5
+| 4
+| 3
+| -
+|- CLASS="alt"
+| 16
+| +12/+7/+2
+| +5
+| +10
+| +10
+| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +4, [Prêtre combattant#ARMURESACREE|armure sacrée] +4
+| 2d6
+| 5
+| 5
+| 5
+| 5
+| 4
+| 3
+| 1
+|-
+| 17
+| +12/+7/+2
+| +5
+| +10
+| +10
+| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 6d6
+| 2d6
+| 5
+| 5
+| 5
+| 5
+| 4
+| 4
+| 2
+|- CLASS="alt"
+| 18
+| +13/+8/+3
+| +6
+| +11
+| +11
+| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| 2d6 
+| 5
+| 5
+| 5
+| 5
+| 5
+| 4
+| 3
+|-
+| 19
+| +14/+9/+4
+| +6
+| +11
+| +11
+| CLASS="gauche" | [Prêtre combattant#ARMURESACREE|Armure sacrée] +5
+| 2d6
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+| 4
+|- CLASS="alt"
+| 20
+| +15/+10/+5
+| +6
+| +12
+| +12
+| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +5, [Prêtre combattant#ASPECTDELAGUERRE|aspect de la guerre], [Prêtre combattant#FERVEUR|ferveur] 7d6
+| 2d8
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+|- CLASS="note"
+| COLSPAN="14" | ''(*) Les valeurs sont indiquées pour des prêtres combattants de taille M. Pour ceux de taille P et G, consultez le pouvoir de classe [[Prêtre combattant#ARMESACREE|arme sacrée]].''
+|}
+
+'''Rôle.''' Les prêtres combattants sont des guérisseurs et des lanceurs de sorts compétents qui puisent dans leurs pouvoirs divins au beau milieu des batailles où leur armure et leurs talents martiaux sont mis à rude épreuve.
+
+'''Classes mères.''' [[Guerrier]] et [[Prêtre|prêtre]].
+
+'''Alignement.''' L’alignement du prêtre combattant ne doit pas s’éloigner de plus d’un cran de celui de sa divinité sur l’axe Loi/Chaos ou Bien/Mal.
+
+'''Dé de vie.''' d8.
+
+'''Argent de départ.''' 5d6 x 10 po (moyenne 175 po).
+
+===Compétences de classe===
+Voici les compétences de classe du prêtre combattant : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (ingénierie) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Survie]] (Sag)
+
+'''Rangs de compétence par niveau.''' 2 + modificateur d’[[Intelligence]].
+
+===Descriptif de la classe===
+Voici les aptitudes de classe du prêtre combattant.
+
+{s:ImageDroite|Illustrations/PNJ/Oloch.jpg|40%}
+{s:Reference|ARMESETARMURES}
+====Armes et armures====
+Le prêtre combattant est formé au maniement de toutes les armes courantes et de guerre, ainsi que de l’arme de prédilection de son dieu. 
+
+Il est formé au port des armures (lourdes, légères et intermédiaires) et au maniement des boucliers (à l’exception du pavois). Si le prêtre combattant vénère un dieu ayant pour arme de prédilection les mains nues, il gagne le don [[Science du combat à mains nues]] comme don supplémentaire.
+
+{s:Reference|SORTS}
+====Sorts====
+Le prêtre combattant lance des sorts divins issus de la liste du prêtre. Un prêtre combattant ne peut pas lancer de sorts dont l’alignement est opposé au sien ou à celui de son dieu (s’il en sert un). L’alignement d’un sort est indiqué dans sa description par les registres Bien, Chaos, Loi et Mal. 
+
+Le prêtre combattant choisit et prépare ses sorts à l’avance. Le prêtre combattant lance des sorts de niveau 6 au maximum, les sorts de prêtres de niveau 7 et plus ne figurent pas sur sa propre liste de sorts et il ne peut pas utiliser d’objets à potentiel magique ou à fin d’incantation utilisant un sort de prêtre de niveau 7 ou plus (à moins de réussir un test d’Utilisation d’objets magiques).
+
+Pour préparer ou lancer un sort, le prêtre combattant doit avoir une valeur de [[Sagesse]] au moins égale à 10 + niveau du sort. Le [[DD]] du [[jet de sauvegarde]] pour résister au sort du prêtre combattant est de 10 + niveau du sort + modificateur de Sagesse du prêtre combattant. 
+
+Comme d’autres lanceurs de sorts, le prêtre combattant lance un nombre limité de sorts de chaque niveau chaque jour. Ce nombre figure dans la table ci-dessus. De plus, s’il a une valeur de Sagesse élevée, il reçoit des [[Caractéristiques#DETERMINERLESMODIFICATEURS|sorts quotidiens supplémentaires]].
+
+Le prêtre combattant prie ou médite pour obtenir ses sorts. Il choisit la période de la journée pendant laquelle il consacre,
+chaque jour, une heure en contemplation silencieuse ou en suppliques, afin de récupérer son nombre de sorts quotidiens. Le prêtre combattant peut préparer et lancer n’importe quel [[liste des sorts de prêtres|sort de la liste du prêtre]], à condition d’avoir le niveau requis, mais il doit choisir les sorts qu’il prépare lors de sa méditation quotidienne.
+
+{s:Reference|ORAISONS}
+====Oraisons====
+Les prêtres combattants préparent un certain nombre d’oraisons (ou sorts de niveau 0), comme indiqué dans la table ci-dessus. Ces oraisons se lancent comme les autres sorts mais ne sont pas dépensées et sont donc réutilisables.
+
+{s:Reference|AURA}
+====Aura (Ext)====
+Le prêtre combattant d’une divinité Chaotique, Mauvaise, Bonne ou Loyale produit une aura particulièrement puissante (comme un [[prêtre]]), correspondant à l’alignement de son dieu (voir ''[[détection du Mal]]'').
+
+{s:Reference|BENEDICTIONS}
+====Bénédictions (Sur)====
+La divinité du prêtre combattant influe sur son alignement, sur sa magie, ses valeurs et la manière dont les autres le considèrent. Chaque prêtre choisit deux bénédictions parmi celles qu’accorde son dieu (chaque divinité confère des bénédictions liées à ses domaines). Le prêtre combattant ne peut pas choisir une bénédiction d’alignement (Chaos, Mal, Bien ou Loi) si son alignement ne correspond pas à celui du domaine associé. Si le prêtre combattant ne vénère pas une divinité particulière, il choisit tout de même deux bénédictions représentant ses inclinaisons spirituelles et ses capacités, à faire approuver par le MJ. La restriction sur les domaines d’alignement s’applique toujours.
+
+Chaque bénédiction accorde un pouvoir mineur au niveau 1 et un pouvoir majeur au niveau 10. 
+
+Chaque jour, le prêtre combattant peut faire appel au pouvoir de ses bénédictions un nombre total de fois égal à 3 + 1/2 niveau de prêtre combattant (pour un maximum de 13 fois au niveau 20). Chaque fois que le prêtre combattant utilise une de ses bénédictions, une utilisation est décomptée de ce quota quotidien.
+
+Le [[DD]] du [[jet de sauvegarde]] contre une bénédiction est de 10 + 1/2 niveau du prêtre combattant + son modificateur de [[Sagesse]]. Si le prêtre combattant possède des niveaux dans une autre classe offrant des [[domaines]] de prêtres, ses bénédictions doivent être issues des mêmes domaines. Si le MJ accepte, le prêtre combattant peut changer ses bénédictions ou ses domaines pour les mettre en conformité.
+
+''Voir la [[Bénédictions|liste des bénédictions]].''
+
+{s:Reference|ARMEDEPREDILECTION}
+====Arme de prédilection.====
+Au niveau 1, le prêtre combattant reçoit [[Arme de prédilection]] comme don supplémentaire (il peut choisir n’importe quelle arme, pas seulement l’arme de prédilection de son dieu).
+
+{s:Reference|ARMESACREE}
+====Arme sacrée (Sur)====
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|+ Dégâts de l'arme sacrée des prêtres<br/>combattants de taille P ou G
+|- CLASS="titre"
+| ROWSPAN="1" | Niveau
+| ROWSPAN="1" | Dégats (P)
+| ROWSPAN="1" | Dégats (G)
+|- CLASS="premier"
+| 1-4
+| 1d4
+| 1d8
+|- 
+| 5-9
+| 1d6
+| 2d6
+|-
+| 10-14
+| 1d8
+| 2d8
+|-
+| 15-19
+| 1d10
+| 3d6
+|-
+| 20
+| 2d6
+| 3d8
+|}
+</div></div>Dès le niveau 1, les armes du prêtre combattant sont imprégnées de la puissance de sa foi. Cela s’applique à l’arme de prédilection de son dieu mais aussi à toutes celles qui bénéficient du don [[Arme de prédilection]]. Si le prêtre combattant a pris ce don à plusieurs reprises, toutes les armes associées sont sacrées pour lui. 
+
+Quand le prêtre combattant touche un adversaire avec une arme sacrée, les dégâts se basent sur le niveau du prêtre combattant et non sur le type de l’arme. Les dégâts des armes sacrées des prêtres combattants de taille M figurent dans la table de la classe, ceux des prêtres de taille P et G se trouvent dans la table ci-contre. Le prêtre combattant peut choisir d’appliquer les dégâts de base de son arme au lieu des dégâts de l’arme sacrée mais il doit l’annoncer avant de faire son jet (si les dégâts de base de l’arme excèdent ceux de l’arme sacrée, ils ne changent pas). 
+
+L’augmentation de dégâts n’affecte pas les autres aspects de l’arme et ne s’applique pas aux objets alchimiques, aux bombes et autres armes infligeant des dégâts d’énergie destructive.
+
+Au niveau 4, le prêtre combattant apprend à améliorer une arme sacrée en l’imprégnant de la puissance divine par une [[action rapide]]. L’arme bénéficie alors d’un bonus d’altération de +1. Tous les quatre niveaux après le 4<sup>ème</sup>, ce bonus augmente de 1, pour un maximum de +5 au niveau 20. Si le prêtre combattant possède plusieurs armes sacrées, il peut en améliorer une autre au round suivant par une nouvelle [[action rapide]]. 
+
+Chaque jour, le prêtre combattant peut utiliser ce pouvoir un nombre de rounds égal à son niveau de classe, ces rounds n’étant pas forcément consécutifs. Ces bonus se cumulent avec ceux que l’arme possède peut-être déjà, sans jamais dépasser +5 au total. 
+
+Le prêtre combattant peut améliorer une arme en la dotant des propriétés spéciales d’arme suivantes : [[Armes Magiques#Acérée|acérée]], de [[Armes Magiques#Destruction|destruction]], [[Armes Magiques#Feu|de feu]], [[Armes Magiques#Froid|de froid]], [[Armes Magiques#Lumière|de lumière]], [[Armes Magiques#Gardienne|gardienne]] ou [[Armes Magiques#Foudre|de foudre]]. 
+* S’il est Chaotique, il peut aussi ajouter [[Armes Magiques#Anarchique|anarchique]] et [[Armes Magiques#Vicieuse|vicieuse]]. 
+* S’il est Mauvais, il peut aussi ajouter [[Armes Magiques#Enchaînement|d’enchaînement]] et [[Armes Magiques#Impie|impie]]. 
+* S’il est Bon, il peut aussi ajouter [[Armes Magiques#Spectrale|spectrale]] et [[Armes Magiques#Sainte|sainte]].
+* S’il est Loyal, il peut aussi ajouter [[Armes Magiques#Axiomatique|axiomatique]] et [[Armes Magiques#Miséricordieuse|miséricordieuse]].
+* S’il est Neutre (sans autre composante d’alignement), il peut aussi ajouter [[Armes Magiques#Stockagedesort|de stockage de sorts]] et de [[Armes Magiques#Tonnerre|tonnerre]].
+Ces propriétés coûtent et remplacent un bonus d’altération de valeur équivalente. Les propriétés en double ne se cumulent pas. L’arme doit disposer d’un bonus d’altération d’au moins +1 avant de pouvoir bénéficier de propriétés spéciales.
+
+Si le prêtre combattant améliore plusieurs armes, elles consomment des rounds de pouvoir indépendamment les unes des autres.
+
+Le bonus d’altération et les propriétés spéciales sont à déterminer quand le prêtre combattant utilise ce pouvoir pour la première fois de la journée. Il ne peut plus en changer jusqu’au lendemain. 
+
+Ces bonus ne s’appliquent pas si une créature autre que le prêtre combattant manie l’arme mais ils restent actifs si l’arme quitte sa main (s’il la lance, par exemple). Le prêtre combattant peut mettre fin à cette aptitude par une [[action libre]] au début de son tour (ce round n’est pas décompté de sa limite d’utilisations quotidiennes, à moins qu’il ne réactive le pouvoir au cours du même round). Si le prêtre combattant utilise ce pouvoir sur une arme double, l’effet s’applique sur l’une des têtes de l’arme seulement.
+
+{s:Reference|INCANTATIONSPONTANEE}
+====Incantation spontanée====
+Un prêtre combattant Bon (ou Neutre vénérant une divinité Bonne) peut canaliser l’énergie de ses sorts préparés pour les transformer en sorts de soins, sans avoir besoin de les préparer à l’avance. Il peut dépenser n’importe quel sort (hormis les oraisons), pour lancer un sort de soins de même niveau ou de niveau inférieur. Un sort de soins est un sort comportant le mot « soins » dans son nom. 
+
+Un prêtre combattant Mauvais (ou Neutre vénérant une divinité Mauvaise) ne convertit pas ses sorts en sorts de soins mais en sorts de blessure. Un sort de blessure est un sort comportant le mot « blessure » dans son nom.
+
+Un prêtre combattant qui n’est ni Bon ni Mauvais et vénère une divinité ni Bonne ni Mauvaise peut convertir ses sorts en sorts de soins ou de blessure. Une fois qu’il a choisi, il ne peut plus revenir sur sa décision. Ce choix détermine aussi le type d’énergie qu’il canalise : positive ou négative.
+
+====Sorts Chaotiques, Mauvais, Bons et Loyaux====
+Un prêtre combattant ne peut pas lancer des sorts d’un alignement opposé au sien ou à celui de sa divinité (s’il en a une). Les sorts associés à un alignement particulier sont notés comme appartenant au registre du Chaos, du Mal, du Bien ou de la Loi. 
+
+{s:Reference|LANGUESSUPPLEMENTAIRES}
+====Langues supplémentaires====
+Un prêtre combattant ajoute l’abyssal, le céleste et l’infernal à sa liste de langues supplémentaires. Ces langages viennent en plus de ceux déjà accessibles grâce à sa race.
+
+{s:Reference|FERVEUR}
+====Ferveur (Sur)====
+Au niveau 2, le prêtre combattant puise dans sa foi pour soigner les blessures ou blesser ses ennemis. Il peut aussi se servir de cette aptitude pour lancer rapidement un sort susceptible de l’aider dans sa lutte. Chaque jour, il peut utiliser cette aptitude un nombre de fois égal à 1/2 niveau de prêtre combattant + son modificateur de Sagesse. 
+
+En dépensant une utilisation de cette aptitude, un prêtre combattant Bon (ou vénérant une divinité Bonne) touche une créature pour la guérir de 1d6 points de dégâts, plus 1d6 points tous les trois niveaux de prêtre combattant après le deuxième (pour un maximum de 7d6 au niveau 20). Cette aptitude s’utilise par une action simple (à moins que le prêtre ne se prenne pour cible, auquel cas c’est une action rapide). Le prêtre combattant peut aussi utiliser cette aptitude pour blesser un mort-vivant et lui infliger alors, par une attaque de contact au corps à corps, le même montant de dégâts que celui qu’il aurait soigné. Utilisée ainsi, la ferveur demande une action simple et provoque des attaques d’opportunité. Les morts-vivants n’ont pas droit à un jet de sauvegarde contre ces dégâts assimilés à de l’énergie positive. 
+
+Un prêtre combattant Mauvais (ou vénérant une divinité Mauvaise) peut utiliser ce pouvoir pour blesser des créatures vivantes avec une attaque de contact au corps à corps ou pour soigner des morts-vivants en contact avec lui. C’est une manipulation d’énergie négative.
+
+Un prêtre combattant Neutre (ou qui ne vénère pas de divinité particulière) utilise ce pouvoir comme un prêtre combattant Bon s’il a choisi de lancer spontanément des sorts de soins ou comme un prêtre combattant Mauvais s’il a choisi les sorts de blessure.
+
+Par une action rapide, le prêtre combattant peut dépenser une utilisation de cette aptitude pour lancer n’importe quel sort de prêtre combattant qu’il a préparé ayant un temps d'incantation d'un round ou moins. Un sort ainsi lancé affecte uniquement le prêtre combattant, même s’il devrait normalement affecter plusieurs cibles. Ce genre de sort ignore les composantes gestuelles et ne provoque pas d’attaque d’opportunité. Le prêtre n’a pas besoin d’avoir une main libre pour lancer ainsi son sort.
+
+{s:Reference|DONSUPPLEMENTAIRE}
+====Dons supplémentaires====
+Au niveau 3 puis tous les trois niveaux, le prêtre combattant gagne un don supplémentaire, en plus de ceux obtenus grâce à son évolution normale. Il doit les choisir parmi les dons de combat. Il doit remplir les conditions requises mais considère ses niveaux de prêtre combattant comme [[BBA|bonus de base à l’attaque]] (qu’il ajoute aux bonus de base à l’attaque obtenus grâce aux autres classes et [[DV]] raciaux) pour déterminer s'il en remplit les prérequis. Enfin, vis-à-vis de ces dons, le prêtre combattant peut choisir des dons nécessitant un nombre minimum de niveaux de guerrier, en considérant son niveau de prêtre combattant comme le niveau de guerrier.
+
+{s:Reference|CANALISATIONDENERGIE}
+====Canalisation d’énergie (Sur)====
+À partir du niveau 4, le prêtre combattant peut libérer une vague d’énergie en canalisant la puissance de sa foi à travers son symbole sacré (ou impie). Cette énergie sert à blesser ou à soigner, selon son type et celui de la créature visée. Pour utiliser cette aptitude, il faut accomplir une action simple et dépenser deux utilisations de ferveur. Ce pouvoir ne provoque pas d’attaque d’opportunité mais, pour s’en servir, le prêtre combattant doit montrer son symbole sacré ou impie.
+* Un prêtre combattant Bon (ou qui vénère une divinité Bonne) canalise de l’énergie positive et peut soigner les vivants ou blesser les morts-vivants. 
+* Un prêtre combattant Mauvais (ou qui  vénère une divinité Mauvaise) canalise de l’énergie négative et soigne les morts-vivants ou blesse les vivants. 
+* Un prêtre combattant Neutre (ou qui ne vénère aucune divinité particulière) canalise l’énergie positive s’il a choisi de lancer des sorts spontanés de soins ou de l’énergie négative s’il a choisi de lancer des sorts spontanés de blessure.
+
+La canalisation d’énergie se présente sous forme de rayonnement qui affecte toutes les créatures d’un même type (vivantes ou mortes-vivantes) dans un rayon de 9 mètres autour du prêtre combattant. La quantité de dégâts soignés ou infligés est égale
+à celle indiquée dans le pouvoir ferveur. Une créature qui subit des dégâts à cause de l’énergie les réduit de moitié à condition de réussir un jet de Volonté dont le DD est égal à 10 +1/2 niveau du prêtre combattant + son modificateur de Sagesse. Les points de vie soignés par la canalisation d’énergie ne permettent pas de dépasser le maximum de points de vie d’une créature, les points excédentaires sont perdus. Le prêtre combattant peut s’inclure dans l’effet ou non, au choix.
+
+{s:Reference|ARMURESACREE}
+====Armure sacrée (Sur)====
+Au niveau 7, le prêtre combattant peut améliorer son armure grâce à la puissance divine par une action rapide. L’armure bénéficie alors d’un bonus d’altération de +1. Tous les trois niveaux après le 7ème, ce bonus augmente de 1 (pour un maximum de +5 au niveau 19). Chaque jour, le prêtre combattant peut utiliser ce pouvoir un nombre de minutes égal à son niveau de classe. Cette durée se découpe en périodes d’une minute au minimum mais n’est pas forcément consécutive. Ces bonus se cumulent avec ceux que l’armure possède déjà, jusqu’à un maximum de +5 au total. Le prêtre combattant peut doter son armure des propriétés suivantes : de [[Armures magiques#Défense|défense]] (lourde, intermédiaire ou légère), de [[Armures magiques#Mimétisme|mimétisme]], de [[Armures magiques#Résistanceàlamagie|résistance à la magie]] (13, 15, 17 ou 19), de [[Armures magiques#Résistanceauxénergies|résistance aux énergies]] (normale, supérieure ou suprême). Ces propriétés coûtent et remplacent un bonus d’altération de valeur équivalente. Dans ce cas, la propriété spéciale d’armure de mimétisme compte comme un bonus de +1, de résistance aux énergies comme un bonus de +2, de résistance aux énergies supérieure comme un bonus de +4 et de résistance aux énergies suprême comme un bonus de +5. Les propriétés en double ne se cumulent pas. L’armure doit disposer d’un bonus d’altération d’au moins +1 avant de pouvoir bénéficier de propriétés spéciales. 
+
+Le bonus d’altération et les propriétés spéciales sont à déterminer quand le prêtre combattant utilise cette aptitude pour la première fois de la journée. Il ne peut plus en changer jusqu’au lendemain. Ces bonus s’appliquent uniquement tant que le prêtre combattant porte l’armure et se dissipent s’il l’ôte ou ne se trouve plus en sa possession. Le prêtre combattant peut mettre fin à cette aptitude par une action libre au début de son tour. Cette aptitude ne fonctionne pas sur les boucliers. 
+
+Quand le prêtre combattant utilise cette aptitude, il peut aussi utiliser son aptitude d’arme sacrée par une action libre, en dépensant une utilisation de ferveur.
+
+{s:Reference|ASPECTDELAGUERRE}
+====Aspect de la guerre (Sur)====
+Au niveau 20, le prêtre combattant canalise un aspect de la guerre qui augmente sa puissance et ses compétences martiales. Une fois par jour et par une action rapide, il traite son niveau comme son bonus de base à l’attaque, gagne une RD 10/— et se déplace à sa vitesse normale quelle que soit l’armure et la charge qu’il porte. De plus, tant que l’aptitude est active, les bénédictions qu’il utilise ne sont pas décomptées de son nombre d’utilisations quotidiennes. Cette aptitude dure pendant une minute.
+
+===Anciens prêtres combattants===
+Un prêtre combattant qui commet une violation éhontée du code de conduite de sa religion perd tous ses sorts et ses aptitudes de classe, à l’exception de sa maîtrise des armes, des armures et des boucliers et de ses dons supplémentaires. Il ne peut plus gagner de niveaux dans la classe de prêtre combattant dédiée à ce dieu tant qu’il n’a pas fait amende honorable (voir le sort de ''[[pénitence]]'').]]></raw>
+  <fullName>Pathfinder-RPG.Prêtre combattant</fullName>
+</wikiPage>

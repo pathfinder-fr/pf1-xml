@@ -1,0 +1,759 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>L'oracle</title>
+  <categories><category>Pathfinder-RPG.Classe</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs - Règles avancées</category></categories>
+  <lastModified>2025-06-21 19:05:07Z</lastModified>
+  <version>18</version>
+  <inLinks><link>Pathfinder-RPG.Aasimar (race)</link><link>Pathfinder-RPG.Abondance de révélations</link><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Adepte démoniaque</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Amulette des esprits</link><link>Pathfinder-RPG.Anneau de révélation</link><link>Pathfinder-RPG.Anneaux magiques</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Antique fossoyeur</link><link>Pathfinder-RPG.Aphasie</link><link>Pathfinder-RPG.Apkallu</link><link>Pathfinder-RPG.Apsu (technique)</link><link>Pathfinder-RPG.Aptitudes de la voie du Hiérophante Mythique</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Archimage Mythique</link><link>Pathfinder-RPG.Argent et richesse</link><link>Pathfinder-RPG.Armes magiques</link><link>Pathfinder-RPG.Armures magiques spécifiques</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Bénédiction de guerre</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Bravades</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Buveur dâmes</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.changelin (race)</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Chercheur (oracle)</link><link>Pathfinder-RPG.Chercheur (oracle)</link><link>Pathfinder-RPG.Chercheur psychique (oracle)</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Combattant intuitif (oracle)</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Compagnons vermines</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.Connaissances magiques étendues</link><link>Pathfinder-RPG.Connaissances officieuses</link><link>Pathfinder-RPG.Création dynamique dobjets magiques</link><link>Pathfinder-RPG.Créer un sort</link><link>Pathfinder-RPG.Dahak (technique)</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Descriptions individuelles des propriétés spéciales des armes</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Dhampir (race)</link><link>Pathfinder-RPG.Diaboliste</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Djidjinis</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.dons-temporaires</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Encens de Transcendance</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Expression divine</link><link>Pathfinder-RPG.Fanatique gobelours</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.FAQ- Campagnes mythiques</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs - Règles avancées</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs (Magie et sorts)</link><link>Pathfinder-RPG.FAQ Règles</link><link>Pathfinder-RPG.Fardeau de loracle</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Fetchelin (race)</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Frappe révélatrice</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Gardien de la communauté (oracle)</link><link>Pathfinder-RPG.Gardien de la communauté (oracle)</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Gardien du savoir ancestral (oracle)</link><link>Pathfinder-RPG.Gardien du savoir ancestral (oracle)</link><link>Pathfinder-RPG.Géant de la lune</link><link>Pathfinder-RPG.Géant de la taïga</link><link>Pathfinder-RPG.Géant des runes</link><link>Pathfinder-RPG.Girtablilu</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Gozreh (technique)</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Gug</link><link>Pathfinder-RPG.Guide spirituel (oracle)</link><link>Pathfinder-RPG.Habits du devin</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Hiérophante Mythique</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.homme-félin (race)</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Ifrit (race)</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.kitsune (race)</link><link>Pathfinder-RPG.Kobold (race)</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Lammasu</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Légionnaire infernal</link><link>Pathfinder-RPG.Les mots de pouvoir</link><link>Pathfinder-RPG.Lier un extérieur</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.Main vagabonde</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.MainPage2</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.Maîtriser la magie</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Manuel des joueurs - Règles avancées (Contenu)</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.Mot supplémentaire</link><link>Pathfinder-RPG.Mystère de la sombre tapisserie</link><link>Pathfinder-RPG.Mystère de lapocalypse</link><link>Pathfinder-RPG.Mystère de lhiver</link><link>Pathfinder-RPG.Mystère de locculte</link><link>Pathfinder-RPG.Mystère des ancêtres</link><link>Pathfinder-RPG.Mystère des vagues</link><link>Pathfinder-RPG.Mystère du bois</link><link>Pathfinder-RPG.Mystère du métal</link><link>Pathfinder-RPG.Mystère du savoir</link><link>Pathfinder-RPG.Mystère du temps</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.Mystères temporaires</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Objets merveilleux portés autour du cou</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement liste</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Œil Voilé</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Oracle au sang noir (oracle)</link><link>Pathfinder-RPG.Oracle au sang noir (oracle)</link><link>Pathfinder-RPG.Oracle des étoiles (oracle)</link><link>Pathfinder-RPG.Oracle des étoiles (oracle)</link><link>Pathfinder-RPG.Oracle doublement maudit (oracle)</link><link>Pathfinder-RPG.Oracle doublement maudit (oracle)</link><link>Pathfinder-RPG.Oracle planaire (oracle)</link><link>Pathfinder-RPG.Oracle planaire (oracle)</link><link>Pathfinder-RPG.Oracle possédé (oracle)</link><link>Pathfinder-RPG.Oracle possédé (oracle)</link><link>Pathfinder-RPG.Oracle réincarné (oracle)</link><link>Pathfinder-RPG.Oracle réincarné (oracle)</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.page de travail des dons</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Pharasma (technique)</link><link>Pathfinder-RPG.Philosophe éclairé (oracle)</link><link>Pathfinder-RPG.Philosophe éclairé (oracle)</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.PNJ devins</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Présage débilitant</link><link>Pathfinder-RPG.Présage traumatisant</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Prophète (oracle)</link><link>Pathfinder-RPG.Prophète (oracle)</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Purificateur (oracle)</link><link>Pathfinder-RPG.Purificateur (oracle)</link><link>Pathfinder-RPG.Réapprentissage</link><link>Pathfinder-RPG.Réceptacle de loracle</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Sahuagin</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.samsaran (race)</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Shabti</link><link>Pathfinder-RPG.Shigenjo (oracle)</link><link>Pathfinder-RPG.Shigenjo (oracle)</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Singes fous</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.sort Révélation</link><link>Pathfinder-RPG.Sort sélectif</link><link>Pathfinder-RPG.Sorts de psychiste</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.svirfneblin (race)</link><link>Pathfinder-RPG.Sylphe (race)</link><link>Pathfinder-RPG.Symbole de mort</link><link>Pathfinder-RPG.Symbole fatal</link><link>Pathfinder-RPG.Tableau récapitulatif des compétences</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons - Temp</link><link>Pathfinder-RPG.tableau récapitulatif des dons (art de la guerre)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons des classes avancées</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Temp-aventures occultes</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Temp-classes-avancées</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.Temp-Magie de la mer intérieure</link><link>Pathfinder-RPG.temp-MainPage</link><link>Pathfinder-RPG.Tengu (race)</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Uræus</link><link>Pathfinder-RPG.Variante de multiclassage</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Vision prophétique</link><link>Pathfinder-RPG.Voeux</link><link>Pathfinder-RPG.wayang (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.armes courantes</link><link>Pathfinder-RPG.armure légère</link><link>Pathfinder-RPG.armure intermédiaire</link><link>Pathfinder-RPG.FAQ- Manuel des joueurs - Règles avancées</link><link>Pathfinder-RPG.Force du colosse</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.focalisateur divin</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Alchimiste</link><link>Pathfinder-RPG.découvertes</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Chasseur de vampire</link><link>Pathfinder-RPG.techniques de chasseur de vampire</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Ordres</link><link>Pathfinder-RPG.Conjurateur</link><link>Pathfinder-RPG.eidolon</link><link>Pathfinder-RPG.Modèles deidolon</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.jugements</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.talents sociaux</link><link>Pathfinder-RPG.talents de justicier</link><link>Pathfinder-RPG.Magus</link><link>Pathfinder-RPG.arcanes</link><link>Pathfinder-RPG.Métamorphe</link><link>Pathfinder-RPG.Aspects</link><link>Pathfinder-RPG.Ninja</link><link>Pathfinder-RPG.Astuces</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.mystères</link><link>Pathfinder-RPG.malédictions doracle</link><link>Pathfinder-RPG.Pistolier</link><link>Pathfinder-RPG.exploits</link><link>Pathfinder-RPG.Samouraï</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.maléfices</link><link>Pathfinder-RPG.protecteurs</link><link>Pathfinder-RPG.Classes</link><link>Pathfinder-RPG.Barbare</link><link>Pathfinder-RPG.Pouvoirs de rage</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Représentations</link><link>Pathfinder-RPG.Chefs doeuvre</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Compagnons animaux</link><link>Pathfinder-RPG.Domaines animaux et environnementaux</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Lignages</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Entraînements avancés</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Écoles de magie</link><link>Pathfinder-RPG.Découvertes arcaniques</link><link>Pathfinder-RPG.Moine</link><link>Pathfinder-RPG.Voeux</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Variantes de canalisation</link><link>Pathfinder-RPG.Domaines</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Pièges de rôdeur</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Talents</link><link>Pathfinder-RPG.Arcaniste</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.Bretteur</link><link>Pathfinder-RPG.Exploits (bretteur)</link><link>Pathfinder-RPG.Chaman</link><link>Pathfinder-RPG.Esprits (chaman)</link><link>Pathfinder-RPG.Maléfices (chaman)</link><link>Pathfinder-RPG.Chasseur</link><link>Pathfinder-RPG.compagnon animal</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Talents (enquêteur)</link><link>Pathfinder-RPG.Lutteur</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Bénédictions</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Lignages (sanguin)</link><link>Pathfinder-RPG.Scalde</link><link>Pathfinder-RPG.Chants de rage</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Talents (tueur)</link><link>Pathfinder-RPG.Cinétiste</link><link>Pathfinder-RPG.Éléments</link><link>Pathfinder-RPG.talents sauvages</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Inductions</link><link>Pathfinder-RPG.Médium</link><link>Pathfinder-RPG.Esprits (Médium)</link><link>Pathfinder-RPG.Esprits légendaires</link><link>Pathfinder-RPG.Occultiste</link><link>Pathfinder-RPG.Écoles instrumentales</link><link>Pathfinder-RPG.Instruments sacrés</link><link>Pathfinder-RPG.Psychiste</link><link>Pathfinder-RPG.Amplifications phréniques</link><link>Pathfinder-RPG.Disciplines psychiques</link><link>Pathfinder-RPG.Spirite</link><link>Pathfinder-RPG.Fantômes (Spirite)</link><link>Pathfinder-RPG.Classes de prestige</link><link>Pathfinder-RPG.Acolyte de la Foi Verte</link><link>Pathfinder-RPG.Adepte de la Flamme noire</link><link>Pathfinder-RPG.Agent de la cour des Ombres</link><link>Pathfinder-RPG.Agent de terrain des Éclaireurs</link><link>Pathfinder-RPG.Agent du Consortium de lAspis</link><link>Pathfinder-RPG.Agent du Réseau Campanule</link><link>Pathfinder-RPG.Arcaniste de Magaambya</link><link>Pathfinder-RPG.Archer-mage</link><link>Pathfinder-RPG.Arpenteur dhorizon</link><link>Pathfinder-RPG.Aspirant à lIllumination</link><link>Pathfinder-RPG.Assassin des mantes rouges</link><link>Pathfinder-RPG.Assassin</link><link>Pathfinder-RPG.Attiseur de tempêtes</link><link>Pathfinder-RPG.Jardinier gris</link><link>Pathfinder-RPG.Champion dIrori</link><link>Pathfinder-RPG.Champion occultiste</link><link>Pathfinder-RPG.Chevalier dOzem</link><link>Pathfinder-RPG.Chevaucheur de mammouth</link><link>Pathfinder-RPG.Chroniqueur</link><link>Pathfinder-RPG.Daivrat</link><link>Pathfinder-RPG.Détective des Insomniaques</link><link>Pathfinder-RPG.Prophète de Kalistrade</link><link>Pathfinder-RPG.Disciple draconien</link><link>Pathfinder-RPG.Dissident de la Fleur de laube</link><link>Pathfinder-RPG.Duelliste</link><link>Pathfinder-RPG.Empoisonneur de Dague</link><link>Pathfinder-RPG.Enfant divin</link><link>Pathfinder-RPG.Estimateur dAbadar</link><link>Pathfinder-RPG.Étudiant de la Guerre</link><link>Pathfinder-RPG.Évangéliste</link><link>Pathfinder-RPG.Exalté</link><link>Pathfinder-RPG.Éclaireur Explorateur</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Prêtre razmirien</link><link>Pathfinder-RPG.Fidèle défenseur</link><link>Pathfinder-RPG.Frère du Sceau</link><link>Pathfinder-RPG.Légionnaire doré</link><link>Pathfinder-RPG.Gardien de la nature</link><link>Pathfinder-RPG.Gardien des failles</link><link>Pathfinder-RPG.Gardien du savoir</link><link>Pathfinder-RPG.Guerrier de la fosse</link><link>Pathfinder-RPG.Héraut</link><link>Pathfinder-RPG.Héritier noble</link><link>Pathfinder-RPG.Illusionniste voilé</link><link>Pathfinder-RPG.Lame des lions</link><link>Pathfinder-RPG.Chevalier infernal</link><link>Pathfinder-RPG.Mage des glyphes</link><link>Pathfinder-RPG.Maître chymiste</link><link>Pathfinder-RPG.Maître des ombres</link><link>Pathfinder-RPG.Maître espion</link><link>Pathfinder-RPG.Maréchal-bouclier</link><link>Pathfinder-RPG.Faucon dacier</link><link>Pathfinder-RPG.Monolithe vivant</link><link>Pathfinder-RPG.Mystificateur profane</link><link>Pathfinder-RPG.Mystique tatoué</link><link>Pathfinder-RPG.Opportuniste halfelin</link><link>Pathfinder-RPG.Pirate de la mer Intérieure</link><link>Pathfinder-RPG.Porteur de lanterne</link><link>Pathfinder-RPG.Prophète enragé</link><link>Pathfinder-RPG.Prospecteur céleste</link><link>Pathfinder-RPG.Sentinelle</link><link>Pathfinder-RPG.Seigneur de lArche du Nex</link><link>Pathfinder-RPG.Seigneur des épées Aldori</link><link>Pathfinder-RPG.Signifer infernal</link><link>Pathfinder-RPG.Sorcière de lhiver</link><link>Pathfinder-RPG.Templier déchu</link><link>Pathfinder-RPG.Théurge mystique</link><link>Pathfinder-RPG.Vengeur sacré</link><link>Pathfinder-RPG.Liseuse de tourment</link><link>Pathfinder-RPG.Classes de PNJ</link><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.Expert</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Homme du peuple</link><link>Pathfinder-RPG.Noble</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.Chercheur (oracle)</link><link>Pathfinder-RPG.Chercheur psychique (oracle)</link><link>Pathfinder-RPG.Combattant intuitif (oracle)</link><link>Pathfinder-RPG.Gardien de la communauté (oracle)</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Gardien du savoir ancestral (oracle)</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Guide spirituel (oracle)</link><link>Pathfinder-RPG.Oracle au sang noir (oracle)</link><link>Pathfinder-RPG.Oracle des étoiles (oracle)</link><link>Pathfinder-RPG.Oracle doublement maudit (oracle)</link><link>Pathfinder-RPG.Oracle planaire (oracle)</link><link>Pathfinder-RPG.Oracle possédé (oracle)</link><link>Pathfinder-RPG.Oracle réincarné (oracle)</link><link>Pathfinder-RPG.samsaran (race)</link><link>Pathfinder-RPG.Philosophe éclairé (oracle)</link><link>Pathfinder-RPG.Prophète (oracle)</link><link>Pathfinder-RPG.Purificateur (oracle)</link><link>Pathfinder-RPG.Aasimar (race)</link><link>Pathfinder-RPG.Shigenjo (oracle)</link><link>Pathfinder-RPG.Tengu (race)</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenu&quot;&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;13%&quot;&gt;&lt;center&gt;&lt;img ID=&quot;menuclasseIMG2&quot; src=&quot;/wiki/public/upload/Illustrations/Autres/Head.jpg&quot; WIDTH=&quot;90%&quot; style=&quot;border: 1px solid #4b3124&quot; /&gt;&lt;/center&gt;&lt;/td&gt;&lt;td width=&quot;86%&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les classes suppl&#233;mentaires&lt;a class=&quot;headeranchor&quot; id=&quot;Les_classes_suppl&#233;mentaires_0&quot; href=&quot;#Les_classes_suppl&#233;mentaires_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Alchimiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;L&#39;alchimiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes.html&quot; title=&quot;Les d&#233;couvertes d&amp;#39;alchimiste&quot;&gt;d&#233;couvertes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Antipaladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;L&#39;anti-paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur de vampire.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur-De-Vampire.html&quot; title=&quot;Le chasseur de vampire&quot;&gt;Le chasseur de vampire&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Techniques-De-Chasseur-De-Vampire.html&quot; title=&quot;les techniques de chasseur de vampire&quot;&gt;techniques de chasseur de vampire&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chevalier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier.html&quot; title=&quot;Le chevalier&quot;&gt;Le chevalier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Conjurateur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur.html&quot; title=&quot;Le conjurateur (aussi appel&#233; invocateur)&quot;&gt;Le conjurateur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon.html&quot; title=&quot;L&amp;#39;eidolon du conjurateur&quot;&gt;eidolon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mod&#232;les-Deidolon.html&quot; title=&quot;Les mod&#232;les d&amp;#39;eidolon du conjurateur&quot;&gt;mod&#232;les d&#39;eidolon&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Inquisiteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;L&#39;inquisiteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jugements.html&quot; title=&quot;Les jugements d&amp;#39;inquisiteur&quot;&gt;jugements&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html&quot; title=&quot;Les inquisitions d&amp;#39;inquisiteur&quot;&gt;inquisitions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Justicier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Justicier.html&quot; title=&quot;Le justicier&quot;&gt;Le justicier&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sociaux.html&quot; title=&quot;Les talents sociaux du justicier&quot;&gt;talents sociaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talents-De-Justicier.html&quot; title=&quot;Les talents de justicier&quot;&gt;talents de justicier&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magus.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magus.html&quot; title=&quot;Le magus&quot;&gt;Le magus&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcanes.html&quot; title=&quot;Les arcanes du magus&quot;&gt;arcanes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;tamorphe.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;tamorphe.html&quot; title=&quot;Le m&#233;tamorphe&quot;&gt;Le m&#233;tamorphe&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Aspects.html&quot; title=&quot;Les aspects du m&#233;tamorphe&quot;&gt;aspects du m&#233;tamorphe&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ninja.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ninja.html&quot; title=&quot;Le ninja&quot;&gt;Le ninja&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Astuces.html&quot; title=&quot;Les astuces de ninja&quot;&gt;astuces&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Oracle.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;L&#39;oracle&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;res&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions-Doracle.html&quot; title=&quot;Les mal&#233;dictions d&amp;#39;oracle&quot;&gt;mal&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pistolier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pistolier.html&quot; title=&quot;Le pistolier&quot;&gt;Le pistolier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits.html&quot; title=&quot;Les exploits du pistolier&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Samoura&#239;.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html&quot; title=&quot;Le samoura&#239;&quot;&gt;Le samoura&#239;&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sorci&#232;re.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;La sorci&#232;re&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices.html&quot; title=&quot;Les mal&#233;fices de la sorci&#232;re&quot;&gt;mal&#233;fices&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Protecteurs.html&quot; title=&quot;Les protecteurs de la sorci&#232;re&quot;&gt;protecteurs&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;25%&quot;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSES2&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSES2&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSES2&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSES2&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESDEBASE&quot; title=&quot;Les classes&quot;&gt;Classes de base&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSES2&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barbare.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;Le barbare&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;pouvoirs de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Barde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Le barde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html&quot; title=&quot;Les repr&#233;sentations bardiques du barde&quot;&gt;repr&#233;sentations&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Les chefs d&amp;#39;œuvre du barde&quot;&gt;chefs d&#39;oeuvre&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Druide.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Le druide&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaines-Animaux-Et-Environnementaux.html&quot; title=&quot;Les domaines animaux et environnementaux du druide&quot;&gt;Domaines animaux et environnementaux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Ensorceleur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;L&#39;ensorceleur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages.html&quot; title=&quot;Les lignages d&amp;#39;ensorceleur&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Guerrier.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;Le guerrier&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Groupe-Darmes.html&quot; title=&quot;Les groupes d&amp;#39;arme du guerrier&quot;&gt;groupes d&#39;armes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Entra&#238;nements-Avanc&#233;s.html&quot; title=&quot;Les entra&#238;nements avanc&#233;s du guerrier&quot;&gt;entra&#238;nements avanc&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Magicien.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;Le magicien&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-De-Magie.html&quot; title=&quot;Les &#233;coles de magie du magicien&quot;&gt;&#233;coles de magie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes-Arcaniques.html&quot; title=&quot;Les d&#233;couvertes arcaniques du magicien&quot;&gt;d&#233;couvertes arcaniques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Moine.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine.html&quot; title=&quot;Le moine&quot;&gt;Le moine&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Voeux.html&quot; title=&quot;Les vœux du moine&quot;&gt;voeux&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Paladin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Le paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Le pr&#234;tre&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variantes-De-Canalisation.html&quot; title=&quot;Les variantes de canalisation du pr&#234;tre&quot;&gt;variantes de canalisation&lt;/a&gt;&lt;/i&gt;) (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaines.html&quot; title=&quot;Les domaines du pr&#234;tre&quot;&gt;domaines&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/R&#244;deur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;Le r&#244;deur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges-De-R&#244;deur.html&quot; title=&quot;Pi&#232;ges de r&#244;deur&quot;&gt;Pi&#232;ges de r&#244;deur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Roublard.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;Le roublard&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html&quot; title=&quot;Les talents de roublard&quot;&gt;talents&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESHYBRIDES2&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESHYBRIDES2&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESHYBRIDES2&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESHYBRIDES2&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESHYBRIDES&quot; title=&quot;Les classes&quot;&gt;Classes hybrides&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESHYBRIDES2&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Arcaniste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;L&#39;arcaniste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;exploitations&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Bretteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bretteur.html&quot; title=&quot;Le bretteur&quot;&gt;Le bretteur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exploits-(Bretteur).html&quot; title=&quot;Les exploits du bretteur&quot;&gt;exploits&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chaman.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chaman.html&quot; title=&quot;Le chaman&quot;&gt;Le chaman&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(Chaman).html&quot; title=&quot;Les esprits du chaman&quot;&gt;esprits&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices-(Chaman).html&quot; title=&quot;Les mal&#233;fices du chaman&quot;&gt;mal&#233;fices&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Chasseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chasseur.html&quot; title=&quot;Le chasseur&quot;&gt;Le chasseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;compagnon animal&quot;&gt;compagnon animal&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Enqu&#234;teur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enqu&#234;teur.html&quot; title=&quot;L&amp;#39;enqu&#234;teur&quot;&gt;L&#39;enqu&#234;teur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Enqu&#234;teur).html&quot; title=&quot;Les talents d&amp;#39;enqu&#234;teur&quot;&gt;talents d’enqu&#234;teur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Lutteur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lutteur.html&quot; title=&quot;Le lutteur&quot;&gt;Le lutteur&lt;/a&gt; &lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Pr&#234;tre combattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;Le pr&#234;tre combattant&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;dictions.html&quot; title=&quot;Les b&#233;n&#233;dictions du pr&#234;tre combattant&quot;&gt;b&#233;n&#233;dictions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Sanguin.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;Le sanguin&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lignages-(Sanguin).html&quot; title=&quot;Les lignages du sanguin&quot;&gt;lignages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Scalde.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html&quot; title=&quot;Le scalde&quot;&gt;Le scalde&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html&quot; title=&quot;Les chants de rage du scalde&quot;&gt;chants de rage&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Tueur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tueur.html&quot; title=&quot;Le tueur&quot;&gt;Le tueur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Tueur).html&quot; title=&quot;Les talents de tueur&quot;&gt;talents de tueur&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESOCCULTES2&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESOCCULTES2&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESOCCULTES2&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESOCCULTES2&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#CLASSESOCCULTES&quot; title=&quot;Les classes&quot;&gt;Classes occultes&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESOCCULTES2&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Cin&#233;tiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cin&#233;tiste.html&quot; title=&quot;Le cin&#233;tiste&quot;&gt;Le cin&#233;tiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;ments.html&quot; title=&quot;Les &#233;l&#233;ments du cin&#233;tiste&quot;&gt;&#233;l&#233;ments&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sauvages.html&quot; title=&quot;Les talents sauvages du cin&#233;tiste&quot;&gt;talents sauvages&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Hypnotiseur.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;L&#39;hypnotiseur&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inductions.html&quot; title=&quot;Les inductions d&amp;#39;hypnotiseur&quot;&gt;inductions&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/M&#233;dium.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;dium.html&quot; title=&quot;Le m&#233;dium&quot;&gt;Le m&#233;dium&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-(M&#233;dium).html&quot; title=&quot;Les esprits du m&#233;dium&quot;&gt;esprits&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Esprits-L&#233;gendaires.html&quot; title=&quot;Les esprits l&#233;gendaires de m&#233;dium&quot;&gt;esprits l&#233;gendaires&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Occultiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Occultiste.html&quot; title=&quot;L&amp;#39;occultiste&quot;&gt;L&#39;occultiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;coles-Instrumentales.html&quot; title=&quot;&#201;coles instrumentales&quot;&gt;&#233;coles instrumentales&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Instruments-Sacr&#233;s.html&quot; title=&quot;Les instruments sacr&#233;s d&amp;#39;occultiste&quot;&gt;instruments sacr&#233;s&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Psychiste.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Psychiste.html&quot; title=&quot;Le psychiste&quot;&gt;Le psychiste&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Amplifications-Phr&#233;niques.html&quot; title=&quot;Les amplifications phr&#233;niques du psychiste&quot;&gt;amplifications phr&#233;niques&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciplines-Psychiques.html&quot; title=&quot;Les disciplines psychiques du psychiste&quot;&gt;disciplines psychiques&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/Spirite.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Spirite.html&quot; title=&quot;Le spirite&quot;&gt;Le spirite&lt;/a&gt; (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fant&#244;mes-(Spirite).html&quot; title=&quot;Le fant&#244;me du spirite&quot;&gt;fant&#244;mes&lt;/a&gt;&lt;/i&gt;)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPRESTIGE2&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPRESTIGE2&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPRESTIGE2&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPRESTIGE2&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Prestige.html&quot; title=&quot;Les classes de prestige&quot;&gt;Classes de prestige&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPRESTIGE2&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Acolyte-De-La-Foi-Verte.html&quot; title=&quot;Acolyte de la Nature&quot;&gt;Acolyte de la Nature&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte-De-La-Flamme-Noire.html&quot; title=&quot;Adepte de la Flamme noire&quot;&gt;Adepte de la Flamme noire&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-La-Cour-Des-Ombres.html&quot; title=&quot;Agent de l&amp;#39;Ombre&quot;&gt;Agent de l&#39;Ombre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-De-Terrain-Des-&#201;claireurs.html&quot; title=&quot;Agent de terrain des Explorateurs&quot;&gt;Agent de terrain des Explorateurs&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-Consortium-De-Laspis.html&quot; title=&quot;Agent du consortium&quot;&gt;Agent du consortium&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Agent-Du-R&#233;seau-Campanule.html&quot; title=&quot;Agent du r&#233;seau&quot;&gt;Agent du r&#233;seau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste-De-Magaambya.html&quot; title=&quot;Arcaniste de l&amp;#39;acad&#233;mie du Vieux-Mage&quot;&gt;Arcaniste de l&#39;acad&#233;mie du Vieux-Mage&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Archer-Mage.html&quot; title=&quot;L&amp;#39;archer-mage&quot;&gt;Archer-mage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arpenteur-Dhorizon.html&quot; title=&quot;L&amp;#39;arpenteur d&amp;#39;horizon&quot;&gt;Arpenteur d&#39;horizon&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aspirant-&#192;-Lillumination.html&quot; title=&quot;Aspirant &#224; l&amp;#39;Illumination&quot;&gt;Aspirant &#224; l&#39;Illumination&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin-Des-Mantes-Rouges.html&quot; title=&quot;Assassin pourpre&quot;&gt;Assassin pourpre&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin.html&quot; title=&quot;L&amp;#39;assassin&quot;&gt;Assassin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Attiseur-De-Temp&#234;tes.html&quot; title=&quot;Attiseur de temp&#234;tes&quot;&gt;Attiseur de temp&#234;tes&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jardinier-Gris.html&quot; title=&quot;Bourreau gris&quot;&gt;Bourreau gris&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Dirori.html&quot; title=&quot;Champion de la perfection&quot;&gt;Champion de la perfection&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Champion-Occultiste.html&quot; title=&quot;Le champion occultiste&quot;&gt;Champion occultiste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Dozem.html&quot; title=&quot;Chevalier de la vie&quot;&gt;Chevalier de la vie&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevaucheur-De-Mammouth.html&quot; title=&quot;Chevaucheur de mammouth&quot;&gt;Chevaucheur de mammouth&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chroniqueur.html&quot; title=&quot;Le chroniqueur&quot;&gt;Chroniqueur&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Daivrat.html&quot; title=&quot;Daivrat&quot;&gt;Daivrat&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tective-Des-Insomniaques.html&quot; title=&quot;D&#233;tective des Insomniaques&quot;&gt;D&#233;tective des Insomniaques&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-De-Kalistrade.html&quot; title=&quot;Disciple des Proph&#233;ties&quot;&gt;Disciple des Proph&#233;ties&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Disciple-Draconien.html&quot; title=&quot;Le disciple draconien&quot;&gt;Disciple draconien&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dissident-De-La-Fleur-De-Laube.html&quot; title=&quot;Dissident de l&amp;#39;aube&quot;&gt;Dissident de l&#39;aube&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duelliste.html&quot; title=&quot;Le duelliste&quot;&gt;Duelliste&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Empoisonneur-De-Dague.html&quot; title=&quot;Empoisonneur de la guilde&quot;&gt;Empoisonneur de la guilde&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Enfant-Divin.html&quot; title=&quot;Enfant divin&quot;&gt;Enfant divin&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Estimateur-Dabadar.html&quot; title=&quot;Estimateur l&#233;gal&quot;&gt;Estimateur l&#233;gal&lt;/a&gt; (CSU)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;tudiant-De-La-Guerre.html&quot; title=&quot;&#201;tudiant de la guerre&quot;&gt;&#201;tudiant de la guerre&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;vang&#233;liste.html&quot; title=&quot;&#201;vang&#233;liste&quot;&gt;&#201;vang&#233;liste&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exalt&#233;.html&quot; title=&quot;Exalt&#233;&quot;&gt;Exalt&#233;&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Explorateur.html&quot; title=&quot;Explorateur&quot;&gt;Explorateur&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;claireur-Savant.html&quot; title=&quot;Explorateur savant&quot;&gt;Explorateur savant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Razmirien.html&quot; title=&quot;Faux pr&#234;tre&quot;&gt;Faux pr&#234;tre&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fid&#232;le-D&#233;fenseur.html&quot; title=&quot;Le fid&#232;le d&#233;fenseur&quot;&gt;Fid&#232;le d&#233;fenseur&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fr&#232;re-Du-Sceau.html&quot; title=&quot;Fr&#232;re du Sceau&quot;&gt;Fr&#232;re du Sceau&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;L&#233;gionnaire-Dor&#233;.html&quot; title=&quot;Garde de la libert&#233;&quot;&gt;Garde de la libert&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-De-La-Nature.html&quot; title=&quot;Le gardien de la nature&quot;&gt;Gardien de la nature&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Des-Failles.html&quot; title=&quot;Gardien des failles&quot;&gt;Gardien des failles&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir.html&quot; title=&quot;Le gardien du savoir&quot;&gt;Gardien du savoir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guerrier-De-La-Fosse.html&quot; title=&quot;Guerrier de la fosse&quot;&gt;Guerrier de la fosse&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;raut.html&quot; title=&quot;Le h&#233;raut&quot;&gt;H&#233;raut&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ritier-Noble.html&quot; title=&quot;H&#233;ritier noble&quot;&gt;H&#233;ritier noble&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Illusionniste-Voil&#233;.html&quot; title=&quot;Illusionniste voil&#233;&quot;&gt;Illusionniste voil&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lame-Des-Lions.html&quot; title=&quot;Lame des lions&quot;&gt;Lame des lions&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chevalier-Infernal.html&quot; title=&quot;L&#233;gionnaire infernal&quot;&gt;L&#233;gionnaire infernal&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mage-Des-Glyphes.html&quot; title=&quot;Mage des glyphes&quot;&gt;Mage des glyphes&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Chymiste.html&quot; title=&quot;Le ma&#238;tre chymiste&quot;&gt;Ma&#238;tre chymiste&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Des-Ombres.html&quot; title=&quot;Le ma&#238;tre des ombres&quot;&gt;Ma&#238;tre des ombres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Espion.html&quot; title=&quot;Le ma&#238;tre espion&quot;&gt;Ma&#238;tre espion&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mar&#233;chal-Bouclier.html&quot; title=&quot;Mar&#233;chal-bouclier&quot;&gt;Mar&#233;chal-bouclier&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faucon-Dacier.html&quot; title=&quot;Missionnaire de la libert&#233;&quot;&gt;Missionnaire de la libert&#233;&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monolithe-Vivant.html&quot; title=&quot;Monolithe vivant&quot;&gt;Monolithe vivant&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystificateur-Profane.html&quot; title=&quot;Le mystificateur profane&quot;&gt;Mystificateur profane&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mystique-Tatou&#233;.html&quot; title=&quot;Mystique tatou&#233;&quot;&gt;Mystique tatou&#233;&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Opportuniste-Halfelin.html&quot; title=&quot;Opportuniste halfelin&quot;&gt;Opportuniste halfelin&lt;/a&gt; (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pirate-De-La-Mer-Int&#233;rieure.html&quot; title=&quot;Pirate de Haute Mer&quot;&gt;Pirate de Haute mer&lt;/a&gt; (PMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porteur-De-Lanterne.html&quot; title=&quot;Porteur de lanterne&quot;&gt;Porteur de lanterne&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-Enrag&#233;.html&quot; title=&quot;Le proph&#232;te enrag&#233;&quot;&gt;Proph&#232;te enrag&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prospecteur-C&#233;leste.html&quot; title=&quot;Prospecteur c&#233;leste&quot;&gt;Prospecteur c&#233;leste&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sentinelle.html&quot; title=&quot;Sentinelle&quot;&gt;Sentinelle&lt;/a&gt; (&lt;i&gt;ISG&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-De-Larche-Du-Nex.html&quot; title=&quot;Seigneur de l&amp;#39;arche&quot;&gt;Seigneur de l&#39;arche&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seigneur-Des-&#201;p&#233;es-Aldori.html&quot; title=&quot;Seigneur des &#233;p&#233;es&quot;&gt;Seigneur des &#233;p&#233;es&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Signifer-Infernal.html&quot; title=&quot;Signifer infernal&quot;&gt;Signifer infernal&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re-De-Lhiver.html&quot; title=&quot;Sorci&#232;re de l&amp;#39;hiver&quot;&gt;Sorci&#232;re de l&#39;hiver&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Templier-D&#233;chu.html&quot; title=&quot;Templier parjure&quot;&gt;Templier parjure&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Th&#233;urge-Mystique.html&quot; title=&quot;Le th&#233;urge mystique&quot;&gt;Th&#233;urge mystique&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vengeur-Sacr&#233;.html&quot; title=&quot;Le vengeur sacr&#233;&quot;&gt;Vengeur sacr&#233;&lt;/a&gt; (MJRA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liseuse-De-Tourment.html&quot; title=&quot;Voyante&quot;&gt;Voyante&lt;/a&gt; (CCMI)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonCLASSESDEPNJ2&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESDEPNJ2&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESDEPNJ2&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESDEPNJ2&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Classes de PNJ&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+  &lt;ul ID=&quot;CLASSESDEPNJ2&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniAdepte.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;L&#39;adepte&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniExpert.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;L&#39;expert&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniCombattant.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;L&#39;homme d&#39;arme&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniHomme du Peuple.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Du-Peuple.html&quot; title=&quot;L&amp;#39;homme du peuple&quot;&gt;L&#39;homme du peuple&lt;/a&gt;&lt;/li&gt;
+  &lt;li onmouseover=&quot;
+document.getElementById(&#39;menuclasseIMG2&#39;).src=&#39;/wiki/public/upload/Illustrations/PNJ/MiniNoble.jpg&#39;;&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Noble.html&quot; title=&quot;Le noble&quot;&gt;Le noble&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fright&quot;&gt;&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions-Doracle.html&quot; title=&quot;Les mal&#233;dictions d&amp;#39;oracle&quot;&gt;mal&#233;dictions d&#39;oracle&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;b&gt;&lt;i&gt;Voir aussi les &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;res d&#39;oracle&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;b&gt;&lt;i&gt;Voir aussi la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Pr&#234;tres.html&quot; title=&quot;Liste des sorts de pr&#234;tre/pr&#234;tre combattant/oracle&quot;&gt;liste des sorts de pr&#234;tre&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonoracle&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onclick=&quot;expandMenu(&#39;oracle&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;Voir les arch&#233;types de l&#39;oracle&lt;/b&gt;&amp;emsp;
+  &lt;li ID=&quot;oracle&quot; CLASS=&quot;listecach&#233;e&quot; STYLE=&quot;display:none&quot;&gt;&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les arch&#233;types d&#39;oracle&lt;a class=&quot;headeranchor&quot; id=&quot;Les_arch&#233;types_doracle_0&quot; href=&quot;#Les_arch&#233;types_doracle_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&amp;nbsp;Retour &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;classe&lt;/a&gt;.
+&lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chercheur-(Oracle).html&quot; title=&quot;Chercheur&quot;&gt;Chercheur&lt;/a&gt; (RSE)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chercheur-Psychique-(Oracle).html&quot; title=&quot;Chercheur psychique&quot;&gt;Chercheur psychique&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Combattant-Intuitif-(Oracle).html&quot; title=&quot;Combattant intuitif&quot;&gt;Combattant intuitif&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-De-La-Communaut&#233;-(Oracle).html&quot; title=&quot;Gardien de la communaut&#233;&quot;&gt;Gardien de la communaut&#233;&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;Halfelin&lt;/a&gt;) (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gardien-Du-Savoir-Ancestral-(Oracle).html&quot; title=&quot;Gardien du savoir ancestral&quot;&gt;Gardien du savoir ancestral&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Elfe.html&quot; title=&quot;Les elfes&quot;&gt;Elfe&lt;/a&gt;) (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Guide-Spirituel-(Oracle).html&quot; title=&quot;Guide spirituel&quot;&gt;Guide spirituel&lt;/a&gt; (MCA)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Au-Sang-Noir-(Oracle).html&quot; title=&quot;Oracle au sang noir&quot;&gt;Oracle au sang noir&lt;/a&gt; (MMI)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Des-&#201;toiles-(Oracle).html&quot; title=&quot;Oracle des &#233;toiles&quot;&gt;Oracle des &#233;toiles&lt;/a&gt; (AM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Doublement-Maudit-(Oracle).html&quot; title=&quot;Oracle doublement maudit&quot;&gt;Oracle doublement maudit&lt;/a&gt; (AM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Planaire-(Oracle).html&quot; title=&quot;Oracle planaire&quot;&gt;Oracle planaire&lt;/a&gt; (AM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-Poss&#233;d&#233;-(Oracle).html&quot; title=&quot;Oracle poss&#233;d&#233;&quot;&gt;Oracle poss&#233;d&#233;&lt;/a&gt; (AM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle-R&#233;incarn&#233;-(Oracle).html&quot; title=&quot;Oracle r&#233;incarn&#233;&quot;&gt;Oracle r&#233;incarn&#233;&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Samsaran-(Race).html&quot; title=&quot;Les samsarans&quot;&gt;Samsaran&lt;/a&gt;) (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Philosophe-&#201;clair&#233;-(Oracle).html&quot; title=&quot;Philosophe &#233;clair&#233;&quot;&gt;Philosophe &#233;clair&#233;&lt;/a&gt; (AM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Proph&#232;te-(Oracle).html&quot; title=&quot;Proph&#232;te&quot;&gt;Proph&#232;te&lt;/a&gt; (AM)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Purificateur-(Oracle).html&quot; title=&quot;Purificateur&quot;&gt;Purificateur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Aasimar-(Race).html&quot; title=&quot;Les aasimars&quot;&gt;Aasimar&lt;/a&gt;) (MR)&lt;/li&gt;
+  &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Shigenjo-(Oracle).html&quot; title=&quot;Shigenjo&quot;&gt;Shigenjo&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Tengu-(Race).html&quot; title=&quot;Les tengus&quot;&gt;Tengu&lt;/a&gt;) (MR)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - R&#232;gles avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Player&#39;s Guide/Manuel des joueurs - R&#232;gles avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAPG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Les dieux œuvrent par l’interm&#233;diaire de bien des agents mais aucun n’est aussi myst&#233;rieux que l’oracle. Ces r&#233;ceptacles divins re&#231;oivent des pouvoirs sans avoir eu le choix et seule la providence choisit les oracles &#224; qui elle confie des pouvoirs qu’ils ne comprennent pas enti&#232;rement. Contrairement aux pr&#234;tres qui puisent leur magie dans leur d&#233;votion  &#224; leur dieu, les oracles tirent leur force et leur puissance de nombreuses sources, en particulier des divinit&#233;s protectrices qui partagent leurs id&#233;aux. Au lieu de v&#233;n&#233;rer un  seul dieu, les oracles tendent &#224; adorer tous ceux qui partagent leurs croyances. Certains consid&#232;rent leurs pouvoirs comme une b&#233;n&#233;diction, d’autres comme une mal&#233;diction car ils changent la vie de l’&#233;lu de mani&#232;re impr&#233;visible.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre&quot;&gt;&lt;caption&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TABLEORACLE&quot; href=&quot;#TABLEORACLE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;L&#39;oracle&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;BBA&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;R&#233;flexes&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Vigueur&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Volont&#233;&lt;/td&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Sp&#233;cial&lt;/td&gt;&lt;td COLSPAN=&quot;9&quot; CLASS=&quot;avecsoustitre&quot;&gt;Sorts par jour&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;9e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#MALEDICTIONDELORACLE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Mal&#233;diction de l&#39;oracle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#MYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;myst&#232;re&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#ORAISON&quot; title=&quot;L&amp;#39;oracle&quot;&gt;oraison&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;r&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;R&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;R&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;+6/+1&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;+7/+2&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;+8/+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;td&gt;+7&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;R&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;+9/+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;+10/+5&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;+11/+6/+1&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+9&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;R&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;+12/+7/+2&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;+13/+8/+3&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTDEMYSTERE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sort de myst&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;+14/+9/+4&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+11&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;R&#233;v&#233;lation&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;+15/+10/+5&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;td&gt;+12&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATIONFINALE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;R&#233;v&#233;lation finale&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;IMG SRC=&quot;/wiki/public/upload/Illustrations/PNJ/Alahazra.jpg&quot; WIDTH=&quot;25%&quot; STYLE=&quot;float: right; background-color: white; padding: 0 0 5px 5px;&quot;/&gt;
+&lt;b&gt;R&#244;le.&lt;/b&gt; Habituellement, les oracles ne s’associent pas &#224; une &#233;glise ou un temple et pr&#233;f&#232;rent voyager seuls ou avec un petit groupe d’individus &#224; la tournure d’esprit similaire. Ils profitent g&#233;n&#233;ralement de leurs sorts pour approfondir leurs connaissances des myst&#232;res, que ce soit en livrant de nombreux combats ou en s’occupant des malades et des pauvres.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement.&lt;/b&gt; Tous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233; de vie.&lt;/b&gt; d8.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Argent de d&#233;part.&lt;/b&gt; 3d6 x 10 po (moyenne 105 po).&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Comp&#233;tences de classe&lt;a class=&quot;headeranchor&quot; id=&quot;Comp&#233;tences_de_classe_7&quot; href=&quot;#Comp&#233;tences_de_classe_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Voici les comp&#233;tences de classe de l’oracle : &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) (Int), &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; (Cha), &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (Sag), &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; (Sag). &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Les oracles re&#231;oivent des comp&#233;tences de classe suppl&#233;mentaires en fonction de leur myst&#232;re.&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Rangs de comp&#233;tence par niveau.&lt;/b&gt; 4 + modificateur d’&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Descriptif de la classe&lt;a class=&quot;headeranchor&quot; id=&quot;Descriptif_de_la_classe_8&quot; href=&quot;#Descriptif_de_la_classe_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;i&gt;Voici les caract&#233;ristiques de la classe d’oracle.&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Maniement des armes et port des armures&lt;a class=&quot;headeranchor&quot; id=&quot;Maniement_des_armes_et_port_des_armures_0&quot; href=&quot;#Maniement_des_armes_et_port_des_armures_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;L’oracle est form&#233; au maniement de toutes les &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armecourante.html&quot; title=&quot;armes courantes&quot;&gt;armes courantes&lt;/a&gt; ainsi qu’au port des &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures#Legeres.html&quot; title=&quot;armure l&#233;g&#232;re&quot;&gt;armures l&#233;g&#232;res&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures#Intermediaires.html&quot; title=&quot;armure interm&#233;diaire&quot;&gt;interm&#233;diaires&lt;/a&gt; et au maniement des boucliers (mais pas des pavois). Certaines r&#233;v&#233;lations permettent de manier d’autres armes et de porter d’autres armures.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 16px 16px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot;&gt;&lt;caption&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SORTSCONNUSDELORACLE&quot; href=&quot;#SORTSCONNUSDELORACLE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;Sorts connus par l&#39;oracle&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td ROWSPAN=&quot;2&quot;&gt;Niveau&lt;/td&gt;&lt;td COLSPAN=&quot;10&quot; CLASS=&quot;avecsoustitre gauche&quot;&gt;Sorts connus&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;soustitre&quot;&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1er&lt;/td&gt;&lt;td&gt;2e&lt;/td&gt;&lt;td&gt;3e&lt;/td&gt;&lt;td&gt;4e&lt;/td&gt;&lt;td&gt;5e&lt;/td&gt;&lt;td&gt;6e&lt;/td&gt;&lt;td&gt;7e&lt;/td&gt;&lt;td&gt;8e&lt;/td&gt;&lt;td&gt;9e&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SORTS&quot; href=&quot;#SORTS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sorts&lt;a class=&quot;headeranchor&quot; id=&quot;Sorts_1&quot; href=&quot;#Sorts_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float:right; padding-left: 6px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs---R&#232;gles-Avanc&#233;es.html#32&quot; title=&quot;FAQ du Manuel des joueurs - R&#232;gles avanc&#233;es&quot;&gt;→&lt;/a&gt; Oracle : Quel type de RD un oracle obtient-il gr&#226;ce au sort &lt;i&gt;force du colosse&lt;/i&gt; ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Si l&#39;&lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTS&quot; title=&quot;L&amp;#39;oracle&quot;&gt;oracle&lt;/a&gt;&lt;/u&gt; choisi l&#39;option &#171; tous les sorts de soins &#187; comme sorts connus, on consid&#232;re cela comme &#171; canalise de l&#39;&#233;nergie positive &#187; dans le cadre de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Force-Du-Colosse.html&quot; title=&quot;Force du colosse&quot;&gt;force du colosse&lt;/a&gt;&lt;/i&gt;. S&#39;il a choisi l&#39;option &#171; tous les sorts de blessure &#187;, on consid&#232;re cela comme &#171; canalise de l&#39;&#233;nergie n&#233;gative &#187; dans le cadre de &lt;i&gt;force du colosse&lt;/i&gt;.
+&lt;hr&gt;
+&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs---R&#232;gles-Avanc&#233;es.html#40&quot; title=&quot;FAQ du Manuel des joueurs - R&#232;gles avanc&#233;es&quot;&gt;→&lt;/a&gt; Oracle, Sorts : Puis-je utiliser mon modificateur de Charisme pour les sorts de pr&#234;tre et les effets qui d&#233;pendent de la Sagesse, comme &lt;i&gt;arme spirituelle&lt;/i&gt; ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Tels qu&#39;&#233;crits, ces effets mentionnent la &#171; Sagesse &#187; car ils ont &#233;t&#233; con&#231;us avant l&#39;id&#233;e d&#39;une classe d&#39;oracle qui serait un lanceur de sorts bas&#233; sur le Charisme, donc un &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTS&quot; title=&quot;L&amp;#39;oracle&quot;&gt;oracle&lt;/a&gt;&lt;/u&gt; doit effectivement utiliser son modificateur de Sagesse.  
+Cependant, il est tout &#224; fait raisonnable d&#39;autoriser un oracle &#224; utiliser son modificateur (ou bonus) de Charisme dans le cadre des sorts de pr&#234;tre qui d&#233;pendent du modificateur (ou bonus) de Sagesse du lanceur.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:50px; cursor:pointer&quot; src=&quot;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&quot; title=&quot;Cliquez pour afficher/cacher une FAQ officielle relative &#224; ce texte&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqalt1.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&#39;;&quot; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;L’oracle lance des sorts divins tir&#233;s de la &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-De-Pr&#234;tres.html&quot; title=&quot;Liste des sorts de pr&#234;tre/pr&#234;tre combattant/oracle&quot;&gt;liste de sorts de pr&#234;tre&lt;/a&gt;. Il peut lancer tout sort de sa connaissance sans avoir besoin de le pr&#233;parer &#224; l’avance. Pour apprendre ou lancer un sort, l’oracle doit avoir une valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; au moins &#233;gale &#224; 10 + niveau du sort. 
+&lt;b&gt;Le DD des jets de sauvegarde contre les sorts de l’oracle est de 10 + niveau du sort + modificateur de Charisme de l’oracle.&lt;/b&gt;
+Comme les autres lanceurs de sorts, l’oracle ne peut en lancer qu’un certain nombre de chaque niveau par jour. De plus, il re&#231;oit des sorts suppl&#233;mentaires s’il poss&#232;de une importante valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Contrairement aux autres lanceurs de sorts divins, l’oracle dispose d’un choix de sorts tr&#232;s restreint. Il commence le jeu avec quatre sorts de niveau 0 et deux sorts de niveau 1 de son choix. &#192; chaque fois qu’il gagne un niveau, il gagne un ou plusieurs sorts, comme indiqu&#233; dans &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#TABLEORACLE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;la Table&lt;/a&gt;. Contrairement au nombre de sorts quotidiens, le nombre de sorts connus n’est pas affect&#233; par le Charisme de l’oracle, les valeurs cette &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTSCONNUSDELORACLE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;table&lt;/a&gt; sont fixes.&lt;br /&gt;&lt;br /&gt;En plus des sorts que l’oracle obtient, il ajoute tous les sorts de soins ou de blessure &#224; sa liste de sorts connus. Il s’agit de tous les sorts qui poss&#232;dent le mot &#171; soins &#187; ou &#171; blessure &#187; dans leur intitul&#233;. Il les ajoute &#224; sa liste d&#232;s qu’il atteint le niveau n&#233;cessaire pour les lancer. L’oracle fait son choix entre les deux au niveau 1 et ne peut plus en changer par la suite.&lt;br /&gt;&lt;br /&gt;Quand l’oracle atteint le niveau 4 et, par la suite, tous les niveaux pairs (c’est-&#224;-dire 6, 8, etc.), il peut apprendre un nouveau sort &#224; la place d’un qu’il conna&#238;t d&#233;j&#224;. L’oracle &#171; perd &#187; l’ancien sort au profit du nouveau. Le nouveau sort doit &#234;tre du m&#234;me niveau que celui contre lequel il l’&#233;change. &#192; chaque niveau possible, l’oracle ne peut &#233;changer qu’un seul sort et doit choisir de le faire ou non au moment o&#249; il apprend ses nouveaux sorts du niveau. Il ne peut pas &#233;changer un sort de soins ou de blessure ni aucun sort appris gr&#226;ce &#224; son myst&#232;re. Contrairement aux &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tres&lt;/a&gt;, les oracles n’ont pas besoin de pr&#233;parer leurs sorts &#224; l’avance. Ils peuvent lancer tout sort connu quand ils le d&#233;sirent, tant qu’il leur reste des sorts du niveau requis utilisables pour la journ&#233;e. Ils n’ont pas besoin de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Focaliseurdivin.html&quot; title=&quot;focalisateur divin&quot;&gt;focalisateur divin&lt;/a&gt; pour lancer les sorts qui en mentionnent un (FD) dans leurs composantes.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MYSTERE&quot; href=&quot;#MYSTERE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SORTDEMYSTERE&quot; href=&quot;#SORTDEMYSTERE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Myst&#232;re&lt;a class=&quot;headeranchor&quot; id=&quot;Myst&#232;re_2&quot; href=&quot;#Myst&#232;re_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Chaque oracle tire ses pouvoirs et ses sorts d’un myst&#232;re divin qui lui donne &#233;galement des pouvoirs de classe et des aptitudes sp&#233;ciales suppl&#233;mentaires. Ce myst&#232;re repr&#233;sente sa d&#233;votion envers un id&#233;al, des pri&#232;res d&#233;di&#233;es &#224; des divinit&#233;s qui soutiennent ce concept ou une vocation naturelle pour le r&#244;le de champion d’une cause. Par exemple, un oracle du myst&#232;re des vagues peut &#234;tre n&#233; en mer et ressentir un besoin naturel de v&#233;n&#233;rer les dieux des oc&#233;ans, des rivi&#232;res et des lacs, qu’ils soient mal&#233;fiques ou bienveillants. Quelle que soit son origine, le myst&#232;re se manifeste de plusieurs mani&#232;res au fur et &#224; mesure que l’oracle gagne des niveaux. L’oracle doit en choisir un au niveau 1 et ne pourra pas en changer par la suite. &lt;br /&gt;&lt;br /&gt;Au niveau 2, et par la suite tous les niveaux pairs, l’oracle apprend de nouveaux sorts issus de son myst&#232;re. Ils s’ajoutent au nombre de sorts indiqu&#233;s dans la Table &quot;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTSCONNUSDELORACLE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;Sorts connus par l&#39;oracle&lt;/a&gt;&quot;. Il est impossible de les &#233;changer contre d’autres sorts en atteignant un niveau sup&#233;rieur.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;liste des myst&#232;res&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ORAISON&quot; href=&quot;#ORAISON&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Oraisons&lt;a class=&quot;headeranchor&quot; id=&quot;Oraisons_3&quot; href=&quot;#Oraisons_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;L’oracle conna&#238;t un certain nombre d’oraisons, ou sorts de niveau 0, comme indiqu&#233; dans &lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#SORTSCONNUSDELORACLE&quot; title=&quot;L&amp;#39;oracle&quot;&gt;la table&lt;/a&gt; des &#171; sorts connus &#187; ci-contre. Il jette ces sorts comme les autres mais ils ne sont pas d&#233;pens&#233;s lorsqu’ils sont lanc&#233;s et peuvent &#234;tre utilis&#233;s &#224; nouveau.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;REVELATION&quot; href=&quot;#REVELATION&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;R&#233;v&#233;lation&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;v&#233;lation_4&quot; href=&quot;#R&#233;v&#233;lation_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div style=&quot;float:right; padding-left: 6px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs---R&#232;gles-Avanc&#233;es.html#39&quot; title=&quot;FAQ du Manuel des joueurs - R&#232;gles avanc&#233;es&quot;&gt;→&lt;/a&gt; Oracle, R&#233;v&#233;lations : Un oracle peut-il s&#233;lectionner une r&#233;v&#233;lation plusieurs fois ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Non, sauf si la &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html#REVELATION&quot; title=&quot;L&amp;#39;oracle&quot;&gt;r&#233;v&#233;lation&lt;/a&gt;&lt;/u&gt; pr&#233;cise le contraire.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:50px; cursor:pointer&quot; src=&quot;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&quot; title=&quot;Cliquez pour afficher/cacher une FAQ officielle relative &#224; ce texte&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqalt1.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&#39;;&quot; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;Au niveau 1, 3 et ensuite tous les quatre niveaux (7, 11, etc.), l’oracle d&#233;couvre un nouveau secret sur le &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;re&lt;/a&gt; qui lui accorde ses pouvoirs et ses aptitudes. Il doit choisir une r&#233;v&#233;lation dans la liste de celles disponibles pour son myst&#232;re. S’il choisit une r&#233;v&#233;lation &#224; un niveau sup&#233;rieur, il gagne toutes les aptitudes et tous les bonus associ&#233;s en fonction de son niveau actuel. Sauf indication contraire, il faut une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; pour activer les pouvoirs d’une r&#233;v&#233;lation.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;REVELATIONFINALE&quot; href=&quot;#REVELATIONFINALE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;R&#233;v&#233;lation finale&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;v&#233;lation_finale_5&quot; href=&quot;#R&#233;v&#233;lation_finale_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au niveau 20, l’oracle d&#233;couvre la r&#233;v&#233;lation finale de son &lt;a class=&quot;pagelink&quot; href=&quot;Myst&#232;res.html&quot; title=&quot;Les myst&#232;res d&amp;#39;oracle&quot;&gt;myst&#232;re&lt;/a&gt;, ce qui lui donne des pouvoirs prodigieux. La nature de ces bonus d&#233;pend de son myst&#232;re.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;MALEDICTIONDELORACLE&quot; href=&quot;#MALEDICTIONDELORACLE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Mal&#233;diction de l’oracle (Ext)&lt;a class=&quot;headeranchor&quot; id=&quot;Mal&#233;diction_de_l’oracle_Ext_6&quot; href=&quot;#Mal&#233;diction_de_l’oracle_Ext_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Chaque oracle est maudit, mais cette mal&#233;diction apporte des avantages aussi bien que des handicaps. Ce choix se fait au niveau 1 et il est impossible d’en changer par la suite. Il est impossible de d&#233;livrer l’oracle de sa mal&#233;diction sans l’aide d’une divinit&#233;. Cette mal&#233;diction est bas&#233;e sur le niveau de l’oracle plus un par tranche de deux niveaux ou deux DV d’autre chose qu’oracle. Chaque oracle doit choisir une mal&#233;diction.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Voir la &lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;dictions-Doracle.html&quot; title=&quot;Les mal&#233;dictions d&amp;#39;oracle&quot;&gt;liste des mal&#233;dictions d&#39;oracle&lt;/a&gt;.&lt;/i&gt;
+]]></body>
+  <raw><![CDATA[{s:Menuclassessupplémentaires}
+<div class="fright">'''''Voir aussi les [[malédictions doracle|malédictions d'oracle]].'''''  
+'''''Voir aussi les [[Mystères|mystères d'oracle]].'''''  
+'''''Voir aussi la [[liste des sorts de prêtres|liste des sorts de prêtre]].'''''  
+{s:PM0|oracle}'''Voir les archétypes de l'oracle'''&emsp;
+  <li ID="oracle" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeoracle}</li>
+</div>{s:APG}''Les dieux œuvrent par l’intermédiaire de bien des agents mais aucun n’est aussi mystérieux que l’oracle. Ces réceptacles divins reçoivent des pouvoirs sans avoir eu le choix et seule la providence choisit les oracles à qui elle confie des pouvoirs qu’ils ne comprennent pas entièrement. Contrairement aux prêtres qui puisent leur magie dans leur dévotion  à leur dieu, les oracles tirent leur force et leur puissance de nombreuses sources, en particulier des divinités protectrices qui partagent leurs idéaux. Au lieu de vénérer un  seul dieu, les oracles tendent à adorer tous ceux qui partagent leurs croyances. Certains considèrent leurs pouvoirs comme une bénédiction, d’autres comme une malédiction car ils changent la vie de l’élu de manière imprévisible.''
+
+{| CLASS="tablo centre"
+|+ {s:Reference|TABLEORACLE}L'oracle
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" | Spécial
+| COLSPAN="9" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 7e
+| 8e
+| 9e
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +0
+| +2
+| CLASS="gauche" | [[oracle#MALEDICTIONDELORACLE|Malédiction de l'oracle]], [[oracle#MYSTERE|mystère]], [[oracle#ORAISON|oraison]], [[oracle#REVELATION|révélation]]
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +0
+| +3
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +1
+| +1
+| +3
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
+| 5
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
+| 6
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" | &nbsp;
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +4
+| +2
+| +2
+| +5
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +2
+| +2
+| +5
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +6/+1
+| +2
+| +2
+| +6
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+|-
+| 9
+| +6/+1
+| +3
+| +3
+| +6
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +7/+2
+| +3
+| +3
+| +7
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+|-
+| 11
+| +8/+3
+| +3
+| +3
+| +7
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 12
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+|-
+| 13
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+|- CLASS="alt"
+| 14
+| +10/+5
+| +4
+| +4
+| +9
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+|-
+| 15
+| +11/+6/+1
+| +5
+| +5
+| +9
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+|- CLASS="alt"
+| 16
+| +12/+7/+2
+| +5
+| +5
+| +10
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+|-
+| 17
+| +12/+7/+2
+| +5
+| +5
+| +10
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+|- CLASS="alt"
+| 18
+| +13/+8/+3
+| +6
+| +6
+| +11
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+|-
+| 19
+| +14/+9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+|- CLASS="alt"
+| 20
+| +15/+10/+5
+| +6
+| +6
+| +12
+| CLASS="gauche" | [[oracle#REVELATIONFINALE|Révélation finale]]
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+|}
+
+{s:ImageDroite|Illustrations/PNJ/Alahazra.jpg|25%}
+'''Rôle.''' Habituellement, les oracles ne s’associent pas à une église ou un temple et préfèrent voyager seuls ou avec un petit groupe d’individus à la tournure d’esprit similaire. Ils profitent généralement de leurs sorts pour approfondir leurs connaissances des mystères, que ce soit en livrant de nombreux combats ou en s’occupant des malades et des pauvres.
+
+'''Alignement.''' Tous.
+
+'''Dé de vie.''' d8.
+
+'''Argent de départ.''' 3d6 x 10 po (moyenne 105 po).
+
+===Compétences de classe===
+Voici les compétences de classe de l’oracle : [[Artisanat]] (Int), [[Art de la magie]] (Int), [[Connaissances]] (histoire) (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag). 
+
+''Les oracles reçoivent des compétences de classe supplémentaires en fonction de leur mystère.'' 
+
+'''Rangs de compétence par niveau.''' 4 + modificateur d’[[Intelligence]].
+
+===Descriptif de la classe===
+''Voici les caractéristiques de la classe d’oracle.'' 
+
+====Maniement des armes et port des armures====
+L’oracle est formé au maniement de toutes les [[armes courantes]] ainsi qu’au port des [[armure légère|armures légères]] et [[armure intermédiaire|intermédiaires]] et au maniement des boucliers (mais pas des pavois). Certaines révélations permettent de manier d’autres armes et de porter d’autres armures.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|+ {s:Reference|SORTSCONNUSDELORACLE}Sorts connus par l'oracle
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="10" CLASS="avecsoustitre gauche" | Sorts connus
+|- CLASS="soustitre"
+| 0 || 1er || 2e || 3e || 4e || 5e || 6e || 7e || 8e || 9e
+|- CLASS="premier"
+| 1 || 4 || 2 || - || - || - || - || - || - || - || -
+|-
+| 2 || 5 || 2 || - || - || - || - || - || - || - || -
+|-
+| 3 || 5 || 3 || - || - || - || - || - || - || - || -
+|-
+| 4 || 6 || 3 || 1 || - || - || - || - || - || - || -
+|-
+| 5 || 6 || 4 || 2 || - || - || - || - || - || - || -
+|-
+| 6 || 7 || 4 || 2 || 1 || - || - || - || - || - || -
+|-
+| 7 || 7 || 5 || 3 || 2 || - || - || - || - || - || -
+|-
+| 8 || 8 || 5 || 3 || 2 || 1 || - || - || - || - || -
+|-
+| 9 || 8 || 5 || 4 || 3 || 2 || - || - || - || - || -
+|-
+| 10 || 9 || 5 || 4 || 3 || 2 || 1 || - || - || - || -
+|-
+| 11 || 9 || 5 || 5 || 4 || 3 || 2 || - || - || - || -
+|-
+| 12 || 9 || 5 || 5 || 4 || 3 || 2 || 1 || - || - || -
+|-
+| 13 || 9 || 5 || 5 || 4 || 4 || 3 || 2 || - || - || -
+|-
+| 14 || 9 || 5 || 5 || 4 || 4 || 3 || 2 || 1 || - || -
+|-
+| 15 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 2 || - || -
+|-
+| 16 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 2 || 1 || -
+|-
+| 17 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 2 || -
+|-
+| 18 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 2 || 1
+|-
+| 19 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 3 || 2
+|-
+| 20 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 3 || 3
+|}
+</div></div>
+{s:Reference|SORTS}
+====Sorts====
+{s:FAQ|'''''[[FAQ- Manuel des joueurs - Règles avancées#32|→]] Oracle : Quel type de RD un oracle obtient-il grâce au sort ''force du colosse'' ?'''''
+
+Si l'__[[Oracle#SORTS|oracle]]__ choisi l'option « tous les sorts de soins » comme sorts connus, on considère cela comme « canalise de l'énergie positive » dans le cadre de ''[[force du colosse]]''. S'il a choisi l'option « tous les sorts de blessure », on considère cela comme « canalise de l'énergie négative » dans le cadre de ''force du colosse''.
+<hr>
+'''''[[FAQ- Manuel des joueurs - Règles avancées#40|→]] Oracle, Sorts : Puis-je utiliser mon modificateur de Charisme pour les sorts de prêtre et les effets qui dépendent de la Sagesse, comme ''arme spirituelle'' ?'''''
+
+Tels qu'écrits, ces effets mentionnent la « Sagesse » car ils ont été conçus avant l'idée d'une classe d'oracle qui serait un lanceur de sorts basé sur le Charisme, donc un __[[Oracle#SORTS|oracle]]__ doit effectivement utiliser son modificateur de Sagesse.  
+Cependant, il est tout à fait raisonnable d'autoriser un oracle à utiliser son modificateur (ou bonus) de Charisme dans le cadre des sorts de prêtre qui dépendent du modificateur (ou bonus) de Sagesse du lanceur.}L’oracle lance des sorts divins tirés de la [[liste des sorts de prêtres|liste de sorts de prêtre]]. Il peut lancer tout sort de sa connaissance sans avoir besoin de le préparer à l’avance. Pour apprendre ou lancer un sort, l’oracle doit avoir une valeur de [[Charisme]] au moins égale à 10 + niveau du sort. 
+'''Le DD des jets de sauvegarde contre les sorts de l’oracle est de 10 + niveau du sort + modificateur de Charisme de l’oracle.'''
+Comme les autres lanceurs de sorts, l’oracle ne peut en lancer qu’un certain nombre de chaque niveau par jour. De plus, il reçoit des sorts supplémentaires s’il possède une importante valeur de [[Charisme]].
+
+Contrairement aux autres lanceurs de sorts divins, l’oracle dispose d’un choix de sorts très restreint. Il commence le jeu avec quatre sorts de niveau 0 et deux sorts de niveau 1 de son choix. À chaque fois qu’il gagne un niveau, il gagne un ou plusieurs sorts, comme indiqué dans [[oracle#TABLEORACLE|la Table]]. Contrairement au nombre de sorts quotidiens, le nombre de sorts connus n’est pas affecté par le Charisme de l’oracle, les valeurs cette [[oracle#SORTSCONNUSDELORACLE|table]] sont fixes.
+
+En plus des sorts que l’oracle obtient, il ajoute tous les sorts de soins ou de blessure à sa liste de sorts connus. Il s’agit de tous les sorts qui possèdent le mot « soins » ou « blessure » dans leur intitulé. Il les ajoute à sa liste dès qu’il atteint le niveau nécessaire pour les lancer. L’oracle fait son choix entre les deux au niveau 1 et ne peut plus en changer par la suite.
+
+Quand l’oracle atteint le niveau 4 et, par la suite, tous les niveaux pairs (c’est-à-dire 6, 8, etc.), il peut apprendre un nouveau sort à la place d’un qu’il connaît déjà. L’oracle « perd » l’ancien sort au profit du nouveau. Le nouveau sort doit être du même niveau que celui contre lequel il l’échange. À chaque niveau possible, l’oracle ne peut échanger qu’un seul sort et doit choisir de le faire ou non au moment où il apprend ses nouveaux sorts du niveau. Il ne peut pas échanger un sort de soins ou de blessure ni aucun sort appris grâce à son mystère. Contrairement aux [[prêtre|prêtres]], les oracles n’ont pas besoin de préparer leurs sorts à l’avance. Ils peuvent lancer tout sort connu quand ils le désirent, tant qu’il leur reste des sorts du niveau requis utilisables pour la journée. Ils n’ont pas besoin de [[focalisateur divin]] pour lancer les sorts qui en mentionnent un (FD) dans leurs composantes.
+
+{s:Reference|MYSTERE}{s:Reference|SORTDEMYSTERE}
+====Mystère====
+Chaque oracle tire ses pouvoirs et ses sorts d’un mystère divin qui lui donne également des pouvoirs de classe et des aptitudes spéciales supplémentaires. Ce mystère représente sa dévotion envers un idéal, des prières dédiées à des divinités qui soutiennent ce concept ou une vocation naturelle pour le rôle de champion d’une cause. Par exemple, un oracle du mystère des vagues peut être né en mer et ressentir un besoin naturel de vénérer les dieux des océans, des rivières et des lacs, qu’ils soient maléfiques ou bienveillants. Quelle que soit son origine, le mystère se manifeste de plusieurs manières au fur et à mesure que l’oracle gagne des niveaux. L’oracle doit en choisir un au niveau 1 et ne pourra pas en changer par la suite. 
+
+Au niveau 2, et par la suite tous les niveaux pairs, l’oracle apprend de nouveaux sorts issus de son mystère. Ils s’ajoutent au nombre de sorts indiqués dans la Table "[[Oracle#SORTSCONNUSDELORACLE|Sorts connus par l'oracle]]". Il est impossible de les échanger contre d’autres sorts en atteignant un niveau supérieur.
+
+''Voir la [[Mystères|liste des mystères]].''
+
+{s:Reference|ORAISON}
+====Oraisons====
+L’oracle connaît un certain nombre d’oraisons, ou sorts de niveau 0, comme indiqué dans [[oracle#SORTSCONNUSDELORACLE|la table]] des « sorts connus » ci-contre. Il jette ces sorts comme les autres mais ils ne sont pas dépensés lorsqu’ils sont lancés et peuvent être utilisés à nouveau.
+
+{s:Reference|REVELATION}
+====Révélation====
+{s:FAQ|'''''[[FAQ- Manuel des joueurs - Règles avancées#39|→]] Oracle, Révélations : Un oracle peut-il sélectionner une révélation plusieurs fois ?'''''
+
+Non, sauf si la __[[Oracle#REVELATION|révélation]]__ précise le contraire.}Au niveau 1, 3 et ensuite tous les quatre niveaux (7, 11, etc.), l’oracle découvre un nouveau secret sur le [[mystères|mystère]] qui lui accorde ses pouvoirs et ses aptitudes. Il doit choisir une révélation dans la liste de celles disponibles pour son mystère. S’il choisit une révélation à un niveau supérieur, il gagne toutes les aptitudes et tous les bonus associés en fonction de son niveau actuel. Sauf indication contraire, il faut une [[action simple]] pour activer les pouvoirs d’une révélation.
+
+{s:Reference|REVELATIONFINALE}
+====Révélation finale====
+Au niveau 20, l’oracle découvre la révélation finale de son [[mystères|mystère]], ce qui lui donne des pouvoirs prodigieux. La nature de ces bonus dépend de son mystère.
+
+{s:Reference|MALEDICTIONDELORACLE}
+====Malédiction de l’oracle (Ext)====
+Chaque oracle est maudit, mais cette malédiction apporte des avantages aussi bien que des handicaps. Ce choix se fait au niveau 1 et il est impossible d’en changer par la suite. Il est impossible de délivrer l’oracle de sa malédiction sans l’aide d’une divinité. Cette malédiction est basée sur le niveau de l’oracle plus un par tranche de deux niveaux ou deux DV d’autre chose qu’oracle. Chaque oracle doit choisir une malédiction.
+
+''Voir la [[malédictions doracle|liste des malédictions d'oracle]].'']]></raw>
+  <fullName>Pathfinder-RPG.Oracle</fullName>
+</wikiPage>

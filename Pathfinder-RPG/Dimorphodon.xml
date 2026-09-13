@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dinosaure, Dimorphodon</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2021-04-17 16:23:31Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Dinosaure</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Temp-bestiaire4</link><link>Pathfinder-RPG.Temp-Nouvelles règles de convocation</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Dinosaure</link><link>Pathfinder-RPG.Dressage</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dimorphodon&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4 p.64&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 14, contact 13, pris au d&#233;pourvu 11 (Dex +3, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 11 (2d8+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +3 (1d6+3 plus poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; poison
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 15, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 12
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +3, &lt;b&gt;DMD&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; c&#244;tes ou for&#234;ts chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou vol&#233;e (3-9)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs Sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; Morsure — blessure ; &lt;i&gt;JS&lt;/i&gt; Vig DD 12 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round
+pendant 4 rounds ; &lt;i&gt;effet&lt;/i&gt; affaiblissement temporaire 1d2 For ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 1 JS
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Dinosaure.html&quot; title=&quot;Les dinosaures&quot;&gt;dinosaures&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Ce reptile volant poss&#232;de une t&#234;te surdimensionn&#233;e aux couleurs rouges
+et violettes &#233;clatantes et des m&#226;choires bord&#233;es de dents ac&#233;r&#233;es.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le dimorphodon a
+deux rang&#233;es de dents
+s&#233;par&#233;es : de grands
+crocs &#224; l’avant pour
+agripper la proie
+et lui injecter
+du poison, et de
+nombreuses dents
+pointues, plus petites,
+dans le reste
+de la m&#226;choire.&lt;br /&gt;&lt;br /&gt;On dit que les dimorphodons
+se dressent
+facilement. Les tests de
+&lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; visant &#224; les &#233;duquer
+b&#233;n&#233;ficient d’un bonus de +4 et la
+b&#234;te, une fois pleinement domestiqu&#233;e,
+a droit &#224; un tour suppl&#233;mentaire,
+au choix de son dresseur.&lt;br /&gt;&lt;br /&gt;Le dimorphodon a une envergure
+d’un m&#232;tre vingt &#224; un m&#232;tre
+cinquante.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le dimorphodon comme compagnon animal&lt;a class=&quot;headeranchor&quot; id=&quot;Le_dimorphodon_comme_compagnon_animal_0&quot; href=&quot;#Le_dimorphodon_comme_compagnon_animal_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+&lt;b&gt;Caract&#233;ristiques de d&#233;part.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 3 m (2 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), vol 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) (moyenne) ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d4) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 12, Dex 17, Con 08, Int 2, Sag 14, Cha 12 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;volution au niveau 4.&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +2, Dex -2, Con +2 ; &lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; poison (&lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round (6) ; &lt;i&gt;effet&lt;/i&gt; affaiblissement temporaire 1 For ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 1 JS, DD bas&#233; sur la Con).&lt;br /&gt;&lt;br /&gt;
+&lt;i&gt;&lt;u&gt;Note :&lt;/u&gt; il semblerait qu&#39;il y ait eu quelques erreurs sur le profil du compagnon animal dans les premi&#232;res V.O. et V.F. Les valeurs de d&#233;part de Con et de For avait &#233;t&#233; invers&#233;es, la Dex affich&#233;e au d&#233;part &#233;tait celle au niveau 4, le Cha n&#39;&#233;tait pas celui de l&#39;animal, sa taille M avait &#233;t&#233; oubli&#233;e, enfin sa vitesse de d&#233;placement en vol et sa manœuvrabilit&#233; &#233;taient celles d&#39;un autre animal. Cela devrait avoir &#233;t&#233; corrig&#233; depuis dans les derni&#232;res versions.&lt;/i&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dimorphodon|FP 1}
+{s:pucem|Animal|Forêt-Jungle|Tropical}
+{s:BDTexte|''Source : Bestiaire 4 p.64''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 14, contact 13, pris au dépourvu 11 (Dex +3, naturelle +1)}
+{s:BDTexte|'''pv''' 11 (2d8+2)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +4, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m (2 {s:c}), vol 9 m (6 {s:c}) (moyenne)}
+{s:BDTexte|'''Corps à corps''' morsure, +3 (1d6+3 plus poison)}
+{s:BDTexte|'''Attaque spéciale''' poison}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 15, '''Dex''' 17, '''Con''' 12, '''Int''' 2, '''Sag''' 13, '''Cha''' 12}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +3, '''DMD''' 16}
+{s:BDTexte|'''Dons''' [[Attaque en vol]]}
+{s:BDTexte|'''Compétences''' [[Perception]] +5, [[Vol]] +7}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' côtes ou forêts chaudes}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou volée (3-9)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs Spéciaux}
+{s:BDTexte|'''Poison (Ext).''' Morsure — blessure ; ''JS'' Vig DD 12 ; ''fréquence'' 1/round
+pendant 4 rounds ; ''effet'' affaiblissement temporaire 1d2 For ; ''guérison'' 1 JS}
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Dinosaure|dinosaures]].'''''</li></ul>''Ce reptile volant possède une tête surdimensionnée aux couleurs rouges
+et violettes éclatantes et des mâchoires bordées de dents acérées.''
+
+Le dimorphodon a
+deux rangées de dents
+séparées : de grands
+crocs à l’avant pour
+agripper la proie
+et lui injecter
+du poison, et de
+nombreuses dents
+pointues, plus petites,
+dans le reste
+de la mâchoire.
+
+On dit que les dimorphodons
+se dressent
+facilement. Les tests de
+[[Dressage]] visant à les éduquer
+bénéficient d’un bonus de +4 et la
+bête, une fois pleinement domestiquée,
+a droit à un tour supplémentaire,
+au choix de son dresseur.
+
+Le dimorphodon a une envergure
+d’un mètre vingt à un mètre
+cinquante.
+
+====Le dimorphodon comme compagnon animal====
+
+'''Caractéristiques de départ.''' '''Taille''' P ; '''Vitesse''' 3 m (2 {s:c}), vol 9 m (6 {s:c}) (moyenne) ; '''CA''' armure naturelle +1 ; '''Attaque''' morsure (1d4) ; '''Caractéristiques''' For 12, Dex 17, Con 08, Int 2, Sag 14, Cha 12 ; '''Particularités''' [[odorat]], [[vision nocturne]].
+
+'''Évolution au niveau 4.''' '''Taille''' M ; '''Attaque''' morsure (1d6) ; '''Caractéristiques''' For +2, Dex -2, Con +2 ; '''Attaques spéciales''' poison (''fréquence'' 1/round (6) ; ''effet'' affaiblissement temporaire 1 For ; ''guérison'' 1 JS, DD basé sur la Con).
+
+
+''__Note :__ il semblerait qu'il y ait eu quelques erreurs sur le profil du compagnon animal dans les premières V.O. et V.F. Les valeurs de départ de Con et de For avait été inversées, la Dex affichée au départ était celle au niveau 4, le Cha n'était pas celui de l'animal, sa taille M avait été oubliée, enfin sa vitesse de déplacement en vol et sa manœuvrabilité étaient celles d'un autre animal. Cela devrait avoir été corrigé depuis dans les dernières versions.''
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dimorphodon</fullName>
+</wikiPage>

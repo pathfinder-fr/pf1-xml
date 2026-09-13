@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Terreur miasmatique</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort antipaladin 2</category><category>Pathfinder-RPG.Sort barde 2</category><category>Pathfinder-RPG.Sort hypnotiseur 3</category><category>Pathfinder-RPG.Sort inquisiteur 3</category><category>Pathfinder-RPG.Sort sanguin 2</category><category>Pathfinder-RPG.Src Inner Sea Races</category></categories>
+  <lastModified>2024-11-20 18:15:26Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts dantipaladin</link><link>Pathfinder-RPG.Liste des sorts de bardes</link><link>Pathfinder-RPG.Liste des sorts de sanguin</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Races de la mer Intérieure (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.branche coercition</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Hypnotiseur</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Demi-orque</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Demi-orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Demi-orque.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;demi-orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Races de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Races/Races de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Coercition.html&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effet mental, peur&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;Antipal&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Bard&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;Hyp&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 3, &lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;San&lt;/a&gt; 2  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; 9 m&#232;tres  
+&lt;b&gt;Zone d&#39;effet&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#ZONEDEFFET&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;rayonnement&lt;/a&gt; en forme de c&#244;ne  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; instantan&#233;e  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Un nuage de brume verte r&#233;pugnante s&#39;&#233;chappe de la bouche du personnage et se rassemble autour des cr&#233;atures dans le c&#244;ne. Le personnage effectue un unique test d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; pour d&#233;moraliser dans le cadre de l&#39;incantation du sort, et compare le r&#233;sultat au &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#39;Intimidation de chaque adversaire dans la zone d&#39;effet. Il d&#233;moralise tous les adversaires dont il atteint ou d&#233;passe le DD.
+]]></body>
+  <raw><![CDATA[{s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:cs}{s:ISR}'''École''' [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, peur]]<nowiki>]</nowiki> ; '''Niveau''' [[Antipaladin|Antipal]] 2, [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Sanguin|San]] 2  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G]]  
+'''Portée''' 9 mètres  
+'''Zone d'effet''' [[Présentation des sorts#ZONEDEFFET|rayonnement]] en forme de cône  
+'''Durée''' instantanée  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Un nuage de brume verte répugnante s'échappe de la bouche du personnage et se rassemble autour des créatures dans le cône. Le personnage effectue un unique test d'[[Intimidation]] pour démoraliser dans le cadre de l'incantation du sort, et compare le résultat au [[DD]] d'Intimidation de chaque adversaire dans la zone d'effet. Il démoralise tous les adversaires dont il atteint ou dépasse le DD.]]></raw>
+  <fullName>Pathfinder-RPG.Terreur miasmatique</fullName>
+</wikiPage>

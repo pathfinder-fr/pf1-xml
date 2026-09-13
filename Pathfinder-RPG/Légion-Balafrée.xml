@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Légion balafrée</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don équipe</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2020-10-08 18:01:09Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.dons déquipe</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.Sergent orque</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.orque (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Orque (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;i&gt;Ses cicatrices rituelles font de l’orque une cr&#233;ature terrifiante. Les alli&#233;s qui pr&#233;sentent le m&#234;me genre de cicatrices voient leur courage renforc&#233; en sa pr&#233;sence.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONEQUIPE&quot; title=&quot;Les dons&quot;&gt;&#233;quipe&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; L’orque gagne un bonus de +2 aux tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;. Il gagne &#233;galement un bonus de moral de +2 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; lorsqu’il est &#224; c&#244;t&#233; d’un alli&#233; poss&#233;dant ce don. Quand il &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Charge.html&quot; title=&quot;charge&quot;&gt;charge&lt;/a&gt;, l’orque conserve son bonus de Volont&#233; jusqu’au d&#233;but de son prochain tour s’il a initi&#233; sa charge alors qu’il &#233;tait adjacent &#224; un alli&#233; poss&#233;dant ce don.
+]]></body>
+  <raw><![CDATA[{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:cm}''Ses cicatrices rituelles font de l’orque une créature terrifiante. Les alliés qui présentent le même genre de cicatrices voient leur courage renforcé en sa présence.''
+
+'''Catégorie.''' [[dons#DONEQUIPE|équipe]]
+
+'''Avantages.''' L’orque gagne un bonus de +2 aux tests d’[[Intimidation]]. Il gagne également un bonus de moral de +2 aux jets de [[Volonté]] lorsqu’il est à côté d’un allié possédant ce don. Quand il [[charge]], l’orque conserve son bonus de Volonté jusqu’au début de son prochain tour s’il a initié sa charge alors qu’il était adjacent à un allié possédant ce don.]]></raw>
+  <fullName>Pathfinder-RPG.Légion balafrée</fullName>
+</wikiPage>

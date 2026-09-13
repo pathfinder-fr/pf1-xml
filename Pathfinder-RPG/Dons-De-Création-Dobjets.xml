@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dons de création d'objets</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don création</category><category>Pathfinder-RPG.Liste de dons</category><category>Pathfinder-RPG.Règle officielle</category></categories>
+  <lastModified>2024-06-29 01:04:44Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Accueil Mythique</link><link>Pathfinder-RPG.Création dobjets magiques GC</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Dons dalignement</link><link>Pathfinder-RPG.Dons daudace et de panache</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.dons de création dobjets</link><link>Pathfinder-RPG.dons de critique</link><link>Pathfinder-RPG.Dons de maîtrise darme</link><link>Pathfinder-RPG.Dons de maîtrise darmure</link><link>Pathfinder-RPG.Dons de maîtrise de bouclier</link><link>Pathfinder-RPG.Dons de maîtrise dobjets</link><link>Pathfinder-RPG.dons de maléfice sanglant</link><link>Pathfinder-RPG.dons de métamagie</link><link>Pathfinder-RPG.dons de regard</link><link>Pathfinder-RPG.Dons de réussite</link><link>Pathfinder-RPG.dons de spectacle</link><link>Pathfinder-RPG.dons décole</link><link>Pathfinder-RPG.dons déquipe</link><link>Pathfinder-RPG.Dons dhistoire</link><link>Pathfinder-RPG.Dons ésotériques</link><link>Pathfinder-RPG.Éclaireur Savant</link><link>Pathfinder-RPG.Exploitations</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.MainPage2</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons mythiques</link><link>Pathfinder-RPG.Tableau récapitulatif des dons temporaire</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.FAQ- Manuel des joueurs (Dons et compétences)</link><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.Création de baguettes magiques</link><link>Pathfinder-RPG.Création de bâtons magiques</link><link>Pathfinder-RPG.Écriture de parchemins</link><link>Pathfinder-RPG.Préparation de potions</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Création dobjets magiques</link><link>Pathfinder-RPG.composante matérielle</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Objets maudits</link><link>Pathfinder-RPG.Création danneaux magiques</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Création de créatures artificielles</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Création de sceptres magiques</link><link>Pathfinder-RPG.Création de tatouages magiques</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons mythiques</link><link>Pathfinder-RPG.Dons daudace et de panache</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.dons de création dobjets</link><link>Pathfinder-RPG.dons de critique</link><link>Pathfinder-RPG.dons décole</link><link>Pathfinder-RPG.dons déquipe</link><link>Pathfinder-RPG.Dons de maîtrise darme</link><link>Pathfinder-RPG.Dons de maîtrise darmure</link><link>Pathfinder-RPG.Dons de maîtrise de bouclier</link><link>Pathfinder-RPG.Dons de maîtrise dobjets</link><link>Pathfinder-RPG.dons de maléfice sanglant</link><link>Pathfinder-RPG.dons de métamagie</link><link>Pathfinder-RPG.dons de regard</link><link>Pathfinder-RPG.Dons de réussite</link><link>Pathfinder-RPG.dons de spectacle</link><link>Pathfinder-RPG.Dons dalignement</link><link>Pathfinder-RPG.Dons dhistoire</link><link>Pathfinder-RPG.Dons ésotériques</link><link>Pathfinder-RPG.Dons</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  $(&quot;tr.donpr&#233;requis0, tr.donpr&#233;requis1, tr.donpr&#233;requis2&quot;).hide();
+  $(&quot;tr.donprincipal&quot;).bind(&quot;click&quot;, togglePrereq);
+  $(&quot;tr.donprincipal&quot;).each(addPrereqIconIfNeeded);
+});
+function togglePrereq() {
+    let node = $(this).next();
+    while (node.length &gt; 0 &amp;&amp; !node.hasClass(&quot;donprincipal&quot;)) {
+      node.toggle();
+      node = node.next();
+    }
+}
+function addPrereqIconIfNeeded() {
+	let next = $(this).next();
+	if (next.length &gt; 0 &amp;&amp; !next.hasClass(&quot;donprincipal&quot;)) {
+	  let icon = document.createElement(&quot;img&quot;);
+	  icon.src = &quot;/Forum/themes/v2/sort_down.gif&quot;
+	  icon.style = &quot;float:right;margin-top: 3px;&quot;;
+	  icon.title = &quot;Cliquez pour afficher les dons qui d&#233;coulent de celui-ci.&quot;;
+	  $(this).children(&quot;td&quot;).first().append($(icon));
+	}
+}
+&lt;/script&gt;&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Acc&#232;s rapide aux tableaux r&#233;capitulatifs des dons&lt;a class=&quot;headeranchor&quot; id=&quot;Acc&#232;s_rapide_aux_tableaux_r&#233;capitulatifs_des_dons_0&quot; href=&quot;#Acc&#232;s_rapide_aux_tableaux_r&#233;capitulatifs_des_dons_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;&lt;tr style=&quot;vertical-align: top; text-align: left&quot;&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Dons.html&quot; title=&quot;Tableau r&#233;capitulatif des dons&quot;&gt;Dons g&#233;n&#233;raux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Dons-Mythiques.html&quot; title=&quot;Dons mythiques&quot;&gt;Dons mythiques&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-Daudace-Et-De-Panache.html&quot; title=&quot;Dons d&amp;#39;audace et de panache&quot;&gt;Dons d&#39;audace et de panache&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Combat.html&quot; title=&quot;Dons de combat&quot;&gt;Dons de combat&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Cr&#233;ation-Dobjets.html&quot; title=&quot;Dons de cr&#233;ation d&amp;#39;objets&quot;&gt;Dons de cr&#233;ation d&#39;objets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Critique.html&quot; title=&quot;Dons de critique&quot;&gt;Dons de critique&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-D&#233;cole.html&quot; title=&quot;Dons d&amp;#39;&#233;cole&quot;&gt;Dons d&#39;&#233;cole&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-D&#233;quipe.html&quot; title=&quot;Dons d&amp;#39;&#233;quipe&quot;&gt;Dons d&#39;&#233;quipe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Ma&#238;trise-Darme.html&quot; title=&quot;Dons de ma&#238;trise d&amp;#39;arme&quot;&gt;Dons de ma&#238;trise d&#39;arme&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Ma&#238;trise-Darmure.html&quot; title=&quot;Dons de ma&#238;trise d&amp;#39;armure&quot;&gt;d&#39;armure&lt;/a&gt;,&lt;br /&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Ma&#238;trise-De-Bouclier.html&quot; title=&quot;Dons de ma&#238;trise de bouclier&quot;&gt;de bouclier&lt;/a&gt;, et &lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Ma&#238;trise-Dobjets.html&quot; title=&quot;Dons de ma&#238;trise d&amp;#39;objet&quot;&gt;d&#39;objet&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Mal&#233;fice-Sanglant.html&quot; title=&quot;Dons de mal&#233;fice sanglant&quot;&gt;Dons de mal&#233;fice sanglant&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-M&#233;tamagie.html&quot; title=&quot;Dons de m&#233;tamagie&quot;&gt;Dons de m&#233;tamagie&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Regard.html&quot; title=&quot;dons de regard&quot;&gt;Dons de regard&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-R&#233;ussite.html&quot; title=&quot;Dons de r&#233;ussite&quot;&gt;Dons de r&#233;ussite&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-De-Spectacle.html&quot; title=&quot;Dons de spectacle&quot;&gt;Dons de spectacle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-Dalignement.html&quot; title=&quot;Dons d&amp;#39;alignement&quot;&gt;Dons d&#39;alignement (PU)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-Dhistoire.html&quot; title=&quot;Dons d&amp;#39;histoire&quot;&gt;Dons d&#39;histoire (GC)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-&#201;sot&#233;riques.html&quot; title=&quot;Dons &#233;sot&#233;riques&quot;&gt;Dons &#233;sot&#233;riques (PU)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;
+    &lt;li&gt;R&#232;gles g&#233;n&#233;rales&lt;/li&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DESCRIPTION&quot; title=&quot;Les dons&quot;&gt;format&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#TYPES&quot; title=&quot;Les dons&quot;&gt;types de dons&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;float:right; padding-left: 6px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs-(Dons-Et-Comp&#233;tences).html#12&quot; title=&quot;FAQ du Manuel des joueurs, section dons et comp&#233;tences&quot;&gt;→&lt;/a&gt; Dons de cr&#233;ation d’objet : Avoir un niveau de lanceur de sort par un pouvoir magique remplit-il le pr&#233;requis de NLS des dons de cr&#233;ation d’objet ?&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Non. &lt;i&gt;(Retour &#224; la &lt;u&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCREATION&quot; title=&quot;Les dons&quot;&gt;r&#232;gle&lt;/a&gt;&lt;/u&gt;)&lt;/i&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:50px; cursor:pointer&quot; src=&quot;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&quot; title=&quot;Cliquez pour afficher/cacher une FAQ officielle relative &#224; ce texte&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqalt1.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/wiki/public/upload/Illustrations/Wiki/faqbase1.png&#39;;&quot; /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;Les dons de cr&#233;ation d’objets permettent au personnage de cr&#233;er des objets d’un type pr&#233;cis. Tous les dons de cette cat&#233;gorie poss&#232;dent des points communs, quel que soit le type d’objet concern&#233;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Co&#251;t des mati&#232;res premi&#232;res.&lt;/b&gt; Le co&#251;t de cr&#233;ation d’un objet magique &#233;quivaut &#224; la moiti&#233; du prix de base de l’objet.&lt;br /&gt;&lt;br /&gt;Pour pouvoir utiliser un don de cr&#233;ation d’objet, il faut avoir acc&#232;s &#224; un laboratoire ou &#224; un atelier de magie, aux ustensiles appropri&#233;s, etc. Le personnage poss&#232;de g&#233;n&#233;ralement tout ce dont il a besoin, sauf circonstances exceptionnelles.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Temps n&#233;cessaire.&lt;/b&gt; Le temps de cr&#233;ation d’un objet magique d&#233;pend du don concern&#233; et du co&#251;t de l’objet.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Co&#251;t de l’objet.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Baguettes-Magiques.html&quot; title=&quot;Cr&#233;ation de baguettes magiques&quot;&gt;Cr&#233;ation de baguettes magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-B&#226;tons-Magiques.html&quot; title=&quot;Cr&#233;ation de b&#226;tons magiques&quot;&gt;Cr&#233;ation de b&#226;tons magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;criture-De-Parchemins.html&quot; title=&quot;&#201;criture de parchemins&quot;&gt;&#201;criture de parchemins&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;paration-De-Potions.html&quot; title=&quot;Pr&#233;paration de potions&quot;&gt;Pr&#233;paration de potions&lt;/a&gt; permettent de fabriquer des objets qui reproduisent directement les effets d’un sort et dont la puissance d&#233;pend de leur &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt;. Donc, les sorts lanc&#233;s par ces objets ont la m&#234;me puissance que s’ils &#233;taient directement lanc&#233;s par un lanceur de sorts de ce niveau. Le prix de ces objets (et donc leur co&#251;t en mati&#232;res premi&#232;res) d&#233;pend lui aussi de leur &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt;. Le cr&#233;ateur doit avoir un niveau de lanceur de sorts suffisamment haut pour pouvoir jeter le sort correspondant sur son objet. Pour trouver le prix de base de l’objet, il suffit de multiplier le niveau du sort par le niveau de lanceur de sorts de l’objet et de multiplier le r&#233;sultat obtenu par une constante, comme suit :
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Parchemin&lt;/b&gt; : prix de base = niveau de sort x &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; x 25 po.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Potion&lt;/b&gt; : prix de base = niveau de sort x &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; x 50 po.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Baguette&lt;/b&gt; : prix de base = niveau de sort x &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; x 750 po.&lt;/li&gt;&lt;li&gt;&lt;b&gt;B&#226;tons&lt;/b&gt; : Le prix des b&#226;tons se calcule &#224; l’aide d’une formule plus complexe (voir &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Magiques.html#Cr&#233;ation de b&#226;tons magiques&quot; title=&quot;Cr&#233;ation d&amp;#39;objets magiques&quot;&gt;ici&lt;/a&gt;).&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Pour ce calcul, les sorts du niveau 0 comptent comme des sorts de niveau 1/2.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Co&#251;ts suppl&#233;mentaires.&lt;/b&gt; Les potions, parchemins et baguettes qui stockent un sort n&#233;cessitant une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantematerielle.html&quot; title=&quot;composante mat&#233;rielle&quot;&gt;composante mat&#233;rielle&lt;/a&gt; co&#251;teuse exigent une d&#233;pense suppl&#233;mentaire, hors du prix de base. Pour une potion ou un parchemin, le personnage doit payer le prix indiqu&#233; dans la description du sort en composantes mat&#233;rielles. Pour une baguette, il doit acquitter cinquante fois le prix exig&#233; par le sort. Certains objets s’accompagnent &#233;galement d’un co&#251;t suppl&#233;mentaire, indiqu&#233; dans leur description.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Test de comp&#233;tence.&lt;/b&gt; Pour cr&#233;er un objet magique, il faut r&#233;ussir un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 5 + &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; de l’objet. Le personnage peut &#233;galement utiliser une comp&#233;tence d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; adapt&#233;e &#224; l’objet qu’il fabrique. Consultez la section sur la &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation d&#39;objets magiques&lt;/a&gt; pour plus de d&#233;tails sur les tests d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; qui peuvent remplacer le test d’&lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du test peut augmenter si l’artisan est press&#233; ou s’il ne remplit pas toutes les conditions. En cas d’&#233;chec, les composantes mat&#233;rielles sont perdues, mais si le personnage &#233;choue de cinq ou plus, il produit un &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Maudits.html&quot; title=&quot;Les objets maudits&quot;&gt;objet maudit&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo toutgauche&quot;&gt;&lt;caption&gt;Tableau r&#233;capitulatif des dons de cr&#233;ation d&#39;objets&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td WIDTH=&quot;30%&quot;&gt;Dons&lt;/td&gt;&lt;td WIDTH=&quot;3%&quot;&gt;Src&lt;/td&gt;&lt;td WIDTH=&quot;27%&quot;&gt;Conditions&lt;/td&gt;&lt;td WIDTH=&quot;40%&quot;&gt;Avantages&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Danneaux-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;anneaux magiques&quot;&gt;Cr&#233;ation d&#39;anneaux magiques&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MJ&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 7&lt;/td&gt;&lt;td&gt;Cr&#233;ation d’anneaux magiques&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier alt donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d&#39;armes et armures magiques&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MJ&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5&lt;/td&gt;&lt;td&gt;Cr&#233;ation d’armures, de boucliers et d’armes magiques&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;donpr&#233;requis0&quot;&gt;&lt;td&gt;&amp;emsp;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;B1&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d&#39;armes et armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Baguettes-Magiques.html&quot; title=&quot;Cr&#233;ation de baguettes magiques&quot;&gt;Cr&#233;ation de baguettes magiques&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MJ&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5&lt;/td&gt;&lt;td&gt;Cr&#233;ation de baguettes magiques&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier alt donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-B&#226;tons-Magiques.html&quot; title=&quot;Cr&#233;ation de b&#226;tons magiques&quot;&gt;Cr&#233;ation de b&#226;tons magiques&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MJ&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 11&lt;/td&gt;&lt;td&gt;Cr&#233;ation de b&#226;tons magiques&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;B1&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d&#39;armes et armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier alt donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Sceptres-Magiques.html&quot; title=&quot;Cr&#233;ation de sceptres magiques&quot;&gt;Cr&#233;ation de sceptres magiques&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MJ&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 9&lt;/td&gt;&lt;td&gt;Cr&#233;ation de sceptres magiques&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Tatouages-Magiques.html&quot; title=&quot;Cr&#233;ation de tatouages magiques&quot;&gt;Cr&#233;ation de tatouages magiques&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MMI&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;5 rangs en &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (calligraphie, peinture, ou tatouage), &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5&lt;/td&gt;&lt;td&gt;Le personnage sait cr&#233;er des tatouages magiques&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier alt donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MJ&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 3&lt;/td&gt;&lt;td&gt;Cr&#233;ation d’objets magiques merveilleux&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;donpr&#233;requis0&quot;&gt;&lt;td&gt;&amp;emsp;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;ation de cr&#233;atures artificielles&quot;&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;B1&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d&#39;armes et armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Cr&#233;ation de cr&#233;atures artificielles&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;criture-De-Parchemins.html&quot; title=&quot;&#201;criture de parchemins&quot;&gt;&#201;criture de parchemins&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MJ&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 1&lt;/td&gt;&lt;td&gt;Cr&#233;ation de parchemins magiques&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier alt donprincipal&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;paration-De-Potions.html&quot; title=&quot;Pr&#233;paration de potions&quot;&gt;Pr&#233;paration de potions&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MJ&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 3&lt;/td&gt;&lt;td&gt;Cr&#233;ation de potions magiques&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+]]></body>
+  <raw><![CDATA[<script>
+$(function () {
+  $("tr.donprérequis0, tr.donprérequis1, tr.donprérequis2").hide();
+  $("tr.donprincipal").bind("click", togglePrereq);
+  $("tr.donprincipal").each(addPrereqIconIfNeeded);
+});
+
+function togglePrereq() {
+    let node = $(this).next();
+    while (node.length > 0 && !node.hasClass("donprincipal")) {
+      node.toggle();
+      node = node.next();
+    }
+}
+
+function addPrereqIconIfNeeded() {
+	let next = $(this).next();
+	if (next.length > 0 && !next.hasClass("donprincipal")) {
+	  let icon = document.createElement("img");
+	  icon.src = "/Forum/themes/v2/sort_down.gif"
+	  icon.style = "float:right;margin-top: 3px;";
+	  icon.title = "Cliquez pour afficher les dons qui découlent de celui-ci.";
+	  $(this).children("td").first().append($(icon));
+	}
+}
+</script>{s:MenuDons}{s:FAQ|'''''[[FAQ- Manuel des joueurs (Dons et compétences)#12|→]] Dons de création d’objet : Avoir un niveau de lanceur de sort par un pouvoir magique remplit-il le prérequis de NLS des dons de création d’objet ?'''''
+
+Non. ''(Retour à la __[[Dons#DONCREATION|règle]]__)''}Les dons de création d’objets permettent au personnage de créer des objets d’un type précis. Tous les dons de cette catégorie possèdent des points communs, quel que soit le type d’objet concerné.
+
+'''Coût des matières premières.''' Le coût de création d’un objet magique équivaut à la moitié du prix de base de l’objet.
+
+Pour pouvoir utiliser un don de création d’objet, il faut avoir accès à un laboratoire ou à un atelier de magie, aux ustensiles appropriés, etc. Le personnage possède généralement tout ce dont il a besoin, sauf circonstances exceptionnelles.
+
+'''Temps nécessaire.''' Le temps de création d’un objet magique dépend du don concerné et du coût de l’objet.
+
+'''Coût de l’objet.''' [[Création de baguettes magiques]], [[Création de bâtons magiques]], [[Écriture de parchemins]] et [[Préparation de potions]] permettent de fabriquer des objets qui reproduisent directement les effets d’un sort et dont la puissance dépend de leur [[NLS|niveau de lanceur de sorts]]. Donc, les sorts lancés par ces objets ont la même puissance que s’ils étaient directement lancés par un lanceur de sorts de ce niveau. Le prix de ces objets (et donc leur coût en matières premières) dépend lui aussi de leur [[NLS|niveau de lanceur de sorts]]. Le créateur doit avoir un niveau de lanceur de sorts suffisamment haut pour pouvoir jeter le sort correspondant sur son objet. Pour trouver le prix de base de l’objet, il suffit de multiplier le niveau du sort par le niveau de lanceur de sorts de l’objet et de multiplier le résultat obtenu par une constante, comme suit :
+* '''Parchemin''' : prix de base = niveau de sort x [[NLS]] x 25 po.
+* '''Potion''' : prix de base = niveau de sort x [[NLS]] x 50 po.
+* '''Baguette''' : prix de base = niveau de sort x [[NLS]] x 750 po.
+* '''Bâtons''' : Le prix des bâtons se calcule à l’aide d’une formule plus complexe (voir [[Création dobjets magiques#Création de bâtons magiques|ici]]).
+
+Pour ce calcul, les sorts du niveau 0 comptent comme des sorts de niveau 1/2.
+
+'''Coûts supplémentaires.''' Les potions, parchemins et baguettes qui stockent un sort nécessitant une [[composante matérielle]] coûteuse exigent une dépense supplémentaire, hors du prix de base. Pour une potion ou un parchemin, le personnage doit payer le prix indiqué dans la description du sort en composantes matérielles. Pour une baguette, il doit acquitter cinquante fois le prix exigé par le sort. Certains objets s’accompagnent également d’un coût supplémentaire, indiqué dans leur description.
+
+'''Test de compétence.''' Pour créer un objet magique, il faut réussir un test d’[[Art de la magie]] [[DD]] 5 + [[NLS|niveau de lanceur de sorts]] de l’objet. Le personnage peut également utiliser une compétence d’[[Artisanat]] ou de [[Profession]] adaptée à l’objet qu’il fabrique. Consultez la section sur la [[Création dobjets magiques|Création d'objets magiques]] pour plus de détails sur les tests d’[[Artisanat]] et de [[Profession]] qui peuvent remplacer le test d’[[Art de la magie]]. Le [[DD]] du test peut augmenter si l’artisan est pressé ou s’il ne remplit pas toutes les conditions. En cas d’échec, les composantes matérielles sont perdues, mais si le personnage échoue de cinq ou plus, il produit un [[objets maudits|objet maudit]].
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Tableau récapitulatif des dons de création d'objets
+|- CLASS="titre"
+| WIDTH="30%" | Dons
+| WIDTH="3%" | Src
+| WIDTH="27%" | Conditions
+| WIDTH="40%" | Avantages
+
+|- CLASS="premier donprincipal"
+| [[Création danneaux magiques|Création d'anneaux magiques]] || <sup>MJ</sup> || [[NLS]] 7 || Création d’anneaux magiques
+
+|- CLASS="premier alt donprincipal"
+| [[Création darmes et armures magiques|Création d'armes et armures magiques]] || <sup>MJ</sup> || [[NLS]] 5 || Création d’armures, de boucliers et d’armes magiques
+|- CLASS="donprérequis0"
+| &emsp;[[Création de créatures artificielles]] || <sup>B1</sup> || [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]] || Création de créatures artificielles
+
+|- CLASS="premier donprincipal"
+| [[Création de baguettes magiques]] || <sup>MJ</sup> || [[NLS]] 5 || Création de baguettes magiques
+
+|- CLASS="premier alt donprincipal"
+| [[Création de bâtons magiques]] || <sup>MJ</sup> || [[NLS]] 11 || Création de bâtons magiques
+
+|- CLASS="premier donprincipal"
+| [[Création de créatures artificielles]] || <sup>B1</sup> || [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]] || Création de créatures artificielles
+
+|- CLASS="premier alt donprincipal"
+| [[Création de sceptres magiques]] || <sup>MJ</sup> || [[NLS]] 9 || Création de sceptres magiques
+
+|- CLASS="premier donprincipal"
+| [[Création de tatouages magiques]] || <sup>MMI</sup> || 5 rangs en [[Artisanat]] (calligraphie, peinture, ou tatouage), [[NLS]] 5 || Le personnage sait créer des tatouages magiques
+
+|- CLASS="premier alt donprincipal"
+| [[Création dobjets merveilleux|Création d'objets merveilleux]] || <sup>MJ</sup> || [[NLS]] 3 || Création d’objets magiques merveilleux
+|- CLASS="donprérequis0"
+| &emsp;[[Création de créatures artificielles]] || <sup>B1</sup> || [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]] || Création de créatures artificielles
+
+|- CLASS="premier donprincipal"
+| [[Écriture de parchemins]] || <sup>MJ</sup> || [[NLS]] 1 || Création de parchemins magiques
+
+|- CLASS="premier alt donprincipal"
+| [[Préparation de potions]] || <sup>MJ</sup> || [[NLS]] 3 || Création de potions magiques
+|}
+</center>]]></raw>
+  <fullName>Pathfinder-RPG.dons de création dobjets</fullName>
+</wikiPage>

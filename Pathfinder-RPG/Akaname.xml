@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Akaname</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2024-03-24 15:14:29Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Distraction</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Pattes daraignée</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Akaname&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Aberration&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.15&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille P, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; , &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 13, contact 13, pris au d&#233;pourvu 11 (Dex +2, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 13 (2d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;&lt;/b&gt; maladie
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesse&lt;/b&gt; sensible &#224; la lumi&#232;re
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), escalade 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; langue, +4 (1d4+3 plus maladie et &lt;a class=&quot;pagelink&quot; href=&quot;Distraction-(Capacit&#233;).html&quot; title=&quot;Distraction&quot;&gt;distraction&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; distraction (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 15, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +2, &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (exploration souterraine) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6 ; &lt;b&gt;Modificteurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; expert en escalade
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; villes ou sous terre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou culte (3-6 plus 1 otyugh)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt; Maladie (Ext).&lt;/b&gt; &lt;i&gt;Fi&#232;vre des marais&lt;/i&gt; : Langue — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 13 ; &lt;i&gt;incubation&lt;/i&gt; 1d3 jours ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; effet affaiblissement temporaire 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt; et 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; ; gu&#233;rison 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du jet de sauvegarde est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Expert en escalade (Ext).&lt;/b&gt; Un akaname peut escalader tous types
+de surfaces, m&#234;me les plus glissantes ou les plus escarp&#233;es. Dans les faits, on consid&#232;re que les akanames sont constamment sous l’effet d’une version naturelle du sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Daraign&#233;e.html&quot; title=&quot;Pattes d&amp;#39;araign&#233;e&quot;&gt;pattes d’araign&#233;e&lt;/a&gt;&lt;/i&gt; avec une vitesse d’escalade de 9 m&#232;tres.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette petite cr&#233;ature filiforme a une peau verruqueuse brun-rouge et deux grands yeux noirs. Sa longue langue musculeuse tra&#238;ne par terre derri&#232;re lui.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les akanames, ou l&#232;che-crasses sont de grotesques cr&#233;atures qui vivent dans les &#233;gouts et les grottes froides et humides. Ils s’infiltrent sans bruit et de nuit dans les communaut&#233;s d’humano&#239;des, en qu&#234;te de leur nourriture favorite : la crasse qui s’accumule dans les maisons abandonn&#233;es ou non entretenues. Ils adorent tout particuli&#232;rement la crasse dans les baignoires et les latrines insalubres. Les akanames sont timides et &#233;vitent les humano&#239;des, mais ils n’appr&#233;cient pas qu’on vienne les d&#233;- ranger pendant leur repas. On en a d&#233;j&#224; vu certains agresser les individus qui se l&#232;vent en pleine nuit pour se soulager. La plupart des akanames sont des pilleurs de poubelles solitaires qui consid&#232;rent un unique village ou quartier de ville comme leur territoire. Les akanames se montrent religieuse- ment r&#233;v&#233;rencieux envers les otyughs et la pr&#233;sence de l’une de ces imposantes aberrations peut provoquer le rassemblement de plusieurs akanames au m&#234;me endroit. Lors de leurs repas nocturnes, les z&#233;l&#233;s akanames mettent en commun les d&#233;chets r&#233;cup&#233;r&#233;s qu’ils ram&#232;nent et donnent en offrande &#224; leur otyugh. En plus d’&#234;tre l’objet de leur v&#233;n&#233;ration, l’otyugh permet &#233;galement de prot&#233;ger leur antre commun.&lt;br /&gt;&lt;br /&gt;Les akanames ressemblent &#224; des gobelins &#224; la peau verru- queuse brun-rouge et aux cheveux gras souvent noirs et &#233;pars. Leurs doigts de main et de pied sont aussi larges que ceux d’un l&#233;zard gecko ; ils peuvent donc s’accrocher sur presque n’importe quel type de surfaces. Leurs articulations peuvent prendre des angles multiples, ce qui leur permet de se faufiler au travers d’&#233;troits interstices. Les akanames font presque 1 m&#232;tre de haut lorsqu’ils se tiennent debout, mais ils se d&#233;placent le plus souvent &#224; quatre pattes.&lt;br /&gt;&lt;br /&gt;La langue grotesque des akanames est leur caract&#233;ristique la plus remarquable. Elle est presque aussi grande qu’eux. Les akanames la laissent tra&#238;ner par terre pour l&#233;cher la crasse, mais ils peuvent &#233;galement l’utiliser pour manipuler des objets ou pour matraquer leurs adversaires. La crasse l&#233;ch&#233;e par un akaname s’accumule dans les plis et les rainures de sa langue qui devient une un vecteur de maladie des plus efficaces.
+La taille de quelques rares akanames atteint celle des hu- mains. Ces cr&#233;atures obtiennent l’arch&#233;type simple de cr&#233;ature g&#233;ante et leur attaque de langue a une allonge de 3 m&#232;tres.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Akaname|FP 1}
+{s:pucem|Aberration|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire 5 p.15''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[type Aberration|Aberration]] de taille P, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' , [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 13, contact 13, pris au dépourvu 11 (Dex +2, taille +1)}
+{s:BDTexte|'''pv''' 13 (2d8+4)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +2, '''Vol''' +4}
+{s:BDTexte|'''Immunité''' maladie}
+{s:BDTexte|'''Faiblesse''' sensible à la lumière}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c}), escalade 9 m}
+{s:BDTexte|'''Corps à corps''' langue, +4 (1d4+3 plus maladie et [[distraction]])}
+{s:BDTexte|'''Attaques spéciales''' distraction (DD 13)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 15, '''Dex''' 15, '''Con''' 15, '''Int''' 10, '''Sag''' 12, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +2, '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (exploration souterraine) +5, [[Discrétion]] +11, [[Escalade]] +10, [[Évasion]] +11, [[Perception]] +6 ; '''Modificteurs raciaux''' +4 en [[Évasion]]}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' expert en escalade}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' villes ou sous terre}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple ou culte (3-6 plus 1 otyugh)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|''' Maladie (Ext).''' ''Fièvre des marais'' : Langue — blessure ; ''JdS'' [[Vigueur]] [[DD]] 13 ; ''incubation'' 1d3 jours ; ''fréquence'' 1/jour ; effet affaiblissement temporaire 1d3 [[Dextérité|Dex]] et 1d3 [[Constitution|Con]] ; guérison 2 réussites consécutives. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
+{s:BDTexte|'''Expert en escalade (Ext).''' Un akaname peut escalader tous types
+de surfaces, même les plus glissantes ou les plus escarpées. Dans les faits, on considère que les akanames sont constamment sous l’effet d’une version naturelle du sort de ''[[pattes daraignée|pattes d’araignée]]'' avec une vitesse d’escalade de 9 mètres.}
+</div>
+</td><td><div>''Cette petite créature filiforme a une peau verruqueuse brun-rouge et deux grands yeux noirs. Sa longue langue musculeuse traîne par terre derrière lui.''
+
+Les akanames, ou lèche-crasses sont de grotesques créatures qui vivent dans les égouts et les grottes froides et humides. Ils s’infiltrent sans bruit et de nuit dans les communautés d’humanoïdes, en quête de leur nourriture favorite : la crasse qui s’accumule dans les maisons abandonnées ou non entretenues. Ils adorent tout particulièrement la crasse dans les baignoires et les latrines insalubres. Les akanames sont timides et évitent les humanoïdes, mais ils n’apprécient pas qu’on vienne les dé- ranger pendant leur repas. On en a déjà vu certains agresser les individus qui se lèvent en pleine nuit pour se soulager. La plupart des akanames sont des pilleurs de poubelles solitaires qui considèrent un unique village ou quartier de ville comme leur territoire. Les akanames se montrent religieuse- ment révérencieux envers les otyughs et la présence de l’une de ces imposantes aberrations peut provoquer le rassemblement de plusieurs akanames au même endroit. Lors de leurs repas nocturnes, les zélés akanames mettent en commun les déchets récupérés qu’ils ramènent et donnent en offrande à leur otyugh. En plus d’être l’objet de leur vénération, l’otyugh permet également de protéger leur antre commun.
+
+Les akanames ressemblent à des gobelins à la peau verru- queuse brun-rouge et aux cheveux gras souvent noirs et épars. Leurs doigts de main et de pied sont aussi larges que ceux d’un lézard gecko ; ils peuvent donc s’accrocher sur presque n’importe quel type de surfaces. Leurs articulations peuvent prendre des angles multiples, ce qui leur permet de se faufiler au travers d’étroits interstices. Les akanames font presque 1 mètre de haut lorsqu’ils se tiennent debout, mais ils se déplacent le plus souvent à quatre pattes.
+
+La langue grotesque des akanames est leur caractéristique la plus remarquable. Elle est presque aussi grande qu’eux. Les akanames la laissent traîner par terre pour lécher la crasse, mais ils peuvent également l’utiliser pour manipuler des objets ou pour matraquer leurs adversaires. La crasse léchée par un akaname s’accumule dans les plis et les rainures de sa langue qui devient une un vecteur de maladie des plus efficaces.
+La taille de quelques rares akanames atteint celle des hu- mains. Ces créatures obtiennent l’archétype simple de créature géante et leur attaque de langue a une allonge de 3 mètres.
+</div></td></tr></table>
+]]></raw>
+  <fullName>Pathfinder-RPG.Akaname</fullName>
+</wikiPage>

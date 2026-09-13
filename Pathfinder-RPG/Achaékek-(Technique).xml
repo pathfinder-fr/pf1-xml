@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Achaékek</title>
+  <categories><category>Pathfinder-RPG.Divinité</category></categories>
+  <lastModified>2023-09-07 16:10:42Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Armure du harceleur rouge</link><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Dons de combat</link><link>Pathfinder-RPG.Sabre de sang bouillant</link><link>Pathfinder-RPG.Sabres sanglants</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Traits religieux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.sabre dentelé (arme)</link><link>Pathfinder-RPG.Domaine de la Duperie</link><link>Pathfinder-RPG.Domaine de la Guerre</link><link>Pathfinder-RPG.Domaine de la Loi</link><link>Pathfinder-RPG.Domaine du Mal</link><link>Pathfinder-RPG.Domaine de la Mort</link><link>Pathfinder-RPG.Domaine de la Faune</link><link>Pathfinder-RPG.Inquisitions</link><link>Pathfinder-RPG.Calistria (technique)</link><link>Pathfinder-RPG.Norgorber (technique)</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Ordre assassin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Négation de larôme</link><link>Pathfinder-RPG.Pattes daraignée</link><link>Pathfinder-RPG.Sens surdéveloppés</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fAchaekek.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;%2fPCUP%2fReligion-PNG%2fAchaekek.png&lt;/i&gt;&quot;); }
+  let align = &quot;Loyal Mauvais&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Acha&#233;kek,&lt;br/&gt;Celui qui marche dans le sang&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fAchaekek.png&quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#AUTRES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Autres divinit&#233;s&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Loyal Mauvais&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Assassinats et punition divine
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Assassins, Mantes rouges&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Mante &#233;carlate
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sabre-Dentel&#233;-(Arme).html&quot; title=&quot;Sabre dentel&#233;&quot;&gt;Sabre dentel&#233;&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Duperie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Loi.html&quot; title=&quot;Domaine de la Loi&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Mort.html&quot; title=&quot;Domaine de la Mort&quot;&gt;Mort&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Loi.html&quot; title=&quot;Domaine de la Loi&quot;&gt;Diables (Loi)&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Diables (Mal)&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Faune.html&quot; title=&quot;Domaine de la Faune&quot;&gt;Insectes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Mort.html&quot; title=&quot;Domaine de la Mort&quot;&gt;Meurtre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Sang&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Supercherie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Tactique&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Voleurs&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html#CLANDESTINITE&quot; title=&quot;Les inquisitions d&amp;#39;inquisiteur&quot;&gt;Clandestinit&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Inquisitions.html#EXECUTION&quot; title=&quot;Les inquisitions d&amp;#39;inquisiteur&quot;&gt;Ex&#233;cution&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;pagelink&quot; href=&quot;../Golarion/Acha&#233;kek.html&quot; title=&quot;Acha&#233;kek, l&amp;#39;Assassin Divin&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;Acha&#233;kek est le dieu des assassins, et le dieu patron des assassins des Mantes Rouges bas&#233;s sur l&#39;&#238;le de M&#233;diogalti. Acha&#233;kek occupe une position interm&#233;diaire entre &lt;a class=&quot;pagelink&quot; href=&quot;Calistria-(Technique).html&quot; title=&quot;Calistria&quot;&gt;Calistria&lt;/a&gt;, la d&#233;esse de la vengeance, mais pas n&#233;cessairement du meurtre, et &lt;a class=&quot;pagelink&quot; href=&quot;Norgorber-(Technique).html&quot; title=&quot;Norgorber&quot;&gt;Norgorber&lt;/a&gt; qui est le dieu de tous les meurtres, qu&#39;ils soient pay&#233;s ou non. Son symbole est une paire de griffes de mante repr&#233;sent&#233;e en pri&#232;re.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles uniques aux suivants&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_uniques_aux_suivants_0&quot; href=&quot;#R&#232;gles_uniques_aux_suivants_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;druide&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ordre-Assassin.html&quot; title=&quot;Ordre assassin&quot;&gt;Ordre assassin&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 1er niveau.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;pr&#234;tre combattant&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;N&#233;gation-De-Lar&#244;me.html&quot; title=&quot;N&#233;gation de l&amp;#39;ar&#244;me&quot;&gt;N&#233;gation de l&#39;ar&#244;me&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 1er niveau.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pattes-Daraign&#233;e.html&quot; title=&quot;Pattes d&amp;#39;araign&#233;e&quot;&gt;Pattes d&#39;araign&#233;e&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 2e niveau.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sens-Surd&#233;velopp&#233;s.html&quot; title=&quot;Sens surd&#233;velopp&#233;s&quot;&gt;Sens surd&#233;velopp&#233;s&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 1er niveau.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Options de personnage th&#233;matiques&lt;a class=&quot;headeranchor&quot; id=&quot;Options_de_personnage_th&#233;matiques_1&quot; href=&quot;#Options_de_personnage_th&#233;matiques_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;i&gt;&#192; VENIR&lt;/i&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Achaékek|Achaékek,<br/>Celui qui marche dans le sang|%2fPCUP%2fReligion-PNG%2fAchaekek.png|[[Divinités#AUTRES|Autres divinités]]
+|Loyal Mauvais|Assassinats et punition divine
+|Assassins, Mantes rouges|Mante écarlate
+|[[Sabre dentelé (arme)|Sabre dentelé]]
+|[[Domaine de la Duperie|Duperie]], [[Domaine de la Guerre|Guerre]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]]
+|[[Domaine de la Loi|Diables (Loi)]], [[Domaine du Mal|Diables (Mal)]], [[Domaine de la Faune|Insectes]], [[Domaine de la Mort|Meurtre]], [[Domaine de la Guerre|Sang]], [[Domaine de la Duperie|Supercherie]], [[Domaine de la Guerre|Tactique]], [[Domaine de la Duperie|Voleurs]]
+|[[Inquisitions#CLANDESTINITE|Clandestinité]], [[Inquisitions#EXECUTION|Exécution]]}{s:cs}{s:ISG}Achaékek est le dieu des assassins, et le dieu patron des assassins des Mantes Rouges basés sur l'île de Médiogalti. Achaékek occupe une position intermédiaire entre [[Calistria (technique)|Calistria]], la déesse de la vengeance, mais pas nécessairement du meurtre, et [[Norgorber (technique)|Norgorber]] qui est le dieu de tous les meurtres, qu'ils soient payés ou non. Son symbole est une paire de griffes de mante représentée en prière.
+
+===Règles uniques aux suivants===
+'''Lancement de sorts ([[druide]]).'''  
+• ''[[Ordre assassin]]'' peut être préparé comme un sort de 1er niveau.
+
+'''Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).'''  
+• ''[[Négation de larôme|Négation de l'arôme]]'' peut être préparé comme un sort de 1er niveau.  
+• ''[[Pattes daraignée|Pattes d'araignée]]'' peut être préparé comme un sort de 2e niveau.  
+• ''[[Sens surdéveloppés]]'' peut être préparé comme un sort de 1er niveau.
+
+===Options de personnage thématiques===
+''À VENIR'']]></raw>
+  <fullName>Pathfinder-RPG.Achaékek (technique)</fullName>
+</wikiPage>

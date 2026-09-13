@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Châle d’écume de mer</title>
+  <categories></categories>
+  <lastModified>2024-06-01 16:30:48Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Armes et équipement (Contenu)</link><link>Pathfinder-RPG.Détermination aléatoire des objets merveilleux</link><link>Pathfinder-RPG.homme-poisson (race)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Objets merveilleux portés sur les épaules</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux portés sur les épaules</link><link>Pathfinder-RPG.Petite sirène</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.homme-poisson (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Homme-poisson.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Homme-poisson (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Homme-poisson.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Poisson-(Race).html&quot; title=&quot;Les hommes-poissons&quot;&gt;h-poissons&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Cet objet est apparu dans le &lt;a class=&quot;pagelink&quot; href=&quot;Manuel-Des-Races-(Contenu).html&quot; title=&quot;Manuel des races (Contenu)&quot;&gt;Manuel des races&lt;/a&gt; sous le nom &quot;Ch&#226;le d&#39;&#233;cume&quot;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ch&#226;le d’&#233;cume de mer&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Sur-Les-&#201;paules.html&quot; title=&quot;Objets merveilleux port&#233;s sur les &#233;paules&quot;&gt;&#233;paules&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 6.000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Le personnage peut activer la fine dentelle de ce ch&#226;le une fois par jour pour gagner les avantages du sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Petite-Sir&#232;ne.html&quot; title=&quot;Petite sir&#232;ne&quot;&gt;petite sir&#232;ne&lt;/a&gt;&lt;/i&gt;, ce qui transforme ses nageoires ou ses membres inf&#233;rieurs en pieds &#224; chaque fois qu’il s’aventure sur la terre ferme. S’il n’est pas pr&#233;alablement annul&#233;, cet effet dure 5 heures. 
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d’objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Petite-Sir&#232;ne.html&quot; title=&quot;Petite sir&#232;ne&quot;&gt;petite sir&#232;ne&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 3.000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Homme-poisson (race)|h-poissons|Illustrations/PNJ/Homme-poisson.jpg}{s:Desambi|Cet objet est apparu dans le [[Manuel des races (Contenu)|Manuel des races]] sous le nom "Châle d'écume".}<div class="BD">
+{s:BDTitre|Châle d’écume de mer|{s:MR}{s:AE}}
+'''Aura''' [[Transmutation]] faible ; '''NLS''' 5 ; '''Emplacement''' [[Objets merveilleux portés sur les épaules|épaules]] ; '''Prix''' 6.000 po ; '''Poids''' 0,5 kg
+(((Description)))
+Le personnage peut activer la fine dentelle de ce châle une fois par jour pour gagner les avantages du sort ''[[petite sirène]]'', ce qui transforme ses nageoires ou ses membres inférieurs en pieds à chaque fois qu’il s’aventure sur la terre ferme. S’il n’est pas préalablement annulé, cet effet dure 5 heures. 
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d’objets merveilleux]], ''[[petite sirène]]'' ; '''Coût''' 3.000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Châle dÉcume de Mer</fullName>
+</wikiPage>

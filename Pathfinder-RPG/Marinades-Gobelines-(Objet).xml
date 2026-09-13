@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Marinades gobelines (1 bocal)</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-22 17:09:11Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Nourriture et Boissons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nourriture et Boissons</link><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.MJ</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.Gobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 4 pa ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Nourriture-Et-Boissons.html&quot; title=&quot;Nourriture et Boissons&quot;&gt;Nourriture et boissons&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt; font mariner tout ce qu’ils trouvent et les marinades peuvent &#234;tre compos&#233;es d’&#224; peu pr&#232;s n’importe quoi. Leur seul point commun r&#233;side dans le fait qu’elles sont presque toutes comestibles. &#192; la discr&#233;tion du &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Maitredujeu.html&quot; title=&quot;MJ&quot;&gt;MJ&lt;/a&gt;, un individu non-gobelin qui mange une marinade gobeline doit effectuer un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 10 pour &#233;viter d’&#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Fi&#233;vreux.html&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreux&lt;/a&gt; pendant 1 heure. Un bocal de marinades gobelines suffit pour nourrir un gobelin pendant une journ&#233;e.
+]]></body>
+  <raw><![CDATA[{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}'''Prix''' 4 pa ; '''Poids''' 0,5 kg  
+<span class="Catégorie">'''Catégorie''' [[Nourriture et boissons]]</span>
+<hr>
+Les [[Gobelin (race)|gobelins]] font mariner tout ce qu’ils trouvent et les marinades peuvent être composées d’à peu près n’importe quoi. Leur seul point commun réside dans le fait qu’elles sont presque toutes comestibles. À la discrétion du [[MJ]], un individu non-gobelin qui mange une marinade gobeline doit effectuer un [[jds|jet de sauvegarde]] de [[Vigueur]] [[DD]] 10 pour éviter d’être [[fiévreux]] pendant 1 heure. Un bocal de marinades gobelines suffit pour nourrir un gobelin pendant une journée.]]></raw>
+  <fullName>Pathfinder-RPG.Marinades gobelines (objet)</fullName>
+</wikiPage>

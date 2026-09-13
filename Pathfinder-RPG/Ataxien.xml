@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ataxien</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-08-14 17:53:38Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Bien</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.Perception aveugle (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Regain dassurance</link><link>Pathfinder-RPG.Choisis ton poison</link><link>Pathfinder-RPG.Confusion mineure</link><link>Pathfinder-RPG.Création deau</link><link>Pathfinder-RPG.Endurance de lours</link><link>Pathfinder-RPG.Fou rire</link><link>Pathfinder-RPG.Sommeil</link><link>Pathfinder-RPG.Déblocage</link><link>Pathfinder-RPG.Possession</link><link>Pathfinder-RPG.Rayon de fièvre</link><link>Pathfinder-RPG.Magie de guerre</link><link>Pathfinder-RPG.Manœuvres agiles</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Chancelant</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.facteur de portée</link><link>Pathfinder-RPG.Cayden Cailéan (technique)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ataxien&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Dieux-De-La-Mer-Int&#233;rieure-(Contenu).html&quot; title=&quot;Dieux de la mer Int&#233;rieure (Contenu)&quot;&gt;Dieux de la mer Int&#233;rieure p.283&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille TP, CB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;Perception aveugle (Ext)&quot;&gt;perception aveugle&lt;/a&gt; &#224; 9 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 13, pris au d&#233;pourvu 15 (Dex +1, naturelle +3, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d10+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; peur, poison ; &lt;b&gt;RD&lt;/b&gt; 5/Loi ou Mal ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 5, feu 5, froid 5 ; &lt;b&gt;RM&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 12 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +3 (1d2–3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; &lt;i&gt;rayon&lt;/i&gt;, +7 (1d6 froid plus chancelant)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 0,75 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; possession
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 4 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Regain-Dassurance.html&quot; title=&quot;Regain d&amp;#39;assurance&quot;&gt;regain d&#39;assurance&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Choisis-Ton-Poison.html&quot; title=&quot;Choisis ton poison&quot;&gt;choisis ton poison&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Confusion-Mineure.html&quot; title=&quot;Confusion mineure&quot;&gt;confusion mineure&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Deau.html&quot; title=&quot;Cr&#233;ation d&amp;#39;eau&quot;&gt;cr&#233;ation d&#39;eau&lt;/a&gt;&lt;/i&gt; (bi&#232;re ou vin, jusqu&#39;&#224; 4 tasses), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-De-Lours.html&quot; title=&quot;Endurance de l&amp;#39;ours&quot;&gt;endurance de l&#39;ours&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fou-Rire.html&quot; title=&quot;Fou rire&quot;&gt;fou rire&lt;/a&gt;&lt;/i&gt; (DD 13), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sommeil.html&quot; title=&quot;Sommeil&quot;&gt;sommeil&lt;/a&gt;&lt;/i&gt; (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;blocage.html&quot; title=&quot;D&#233;blocage&quot;&gt;d&#233;blocage&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Possession.html&quot; title=&quot;Possession&quot;&gt;possession&lt;/a&gt;&lt;/i&gt; (cible consentante uniquement, dure 1 heure, voir possession), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Fi&#232;vre.html&quot; title=&quot;Rayon de fi&#232;vre&quot;&gt;rayon de fi&#232;vre&lt;/a&gt;&lt;/i&gt; (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 5, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4 ; &lt;b&gt;BMO&lt;/b&gt; +3 ; &lt;b&gt;DMD&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Magie-De-Guerre.html&quot; title=&quot;Magie de guerre&quot;&gt;Magie de guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Agiles.html&quot; title=&quot;Manœuvres agiles&quot;&gt;Manœuvres agiles&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +7, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; c&#233;leste, commun, elfe, halfelin, nain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; ivresse du titubant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (&#201;lys&#233;e)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple, ou rixe (3–5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Chancelant (Ext).&lt;/b&gt; Tout cr&#233;ature touch&#233;e par l&#39;attaque de rayon d&#39;un ataxien doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 14 ou devenir &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Chancelant.html&quot; title=&quot;Chancelant&quot;&gt;chancelante&lt;/a&gt; pendant 1d4 rounds. Il s&#39;agit d&#39;un effet de poison. Le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ivresse du titubant (Ext).&lt;/b&gt; Pour chaque boisson alcoolis&#233;e qu&#39;un ataxien a consomm&#233; dans l&#39;heure, il b&#233;n&#233;ficie d&#39;un bonus d&#39;esquive de +1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; ainsi que d&#39;un malus de -1 &#224; tous ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt;, ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt;, ses tests de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;comp&#233;tence&lt;/a&gt; et ses tests de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;caract&#233;ristique&lt;/a&gt;, jusqu&#39;&#224; un maximum de +4 et -4 respectivement. Ces effets disparaissent au bout d&#39;une heure.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Possession (Sur).&lt;/b&gt; Un ataxien n&#39;a pas besoin de r&#233;ceptacle pour utiliser son pouvoir magique &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Possession.html&quot; title=&quot;Possession&quot;&gt;possession&lt;/a&gt;&lt;/i&gt;. Lorsqu&#39;il utilise ce pouvoir sur le plan Mat&#233;riel, son corps devient &#233;th&#233;r&#233; pendant toute sa dur&#233;e. Lorsque l&#39;ataxien qui son h&#244;te, ce dernier doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 14 ou s&#39;endormir pendant 1d3 minutes. Le DD du jet de sauvegarde est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Rayon (Sur).&lt;/b&gt; Un ataxien peut projeter un rayon de froid &#224; 9 m&#232;tres ou moins sans &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Facteurdeportee.html&quot; title=&quot;facteur de port&#233;e&quot;&gt;facteur de port&#233;e&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature similaire &#224; un sprite ressemble &#224; un humano&#239;de de la taille d&#39;un chat, &#224; la peau ambr&#233;e, entour&#233;e d&#39;une aura de petites bulles.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Un ataxien est un serviteur de &lt;a class=&quot;pagelink&quot; href=&quot;Cayden-Cail&#233;an-(Technique).html&quot; title=&quot;Cayden Cail&#233;an&quot;&gt;Cayden Cail&#233;an&lt;/a&gt; chahuteur, turbulent et bon enfant. Il a l&#39;instinct de trouver des tavernes, que ce soit dans une ville surpeupl&#233;e ou dans une ferme rurale. Lorsqu&#39;il trouve ces d&#233;bits de boisson, il est toujours capable de trouver des gens pr&#234;ts &#224; lui offrir &#224; boire. L&#39;ataxien incarne tous les st&#233;r&#233;otypes positifs de l&#39;ivrogne heureux et amusant.&lt;br /&gt;&lt;br /&gt;Courageux malgr&#233; son petit corps fr&#234;le, l&#39;ataxien est toujours pr&#234;t &#224; d&#233;fendre l&#39;opprim&#233;, et il n&#39;a pas peur de donner le premier coup de poing &#224; une brute. Cependant, un ataxien pr&#233;f&#232;re de loin utiliser sa magie pour ridiculiser les voyous ou, mieux encore, transformer ses adversaires potentiels en compagnons de beuverie.&lt;br /&gt;&lt;br /&gt;Les ataxiens adorent poss&#233;der des adorateurs du H&#233;ros ivre et faire l&#39;exp&#233;rience de la vie dans un corps &#171; &#233;norme &#187;, et ils saisissent l&#39;occasion d&#232;s qu&#39;ils le peuvent. De nombreux r&#233;cits relatant la victoire d&#39;un paysan ivre sur une bande de voyous peuvent &#234;tre attribu&#233;s &#224; l&#39;intervention inattendue de l&#39;un de ces serviteurs. Les ataxiens aiment chanter des chansons paillardes, s&#39;amuser avec des gens simples et r&#233;pandre la bonne humeur.&lt;br /&gt;&lt;br /&gt;Les ataxiens mesurent g&#233;n&#233;ralement 75 cm et p&#232;sent environ 2 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ataxien|FP 4}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|''Source : [[Dieux de la mer Intérieure (Contenu)|Dieux de la mer Intérieure p.283]]''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille TP, CB}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Perception aveugle (capacité)|perception aveugle]] à 9 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 13, pris au dépourvu 15 (Dex +1, naturelle +3, taille +2)}
+{s:BDTexte|'''pv''' 30 (4d10+8)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +6, '''Vol''' +5}
+{s:BDTexte|'''Immunités''' peur, poison ; '''RD''' 5/Loi ou Mal ; '''Résistances''' acide 5, feu 5, froid 5 ; '''RM''' 15}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m, [[Vol (capacité)|vol]] 12 m (bonne)}
+{s:BDTexte|'''Corps à corps''' 2 coups, +3 (1d2–3)}
+{s:BDTexte|'''Distance''' ''rayon'', +7 (1d6 froid plus chancelant)}
+{s:BDTexte|'''Espace occupé''' 0,75 m ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' possession}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 4 ; [[concentration]] +6)}
+{s:BDSorts|À volonté — ''[[regain dassurance|regain d'assurance]]''}
+{s:BDSorts|3/jour — ''[[choisis ton poison]]'', ''[[confusion mineure]]'' (DD 13), ''[[création deau|création d'eau]]'' (bière ou vin, jusqu'à 4 tasses), ''[[endurance de lours|endurance de l'ours]]'', ''[[fou rire]]'' (DD 13), ''[[sommeil]]'' (DD 13)}
+{s:BDSorts|1/jour — ''[[déblocage]]'', ''[[possession]]'' (cible consentante uniquement, dure 1 heure, voir possession), ''[[rayon de fièvre]]'' (DD 13)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 5, '''Dex''' 12, '''Con''' 15, '''Int''' 10, '''Sag''' 13, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +4 ; '''BMO''' +3 ; '''DMD''' 14}
+{s:BDTexte|'''Dons''' [[Magie de guerre]], [[Manœuvres agiles]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +8, [[Connaissances]] (folklore local) +7, [[Connaissances]] (religion) +7, [[Discrétion]] +16, [[Dressage]] +9, [[Perception]] +8, [[Vol]] +9}
+{s:BDTexte|'''Langues''' céleste, commun, elfe, halfelin, nain}
+{s:BDTexte|'''Particularités''' ivresse du titubant}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Élysée)}
+{s:BDTexte|'''Organisation''' solitaire, couple, ou rixe (3–5)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Chancelant (Ext).''' Tout créature touchée par l'attaque de rayon d'un ataxien doit réussir un jet de [[Vigueur]] DD 14 ou devenir [[chancelant|chancelante]] pendant 1d4 rounds. Il s'agit d'un effet de poison. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Ivresse du titubant (Ext).''' Pour chaque boisson alcoolisée qu'un ataxien a consommé dans l'heure, il bénéficie d'un bonus d'esquive de +1 à la [[CA]] ainsi que d'un malus de -1 à tous ses [[jet dattaque|jets d'attaque]], ses [[jds|jets de sauvegarde]], ses tests de [[Compétences|compétence]] et ses tests de [[Caractéristiques|caractéristique]], jusqu'à un maximum de +4 et -4 respectivement. Ces effets disparaissent au bout d'une heure.}
+{s:BDTexte|'''Possession (Sur).''' Un ataxien n'a pas besoin de réceptacle pour utiliser son pouvoir magique ''[[possession]]''. Lorsqu'il utilise ce pouvoir sur le plan Matériel, son corps devient éthéré pendant toute sa durée. Lorsque l'ataxien qui son hôte, ce dernier doit réussir un jet de [[Volonté]] DD 14 ou s'endormir pendant 1d3 minutes. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Rayon (Sur).''' Un ataxien peut projeter un rayon de froid à 9 mètres ou moins sans [[facteur de portée]].}
+</div>
+</td><td><div>''Cette créature similaire à un sprite ressemble à un humanoïde de la taille d'un chat, à la peau ambrée, entourée d'une aura de petites bulles.''
+
+Un ataxien est un serviteur de [[Cayden Cailéan (technique)|Cayden Cailéan]] chahuteur, turbulent et bon enfant. Il a l'instinct de trouver des tavernes, que ce soit dans une ville surpeuplée ou dans une ferme rurale. Lorsqu'il trouve ces débits de boisson, il est toujours capable de trouver des gens prêts à lui offrir à boire. L'ataxien incarne tous les stéréotypes positifs de l'ivrogne heureux et amusant.
+
+Courageux malgré son petit corps frêle, l'ataxien est toujours prêt à défendre l'opprimé, et il n'a pas peur de donner le premier coup de poing à une brute. Cependant, un ataxien préfère de loin utiliser sa magie pour ridiculiser les voyous ou, mieux encore, transformer ses adversaires potentiels en compagnons de beuverie.
+
+Les ataxiens adorent posséder des adorateurs du Héros ivre et faire l'expérience de la vie dans un corps « énorme », et ils saisissent l'occasion dès qu'ils le peuvent. De nombreux récits relatant la victoire d'un paysan ivre sur une bande de voyous peuvent être attribués à l'intervention inattendue de l'un de ces serviteurs. Les ataxiens aiment chanter des chansons paillardes, s'amuser avec des gens simples et répandre la bonne humeur.
+
+Les ataxiens mesurent généralement 75 cm et pèsent environ 2 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ataxien</fullName>
+</wikiPage>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Éventail de plumes noires</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2024-06-15 15:31:07Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Tengu (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Vent de murmures</link><link>Pathfinder-RPG.Mur de vent</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Tengu (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Tengu.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Tengu (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Tengu.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Tengu-(Race).html&quot; title=&quot;Les tengus&quot;&gt;tengus&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;ventail de plumes noires&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Evocation.html&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 10 000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cet &#233;ventail ouvrag&#233; se compose d’une douzaine de plumes noires fix&#233;es dans un manche de m&#233;tal grav&#233; d’une cr&#234;te stylis&#233;e en relief. Le porteur peut l’utiliser pour cr&#233;er une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt;, un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vent-De-Murmures.html&quot; title=&quot;Vent de murmures&quot;&gt;vent de murmures&lt;/a&gt;&lt;/i&gt; ou un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Vent.html&quot; title=&quot;Mur de vent&quot;&gt;mur de vent&lt;/a&gt;&lt;/i&gt;. Les effets de l’&#233;ventail peuvent &#234;tre utilis&#233;s trois fois par jour, selon n’importe quelle combinaison.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d’objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Vent.html&quot; title=&quot;Mur de vent&quot;&gt;mur de vent&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vent-De-Murmures.html&quot; title=&quot;Vent de murmures&quot;&gt;vent de murmures&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 5 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Tengu (race)|tengus|Illustrations/PNJ/Tengu.jpg}<div class="BD">
+{s:BDTitre|Éventail de plumes noires|{s:MR}}
+'''Aura''' [[Évocation]] faible ; '''NLS''' 5 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 10 000 po ; '''Poids''' 0,5 kg
+(((Description)))
+Cet éventail ouvragé se compose d’une douzaine de plumes noires fixées dans un manche de métal gravé d’une crête stylisée en relief. Le porteur peut l’utiliser pour créer une ''[[bourrasque]]'', un ''[[vent de murmures]]'' ou un ''[[mur de vent]]''. Les effets de l’éventail peuvent être utilisés trois fois par jour, selon n’importe quelle combinaison.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d’objets merveilleux]], ''[[bourrasque]]'', ''[[mur de vent]]'', ''[[vent de murmures]]'' ; '''Coût''' 5 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Éventail de plumes noires</fullName>
+</wikiPage>

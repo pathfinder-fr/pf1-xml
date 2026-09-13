@@ -1,0 +1,578 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les némésis</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Ultimate Intrigue</category></categories>
+  <lastModified>2023-01-13 15:01:15Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Casses</link><link>Pathfinder-RPG.Casses, Infiltration</link><link>Pathfinder-RPG.Compétences en conflit</link><link>Pathfinder-RPG.Conflits sociaux</link><link>Pathfinder-RPG.Duels verbaux</link><link>Pathfinder-RPG.Influence</link><link>Pathfinder-RPG.Influence individuelle</link><link>Pathfinder-RPG.Influence organisationnelle</link><link>Pathfinder-RPG.Influence organisationnelle</link><link>Pathfinder-RPG.LArt de lintrigue (Contenu)</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maîtriser lintrigue</link><link>Pathfinder-RPG.Maîtriser lintrigue</link><link>Pathfinder-RPG.Némésis UI</link><link>Pathfinder-RPG.Némésis UI</link><link>Pathfinder-RPG.Poursuites</link><link>Pathfinder-RPG.Prestige UI</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Sorts dintrigue</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Conflits sociaux</link><link>Pathfinder-RPG.Némésis UI</link><link>Pathfinder-RPG.Casses</link><link>Pathfinder-RPG.Némésis</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.Duels verbaux</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Objets maudits</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Prestige</link><link>Pathfinder-RPG.contacts</link><link>Pathfinder-RPG.Réputation et renommée</link><link>Pathfinder-RPG.honneur</link><link>Pathfinder-RPG.Influence organisationnelle</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.Poursuites</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Prévoyance</link><link>Pathfinder-RPG.Fantôme, archétype</link><link>Pathfinder-RPG.Localisation dobjet</link><link>Pathfinder-RPG.Pouvoirs magiques (capacité)</link><link>Pathfinder-RPG.Scrutation suprême</link><link>Pathfinder-RPG.Mot de rappel</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Guenaude noire</link><link>Pathfinder-RPG.sous-type psychopompe</link><link>Pathfinder-RPG.Clone</link><link>Pathfinder-RPG.Simulacre</link><link>Pathfinder-RPG.Doppelganger</link><link>Pathfinder-RPG.Revenant</link><link>Pathfinder-RPG.Maîtriser lintrigue</link><link>Pathfinder-RPG.Influence</link><link>Pathfinder-RPG.Influence individuelle</link><link>Pathfinder-RPG.Influence organisationnelle</link><link>Pathfinder-RPG.Casses</link><link>Pathfinder-RPG.Casses, Infiltration</link><link>Pathfinder-RPG.Prestige UI</link><link>Pathfinder-RPG.Némésis UI</link><link>Pathfinder-RPG.Poursuites</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Sorts dintrigue</link><link>Pathfinder-RPG.Conflits sociaux</link><link>Pathfinder-RPG.Duels verbaux</link><link>Pathfinder-RPG.Compétences en conflit</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;a href=&quot;/Wiki/Pathfinder-RPG.LArt de lintrigue (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Intrigue/Art de l&#39;intrigue&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoUI.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles de l&#39;intrigue&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_de_lintrigue_0&quot; href=&quot;#R&#232;gles_de_lintrigue_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMa&#238;trise&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Ma&#238;trise&#39;);&quot; onmouseout=&quot;outButton(&#39;Ma&#238;trise&#39;);&quot; onclick=&quot;expandMenu(&#39;Ma&#238;trise&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;triser-Lintrigue.html&quot; title=&quot;Ma&#238;triser l&amp;#39;intrigue&quot;&gt;Ma&#238;triser l&#39;intrigue&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Ma&#238;trise&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Influence.html&quot; title=&quot;L&amp;#39;influence&quot;&gt;L&#39;influence&lt;/a&gt;&lt;/li&gt;
+            &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Influence-Individuelle.html&quot; title=&quot;L&amp;#39;influence individuelle&quot;&gt;L&#39;influence individuelle&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;L&#39;influence organisationnelle&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Casses.html&quot; title=&quot;Les casses&quot;&gt;Les casses&lt;/a&gt;&lt;/li&gt;
+            &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Casses,-Infiltration.html&quot; title=&quot;L&amp;#39;infiltration (Casses)&quot;&gt;L&#39;infiltration&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestige-Ui.html&quot; title=&quot;Le prestige&quot;&gt;Le prestige&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;N&#233;m&#233;sis-Ui.html&quot; title=&quot;Les n&#233;m&#233;sis&quot;&gt;Les n&#233;m&#233;sis&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poursuites.html&quot; title=&quot;Les poursuites&quot;&gt;Les poursuites&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Recherches.html&quot; title=&quot;Les recherches&quot;&gt;Les recherches&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorts-Dintrigue.html&quot; title=&quot;Les sorts d&amp;#39;intrigue&quot;&gt;Les sorts d&#39;intrigue&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conflits-Sociaux.html&quot; title=&quot;Les conflits sociaux&quot;&gt;Conflits sociaux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duels-Verbaux.html&quot; title=&quot;Les duels verbaux&quot;&gt;Duels verbaux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-En-Conflit.html&quot; title=&quot;Les comp&#233;tences en conflit&quot;&gt;Comp&#233;tences en conflit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Provoquer_une_n&#233;m&#233;sis_4&quot;&gt;Provoquer une n&#233;m&#233;sis&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Opportunit&#233;s_5&quot;&gt;Opportunit&#233;s&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Stratag&#232;mes_6&quot;&gt;Stratag&#232;mes&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Les_r&#233;compenses_des_stratag&#232;mes_0&quot;&gt;Les r&#233;compenses des stratag&#232;mes&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Stratag&#232;mes_balbutiants_1&quot;&gt;Stratag&#232;mes balbutiants&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Stratag&#232;mes_engag&#233;s_2&quot;&gt;Stratag&#232;mes engag&#233;s&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Stratag&#232;mes_intenses_3&quot;&gt;Stratag&#232;mes intenses&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Personnalit&#233;s_des_n&#233;m&#233;sis_7&quot;&gt;Personnalit&#233;s des n&#233;m&#233;sis&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;Au cours de leur carri&#232;re d&#39;aventurier, les personnages-joueurs sont confront&#233;s &#224; de nombreux obstacles et ennemis. Seule une v&#233;ritable n&#233;m&#233;sis, cependant, met continuellement les PJs &#224; l&#39;&#233;preuve, cherchant &#224; les faire tomber &#224; chaque occasion. Qu&#39;il s&#39;agisse d&#39;un magistrat corrompu qui contrecarre les efforts des PJ pour faire r&#233;gner l&#39;ordre dans une ville, ou d&#39;un compagnon d&#39;aventure qui sabote leurs tentatives pour s&#39;attirer les faveurs du roi, une n&#233;m&#233;sis peut &#234;tre l&#39;ennemi le plus m&#233;morable des PJs, surtout s&#39;il s&#39;agit d&#39;un adversaire qu&#39;ils ont cr&#233;&#233; par leurs propres choix. Cette section fournit des directives d&#233;taill&#233;es pour aider les MJ &#224; cr&#233;er des adversaires r&#233;currents qui sont m&#233;morables et qui poss&#232;dent des recours au-del&#224; des ennemis normaux. Un syst&#232;me de stratag&#232;mes de n&#233;m&#233;sis progressifs permet d&#39;intensifier les rivalit&#233;s au cours de multiples affrontements. Il pr&#233;sente &#233;galement des suggestions d&#39;ajustements de rencontres et de r&#233;compenses d&#39;XP accrues que vous pourriez offrir pour rendre le face &#224; face avec une n&#233;m&#233;sis plus mortel, mais aussi plus gratifiant. Chaque stratag&#232;me d&#233;jou&#233; devrait donner aux PJs l&#39;occasion de contre-attaquer leur ennemi, ce qui pourrait donner lieu &#224; de nouvelles aventures con&#231;ues pour aller dans le sens des plans des PJs. Ces nouvelles aventures sont &#233;galement presque certaines d&#39;approfondir la rancune entre les personnages et leur ennemi jur&#233;.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Provoquer une n&#233;m&#233;sis&lt;a class=&quot;headeranchor&quot; id=&quot;Provoquer_une_n&#233;m&#233;sis_4&quot; href=&quot;#Provoquer_une_n&#233;m&#233;sis_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;L&#39;histoire d&#39;un personnage et de sa n&#233;m&#233;sis est un &#233;change dans lequel chacun essaie toujours de prendre le dessus. Cela conduit la n&#233;m&#233;sis &#224; &#233;laborer des strat&#233;gies de plus en plus s&#233;v&#232;res jusqu&#39;&#224; ce que l&#39;une des deux personnes vainque l&#39;autre de mani&#232;re d&#233;cisive, souvent en la tuant ou en la d&#233;truisant. De m&#234;me, les n&#233;m&#233;sis s&#39;efforcent activement de d&#233;jouer, de saboter et d&#39;entraver les PJ en employant des stratag&#232;mes - une repr&#233;sentation des plans qu&#39;ils mettent en œuvre et des ressources qu&#39;ils poss&#232;dent.&lt;br /&gt;&lt;br /&gt;Chaque stratag&#232;me est un &#233;v&#233;nement, une rencontre ou une aventure dans laquelle la n&#233;m&#233;sis agit contre les PJs. Si la situation comporte un aspect social, pensez &#224; faire de la lutte entre les PJs et leur n&#233;m&#233;sis un &lt;a class=&quot;pagelink&quot; href=&quot;Conflits-Sociaux.html&quot; title=&quot;Les conflits sociaux&quot;&gt;conflit social&lt;/a&gt;. Apr&#232;s chaque stratag&#232;me, les PJs peuvent exploiter une opportunit&#233; qui leur permet de riposter contre leur ennemi. Cet &#233;change peut se produire de nombreuses fois au cours d&#39;une campagne de longue dur&#233;e.&lt;br /&gt;&lt;br /&gt;Pour refl&#233;ter l&#39;intensit&#233; de sa rivalit&#233; avec les PJs, chaque n&#233;m&#233;sis poss&#232;de une valeur de n&#233;m&#233;sis. Cette valeur mesure le nombre de revers que les PJ ont inflig&#233; &#224; leur n&#233;m&#233;sis (par exemple en exploitant une opportunit&#233; avec succ&#232;s ; voir la section &lt;a class=&quot;pagelink&quot; href=&quot;N&#233;m&#233;sis-Ui.html#OPPORTUNITES&quot; title=&quot;Les n&#233;m&#233;sis&quot;&gt;Opportunit&#233;s&lt;/a&gt;), et il d&#233;termine la s&#233;v&#233;rit&#233; des stratag&#232;mes de la n&#233;m&#233;sis contre les PJ. M&#234;me si les PJs ne se rendent pas compte de la raison pour laquelle ils ont gagn&#233; l&#39;inimiti&#233; initiale d&#39;une n&#233;m&#233;sis, la valeur d&#39;une n&#233;m&#233;sis particulier commence toujours &#224; 1 ou plus ; si la n&#233;m&#233;sis n&#39;a aucune raison d&#39;&#234;tre contrari&#233; par les actions des PJs, elle ne gaspillera pas de ressources pour des stratag&#232;mes contre les PJs. Des revers particuli&#232;rement spectaculaires peuvent augmenter la valeur de n&#233;m&#233;sis de 2. Les PJs peuvent avoir plusieurs n&#233;m&#233;sis, mais la lutte permanente entre les PJs et chaque n&#233;m&#233;sis a sa propre valeur.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;table CLASS=&quot;tablo centre autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Valeur de&lt;br/&gt;n&#233;m&#233;sis&lt;/td&gt;&lt;td&gt;Niveau de&lt;br/&gt;n&#233;m&#233;sis&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;4 ou moins&lt;/td&gt;&lt;td&gt;Balbutiant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5-8&lt;/td&gt;&lt;td&gt;Engag&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9 ou plus&lt;/td&gt;&lt;td&gt;Intense&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;Au fur et &#224; mesure qu&#39;une rivalit&#233; m&#251;rit, le niveau de n&#233;m&#233;sis de l&#39;ennemi des PJs augmente. L&#39;opposition de la n&#233;m&#233;sis aux PJs progresse &#224; travers trois niveaux, comme d&#233;crit ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Balbutiant.&lt;/b&gt; Les PJs ont attir&#233; l&#39;attention de la n&#233;m&#233;sis, qui les consid&#232;re comme une menace mineure mais qui doit n&#233;anmoins &#234;tre r&#233;solue. La n&#233;m&#233;sis commence &#224; collecter des informations sur les PJs et &#224; utiliser des stratag&#232;mes, mais elle n&#39;est pas encore profond&#233;ment investi dans la rivalit&#233;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Engag&#233;.&lt;/b&gt; Les PJs ont affront&#233; la n&#233;m&#233;sis assez souvent pour qu&#39;elle les consid&#232;re comme un probl&#232;me important. La n&#233;m&#233;sis conna&#238;t les capacit&#233;s des PJs et fait tout son possible pour &#233;laborer des stratag&#232;mes visant sp&#233;cifiquement &#224; les g&#234;ner lorsque ses plans s&#39;opposent aux leurs.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Intense.&lt;/b&gt; Les PJs et leur rival se sont d&#233;jou&#233;s si souvent que la n&#233;m&#233;sis conna&#238;t les capacit&#233;s des PJs dans les moindres d&#233;tails. Elle est maintenant pr&#234;te &#224; utiliser tous les moyens n&#233;cessaires pour mettre fin &#224; leur ing&#233;rence, une fois pour toutes. Cela signifie que la d&#233;faite des PJs est devenue l&#39;un des principaux objectifs de la n&#233;m&#233;sis, potentiellement secondaire seulement &#224; l&#39;objectif principal que les PJs continuent de d&#233;jouer.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;OPPORTUNITES&quot; href=&quot;#OPPORTUNITES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Opportunit&#233;s&lt;a class=&quot;headeranchor&quot; id=&quot;Opportunit&#233;s_5&quot; href=&quot;#Opportunit&#233;s_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Une opportunit&#233; repr&#233;sente une possibilit&#233; pour les PJs de riposter contre leur n&#233;m&#233;sis. Chaque fois que vous choisissez un stratag&#232;me, d&#233;cidez quelle sorte d&#39;opportunit&#233;, de faille ou d&#39;indice les PJs pourraient d&#233;couvrir en d&#233;jouant ou en subissant le stratag&#232;me. Les descriptions des stratag&#232;mes dans la section suivante incluent les types d&#39;opportunit&#233;s que chacun d&#39;entre eux peut exposer ; ces accroches facultatives sont destin&#233;es &#224; donner aux PJs plus d&#39;influence sur le type d&#39;aventures qu&#39;ils entreprennent, et elles peuvent aider les PJs &#224; se sentir comme s&#39;ils guidaient l&#39;histoire de la campagne en fonction de leurs r&#233;actions aux plans de la n&#233;m&#233;sis. Les opportunit&#233;s se pr&#234;tent &#224; des contre-stratag&#232;mes con&#231;us par les joueurs, qui peuvent prendre la forme de rencontres uniques ou d&#39;aventures enti&#232;res (voir &lt;a class=&quot;pagelink&quot; href=&quot;Casses.html&quot; title=&quot;Les casses&quot;&gt;Les casses&lt;/a&gt;). Si la section Stratag&#232;mes propose de nombreuses options pour les n&#233;m&#233;sis, les opportunit&#233;s list&#233;es avec chaque strat&#233;gie ne sont que des possibilit&#233;s parmi d&#39;autres. N&#39;h&#233;sitez pas &#224; orienter les PJs vers d&#39;autres opportunit&#233;s qui correspondent au modus operandi de votre n&#233;m&#233;sis et qui s&#39;int&#232;grent mieux &#224; la campagne. Bien s&#251;r, chaque opportunit&#233; que les PJs saisissent encouragera leur n&#233;m&#233;sis &#224; poursuivre son antagonisme, continuant - et intensifiant probablement- la rivalit&#233;.&lt;br /&gt;&lt;br /&gt;Ce va-et-vient entre les PJs et leur n&#233;m&#233;sis devrait culminer dans une conclusion naturelle, orient&#233;e vers l&#39;intrigue - comme une rencontre finale dramatique ou la fin d&#39;un arc de campagne. Une telle interaction fonctionne mieux s&#39;il y a une raison pour laquelle la n&#233;m&#233;sis et les PJs ne se sont pas affront&#233;s en combat jusqu&#39;&#224; ce point culminant. Les PJs ont tendance &#224; trouver des moyens de tuer leurs ennemis, m&#234;me ceux avec les plans d&#39;&#233;vasion les plus infaillibles, et l&#39;utilisation d&#39;astuces narratives pour sauver la n&#233;m&#233;sis peut susciter le ressentiment des joueurs. N&#233;anmoins, si une n&#233;m&#233;sis meurt pr&#233;matur&#233;ment mais dispose encore de ressources importantes, elle peut r&#233;ussir &#224; ressusciter, tout comme les PJs le feraient si l&#39;un des leurs mourait dans la bataille. &#192; moins que des &#233;v&#233;nements sp&#233;ciaux (ou m&#234;me des stratag&#232;mes d&#233;lib&#233;r&#233;s) n&#39;en d&#233;cident autrement, un n&#233;m&#233;sis continuera probablement &#224; contrarier les PJs jusqu&#39;&#224; ce qu&#39;il meure ou se r&#233;concilie avec ses ennemis.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Stratag&#232;mes&lt;a class=&quot;headeranchor&quot; id=&quot;Stratag&#232;mes_6&quot; href=&quot;#Stratag&#232;mes_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Une n&#233;m&#233;sis n&#39;utilise g&#233;n&#233;ralement qu&#39;un seul stratag&#232;me &#224; la fois. Ce n&#39;est que si les PJs lui causent continuellement des revers importants qu&#39;il utilisera deux stratag&#232;mes simultan&#233;ment. Une n&#233;m&#233;sis emploie g&#233;n&#233;ralement des stratag&#232;mes adapt&#233;s &#224; son niveau de n&#233;m&#233;sis actuel et li&#233;s &#224; l&#39;arch&#233;type ou au modus operandi que vous avez choisi pour le elle (voir &lt;a class=&quot;pagelink&quot; href=&quot;N%C3%A9m%C3%A9sis.ashx#UI#PERSONNALITES&quot; title=&quot;N&#233;m&#233;sis&quot;&gt;Personnalit&#233;s des n&#233;m&#233;sis&lt;/a&gt;). Il peut arriver qu&#39;une strat&#233;gie simple ait du sens pour une n&#233;m&#233;sis apr&#232;s avoir subi un revers mineur, mais elle ne devrait jamais employer un stratag&#232;me destin&#233; &#224; un niveau de n&#233;m&#233;sis plus &#233;lev&#233;.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Les r&#233;compenses des stratag&#232;mes&lt;a class=&quot;headeranchor&quot; id=&quot;Les_r&#233;compenses_des_stratag&#232;mes_0&quot; href=&quot;#Les_r&#233;compenses_des_stratag&#232;mes_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les PJs re&#231;oivent une r&#233;compense d&#39;XP lorsqu&#39;ils s&#39;impliquent dans le stratag&#232;me d&#39;une n&#233;m&#233;sis, qu&#39;ils en sortent victorieux ou non. C&#39;est &#224; vous de d&#233;cider quand les PJs gagnent cette XP. Il peut &#234;tre judicieux d&#39;attribuer cette XP &#224; la fin d&#39;une rencontre, qu&#39;il s&#39;agisse d&#39;un combat unique ou d&#39;une interaction avec les agents de la n&#233;m&#233;sis, ou bien &#224; la fin d&#39;une aventure plus vaste influenc&#233;e par les avantages ou le th&#232;me du stratag&#232;me. Les PJs ne gagnent pas d&#39;XP s&#39;ils &#233;vitent ou ignorent le stratag&#232;me. Cette r&#233;compense d&#39;XP s&#39;ajoute &#224; l&#39;XP que les PJs re&#231;oivent pour avoir surmont&#233; les rencontres pendant le d&#233;roulement du stratag&#232;me. Les r&#233;compenses en XP des stratag&#232;mes sont relatives au &lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html&quot; title=&quot;Les rencontres&quot;&gt;Niveau Moyen du Groupe&lt;/a&gt; des PJs. Apr&#232;s s&#39;&#234;tre impliqu&#233;s dans le stratag&#232;me d&#39;une n&#233;m&#233;sis, les PJs ne devraient jamais recevoir moins que le montant qu&#39;ils recevraient pour avoir triomph&#233; d&#39;une rencontre de FP 1.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#233;compense faible.&lt;/b&gt; Les PJs gagnent de l&#39;XP comme s&#39;ils avaient triomph&#233; d&#39;une rencontre avec un FP &#233;gal &#224; leur NMG - 3.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#233;compense moyenne.&lt;/b&gt; Les PJs gagnent de l&#39;XP comme s&#39;ils avaient triomph&#233; d&#39;une rencontre avec un FP &#233;gal &#224; leur NMG - 2.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;R&#233;compense forte.&lt;/b&gt; Les PJs gagnent de l&#39;XP comme s&#39;ils avaient triomph&#233; d&#39;une rencontre avec un FP &#233;gal &#224; leur NMG - 1.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Stratag&#232;mes balbutiants&lt;a class=&quot;headeranchor&quot; id=&quot;Stratag&#232;mes_balbutiants_1&quot; href=&quot;#Stratag&#232;mes_balbutiants_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Ces stratag&#232;mes ont tendance &#224; &#234;tre simples, ainsi que moins co&#251;teux et vicieux. Ils sont parfaits pour les n&#233;m&#233;sis qui n&#39;ont pas encore de raisons suffisantes pour d&#233;penser de vastes ressources contre les PJs ou pour rendre les choses extr&#234;mement personnelles.&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;49%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Abondance&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; faible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis utilise des ressources suppl&#233;mentaires contre les PJs. Lors d&#39;un combat avec la n&#233;m&#233;sis ou contre un groupe que la n&#233;m&#233;sis soutient, la n&#233;m&#233;sis ou le groupe re&#231;oit une augmentation de 25% de sa richesse par niveau, g&#233;n&#233;ralement appliqu&#233;e &#224; des &#233;quipements consommables que l&#39;adversaire utilise avant le combat pour renforcer ses capacit&#233;s. Lors d&#39;une rencontre sans combat, le stratag&#232;me d&#39;abondance conf&#232;re &#224; la n&#233;m&#233;sis ou au groupe qu&#39;elle soutient un modeste avantage dans une t&#226;che o&#249; il/elle est en comp&#233;tition avec les PJ. Par exemple, si un PJ et la n&#233;m&#233;sis sont engag&#233;s dans un &lt;a class=&quot;pagelink&quot; href=&quot;Duels-Verbaux.html&quot; title=&quot;Les duels verbaux&quot;&gt;duel verbal&lt;/a&gt;, le n&#233;m&#233;sis gagne 3 &lt;a class=&quot;pagelink&quot; href=&quot;Duels-Verbaux.html#INDULGENCES&quot; title=&quot;Les duels verbaux&quot;&gt;indulgences&lt;/a&gt; (repr&#233;sentant l&#39;acc&#232;s &#224; une meilleure formation, des sonneurs dans le public, ou des pots-de-vin ; voir &lt;a class=&quot;pagelink&quot; href=&quot;Duels-Verbaux.html&quot; title=&quot;Les duels verbaux&quot;&gt;pages 176-181&lt;/a&gt;).
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis r&#233;v&#232;le accidentellement une information de personnel sur son pass&#233;, sur l&#39;origine de sa richesse, sur la personne qui g&#232;re son argent ou sur le fait que celui-ci provient d&#39;une source illicite.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Faux t&#233;moin&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; faible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis accuse les PJs d&#39;un crime mineur ou d&#39;un autre m&#233;fait, soit directement, soit par l&#39;interm&#233;diaire d&#39;un mandataire qu&#39;elle a manipul&#233; pour fournir un faux t&#233;moignage. Les PJs doivent soit &#233;viter les autorit&#233;s, soit passer du temps &#224; prouver leur innocence, souvent &#224; travers une forme de d&#233;fi social, et peut-&#234;tre en s&#39;engageant dans un &lt;a class=&quot;pagelink&quot; href=&quot;Duels-Verbaux.html&quot; title=&quot;Les duels verbaux&quot;&gt;duel verbal&lt;/a&gt; lors d&#39;une proc&#233;dure judiciaire. Le fait d&#39;&#233;viter les autorit&#233;s ou de ne pas r&#233;ussir &#224; se disculper peut avoir des cons&#233;quences plus dramatiques, comme des amendes s&#233;v&#232;res, l&#39;emprisonnement, une diminution de l&#39;influence, ou m&#234;me une forme de ch&#226;timent corporel.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Le t&#233;moin de la n&#233;m&#233;sis n&#39;arrive pas &#224; tenir sa version des faits ou prouve qu&#39;il sait quelque chose qu&#39;il ne devrait pas savoir. Non seulement cela met &#224; mal ses mensonges, mais cela implique aussi probablement la n&#233;m&#233;sis dans un acte r&#233;pr&#233;hensible.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Filature&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; faible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis envoie un agent pour suivre les PJs &#224; distance. Cette filature est un PNJ ou une cr&#233;ature (g&#233;n&#233;ralement un PNJ dont le FP est &#233;gal au NMG du groupe -3). Pendant qu&#39;ils sont pris en filature, celle-ci relaie les activit&#233;s et les plans g&#233;n&#233;raux des PJs &#224; la n&#233;m&#233;sis. La filature suit les PJs dans les zones urbaines et sauvages, mais ne p&#233;n&#232;tre pas dans les endroits dangereux (comme un donjon ou une tombe). La filature fait des rapports quotidiens sur les activit&#233;s des PJs. Si les PJs se s&#233;parent, la filature suit un PJ, soit celui qui semble faire quelque chose d&#39;int&#233;ressant, soit celui qui est le plus facile &#224; suivre. La filature utilise ses propres comp&#233;tences de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; mais tente de rester cach&#233;e, en utilisant les abris et les foules pour cacher sa pr&#233;sence et en restant &#224; distance pour augmenter le DD de Perception pour la remarquer. La filature tente toujours de fuir si elle est d&#233;couverte ou abord&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Si les PJs d&#233;couvrent la filature, ils peuvent la pi&#233;ger pour qu&#39;elle donne de fausses informations &#224; la n&#233;m&#233;sis. Ils peuvent aussi capturer ou faire arr&#234;ter leur traqueur, privant ainsi leur ennemi d&#39;un alli&#233; utile.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td width=&quot;2%&quot;&gt;
+&lt;/td&gt;&lt;td width=&quot;49%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Produits contrefaits&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; faible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis d&#233;pose un objet magique contrefait dans un magasin qu&#39;il pense que les PJs vont fr&#233;quenter. L&#39;objet achet&#233; par les PJs est en fait maudit. Il semble fonctionner normalement selon tous les tests, et le MJ peut soit choisir une mal&#233;diction, soit effectuer un jet sur la Table “&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Maudits.html#DETERMINATION&quot; title=&quot;Les objets maudits&quot;&gt;Mal&#233;dictions ordinaires des objets&lt;/a&gt;”.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+En remontant la piste de l&#39;objet maudit jusqu&#39;&#224; une boutique, on d&#233;couvre quelqu&#39;un qui travaille avec la n&#233;m&#233;sis ou qui a &#233;t&#233; achet&#233; par elle. Cela peut &#233;galement r&#233;v&#233;ler un tr&#233;sor d&#39;autres objets magiques (maudits ou non).
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Refus de service&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; faible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis utilise la coercition pour forcer un groupe d&#39;autres PNJ &#224; ne plus s&#39;associer ou faire des affaires avec les PJs (comme les PJs &#233;changent souvent de grandes quantit&#233;s de richesses, les marchands sont un groupe particuli&#232;rement efficace &#224; choisir pour ce stratag&#232;me). Les membres de ce groupe de PNJs refusent d&#39;aider les PJs ou de discuter avec eux, sauf si les PJs r&#233;ussissent un test de &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; ou d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt;. Le DD est &#233;gal &#224; 20 + le NMG du groupe.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Une fois le plan de la n&#233;m&#233;sis r&#233;v&#233;l&#233;, le groupe contraint prouve qu&#39;il n&#39;appr&#233;cie pas d&#39;&#234;tre intimid&#233;. Peut-&#234;tre refusent-ils &#224; la n&#233;m&#233;sis toute aide future ou accordent-ils aux PJs une remise de 10% sur leurs services.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Subversion scandaleuse&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; faible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis s&#39;engage dans une campagne de diffusion de rumeurs qui entachent la r&#233;putation des PJs. Ces rumeurs ne sont pas omnipr&#233;sentes, mais elles sont juste assez cr&#233;dibles pour que la population ait des doutes sur les PJs. Ce stratag&#232;me diminue de 1 la valeur de &lt;a class=&quot;pagelink&quot; href=&quot;Prestige.html&quot; title=&quot;Prestige&quot;&gt;Prestige&lt;/a&gt; des personnages, la &lt;a class=&quot;pagelink&quot; href=&quot;Contacts.html&quot; title=&quot;Les contacts&quot;&gt;confiance de leurs contacts&lt;/a&gt; (syst&#232;me du &lt;i&gt;Guide de campagne&lt;/i&gt;), leur &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;putation-Et-Renomm&#233;e.html&quot; title=&quot;R&#233;putation et renomm&#233;e&quot;&gt;renomm&#233;e&lt;/a&gt; (syst&#232;me du &lt;i&gt;Guide de campagne&lt;/i&gt;), leurs &lt;a class=&quot;pagelink&quot; href=&quot;Honneur.html&quot; title=&quot;L&amp;#39;honneur&quot;&gt;points d&#39;honneur&lt;/a&gt; (syst&#232;me du &lt;i&gt;Guide de campagne&lt;/i&gt;) et leur total de &lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;points d&#39;influence aupr&#232;s des organisations&lt;/a&gt;. Autrement, la n&#233;m&#233;sis peut cibler un seul personnage et doubler la diminution inflig&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Le fait de remonter les rumeurs jusqu&#39;&#224; la n&#233;m&#233;sis contrecarre les mensonges et peut annuler les pertes subies par les PJs. A l&#39;avenir, les membres de la communaut&#233; dans laquelle le n&#233;m&#233;sis a r&#233;pandu ses mensonges sont moins susceptibles de croire ses affirmations.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Stratag&#232;mes engag&#233;s&lt;a class=&quot;headeranchor&quot; id=&quot;Stratag&#232;mes_engag&#233;s_2&quot; href=&quot;#Stratag&#232;mes_engag&#233;s_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les stratag&#232;mes engag&#233;s sont plus personnels et plus co&#251;teux que les stratag&#232;mes balbutiants. Ils t&#233;moignent de l&#39;attention de la n&#233;m&#233;sis et d&#39;une rancune croissante et vicieuse.&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;49%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Alli&#233;s en p&#233;ril&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; moyenne
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis prend en otage un alli&#233; des PJs pendant qu&#39;ils sont absents ou distraits. L&#39;enl&#232;vement de l&#39;alli&#233; s&#39;av&#232;re &#234;tre un avantage pour la n&#233;m&#233;sis et un inconv&#233;nient pour les PJs. Les PJs peuvent &#234;tre oblig&#233;s de d&#233;cider s&#39;ils doivent consacrer leurs efforts &#224; localiser leur alli&#233; et tenter de le sauver, ou s&#39;opposer &#224; l&#39;objectif de la n&#233;m&#233;sis.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+L&#39;alli&#233; captur&#233; apprend beaucoup de choses pendant son emprisonnement, comme l&#39;emplacement du repaire de la n&#233;m&#233;sis, sa disposition int&#233;rieure ou les d&#233;placements des gardes.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Alli&#233;s puissants&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; moyenne
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis conclut un accord temporaire avec un autre groupe. Cela lui permet de b&#233;n&#233;ficier des services d&#39;un nombre d&#39;alli&#233;s &#233;gal au nombre de PJs, bien que le FP de chaque alli&#233; ne soit g&#233;n&#233;ralement pas sup&#233;rieur au NMG du groupe - 1. Ces alli&#233;s assistent le n&#233;m&#233;sis dans tout ce qu&#39;elle demande, qu&#39;il s&#39;agisse d&#39;affronter directement les PJ ou de lui fournir de l&#39;aide et des ressources. L&#39;alliance dure un nombre de jours &#233;gal au nombre de D&#233;s de Vie de la n&#233;m&#233;sis.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les PJs pourraient d&#233;couvrir les points de tension entre la n&#233;m&#233;sis et ses nouveaux alli&#233;s, et potentiellement utiliser leurs connaissances pour les monter les uns contre les autres. De m&#234;me, les PJs pourraient attirer l&#39;attention de la n&#233;m&#233;sis sur un groupe ou un individu plus important et plus dangereux qui n&#39;appr&#233;cie pas qu&#39;un &#233;tranger manipule ses pions.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Appel &#224; une force obscure&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; moyenne
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis conclut un pacte avec un fi&#233;lon ou une autre force obscure pour entraver les PJs. Il gagne le service temporaire d&#39;un puissant &lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;ext&#233;rieur&lt;/a&gt; Mauvais (avec un FP qui n&#39;est pas sup&#233;rieur au NMG du groupe + 3), mais perd quelque chose d&#39;important dans le processus. Il peut s&#39;agir d&#39;un malus &#224; une valeur de caract&#233;ristique pendant que la cr&#233;ature est &#224; son service. Ou bien, peut-&#234;tre que le pacte exige qu&#39;il fasse un sacrifice mensuel de cr&#233;atures intelligentes (g&#233;n&#233;ralement un nombre &#233;gal au nombre de D&#233;s de Vie de l&#39;ext&#233;rieur).
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les PJs d&#233;couvrent le prix pay&#233; par la n&#233;m&#233;sis pour invoquer le pouvoir obscur, r&#233;v&#233;lant peut-&#234;tre une sorte de contrat infernal. D&#39;autres groupes pourraient &#233;galement le condamner pour ses sombres agissements.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Aucun &#233;chappatoire&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; moyenne
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis envoie un ou plusieurs agents devant les PJs pendant qu&#39;ils voyagent ou se reposent, les chargeant de fabriquer des obstacles pour ralentir les PJs. Les dangers simples que les agents peuvent concevoir, et qui fournissent une faible r&#233;compense d&#39;XP, incluent l&#39;obstruction des voyages des PJs en d&#233;truisant un pont, le vol des montures des PJs, ou l&#39;attraction d&#39;animaux ordinaires vers le camp des PJs pour causer des ravages. Les obstacles plus mena&#231;ants qui offrent une r&#233;compense d&#39;XP moyenne comprennent l&#39;enfermement des PJs &#224; l&#39;int&#233;rieur d&#39;un b&#226;timent et l&#39;incendie de celui-ci, le d&#233;clenchement d&#39;une avalanche, ou la provocation d&#39;une cr&#233;ature dangereuse pour attaquer les PJs. Pour utiliser ce stratag&#232;me, la n&#233;m&#233;sis doit avoir d&#233;j&#224; utilis&#233; au moins une fois un stratag&#232;me de filature contre les PJs (ou avoir un autre moyen de savoir o&#249; vont les PJs, par exemple si les PJs poursuivent la n&#233;m&#233;sis ; voir &lt;a class=&quot;pagelink&quot; href=&quot;Poursuites.html&quot; title=&quot;Les poursuites&quot;&gt;pages 142-147&lt;/a&gt;).
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Le pi&#232;ge mis en place par les agents de la n&#233;m&#233;sis r&#233;v&#232;le une menace qui pourrait &#234;tre utilis&#233;e contre la n&#233;m&#233;sis lors du voyage de retour. Attirer des cr&#233;atures dans le camp des PJs pourrait &#233;galement donner &#224; ces b&#234;tes l&#39;odeur de la n&#233;m&#233;sis et de ses agents, avec des cons&#233;quences inattendues.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cambriolage&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; moyenne
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis tente de voler un objet de valeur aux PJs. S&#39;ils ont stock&#233; des objets de valeur &#224; un endroit particulier, la n&#233;m&#233;sis ou ses serviteurs tentent un &lt;a class=&quot;pagelink&quot; href=&quot;Casses.html&quot; title=&quot;Les casses&quot;&gt;casse&lt;/a&gt;, volant g&#233;n&#233;ralement entre 10% et 100% de la valeur stock&#233;e &#224; cet endroit. Si les PJs transportent toutes leurs richesses avec eux, la n&#233;m&#233;sis envoie des pickpockets pour voler les objets des PJs, en utilisant la &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; et l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; pour voler ce qu&#39;ils peuvent puis battre en retraite.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les PJs trouvent des preuves qui pointent vers la n&#233;m&#233;sis, ce qui leur donne l&#39;opportunit&#233; de r&#233;cup&#233;rer ce qu&#39;ils ont perdu avec des int&#233;r&#234;ts lors d&#39;un contre-casse.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td width=&quot;2%&quot;&gt;
+&lt;/td&gt;&lt;td width=&quot;49%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Demi-temps&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&#192; la suite du dernier revers caus&#233; par les PJs, la n&#233;m&#233;sis redouble d&#39;efforts pour atteindre ses objectifs. Elle termine l&#39;un de ses projets en cours (comme un rituel, une recherche, une influence, une construction ou toute autre t&#226;che) en deux fois moins de temps que d&#39;habitude. En &#233;change, il est &lt;a class=&quot;pagelink&quot; href=&quot;../&#201;tats pr&#233;judiciables#Fatigu&#233;
+
+Un personnage fatigu&#233; est dans l’incapacit&#233; de courir et de charger/-Il-Subit-Un-Malus-De--2-En-Force-Ainsi-Qu’En-Dext&#233;rit&#233;.-La-Fatigue-Se-Dissipe-Au-Bout-De-Huit-Heures-De-Repos-Total.-Un-Personnage-Fatigu&#233;-Devient-&#201;puis&#233;-D&#232;s-Qu’Il-Fait-Quoi-Que-Ce-Soit-Qui-Causerait-Un-Nouvel-&#201;tat-Fatigu&#233;..html&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;&lt;/a&gt; lorsque les PJs exploitent leur prochaine opportunit&#233;. Ou, si les PJs l&#39;affrontent dans une situation hors combat, son travail s&#39;av&#232;re b&#226;cl&#233;, et cela fournit aux PJs un petit avantage contre lui.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les PJs remarquent o&#249; la n&#233;m&#233;sis a fait des &#233;conomies sur ce projet et d&#39;autres, r&#233;v&#233;lant des vuln&#233;rabilit&#233;s dans son nouvel armement, ses d&#233;fenses magiques ou sa cachette.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Pas de r&#233;compense pour les seconds&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; moyenne
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis d&#233;couvre la destination finale des PJs pendant qu&#39;ils sont en qu&#234;te, que ce soit par espionnage ou par divination, et arrive avant eux. Il peut alerter ceux qui se trouvent &#224; leur destination et expliquer les forces et les faiblesses des PJs (donnant aux habitants le temps de fuir ou de pr&#233;parer une embuscade) ou massacrer les gardiens et piller l&#39;endroit, ne laissant derri&#232;re lui que des pi&#232;ges pour les PJs.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La tentative de la n&#233;m&#233;sis de piller la destination r&#233;v&#232;le une section inexplor&#233;e regorgeant de plus grands tr&#233;sors. Elle peut aussi d&#233;clencher une mal&#233;diction ou une d&#233;fense qui la vise elle plut&#244;t que les PJs.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Plan contingent&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; moyenne
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis s&#39;est habitu&#233;e &#224; l&#39;interf&#233;rence des PJs et a d&#233;velopp&#233; un plan contingent. Lorsque les PJs sont sur le point de d&#233;jouer son plan, il b&#233;n&#233;ficie instantan&#233;ment des effets d&#39;un sort de 1er &#224; 4&#232;me niveau, comme avec le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;voyance.html&quot; title=&quot;Pr&#233;voyance&quot;&gt;pr&#233;voyance&lt;/a&gt;&lt;/i&gt;. Il peut aussi d&#233;clencher une contingence non magique, comme l&#39;effondrement d&#39;un plafond ou l&#39;ouverture d&#39;une vanne.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Dans sa pr&#233;cipitation, la n&#233;m&#233;sis laisse derri&#232;re elle des preuves de l&#39;emplacement de sa cachette ou un secret compromettant. De plus, d&#39;autres personnes pourraient &#234;tre bless&#233;es par sa fuite spectaculaire, ce qui les am&#232;nerait &#224; aider les PJs.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Surprise&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; moyenne
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis lance une attaque surprise contre les PJs &#224; un moment inopportun. La n&#233;m&#233;sis peut envoyer un agent ou une &#233;quipe d&#39;agents puissants contre les PJs alors qu&#39;ils sont d&#233;j&#224; au combat, ou lorsqu&#39;ils se reposent apr&#232;s avoir &#233;puis&#233; leurs ressources pour la journ&#233;e. La surprise peut &#233;galement consister en un sabotage insoup&#231;onn&#233; d&#39;un plan ou d&#39;un projet que les PJs poursuivent.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Dans l&#39;intention de l&#39;utiliser pour vaincre les PJs non pr&#233;par&#233;s, les agents de la n&#233;m&#233;sis poss&#233;daient un tr&#233;sor plus pr&#233;cieux que d&#39;habitude ou avaient en leur possession un des objets magiques utiles de la n&#233;m&#233;sis. En battant leurs ennemis, les PJs gagnent un tr&#233;sor utile pour eux-m&#234;mes.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Stratag&#232;mes intenses&lt;a class=&quot;headeranchor&quot; id=&quot;Stratag&#232;mes_intenses_3&quot; href=&quot;#Stratag&#232;mes_intenses_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les stratag&#232;mes intenses sont d&#233;sesp&#233;r&#233;s, co&#251;teux, personnels, ou peut-&#234;tre les trois &#224; la fois. Seul un n&#233;m&#233;sis ayant un profond besoin de se venger des nombreux revers que les PJs lui ont inflig&#233;s est capable de telles extr&#233;mit&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;49%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Atout&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; forte
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis r&#233;v&#232;le un atout qu&#39;il a conserv&#233; jusqu&#39;au bon moment, comme des alli&#233;s monstrueux ou un objet magique puissant. Il doit y avoir quelque chose qui limite fortement son utilisation de cet atout ou qui l&#39;a pouss&#233; &#224; le retenir jusqu&#39;&#224; pr&#233;sent. Par exemple, l&#39;objet peut s&#39;&#233;puiser apr&#232;s utilisation et &#234;tre tr&#232;s difficile &#224; recharger. Ou bien, peut-&#234;tre que la connaissance de son alliance ruinerait sa r&#233;putation. Quoi qu&#39;il en soit, la raison pour laquelle la n&#233;m&#233;sis a cach&#233; l&#39;atout pourrait constituer une opportunit&#233; particuli&#232;rement utile pour les PJs.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+L&#39;utilisation de son atout attire une attention consid&#233;rable sur la n&#233;m&#233;sis, peut-&#234;tre de la part de la loi, de l&#39;ancien propri&#233;taire de l&#39;atout, ou d&#39;une cr&#233;ature plus mortelle qui veut cet avantage pour elle-m&#234;me. Les PJs peuvent s&#39;allier temporairement avec cette cr&#233;ature, ou utiliser son antagonisme &#224; leur avantage.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Au pied du mur&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; forte
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis liquide des biens et contracte des dettes pour obtenir des finances suppl&#233;mentaires &#233;gales &#224; sa richesse par niveau normale. Il peut d&#233;penser cette richesse sur toutes les ressources qu&#39;il d&#233;sire ou pour obtenir un avantage significatif dans une entreprise dans laquelle il est en comp&#233;tition directe avec les PJs. Les liquidations de la n&#233;m&#233;sis peuvent apporter de la richesse &#224; court terme, mais elles sont n&#233;fastes pour sa stabilit&#233; financi&#232;re &#224; long terme.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis a &#233;puis&#233; ses ressources et est d&#233;pourvue des nombreuses d&#233;fenses magiques et terrestres que sa richesse lui procure normalement. Ou bien, l&#39;un des alli&#233;s des PJs prend l&#39;initiative de v&#233;rifier la comptabilit&#233; de celui qui a accord&#233; au n&#233;m&#233;sis sa richesse suppl&#233;mentaire. L&#39;alli&#233; trouve des erreurs ou des mensonges qui rendent furieux les bailleurs de fonds du n&#233;m&#233;sis, les amenant &#224; couper leurs liens avec lui ou &#224; chercher &#224; rappeler leur pr&#234;t.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Cathexis fant&#244;matique&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; forte
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les PJs ont tu&#233; leur n&#233;m&#233;sis, mais son obsession le fait ressusciter sous la forme d&#39;un fant&#244;me qui n&#39;a pas fini de tourmenter les PJs. Son esprit se l&#232;ve 1d4 jours apr&#232;s sa mort, et son &lt;a class=&quot;pagelink&quot; href=&quot;Fant&#244;me,-Arch&#233;type.html&quot; title=&quot;Fant&#244;me, arch&#233;type&quot;&gt;fant&#244;me&lt;/a&gt; est li&#233; &#224; ses possessions de son vivant. Elle peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-Dobjet.html&quot; title=&quot;Localisation d&amp;#39;objet&quot;&gt;localisation d&#39;objet&lt;/a&gt;&lt;/i&gt; &#224; volont&#233; comme un &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-Magiques-(Capacit&#233;).html&quot; title=&quot;Pouvoirs magiques (Mag)&quot;&gt;pouvoir magique&lt;/a&gt; pour localiser n&#39;importe lequel de ces objets, et une fois par jour, elle peut utiliser &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scrutation-Supr&#234;me.html&quot; title=&quot;Scrutation supr&#234;me&quot;&gt;scrutation supr&#234;me&lt;/a&gt;&lt;/i&gt; pour espionner une cr&#233;ature qui les porte comme s&#39;il &#233;tait familier avec cette cr&#233;ature (m&#234;me si l&#39;objet lui-m&#234;me est dans un espace extradimensionnel). S&#39;il r&#233;ussit &#224; localiser un objet avec l&#39;un ou l&#39;autre de ces effets, il peut se transporter &#224; son emplacement une fois par jour, comme avec &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mot-De-Rappel.html&quot; title=&quot;Mot de rappel&quot;&gt;mot de rappel&lt;/a&gt;&lt;/i&gt;, en fusionnant sa forme intangible avec l&#39;objet et en se d&#233;pla&#231;ant avec lui. Pendant qu&#39;il habite l&#39;objet, il peut utiliser sa capacit&#233; &lt;a class=&quot;pagelink&quot; href=&quot;Fant&#244;me,-Arch&#233;type.html&quot; title=&quot;Fant&#244;me, arch&#233;type&quot;&gt;possession mal&#233;fique&lt;/a&gt; pour poss&#233;der les cr&#233;atures &#224; proximit&#233; ; une cr&#233;ature portant ou maniant l&#39;une des anciennes possessions du fant&#244;me subit un malus de - 4 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; contre cette capacit&#233;. Devenir un fant&#244;me limite &#233;galement la n&#233;m&#233;sis, et repr&#233;sente une nouvelle opportunit&#233; pour les PJs de riposter.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Le refus de la n&#233;m&#233;sis de passer dans la mort attire l&#39;attention d&#39;une cr&#233;ature dangereuse, comme une &lt;a class=&quot;pagelink&quot; href=&quot;Guenaude-Noire.html&quot; title=&quot;Guenaude, Guenaude noire&quot;&gt;guenaude noire&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Psychopompe.html&quot; title=&quot;Psychopompe (sous-type)&quot;&gt;psychopompe&lt;/a&gt;. Ces cr&#233;atures cherchent &#224; s&#39;emparer de l&#39;&#226;me de la n&#233;m&#233;sis, mais elles entra&#238;nent &#233;galement les PJs dans de nouvelles aventures d&#39;un autre monde.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td width=&quot;2%&quot;&gt;
+&lt;/td&gt;&lt;td width=&quot;49%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ennemis publics&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; forte
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Version plus s&#233;v&#232;re du stratag&#232;me du faux t&#233;moin, la n&#233;m&#233;sis persuade le gouvernement local que les PJs ont commis une trahison. Les PJs doivent non seulement faire face aux pitreries de la n&#233;m&#233;sis, mais aussi &#233;chapper &#224; la traque des autorit&#233;s de l&#39;&#201;tat et &#224; d&#39;&#233;ventuelles poursuites p&#233;nales. Les PJs peuvent toujours tenter de prouver leur innocence, mais cela est extr&#234;mement difficile et demande beaucoup de temps et de ressources aux PJs. De plus, prouver leur innocence peut ne pas suffire, et les PJs peuvent &#234;tre amen&#233;s &#224; travailler en marge de la soci&#233;t&#233; pour atteindre leurs autres objectifs.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les mensonges de la n&#233;m&#233;sis sont eux-m&#234;mes un crime et, en se rachetant, les PJs attirent le regard de la loi sur leur ennemi.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Fausse identit&#233;&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; forte
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis utilise un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Clone.html&quot; title=&quot;Clone&quot;&gt;clone&lt;/a&gt;&lt;/i&gt;, un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Simulacre.html&quot; title=&quot;Simulacre&quot;&gt;simulacre&lt;/a&gt;&lt;/i&gt;, un &lt;a class=&quot;pagelink&quot; href=&quot;Doppelganger.html&quot; title=&quot;Doppelganger&quot;&gt;doppelganger&lt;/a&gt; ou toute autre imposture de lui-m&#234;me pour faire croire qu&#39;il se trouve &#224; un endroit plut&#244;t qu&#39;&#224; un autre. Le MJ doit d&#233;cider de mettre en place ce stratag&#232;me avant que les PJs ne rencontrent la n&#233;m&#233;sis et utiliser les stats de l&#39;imposteur, plut&#244;t que de faire combattre les PJs contre la v&#233;ritable n&#233;m&#233;sis au meilleur de sa puissance ; apr&#232;s que les PJs aient tu&#233; l&#39;imposteur, le MJ doit r&#233;v&#233;ler que c&#39;&#233;tait un faux.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les PJs pourraient &#234;tre en mesure de convaincre de nombreux agents de leur n&#233;m&#233;sis que leur ma&#238;tre est mort, les poussant &#224; quitter leur poste ou &#224; r&#233;v&#233;ler des secrets qui semblent maintenant sans int&#233;r&#234;t.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Loyaut&#233; d&#39;outre-tombe&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; forte
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Les PJs tuent un suivant fanatique de la n&#233;m&#233;sis, qui revient de la mort sous la forme d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Revenant.html&quot; title=&quot;Revenant&quot;&gt;revenant&lt;/a&gt;. Pour les parties de niveau sup&#233;rieur, plusieurs associ&#233;s tu&#233;s peuvent revenir sous la forme d&#39;un groupe de revenants ou de morts-vivants plus puissants. Ces abominations impies poursuivent les PJs sans rel&#226;che, cherchant &#224; se venger. Contrairement &#224; la plupart des stratag&#232;mes, la n&#233;m&#233;sis peut ne pas &#234;tre &#224; l&#39;origine de celui-ci.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+M&#234;me si la n&#233;m&#233;sis n&#39;utilise g&#233;n&#233;ralement pas d&#39;alli&#233;s morts-vivants, dans ce cas, les morts ont servi ses int&#233;r&#234;ts. Cela suscite l&#39;attention d&#39;une foi d&#39;alignement Bon qui a maintenant des raisons de croire que la n&#233;m&#233;sis est un ennemi des vivants.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Mort d&#39;un alli&#233;&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;compense d&#39;XP&lt;/b&gt; forte
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+La n&#233;m&#233;sis tue sans piti&#233; un proche alli&#233; des PJs. L&#39;alli&#233; devrait &#234;tre une personne qui offre une aide importante aux PJs ou avec qui ils ont un lien personnel &#233;troit. La m&#233;thode d&#39;assassinat devrait fournir aux PJs une bonne occasion de riposter &#224; la n&#233;m&#233;sis, car apr&#232;s ce stratag&#232;me, il est probable que les PJs soient pr&#234;ts &#224; faire couler le sang.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Opportunit&#233;s&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Ce n&#39;est peut-&#234;tre pas la premi&#232;re fois que la n&#233;m&#233;sis a recours au meurtre. Une mort publique met en lumi&#232;re les autres ennemis de la n&#233;m&#233;sis, et dans leur sympathie, ils s&#39;allient aux PJs.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;PERSONNALITES&quot; href=&quot;#PERSONNALITES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Personnalit&#233;s des n&#233;m&#233;sis&lt;a class=&quot;headeranchor&quot; id=&quot;Personnalit&#233;s_des_n&#233;m&#233;sis_7&quot; href=&quot;#Personnalit&#233;s_des_n&#233;m&#233;sis_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Parce que le fait d&#39;avoir une n&#233;m&#233;sis est plus personnel que le simple fait d&#39;avoir un adversaire, il est important de prendre en compte ce qui le fait tiquer. Certains arch&#233;types de n&#233;m&#233;sis, tels que ceux pr&#233;sent&#233;s dans les suggestions suivantes, sont courants dans la fiction et permettent de cr&#233;er un ennemi m&#233;morable.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Filou.&lt;/b&gt; Le n&#233;m&#233;sis est un agent du chaos, un fauteur de troubles qui peut agir avec malice ou par pur caprice. Il ne respecte ni les lois, ni les autorit&#233;s, ni les syst&#232;mes de contr&#244;le. Il peut &#234;tre enclin &#224; faire des actes de charit&#233; quand l&#39;envie lui en prend. Il peut m&#234;me &#234;tre un h&#233;ros pour certains, mais il peut tout aussi rapidement se retourner contre ceux qui l&#39;ont soutenu, ou les abandonner pour un tout autre plan. L&#39;opposition du filou aux PJs peut &#234;tre une exp&#233;rience sociale perverse visant &#224; saper leurs principes ou &#224; perturber le monde qui les entoure. Ou bien, ce n&#39;est qu&#39;un jeu pour lui, et les PJs sont tout simplement trop amusants pour &#234;tre ignor&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;H&#233;raut du futur.&lt;/b&gt; La N&#233;m&#233;sis est d&#233;vou&#233;e &#224; la cause du progr&#232;s, cherchant &#224; abolir les anciennes m&#233;thodes et &#224; inaugurer un destin glorieux. Ce nouvel avenir peut &#234;tre le fruit de la science, de bouleversements politiques, du retour en fanfare d&#39;une divinit&#233; ou de l&#39;arriv&#233;e d&#39;une intelligence extraterrestre. Quel que soit son id&#233;ologie, la n&#233;m&#233;sis promet qu&#39;elle va tout changer. Ses objectifs et son dogme peuvent &#234;tre &#233;tranges, ce qui am&#232;ne les PJs &#224; s&#39;opposer &#224; sa vision du futur ou simplement &#224; lui faire concurrence pour les m&#234;mes ressources. Par exemple, son objectif de collecter des artefacts &#233;tranges pourrait le placer dans une course contre les PJs pour les reliques d&#39;un autre monde. Bien qu&#39;il soit urbain et sophistiqu&#233;, le h&#233;raut traite la dissidence comme une ignorance mesquine. Au d&#233;but, il pourrait ressentir plus de peine pour la myopie de ses adversaires que de col&#232;re, mais il ne laissera pas les PJs s&#39;opposer au progr&#232;s.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Idole d&#233;chue.&lt;/b&gt; La n&#233;m&#233;sis &#233;tait autrefois une personne de grande renomm&#233;e, honor&#233;e pour ses actes h&#233;ro&#239;ques, ou v&#233;n&#233;r&#233;e en tant que mentor des PJs. Quelle que soit son ancienne notori&#233;t&#233;, l&#39;idole a connu des temps difficiles. Cela peut ne pas &#234;tre connu du public, et les premi&#232;res rencontres avec l&#39;idole d&#233;chue peuvent pr&#233;server la fa&#231;ade que les choses vont bien. Cependant, les PJs ont, sans le savoir, perturb&#233; le plan (peut-&#234;tre illicite) de l&#39;idole d&#233;chue pour r&#233;cup&#233;rer sa position, le plongeant encore plus dans le d&#233;sespoir. La n&#233;m&#233;sis devient obs&#233;d&#233;e par l&#39;id&#233;e de retrouver sa gloire d&#39;antan, recourant &#224; des m&#233;thodes de plus en plus douteuses et &#224; des stratag&#232;mes scandaleux dans une bataille perdue d&#39;avance pour regagner le respect ; en bref, il est devenu la chose m&#234;me contre laquelle il s&#39;opposait autrefois. Il se peut que les PJs ne r&#233;alisent jamais que leur ancien mentor et leur nouvel ennemi ne sont qu&#39;une seule et m&#234;me personne jusqu&#39;&#224; la confrontation finale, apr&#232;s laquelle ils doivent d&#233;cider de racheter ou de tuer l&#39;idole d&#233;chue.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Officiel obstructionniste.&lt;/b&gt; Le n&#233;m&#233;sis est une personne de pouvoir politique ou pr&#233;dominant, comme un officier de la loi, un juge moralisateur, un aristocrate ambitieux ou un noble arrogant. Quel que soit son r&#244;le, ou qu&#39;il tienne sa position par la naissance, la richesse ou la force personnelle, il est d&#233;vou&#233; corps et &#226;me &#224; un ensemble sp&#233;cifique de r&#232;gles que les PJs, au cours de leurs aventures, violent avec une certaine fr&#233;quence. L&#39;officiel obstructionniste ne s&#39;int&#233;resse pas aux motivations ou aux justifications des PJs. Pour la n&#233;m&#233;sis, ils sont de dangereux justiciers qui s&#232;ment le trouble dans leur sillage. Les soi-disant &quot;h&#233;ros&quot; sont des menaces qu&#39;il faut contr&#244;ler ou, &#224; d&#233;faut, &#233;liminer. Ce type de n&#233;m&#233;sis utilise ses relations pour rendre la vie des PJs plus difficile, mais toujours par des voies l&#233;gales. Il esp&#232;re que les PJs finiront par &#234;tre jet&#233;s en prison, exil&#233;s ou retir&#233;s de l&#39;&#233;quation, mais seulement apr&#232;s avoir mont&#233; un dossier en b&#233;ton contre eux.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Prot&#233;g&#233; aigri.&lt;/b&gt; La n&#233;m&#233;sis a peut-&#234;tre &#233;t&#233; le suivant d&#39;un des PJs ou d&#39;un alli&#233; proche, ou a partag&#233; le m&#234;me mentor. Le prot&#233;g&#233; a &#233;t&#233; renvoy&#233; de sa formation, que ce soit par manque de talent, pour avoir &#233;chou&#233; &#224; un test cl&#233; ou pour une quelconque transgression. Le prot&#233;g&#233; bl&#226;me un ou plusieurs PJs pour son &#233;chec, pr&#233;tendant que les PJs ont fait preuve de favoritisme apr&#232;s l&#39;avoir surpass&#233;, ou que les PJs ont sabot&#233; son &#233;ducation d&#39;une fa&#231;on ou d&#39;une autre.
+]]></body>
+  <raw><![CDATA[{s:MenuUI}{s:cs}{toc}Au cours de leur carrière d'aventurier, les personnages-joueurs sont confrontés à de nombreux obstacles et ennemis. Seule une véritable némésis, cependant, met continuellement les PJs à l'épreuve, cherchant à les faire tomber à chaque occasion. Qu'il s'agisse d'un magistrat corrompu qui contrecarre les efforts des PJ pour faire régner l'ordre dans une ville, ou d'un compagnon d'aventure qui sabote leurs tentatives pour s'attirer les faveurs du roi, une némésis peut être l'ennemi le plus mémorable des PJs, surtout s'il s'agit d'un adversaire qu'ils ont créé par leurs propres choix. Cette section fournit des directives détaillées pour aider les MJ à créer des adversaires récurrents qui sont mémorables et qui possèdent des recours au-delà des ennemis normaux. Un système de stratagèmes de némésis progressifs permet d'intensifier les rivalités au cours de multiples affrontements. Il présente également des suggestions d'ajustements de rencontres et de récompenses d'XP accrues que vous pourriez offrir pour rendre le face à face avec une némésis plus mortel, mais aussi plus gratifiant. Chaque stratagème déjoué devrait donner aux PJs l'occasion de contre-attaquer leur ennemi, ce qui pourrait donner lieu à de nouvelles aventures conçues pour aller dans le sens des plans des PJs. Ces nouvelles aventures sont également presque certaines d'approfondir la rancune entre les personnages et leur ennemi juré.
+
+===Provoquer une némésis===
+L'histoire d'un personnage et de sa némésis est un échange dans lequel chacun essaie toujours de prendre le dessus. Cela conduit la némésis à élaborer des stratégies de plus en plus sévères jusqu'à ce que l'une des deux personnes vainque l'autre de manière décisive, souvent en la tuant ou en la détruisant. De même, les némésis s'efforcent activement de déjouer, de saboter et d'entraver les PJ en employant des stratagèmes - une représentation des plans qu'ils mettent en œuvre et des ressources qu'ils possèdent.
+
+Chaque stratagème est un événement, une rencontre ou une aventure dans laquelle la némésis agit contre les PJs. Si la situation comporte un aspect social, pensez à faire de la lutte entre les PJs et leur némésis un [[Conflits sociaux|conflit social]]. Après chaque stratagème, les PJs peuvent exploiter une opportunité qui leur permet de riposter contre leur ennemi. Cet échange peut se produire de nombreuses fois au cours d'une campagne de longue durée.
+
+Pour refléter l'intensité de sa rivalité avec les PJs, chaque némésis possède une valeur de némésis. Cette valeur mesure le nombre de revers que les PJ ont infligé à leur némésis (par exemple en exploitant une opportunité avec succès ; voir la section [[Némésis UI#OPPORTUNITES|Opportunités]]), et il détermine la sévérité des stratagèmes de la némésis contre les PJ. Même si les PJs ne se rendent pas compte de la raison pour laquelle ils ont gagné l'inimitié initiale d'une némésis, la valeur d'une némésis particulier commence toujours à 1 ou plus ; si la némésis n'a aucune raison d'être contrarié par les actions des PJs, elle ne gaspillera pas de ressources pour des stratagèmes contre les PJs. Des revers particulièrement spectaculaires peuvent augmenter la valeur de némésis de 2. Les PJs peuvent avoir plusieurs némésis, mais la lutte permanente entre les PJs et chaque némésis a sa propre valeur.
+
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|- CLASS="titre"
+| Valeur de<br/>némésis || Niveau de<br/>némésis
+|- CLASS="premier"
+| 4 ou moins || Balbutiant
+|-
+| 5-8 || Engagé
+|-
+| 9 ou plus || Intense
+|}
+</div></div>Au fur et à mesure qu'une rivalité mûrit, le niveau de némésis de l'ennemi des PJs augmente. L'opposition de la némésis aux PJs progresse à travers trois niveaux, comme décrit ci-dessous.
+
+'''Balbutiant.''' Les PJs ont attiré l'attention de la némésis, qui les considère comme une menace mineure mais qui doit néanmoins être résolue. La némésis commence à collecter des informations sur les PJs et à utiliser des stratagèmes, mais elle n'est pas encore profondément investi dans la rivalité.
+
+'''Engagé.''' Les PJs ont affronté la némésis assez souvent pour qu'elle les considère comme un problème important. La némésis connaît les capacités des PJs et fait tout son possible pour élaborer des stratagèmes visant spécifiquement à les gêner lorsque ses plans s'opposent aux leurs.
+
+'''Intense.''' Les PJs et leur rival se sont déjoués si souvent que la némésis connaît les capacités des PJs dans les moindres détails. Elle est maintenant prête à utiliser tous les moyens nécessaires pour mettre fin à leur ingérence, une fois pour toutes. Cela signifie que la défaite des PJs est devenue l'un des principaux objectifs de la némésis, potentiellement secondaire seulement à l'objectif principal que les PJs continuent de déjouer.
+
+{s:Reference|OPPORTUNITES}
+===Opportunités===
+Une opportunité représente une possibilité pour les PJs de riposter contre leur némésis. Chaque fois que vous choisissez un stratagème, décidez quelle sorte d'opportunité, de faille ou d'indice les PJs pourraient découvrir en déjouant ou en subissant le stratagème. Les descriptions des stratagèmes dans la section suivante incluent les types d'opportunités que chacun d'entre eux peut exposer ; ces accroches facultatives sont destinées à donner aux PJs plus d'influence sur le type d'aventures qu'ils entreprennent, et elles peuvent aider les PJs à se sentir comme s'ils guidaient l'histoire de la campagne en fonction de leurs réactions aux plans de la némésis. Les opportunités se prêtent à des contre-stratagèmes conçus par les joueurs, qui peuvent prendre la forme de rencontres uniques ou d'aventures entières (voir [[Casses|Les casses]]). Si la section Stratagèmes propose de nombreuses options pour les némésis, les opportunités listées avec chaque stratégie ne sont que des possibilités parmi d'autres. N'hésitez pas à orienter les PJs vers d'autres opportunités qui correspondent au modus operandi de votre némésis et qui s'intègrent mieux à la campagne. Bien sûr, chaque opportunité que les PJs saisissent encouragera leur némésis à poursuivre son antagonisme, continuant - et intensifiant probablement- la rivalité.
+
+Ce va-et-vient entre les PJs et leur némésis devrait culminer dans une conclusion naturelle, orientée vers l'intrigue - comme une rencontre finale dramatique ou la fin d'un arc de campagne. Une telle interaction fonctionne mieux s'il y a une raison pour laquelle la némésis et les PJs ne se sont pas affrontés en combat jusqu'à ce point culminant. Les PJs ont tendance à trouver des moyens de tuer leurs ennemis, même ceux avec les plans d'évasion les plus infaillibles, et l'utilisation d'astuces narratives pour sauver la némésis peut susciter le ressentiment des joueurs. Néanmoins, si une némésis meurt prématurément mais dispose encore de ressources importantes, elle peut réussir à ressusciter, tout comme les PJs le feraient si l'un des leurs mourait dans la bataille. À moins que des événements spéciaux (ou même des stratagèmes délibérés) n'en décident autrement, un némésis continuera probablement à contrarier les PJs jusqu'à ce qu'il meure ou se réconcilie avec ses ennemis.
+
+===Stratagèmes===
+Une némésis n'utilise généralement qu'un seul stratagème à la fois. Ce n'est que si les PJs lui causent continuellement des revers importants qu'il utilisera deux stratagèmes simultanément. Une némésis emploie généralement des stratagèmes adaptés à son niveau de némésis actuel et liés à l'archétype ou au modus operandi que vous avez choisi pour le elle (voir [[Némésis#UI#PERSONNALITES|Personnalités des némésis]]). Il peut arriver qu'une stratégie simple ait du sens pour une némésis après avoir subi un revers mineur, mais elle ne devrait jamais employer un stratagème destiné à un niveau de némésis plus élevé.
+
+====Les récompenses des stratagèmes====
+Les PJs reçoivent une récompense d'XP lorsqu'ils s'impliquent dans le stratagème d'une némésis, qu'ils en sortent victorieux ou non. C'est à vous de décider quand les PJs gagnent cette XP. Il peut être judicieux d'attribuer cette XP à la fin d'une rencontre, qu'il s'agisse d'un combat unique ou d'une interaction avec les agents de la némésis, ou bien à la fin d'une aventure plus vaste influencée par les avantages ou le thème du stratagème. Les PJs ne gagnent pas d'XP s'ils évitent ou ignorent le stratagème. Cette récompense d'XP s'ajoute à l'XP que les PJs reçoivent pour avoir surmonté les rencontres pendant le déroulement du stratagème. Les récompenses en XP des stratagèmes sont relatives au [[Rencontres|Niveau Moyen du Groupe]] des PJs. Après s'être impliqués dans le stratagème d'une némésis, les PJs ne devraient jamais recevoir moins que le montant qu'ils recevraient pour avoir triomphé d'une rencontre de FP 1.
+
+'''Récompense faible.''' Les PJs gagnent de l'XP comme s'ils avaient triomphé d'une rencontre avec un FP égal à leur NMG - 3.
+
+'''Récompense moyenne.''' Les PJs gagnent de l'XP comme s'ils avaient triomphé d'une rencontre avec un FP égal à leur NMG - 2.
+
+'''Récompense forte.''' Les PJs gagnent de l'XP comme s'ils avaient triomphé d'une rencontre avec un FP égal à leur NMG - 1.
+
+====Stratagèmes balbutiants====
+Ces stratagèmes ont tendance à être simples, ainsi que moins coûteux et vicieux. Ils sont parfaits pour les némésis qui n'ont pas encore de raisons suffisantes pour dépenser de vastes ressources contre les PJs ou pour rendre les choses extrêmement personnelles.
+
+<table width="100%"><tr><td width="49%">
+<div class="BD">
+{s:BDTitre|Abondance}
+{s:BDTexte|'''Récompense d'XP''' faible}
+{s:BDTexte|La némésis utilise des ressources supplémentaires contre les PJs. Lors d'un combat avec la némésis ou contre un groupe que la némésis soutient, la némésis ou le groupe reçoit une augmentation de 25% de sa richesse par niveau, généralement appliquée à des équipements consommables que l'adversaire utilise avant le combat pour renforcer ses capacités. Lors d'une rencontre sans combat, le stratagème d'abondance confère à la némésis ou au groupe qu'elle soutient un modeste avantage dans une tâche où il/elle est en compétition avec les PJ. Par exemple, si un PJ et la némésis sont engagés dans un [[Duels verbaux|duel verbal]], le némésis gagne 3 [[Duels verbaux#INDULGENCES|indulgences]] (représentant l'accès à une meilleure formation, des sonneurs dans le public, ou des pots-de-vin ; voir [[Duels verbaux|pages 176-181]]).}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|La némésis révèle accidentellement une information de personnel sur son passé, sur l'origine de sa richesse, sur la personne qui gère son argent ou sur le fait que celui-ci provient d'une source illicite.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Faux témoin}
+{s:BDTexte|'''Récompense d'XP''' faible}
+{s:BDTexte|La némésis accuse les PJs d'un crime mineur ou d'un autre méfait, soit directement, soit par l'intermédiaire d'un mandataire qu'elle a manipulé pour fournir un faux témoignage. Les PJs doivent soit éviter les autorités, soit passer du temps à prouver leur innocence, souvent à travers une forme de défi social, et peut-être en s'engageant dans un [[Duels verbaux|duel verbal]] lors d'une procédure judiciaire. Le fait d'éviter les autorités ou de ne pas réussir à se disculper peut avoir des conséquences plus dramatiques, comme des amendes sévères, l'emprisonnement, une diminution de l'influence, ou même une forme de châtiment corporel.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Le témoin de la némésis n'arrive pas à tenir sa version des faits ou prouve qu'il sait quelque chose qu'il ne devrait pas savoir. Non seulement cela met à mal ses mensonges, mais cela implique aussi probablement la némésis dans un acte répréhensible.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Filature}
+{s:BDTexte|'''Récompense d'XP''' faible}
+{s:BDTexte|La némésis envoie un agent pour suivre les PJs à distance. Cette filature est un PNJ ou une créature (généralement un PNJ dont le FP est égal au NMG du groupe -3). Pendant qu'ils sont pris en filature, celle-ci relaie les activités et les plans généraux des PJs à la némésis. La filature suit les PJs dans les zones urbaines et sauvages, mais ne pénètre pas dans les endroits dangereux (comme un donjon ou une tombe). La filature fait des rapports quotidiens sur les activités des PJs. Si les PJs se séparent, la filature suit un PJ, soit celui qui semble faire quelque chose d'intéressant, soit celui qui est le plus facile à suivre. La filature utilise ses propres compétences de [[Perception]] et de [[Discrétion]] mais tente de rester cachée, en utilisant les abris et les foules pour cacher sa présence et en restant à distance pour augmenter le DD de Perception pour la remarquer. La filature tente toujours de fuir si elle est découverte ou abordée.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Si les PJs découvrent la filature, ils peuvent la piéger pour qu'elle donne de fausses informations à la némésis. Ils peuvent aussi capturer ou faire arrêter leur traqueur, privant ainsi leur ennemi d'un allié utile.}
+</div>
+</td><td width="2%">
+</td><td width="49%">
+<div class="BD">
+{s:BDTitre|Produits contrefaits}
+{s:BDTexte|'''Récompense d'XP''' faible}
+{s:BDTexte|La némésis dépose un objet magique contrefait dans un magasin qu'il pense que les PJs vont fréquenter. L'objet acheté par les PJs est en fait maudit. Il semble fonctionner normalement selon tous les tests, et le MJ peut soit choisir une malédiction, soit effectuer un jet sur la Table “[[Objets maudits#DETERMINATION|Malédictions ordinaires des objets]]”.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|En remontant la piste de l'objet maudit jusqu'à une boutique, on découvre quelqu'un qui travaille avec la némésis ou qui a été acheté par elle. Cela peut également révéler un trésor d'autres objets magiques (maudits ou non).}
+</div>
+
+<div class="BD">
+{s:BDTitre|Refus de service}
+{s:BDTexte|'''Récompense d'XP''' faible}
+{s:BDTexte|La némésis utilise la coercition pour forcer un groupe d'autres PNJ à ne plus s'associer ou faire des affaires avec les PJs (comme les PJs échangent souvent de grandes quantités de richesses, les marchands sont un groupe particulièrement efficace à choisir pour ce stratagème). Les membres de ce groupe de PNJs refusent d'aider les PJs ou de discuter avec eux, sauf si les PJs réussissent un test de [[Diplomatie]] ou d'[[Intimidation]]. Le DD est égal à 20 + le NMG du groupe.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Une fois le plan de la némésis révélé, le groupe contraint prouve qu'il n'apprécie pas d'être intimidé. Peut-être refusent-ils à la némésis toute aide future ou accordent-ils aux PJs une remise de 10% sur leurs services.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Subversion scandaleuse}
+{s:BDTexte|'''Récompense d'XP''' faible}
+{s:BDTexte|La némésis s'engage dans une campagne de diffusion de rumeurs qui entachent la réputation des PJs. Ces rumeurs ne sont pas omniprésentes, mais elles sont juste assez crédibles pour que la population ait des doutes sur les PJs. Ce stratagème diminue de 1 la valeur de [[Prestige]] des personnages, la [[Contacts|confiance de leurs contacts]] (système du ''Guide de campagne''), leur [[Réputation et renommée|renommée]] (système du ''Guide de campagne''), leurs [[Honneur|points d'honneur]] (système du ''Guide de campagne'') et leur total de [[Influence organisationnelle|points d'influence auprès des organisations]]. Autrement, la némésis peut cibler un seul personnage et doubler la diminution infligée.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Le fait de remonter les rumeurs jusqu'à la némésis contrecarre les mensonges et peut annuler les pertes subies par les PJs. A l'avenir, les membres de la communauté dans laquelle le némésis a répandu ses mensonges sont moins susceptibles de croire ses affirmations.}
+</div>
+</td></tr></table>
+
+====Stratagèmes engagés====
+Les stratagèmes engagés sont plus personnels et plus coûteux que les stratagèmes balbutiants. Ils témoignent de l'attention de la némésis et d'une rancune croissante et vicieuse.
+
+<table width="100%"><tr><td width="49%">
+<div class="BD">
+{s:BDTitre|Alliés en péril}
+{s:BDTexte|'''Récompense d'XP''' moyenne}
+{s:BDTexte|La némésis prend en otage un allié des PJs pendant qu'ils sont absents ou distraits. L'enlèvement de l'allié s'avère être un avantage pour la némésis et un inconvénient pour les PJs. Les PJs peuvent être obligés de décider s'ils doivent consacrer leurs efforts à localiser leur allié et tenter de le sauver, ou s'opposer à l'objectif de la némésis.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|L'allié capturé apprend beaucoup de choses pendant son emprisonnement, comme l'emplacement du repaire de la némésis, sa disposition intérieure ou les déplacements des gardes.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Alliés puissants}
+{s:BDTexte|'''Récompense d'XP''' moyenne}
+{s:BDTexte|La némésis conclut un accord temporaire avec un autre groupe. Cela lui permet de bénéficier des services d'un nombre d'alliés égal au nombre de PJs, bien que le FP de chaque allié ne soit généralement pas supérieur au NMG du groupe - 1. Ces alliés assistent le némésis dans tout ce qu'elle demande, qu'il s'agisse d'affronter directement les PJ ou de lui fournir de l'aide et des ressources. L'alliance dure un nombre de jours égal au nombre de Dés de Vie de la némésis.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Les PJs pourraient découvrir les points de tension entre la némésis et ses nouveaux alliés, et potentiellement utiliser leurs connaissances pour les monter les uns contre les autres. De même, les PJs pourraient attirer l'attention de la némésis sur un groupe ou un individu plus important et plus dangereux qui n'apprécie pas qu'un étranger manipule ses pions.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Appel à une force obscure}
+{s:BDTexte|'''Récompense d'XP''' moyenne}
+{s:BDTexte|La némésis conclut un pacte avec un fiélon ou une autre force obscure pour entraver les PJs. Il gagne le service temporaire d'un puissant [[type Extérieur|extérieur]] Mauvais (avec un FP qui n'est pas supérieur au NMG du groupe + 3), mais perd quelque chose d'important dans le processus. Il peut s'agir d'un malus à une valeur de caractéristique pendant que la créature est à son service. Ou bien, peut-être que le pacte exige qu'il fasse un sacrifice mensuel de créatures intelligentes (généralement un nombre égal au nombre de Dés de Vie de l'extérieur).}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Les PJs découvrent le prix payé par la némésis pour invoquer le pouvoir obscur, révélant peut-être une sorte de contrat infernal. D'autres groupes pourraient également le condamner pour ses sombres agissements.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Aucun échappatoire}
+{s:BDTexte|'''Récompense d'XP''' moyenne}
+{s:BDTexte|La némésis envoie un ou plusieurs agents devant les PJs pendant qu'ils voyagent ou se reposent, les chargeant de fabriquer des obstacles pour ralentir les PJs. Les dangers simples que les agents peuvent concevoir, et qui fournissent une faible récompense d'XP, incluent l'obstruction des voyages des PJs en détruisant un pont, le vol des montures des PJs, ou l'attraction d'animaux ordinaires vers le camp des PJs pour causer des ravages. Les obstacles plus menaçants qui offrent une récompense d'XP moyenne comprennent l'enfermement des PJs à l'intérieur d'un bâtiment et l'incendie de celui-ci, le déclenchement d'une avalanche, ou la provocation d'une créature dangereuse pour attaquer les PJs. Pour utiliser ce stratagème, la némésis doit avoir déjà utilisé au moins une fois un stratagème de filature contre les PJs (ou avoir un autre moyen de savoir où vont les PJs, par exemple si les PJs poursuivent la némésis ; voir [[Poursuites|pages 142-147]]).}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Le piège mis en place par les agents de la némésis révèle une menace qui pourrait être utilisée contre la némésis lors du voyage de retour. Attirer des créatures dans le camp des PJs pourrait également donner à ces bêtes l'odeur de la némésis et de ses agents, avec des conséquences inattendues.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Cambriolage}
+{s:BDTexte|'''Récompense d'XP''' moyenne}
+{s:BDTexte|La némésis tente de voler un objet de valeur aux PJs. S'ils ont stocké des objets de valeur à un endroit particulier, la némésis ou ses serviteurs tentent un [[Casses|casse]], volant généralement entre 10% et 100% de la valeur stockée à cet endroit. Si les PJs transportent toutes leurs richesses avec eux, la némésis envoie des pickpockets pour voler les objets des PJs, en utilisant la [[Discrétion]] et l'[[Escamotage]] pour voler ce qu'ils peuvent puis battre en retraite.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Les PJs trouvent des preuves qui pointent vers la némésis, ce qui leur donne l'opportunité de récupérer ce qu'ils ont perdu avec des intérêts lors d'un contre-casse.}
+</div>
+</td><td width="2%">
+</td><td width="49%">
+<div class="BD">
+{s:BDTitre|Demi-temps}
+{s:BDTexte|'''Récompense d'XP''' }
+{s:BDTexte|À la suite du dernier revers causé par les PJs, la némésis redouble d'efforts pour atteindre ses objectifs. Elle termine l'un de ses projets en cours (comme un rituel, une recherche, une influence, une construction ou toute autre tâche) en deux fois moins de temps que d'habitude. En échange, il est [[fatigué]] lorsque les PJs exploitent leur prochaine opportunité. Ou, si les PJs l'affrontent dans une situation hors combat, son travail s'avère bâclé, et cela fournit aux PJs un petit avantage contre lui.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Les PJs remarquent où la némésis a fait des économies sur ce projet et d'autres, révélant des vulnérabilités dans son nouvel armement, ses défenses magiques ou sa cachette.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Pas de récompense pour les seconds}
+{s:BDTexte|'''Récompense d'XP''' moyenne}
+{s:BDTexte|La némésis découvre la destination finale des PJs pendant qu'ils sont en quête, que ce soit par espionnage ou par divination, et arrive avant eux. Il peut alerter ceux qui se trouvent à leur destination et expliquer les forces et les faiblesses des PJs (donnant aux habitants le temps de fuir ou de préparer une embuscade) ou massacrer les gardiens et piller l'endroit, ne laissant derrière lui que des pièges pour les PJs.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|La tentative de la némésis de piller la destination révèle une section inexplorée regorgeant de plus grands trésors. Elle peut aussi déclencher une malédiction ou une défense qui la vise elle plutôt que les PJs.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Plan contingent}
+{s:BDTexte|'''Récompense d'XP''' moyenne}
+{s:BDTexte|La némésis s'est habituée à l'interférence des PJs et a développé un plan contingent. Lorsque les PJs sont sur le point de déjouer son plan, il bénéficie instantanément des effets d'un sort de 1er à 4ème niveau, comme avec le sort ''[[prévoyance]]''. Il peut aussi déclencher une contingence non magique, comme l'effondrement d'un plafond ou l'ouverture d'une vanne.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Dans sa précipitation, la némésis laisse derrière elle des preuves de l'emplacement de sa cachette ou un secret compromettant. De plus, d'autres personnes pourraient être blessées par sa fuite spectaculaire, ce qui les amènerait à aider les PJs.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Surprise}
+{s:BDTexte|'''Récompense d'XP''' moyenne}
+{s:BDTexte|La némésis lance une attaque surprise contre les PJs à un moment inopportun. La némésis peut envoyer un agent ou une équipe d'agents puissants contre les PJs alors qu'ils sont déjà au combat, ou lorsqu'ils se reposent après avoir épuisé leurs ressources pour la journée. La surprise peut également consister en un sabotage insoupçonné d'un plan ou d'un projet que les PJs poursuivent.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Dans l'intention de l'utiliser pour vaincre les PJs non préparés, les agents de la némésis possédaient un trésor plus précieux que d'habitude ou avaient en leur possession un des objets magiques utiles de la némésis. En battant leurs ennemis, les PJs gagnent un trésor utile pour eux-mêmes.}
+</div>
+</td></tr></table>
+
+====Stratagèmes intenses====
+Les stratagèmes intenses sont désespérés, coûteux, personnels, ou peut-être les trois à la fois. Seul un némésis ayant un profond besoin de se venger des nombreux revers que les PJs lui ont infligés est capable de telles extrémités.
+
+<table width="100%"><tr><td width="49%">
+<div class="BD">
+{s:BDTitre|Atout}
+{s:BDTexte|'''Récompense d'XP''' forte}
+{s:BDTexte|La némésis révèle un atout qu'il a conservé jusqu'au bon moment, comme des alliés monstrueux ou un objet magique puissant. Il doit y avoir quelque chose qui limite fortement son utilisation de cet atout ou qui l'a poussé à le retenir jusqu'à présent. Par exemple, l'objet peut s'épuiser après utilisation et être très difficile à recharger. Ou bien, peut-être que la connaissance de son alliance ruinerait sa réputation. Quoi qu'il en soit, la raison pour laquelle la némésis a caché l'atout pourrait constituer une opportunité particulièrement utile pour les PJs.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|L'utilisation de son atout attire une attention considérable sur la némésis, peut-être de la part de la loi, de l'ancien propriétaire de l'atout, ou d'une créature plus mortelle qui veut cet avantage pour elle-même. Les PJs peuvent s'allier temporairement avec cette créature, ou utiliser son antagonisme à leur avantage.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Au pied du mur}
+{s:BDTexte|'''Récompense d'XP''' forte}
+{s:BDTexte|La némésis liquide des biens et contracte des dettes pour obtenir des finances supplémentaires égales à sa richesse par niveau normale. Il peut dépenser cette richesse sur toutes les ressources qu'il désire ou pour obtenir un avantage significatif dans une entreprise dans laquelle il est en compétition directe avec les PJs. Les liquidations de la némésis peuvent apporter de la richesse à court terme, mais elles sont néfastes pour sa stabilité financière à long terme.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|La némésis a épuisé ses ressources et est dépourvue des nombreuses défenses magiques et terrestres que sa richesse lui procure normalement. Ou bien, l'un des alliés des PJs prend l'initiative de vérifier la comptabilité de celui qui a accordé au némésis sa richesse supplémentaire. L'allié trouve des erreurs ou des mensonges qui rendent furieux les bailleurs de fonds du némésis, les amenant à couper leurs liens avec lui ou à chercher à rappeler leur prêt.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Cathexis fantômatique}
+{s:BDTexte|'''Récompense d'XP''' forte}
+{s:BDTexte|Les PJs ont tué leur némésis, mais son obsession le fait ressusciter sous la forme d'un fantôme qui n'a pas fini de tourmenter les PJs. Son esprit se lève 1d4 jours après sa mort, et son [[Fantôme, archétype|fantôme]] est lié à ses possessions de son vivant. Elle peut utiliser ''[[localisation dobjet|localisation d'objet]]'' à volonté comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] pour localiser n'importe lequel de ces objets, et une fois par jour, elle peut utiliser ''[[scrutation suprême]]'' pour espionner une créature qui les porte comme s'il était familier avec cette créature (même si l'objet lui-même est dans un espace extradimensionnel). S'il réussit à localiser un objet avec l'un ou l'autre de ces effets, il peut se transporter à son emplacement une fois par jour, comme avec ''[[mot de rappel]]'', en fusionnant sa forme intangible avec l'objet et en se déplaçant avec lui. Pendant qu'il habite l'objet, il peut utiliser sa capacité [[Fantôme, archétype|possession maléfique]] pour posséder les créatures à proximité ; une créature portant ou maniant l'une des anciennes possessions du fantôme subit un malus de - 4 aux [[jds|jets de sauvegarde]] contre cette capacité. Devenir un fantôme limite également la némésis, et représente une nouvelle opportunité pour les PJs de riposter.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Le refus de la némésis de passer dans la mort attire l'attention d'une créature dangereuse, comme une [[guenaude noire]] ou un [[sous-type Psychopompe|psychopompe]]. Ces créatures cherchent à s'emparer de l'âme de la némésis, mais elles entraînent également les PJs dans de nouvelles aventures d'un autre monde.}
+</div>
+</td><td width="2%">
+</td><td width="49%">
+<div class="BD">
+{s:BDTitre|Ennemis publics}
+{s:BDTexte|'''Récompense d'XP''' forte}
+{s:BDTexte|Version plus sévère du stratagème du faux témoin, la némésis persuade le gouvernement local que les PJs ont commis une trahison. Les PJs doivent non seulement faire face aux pitreries de la némésis, mais aussi échapper à la traque des autorités de l'État et à d'éventuelles poursuites pénales. Les PJs peuvent toujours tenter de prouver leur innocence, mais cela est extrêmement difficile et demande beaucoup de temps et de ressources aux PJs. De plus, prouver leur innocence peut ne pas suffire, et les PJs peuvent être amenés à travailler en marge de la société pour atteindre leurs autres objectifs.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Les mensonges de la némésis sont eux-mêmes un crime et, en se rachetant, les PJs attirent le regard de la loi sur leur ennemi.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Fausse identité}
+{s:BDTexte|'''Récompense d'XP''' forte}
+{s:BDTexte|La némésis utilise un ''[[clone]]'', un ''[[simulacre]]'', un [[doppelganger]] ou toute autre imposture de lui-même pour faire croire qu'il se trouve à un endroit plutôt qu'à un autre. Le MJ doit décider de mettre en place ce stratagème avant que les PJs ne rencontrent la némésis et utiliser les stats de l'imposteur, plutôt que de faire combattre les PJs contre la véritable némésis au meilleur de sa puissance ; après que les PJs aient tué l'imposteur, le MJ doit révéler que c'était un faux.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Les PJs pourraient être en mesure de convaincre de nombreux agents de leur némésis que leur maître est mort, les poussant à quitter leur poste ou à révéler des secrets qui semblent maintenant sans intérêt.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Loyauté d'outre-tombe}
+{s:BDTexte|'''Récompense d'XP''' forte}
+{s:BDTexte|Les PJs tuent un suivant fanatique de la némésis, qui revient de la mort sous la forme d'un [[revenant]]. Pour les parties de niveau supérieur, plusieurs associés tués peuvent revenir sous la forme d'un groupe de revenants ou de morts-vivants plus puissants. Ces abominations impies poursuivent les PJs sans relâche, cherchant à se venger. Contrairement à la plupart des stratagèmes, la némésis peut ne pas être à l'origine de celui-ci.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Même si la némésis n'utilise généralement pas d'alliés morts-vivants, dans ce cas, les morts ont servi ses intérêts. Cela suscite l'attention d'une foi d'alignement Bon qui a maintenant des raisons de croire que la némésis est un ennemi des vivants.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Mort d'un allié}
+{s:BDTexte|'''Récompense d'XP''' forte}
+{s:BDTexte|La némésis tue sans pitié un proche allié des PJs. L'allié devrait être une personne qui offre une aide importante aux PJs ou avec qui ils ont un lien personnel étroit. La méthode d'assassinat devrait fournir aux PJs une bonne occasion de riposter à la némésis, car après ce stratagème, il est probable que les PJs soient prêts à faire couler le sang.}
+{s:BDSousTitre|Opportunités}
+{s:BDTexte|Ce n'est peut-être pas la première fois que la némésis a recours au meurtre. Une mort publique met en lumière les autres ennemis de la némésis, et dans leur sympathie, ils s'allient aux PJs.}
+</div>
+</td></tr></table>
+
+{s:Reference|PERSONNALITES}
+===Personnalités des némésis===
+Parce que le fait d'avoir une némésis est plus personnel que le simple fait d'avoir un adversaire, il est important de prendre en compte ce qui le fait tiquer. Certains archétypes de némésis, tels que ceux présentés dans les suggestions suivantes, sont courants dans la fiction et permettent de créer un ennemi mémorable.
+
+'''Filou.''' Le némésis est un agent du chaos, un fauteur de troubles qui peut agir avec malice ou par pur caprice. Il ne respecte ni les lois, ni les autorités, ni les systèmes de contrôle. Il peut être enclin à faire des actes de charité quand l'envie lui en prend. Il peut même être un héros pour certains, mais il peut tout aussi rapidement se retourner contre ceux qui l'ont soutenu, ou les abandonner pour un tout autre plan. L'opposition du filou aux PJs peut être une expérience sociale perverse visant à saper leurs principes ou à perturber le monde qui les entoure. Ou bien, ce n'est qu'un jeu pour lui, et les PJs sont tout simplement trop amusants pour être ignorés.
+
+'''Héraut du futur.''' La Némésis est dévouée à la cause du progrès, cherchant à abolir les anciennes méthodes et à inaugurer un destin glorieux. Ce nouvel avenir peut être le fruit de la science, de bouleversements politiques, du retour en fanfare d'une divinité ou de l'arrivée d'une intelligence extraterrestre. Quel que soit son idéologie, la némésis promet qu'elle va tout changer. Ses objectifs et son dogme peuvent être étranges, ce qui amène les PJs à s'opposer à sa vision du futur ou simplement à lui faire concurrence pour les mêmes ressources. Par exemple, son objectif de collecter des artefacts étranges pourrait le placer dans une course contre les PJs pour les reliques d'un autre monde. Bien qu'il soit urbain et sophistiqué, le héraut traite la dissidence comme une ignorance mesquine. Au début, il pourrait ressentir plus de peine pour la myopie de ses adversaires que de colère, mais il ne laissera pas les PJs s'opposer au progrès.
+
+'''Idole déchue.''' La némésis était autrefois une personne de grande renommée, honorée pour ses actes héroïques, ou vénérée en tant que mentor des PJs. Quelle que soit son ancienne notoriété, l'idole a connu des temps difficiles. Cela peut ne pas être connu du public, et les premières rencontres avec l'idole déchue peuvent préserver la façade que les choses vont bien. Cependant, les PJs ont, sans le savoir, perturbé le plan (peut-être illicite) de l'idole déchue pour récupérer sa position, le plongeant encore plus dans le désespoir. La némésis devient obsédée par l'idée de retrouver sa gloire d'antan, recourant à des méthodes de plus en plus douteuses et à des stratagèmes scandaleux dans une bataille perdue d'avance pour regagner le respect ; en bref, il est devenu la chose même contre laquelle il s'opposait autrefois. Il se peut que les PJs ne réalisent jamais que leur ancien mentor et leur nouvel ennemi ne sont qu'une seule et même personne jusqu'à la confrontation finale, après laquelle ils doivent décider de racheter ou de tuer l'idole déchue.
+
+'''Officiel obstructionniste.''' Le némésis est une personne de pouvoir politique ou prédominant, comme un officier de la loi, un juge moralisateur, un aristocrate ambitieux ou un noble arrogant. Quel que soit son rôle, ou qu'il tienne sa position par la naissance, la richesse ou la force personnelle, il est dévoué corps et âme à un ensemble spécifique de règles que les PJs, au cours de leurs aventures, violent avec une certaine fréquence. L'officiel obstructionniste ne s'intéresse pas aux motivations ou aux justifications des PJs. Pour la némésis, ils sont de dangereux justiciers qui sèment le trouble dans leur sillage. Les soi-disant "héros" sont des menaces qu'il faut contrôler ou, à défaut, éliminer. Ce type de némésis utilise ses relations pour rendre la vie des PJs plus difficile, mais toujours par des voies légales. Il espère que les PJs finiront par être jetés en prison, exilés ou retirés de l'équation, mais seulement après avoir monté un dossier en béton contre eux.
+
+'''Protégé aigri.''' La némésis a peut-être été le suivant d'un des PJs ou d'un allié proche, ou a partagé le même mentor. Le protégé a été renvoyé de sa formation, que ce soit par manque de talent, pour avoir échoué à un test clé ou pour une quelconque transgression. Le protégé blâme un ou plusieurs PJs pour son échec, prétendant que les PJs ont fait preuve de favoritisme après l'avoir surpassé, ou que les PJs ont saboté son éducation d'une façon ou d'une autre.]]></raw>
+  <fullName>Pathfinder-RPG.Némésis UI</fullName>
+</wikiPage>

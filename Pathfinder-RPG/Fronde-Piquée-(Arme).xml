@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fronde piquée</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-01 18:34:51Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Caractéristiques des armes</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.arme à distance</link><link>Pathfinder-RPG.fronde (arme)</link><link>Pathfinder-RPG.fustibale halfelin (arme)</link><link>Pathfinder-RPG.double fronde (arme)</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.AO</link><link>Pathfinder-RPG.Halfelin</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Halfelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Halfelin.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;halfelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; — ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg ; &lt;b&gt;Groupes&lt;/b&gt; —  
+&lt;b&gt;D&#233;g&#226;ts&lt;/b&gt; 1d4 (P), 1d6 (M) ; &lt;b&gt;Critique&lt;/b&gt; &#215;2 ; &lt;b&gt;Port&#233;e&lt;/b&gt; — ; &lt;b&gt;Type&lt;/b&gt; C ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#CROCENJAMBE&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;croc-en-jambe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#DESARMEMENT&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;d&#233;sarmement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#SPECTACLE&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;spectacle&lt;/a&gt;  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABEXOTIQUES&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Armes exotiques&lt;/a&gt; ; &lt;b&gt;Maniement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armeadistance.html&quot; title=&quot;arme &#224; distance&quot;&gt;arme &#224; distance&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+La fronde piqu&#233;e, qui n’est techniquement pas un type d’arme unique, est une &lt;a class=&quot;pagelink&quot; href=&quot;Fronde-(Arme).html&quot; title=&quot;Fronde&quot;&gt;fronde&lt;/a&gt;, un &lt;a class=&quot;pagelink&quot; href=&quot;Fustibale-Halfelin-(Arme).html&quot; title=&quot;Fustibale halfelin&quot;&gt;fustibale&lt;/a&gt; ou une &lt;a class=&quot;pagelink&quot; href=&quot;Double-Fronde-(Arme).html&quot; title=&quot;Double fronde&quot;&gt;double fronde&lt;/a&gt; dont la poche est cousue autour de la munition, cr&#233;ant une sorte de fl&#233;au l&#233;ger peu puissant. La munition cousue dans la fronde n’entre pas en compte dans le type ni le nombre de d&#233;g&#226;ts qu’elle inflige. Une fronde piqu&#233;e ne peut pas &#234;tre utilis&#233;e pour lancer des munitions &#224; moins que la ficelle ou la corde maintenant la poche ferm&#233;e ne soit coup&#233;e (par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; qui provoque des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;Attaque d&amp;#39;opportunit&#233; (redirection)&quot;&gt;attaques d’opportunit&#233;&lt;/a&gt;).
+]]></body>
+  <raw><![CDATA[{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}'''Prix''' — ; '''Poids''' 0,5 kg ; '''Groupes''' —  
+'''Dégâts''' 1d4 (P), 1d6 (M) ; '''Critique''' ×2 ; '''Portée''' — ; '''Type''' C ; '''Spécial''' [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#SPECTACLE|spectacle]]  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; '''Maniement''' [[arme à distance|arme à distance]]</span>
+<hr>
+La fronde piquée, qui n’est techniquement pas un type d’arme unique, est une [[fronde (arme)|fronde]], un [[fustibale halfelin (arme)|fustibale]] ou une [[double fronde (arme)|double fronde]] dont la poche est cousue autour de la munition, créant une sorte de fléau léger peu puissant. La munition cousue dans la fronde n’entre pas en compte dans le type ni le nombre de dégâts qu’elle inflige. Une fronde piquée ne peut pas être utilisée pour lancer des munitions à moins que la ficelle ou la corde maintenant la poche fermée ne soit coupée (par une [[action complexe]] qui provoque des [[AO|attaques d’opportunité]]).]]></raw>
+  <fullName>Pathfinder-RPG.fronde piquée (arme)</fullName>
+</wikiPage>

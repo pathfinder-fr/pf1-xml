@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kobold</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Bestiaire</category></categories>
+  <lastModified>2026-05-16 18:46:40Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.Aboyeur kobold</link><link>Pathfinder-RPG.Alarme</link><link>Pathfinder-RPG.Alarme sélective</link><link>Pathfinder-RPG.Bestiaire (Contenu)</link><link>Pathfinder-RPG.Bombardier kobold</link><link>Pathfinder-RPG.Cartes fantasmagoriques</link><link>Pathfinder-RPG.Chef kobold</link><link>Pathfinder-RPG.Diablotin</link><link>Pathfinder-RPG.Escrimeur kobold</link><link>Pathfinder-RPG.Fanatique gobelours</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Kobold</link><link>Pathfinder-RPG.Kobold (race)</link><link>Pathfinder-RPG.Kyrane</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Mage des écailles kobold</link><link>Pathfinder-RPG.Mage rusé kobold</link><link>Pathfinder-RPG.Maître de guerre kobold</link><link>Pathfinder-RPG.Maître trappeur kobold</link><link>Pathfinder-RPG.monstre Sniper kobold</link><link>Pathfinder-RPG.Palefrenier des monstres kobold</link><link>Pathfinder-RPG.Parle-diable kobold</link><link>Pathfinder-RPG.Réincarnation</link><link>Pathfinder-RPG.Réincarnation despion</link><link>Pathfinder-RPG.Rôdeur infiltré (rôdeur)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type reptilien</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Sensibilité à la lumière</link><link>Pathfinder-RPG.lance (arme)</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Profession</link><link>Pathfinder-RPG.Rat sanguinaire</link><link>Pathfinder-RPG.Kobold</link><link>Pathfinder-RPG.Mage des écailles kobold</link><link>Pathfinder-RPG.monstre Sniper kobold</link><link>Pathfinder-RPG.Bombardier kobold</link><link>Pathfinder-RPG.Palefrenier des monstres kobold</link><link>Pathfinder-RPG.Escrimeur kobold</link><link>Pathfinder-RPG.Kyrane</link><link>Pathfinder-RPG.Maître trappeur kobold</link><link>Pathfinder-RPG.Mage rusé kobold</link><link>Pathfinder-RPG.Maître de guerre kobold</link><link>Pathfinder-RPG.Aboyeur kobold</link><link>Pathfinder-RPG.Parle-diable kobold</link><link>Pathfinder-RPG.Chef kobold</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.BMO</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.Intelligence</link><link>Pathfinder-RPG.Kobold (race)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Kobold&lt;div style=&quot;float:right;&quot;&gt;FP 1/4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Souterrain&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire&lt;/i&gt; p.188
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 100
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Kobold, combattant 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Reptilien.html&quot; title=&quot;Reptilien (sous-type)&quot;&gt;reptilien&lt;/a&gt;) de taille P, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 12, pris au d&#233;pourvu 14 (armure +2, Dex +1, naturelle +1, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 5 (1d10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +2, &lt;b&gt;Vol&lt;/b&gt; -1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Sensibilit&#233;-&#192;-La-Lumi&#232;re-(Capacit&#233;).html&quot; title=&quot;Sensibilit&#233; &#224; la lumi&#232;re&quot;&gt;sensibilit&#233; &#224; la lumi&#232;re&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Selon les statistiques de la &lt;a class=&quot;pagelink&quot; href=&quot;Lance-(Arme).html&quot; title=&quot;Lance&quot;&gt;lance&lt;/a&gt;, l&#39;attaque de corps &#224; corps devrait avoir un multiplicateur critique de &#215;3.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; lance, +1 (1d6-1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; fronde, +3 (1d3–1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 9, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 10, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 9, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; -1, &lt;b&gt;DMD&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (pi&#232;ges) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; +2 (pi&#232;ges), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; +2 (mineur)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; ing&#233;nieux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; souterrain ou for&#234;ts denses &#224; climat temp&#233;r&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, bande (2-4), nid (5-30 et le m&#234;me de non-combattants, 1 sergent de niveau 3 par 20 adultes, et 1 chef de niveau 4-6), ou tribu (31-300 et 35% non-combattants, 1 sergent de niveau 3 par 20 adultes, 2 lieutenants de niveau 4, 1 chef de niveau 6-8 et 5-16 &lt;a class=&quot;pagelink&quot; href=&quot;Rat-Sanguinaire.html&quot; title=&quot;Rat, Rat sanguinaire&quot;&gt;rats sanguinaires&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (armure de cuir, lance, fronde, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;INGENIEUX&quot; href=&quot;#INGENIEUX&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ing&#233;nieux (Ex)&lt;/b&gt; Les comp&#233;tences &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (pi&#232;ges) et &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; sont toujours des comp&#233;tences de classe pour les kobolds.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;IMG SRC=&quot;/wiki/public/upload/Bestiaire/Kobold.jpg&quot; WIDTH=&quot;70%&quot; STYLE=&quot;float: right; background-color: white; padding: 0 0 5px 5px;&quot;/&gt;
+&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de Kobold&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Kobold.html&quot; title=&quot;Kobold&quot;&gt;Kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1/4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mage-Des-&#201;cailles-Kobold.html&quot; title=&quot;Mage des &#233;cailles kobold&quot;&gt;Mage des &#233;cailles kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1/2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monstre-Sniper-Kobold.html&quot; title=&quot;Sniper kobold&quot;&gt;Sniper kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1/2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bombardier-Kobold.html&quot; title=&quot;Bombardier kobold&quot;&gt;Bombardier kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Palefrenier-Des-Monstres-Kobold.html&quot; title=&quot;Palefrenier des monstres kobold&quot;&gt;Palefrenier des monstres kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Escrimeur-Kobold.html&quot; title=&quot;Escrimeur kobold&quot;&gt;Escrimeur kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Kyrane.html&quot; title=&quot;Kyrane&quot;&gt;Kyrane&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-Trappeur-Kobold.html&quot; title=&quot;Ma&#238;tre trappeur kobold&quot;&gt;Ma&#238;tre trappeur kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mage-Rus&#233;-Kobold.html&quot; title=&quot;Mage rus&#233; kobold&quot;&gt;Mage rus&#233; kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;tre-De-Guerre-Kobold.html&quot; title=&quot;Ma&#238;tre de guerre kobold&quot;&gt;Ma&#238;tre de guerre kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aboyeur-Kobold.html&quot; title=&quot;Aboyeur kobold&quot;&gt;Aboyeur kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Parle-Diable-Kobold.html&quot; title=&quot;Parle-diable kobold&quot;&gt;Parle-diable kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chef-Kobold.html&quot; title=&quot;Chef kobold&quot;&gt;Chef kobold&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Ce petit humano&#239;de reptilien couvert d’&#233;cailles poss&#232;de une gueule remplie de minuscules dents et une longue queue.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les kobolds sont des cr&#233;atures de l’obscurit&#233;,
+qu’on retrouve le plus souvent au sein de
+vastes terriers souterrains ou dans les recoins
+les plus sombres des for&#234;ts, l&#224; o&#249; le soleil ne
+brille jamais. Les kobolds se basent sur leurs
+ressemblances physiques pour affirmer avec vigueur qu’ils descendent
+des dragons et que leur destin est de diriger la terre qui s’&#233;tend sous
+les ailes de leurs illustres cousins. Les dragons, quant &#224; eux, n’ont pas
+grand chose &#224; faire de ces vermines repoussantes.&lt;br /&gt;&lt;br /&gt;Les kobolds parlent avec assurance de leur droit divin et
+du destin vers lequel ils sont appel&#233;s, mais ils sont pleinement
+conscients de leurs faiblesses. Ces comploteurs couards ne
+combattent pas &#224; la loyale s’ils peuvent l’&#233;viter. Ils pr&#233;f&#232;rent tendre
+des embuscades ou des coups fourr&#233;s, se terrer dans leurs repaires
+derri&#232;re d’innombrables pi&#232;ges grossiers mais efficaces ou &#233;craser
+l’ennemi sous les attaques de vastes hordes glapissantes.&lt;br /&gt;&lt;br /&gt;La couleur des kobolds varie d’un individu &#224; l’autre, m&#234;me au sein
+d’une m&#234;me couv&#233;e. On retrouve chez eux les couleurs des dragons
+chromatiques ; le rouge est le plus commun mais les kobolds blancs,
+verts, bleus et noirs sont assez nombreux &#233;galement.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Les kobolds en tant que PJ&lt;a class=&quot;headeranchor&quot; id=&quot;Les_kobolds_en_tant_que_PJ_0&quot; href=&quot;#Les_kobolds_en_tant_que_PJ_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;
+Les kobolds ne poss&#232;dent pas de d&#233;s de vie raciaux et progressent en acqu&#233;rant des niveaux de classes. Un kobold dot&#233; de niveaux dans des classes de PNJ re&#231;oit une p&#233;nalit&#233; de -3 &#224; son FP (au lieu de la p&#233;nalit&#233; normale de -2). Un PJ kobold peut b&#233;n&#233;ficier d&#39;un don suppl&#233;mentaire au niveau 1, &#224; choisir parmi les dons raciaux des kobolds (voir &lt;i&gt;Manuel des races&lt;/i&gt;). Les traits raciaux des kobolds sont les suivants :
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;-4 Force, +2 Dext&#233;rit&#233;, -2 Constitution.&lt;/b&gt; Les kobolds sont rapides mais faibles.&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Armure.&lt;/b&gt; Les kobolds re&#231;oivent un bonus d&#39;armure naturelle de +1.&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ing&#233;nieux.&lt;/b&gt; Les kobolds gagnent un bonus racial de +2 aux tests d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (pi&#232;ges), de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Profession.html&quot; title=&quot;Profession&quot;&gt;Profession&lt;/a&gt; (mineur). De plus, &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (pi&#232;ges) et &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; sont toujours des comp&#233;tences de classe pour eux.&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Taille P.&lt;/b&gt; Les kobolds sont des cr&#233;atures de taille P. Ils gagnent un bonus de taille de +1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;, un bonus de taille de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt;, un malus de -1 au &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bmo.html&quot; title=&quot;BMO&quot;&gt;BMO&lt;/a&gt; et au &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Dmd.html&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; et un bonus de taille de +4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;.&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vision dans le noir.&lt;/b&gt; Les kobolds peuvent &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;voir dans le noir&lt;/a&gt; jusqu&#39;&#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vitesse normale.&lt;/b&gt; La vitesse de d&#233;placement de base des kobolds est de 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;).&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Vuln&#233;rabilit&#233;.&lt;/b&gt; Les kobolds sont &lt;a class=&quot;pagelink&quot; href=&quot;Sensibilit&#233;-&#192;-La-Lumi&#232;re-(Capacit&#233;).html&quot; title=&quot;Sensibilit&#233; &#224; la lumi&#232;re&quot;&gt;sensibles &#224; la lumi&#232;re&lt;/a&gt;.&lt;BR&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Langues.&lt;/b&gt; Les kobolds parlent automatiquement le draconique. S&#39;ils disposent d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Intelligence.html&quot; title=&quot;L&amp;#39;Intelligence&quot;&gt;Intelligence&lt;/a&gt; assez &#233;lev&#233;e, ils peuvent choisir des langues suppl&#233;mentaires parmi les suivantes : commun, commun des profondeurs, gnome, nain.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;div class=&quot;voiraussi&quot;&gt;
+&lt;h4&gt;Voir aussi&lt;/h4&gt;La page de la race &lt;a class=&quot;pagelink&quot; href=&quot;Kobold-(Race).html&quot; title=&quot;Les kobolds&quot;&gt;Kobold&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Kobold|FP 1/4}
+{s:pucem|Humanoïde|Souterrain|Tempéré}
+{s:BDTexte|''Source : Bestiaire'' p.188}
+{s:BDTexte|'''PX''' 100}
+{s:BDTexte|Kobold, combattant 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type reptilien|reptilien]]) de taille P, LM}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 12, pris au dépourvu 14 (armure +2, Dex +1, naturelle +1, taille +1)}
+{s:BDTexte|'''pv''' 5 (1d10)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +2, '''Vol''' -1}
+{s:BDTexte|'''Faiblesses''' [[sensibilité à la lumière]]}
+{s:BDSousTitre|Attaque}{s:Desambi|Selon les statistiques de la [[lance (arme)|lance]], l'attaque de corps à corps devrait avoir un multiplicateur critique de ×3.}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' lance, +1 (1d6-1)}
+{s:BDTexte|'''Distance''' fronde, +3 (1d3–1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 9, '''Dex''' 13, '''Con''' 10, '''Int''' 10, '''Sag''' 9, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +1, '''BMO''' -1, '''DMD''' 10}
+{s:BDTexte|'''Dons''' [[Talent]] ([[Perception]])}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (pièges) +6, [[Discrétion]] +5, [[Perception]] +5 ; '''Modificateurs raciaux''' [[Artisanat]] +2 (pièges), [[Perception]] +2, [[Profession]] +2 (mineur)}
+{s:BDTexte|'''Langues''' draconique}
+{s:BDTexte|'''Particularités''' ingénieux}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' souterrain ou forêts denses à climat tempéré}
+{s:BDTexte|'''Organisation sociale''' solitaire, bande (2-4), nid (5-30 et le même de non-combattants, 1 sergent de niveau 3 par 20 adultes, et 1 chef de niveau 4-6), ou tribu (31-300 et 35% non-combattants, 1 sergent de niveau 3 par 20 adultes, 2 lieutenants de niveau 4, 1 chef de niveau 6-8 et 5-16 [[rat sanguinaire|rats sanguinaires]])}
+{s:BDTexte|'''Trésor''' équipement de PNJ (armure de cuir, lance, fronde, autres trésors)}
+{s:BDSousTitre|Capacités spéciales}
+{s:Reference|INGENIEUX}
+{s:BDTexte|'''Ingénieux (Ex)''' Les compétences [[Artisanat]] (pièges) et [[Discrétion]] sont toujours des compétences de classe pour les kobolds.}
+</div>
+
+{s:ImageDroite|Bestiaire/Kobold.jpg|70%}
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de Kobold
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Kobold]] || 1/4
+|-
+| [[Mage des écailles kobold]] || 1/2
+|-
+| [[monstre Sniper kobold|Sniper kobold]] || 1/2
+|-
+| [[Bombardier kobold]] || 1
+|-
+| [[Palefrenier des monstres kobold]] || 1
+|-
+| [[Escrimeur kobold]] || 3
+|-
+| [[Kyrane]] || 3
+|-
+| [[Maître trappeur kobold]] || 4
+|-
+| [[Mage rusé kobold]] || 5
+|-
+| [[Maître de guerre kobold]] || 6
+|-
+| [[Aboyeur kobold]] || 7
+|-
+| [[Parle-diable kobold]] || 7
+|-
+| [[Chef kobold]] || 8
+|}
+</div>''Ce petit humanoïde reptilien couvert d’écailles possède une gueule remplie de minuscules dents et une longue queue.''
+
+Les kobolds sont des créatures de l’obscurité,
+qu’on retrouve le plus souvent au sein de
+vastes terriers souterrains ou dans les recoins
+les plus sombres des forêts, là où le soleil ne
+brille jamais. Les kobolds se basent sur leurs
+ressemblances physiques pour affirmer avec vigueur qu’ils descendent
+des dragons et que leur destin est de diriger la terre qui s’étend sous
+les ailes de leurs illustres cousins. Les dragons, quant à eux, n’ont pas
+grand chose à faire de ces vermines repoussantes.
+
+Les kobolds parlent avec assurance de leur droit divin et
+du destin vers lequel ils sont appelés, mais ils sont pleinement
+conscients de leurs faiblesses. Ces comploteurs couards ne
+combattent pas à la loyale s’ils peuvent l’éviter. Ils préfèrent tendre
+des embuscades ou des coups fourrés, se terrer dans leurs repaires
+derrière d’innombrables pièges grossiers mais efficaces ou écraser
+l’ennemi sous les attaques de vastes hordes glapissantes.
+
+La couleur des kobolds varie d’un individu à l’autre, même au sein
+d’une même couvée. On retrouve chez eux les couleurs des dragons
+chromatiques ; le rouge est le plus commun mais les kobolds blancs,
+verts, bleus et noirs sont assez nombreux également.
+
+====Les kobolds en tant que PJ====
+
+Les kobolds ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classes. Un kobold doté de niveaux dans des classes de PNJ reçoit une pénalité de -3 à son FP (au lieu de la pénalité normale de -2). Un PJ kobold peut bénéficier d'un don supplémentaire au niveau 1, à choisir parmi les dons raciaux des kobolds (voir ''Manuel des races''). Les traits raciaux des kobolds sont les suivants :
+* '''-4 Force, +2 Dextérité, -2 Constitution.''' Les kobolds sont rapides mais faibles.<BR>
+* '''Armure.''' Les kobolds reçoivent un bonus d'armure naturelle de +1.<BR>
+* '''Ingénieux.''' Les kobolds gagnent un bonus racial de +2 aux tests d'[[Artisanat]] (pièges), de [[Perception]] et de [[Profession]] (mineur). De plus, [[Artisanat]] (pièges) et [[Discrétion]] sont toujours des compétences de classe pour eux.<BR>
+* '''Taille P.''' Les kobolds sont des créatures de taille P. Ils gagnent un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 aux [[jet dattaque|jets d'attaque]], un malus de -1 au [[BMO]] et au [[DMD]] et un bonus de taille de +4 aux tests de [[Discrétion]].<BR>
+* '''Vision dans le noir.''' Les kobolds peuvent [[vision dans le noir|voir dans le noir]] jusqu'à 18 m (12 {s:c}).<BR>
+* '''Vitesse normale.''' La vitesse de déplacement de base des kobolds est de 9 m (6 {s:c}).<BR>
+* '''Vulnérabilité.''' Les kobolds sont [[sensibilité à la lumière|sensibles à la lumière]].<BR>
+* '''Langues.''' Les kobolds parlent automatiquement le draconique. S'ils disposent d'un [[Intelligence]] assez élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : commun, commun des profondeurs, gnome, nain.
+
+{s:VoirAussiAvant}La page de la race [[Kobold (race)|Kobold]]{s:VoirAussiAprès}
+</div></td></tr></table>
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Kobold</fullName>
+</wikiPage>

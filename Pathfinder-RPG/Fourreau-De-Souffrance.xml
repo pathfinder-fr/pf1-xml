@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fourreau de souffrance</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-06-13 20:37:40Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Rayon de fièvre</link><link>Pathfinder-RPG.Action immédiate</link><link>Pathfinder-RPG.effet mental</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Zon-Kuthon (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fZon-Kuthon.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Zon-Kuthon (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fZon-Kuthon.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Zon-Kuthon-(Technique).html&quot; title=&quot;Zon-Kuthon&quot;&gt;Zon-Kuthon&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Fourreau de souffrance&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 2 500 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ce fourreau en cuir noir robuste est entour&#233; de cha&#238;nes noires de jais qui permettent de l&#39;accrocher facilement &#224; la ceinture. Un &lt;i&gt;fourreau de souffrance&lt;/i&gt; conf&#232;re &#224; son porteur la connaissance des techniques de torture avanc&#233;es utilis&#233;es par les cultistes d&#233;prav&#233;s du Seigneur de Minuit. Il grandit ou r&#233;tr&#233;cit pour s&#39;adapter &#224; n&#39;importe quelle arme blanche adapt&#233;e &#224; une cr&#233;ature de taille M ou P. Trois fois par jour, le porteur peut d&#233;clarer qu&#39;il tente de porter un coup douloureux avec une attaque de corps &#224; corps. Si l&#39;attaque touche, l&#39;adversaire doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 11 ou &#234;tre affect&#233; par un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Fi&#232;vre.html&quot; title=&quot;Rayon de fi&#232;vre&quot;&gt;rayon de fi&#232;vre&lt;/a&gt;&lt;/i&gt;. Le porteur peut d&#233;penser une utilisation de coup douloureux du fourreau par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Immediate.html&quot; title=&quot;Action imm&#233;diate&quot;&gt;action imm&#233;diate&lt;/a&gt; pour s&#39;affecter lui-m&#234;me avec l&#39;effet de &lt;i&gt;rayon de fi&#232;vre&lt;/i&gt; et &#233;chouer volontairement au jet de sauvegarde, ce qui lui permet de relancer un jet de sauvegarde rat&#233; contre un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Registre.html&quot; title=&quot;effet mental&quot;&gt;effet mental&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Fi&#232;vre.html&quot; title=&quot;Rayon de fi&#232;vre&quot;&gt;rayon de fi&#232;vre&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 250 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Zon-Kuthon|%2fPCUP%2fReligion-PNG%2fZon-Kuthon.png}<div class="BD">
+{s:BDTitre|Fourreau de souffrance|{s:ISG}}
+'''Aura''' [[Nécromancie]] faible ; '''NLS''' 5 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 2 500 po ; '''Poids''' 0,5 kg
+(((Description)))
+{s:cs}Ce fourreau en cuir noir robuste est entouré de chaînes noires de jais qui permettent de l'accrocher facilement à la ceinture. Un ''fourreau de souffrance'' confère à son porteur la connaissance des techniques de torture avancées utilisées par les cultistes dépravés du Seigneur de Minuit. Il grandit ou rétrécit pour s'adapter à n'importe quelle arme blanche adaptée à une créature de taille M ou P. Trois fois par jour, le porteur peut déclarer qu'il tente de porter un coup douloureux avec une attaque de corps à corps. Si l'attaque touche, l'adversaire doit réussir un jet de [[Vigueur]] DD 11 ou être affecté par un ''[[rayon de fièvre]]''. Le porteur peut dépenser une utilisation de coup douloureux du fourreau par une [[action immédiate]] pour s'affecter lui-même avec l'effet de ''rayon de fièvre'' et échouer volontairement au jet de sauvegarde, ce qui lui permet de relancer un jet de sauvegarde raté contre un [[effet mental]].
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[rayon de fièvre]]'' ; '''Coût''' 1 250 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Fourreau de souffrance</fullName>
+</wikiPage>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Châle de transfert vital</title>
+  <categories></categories>
+  <lastModified>2024-06-01 16:16:59Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Armes et équipement (Contenu)</link><link>Pathfinder-RPG.Détermination aléatoire des objets merveilleux</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Objets merveilleux portés sur les épaules</link><link>Pathfinder-RPG.Ondin (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.Objets merveilleux portés sur les épaules</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Stabilisation</link><link>Pathfinder-RPG.Ondin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Ondin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Ondin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Ondin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Ondin-(Race).html&quot; title=&quot;Les ondins&quot;&gt;ondins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Cet objet est apparu dans le &lt;a class=&quot;pagelink&quot; href=&quot;Manuel-Des-Races-(Contenu).html&quot; title=&quot;Manuel des races (Contenu)&quot;&gt;Manuel des races&lt;/a&gt; sous le nom &quot;Cape de pr&#233;servation vitale&quot;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ch&#226;le de transfert vital&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 3 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Sur-Les-&#201;paules.html&quot; title=&quot;Objets merveilleux port&#233;s sur les &#233;paules&quot;&gt;&#233;paules&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 1.000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ce ch&#226;le magique est tiss&#233; avec des fibres diaphanes et soyeuses. Une fois par jour, son porteur peut prononcer un mot de commande pour transf&#233;rer une partie de son &#233;nergie vitale &#224; l’int&#233;rieur du ch&#226;le (jusqu’&#224; 10 points de vie). S’il porte le ch&#226;le alors que ses points de vie sont r&#233;duits &#224; -1 ou moins, le ch&#226;le soigne imm&#233;diatement un nombre de points de vie &#233;gal &#224; celui pr&#233;alablement transf&#233;r&#233;. Ce soin n’emp&#234;che pas le porteur de mourir. L’&#233;nergie vitale stock&#233;e dans le ch&#226;le reste en place pendant 24 heures ou jusqu’&#224; ce qu’elle soit utilis&#233;e pour soigner son porteur. Si le ch&#226;le est d&#233;truit, l’&#233;nergie vitale dispara&#238;t. Lorsqu’une cr&#233;ature a transf&#233;r&#233; une partie de son &#233;nergie vitale dans le ch&#226;le, elle se lie &#224; lui. Si une autre cr&#233;ature le tient en main, celle qui a transf&#233;r&#233; son &#233;nergie vitale subit un malus de -2 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; contre tous les effets produits par le d&#233;tenteur actuel du ch&#226;le. 
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d’objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;stabilisation&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 500 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:Desambi|Cet objet est apparu dans le [[Manuel des races (Contenu)|Manuel des races]] sous le nom "Cape de préservation vitale".}<div class="BD">
+{s:BDTitre|Châle de transfert vital|{s:MR}{s:AE}}
+'''Aura''' [[Invocation]] faible ; '''NLS''' 3 ; '''Emplacement''' [[Objets merveilleux portés sur les épaules|épaules]] ; '''Prix''' 1.000 po ; '''Poids''' 0,5 kg
+(((Description)))
+Ce châle magique est tissé avec des fibres diaphanes et soyeuses. Une fois par jour, son porteur peut prononcer un mot de commande pour transférer une partie de son énergie vitale à l’intérieur du châle (jusqu’à 10 points de vie). S’il porte le châle alors que ses points de vie sont réduits à -1 ou moins, le châle soigne immédiatement un nombre de points de vie égal à celui préalablement transféré. Ce soin n’empêche pas le porteur de mourir. L’énergie vitale stockée dans le châle reste en place pendant 24 heures ou jusqu’à ce qu’elle soit utilisée pour soigner son porteur. Si le châle est détruit, l’énergie vitale disparaît. Lorsqu’une créature a transféré une partie de son énergie vitale dans le châle, elle se lie à lui. Si une autre créature le tient en main, celle qui a transféré son énergie vitale subit un malus de -2 aux jets de [[Vigueur]] et de [[Réflexes]] contre tous les effets produits par le détenteur actuel du châle. 
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d’objets merveilleux]], ''[[soins légers]]'', ''[[stabilisation]]'' ; '''Coût''' 500 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Châle de Transfert Vital</fullName>
+</wikiPage>

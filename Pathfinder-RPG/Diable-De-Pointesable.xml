@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Diable de Pointesable</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src La mer Intérieure</category></categories>
+  <lastModified>2024-01-06 15:42:22Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.La Mer Intérieure (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.Piétinement (capacité)</link><link>Pathfinder-RPG.Bourrasque</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Pyrotechnie</link><link>Pathfinder-RPG.Assassin imaginaire</link><link>Pathfinder-RPG.Porte dimensionnelle</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque éclair</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Souplesse du serpent</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Paniqué</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Diable de Pointesable&lt;div style=&quot;float:right;&quot;&gt;FP 8&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : La mer Int&#233;rieure p.310&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 4 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt;) de taille G, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 22, contact 13, pris au d&#233;pourvu 18 (+3 Dex, +1 esquive, +9 naturelle, ‑1 taille)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 114 (12d10+48)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/fer froid ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; feu, effet de peur ; &lt;b&gt;RM&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 18 m (m&#233;diocre)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +17 (2d6+6/19-20), 2 coups de sabot, +17 (1d8+6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m allonge 1,50 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; aboiement, feu infernal, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement-(Capacit&#233;).html&quot; title=&quot;Pi&#233;tinement (Ext)&quot;&gt;pi&#233;tinement&lt;/a&gt; (2d6+9, DD 22), ruade
+&lt;/div&gt;
+Pouvoir magique (NLS 10 ; concentration +13)
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bourrasque.html&quot; title=&quot;Bourrasque&quot;&gt;bourrasque&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt; (DD 15), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pyrotechnie.html&quot; title=&quot;Pyrotechnie&quot;&gt;pyrotechnie&lt;/a&gt;&lt;/i&gt; (DD 15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assassin-Imaginaire.html&quot; title=&quot;Assassin imaginaire&quot;&gt;assassin imaginaire&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Porte-Dimensionnelle.html&quot; title=&quot;Porte dimensionnelle&quot;&gt;porte dimensionnelle&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 22, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 19, &lt;b&gt;Int&lt;/b&gt; 8, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +12 ; &lt;b&gt;BMO&lt;/b&gt; +19 ; &lt;b&gt;DMD&lt;/b&gt; 33 (37 contre &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-&#201;clair.html&quot; title=&quot;Attaque &#233;clair&quot;&gt;Attaque &#233;clair&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Souplesse-Du-Serpent.html&quot; title=&quot;Souplesse du serpent&quot;&gt;Souplesse du serpent&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-Stationnaire.html&quot; title=&quot;Vol stationnaire&quot;&gt;Vol stationnaire&lt;/a&gt;,
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (g&#233;ographie) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +12,
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, varisien
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Varisie)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; sociale solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; mineur
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aboiement (Sur).&lt;/b&gt; Quand le destrier diabolique hurle, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, toutes les cr&#233;atures situ&#233;es dans un rayon de 90 m&#232;tres doivent r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 19 ou &#234;tre &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Paniqu&#233;.html&quot; title=&quot;Paniqu&#233;&quot;&gt;paniqu&#233;es&lt;/a&gt; pendant 2d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. C’est un effet de peur sonore et mental. Que la cr&#233;ature ait r&#233;ussi son jet ou non, elle est ensuite immunis&#233;e contre le hurlement du diable pendant 24 heures. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Feu infernal (Sur).&lt;/b&gt; Le destrier diabolique peut cracher un c&#244;ne de feu infernal de 9 m&#232;tres une fois tous les 1d4 rounds (10d6 points de d&#233;g&#226;ts de feu, jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 pour r&#233;duire les d&#233;g&#226;ts de moiti&#233;). Toute cr&#233;ature qui subit des d&#233;g&#226;ts &#224; cause de cette attaque doit &#233;galement faire un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 ou &#234;tre maudite par les flammes infernales (ce qui &#233;quivaut &#224; un malus de -4 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;de sauvegarde&lt;/a&gt; et aux tests de comp&#233;tence pendant un nombre de jours &#233;gal aux d&#233;g&#226;ts re&#231;us). Pendant toute cette p&#233;riode, la peau de la victime est marqu&#233;e d’horribles br&#251;lures, quels que soient les soins prodigu&#233;s. Cette mal&#233;diction fonctionne avec un &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; de 12. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ruade (Ext).&lt;/b&gt; Les sabots du destrier diabolique sont consid&#233;r&#233;s comme une attaque primaire et infligent des d&#233;g&#226;ts contondants et tranchants.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette b&#234;te galeuse aux allures de cheval se d&#233;place d’une mani&#232;re aberrante, debout. Des ailes, une queue de dragon et une gueule garnie de crocs viennent compl&#233;ter cette immonde silhouette.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Le l&#233;gendaire diable de Pointesable hante les terres qui entourent la r&#233;gion &#224; laquelle il doit son nom depuis plus de dix ans. Il appara&#238;t en g&#233;n&#233;ral par une nuit brumeuse sans lune et laisse parfois derri&#232;re lui des indices de son passage, comme des empreintes de sabots qui empestent le soufre, &#224; des endroits bizarres (sur un avant-toit par exemple).&lt;br /&gt;&lt;br /&gt;Voleur de b&#233;tail, kidnappeur d’enfants et h&#233;raut de nombreux maux, on raconte d’innombrables histoires sur son compte. Certaines expliquent que c’est une antique cr&#233;ature venue d’un &#226;ge oubli&#233; et transform&#233;e par un magicien, d’autres disent qu’il est n&#233; d’une sorci&#232;re maudite qui brisa un pacte pass&#233; avec un diable. Mais les rumeurs les plus inqui&#233;tantes sont s&#251;rement celles qui &#233;voquent la possibilit&#233; que cette cr&#233;ature ne soit que l’une des nombreuses qui vivent dans les &#233;tendues sauvages.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Diable de Pointesable|FP 8}
+{s:pucem|Extérieur|Ville|Tempéré}
+{s:BDTexte|''Source : La mer Intérieure p.310''}
+{s:BDTexte|'''PX''' 4 800}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille G, NM}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +18}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 22, contact 13, pris au dépourvu 18 (+3 Dex, +1 esquive, +9 naturelle, ‑1 taille)}
+{s:BDTexte|'''pv''' 114 (12d10+48)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +12, '''Vol''' +11}
+{s:BDTexte|'''RD''' 5/fer froid ; '''Immunités''' feu, effet de peur ; '''RM''' 19}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m, [[Vol (capacité)|vol]] 18 m (médiocre)}
+{s:BDTexte|'''Corps à corps''' morsure, +17 (2d6+6/19-20), 2 coups de sabot, +17 (1d8+6)}
+{s:BDTexte|'''Espace occupé''' 3 m allonge 1,50 m}
+{s:BDTexte|'''Attaques spéciales''' aboiement, feu infernal, [[Piétinement (capacité)|piétinement]] (2d6+9, DD 22), ruade}
+Pouvoir magique (NLS 10 ; concentration +13)
+{s:BDSorts|À volonté — ''[[bourrasque]]'' (DD 15), ''[[nappe de brouillard]]'' (DD 15), ''[[pyrotechnie]]'' (DD 15)}
+{s:BDSorts|3/jour — ''[[assassin imaginaire]]'' (DD 17), ''[[porte dimensionnelle]]'' (DD 17)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 22, '''Dex''' 17, '''Con''' 19, '''Int''' 8, '''Sag''' 17, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +12 ; '''BMO''' +19 ; '''DMD''' 33 (37 contre [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque éclair]], [[Esquive]], [[Frappe décisive]], [[Souplesse du serpent]], [[Vol stationnaire]],}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (géographie) +5, [[Discrétion]] +14, [[Intimidation]] +12, [[Perception]] +18, [[Survie]] +18, [[Vol]] +12,}
+{s:BDTexte|'''Langues''' abyssal, varisien}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Varisie)}
+{s:BDTexte|'''Organisation''' sociale solitaire}
+{s:BDTexte|'''Trésor''' mineur}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Aboiement (Sur).''' Quand le destrier diabolique hurle, par une [[action simple]], toutes les créatures situées dans un rayon de 90 mètres doivent réussir un jet de [[Volonté]] [[DD]] 19 ou être [[paniqué|paniquées]] pendant 2d4 [[round|rounds]]. C’est un effet de peur sonore et mental. Que la créature ait réussi son jet ou non, elle est ensuite immunisée contre le hurlement du diable pendant 24 heures. Le [[DD]] du [[jds|jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|'''Feu infernal (Sur).''' Le destrier diabolique peut cracher un cône de feu infernal de 9 mètres une fois tous les 1d4 rounds (10d6 points de dégâts de feu, jet de [[Réflexes]] [[DD]] 20 pour réduire les dégâts de moitié). Toute créature qui subit des dégâts à cause de cette attaque doit également faire un jet de [[Volonté]] [[DD]] 20 ou être maudite par les flammes infernales (ce qui équivaut à un malus de -4 aux [[jet dattaque|jets d’attaque]], [[jds|de sauvegarde]] et aux tests de compétence pendant un nombre de jours égal aux dégâts reçus). Pendant toute cette période, la peau de la victime est marquée d’horribles brûlures, quels que soient les soins prodigués. Cette malédiction fonctionne avec un [[NLS|niveau de lanceur de sorts]] de 12. Le [[DD]] du [[jds|jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|'''Ruade (Ext).''' Les sabots du destrier diabolique sont considérés comme une attaque primaire et infligent des dégâts contondants et tranchants.}
+</div></td>
+<td><div>''Cette bête galeuse aux allures de cheval se déplace d’une manière aberrante, debout. Des ailes, une queue de dragon et une gueule garnie de crocs viennent compléter cette immonde silhouette.''
+
+Le légendaire diable de Pointesable hante les terres qui entourent la région à laquelle il doit son nom depuis plus de dix ans. Il apparaît en général par une nuit brumeuse sans lune et laisse parfois derrière lui des indices de son passage, comme des empreintes de sabots qui empestent le soufre, à des endroits bizarres (sur un avant-toit par exemple).
+
+Voleur de bétail, kidnappeur d’enfants et héraut de nombreux maux, on raconte d’innombrables histoires sur son compte. Certaines expliquent que c’est une antique créature venue d’un âge oublié et transformée par un magicien, d’autres disent qu’il est né d’une sorcière maudite qui brisa un pacte passé avec un diable. Mais les rumeurs les plus inquiétantes sont sûrement celles qui évoquent la possibilité que cette créature ne soit que l’une des nombreuses qui vivent dans les étendues sauvages.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Diable de Pointesable</fullName>
+</wikiPage>

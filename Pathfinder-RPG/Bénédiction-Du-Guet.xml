@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bénédiction du guet</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort inquisiteur 1</category><category>Pathfinder-RPG.Sort paladin 1</category><category>Pathfinder-RPG.Sort prêtre 1</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:58:11Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Abadar (technique)</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.Liste des sorts</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Liste des sorts par registre</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.branche coercition</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Bénédiction</link><link>Pathfinder-RPG.Abadar (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fAbadar.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Abadar (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fAbadar.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Abadar-(Technique).html&quot; title=&quot;Abadar&quot;&gt;Abadar&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Coercition.html&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effet mental&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Pal&lt;/a&gt; 1, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 1  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)  
+&lt;b&gt;Zone d&#39;effet&lt;/b&gt; lanceur de sorts et tous ses alli&#233;s dans un rayonnement de 15 m (10 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;), centr&#233; sur le lanceur  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 heure/niveau  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif)&lt;br /&gt;&lt;br /&gt;Ce sort fonctionne comme le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;B&#233;n&#233;diction.html&quot; title=&quot;B&#233;n&#233;diction&quot;&gt;b&#233;n&#233;diction&lt;/a&gt;&lt;/i&gt;, &#224; l’exception de ce qui est indiqu&#233; plus haut. Il ne fonctionne que dans la ville d’origine du lanceur et concerne sp&#233;cifiquement les zones sous la juridiction du guet de la ville. Par exemple, si la garde patrouille dans un bidonville en-dehors des murs de la ville mais pas dans les tunnels souterrains en ruines de celle-ci, le sort fonctionnera dans la premi&#232;re zone mais pas dans la seconde.
+]]></body>
+  <raw><![CDATA[{s:divin|Abadar|%2fPCUP%2fReligion-PNG%2fAbadar.png}{s:ISG}{s:GeM}'''École''' [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; '''Niveau''' [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, FD]]  
+'''Portée''' 15 m (10 {s:c})  
+'''Zone d'effet''' lanceur de sorts et tous ses alliés dans un rayonnement de 15 m (10 {s:c}), centré sur le lanceur  
+'''Durée''' 1 heure/niveau  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' oui (inoffensif)
+
+Ce sort fonctionne comme le sort ''[[bénédiction]]'', à l’exception de ce qui est indiqué plus haut. Il ne fonctionne que dans la ville d’origine du lanceur et concerne spécifiquement les zones sous la juridiction du guet de la ville. Par exemple, si la garde patrouille dans un bidonville en-dehors des murs de la ville mais pas dans les tunnels souterrains en ruines de celle-ci, le sort fonctionnera dans la première zone mais pas dans la seconde.]]></raw>
+  <fullName>Pathfinder-RPG.Bénédiction du guet</fullName>
+</wikiPage>

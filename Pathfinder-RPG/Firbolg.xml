@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Firbolg</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-18 20:11:41Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type géant</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Lancer de rochers (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Rapetissement</link><link>Pathfinder-RPG.Confusion</link><link>Pathfinder-RPG.Détection de la magie</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Repérage</link><link>Pathfinder-RPG.Parade de projectiles</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.armure de cuir (armure)</link><link>Pathfinder-RPG.Grande hache (arme)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Firbolg&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.129&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-G&#233;ant.html&quot; title=&quot;G&#233;ant (sous-type)&quot;&gt;g&#233;ant&lt;/a&gt;) de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 10, pris au d&#233;pourvu 17 (armure +2, Dex +1, naturelle +5, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 39 (6d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; grande hache de taille TG, +8 (3d8+7/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; rocher, +5 (2d6+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; armes de taille sup&#233;rieure, &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-De-Rochers-(Capacit&#233;).html&quot; title=&quot;Lancer de rochers (Ext)&quot;&gt;lancer de rochers&lt;/a&gt; (36 m)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 6 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapetissement.html&quot; title=&quot;Rapetissement&quot;&gt;rapetissement&lt;/a&gt;&lt;/i&gt; (DD 13)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Confusion.html&quot; title=&quot;Confusion&quot;&gt;confusion&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-La-Magie.html&quot; title=&quot;D&#233;tection de la magie&quot;&gt;d&#233;tection de la magie&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d&#39;apparence&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rep&#233;rage.html&quot; title=&quot;Rep&#233;rage&quot;&gt;rep&#233;rage&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 14
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4 ; &lt;b&gt;BMO&lt;/b&gt; +10 ; &lt;b&gt;DMD&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Parade-De-Projectiles.html&quot; title=&quot;Parade de projectiles&quot;&gt;Parade de projectiles&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +1, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines ou for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple, bande (3-8), clan (9-16) ou enclave (10-40)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Cuir-(Armure).html&quot; title=&quot;Armure de cuir&quot;&gt;armure de cuir&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Grande-Hache-(Arme).html&quot; title=&quot;Grande hache&quot;&gt;grande hache&lt;/a&gt;, sac contenant d’autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Armes de taille sup&#233;rieure (Ext).&lt;/b&gt; En ce qui concerne la taille des armes qu’un firbolg peut manier, on consid&#232;re qu’il est plus grand d’une cat&#233;gorie par rapport &#224; sa taille normale.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet humano&#239;de de deux m&#232;tres quarante de haut et de forte carrure, v&#234;tu d’une fourrure d’ours et &#233;quip&#233; d’une &#233;norme hache, a de longs cheveux roux et une barbe broussailleuse.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les firbolgs sont des g&#233;ants mais n’en restent pas moins malins, prudents et reclus. Ils ont appris &#224; se m&#233;fier de la plupart des humano&#239;des, sauf des elfes, et vivent uniquement dans des endroits isol&#233;s, parmi les f&#233;es et les esprits de la nature, et &#224; l’&#233;cart de l’emprise envahissante de la civilisation. Ils vivent au sein de petits clans aux membres soud&#233;s et ont tendance &#224; occuper une grande demeure de bois au milieu d’un champ pour leurs r&#233;coltes. Pour compl&#233;ter la nourriture qu’ils font pousser, ils r&#244;dent aux alentours de leur territoire pour chasser et cueillir en petits groupes.&lt;br /&gt;&lt;br /&gt;&#192; la diff&#233;rence de la plupart des g&#233;ants, les firbolgs ne lancent pas des attaques &#224; tout va et ne r&#233;solvent pas tous leurs probl&#232;mes par la force et la violence. En situation de combat, ce sont des combattants rus&#233;s qui exploitent le terrain &#224; leur avantage et ne tuent pas sans avoir &#233;t&#233; provoqu&#233;s. M&#234;me s’ils lancent rarement des exp&#233;ditions de pillage, les firbolgs aiment tromper les cr&#233;atures plus petites qu’eux pour s’emparer de leur nourriture et de leurs tr&#233;sors. Seuls ou en petits groupes, ils se d&#233;guisent en montagnards malchanceux, en jeunes personnes avenantes ou en voyageurs &#233;trangers pour mettre en place des arnaques et jouer des farces &#224; leurs voisins humano&#239;des. Les firbolgs compl&#232;tent leurs supercheries en utilisant leur magie naturelle et leur incroyable force. La plupart de ceux qui ont rencontr&#233; un firbolg ne sont jamais conscients de la v&#233;ritable nature de g&#233;ant de ces cr&#233;atures.&lt;br /&gt;&lt;br /&gt;Sous leur aspect normal, les firbolgs ressemblent &#224; des humains particuli&#232;rement grands. Ils ont les cheveux longs et d&#233;tach&#233;s et beaucoup ornent leur peau de motifs &#233;labor&#233;s peints au bleu de gu&#232;de.&lt;br /&gt;&lt;br /&gt;La plupart des firbolgs transportent des grands sacs contenant leurs possessions. G&#233;n&#233;ralement, le sac d’un firbolg contient plusieurs rochers pr&#234;ts &#224; lancer, ses tr&#233;sors personnels et plusieurs objets ordinaires vol&#233;s, ab&#238;m&#233;s ou acquis d’une fa&#231;on ou d’une autre aupr&#232;s des cr&#233;atures derni&#232;rement rencontr&#233;es.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Firbolg|FP 4}
+{s:pucem|Humanoïde|Collines|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.129]]''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, N}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 10, pris au dépourvu 17 (armure +2, Dex +1, naturelle +5, taille -1)}
+{s:BDTexte|'''pv''' 39 (6d8+12)}
+{s:BDTexte|'''Réf''' +5, '''Vig''' +4, '''Vol''' +6}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m}
+{s:BDTexte|'''Corps à corps''' grande hache de taille TG, +8 (3d8+7/×3)}
+{s:BDTexte|'''Distance''' rocher, +5 (2d6+10)}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDTexte|'''Attaques spéciales''' armes de taille supérieure, [[Lancer de rochers (capacité)|lancer de rochers]] (36 m)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 6 ; [[concentration]] +8)}
+{s:BDSorts|À volonté — ''[[rapetissement]]'' (DD 13)}
+{s:BDSorts|1/jour — ''[[confusion]]'' (DD 16), ''[[détection de la magie]]'', ''[[modification dapparence|modification d'apparence]]'', ''[[repérage]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 20, '''Dex''' 13, '''Con''' 14, '''Int''' 15, '''Sag''' 13, '''Cha''' 14}
+{s:BDTexte|'''BBA''' +4 ; '''BMO''' +10 ; '''DMD''' 21}
+{s:BDTexte|'''Dons''' [[Parade de projectiles]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (nature) +6, [[Discrétion]] +1, [[Escalade]] +12, [[Perception]] +8, [[Psychologie]] +5, [[Survie]] +8}
+{s:BDTexte|'''Langues''' commun, géant}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines ou forêts tempérées}
+{s:BDTexte|'''Organisation''' solitaire, couple, bande (3-8), clan (9-16) ou enclave (10-40)}
+{s:BDTexte|'''Trésor''' standard ([[armure de cuir (armure)|armure de cuir]], [[grande hache (arme)|grande hache]], sac contenant d’autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Armes de taille supérieure (Ext).''' En ce qui concerne la taille des armes qu’un firbolg peut manier, on considère qu’il est plus grand d’une catégorie par rapport à sa taille normale.}
+
+</div></td>
+<td><div>''Cet humanoïde de deux mètres quarante de haut et de forte carrure, vêtu d’une fourrure d’ours et équipé d’une énorme hache, a de longs cheveux roux et une barbe broussailleuse.''
+
+Les firbolgs sont des géants mais n’en restent pas moins malins, prudents et reclus. Ils ont appris à se méfier de la plupart des humanoïdes, sauf des elfes, et vivent uniquement dans des endroits isolés, parmi les fées et les esprits de la nature, et à l’écart de l’emprise envahissante de la civilisation. Ils vivent au sein de petits clans aux membres soudés et ont tendance à occuper une grande demeure de bois au milieu d’un champ pour leurs récoltes. Pour compléter la nourriture qu’ils font pousser, ils rôdent aux alentours de leur territoire pour chasser et cueillir en petits groupes.
+
+À la différence de la plupart des géants, les firbolgs ne lancent pas des attaques à tout va et ne résolvent pas tous leurs problèmes par la force et la violence. En situation de combat, ce sont des combattants rusés qui exploitent le terrain à leur avantage et ne tuent pas sans avoir été provoqués. Même s’ils lancent rarement des expéditions de pillage, les firbolgs aiment tromper les créatures plus petites qu’eux pour s’emparer de leur nourriture et de leurs trésors. Seuls ou en petits groupes, ils se déguisent en montagnards malchanceux, en jeunes personnes avenantes ou en voyageurs étrangers pour mettre en place des arnaques et jouer des farces à leurs voisins humanoïdes. Les firbolgs complètent leurs supercheries en utilisant leur magie naturelle et leur incroyable force. La plupart de ceux qui ont rencontré un firbolg ne sont jamais conscients de la véritable nature de géant de ces créatures.
+
+Sous leur aspect normal, les firbolgs ressemblent à des humains particulièrement grands. Ils ont les cheveux longs et détachés et beaucoup ornent leur peau de motifs élaborés peints au bleu de guède.
+
+La plupart des firbolgs transportent des grands sacs contenant leurs possessions. Généralement, le sac d’un firbolg contient plusieurs rochers prêts à lancer, ses trésors personnels et plusieurs objets ordinaires volés, abîmés ou acquis d’une façon ou d’une autre auprès des créatures dernièrement rencontrées.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Firbolg</fullName>
+</wikiPage>

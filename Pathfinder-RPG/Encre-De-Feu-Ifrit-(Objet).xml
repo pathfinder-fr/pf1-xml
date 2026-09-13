@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Encre de feu ifrit</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:46:52Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Ifrit (race)</link><link>Pathfinder-RPG.Outils alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Torche (objet)</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Immunité (capacité)</link><link>Pathfinder-RPG.Résistance (capacité)</link><link>Pathfinder-RPG.Ifrit (race)</link><link>Pathfinder-RPG.Ifrit (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Ifrit.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Ifrit (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Ifrit.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Ifrit-(Race).html&quot; title=&quot;Les ifrits&quot;&gt;ifrits&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 1 po ; &lt;b&gt;Poids&lt;/b&gt; — ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 15  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette encre jaune vif r&#233;agit &#224; la chaleur du corps de la cr&#233;ature pour cr&#233;er une lueur tremblotante semblable &#224; une flamme. Il faut 10 minutes pour appliquer de l’encre de feu, et 1 dose recouvre &#224; peu pr&#232;s une main. Une fois appliqu&#233;e, l’encre luit comme une bougie pendant 24 heures. Quatre doses ou plus appliqu&#233;es sur une m&#234;me partie du corps font briller comme une &lt;a class=&quot;pagelink&quot; href=&quot;Torche-(Objet).html&quot; title=&quot;Torche&quot;&gt;torche&lt;/a&gt; pendant 24 heures. La r&#233;action alchimique de l’encre &#224; la peau et &#224; la chaleur corporelle de la cible est douloureuse et irritante, rendant celle-ci &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Fi&#233;vreux.html&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreuse&lt;/a&gt; tant que dure la lumi&#232;re. Un test de &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 permet d’apaiser temporairement ces sensations, annulant l’&#233;tat fi&#233;vreux pendant 1 heure. Les cr&#233;atures &lt;a class=&quot;pagelink&quot; href=&quot;Immunit&#233;-(Capacit&#233;).html&quot; title=&quot;Immunit&#233; (Ext ou Sur)&quot;&gt;immunis&#233;es&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;r&#233;sistantes&lt;/a&gt; au feu sont immunis&#233;es &#224; cet effet de fi&#232;vre. Les &lt;a class=&quot;pagelink&quot; href=&quot;Ifrit-(Race).html&quot; title=&quot;Les ifrits&quot;&gt;ifrits&lt;/a&gt; sont connus pour adorer cette encre, et les cracheurs de feu ifrits ornent souvent leur peau de motifs enflamm&#233;s avant leurs spectacles. Une version concentr&#233;e de cette encre co&#251;te 10 fois plus cher et peut &#234;tre utilis&#233;e pour cr&#233;er des tatouages qui brillent en permanence.
+]]></body>
+  <raw><![CDATA[{s:racial|Ifrit (race)|ifrits|Illustrations/PNJ/Ifrit.jpg}{s:MR}'''Prix''' 1 po ; '''Poids''' — ; '''DD d'Artisanat (alchimie)''' 15  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+Cette encre jaune vif réagit à la chaleur du corps de la créature pour créer une lueur tremblotante semblable à une flamme. Il faut 10 minutes pour appliquer de l’encre de feu, et 1 dose recouvre à peu près une main. Une fois appliquée, l’encre luit comme une bougie pendant 24 heures. Quatre doses ou plus appliquées sur une même partie du corps font briller comme une [[Torche (objet)|torche]] pendant 24 heures. La réaction alchimique de l’encre à la peau et à la chaleur corporelle de la cible est douloureuse et irritante, rendant celle-ci [[fiévreux|fiévreuse]] tant que dure la lumière. Un test de [[Premiers secours]] [[DD]] 15 permet d’apaiser temporairement ces sensations, annulant l’état fiévreux pendant 1 heure. Les créatures [[Immunité (capacité)|immunisées]] ou [[Résistance (capacité)|résistantes]] au feu sont immunisées à cet effet de fièvre. Les [[Ifrit (race)|ifrits]] sont connus pour adorer cette encre, et les cracheurs de feu ifrits ornent souvent leur peau de motifs enflammés avant leurs spectacles. Une version concentrée de cette encre coûte 10 fois plus cher et peut être utilisée pour créer des tatouages qui brillent en permanence.]]></raw>
+  <fullName>Pathfinder-RPG.Encre de feu ifrit (objet)</fullName>
+</wikiPage>

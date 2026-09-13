@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ydersius</title>
+  <categories><category>Pathfinder-RPG.Divinité</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-09-07 16:52:24Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Ceinture du Roi serpent</link><link>Pathfinder-RPG.Crâne dYdersius</link><link>Pathfinder-RPG.Divinités</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Bourbiérin</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.lignage serpentin</link><link>Pathfinder-RPG.Homme-lézard</link><link>Pathfinder-RPG.Homme-serpent</link><link>Pathfinder-RPG.Naga ténébreux</link><link>Pathfinder-RPG.Troglodyte</link><link>Pathfinder-RPG.dague (arme)</link><link>Pathfinder-RPG.Domaine du Chaos</link><link>Pathfinder-RPG.Domaine de la Guerre</link><link>Pathfinder-RPG.Domaine du Mal</link><link>Pathfinder-RPG.Domaine de la Noblesse</link><link>Pathfinder-RPG.Domaine des Reptiles</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Accélération du poison</link><link>Pathfinder-RPG.Forme bestiale I</link><link>Pathfinder-RPG.Forme bestiale II</link><link>Pathfinder-RPG.Forme bestiale III</link><link>Pathfinder-RPG.Projectile empoisonné</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Convocation de monstres II</link><link>Pathfinder-RPG.Serpent venimeux</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.Convocation de monstres IV</link><link>Pathfinder-RPG.Amphisbène</link><link>Pathfinder-RPG.Convocation de monstres V</link><link>Pathfinder-RPG.Cobra impérial</link><link>Pathfinder-RPG.Convocation de monstres VII</link><link>Pathfinder-RPG.Anaconda géant</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fYdersius.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;%2fPCUP%2fReligion-PNG%2fYdersius.png&lt;/i&gt;&quot;); }
+  let align = &quot;Chaotique Mauvais&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Ydersius,&lt;br/&gt;Le Roi d&#233;capit&#233;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fYdersius.png&quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#AUTRES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Autres divinit&#233;s&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Chaotique Mauvais&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Hommes-serpents, immortalit&#233; et poison
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Assassins, &lt;a class=&quot;pagelink&quot; href=&quot;Bourbi&#233;rin.html&quot; title=&quot;Bourbi&#233;rin&quot;&gt;bourbi&#233;rins&lt;/a&gt;, cultes &lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleurs&lt;/a&gt; de lignage &lt;a class=&quot;pagelink&quot; href=&quot;Lignage-Serpentin.html&quot; title=&quot;Lignage Serpentin&quot;&gt;serpentin&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Homme-L&#233;zard.html&quot; title=&quot;Homme-l&#233;zard&quot;&gt;hommes-l&#233;zards&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Serpent.html&quot; title=&quot;Homme-serpent&quot;&gt;hommes-serpents&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Naga-T&#233;n&#233;breux.html&quot; title=&quot;Naga, Naga t&#233;n&#233;breux&quot;&gt;nagas&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Troglodyte.html&quot; title=&quot;Troglodyte&quot;&gt;troglodytes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Serpent
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dague-(Arme).html&quot; title=&quot;Dague&quot;&gt;Dague&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Guerre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Noblesse.html&quot; title=&quot;Domaine de la Noblesse&quot;&gt;Noblesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Des-Reptiles.html&quot; title=&quot;Domaine des Reptiles&quot;&gt;Reptiles&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Noblesse.html&quot; title=&quot;Domaine de la Noblesse&quot;&gt;Commandement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;D&#233;mons (Chaos)&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;D&#233;mons (Mal)&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Noblesse.html&quot; title=&quot;Domaine de la Noblesse&quot;&gt;Martyre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Noblesse.html&quot; title=&quot;Domaine de la Noblesse&quot;&gt;Orgueil&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Des-Reptiles.html&quot; title=&quot;Domaine des Reptiles&quot;&gt;Sauriens&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Guerre.html&quot; title=&quot;Domaine de la Guerre&quot;&gt;Tactique&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;unknownlink&quot; href=&quot;../Golarion/Ydersius.html&quot; title=&quot;Golarion.Ydersius&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;Ydersius, le Roi d&#233;capit&#233;, est un ancien dieu v&#233;n&#233;r&#233; par les hommes-serpents, tout aussi anciens. Lorsque les hommes-serpents ont &#233;t&#233; pratiquement d&#233;truits lors d&#39;une guerre contre les Azlant, Ydersius s&#39;est cach&#233; en Ombreterre. Un puissant h&#233;ros d&#233;capita Ydersius, mais les deux moiti&#233;s de son corps survivent, d&#233;sesp&#233;rant, selon certains, d&#39;&#234;tre r&#233;unies et de rena&#238;tre.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles uniques aux suivants&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_uniques_aux_suivants_0&quot; href=&quot;#R&#232;gles_uniques_aux_suivants_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;pr&#234;tre combattant&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Acc&#233;l&#233;ration-Du-Poison.html&quot; title=&quot;Acc&#233;l&#233;ration du poison&quot;&gt;Acc&#233;l&#233;ration du poison&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 2e niveau.  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-Bestiale-I.html&quot; title=&quot;Forme bestiale I&quot;&gt;Forme bestiale I&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 3e niveau (uniquement pour prendre la forme d&#39;un animal serpentin).  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-Bestiale-Ii.html&quot; title=&quot;Forme bestiale II&quot;&gt;Forme bestiale II&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau (uniquement pour prendre la forme d&#39;un animal serpentin).  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-Bestiale-Iii.html&quot; title=&quot;Forme bestiale III&quot;&gt;Forme bestiale III&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 5e niveau (uniquement pour prendre la forme d&#39;un animal serpentin).  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Projectile-Empoisonn&#233;.html&quot; title=&quot;Projectile empoisonn&#233;&quot;&gt;Projectile empoisonn&#233;&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau (la fl&#232;che ou le carreau ressemble &#224; une vip&#232;re raide qui mort la cible avec des crocs empoisonn&#233;s).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Druide&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Projectile-Empoisonn&#233;.html&quot; title=&quot;Projectile empoisonn&#233;&quot;&gt;Projectile empoisonn&#233;&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau (la fl&#232;che ou le carreau ressemble &#224; une vip&#232;re raide qui mort la cible avec des crocs empoisonn&#233;s).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Convocations &#233;tendues.&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Ii.html&quot; title=&quot;Convocation de monstres II&quot;&gt;Convocation de monstres II&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Serpent-Venimeux.html&quot; title=&quot;Serpent, Serpent venimeux&quot;&gt;Serpent venimeux&lt;/a&gt; (cette cr&#233;ature est convoqu&#233;e avec l&#39;arch&#233;type &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATURECELESTE&quot; title=&quot;Les arch&#233;types&quot;&gt;c&#233;leste&lt;/a&gt; si le personnage est Bon, ou avec l&#39;arch&#233;type &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREFIELONNE&quot; title=&quot;Les arch&#233;types&quot;&gt;fi&#233;lon&lt;/a&gt; s&#39;il est Mauvais ; il doit choisir s&#39;il est Neutre)  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Iv.html&quot; title=&quot;Convocation de monstres IV&quot;&gt;Convocation de monstres IV&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Amphisb&#232;ne.html&quot; title=&quot;Amphisb&#232;ne&quot;&gt;Amphisb&#232;ne&lt;/a&gt;  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-V.html&quot; title=&quot;Convocation de monstres V&quot;&gt;Convocation de monstres V&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cobra-Imp&#233;rial.html&quot; title=&quot;Serpent, Cobra imp&#233;rial&quot;&gt;Cobra imp&#233;rial&lt;/a&gt; (cette cr&#233;ature est convoqu&#233;e avec l&#39;arch&#233;type &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATURECELESTE&quot; title=&quot;Les arch&#233;types&quot;&gt;c&#233;leste&lt;/a&gt; si le personnage est Bon, ou avec l&#39;arch&#233;type &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREFIELONNE&quot; title=&quot;Les arch&#233;types&quot;&gt;fi&#233;lon&lt;/a&gt; s&#39;il est Mauvais ; il doit choisir s&#39;il est Neutre)  
+• &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Vii.html&quot; title=&quot;Convocation de monstres VII&quot;&gt;Convocation de monstres VII&lt;/a&gt;.&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Anaconda-G&#233;ant.html&quot; title=&quot;Serpent, Anaconda g&#233;ant&quot;&gt;Anaconda g&#233;ant&lt;/a&gt; (cette cr&#233;ature est convoqu&#233;e avec l&#39;arch&#233;type &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATURECELESTE&quot; title=&quot;Les arch&#233;types&quot;&gt;c&#233;leste&lt;/a&gt; si le personnage est Bon, ou avec l&#39;arch&#233;type &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREFIELONNE&quot; title=&quot;Les arch&#233;types&quot;&gt;fi&#233;lon&lt;/a&gt; s&#39;il est Mauvais ; il doit choisir s&#39;il est Neutre)&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Options de personnage th&#233;matiques&lt;a class=&quot;headeranchor&quot; id=&quot;Options_de_personnage_th&#233;matiques_1&quot; href=&quot;#Options_de_personnage_th&#233;matiques_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;article_2col&quot;&gt;
+&lt;i&gt;&#192; VENIR&lt;/i&gt;  
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Ydersius|Ydersius,<br/>Le Roi décapité|%2fPCUP%2fReligion-PNG%2fYdersius.png|[[Divinités#AUTRES|Autres divinités]]
+|Chaotique Mauvais|Hommes-serpents, immortalité et poison
+|Assassins, [[Bourbiérin|bourbiérins]], cultes [[Humain|humains]], [[Ensorceleur|ensorceleurs]] de lignage [[Lignage Serpentin|serpentin]], [[Homme-lézard|hommes-lézards]], [[Homme-serpent|hommes-serpents]], [[Naga ténébreux|nagas]], [[Troglodyte|troglodytes]]|Serpent
+|[[Dague (arme)|Dague]]
+|[[Domaine du Chaos|Chaos]], [[Domaine de la Guerre|Guerre]], [[Domaine du Mal|Mal]], [[Domaine de la Noblesse|Noblesse]], [[Domaine des Reptiles|Reptiles]]
+|[[Domaine de la Noblesse|Commandement]], [[Domaine du Chaos|Démons (Chaos)]], [[Domaine du Mal|Démons (Mal)]], [[Domaine de la Noblesse|Martyre]], [[Domaine de la Noblesse|Orgueil]], [[Domaine des Reptiles|Sauriens]], [[Domaine de la Guerre|Tactique]]
+|—}{s:cs}{s:ISG}Ydersius, le Roi décapité, est un ancien dieu vénéré par les hommes-serpents, tout aussi anciens. Lorsque les hommes-serpents ont été pratiquement détruits lors d'une guerre contre les Azlant, Ydersius s'est caché en Ombreterre. Un puissant héros décapita Ydersius, mais les deux moitiés de son corps survivent, désespérant, selon certains, d'être réunies et de renaître.
+
+===Règles uniques aux suivants===
+'''Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).'''  
+• ''[[Accélération du poison]]'' peut être préparé comme un sort de 2e niveau.  
+• ''[[Forme bestiale I]]'' peut être préparé comme un sort de 3e niveau (uniquement pour prendre la forme d'un animal serpentin).  
+• ''[[Forme bestiale II]]'' peut être préparé comme un sort de 4e niveau (uniquement pour prendre la forme d'un animal serpentin).  
+• ''[[Forme bestiale III]]'' peut être préparé comme un sort de 5e niveau (uniquement pour prendre la forme d'un animal serpentin).  
+• ''[[Projectile empoisonné]]'' peut être préparé comme un sort de 4e niveau (la flèche ou le carreau ressemble à une vipère raide qui mort la cible avec des crocs empoisonnés).
+
+'''Lancement de sorts ([[Druide]]).'''  
+• ''[[Projectile empoisonné]]'' peut être préparé comme un sort de 4e niveau (la flèche ou le carreau ressemble à une vipère raide qui mort la cible avec des crocs empoisonnés).
+
+'''Convocations étendues.'''  
+• ''[[Convocation de monstres II]].'' [[Serpent venimeux]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)  
+• ''[[Convocation de monstres IV]].'' [[Amphisbène]]  
+• ''[[Convocation de monstres V]].'' [[Cobra impérial]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)  
+• ''[[Convocation de monstres VII]].'' [[Anaconda géant]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
+
+===Options de personnage thématiques===
+<div class="article_2col">
+''À VENIR''  
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Ydersius (technique)</fullName>
+</wikiPage>

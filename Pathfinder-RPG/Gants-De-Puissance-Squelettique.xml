@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Gants de puissance squelettique</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-06-02 18:11:41Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux portés aux mains</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Objets merveilleux portés aux mains</link><link>Pathfinder-RPG.Main spectrale</link><link>Pathfinder-RPG.Blessure modérée</link><link>Pathfinder-RPG.Soins modérés</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Urgathoa (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fUrgathoa.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Urgathoa (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fUrgathoa.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Urgathoa-(Technique).html&quot; title=&quot;Urgathoa&quot;&gt;Urgathoa&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gants de puissance squelettique&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;N&#233;cromancie&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 3 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Aux-Mains.html&quot; title=&quot;Objets merveilleux port&#233;s aux mains&quot;&gt;mains&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 5 400 po ; &lt;b&gt;Poids&lt;/b&gt; —
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ces gants noirs sont d&#233;cor&#233;s d&#39;images d&#39;os blancs, comme s&#39;ils r&#233;v&#233;laient les os des mains du porteur. Le gant gauche peut &#234;tre utilis&#233; une fois par jour pour cr&#233;er une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Main-Spectrale.html&quot; title=&quot;Main spectrale&quot;&gt;main spectrale&lt;/a&gt;&lt;/i&gt;, qui fait se d&#233;t&#226;cher l&#39;image de main osseuse du gant et se manifeste sous la forme d&#39;une main squelettique fantomatique pour la dur&#233;e de l&#39;effet. Le gant droit peut &#234;tre utilis&#233; une fois par jour pour lancer un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-Mod&#233;r&#233;e.html&quot; title=&quot;Blessure mod&#233;r&#233;e&quot;&gt;blessure mod&#233;r&#233;e&lt;/a&gt;&lt;/i&gt;, qui donne aux os de la main une lueur p&#226;le et maladive jusqu&#39;&#224; ce que le sort soit d&#233;livr&#233; ou d&#233;charg&#233;. Si le porteur est une cr&#233;ature vivante, il peut &#233;galement utiliser le gant droit sur lui-m&#234;me pour lancer &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;/i&gt; &#224; la place de &lt;i&gt;blessure mod&#233;r&#233;e&lt;/i&gt;.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessure-Mod&#233;r&#233;e.html&quot; title=&quot;Blessure mod&#233;r&#233;e&quot;&gt;blessure mod&#233;r&#233;e&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Main-Spectrale.html&quot; title=&quot;Main spectrale&quot;&gt;main spectrale&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 2 700 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Urgathoa|%2fPCUP%2fReligion-PNG%2fUrgathoa.png}<div class="BD">
+{s:BDTitre|Gants de puissance squelettique|{s:ISG}}
+'''Aura''' [[Invocation]] et [[Nécromancie]] faible ; '''NLS''' 3 ; '''Emplacement''' [[Objets merveilleux portés aux mains|mains]] ; '''Prix''' 5 400 po ; '''Poids''' —
+(((Description)))
+{s:cs}Ces gants noirs sont décorés d'images d'os blancs, comme s'ils révélaient les os des mains du porteur. Le gant gauche peut être utilisé une fois par jour pour créer une ''[[main spectrale]]'', qui fait se détâcher l'image de main osseuse du gant et se manifeste sous la forme d'une main squelettique fantomatique pour la durée de l'effet. Le gant droit peut être utilisé une fois par jour pour lancer un sort de ''[[blessure modérée]]'', qui donne aux os de la main une lueur pâle et maladive jusqu'à ce que le sort soit délivré ou déchargé. Si le porteur est une créature vivante, il peut également utiliser le gant droit sur lui-même pour lancer ''[[soins modérés]]'' à la place de ''blessure modérée''.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[blessure modérée]]'', ''[[main spectrale]]'', ''[[soins modérés]]'' ; '''Coût''' 2 700 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Gants de puissance squelettique</fullName>
+</wikiPage>

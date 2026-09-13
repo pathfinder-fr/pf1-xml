@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Flux élémentaire (flasque)</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-04 15:11:56Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Armes alchimiques</link><link>Pathfinder-RPG.suli (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Armes alchimiques</link><link>Pathfinder-RPG.suli (race)</link><link>Pathfinder-RPG.point de vie</link><link>Pathfinder-RPG.arme à aspersion</link><link>Pathfinder-RPG.Acide (objet)</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.suli (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Suli.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Suli (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Suli.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Suli-(Race).html&quot; title=&quot;Les sulis&quot;&gt;sulis&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 20 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 20  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Alchimiques.html&quot; title=&quot;Armes alchimiques&quot;&gt;Armes alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette flasque de poudre alchimique r&#233;agit &#224; la puissance &#233;l&#233;mentaire qui coule dans les veines du suli. Le fait d’y ajouter du sang &lt;a class=&quot;pagelink&quot; href=&quot;Suli-(Race).html&quot; title=&quot;Les sulis&quot;&gt;suli&lt;/a&gt; &#224; hauteur de 1 &lt;a class=&quot;pagelink&quot; href=&quot;Point-De-Vie.html&quot; title=&quot;point de vie&quot;&gt;point de vie&lt;/a&gt; cr&#233;e une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Armeaspersion.html&quot; title=&quot;arme &#224; aspersion&quot;&gt;arme &#224; aspersion&lt;/a&gt; &#233;l&#233;mentaire. L’arme &#224; aspersion fonctionne comme une flasque d’&lt;a class=&quot;pagelink&quot; href=&quot;Acide-(Objet).html&quot; title=&quot;Acide&quot;&gt;acide&lt;/a&gt;, &#224; la seule diff&#233;rence que les d&#233;g&#226;ts inflig&#233;s sont d’un type d’&#233;nergie al&#233;atoire (acide, froid, &#233;lectricit&#233; ou feu). Un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 10 permet d’identifier le type d’&#233;nergie de la flasque activ&#233;e. Le flux activ&#233; conserve sa puissance pendant 24 heures avant de se transformer en mat&#233;riau inerte. Le DD du test d’Artisanat (alchimie) pour cr&#233;er ce flux est de 20.
+]]></body>
+  <raw><![CDATA[{s:racial|Suli (race)|sulis|Illustrations/PNJ/Suli.jpg}{s:MR}'''Prix''' 20 po ; '''Poids''' 0,5 kg ; '''DD d'Artisanat (alchimie)''' 20  
+<span class="Catégorie">'''Catégorie''' [[Armes alchimiques]]</span>
+<hr>
+Cette flasque de poudre alchimique réagit à la puissance élémentaire qui coule dans les veines du suli. Le fait d’y ajouter du sang [[Suli (race)|suli]] à hauteur de 1 [[point de vie]] crée une [[arme à aspersion]] élémentaire. L’arme à aspersion fonctionne comme une flasque d’[[Acide (objet)|acide]], à la seule différence que les dégâts infligés sont d’un type d’énergie aléatoire (acide, froid, électricité ou feu). Un test d’[[Artisanat]] (alchimie) [[DD]] 10 permet d’identifier le type d’énergie de la flasque activée. Le flux activé conserve sa puissance pendant 24 heures avant de se transformer en matériau inerte. Le DD du test d’Artisanat (alchimie) pour créer ce flux est de 20.]]></raw>
+  <fullName>Pathfinder-RPG.Flux élémentaire (objet)</fullName>
+</wikiPage>

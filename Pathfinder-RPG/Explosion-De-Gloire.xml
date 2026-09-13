@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Explosion de gloire</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort inquisiteur 4</category><category>Pathfinder-RPG.Sort paladin 4</category><category>Pathfinder-RPG.Sort prêtre 5</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-07-21 14:58:25Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de paladins</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Liste des sorts dinquisiteur</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Main de lHéritière</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.branche coercition</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Paladin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.points de vie temporaires</link><link>Pathfinder-RPG.Torche (objet)</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Iomédae (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fIomedae.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Iom&#233;dae (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fIomedae.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Iom&#233;dae-(Technique).html&quot; title=&quot;Iom&#233;dae&quot;&gt;Iom&#233;dae&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;Enchantement&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Coercition.html&quot; title=&quot;Coercition&quot;&gt;coercition&lt;/a&gt;) [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effet mental&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;Inq&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Paladin.html&quot; title=&quot;Le paladin&quot;&gt;Pal&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 5  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; 3 m  
+&lt;b&gt;Effet&lt;/b&gt; rayonnement de 3 m de rayon, centr&#233; sur le lanceur  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt; (T; voir description)  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; Volont&#233;, annule (inoffensif) ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui (inoffensif)&lt;br /&gt;&lt;br /&gt;Les alli&#233;s du personnage situ&#233;s dans la zone d’effet b&#233;n&#233;ficient d’un bonus sacr&#233; de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;de sauvegarde&lt;/a&gt; contre les effets de terreur, plus 1 &lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort#Pvtemporaires.html&quot; title=&quot;points de vie temporaires&quot;&gt;point de vie temporaire&lt;/a&gt; par niveau de lanceur (maximum 20). Le lanceur irradie une lumi&#232;re blanche ou dor&#233;e semblable &#224; celle d’une &lt;a class=&quot;pagelink&quot; href=&quot;Torche-(Objet).html&quot; title=&quot;Torche&quot;&gt;torche&lt;/a&gt; pendant la dur&#233;e du sort mais il peut supprimer cette lumi&#232;re en une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:divin|Iomédae|%2fPCUP%2fReligion-PNG%2fIomedae.png}{s:ISG}{s:GeM}'''École''' [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; '''Niveau''' [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 5  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, FD]]  
+'''Portée''' 3 m  
+'''Effet''' rayonnement de 3 m de rayon, centré sur le lanceur  
+'''Durée''' 1 [[round]]/[[niveau]] (T; voir description)  
+'''Jet de sauvegarde''' Volonté, annule (inoffensif) ; '''Résistance à la magie''' oui (inoffensif)
+
+Les alliés du personnage situés dans la zone d’effet bénéficient d’un bonus sacré de +1 aux [[jet dattaque|jets d’attaque]] et [[jds|de sauvegarde]] contre les effets de terreur, plus 1 [[points de vie temporaires|point de vie temporaire]] par niveau de lanceur (maximum 20). Le lanceur irradie une lumière blanche ou dorée semblable à celle d’une [[Torche (objet)|torche]] pendant la durée du sort mais il peut supprimer cette lumière en une [[action libre]].]]></raw>
+  <fullName>Pathfinder-RPG.Explosion de gloire</fullName>
+</wikiPage>

@@ -1,0 +1,624 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pathfinder unchained (Contenu)</title>
+  <categories><category>Pathfinder-RPG.Src Pathfinder unchained</category></categories>
+  <lastModified>2020-12-05 01:09:09Z</lastModified>
+  <version>9</version>
+  <inLinks><link>Pathfinder-RPG.Temp</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Barbare unchained</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Moine unchained</link><link>Pathfinder-RPG.Roublard unchained</link><link>Pathfinder-RPG.Abjuration ésotérique</link><link>Pathfinder-RPG.Champion de lanarchie</link><link>Pathfinder-RPG.Champion de la destruction</link><link>Pathfinder-RPG.Champion de la grâce</link><link>Pathfinder-RPG.Champion de la liberté</link><link>Pathfinder-RPG.Champion de la malveillance</link><link>Pathfinder-RPG.Champion de la sérénité</link><link>Pathfinder-RPG.Champion de la tyrannie</link><link>Pathfinder-RPG.Champion de la vertu</link><link>Pathfinder-RPG.Champion de léquilibre</link><link>Pathfinder-RPG.Compétence de marque</link><link>Pathfinder-RPG.Divination ésotérique</link><link>Pathfinder-RPG.Enchantement ésotérique</link><link>Pathfinder-RPG.Endurance combative</link><link>Pathfinder-RPG.Endurance supplémentaire</link><link>Pathfinder-RPG.Ésotérisme irrésistible</link><link>Pathfinder-RPG.Évocation ésotérique</link><link>Pathfinder-RPG.Illusion ésotérique</link><link>Pathfinder-RPG.Invocation ésotérique</link><link>Pathfinder-RPG.Nécromancie ésotérique</link><link>Pathfinder-RPG.Repousser ses limites</link><link>Pathfinder-RPG.Transmutation ésotérique</link><link>Pathfinder-RPG.eidolon unchained</link><link>Pathfinder-RPG.Frappes spécialisées</link><link>Pathfinder-RPG.pouvoirs de rage unchained</link><link>Pathfinder-RPG.Pouvoirs de ki</link><link>Pathfinder-RPG.talents unchained</link><link>Pathfinder-RPG.Règles alternatives unchained</link><link>Pathfinder-RPG.Classes unchained</link><link>Pathfinder-RPG.Bonus de base fractionnaires</link><link>Pathfinder-RPG.Progression échelonnée</link><link>Pathfinder-RPG.Compétences et options unchained</link><link>Pathfinder-RPG.Compétences contextuelles</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Artisanat et Profession alternatives</link><link>Pathfinder-RPG.Extensions de compétences</link><link>Pathfinder-RPG.Variante de multiclassage</link><link>Pathfinder-RPG.Mécanismes de jeu unchained</link><link>Pathfinder-RPG.Alignement unchained</link><link>Pathfinder-RPG.Éliminer lalignement</link><link>Pathfinder-RPG.Gestion dactions révisée</link><link>Pathfinder-RPG.Éliminer les attaques multiples</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Seuils de blessure</link><link>Pathfinder-RPG.Maladies et poisons unchained</link><link>Pathfinder-RPG.Magie unchained</link><link>Pathfinder-RPG.Incantation simplifiée</link><link>Pathfinder-RPG.Altérations de la magie</link><link>Pathfinder-RPG.Composantes matérielles ésotériques</link><link>Pathfinder-RPG.Bonus de progression automatique</link><link>Pathfinder-RPG.Bonus intrinsèques des objets</link><link>Pathfinder-RPG.Objets évolutifs</link><link>Pathfinder-RPG.Création dynamique dobjets magiques</link><link>Pathfinder-RPG.Création de monstres simplifiée</link></outLinks>
+  <body><![CDATA[&lt;a class=&quot;externallink&quot; href=&quot;https://paizo.com/products/btpy97vo?Pathfinder-Roleplaying-Game-Pathfinder-Unchained-Hardcover&quot; title=&quot;Pathfinder Unchained&quot; target=&quot;_blank&quot;&gt;Pathfinder Unchained&lt;/a&gt; a &#233;t&#233; publi&#233; en Avril 2015 par Paizo inc.  
+Traduit et publi&#233; en fran&#231;ais par Black Book Editions sous le nom de &lt;a class=&quot;externallink&quot; href=&quot;https://www.black-book-editions.fr/produit.php?id=2424&quot; title=&quot;Pathfinder unchained&quot; target=&quot;_blank&quot;&gt;Pathfinder unchained&lt;/a&gt;, en Juin 2015.&lt;br /&gt;&lt;br /&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Classes_7&quot;&gt;Classes&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Dons_8&quot;&gt;Dons&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Options_de_classe_9&quot;&gt;Options de classe&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#&#201;volutions_deidolon_unchained_0&quot;&gt;&#201;volutions d&#39;eidolon (unchained)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Formes_de_base_deidolon_unchained_1&quot;&gt;Formes de base d&#39;eidolon (unchained)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Frappes_sp&#233;cialis&#233;es_du_moine_unchained_2&quot;&gt;Frappes sp&#233;cialis&#233;es du moine (unchained)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pouvoirs_de_rage_du_barbare_unchained_3&quot;&gt;Pouvoirs de rage du barbare (unchained)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pouvoirs_de_ki_du_moine_unchained_4&quot;&gt;Pouvoirs de ki du moine (unchained)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Sous-types_deidolon_unchained_5&quot;&gt;Sous-types d&#39;eidolon (unchained)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Talents_de_roublard_unchained_6&quot;&gt;Talents de roublard (unchained)&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#R&#232;gles_officielles_10&quot;&gt;R&#232;gles officielles&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Classes&lt;a class=&quot;headeranchor&quot; id=&quot;Classes_7&quot; href=&quot;#Classes_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Barbare-Unchained.html&quot; title=&quot;Le barbare unchained&quot;&gt;Barbare unchained&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;Conjurateur unchained&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Moine-Unchained.html&quot; title=&quot;Le moine unchained&quot;&gt;Moine unchained&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Roublard-Unchained.html&quot; title=&quot;Le roublard unchained&quot;&gt;Roublard unchained&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Dons&lt;a class=&quot;headeranchor&quot; id=&quot;Dons_8&quot; href=&quot;#Dons_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les dons marqu&#233;s d&#39;un ast&#233;risque (*) sont des dons de combat, ceux marqu&#233;s d&#39;un A sont des dons d&#39;alignement et ceux marqu&#233;s d&#39;un S sont des dons &#233;sot&#233;riques.  
+&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Abjuration-&#201;sot&#233;rique.html&quot; title=&quot;Abjuration &#233;sot&#233;rique&quot;&gt;Abjuration &#233;sot&#233;rique&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-Lanarchie.html&quot; title=&quot;Champion de l&amp;#39;anarchie&quot;&gt;Champion de l’anarchie&lt;/a&gt;&lt;sup&gt;A&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-La-Destruction.html&quot; title=&quot;Champion de la destruction&quot;&gt;Champion de la destruction&lt;/a&gt;&lt;sup&gt;A&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-La-Gr&#226;ce.html&quot; title=&quot;Champion de la gr&#226;ce&quot;&gt;Champion de la gr&#226;ce&lt;/a&gt;&lt;sup&gt;A&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-La-Libert&#233;.html&quot; title=&quot;Champion de la libert&#233;&quot;&gt;Champion de la libert&#233;&lt;/a&gt;&lt;sup&gt;A&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-La-Malveillance.html&quot; title=&quot;Champion de la malveillance&quot;&gt;Champion de la malveillance&lt;/a&gt;&lt;sup&gt;A&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-La-S&#233;r&#233;nit&#233;.html&quot; title=&quot;Champion de la s&#233;r&#233;nit&#233;&quot;&gt;Champion de la s&#233;r&#233;nit&#233;&lt;/a&gt;&lt;sup&gt;A&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-La-Tyrannie.html&quot; title=&quot;Champion de la tyrannie&quot;&gt;Champion de la tyrannie&lt;/a&gt;&lt;sup&gt;A&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-La-Vertu.html&quot; title=&quot;Champion de la vertu&quot;&gt;Champion de la vertu&lt;/a&gt;&lt;sup&gt;A&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Champion-De-L&#233;quilibre.html&quot; title=&quot;Champion de l&amp;#39;&#233;quilibre&quot;&gt;Champion de l’&#233;quilibre&lt;/a&gt;&lt;sup&gt;A&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tence-De-Marque.html&quot; title=&quot;Comp&#233;tence de marque&quot;&gt;Comp&#233;tence de marque&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Divination-&#201;sot&#233;rique.html&quot; title=&quot;Divination &#233;sot&#233;rique&quot;&gt;Divination &#233;sot&#233;rique&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Enchantement-&#201;sot&#233;rique.html&quot; title=&quot;Enchantement &#233;sot&#233;rique&quot;&gt;Enchantement &#233;sot&#233;rique&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Combative.html&quot; title=&quot;Endurance combative&quot;&gt;Endurance combative&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Suppl&#233;mentaire.html&quot; title=&quot;Endurance suppl&#233;mentaire&quot;&gt;Endurance suppl&#233;mentaire&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;sot&#233;risme-Irr&#233;sistible.html&quot; title=&quot;&#201;sot&#233;risme irr&#233;sistible&quot;&gt;&#201;sot&#233;risme irr&#233;sistible&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;&#201;vocation-&#201;sot&#233;rique.html&quot; title=&quot;&#201;vocation &#233;sot&#233;rique&quot;&gt;&#201;vocation &#233;sot&#233;rique&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Illusion-&#201;sot&#233;rique.html&quot; title=&quot;Illusion &#233;sot&#233;rique&quot;&gt;Illusion &#233;sot&#233;rique&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Invocation-&#201;sot&#233;rique.html&quot; title=&quot;Invocation &#233;sot&#233;rique&quot;&gt;Invocation &#233;sot&#233;rique&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;N&#233;cromancie-&#201;sot&#233;rique.html&quot; title=&quot;N&#233;cromancie &#233;sot&#233;rique&quot;&gt;N&#233;cromancie &#233;sot&#233;rique&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Repousser-Ses-Limites.html&quot; title=&quot;Repousser ses limites&quot;&gt;Repousser ses limites&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Transmutation-&#201;sot&#233;rique.html&quot; title=&quot;Transmutation &#233;sot&#233;rique&quot;&gt;Transmutation &#233;sot&#233;rique&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;.
+&lt;/div&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Options de classe&lt;a class=&quot;headeranchor&quot; id=&quot;Options_de_classe_9&quot; href=&quot;#Options_de_classe_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;h3 class=&quot;separator&quot;&gt;&#201;volutions d&#39;eidolon (unchained)&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;volutions_deidolon_unchained_0&quot; href=&quot;#&#201;volutions_deidolon_unchained_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&quot;article_3col&quot;&gt;
+&lt;b&gt;&#192; 1 point.&lt;/b&gt;   
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ALLONGE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Allonge&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ARMURENATURELLEAMELIOREE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Armure naturelle am&#233;lior&#233;e&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ATTAQUESMAGIQUES&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Attaques magiques&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ATTIRER&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Attirer&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#AUGMENTATIONDESDEGATS&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Augmentation des d&#233;g&#226;ts&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#BRANCHIES&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Branchies&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#COMPETENT&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Comp&#233;tent&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#COUP&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Coup&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#COUPDEQUEUE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Coup de queue&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#DARD&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Dard&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ESCALADE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Escalade&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#FRAPPEDESAILES&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Frappe des ailes&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#GRIFFES&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Griffes&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#MONTURE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Monture&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#MORSURE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Morsure&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#NATATION&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Natation&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ODORAT&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Odorat&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#PINCES&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Pinces&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#QUEUE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Queue&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#REPOUSSER&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Repousser&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#RESISTANCE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;R&#233;sistance&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#TENTACULE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Tentacule&lt;/a&gt;.  
+  
+&lt;b&gt;&#192; 2 points.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ATTAQUEDENERGIE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Attaque d&#39;&#233;nergie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#EVOLUTIONAUGMENTATIONDECARACTERISTIQUE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Augmentation de caract&#233;ristique&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#CONSTRICTION&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Constriction&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#CORNES&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Cornes&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#CROCENJAMBE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Croc-en-jambe&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ENTRAINEMENTAUXARMES&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Entra&#238;nement aux armes&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ETREINTE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;&#201;treinte&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#EVENTRATION&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;&#201;ventration&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#IMMUNITE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Immunit&#233;&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#MEMBRES&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Membres&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#PATTESARRIERES&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Pattes arri&#232;res&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#PERCEPTIONDESVIBRATIONS&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Perception des vibrations&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#PIETINEMENT&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Pi&#233;tinement&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#POISON&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Poison&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#VOL&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Vol&lt;/a&gt;.  
+  
+&lt;b&gt;&#192; 3 points.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#BOND&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Bond&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ENGLOUTISSEMENT&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Engloutissement&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#PERCEPTIONAVEUGLE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Perception aveugle&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#PRESENCETERRIFIANTE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Pr&#233;sence terrifiante&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#REDUCTIONDEDEGATS&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;R&#233;duction de d&#233;g&#226;ts&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#TOILE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Toile&lt;/a&gt;.  
+  
+&lt;b&gt;&#192; 4 points.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#GRAND&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Grand&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#GUERISONACCELEREE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#RESISTANCEALAMAGIE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;R&#233;sistance &#224; la magie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#SOUFFLE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Souffle&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#VISIONAVEUGLE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Vision aveugle&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;div style=&quot;border-top:1px dashed #4b3124&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Formes de base d&#39;eidolon (unchained)&lt;a class=&quot;headeranchor&quot; id=&quot;Formes_de_base_deidolon_unchained_1&quot; href=&quot;#Formes_de_base_deidolon_unchained_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#BIPEDE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Bip&#232;de&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#QUADRUPEDE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Quadrup&#232;de&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#SERPENTINE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Serpentine&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;div style=&quot;border-top:1px dashed #4b3124&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Frappes sp&#233;cialis&#233;es du moine (unchained)&lt;a class=&quot;headeranchor&quot; id=&quot;Frappes_sp&#233;cialis&#233;es_du_moine_unchained_2&quot; href=&quot;#Frappes_sp&#233;cialis&#233;es_du_moine_unchained_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#BLOCAGEDESPIEDS&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Blocage des pieds&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#BOUSCULADEDUPIED&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Bousculade du pied&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#COUPDECOUDE&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Coup de coude&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#COUPDEPIEDSAUTE&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Coup de pied saut&#233;&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#COUPDEPIEDTOURNOYANT&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Coup de pied tournoyant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#COUPDEPOINGFRACASSANT&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Coup de poing fracassant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#COUPDETETE&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Coup de t&#234;te&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#COUPDUMARTEAU&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Coup du marteau&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#FAUCHAGEDUPIED&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Fauchage du pied&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Sp&#233;cialis&#233;es.html#PIROUETTEDEFENSIVE&quot; title=&quot;Les frappes sp&#233;cialis&#233;es&quot;&gt;Pirouette d&#233;fensive&lt;/a&gt;,  
+&lt;/div&gt;&lt;br /&gt;&lt;div style=&quot;border-top:1px dashed #4b3124&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Pouvoirs de rage du barbare (unchained)&lt;a class=&quot;headeranchor&quot; id=&quot;Pouvoirs_de_rage_du_barbare_unchained_3&quot; href=&quot;#Pouvoirs_de_rage_du_barbare_unchained_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#ABSORPTIONDENERGIE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Absorption d&#39;&#233;nergie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#BRISEROC&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Brise roc&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#BRISEROCSUPERIEUR&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Brise roc sup&#233;rieur&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#CHASSEURDESORCIERE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Chasseur de sorci&#232;re&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#COLEREAUTOSUGGEREE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Col&#232;re autosugg&#233;r&#233;e&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#COUPHANDICAPANT&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Coup handicapant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#COUPHEMORRAGIQUE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Coup h&#233;morragique&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#COUPINATTENDU&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Coup inattendu&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#COUPREDOUTABLE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Coup redoutable&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#DEVOREURDEMAGIE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;D&#233;voreur de magie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#EGRATIGNURE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;&#201;gratignure&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#ESCALADEENRAGE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Escalade en rage&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#ESQUIVEREFLEXE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Esquive r&#233;flexe&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#FEROCITEINSPIREE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;F&#233;rocit&#233; inspir&#233;e&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#FRACASSEMENT&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Fracassement&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#FUREURANIMALE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Fureur animale&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#HURLEMENTTERRIFIANT&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Hurlement terrifiant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#IDEESCLAIRES&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Id&#233;es claires&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#LUCIDITEPARFAITE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Lucidit&#233; parfaite&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#MARQUEPROMETTEUSE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Marque prometteuse&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#NAGEENRAGE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Nage en rage&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#NOUVELLEVIGUEUR&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Nouvelle vigueur&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#ODORAT&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Odorat&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#OUSTE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Ouste&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#OUSTEMAJEUR&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Ouste majeur&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#PASRAPIDES&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Pas rapides&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTUREDEFENSIVE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture d&#233;fensive&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTUREELEMENTAIRE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture &#233;l&#233;mentaire&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTUREIMPRUDENTE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture imprudente&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTURELUCIDE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture lucide&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTUREMUSCLEE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture muscl&#233;e&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTUREPERCUTANTE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture percutante&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTUREPRECISE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture pr&#233;cise&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTUREPUISSANTE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture puissante&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTUREREGENERATRICE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture r&#233;g&#233;n&#233;ratrice&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POSTUREVANTARDE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Posture vantarde&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#POURSUITE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Poursuite&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#PRECISIONAFFINEE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Pr&#233;cision affin&#233;e&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#PRECISIONLETALE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Pr&#233;cision l&#233;tale&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#PRECISIONMORTELLE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Pr&#233;cision mortelle&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#PROTECTIONDESPOINTSVITAUX&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Protection des points vitaux&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#RAGESANSPEUR&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Rage sans peur&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#REDUCTIONDEDEGATSACCRUE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;R&#233;duction de d&#233;g&#226;ts accrue&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#REFLEXESRAPIDES&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;R&#233;flexes rapides&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#REGARDINTIMIDANT&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Regard intimidant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#REPOUSSERLENNEMI&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Repousser l&#39;ennemi&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#RESISTANCEALENERGIE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;R&#233;sistance &#224; l&#39;&#233;nergie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#SAUTENRAGE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Saut en rage&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#SPRINT&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Sprint&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#SUPERSTITION&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Superstition&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#VIGUEURINTERNE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Vigueur interne&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#VISIONDENUIT&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Vision de nuit&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#VISIONNOCTURNE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Vision nocturne&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage-Unchained.html#VITALITERENOUVELEE&quot; title=&quot;Pouvoirs de rage du barbare unchained&quot;&gt;Vitalit&#233; renouvel&#233;e&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;div style=&quot;border-top:1px dashed #4b3124&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Pouvoirs de ki du moine (unchained)&lt;a class=&quot;headeranchor&quot; id=&quot;Pouvoirs_de_ki_du_moine_unchained_4&quot; href=&quot;#Pouvoirs_de_ki_du_moine_unchained_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#AMEDEDIAMANT&quot; title=&quot;Les pouvoirs de ki&quot;&gt;&#194;me de diamant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#BLOCAGEDUKI&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Blocage du ki&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#CHUTERALENTIE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Chute ralentie&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#CONTACTVIOLENT&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Contact violent&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#CORPSDEDIAMANT&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Corps de diamant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#COURSESURLONDE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Course sur l&#39;onde&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#DEFENSEFURIEUSE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;D&#233;fense furieuse&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#DEFENSEKI&quot; title=&quot;Les pouvoirs de ki&quot;&gt;D&#233;fense ki&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#DESERTIONDELAME&quot; title=&quot;Les pouvoirs de ki&quot;&gt;D&#233;sertion de l&#39;&#226;me&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#ECOLEDELAUTODIDACTE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;&#201;cole de l&#39;autodidacte&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#EQUILIBREDELAPLUME&quot; title=&quot;Les pouvoirs de ki&quot;&gt;&#201;quilibre de la plume&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#ESPRITDEDIAMANT&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Esprit de diamant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#FURIEELEMENTAIRE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Furie &#233;l&#233;mentaire&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#METABOLISMEKI&quot; title=&quot;Les pouvoirs de ki&quot;&gt;M&#233;tabolisme ki&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#MONTUREKI&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Monture ki&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#OURAGANKI&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Ouragan ki&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#PASCHASSE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Pas chass&#233;&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#PASLEGERS&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Pas l&#233;gers&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#PAUMEVIBRATOIRE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Paume vibratoire&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#PLENITUDEPHYSIQUE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Pl&#233;nitude physique&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#PORTEEKI&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Port&#233;e ki&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#POUVOIRQINGGONG&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Pouvoir qinggong&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#RAFALEELEMENTAIRE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Rafale &#233;l&#233;mentaire&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#RESILIENCEDEDIAMANT&quot; title=&quot;Les pouvoirs de ki&quot;&gt;R&#233;silience de diamant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#SAGEINTUITION&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Sage intuition&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#SALVEKI&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Salve ki&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#SAUTDUVENT&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Saut du vent&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#SAUTSPUISSANTS&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Sauts puissants&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#SOUDAINECELERITE&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Soudaine c&#233;l&#233;rit&#233;&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#SOUFFLEDUCOBRA&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Souffle du cobra&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Ki.html#VISIONSKI&quot; title=&quot;Les pouvoirs de ki&quot;&gt;Visions ki&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;div style=&quot;border-top:1px dashed #4b3124&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Sous-types d&#39;eidolon (unchained)&lt;a class=&quot;headeranchor&quot; id=&quot;Sous-types_deidolon_unchained_5&quot; href=&quot;#Sous-types_deidolon_unchained_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#AGATHION&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Agathion&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ANGE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Ange&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ARCHON&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Archon&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#AZATA&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Azata&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#DAEMON&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Da&#233;mon&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#DEMON&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;D&#233;mon&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#DIABLE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Diable&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#DIV&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Div&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#ELEMENTAIRE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;&#201;l&#233;mentaire&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#INEVITABLE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;In&#233;vitable&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#PROTEEN&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Prot&#233;en&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Eidolon-Unchained.html#PSYCHOPOMPE&quot; title=&quot;L&amp;#39;eidolon du conjurateur unchained&quot;&gt;Psychopompe&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;div style=&quot;border-top:1px dashed #4b3124&quot;&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Talents de roublard (unchained)&lt;a class=&quot;headeranchor&quot; id=&quot;Talents_de_roublard_unchained_6&quot; href=&quot;#Talents_de_roublard_unchained_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;article_3col&quot;&gt;
+&lt;b&gt;Talents.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#ATTAQUESANGLANTE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Attaque sanglante&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#ATTAQUESOURNOISEPUISSANTE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Attaque sournoise puissante&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#ATTAQUESURPRISE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Attaque surprise&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#BOTTESECRETE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Botte secr&#232;te&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#CAMOUFLAGE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Camouflage&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#CERTITUDE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Certitude&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#CONNAISSANCESESOTERIQUES&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Connaissances &#233;sot&#233;riques&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#DEBOUT&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Debout&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#DENICHEURDEPIEGES&quot; title=&quot;Les talents du roublard unchained&quot;&gt;D&#233;nicheur de pi&#232;ches&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#DESAMORCAGERAPIDE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;D&#233;samor&#231;age rapide&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#DISCRETETRAPIDE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Discret et rapide&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#EQUILIBRISTE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;&#201;quilibriste&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#EXTRAIREDESINFORMATIONS&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Extraire des informations&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#FORMATIONMARTIALE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Formation martiale&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#GRIMPEURAGILE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Grimpeur agile&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#MAGIEMAJEURE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Magie majeure&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#MAGIEMINEURE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Magie mineure&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#MAITRISEDUTERRAIN&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Ma&#238;trise du terrain&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#MOUVEMENTAQUATREPATTES&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Mouvement &#224; quatre pattes&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#POISONPERSISTANT&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Poison persistant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#REACTIONSLENTES&quot; title=&quot;Les talents du roublard unchained&quot;&gt;R&#233;actions lentes&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#RESILIENCE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;R&#233;silience&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#RETENIRSONSOUFFLE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Retenir son souffle&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#SAUTDELEXPERT&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Saut de l&#39;expert&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#SUBTILISATIONAUCOMBAT&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Subtilisation au combat&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#SUIVRELESINDICES&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Suivre les indices&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#TALENTSRENOUVELES&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Talents renouvel&#233;s&lt;/a&gt;.  
+  
+&lt;b&gt;Talents de ma&#238;tre.&lt;/b&gt;  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#ATTAQUEDISSIPANTE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Attaque dissipante&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#ATTAQUEHANDICAPANTE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Attaque handicapante&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#ATTAQUESOURNOISEMORTELLE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Attaque sournoise mortelle&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#DEMARCHEAERIENNE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;D&#233;marche a&#233;rienne&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#DON&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Don&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#DOUBLEAFFAIBLISSEMENT&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Double affaiblissement&lt;/a&gt;*,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#ESPRITFUYANT&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Esprit fuyant&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#ESQUIVESURNATURELLE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Esquive surnaturelle&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#MAITREDUDEGUISEMENT&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Ma&#238;tre du d&#233;guisement&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#MAITRISEDESCOMPETENCES&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Ma&#238;trise des comp&#233;tences&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#MAITRISESUPERIEUREDUTERRAIN&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Ma&#238;trise sup&#233;rieure du terrain&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#MULTIPLESSPECIALITES&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Multiples sp&#233;cialit&#233;s&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#OPPORTUNISME&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Opportunisme&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#ROULEBOULE&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Roul&#233;-boul&#233;&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#TALENTSRENOUVELESSUPERIEURS&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Talents renouvel&#233;s sup&#233;rieurs&lt;/a&gt;,  
+&lt;a class=&quot;pagelink&quot; href=&quot;Talents-Unchained.html#TIRSOUDAIN&quot; title=&quot;Les talents du roublard unchained&quot;&gt;Tir soudain&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles officielles&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_officielles_10&quot; href=&quot;#R&#232;gles_officielles_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;article_3col&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Alternatives-Unchained.html&quot; title=&quot;R&#232;gles alternatives unchained&quot;&gt;R&#232;gles alternatives unchained&lt;/a&gt;,  
+• &lt;a class=&quot;pagelink&quot; href=&quot;Classes-Unchained.html&quot; title=&quot;Classes unchained&quot;&gt;Classes unchained&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Base-Fractionnaires.html&quot; title=&quot;Bonus de base fractionnaires&quot;&gt;Bonus de base fractionnaires&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Progression-&#201;chelonn&#233;e.html&quot; title=&quot;Progression &#233;chelonn&#233;e&quot;&gt;Progression &#233;chelonn&#233;e&lt;/a&gt;,  
+• &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Et-Options-Unchained.html&quot; title=&quot;Comp&#233;tences et options unchained&quot;&gt;Comp&#233;tences et options unchained&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Contextuelles.html&quot; title=&quot;Comp&#233;tences contextuelles&quot;&gt;Comp&#233;tences contextuelles&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es&quot;&gt;Comp&#233;tences fusionn&#233;es&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Group&#233;es.html&quot; title=&quot;Comp&#233;tences group&#233;es&quot;&gt;Comp&#233;tences group&#233;es&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat-Et-Profession-Alternatives.html&quot; title=&quot;Artisanat et Profession alternatives&quot;&gt;Artisanat et Profession alternatives&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Extensions-De-Comp&#233;tences.html&quot; title=&quot;Extensions de comp&#233;tences&quot;&gt;Extensions de comp&#233;tences&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Variante-De-Multiclassage.html&quot; title=&quot;Variante de multiclassage&quot;&gt;Variante de multiclassage&lt;/a&gt;,  
+• &lt;a class=&quot;pagelink&quot; href=&quot;M&#233;canismes-De-Jeu-Unchained.html&quot; title=&quot;M&#233;canismes de jeu unchained&quot;&gt;M&#233;canismes de jeu unchained&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Unchained.html&quot; title=&quot;L&amp;#39;alignement unchained&quot;&gt;Alignement unchained&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Lalignement.html&quot; title=&quot;&#201;liminer l&amp;#39;alignement&quot;&gt;&#201;liminer l&#39;alignement&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Gestion-Dactions-R&#233;vis&#233;e.html&quot; title=&quot;Gestion d&amp;#39;actions r&#233;vis&#233;e&quot;&gt;Gestion d&#39;actions r&#233;vis&#233;e&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Les-Attaques-Multiples.html&quot; title=&quot;&#201;liminer les attaques multiples&quot;&gt;&#201;liminer les attaques multiples&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Et-Astuces-Martiales.html&quot; title=&quot;Endurance et Astuces martiales&quot;&gt;Endurance et Astuces martiales&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Seuils-De-Blessure.html&quot; title=&quot;Seuils de blessure&quot;&gt;Seuils de blessure&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Maladies-Et-Poisons-Unchained.html&quot; title=&quot;Maladies et poisons unchained&quot;&gt;Maladies et poisons unchained&lt;/a&gt;,  
+• &lt;a class=&quot;pagelink&quot; href=&quot;Magie-Unchained.html&quot; title=&quot;Magie unchained&quot;&gt;Magie unchained&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Simplifi&#233;e.html&quot; title=&quot;Incantation simplifi&#233;e&quot;&gt;Incantation simplifi&#233;e&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Alt&#233;rations-De-La-Magie.html&quot; title=&quot;Alt&#233;rations de la magie&quot;&gt;Alt&#233;rations de la magie&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Composantes-Mat&#233;rielles-&#201;sot&#233;riques.html&quot; title=&quot;Composantes mat&#233;rielles &#233;sot&#233;riques&quot;&gt;Composantes mat&#233;rielles &#233;sot&#233;riques&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Progression-Automatique.html&quot; title=&quot;Bonus de progression automatique&quot;&gt;Bonus de progression automatique&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Bonus-Intrins&#232;ques-Des-Objets.html&quot; title=&quot;Bonus intrins&#232;ques des objets&quot;&gt;Bonus intrins&#232;ques des objets&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Objets-&#201;volutifs.html&quot; title=&quot;Objets &#233;volutifs&quot;&gt;Objets &#233;volutifs&lt;/a&gt;,  
+&amp;emsp;• &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dynamique-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation dynamique d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation dynamique d&#39;objets magiques&lt;/a&gt;,  
+• &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e&quot;&gt;Cr&#233;ation de monstres simplifi&#233;e&lt;/a&gt;.
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[[[https://paizo.com/products/btpy97vo?Pathfinder-Roleplaying-Game-Pathfinder-Unchained-Hardcover|Pathfinder Unchained]] a été publié en Avril 2015 par Paizo inc.  
+Traduit et publié en français par Black Book Editions sous le nom de [[https://www.black-book-editions.fr/produit.php?id=2424|Pathfinder unchained]], en Juin 2015.
+
+{toc}
+
+===Classes===
+<div class="article_3col">
+[[Barbare unchained]],  
+[[Conjurateur unchained]],  
+[[Moine unchained]],  
+[[Roublard unchained]].
+</div>
+
+
+===Dons===
+Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'un A sont des dons d'alignement et ceux marqués d'un S sont des dons ésotériques.  
+<div class="article_3col">
+[[Abjuration ésotérique]]<sup>S</sup>,  
+[[Champion de lanarchie|Champion de l’anarchie]]<sup>A</sup>,  
+[[Champion de la destruction]]<sup>A</sup>,  
+[[Champion de la grâce]]<sup>A</sup>,  
+[[Champion de la liberté]]<sup>A</sup>,  
+[[Champion de la malveillance]]<sup>A</sup>,  
+[[Champion de la sérénité]]<sup>A</sup>,  
+[[Champion de la tyrannie]]<sup>A</sup>,  
+[[Champion de la vertu]]<sup>A</sup>,  
+[[Champion de léquilibre|Champion de l’équilibre]]<sup>A</sup>,  
+[[Compétence de marque]],  
+[[Divination ésotérique]]<sup>S</sup>,  
+[[Enchantement ésotérique]]<sup>S</sup>,  
+[[Endurance combative]]*,  
+[[Endurance supplémentaire]]*,  
+[[Ésotérisme irrésistible]]<sup>S</sup>,  
+[[Évocation ésotérique]]<sup>S</sup>,  
+[[Illusion ésotérique]]<sup>S</sup>,  
+[[Invocation ésotérique]]<sup>S</sup>,  
+[[Nécromancie ésotérique]]<sup>S</sup>,  
+[[Repousser ses limites]]*,  
+[[Transmutation ésotérique]]<sup>S</sup>.
+</div>
+
+
+===Options de classe===
+====Évolutions d'eidolon (unchained)====
+<div class="article_3col">
+'''À 1 point.'''   
+[[Eidolon unchained#ALLONGE|Allonge]],  
+[[Eidolon unchained#ARMURENATURELLEAMELIOREE|Armure naturelle améliorée]],  
+[[Eidolon unchained#ATTAQUESMAGIQUES|Attaques magiques]],  
+[[Eidolon unchained#ATTIRER|Attirer]],  
+[[Eidolon unchained#AUGMENTATIONDESDEGATS|Augmentation des dégâts]],  
+[[Eidolon unchained#BRANCHIES|Branchies]],  
+[[Eidolon unchained#COMPETENT|Compétent]],  
+[[Eidolon unchained#COUP|Coup]],  
+[[Eidolon unchained#COUPDEQUEUE|Coup de queue]],  
+[[Eidolon unchained#DARD|Dard]],  
+[[Eidolon unchained#ESCALADE|Escalade]],  
+[[Eidolon unchained#FRAPPEDESAILES|Frappe des ailes]],  
+[[Eidolon unchained#GRIFFES|Griffes]],  
+[[Eidolon unchained#MONTURE|Monture]],  
+[[Eidolon unchained#MORSURE|Morsure]],  
+[[Eidolon unchained#NATATION|Natation]],  
+[[Eidolon unchained#ODORAT|Odorat]],  
+[[Eidolon unchained#PINCES|Pinces]],  
+[[Eidolon unchained#QUEUE|Queue]],  
+[[Eidolon unchained#REPOUSSER|Repousser]],  
+[[Eidolon unchained#RESISTANCE|Résistance]],  
+[[Eidolon unchained#TENTACULE|Tentacule]].  
+  
+'''À 2 points.'''  
+[[Eidolon unchained#ATTAQUEDENERGIE|Attaque d'énergie]],  
+[[Eidolon unchained#EVOLUTIONAUGMENTATIONDECARACTERISTIQUE|Augmentation de caractéristique]],  
+[[Eidolon unchained#CONSTRICTION|Constriction]],  
+[[Eidolon unchained#CORNES|Cornes]],  
+[[Eidolon unchained#CROCENJAMBE|Croc-en-jambe]],  
+[[Eidolon unchained#ENTRAINEMENTAUXARMES|Entraînement aux armes]],  
+[[Eidolon unchained#ETREINTE|Étreinte]],  
+[[Eidolon unchained#EVENTRATION|Éventration]],  
+[[Eidolon unchained#IMMUNITE|Immunité]],  
+[[Eidolon unchained#MEMBRES|Membres]],  
+[[Eidolon unchained#PATTESARRIERES|Pattes arrières]],  
+[[Eidolon unchained#PERCEPTIONDESVIBRATIONS|Perception des vibrations]],  
+[[Eidolon unchained#PIETINEMENT|Piétinement]],  
+[[Eidolon unchained#POISON|Poison]],  
+[[Eidolon unchained#VOL|Vol]].  
+  
+'''À 3 points.'''  
+[[Eidolon unchained#BOND|Bond]],  
+[[Eidolon unchained#ENGLOUTISSEMENT|Engloutissement]],  
+[[Eidolon unchained#PERCEPTIONAVEUGLE|Perception aveugle]],  
+[[Eidolon unchained#PRESENCETERRIFIANTE|Présence terrifiante]],  
+[[Eidolon unchained#REDUCTIONDEDEGATS|Réduction de dégâts]],  
+[[Eidolon unchained#TOILE|Toile]].  
+  
+'''À 4 points.'''  
+[[Eidolon unchained#GRAND|Grand]],  
+[[Eidolon unchained#GUERISONACCELEREE|Guérison accélérée]],  
+[[Eidolon unchained#RESISTANCEALAMAGIE|Résistance à la magie]],  
+[[Eidolon unchained#SOUFFLE|Souffle]],  
+[[Eidolon unchained#VISIONAVEUGLE|Vision aveugle]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Formes de base d'eidolon (unchained)====</div>
+<div class="article_3col">
+[[Eidolon unchained#BIPEDE|Bipède]],  
+[[Eidolon unchained#QUADRUPEDE|Quadrupède]],  
+[[Eidolon unchained#SERPENTINE|Serpentine]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Frappes spécialisées du moine (unchained)====</div>
+<div class="article_3col">
+[[Frappes spécialisées#BLOCAGEDESPIEDS|Blocage des pieds]],  
+[[Frappes spécialisées#BOUSCULADEDUPIED|Bousculade du pied]],  
+[[Frappes spécialisées#COUPDECOUDE|Coup de coude]],  
+[[Frappes spécialisées#COUPDEPIEDSAUTE|Coup de pied sauté]],  
+[[Frappes spécialisées#COUPDEPIEDTOURNOYANT|Coup de pied tournoyant]],  
+[[Frappes spécialisées#COUPDEPOINGFRACASSANT|Coup de poing fracassant]],  
+[[Frappes spécialisées#COUPDETETE|Coup de tête]],  
+[[Frappes spécialisées#COUPDUMARTEAU|Coup du marteau]],  
+[[Frappes spécialisées#FAUCHAGEDUPIED|Fauchage du pied]],  
+[[Frappes spécialisées#PIROUETTEDEFENSIVE|Pirouette défensive]],  
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Pouvoirs de rage du barbare (unchained)====</div>
+<div class="article_3col">
+[[Pouvoirs de rage unchained#ABSORPTIONDENERGIE|Absorption d'énergie]],  
+[[Pouvoirs de rage unchained#BRISEROC|Brise roc]],  
+[[Pouvoirs de rage unchained#BRISEROCSUPERIEUR|Brise roc supérieur]],  
+[[Pouvoirs de rage unchained#CHASSEURDESORCIERE|Chasseur de sorcière]],  
+[[Pouvoirs de rage unchained#COLEREAUTOSUGGEREE|Colère autosuggérée]],  
+[[Pouvoirs de rage unchained#COUPHANDICAPANT|Coup handicapant]],  
+[[Pouvoirs de rage unchained#COUPHEMORRAGIQUE|Coup hémorragique]],  
+[[Pouvoirs de rage unchained#COUPINATTENDU|Coup inattendu]],  
+[[Pouvoirs de rage unchained#COUPREDOUTABLE|Coup redoutable]],  
+[[Pouvoirs de rage unchained#DEVOREURDEMAGIE|Dévoreur de magie]],  
+[[Pouvoirs de rage unchained#EGRATIGNURE|Égratignure]],  
+[[Pouvoirs de rage unchained#ESCALADEENRAGE|Escalade en rage]],  
+[[Pouvoirs de rage unchained#ESQUIVEREFLEXE|Esquive réflexe]],  
+[[Pouvoirs de rage unchained#FEROCITEINSPIREE|Férocité inspirée]],  
+[[Pouvoirs de rage unchained#FRACASSEMENT|Fracassement]],  
+[[Pouvoirs de rage unchained#FUREURANIMALE|Fureur animale]],  
+[[Pouvoirs de rage unchained#HURLEMENTTERRIFIANT|Hurlement terrifiant]],  
+[[Pouvoirs de rage unchained#IDEESCLAIRES|Idées claires]],  
+[[Pouvoirs de rage unchained#LUCIDITEPARFAITE|Lucidité parfaite]],  
+[[Pouvoirs de rage unchained#MARQUEPROMETTEUSE|Marque prometteuse]],  
+[[Pouvoirs de rage unchained#NAGEENRAGE|Nage en rage]],  
+[[Pouvoirs de rage unchained#NOUVELLEVIGUEUR|Nouvelle vigueur]],  
+[[Pouvoirs de rage unchained#ODORAT|Odorat]],  
+[[Pouvoirs de rage unchained#OUSTE|Ouste]],  
+[[Pouvoirs de rage unchained#OUSTEMAJEUR|Ouste majeur]],  
+[[Pouvoirs de rage unchained#PASRAPIDES|Pas rapides]],  
+[[Pouvoirs de rage unchained#POSTUREDEFENSIVE|Posture défensive]],  
+[[Pouvoirs de rage unchained#POSTUREELEMENTAIRE|Posture élémentaire]],  
+[[Pouvoirs de rage unchained#POSTUREIMPRUDENTE|Posture imprudente]],  
+[[Pouvoirs de rage unchained#POSTURELUCIDE|Posture lucide]],  
+[[Pouvoirs de rage unchained#POSTUREMUSCLEE|Posture musclée]],  
+[[Pouvoirs de rage unchained#POSTUREPERCUTANTE|Posture percutante]],  
+[[Pouvoirs de rage unchained#POSTUREPRECISE|Posture précise]],  
+[[Pouvoirs de rage unchained#POSTUREPUISSANTE|Posture puissante]],  
+[[Pouvoirs de rage unchained#POSTUREREGENERATRICE|Posture régénératrice]],  
+[[Pouvoirs de rage unchained#POSTUREVANTARDE|Posture vantarde]],  
+[[Pouvoirs de rage unchained#POURSUITE|Poursuite]],  
+[[Pouvoirs de rage unchained#PRECISIONAFFINEE|Précision affinée]],  
+[[Pouvoirs de rage unchained#PRECISIONLETALE|Précision létale]],  
+[[Pouvoirs de rage unchained#PRECISIONMORTELLE|Précision mortelle]],  
+[[Pouvoirs de rage unchained#PROTECTIONDESPOINTSVITAUX|Protection des points vitaux]],  
+[[Pouvoirs de rage unchained#RAGESANSPEUR|Rage sans peur]],  
+[[Pouvoirs de rage unchained#REDUCTIONDEDEGATSACCRUE|Réduction de dégâts accrue]],  
+[[Pouvoirs de rage unchained#REFLEXESRAPIDES|Réflexes rapides]],  
+[[Pouvoirs de rage unchained#REGARDINTIMIDANT|Regard intimidant]],  
+[[Pouvoirs de rage unchained#REPOUSSERLENNEMI|Repousser l'ennemi]],  
+[[Pouvoirs de rage unchained#RESISTANCEALENERGIE|Résistance à l'énergie]],  
+[[Pouvoirs de rage unchained#SAUTENRAGE|Saut en rage]],  
+[[Pouvoirs de rage unchained#SPRINT|Sprint]],  
+[[Pouvoirs de rage unchained#SUPERSTITION|Superstition]],  
+[[Pouvoirs de rage unchained#VIGUEURINTERNE|Vigueur interne]],  
+[[Pouvoirs de rage unchained#VISIONDENUIT|Vision de nuit]],  
+[[Pouvoirs de rage unchained#VISIONNOCTURNE|Vision nocturne]],  
+[[Pouvoirs de rage unchained#VITALITERENOUVELEE|Vitalité renouvelée]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Pouvoirs de ki du moine (unchained)====</div>
+<div class="article_3col">
+[[Pouvoirs de ki#AMEDEDIAMANT|Âme de diamant]],  
+[[Pouvoirs de ki#BLOCAGEDUKI|Blocage du ki]],  
+[[Pouvoirs de ki#CHUTERALENTIE|Chute ralentie]],  
+[[Pouvoirs de ki#CONTACTVIOLENT|Contact violent]],  
+[[Pouvoirs de ki#CORPSDEDIAMANT|Corps de diamant]],  
+[[Pouvoirs de ki#COURSESURLONDE|Course sur l'onde]],  
+[[Pouvoirs de ki#DEFENSEFURIEUSE|Défense furieuse]],  
+[[Pouvoirs de ki#DEFENSEKI|Défense ki]],  
+[[Pouvoirs de ki#DESERTIONDELAME|Désertion de l'âme]],  
+[[Pouvoirs de ki#ECOLEDELAUTODIDACTE|École de l'autodidacte]],  
+[[Pouvoirs de ki#EQUILIBREDELAPLUME|Équilibre de la plume]],  
+[[Pouvoirs de ki#ESPRITDEDIAMANT|Esprit de diamant]],  
+[[Pouvoirs de ki#FURIEELEMENTAIRE|Furie élémentaire]],  
+[[Pouvoirs de ki#METABOLISMEKI|Métabolisme ki]],  
+[[Pouvoirs de ki#MONTUREKI|Monture ki]],  
+[[Pouvoirs de ki#OURAGANKI|Ouragan ki]],  
+[[Pouvoirs de ki#PASCHASSE|Pas chassé]],  
+[[Pouvoirs de ki#PASLEGERS|Pas légers]],  
+[[Pouvoirs de ki#PAUMEVIBRATOIRE|Paume vibratoire]],  
+[[Pouvoirs de ki#PLENITUDEPHYSIQUE|Plénitude physique]],  
+[[Pouvoirs de ki#PORTEEKI|Portée ki]],  
+[[Pouvoirs de ki#POUVOIRQINGGONG|Pouvoir qinggong]],  
+[[Pouvoirs de ki#RAFALEELEMENTAIRE|Rafale élémentaire]],  
+[[Pouvoirs de ki#RESILIENCEDEDIAMANT|Résilience de diamant]],  
+[[Pouvoirs de ki#SAGEINTUITION|Sage intuition]],  
+[[Pouvoirs de ki#SALVEKI|Salve ki]],  
+[[Pouvoirs de ki#SAUTDUVENT|Saut du vent]],  
+[[Pouvoirs de ki#SAUTSPUISSANTS|Sauts puissants]],  
+[[Pouvoirs de ki#SOUDAINECELERITE|Soudaine célérité]],  
+[[Pouvoirs de ki#SOUFFLEDUCOBRA|Souffle du cobra]],  
+[[Pouvoirs de ki#VISIONSKI|Visions ki]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Sous-types d'eidolon (unchained)====</div>
+<div class="article_3col">
+[[Eidolon unchained#AGATHION|Agathion]],  
+[[Eidolon unchained#ANGE|Ange]],  
+[[Eidolon unchained#ARCHON|Archon]],  
+[[Eidolon unchained#AZATA|Azata]],  
+[[Eidolon unchained#DAEMON|Daémon]],  
+[[Eidolon unchained#DEMON|Démon]],  
+[[Eidolon unchained#DIABLE|Diable]],  
+[[Eidolon unchained#DIV|Div]],  
+[[Eidolon unchained#ELEMENTAIRE|Élémentaire]],  
+[[Eidolon unchained#INEVITABLE|Inévitable]],  
+[[Eidolon unchained#PROTEEN|Protéen]],  
+[[Eidolon unchained#PSYCHOPOMPE|Psychopompe]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Talents de roublard (unchained)====</div>
+<div class="article_3col">
+'''Talents.'''  
+[[Talents unchained#ATTAQUESANGLANTE|Attaque sanglante]]*,  
+[[Talents unchained#ATTAQUESOURNOISEPUISSANTE|Attaque sournoise puissante]]*,  
+[[Talents unchained#ATTAQUESURPRISE|Attaque surprise]],  
+[[Talents unchained#BOTTESECRETE|Botte secrète]],  
+[[Talents unchained#CAMOUFLAGE|Camouflage]],  
+[[Talents unchained#CERTITUDE|Certitude]],  
+[[Talents unchained#CONNAISSANCESESOTERIQUES|Connaissances ésotériques]],  
+[[Talents unchained#DEBOUT|Debout]],  
+[[Talents unchained#DENICHEURDEPIEGES|Dénicheur de pièches]],  
+[[Talents unchained#DESAMORCAGERAPIDE|Désamorçage rapide]],  
+[[Talents unchained#DISCRETETRAPIDE|Discret et rapide]],  
+[[Talents unchained#EQUILIBRISTE|Équilibriste]],  
+[[Talents unchained#EXTRAIREDESINFORMATIONS|Extraire des informations]],  
+[[Talents unchained#FORMATIONMARTIALE|Formation martiale]],  
+[[Talents unchained#GRIMPEURAGILE|Grimpeur agile]],  
+[[Talents unchained#MAGIEMAJEURE|Magie majeure]],  
+[[Talents unchained#MAGIEMINEURE|Magie mineure]],  
+[[Talents unchained#MAITRISEDUTERRAIN|Maîtrise du terrain]],  
+[[Talents unchained#MOUVEMENTAQUATREPATTES|Mouvement à quatre pattes]],  
+[[Talents unchained#POISONPERSISTANT|Poison persistant]],  
+[[Talents unchained#REACTIONSLENTES|Réactions lentes]]*,  
+[[Talents unchained#RESILIENCE|Résilience]],  
+[[Talents unchained#RETENIRSONSOUFFLE|Retenir son souffle]],  
+[[Talents unchained#SAUTDELEXPERT|Saut de l'expert]],  
+[[Talents unchained#SUBTILISATIONAUCOMBAT|Subtilisation au combat]],  
+[[Talents unchained#SUIVRELESINDICES|Suivre les indices]],  
+[[Talents unchained#TALENTSRENOUVELES|Talents renouvelés]].  
+  
+'''Talents de maître.'''  
+[[Talents unchained#ATTAQUEDISSIPANTE|Attaque dissipante]]*,  
+[[Talents unchained#ATTAQUEHANDICAPANTE|Attaque handicapante]]*,  
+[[Talents unchained#ATTAQUESOURNOISEMORTELLE|Attaque sournoise mortelle]]*,  
+[[Talents unchained#DEMARCHEAERIENNE|Démarche aérienne]],  
+[[Talents unchained#DON|Don]],  
+[[Talents unchained#DOUBLEAFFAIBLISSEMENT|Double affaiblissement]]*,  
+[[Talents unchained#ESPRITFUYANT|Esprit fuyant]],  
+[[Talents unchained#ESQUIVESURNATURELLE|Esquive surnaturelle]],  
+[[Talents unchained#MAITREDUDEGUISEMENT|Maître du déguisement]],  
+[[Talents unchained#MAITRISEDESCOMPETENCES|Maîtrise des compétences]],  
+[[Talents unchained#MAITRISESUPERIEUREDUTERRAIN|Maîtrise supérieure du terrain]],  
+[[Talents unchained#MULTIPLESSPECIALITES|Multiples spécialités]],  
+[[Talents unchained#OPPORTUNISME|Opportunisme]],  
+[[Talents unchained#ROULEBOULE|Roulé-boulé]],  
+[[Talents unchained#TALENTSRENOUVELESSUPERIEURS|Talents renouvelés supérieurs]],  
+[[Talents unchained#TIRSOUDAIN|Tir soudain]].
+</div>
+
+
+===Règles officielles===
+<div class="article_3col">
+[[Règles alternatives unchained]],  
+• [[Classes unchained]],  
+&emsp;• [[Bonus de base fractionnaires]],  
+&emsp;• [[Progression échelonnée]],  
+• [[Compétences et options unchained]],  
+&emsp;• [[Compétences contextuelles]],  
+&emsp;• [[Compétences fusionnées]],  
+&emsp;• [[Compétences groupées]],  
+&emsp;• [[Artisanat et Profession alternatives]],  
+&emsp;• [[Extensions de compétences]],  
+&emsp;• [[Variante de multiclassage]],  
+• [[Mécanismes de jeu unchained]],  
+&emsp;• [[Alignement unchained]],  
+&emsp;• [[Éliminer lalignement|Éliminer l'alignement]],  
+&emsp;• [[Gestion dactions révisée|Gestion d'actions révisée]],  
+&emsp;• [[Éliminer les attaques multiples]],  
+&emsp;• [[Endurance et Astuces martiales]],  
+&emsp;• [[Seuils de blessure]],  
+&emsp;• [[Maladies et poisons unchained]],  
+• [[Magie unchained]],  
+&emsp;• [[Incantation simplifiée]],  
+&emsp;• [[Altérations de la magie]],  
+&emsp;• [[Composantes matérielles ésotériques]],  
+&emsp;• [[Bonus de progression automatique]],  
+&emsp;• [[Bonus intrinsèques des objets]],  
+&emsp;• [[Objets évolutifs]],  
+&emsp;• [[Création dynamique dobjets magiques|Création dynamique d'objets magiques]],  
+• [[Création de monstres simplifiée]].
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Pathfinder unchained (Contenu)</fullName>
+</wikiPage>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Rêve vagabond</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 4</category><category>Pathfinder-RPG.Sort prêtre 4</category><category>Pathfinder-RPG.Src Dieux et magie</category></categories>
+  <lastModified>2023-07-26 16:54:06Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.école divination</link><link>Pathfinder-RPG.branche scrutation</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.illimitée</link><link>Pathfinder-RPG.Œil du mage</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.cercle magique contre le Mal</link><link>Pathfinder-RPG.Desna (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fDesna.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Desna (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fDesna.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Desna-(Technique).html&quot; title=&quot;Desna&quot;&gt;Desna&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;u&gt;&lt;b&gt;&lt;i&gt;Contenu issu d&#39;un suppl&#233;ment 3.5&lt;/i&gt;&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Divination.html&quot; title=&quot;Divination&quot;&gt;Divination&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Scrutation.html&quot; title=&quot;Scrutation&quot;&gt;scrutation&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 4, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 4  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 10 minutes  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Portee.html&quot; title=&quot;illimit&#233;e&quot;&gt;illimit&#233;e&lt;/a&gt;  
+&lt;b&gt;Effet&lt;/b&gt; capteur magique  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 heure/niveau  
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; aucun ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; non&lt;br /&gt;&lt;br /&gt;Ce sort fonctionne de la m&#234;me mani&#232;re que &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Œil-Du-Mage.html&quot; title=&quot;Œil du mage&quot;&gt;œil du mage&lt;/a&gt;&lt;/i&gt;, &#224; l’exception de ce qui est indiqu&#233; plus haut. Apr&#232;s avoir lanc&#233; le sort, le personnage s’endort pendant toute sa dur&#233;e, et cr&#233;e un capteur magique invisible (appel&#233; un scrutateur de r&#234;ves) dont la taille et la forme sont exactement celles de son corps. Sous cette forme, on peut l’identifier et il ne peut passer &#224; travers des espaces dans lesquels son corps ne peut entrer. Contrairement au capteur invisible de l’&lt;i&gt;œil du mage&lt;/i&gt;, les enfants de n’importe quelle race (qui ont moins que l’&#233;quivalent humain de 10 ans) et les animaux peuvent voir le scrutateur de r&#234;ves. Les cr&#233;atures endormies peuvent sentir sa pr&#233;sence et il est possible qu’elles int&#232;grent son image dans leurs r&#234;ves. Les effets de &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;force&lt;/a&gt; et les sorts d’&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;abjuration&lt;/a&gt; qui prot&#232;gent des cr&#233;atures (comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cercle-Magique-Contre-Le-Mal.html&quot; title=&quot;Cercle magique contre le Mal&quot;&gt;cercle magique contre le mal&lt;/a&gt;&lt;/i&gt;) sont des barri&#232;res efficaces contre un scrutateur de r&#234;ves (quel que soit le type de cr&#233;ature, l’alignement ou les autres sp&#233;cificit&#233;s du personnage). S’il termine le sort ou si le scrutateur est dissip&#233; ou d&#233;truit, le personnage se r&#233;veille.
+]]></body>
+  <raw><![CDATA[{s:divin|Desna|%2fPCUP%2fReligion-PNG%2fDesna.png}{s:GeM}__'''''Contenu issu d'un supplément 3.5'''''__
+
+'''École''' [[école Divination|Divination]] ([[branche scrutation|scrutation]]) ; '''Niveau''' [[Druide|Dru]] 4, [[Prêtre|Prê]] 4  
+'''Temps d'incantation''' 10 minutes  
+'''Composantes''' [[composantes|V, FD]]  
+'''Portée''' [[illimitée]]  
+'''Effet''' capteur magique  
+'''Durée''' 1 heure/niveau  
+'''Jet de sauvegarde''' aucun ; '''Résistance à la magie''' non
+
+Ce sort fonctionne de la même manière que ''[[œil du mage]]'', à l’exception de ce qui est indiqué plus haut. Après avoir lancé le sort, le personnage s’endort pendant toute sa durée, et crée un capteur magique invisible (appelé un scrutateur de rêves) dont la taille et la forme sont exactement celles de son corps. Sous cette forme, on peut l’identifier et il ne peut passer à travers des espaces dans lesquels son corps ne peut entrer. Contrairement au capteur invisible de l’''œil du mage'', les enfants de n’importe quelle race (qui ont moins que l’équivalent humain de 10 ans) et les animaux peuvent voir le scrutateur de rêves. Les créatures endormies peuvent sentir sa présence et il est possible qu’elles intègrent son image dans leurs rêves. Les effets de [[registre|force]] et les sorts d’[[abjuration]] qui protègent des créatures (comme ''[[cercle magique contre le mal]]'') sont des barrières efficaces contre un scrutateur de rêves (quel que soit le type de créature, l’alignement ou les autres spécificités du personnage). S’il termine le sort ou si le scrutateur est dissipé ou détruit, le personnage se réveille.]]></raw>
+  <fullName>Pathfinder-RPG.Rêve vagabond</fullName>
+</wikiPage>

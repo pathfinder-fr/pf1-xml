@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Bagiennik</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-16 00:07:58Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Fée</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Combustion (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Guérison des maladies</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Guérison de la cécitésurdité</link><link>Pathfinder-RPG.Soins modérés</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Autonome</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Amphibie (capacité)</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Neutralisation du poison</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.odorat</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Bagiennik&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;F&#233;e&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/F&#233;e.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.42&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-F&#233;e.html&quot; title=&quot;F&#233;e&quot;&gt;F&#233;e&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille P, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; perception olfactive des maladies ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 13, pris au d&#233;pourvu 15 (Dex +2, naturelle +4, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 66 (12d6+24)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +5, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/fer froid ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 5, feu 5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, nage 12 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 griffes, +9 (1d4-1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; aspersion nasale, +10 contact (3d6 feu, 3d6 acide et &lt;a class=&quot;pagelink&quot; href=&quot;Combustion-(Capacit&#233;).html&quot; title=&quot;Combustion (Ext)&quot;&gt;combustion&lt;/a&gt; nasale)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 7 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +10)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Des-Maladies.html&quot; title=&quot;Gu&#233;rison des maladies&quot;&gt;gu&#233;rison des maladies&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-De-La-C&#233;cit&#233;surdit&#233;.html&quot; title=&quot;Gu&#233;rison de la c&#233;cit&#233;/surdit&#233;&quot;&gt;gu&#233;rison de la c&#233;cit&#233;surdit&#233;&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 8, &lt;b&gt;Dex&lt;/b&gt; 14, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6 ; &lt;b&gt;BMO&lt;/b&gt; +4 ; &lt;b&gt;DMD&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (aspersion nasale), &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Autonome.html&quot; title=&quot;Autonome&quot;&gt;Autonome&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Premiers secours), &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +5, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +12, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +21, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d&#39;objets magiques&lt;/a&gt; +18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, sylvestre
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Amphibie-(Capacit&#233;).html&quot; title=&quot;Amphibie (Ext)&quot;&gt;amphibie&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; rivi&#232;res froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou gang (3-8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Combustion nasale (Sur).&lt;/b&gt; L’aspersion nasale d’un bagiennik inflige 1d6 points de d&#233;g&#226;ts de feu &#224; la cible touch&#233;e lors des rounds suivants (similaire au pouvoir de monstre universel de combustion), mais peut &#233;galement soigner les maladies. Chaque round pendant lequel une victime subit les d&#233;g&#226;ts de la combustion nasale d’un bagiennik, elle doit effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17. Si elle r&#233;ussit ce &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt;, elle soigne 1 point d’une valeur de caract&#233;ristique (au choix de la victime) temporairement affaiblie. Si le r&#233;sultat du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; d&#233;passe le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 5 points, elle peut &#233;galement tenter de supprimer une maladie ou un poison dont elle est actuellement victime, comme si elle b&#233;n&#233;ficiait des effets d’une &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Des-Maladies.html&quot; title=&quot;Gu&#233;rison des maladies&quot;&gt;gu&#233;rison des maladies&lt;/a&gt; ou d’une &lt;a class=&quot;pagelink&quot; href=&quot;Neutralisation-Du-Poison.html&quot; title=&quot;Neutralisation du poison&quot;&gt;neutralisation du poison&lt;/a&gt; (niveau de lanceur de sorts 7). Si les d&#233;g&#226;ts inflig&#233;s par la combustion nasale d’un bagiennik sont r&#233;duits ou annul&#233;s, quelle que soit la m&#233;thode employ&#233;e, la victime ne peut pas effectuer ce jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; sp&#233;cial pendant le round en cours. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Perception olfactive des maladies (Ext).&lt;/b&gt; Un bagiennik peut sentir la pr&#233;sence d’une cr&#233;ature malade comme s’il disposait du pouvoir d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;. Il peut savoir si la cr&#233;ature malade est la source de la maladie ou une simple porteuse. Dans ce dernier cas, le bagiennik se met souvent en qu&#234;te de la cr&#233;ature et tente de la d&#233;barrasser de ses maux.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;La moiti&#233; sup&#233;rieure de cette petite cr&#233;ature &#224; l’aspect de l&#233;zard est de forme humano&#239;de. Elle poss&#232;de une longue queue parsem&#233;e d’extensions ondulantes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les bagienniks sont de petites f&#233;es amphibies qui se cachent dans les hauts roseaux le long des cours d’eau. Ils s’enfouissent fr&#233;quemment dans la vase au fond des bassins de sources chaudes o&#249; ils font de longues siestes dans les eaux chaudes et agr&#233;ables, et jouent des tours aux baigneurs imprudents qui nagent trop pr&#232;s de leurs cachettes. Malgr&#233; leur nature capricieuse, ces cr&#233;atures sont recherch&#233;es pour leurs pouvoirs curatifs. Elles aiment soigner les maladies et les infirmit&#233;s gr&#226;ce &#224; la combustion de leur aspersion nasale caustique.&lt;br /&gt;&lt;br /&gt;Un bagiennik qui vit dans une r&#233;gion habit&#233;e est consid&#233;r&#233; comme une b&#233;n&#233;diction dans nombre de villages en bord de fleuves. Les habitants de ces communaut&#233;s s’aventurent souvent sur les rivi&#232;res avec des offrandes pour inciter la f&#233;e &#224; rester dans le coin et &#224; soigner leurs familles. Un bagiennik satisfait par la g&#233;n&#233;rosit&#233; des habitants d’un village peut inviter sa famille &#233;largie &#224; s’installer pour mettre &#224; l’&#233;preuve les largesses de leurs h&#244;tes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Bagiennik|FP 6}
+{s:pucem|Fée|Aquatique|Froid}
+{s:BDTexte|''Source : Bestiaire 5 p.42''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Fée|Fée]] ([[sous-type aquatique|aquatique]]) de taille P, CN}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' perception olfactive des maladies ; [[Perception]] +19}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 13, pris au dépourvu 15 (Dex +2, naturelle +4, taille +1)}
+{s:BDTexte|'''pv''' 66 (12d6+24)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +5, '''Vol''' +8}
+{s:BDTexte|'''RD''' 5/fer froid ; '''Résistances''' acide 5, feu 5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, nage 12 m}
+{s:BDTexte|'''Corps à corps''' 2 griffes, +9 (1d4-1)}
+{s:BDTexte|'''Distance''' aspersion nasale, +10 contact (3d6 feu, 3d6 acide et [[Combustion (capacité)|combustion]] nasale)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 7 ; [[concentration]] +10)}
+{s:BDSorts|3/jour — ''[[guérison des maladies]]'', ''[[soins légers]]''}
+{s:BDSorts|1/jour — ''[[Guérison de la cécitésurdité|guérison de la cécitésurdité]]'', ''[[soins modérés]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 8, '''Dex''' 14, '''Con''' 13, '''Int''' 15, '''Sag''' 10, '''Cha''' 17}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +4 ; '''DMD''' 16}
+{s:BDTexte|'''Dons''' [[Arme de prédilection]] (aspersion nasale), [[Attaque en finesse]], [[Autonome]], [[Robustesse]], [[Talent]] (Premiers secours), [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Bluff]] +10, [[Connaissances]] (mystères) +5, [[Connaissances]] (nature) +12, [[Diplomatie]] +12, [[Discrétion]] +21, [[Évasion]] +9, [[Natation]] +22, [[Perception]] +19, [[Premiers secours]] +22, [[Psychologie]] +11, [[Survie]] +8, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +18}
+{s:BDTexte|'''Langues''' commun, sylvestre}
+{s:BDTexte|'''Particularités''' [[Amphibie (capacité)|amphibie]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' rivières froides}
+{s:BDTexte|'''Organisation''' solitaire, couple ou gang (3-8)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Combustion nasale (Sur).''' L’aspersion nasale d’un bagiennik inflige 1d6 points de dégâts de feu à la cible touchée lors des rounds suivants (similaire au pouvoir de monstre universel de combustion), mais peut également soigner les maladies. Chaque round pendant lequel une victime subit les dégâts de la combustion nasale d’un bagiennik, elle doit effectuer un jet de [[Vigueur]] [[DD]] 17. Si elle réussit ce [[jet de sauvegarde]], elle soigne 1 point d’une valeur de caractéristique (au choix de la victime) temporairement affaiblie. Si le résultat du [[jet de sauvegarde]] dépasse le [[DD]] de 5 points, elle peut également tenter de supprimer une maladie ou un poison dont elle est actuellement victime, comme si elle bénéficiait des effets d’une [[guérison des maladies]] ou d’une [[neutralisation du poison]] (niveau de lanceur de sorts 7). Si les dégâts infligés par la combustion nasale d’un bagiennik sont réduits ou annulés, quelle que soit la méthode employée, la victime ne peut pas effectuer ce jet de [[Vigueur]] spécial pendant le round en cours. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|'''Perception olfactive des maladies (Ext).''' Un bagiennik peut sentir la présence d’une créature malade comme s’il disposait du pouvoir d'[[odorat]]. Il peut savoir si la créature malade est la source de la maladie ou une simple porteuse. Dans ce dernier cas, le bagiennik se met souvent en quête de la créature et tente de la débarrasser de ses maux.}
+</div></td>
+<td><div>''La moitié supérieure de cette petite créature à l’aspect de lézard est de forme humanoïde. Elle possède une longue queue parsemée d’extensions ondulantes.''
+
+Les bagienniks sont de petites fées amphibies qui se cachent dans les hauts roseaux le long des cours d’eau. Ils s’enfouissent fréquemment dans la vase au fond des bassins de sources chaudes où ils font de longues siestes dans les eaux chaudes et agréables, et jouent des tours aux baigneurs imprudents qui nagent trop près de leurs cachettes. Malgré leur nature capricieuse, ces créatures sont recherchées pour leurs pouvoirs curatifs. Elles aiment soigner les maladies et les infirmités grâce à la combustion de leur aspersion nasale caustique.
+
+Un bagiennik qui vit dans une région habitée est considéré comme une bénédiction dans nombre de villages en bord de fleuves. Les habitants de ces communautés s’aventurent souvent sur les rivières avec des offrandes pour inciter la fée à rester dans le coin et à soigner leurs familles. Un bagiennik satisfait par la générosité des habitants d’un village peut inviter sa famille élargie à s’installer pour mettre à l’épreuve les largesses de leurs hôtes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Bagiennik</fullName>
+</wikiPage>

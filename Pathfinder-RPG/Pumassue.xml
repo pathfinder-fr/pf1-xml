@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pumassue</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-24 14:44:36Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Attaques naturelles (capacité)</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.AO</link><link>Pathfinder-RPG.À terre</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.liste des compagnons animaux</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Pumassue&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.213&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +9 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 15, pris au d&#233;pourvu 11 (Dex +5, naturelle +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 32 (5d8+10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +6, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, escalade 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +8 (1d6+4) et 2 griffes, +8 (1d4+4) et queue, 3 (1d4+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; boule caudale
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 18, &lt;b&gt;Dex&lt;/b&gt; 20, &lt;b&gt;Con&lt;/b&gt; 15, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +7 ; &lt;b&gt;DMD&lt;/b&gt; 22 (26 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Discr&#233;tion)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +12, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; for&#234;ts temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Boule caudale (Ext).&lt;/b&gt; Un pumassue poss&#232;de une boule &#224; pointes &#224; l’extr&#233;mit&#233; de sa queue, qu’il peut utiliser pour effectuer une &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Naturelles-(Capacit&#233;).html&quot; title=&quot;Attaques naturelles&quot;&gt;attaque naturelle secondaire&lt;/a&gt;. Cette attaque inflige 1d4 points de d&#233;g&#226;ts contondants et perforants. Le pumassue peut remplacer son attaque de queue normale par une manœuvre de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt; ou de &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;. Une telle manœuvre offensive ne provoque pas d’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;Attaque d&amp;#39;opportunit&#233; (redirection)&quot;&gt;attaques d’opportunit&#233;&lt;/a&gt; et b&#233;n&#233;ficie d’un bonus racial de +4 ; un pumassue qui rate sa tentative de croc-en-jambe de 10 ou plus de cette fa&#231;on ne tombe pas &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#192;terre.html&quot; title=&quot;&#192; terre&quot;&gt;&#224; terre&lt;/a&gt;.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce f&#233;lin muscl&#233; ressemblant &#224; un puma a des crocs impressionnants et une queue &#233;paisse &#224; l’extr&#233;mit&#233; en forme de boule &#224; pointes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les pumassues sont des pr&#233;dateurs silencieux, sp&#233;cialistes de l’embuscade, et la plupart du temps leurs victimes sentent &#224; peine leur odeur musqu&#233;e avant que ces animaux ne plongent sur elles. Dans de nombreuses r&#233;gions, seuls les ermites, les pionniers et les aventuriers croisent ces chasseurs f&#233;lins durant leurs p&#233;riples dans la nature sauvage. Toutefois, dans les r&#233;gions o&#249; les populations d’humano&#239;des se sont r&#233;cemment d&#233;velopp&#233;es, les communaut&#233;s proches de for&#234;ts autrefois inexplor&#233;es doivent parfois lutter contre ces tueurs rus&#233;s. Certains conteurs avertissent du danger que les pumassues repr&#233;sentent envers les humano&#239;des qui constituraient leurs proies favorites. D’ailleurs, les charlatans r&#233;pandent ce mensonge pour semer la peur et inciter les gens &#224; acheter charmes et onguents qui, pr&#233;tendent-ils, prot&#232;gent contre les attaques des pumassues.&lt;br /&gt;&lt;br /&gt;Les pumassues s’installent dans les bois recul&#233;s o&#249; ils peuvent grimper dans les arbres pour se laisser tomber sur les proies peu m&#233;fiantes, les plaquer au sol et les battre &#224; mort avec la boule &#224; pointes &#224; l’extr&#233;mit&#233; de leur queue. Quand ils chassent de mani&#232;re active, et pas simplement en comptant sur les opportunit&#233;s, les pumassues traquent leurs proies pendant des heures, parfois m&#234;me des jours, en gardant leurs distances et en veillant &#224; ne pas se faire rep&#233;rer gr&#226;ce &#224; leur discr&#233;tion sup&#233;rieure. Ils utilisent leur odorat aff&#251;t&#233; pour suivre la piste de leurs proies quand ils les perdent de vue dans l’&#233;paisseur des for&#234;ts obscures. D’apr&#232;s certaines histoires, les humano&#239;des originaires des for&#234;ts o&#249; chassent les pumassues ont r&#233;ussi &#224; domestiquer ces f&#233;roces f&#233;lins pour qu’ils prot&#232;gent leurs domaines isol&#233;s, mais c’est sans doute la magie druidique qui a permis d’accomplir un tel exploit.&lt;br /&gt;&lt;br /&gt;M&#234;me si leur intelligence est seulement celle d’un animal, les pumassues communiquent entre eux en poussant des chants semblables &#224; ceux des oiseaux. Ils se servent &#233;galement de leur queue pour tambouriner sur des rondins afin de pr&#233;venir du danger et d’attirer des partenaires pendant les p&#233;riodes de reproduction. Ces tambourinements sont audibles jusqu’&#224; une distance de 1,5 &#224; 3 kilom&#232;tres.&lt;br /&gt;&lt;br /&gt;Un pumassue mesure presque 1 m&#232;tre au garrot et 1,80 m&#232;tre de long pour un poids de 90 kilos.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;F&#233;lin argent&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;F&#233;lin_argent&#233;_0&quot; href=&quot;#F&#233;lin_argent&#233;_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Plus rares encore que les pumassues ordinaires, ces sp&#233;cimens que l’on appelle f&#233;lins argent&#233;s ont une fourrure gris-bleu que l’&#233;clat de la lune fait chatoyer. Les f&#233;lins argent&#233;s sont des pumassues avec l’arch&#233;type simple de &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;cr&#233;ature &#233;volu&#233;e&lt;/a&gt;. Leur boule caudale n’a pas de pointes, mais les coups qu’ils donnent avec sont plus puissants. Cette attaque avec la queue n’inflige que des d&#233;g&#226;ts contondants, mais le bonus racial aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt; et de &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt; effectu&#233;s avec elle s’&#233;l&#232;ve &#224; +6.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Le pumassue comme &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Compagnons-Animaux.html&quot; title=&quot;Liste des compagnons animaux du druide&quot;&gt;compagnon animal&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;Le_pumassue_comme_compagnon_animal__1&quot; href=&quot;#Le_pumassue_comme_compagnon_animal__1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;b&gt;Caract&#233;ristiques de d&#233;part :&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 15 m ; &lt;b&gt;CA&lt;/b&gt; armure naturelle +1 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d4), 2 griffes (1d2), queue (1d2) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 10, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; boule caudale, &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 7 :&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6) et 2 griffes (1d3) et queue (1d3) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +4, Dex -2, Con +2
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Pumassue|FP 3}
+{s:pucem|Animal|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.213]]''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|'''Init''' +9 ; '''Sens''' [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 15, pris au dépourvu 11 (Dex +5, naturelle +1)}
+{s:BDTexte|'''pv''' 32 (5d8+10)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +6, '''Vol''' +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, escalade 6 m}
+{s:BDTexte|'''Corps à corps''' morsure, +8 (1d6+4) et 2 griffes, +8 (1d4+4) et queue, 3 (1d4+2)}
+{s:BDTexte|'''Attaques spéciales''' boule caudale}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 18, '''Dex''' 20, '''Con''' 15, '''Int''' 2, '''Sag''' 13, '''Cha''' 7}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +7 ; '''DMD''' 22 (26 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]], [[Talent]] (Discrétion)}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +9, [[Discrétion]] +14, [[Escalade]] +12, [[Perception]] +5}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' forêts tempérées}
+{s:BDTexte|'''Organisation''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Boule caudale (Ext).''' Un pumassue possède une boule à pointes à l’extrémité de sa queue, qu’il peut utiliser pour effectuer une [[Attaques naturelles (capacité)|attaque naturelle secondaire]]. Cette attaque inflige 1d4 points de dégâts contondants et perforants. Le pumassue peut remplacer son attaque de queue normale par une manœuvre de [[bousculade]] ou de [[croc-en-jambe]]. Une telle manœuvre offensive ne provoque pas d’[[AO|attaques d’opportunité]] et bénéficie d’un bonus racial de +4 ; un pumassue qui rate sa tentative de croc-en-jambe de 10 ou plus de cette façon ne tombe pas [[à terre]].}
+
+</div></td>
+<td><div>''Ce félin musclé ressemblant à un puma a des crocs impressionnants et une queue épaisse à l’extrémité en forme de boule à pointes.''
+
+Les pumassues sont des prédateurs silencieux, spécialistes de l’embuscade, et la plupart du temps leurs victimes sentent à peine leur odeur musquée avant que ces animaux ne plongent sur elles. Dans de nombreuses régions, seuls les ermites, les pionniers et les aventuriers croisent ces chasseurs félins durant leurs périples dans la nature sauvage. Toutefois, dans les régions où les populations d’humanoïdes se sont récemment développées, les communautés proches de forêts autrefois inexplorées doivent parfois lutter contre ces tueurs rusés. Certains conteurs avertissent du danger que les pumassues représentent envers les humanoïdes qui constituraient leurs proies favorites. D’ailleurs, les charlatans répandent ce mensonge pour semer la peur et inciter les gens à acheter charmes et onguents qui, prétendent-ils, protègent contre les attaques des pumassues.
+
+Les pumassues s’installent dans les bois reculés où ils peuvent grimper dans les arbres pour se laisser tomber sur les proies peu méfiantes, les plaquer au sol et les battre à mort avec la boule à pointes à l’extrémité de leur queue. Quand ils chassent de manière active, et pas simplement en comptant sur les opportunités, les pumassues traquent leurs proies pendant des heures, parfois même des jours, en gardant leurs distances et en veillant à ne pas se faire repérer grâce à leur discrétion supérieure. Ils utilisent leur odorat affûté pour suivre la piste de leurs proies quand ils les perdent de vue dans l’épaisseur des forêts obscures. D’après certaines histoires, les humanoïdes originaires des forêts où chassent les pumassues ont réussi à domestiquer ces féroces félins pour qu’ils protègent leurs domaines isolés, mais c’est sans doute la magie druidique qui a permis d’accomplir un tel exploit.
+
+Même si leur intelligence est seulement celle d’un animal, les pumassues communiquent entre eux en poussant des chants semblables à ceux des oiseaux. Ils se servent également de leur queue pour tambouriner sur des rondins afin de prévenir du danger et d’attirer des partenaires pendant les périodes de reproduction. Ces tambourinements sont audibles jusqu’à une distance de 1,5 à 3 kilomètres.
+
+Un pumassue mesure presque 1 mètre au garrot et 1,80 mètre de long pour un poids de 90 kilos.
+
+====Félin argenté====
+Plus rares encore que les pumassues ordinaires, ces spécimens que l’on appelle félins argentés ont une fourrure gris-bleu que l’éclat de la lune fait chatoyer. Les félins argentés sont des pumassues avec l’archétype simple de [[Archétypes#CREATUREEVOLUEE|créature évoluée]]. Leur boule caudale n’a pas de pointes, mais les coups qu’ils donnent avec sont plus puissants. Cette attaque avec la queue n’inflige que des dégâts contondants, mais le bonus racial aux tests de [[bousculade]] et de [[croc-en-jambe]] effectués avec elle s’élève à +6.
+
+====Le pumassue comme [[Liste des compagnons animaux|compagnon animal]]====
+'''Caractéristiques de départ :''' '''Taille''' P ; '''Vitesse''' 15 m ; '''CA''' armure naturelle +1 ; '''Attaque''' morsure (1d4), 2 griffes (1d2), queue (1d2) ; '''Caractéristiques''' For 10, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; '''Particularités''' boule caudale, [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]]
+
+'''Développement au niveau 7 :''' '''Taille''' M ; '''Attaque''' morsure (1d6) et 2 griffes (1d3) et queue (1d3) ; '''Caractéristiques''' For +4, Dex -2, Con +2
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Pumassue</fullName>
+</wikiPage>

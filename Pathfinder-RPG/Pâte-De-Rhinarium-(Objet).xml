@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pâte de rhinarium</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:50:44Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Homme-rat (race)</link><link>Pathfinder-RPG.Outils alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Homme-rat (race)</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Homme-rat (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Homme-rat.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Homme-rat (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Homme-rat.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Rat-(Race).html&quot; title=&quot;Les hommes-rats&quot;&gt;h-rats&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;b&gt;Prix&lt;/b&gt; 75 po ; &lt;b&gt;Poids&lt;/b&gt; 0,25 kg ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 20  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Quand on l’applique sur le nez par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, cette p&#226;te alchimique pi&#232;ge les particules en suspension dans l’air et aff&#251;te les r&#233;cepteurs olfactifs de l’&lt;a class=&quot;pagelink&quot; href=&quot;Homme-Rat-(Race).html&quot; title=&quot;Les hommes-rats&quot;&gt;homme-rat&lt;/a&gt;, aiguisant son odorat. L’homme-rat gagne le pouvoir d’&lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &#224; la seule diff&#233;rence qu’il ne peut d&#233;tecter les cr&#233;atures et les odeurs qu’&#224; la moiti&#233; de la distance normale. S’il poss&#232;de d&#233;j&#224; le pouvoir d’odorat, la p&#226;te de rhinarium augmente alors de 50% la port&#233;e &#224; laquelle l’homme-rat peut d&#233;tecter les cr&#233;atures. Les effets de la p&#226;te de rhinarium durent une heure. Il faut r&#233;ussir un test d’&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (alchimie) &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 pour fabriquer cette p&#226;te.
+]]></body>
+  <raw><![CDATA[{s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}{s:CM}'''Prix''' 75 po ; '''Poids''' 0,25 kg ; '''DD d'Artisanat (alchimie)''' 20  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+Quand on l’applique sur le nez par une [[action simple]], cette pâte alchimique piège les particules en suspension dans l’air et affûte les récepteurs olfactifs de l’[[Homme-rat (race)|homme-rat]], aiguisant son odorat. L’homme-rat gagne le pouvoir d’[[Odorat (capacité)|odorat]], à la seule différence qu’il ne peut détecter les créatures et les odeurs qu’à la moitié de la distance normale. S’il possède déjà le pouvoir d’odorat, la pâte de rhinarium augmente alors de 50% la portée à laquelle l’homme-rat peut détecter les créatures. Les effets de la pâte de rhinarium durent une heure. Il faut réussir un test d’[[Artisanat]] (alchimie) [[DD]] 20 pour fabriquer cette pâte.]]></raw>
+  <fullName>Pathfinder-RPG.Pâte de rhinarium (objet)</fullName>
+</wikiPage>

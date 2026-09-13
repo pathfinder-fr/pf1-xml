@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Compétences fusionnées, Acrobaties</title>
+  <categories><category>Pathfinder-RPG.Src Pathfinder unchained</category></categories>
+  <lastModified>2022-10-24 18:53:27Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences fusionnées, Acrobaties</link><link>Pathfinder-RPG.Compétences fusionnées, Athlétisme</link><link>Pathfinder-RPG.Compétences groupées</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Compétences fusionnées, Acrobaties</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.combat sur la défensive</link><link>Pathfinder-RPG.défense totale</link><link>Pathfinder-RPG.À terre</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Pris au dépourvu</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.espace contrôlé</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.AO</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Corde (objet)</link><link>Pathfinder-RPG.BMO</link><link>Pathfinder-RPG.filet (arme)</link><link>Pathfinder-RPG.Corde animée</link><link>Pathfinder-RPG.Collet</link><link>Pathfinder-RPG.Menottes (objet)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.Agrippé</link><link>Pathfinder-RPG.Enchevêtré</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Règles alternatives unchained</link><link>Pathfinder-RPG.Classes unchained</link><link>Pathfinder-RPG.Barbare unchained</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Moine unchained</link><link>Pathfinder-RPG.Roublard unchained</link><link>Pathfinder-RPG.Bonus de base fractionnaires</link><link>Pathfinder-RPG.Progression échelonnée</link><link>Pathfinder-RPG.Compétences et options unchained</link><link>Pathfinder-RPG.Compétences contextuelles</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Artisanat et Profession alternatives</link><link>Pathfinder-RPG.Extensions de compétences</link><link>Pathfinder-RPG.Variante de multiclassage</link><link>Pathfinder-RPG.Mécanismes de jeu unchained</link><link>Pathfinder-RPG.Alignement unchained</link><link>Pathfinder-RPG.Éliminer lalignement</link><link>Pathfinder-RPG.Gestion dactions révisée</link><link>Pathfinder-RPG.Éliminer les attaques multiples</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Seuils de blessure</link><link>Pathfinder-RPG.Maladies et poisons unchained</link><link>Pathfinder-RPG.Magie unchained</link><link>Pathfinder-RPG.Incantation simplifiée</link><link>Pathfinder-RPG.Altérations de la magie</link><link>Pathfinder-RPG.Composantes matérielles ésotériques</link><link>Pathfinder-RPG.Bonus de progression automatique</link><link>Pathfinder-RPG.Bonus intrinsèques des objets</link><link>Pathfinder-RPG.Objets évolutifs</link><link>Pathfinder-RPG.Création dynamique dobjets magiques</link><link>Pathfinder-RPG.Création de monstres simplifiée</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 1</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 3</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 4</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 5</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 6</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 7</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 8</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 9</link><link>Pathfinder-RPG.Création de monstres simplifiée, Exemple</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles alternatives unchained&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_alternatives_unchained_0&quot; href=&quot;#R&#232;gles_alternatives_unchained_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Alternatives-Unchained.html&quot; title=&quot;R&#232;gles alternatives unchained&quot;&gt;Pr&#233;sentation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonClasses&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Classes&#39;);&quot; onmouseout=&quot;outButton(&#39;Classes&#39;);&quot; onclick=&quot;expandMenu(&#39;Classes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-Unchained.html&quot; title=&quot;Classes unchained&quot;&gt;Classes unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Classes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare-Unchained.html&quot; title=&quot;Le barbare unchained&quot;&gt;Barbare unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;Conjurateur unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine-Unchained.html&quot; title=&quot;Le moine unchained&quot;&gt;Moine unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard-Unchained.html&quot; title=&quot;Le roublard unchained&quot;&gt;Roublard unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Base-Fractionnaires.html&quot; title=&quot;Bonus de base fractionnaires&quot;&gt;Bonus de base fractionnaires&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Progression-&#201;chelonn&#233;e.html&quot; title=&quot;Progression &#233;chelonn&#233;e&quot;&gt;Progression &#233;chelonn&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonComp&#233;tences&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Comp&#233;tences&#39;);&quot; onmouseout=&quot;outButton(&#39;Comp&#233;tences&#39;);&quot; onclick=&quot;expandMenu(&#39;Comp&#233;tences&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Et-Options-Unchained.html&quot; title=&quot;Comp&#233;tences et options unchained&quot;&gt;Comp&#233;tences et options unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Comp&#233;tences&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Contextuelles.html&quot; title=&quot;Comp&#233;tences contextuelles&quot;&gt;Comp&#233;tences contextuelles&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es&quot;&gt;Comp&#233;tences fusionn&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Group&#233;es.html&quot; title=&quot;Comp&#233;tences group&#233;es&quot;&gt;Comp&#233;tences group&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat-Et-Profession-Alternatives.html&quot; title=&quot;Artisanat et Profession alternatives&quot;&gt;Artisanat et Profession alternatives&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extensions-De-Comp&#233;tences.html&quot; title=&quot;Extensions de comp&#233;tences&quot;&gt;Extensions de comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variante-De-Multiclassage.html&quot; title=&quot;Variante de multiclassage&quot;&gt;Variante de multiclassage&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonM&#233;canismes&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;M&#233;canismes&#39;);&quot; onmouseout=&quot;outButton(&#39;M&#233;canismes&#39;);&quot; onclick=&quot;expandMenu(&#39;M&#233;canismes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;canismes-De-Jeu-Unchained.html&quot; title=&quot;M&#233;canismes de jeu unchained&quot;&gt;M&#233;canismes de jeu unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;M&#233;canismes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Unchained.html&quot; title=&quot;L&amp;#39;alignement unchained&quot;&gt;Alignement unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Lalignement.html&quot; title=&quot;&#201;liminer l&amp;#39;alignement&quot;&gt;&#201;liminer l&#39;alignement&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gestion-Dactions-R&#233;vis&#233;e.html&quot; title=&quot;Gestion d&amp;#39;actions r&#233;vis&#233;e&quot;&gt;Gestion d&#39;actions r&#233;vis&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Les-Attaques-Multiples.html&quot; title=&quot;&#201;liminer les attaques multiples&quot;&gt;&#201;liminer les attaques multiples&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Et-Astuces-Martiales.html&quot; title=&quot;Endurance et Astuces martiales&quot;&gt;Endurance et Astuces martiales&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seuils-De-Blessure.html&quot; title=&quot;Seuils de blessure&quot;&gt;Seuils de blessure&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies-Et-Poisons-Unchained.html&quot; title=&quot;Maladies et poisons unchained&quot;&gt;Maladies et poisons unchained&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMagie&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Magie&#39;);&quot; onmouseout=&quot;outButton(&#39;Magie&#39;);&quot; onclick=&quot;expandMenu(&#39;Magie&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Unchained.html&quot; title=&quot;Magie unchained&quot;&gt;Magie unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Magie&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Simplifi&#233;e.html&quot; title=&quot;Incantation simplifi&#233;e&quot;&gt;Incantation simplifi&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alt&#233;rations-De-La-Magie.html&quot; title=&quot;Alt&#233;rations de la magie&quot;&gt;Alt&#233;rations de la magie&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Composantes-Mat&#233;rielles-&#201;sot&#233;riques.html&quot; title=&quot;Composantes mat&#233;rielles &#233;sot&#233;riques&quot;&gt;Composantes mat&#233;rielles &#233;sot&#233;riques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Progression-Automatique.html&quot; title=&quot;Bonus de progression automatique&quot;&gt;Bonus de progression automatique&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-Intrins&#232;ques-Des-Objets.html&quot; title=&quot;Bonus intrins&#232;ques des objets&quot;&gt;Bonus intrins&#232;ques des objets&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-&#201;volutifs.html&quot; title=&quot;Objets &#233;volutifs&quot;&gt;Objets &#233;volutifs&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dynamique-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation dynamique d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation dynamique d&#39;objets magiques&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMonstres&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Monstres&#39;);&quot; onmouseout=&quot;outButton(&#39;Monstres&#39;);&quot; onclick=&quot;expandMenu(&#39;Monstres&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e&quot;&gt;Cr&#233;ation de monstres simplifi&#233;e&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Monstres&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-1.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 1 : La gamme&quot;&gt;&#201;tape 1. La gamme&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-2.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 2 : La greffe de type de cr&#233;ature ou de classe&quot;&gt;&#201;tape 2. La greffe de type de cr&#233;ature ou de classe&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-3.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 3 : La greffe de sous-type&quot;&gt;&#201;tape 3. La greffe de sous-type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-4.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 4 : La greffe d&amp;#39;arch&#233;type&quot;&gt;&#201;tape 4. La greffe d’arch&#233;type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-5.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 5 : La greffe de taille&quot;&gt;&#201;tape 5. La greffe de taille&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-6.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 6&quot;&gt;&#201;tape 6. Les sorts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-7.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 7 : Les options de monstre&quot;&gt;&#201;tape 7. Les options de monstre&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-8.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 8&quot;&gt;&#201;tape 8. Les comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-9.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 9&quot;&gt;&#201;tape 9. Les d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-Exemple.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, Exemple&quot;&gt;Exemples de cr&#233;ation de monstres&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Pathfinder unchained (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Pathfinder unchained&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoPU.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Le personnage a un excellent &#233;quilibre et sait coordonner ses mouvements. Il sait &#233;galement effectuer des manœuvres a&#233;riennes et acrobatiques, ainsi que des cabrioles.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Caract&#233;ristique associ&#233;e :&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt; ; &lt;b&gt;Formation n&#233;cessaire :&lt;/b&gt; Non ; &lt;b&gt;Malus d&#39;armure :&lt;/b&gt; Oui&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Fonctions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Acrobaties.html#AMORTIRLESCHUTES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Acrobaties&quot;&gt;Amortir les chutes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Acrobaties.html#CHEVAUCHERDESMONTURES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Acrobaties&quot;&gt;chevaucher une monture&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Acrobaties.html#GARDERLEQUILIBRE&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Acrobaties&quot;&gt;garder l’&#233;quilibre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Acrobaties.html#REALISERDESMANOEUVRESAERIENNES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Acrobaties&quot;&gt;r&#233;aliser des manœuvres a&#233;riennes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Acrobaties.html#SEDEPLACERACROBATIQUEMENTENCOMBAT&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Acrobaties&quot;&gt;se d&#233;placer acrobatiquement en combat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Acrobaties.html#SEFAUFILERDANSDESCONDUITSETROITS&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Acrobaties&quot;&gt;se faufiler dans des conduits &#233;troits&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Acrobaties.html#SELIBERERDENTRAVES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Acrobaties&quot;&gt;se lib&#233;rer d’entraves&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Comp&#233;tences de base.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; (sauf pour sauter), &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Modificateurs d’Acrobaties.&lt;/b&gt; Les circonstances indiqu&#233;es dans la table ci-dessous appliquent des modificateurs aux &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; des tests d’Acrobaties. Les modificateurs issus de diff&#233;rentes cat&#233;gories (surface glissante, en pente, etc.) se cumulent entre eux mais, au sein d’une m&#234;me cat&#233;gorie, seul le modificateur le plus important s’applique.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Circonstances du test d’Acrobaties&lt;/td&gt;&lt;td&gt;Modificateur au DD&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Surface l&#233;g&#232;rement encombr&#233;e (sable, graviers)&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Surface tr&#232;s encombr&#233;e (sol d’une caverne, gravats)&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Surface l&#233;g&#232;rement glissante (sol humide)&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Surface tr&#232;s glissante (glace)&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Surface l&#233;g&#232;rement en pente (moins de 45&#176;)&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Surface en pente forte (plus de 45&#176;)&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Surface l&#233;g&#232;rement instable (bateau sur des eaux agit&#233;es)&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Surface mod&#233;r&#233;ment instable (navire pris dans une temp&#234;te)&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Surface extr&#234;mement instable (tremblement de terre)&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Sp&#233;cial.&lt;/b&gt; Un personnage qui poss&#232;de 3 rangs ou plus en Acrobaties b&#233;n&#233;ficie d’un bonus d’esquive de +3 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; lorsqu’il &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Combatsurladefensive.html&quot; title=&quot;combat sur la d&#233;fensive&quot;&gt;combat sur la d&#233;fensive&lt;/a&gt; (au lieu du bonus normal de +2) et d’un bonus d’esquive de +6 &#224; la CA lorsqu’il se met en &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Defensetotale.html&quot; title=&quot;d&#233;fense totale&quot;&gt;d&#233;fense totale&lt;/a&gt; (au lieu du bonus normal de +4).&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;AMORTIRLESCHUTES&quot; href=&quot;#AMORTIRLESCHUTES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Amortir les chutes&lt;a class=&quot;headeranchor&quot; id=&quot;Amortir_les_chutes_0&quot; href=&quot;#Amortir_les_chutes_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Lorsque le personnage saute d&#233;lib&#233;r&#233;ment d’une certaine hauteur ou en cas de chute r&#233;sultant d’un saut rat&#233;, il peut effectuer un test d’Acrobaties &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 pour ignorer les trois premiers m&#232;tres de chute. Il se retrouve quand m&#234;me &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#192;terre.html&quot; title=&quot;&#192; terre&quot;&gt;&#224; terre&lt;/a&gt; si la chute lui inflige des d&#233;g&#226;ts.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Aucune.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;CHEVAUCHERDESMONTURES&quot; href=&quot;#CHEVAUCHERDESMONTURES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Chevaucher des montures&lt;a class=&quot;headeranchor&quot; id=&quot;Chevaucher_des_montures_1&quot; href=&quot;#Chevaucher_des_montures_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Cette fonction de la comp&#233;tence Acrobaties s’utilise comme la comp&#233;tence de base &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Variable. Se mettre en selle ou mettre pied &#224; terre n&#233;cessite habituellement une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;GARDERLEQUILIBRE&quot; href=&quot;#GARDERLEQUILIBRE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Garder l’&#233;quilibre&lt;a class=&quot;headeranchor&quot; id=&quot;Garder_l’&#233;quilibre_2&quot; href=&quot;#Garder_l’&#233;quilibre_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Largeur de la&lt;br/&gt;surface&lt;/td&gt;&lt;td&gt;DD du test&lt;br/&gt;d’Acrobaties&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Plus de 90 cm&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Entre 30 et 90 cm&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Entre 15 et 30 cm&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Entre 5 et 15 cm&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Moins de 5 cm&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Le personnage peut effectuer un test d’Acrobaties pour garder l’&#233;quilibre lorsqu’il se d&#233;place sur une surface &#233;troite ou sur un sol irr&#233;gulier. S’il rate son test, il chute et tombe &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#192;terre.html&quot; title=&quot;&#192; terre&quot;&gt;&#224; terre&lt;/a&gt;. Le personnage se d&#233;place &#224; mi-vitesse lorsqu’il tente de garder l’&#233;quilibre, mais il peut se d&#233;placer &#224; sa vitesse normale s’il augmente le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 5. Il est consid&#233;r&#233; comme &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Prisaud&#233;pourvu.html&quot; title=&quot;Pris au d&#233;pourvu&quot;&gt;pris au d&#233;pourvu&lt;/a&gt; quand il tente de garder l’&#233;quilibre. Un seul test de la sorte suffit chaque &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; mais, si le personnage subit des d&#233;g&#226;ts, il doit effectuer un autre test contre le m&#234;me DD. Il n’a pas besoin d’effectuer un test si le DD est inf&#233;rieur &#224; 10 mais les modificateurs peuvent faire passer un petit DD au-del&#224; de 9.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Aucune.&lt;br /&gt;&lt;br /&gt;&lt;br style=&quot;clear:right&quot; /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;REALISERDESMANOEUVRESAERIENNES&quot; href=&quot;#REALISERDESMANOEUVRESAERIENNES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#233;aliser des manœuvres a&#233;riennes&lt;a class=&quot;headeranchor&quot; id=&quot;R&#233;aliser_des_manœuvres_a&#233;riennes_3&quot; href=&quot;#R&#233;aliser_des_manœuvres_a&#233;riennes_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Cette fonction de la comp&#233;tence Acrobaties s’utilise comme la comp&#233;tence de base de &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt;. Elle ne donne cependant pas au personnage la capacit&#233; de voler.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Aucune.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SEDEPLACERACROBATIQUEMENTENCOMBAT&quot; href=&quot;#SEDEPLACERACROBATIQUEMENTENCOMBAT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Se d&#233;placer acrobatiquement en combat&lt;a class=&quot;headeranchor&quot; id=&quot;Se_d&#233;placer_acrobatiquement_en_combat_4&quot; href=&quot;#Se_d&#233;placer_acrobatiquement_en_combat_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;D&#233;placement pr&#233;vu&lt;/td&gt;&lt;td&gt;DD du test&lt;br /&gt;d’Acrobaties&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Traverser une &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Espacecontrole.html&quot; title=&quot;espace contr&#244;l&#233;&quot;&gt;zone contr&#244;l&#233;e&lt;/a&gt;&lt;br /&gt;par un ennemi&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Dmd.html&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; de&lt;br /&gt;l’ennemi&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Traverser l’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Espacecontrole.html&quot; title=&quot;espace contr&#244;l&#233;&quot;&gt;espace occup&#233;&lt;/a&gt;&lt;br /&gt;par un ennemi&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Dmd.html&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; de&lt;br /&gt;l’ennemi + 5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Le personnage peut effectuer un test d’Acrobaties pour traverser l’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Espacecontrole.html&quot; title=&quot;espace contr&#244;l&#233;&quot;&gt;espace contr&#244;l&#233;&lt;/a&gt; par des ennemis sans provoquer d’&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Attaquedopportunite.html&quot; title=&quot;Attaque d&amp;#39;opportunit&#233; (redirection)&quot;&gt;attaque d’opportunit&#233;&lt;/a&gt;. S’il rate ce test, il arr&#234;te son d&#233;placement et provoque une attaque d’opportunit&#233; de la part de l’adversaire qui contr&#244;le l’espace. Le personnage se d&#233;place &#224; mi-vitesse lorsqu’il effectue des acrobaties en combat mais il peut se d&#233;placer &#224; sa vitesse normale s’il augmente le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 10. S’il tente de se faufiler &#224; c&#244;t&#233; de plusieurs ennemis lors du m&#234;me &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;, il doit effectuer un test d’Acrobaties contre chacun d’eux. Le DD augmente de 2 par adversaire au-del&#224; du premier.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Aucune.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Encombrement.&lt;/b&gt; Les personnages qui portent une charge ou une armure interm&#233;diaire ou lourde ne peuvent pas utiliser les Acrobaties de cette fa&#231;on, &#224; moins de b&#233;n&#233;ficier d’une capacit&#233; qui leur permet de conserver leur vitesse normale ainsi lest&#233;s.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&#192; terre.&lt;/b&gt; Un personnage peut se d&#233;placer acrobatiquement en combat alors qu’il est &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#192;terre.html&quot; title=&quot;&#192; terre&quot;&gt;&#224; terre&lt;/a&gt; mais il lui faut accomplir une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pour se d&#233;placer de 1,50 m&#232;tre et le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; augmente de 5.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SEFAUFILERDANSDESCONDUITSETROITS&quot; href=&quot;#SEFAUFILERDANSDESCONDUITSETROITS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Se faufiler dans des conduits &#233;troits&lt;a class=&quot;headeranchor&quot; id=&quot;Se_faufiler_dans_des_conduits_&#233;troits_5&quot; href=&quot;#Se_faufiler_dans_des_conduits_&#233;troits_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;La r&#233;ussite d’un test d’Acrobaties &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 30 permet au personnage de se faufiler &#224; travers une ouverture suffisamment large pour que la t&#234;te puisse passer mais pas assez pour y passer les &#233;paules. Le personnage ne peut pas se faufiler &#224; travers des ouvertures plus &#233;troites que sa t&#234;te.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Une minute au moins et plusieurs tests sont peut-&#234;tre n&#233;cessaires.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui. Le personnage peut m&#234;me faire 20 s’il ne rencontre aucune opposition active.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SELIBERERDENTRAVES&quot; href=&quot;#SELIBERERDENTRAVES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Se lib&#233;rer d’entraves&lt;a class=&quot;headeranchor&quot; id=&quot;Se_lib&#233;rer_d’entraves_6&quot; href=&quot;#Se_lib&#233;rer_d’entraves_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Entraves&lt;/td&gt;&lt;td&gt;DD du test&lt;br /&gt;d’Acrobaties&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Corde-(Objet).html&quot; title=&quot;Corde&quot;&gt;Corde&lt;/a&gt;, personnage&lt;br /&gt;ligot&#233;&lt;/td&gt;&lt;td&gt;20 + &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bmo.html&quot; title=&quot;BMO&quot;&gt;BMO&lt;/a&gt; de celui qui&lt;br /&gt;a ligot&#233; le personnage&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Filet-(Arme).html&quot; title=&quot;Filet&quot;&gt;Filet&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Corde-Anim&#233;e.html&quot; title=&quot;Corde anim&#233;e&quot;&gt;corde anim&#233;e&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Collet.html&quot; title=&quot;Collet&quot;&gt;Collet&lt;/a&gt;&lt;/i&gt;&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Menottes-(Objet).html&quot; title=&quot;Menottes&quot;&gt;Menottes&lt;/a&gt;&lt;/td&gt;&lt;td&gt;30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Menottes-(Objet).html&quot; title=&quot;Menottes&quot;&gt;Menottes de qualit&#233;&lt;br /&gt;sup&#233;rieure&lt;/a&gt;&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Situation de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;DMD de l’adversaire&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Il faut r&#233;ussir un test d’Acrobaties pour se lib&#233;rer de ses liens et se soustraire &#224; une &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Agripp&#233;.html&quot; title=&quot;Agripp&#233;&quot;&gt;&#233;treinte&lt;/a&gt; ou un &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Enchev&#234;tr&#233;.html&quot; title=&quot;Enchev&#234;tr&#233;&quot;&gt;enchev&#234;trement&lt;/a&gt;. Le personnage peut effectuer un test d’Acrobaties &#224; la place d’un &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bmo.html&quot; title=&quot;BMO&quot;&gt;test de manœuvre offensive&lt;/a&gt; pour se lib&#233;rer d’une &#233;treinte ou d’une immobilisation en situation de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Il faut une minute pour se lib&#233;rer d’entraves, une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; pour &#233;chapper &#224; un filet ou aux sorts indiqu&#233;s et une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; pour &#233;chapper &#224; une &#233;treinte ou une immobilisation en situation de lutte.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Oui. S’il ne rencontre aucune opposition active, le personnage peut m&#234;me faire 20 &#224; ce test.
+]]></body>
+  <raw><![CDATA[{s:MenuPathfinderunchained}{s:PU}''Le personnage a un excellent équilibre et sait coordonner ses mouvements. Il sait également effectuer des manœuvres aériennes et acrobatiques, ainsi que des cabrioles.''
+
+'''Caractéristique associée :''' [[Dextérité]] ; '''Formation nécessaire :''' Non ; '''Malus d'armure :''' Oui
+
+'''Fonctions.''' [[Compétences fusionnées, Acrobaties#AMORTIRLESCHUTES|Amortir les chutes]], [[Compétences fusionnées, Acrobaties#CHEVAUCHERDESMONTURES|chevaucher une monture]], [[Compétences fusionnées, Acrobaties#GARDERLEQUILIBRE|garder l’équilibre]], [[Compétences fusionnées, Acrobaties#REALISERDESMANOEUVRESAERIENNES|réaliser des manœuvres aériennes]], [[Compétences fusionnées, Acrobaties#SEDEPLACERACROBATIQUEMENTENCOMBAT|se déplacer acrobatiquement en combat]], [[Compétences fusionnées, Acrobaties#SEFAUFILERDANSDESCONDUITSETROITS|se faufiler dans des conduits étroits]], [[Compétences fusionnées, Acrobaties#SELIBERERDENTRAVES|se libérer d’entraves]].
+
+'''Compétences de base.''' [[Acrobaties]] (sauf pour sauter), [[Équitation]], [[Évasion]], [[Vol]].
+
+'''Modificateurs d’Acrobaties.''' Les circonstances indiquées dans la table ci-dessous appliquent des modificateurs aux [[DD]] des tests d’Acrobaties. Les modificateurs issus de différentes catégories (surface glissante, en pente, etc.) se cumulent entre eux mais, au sein d’une même catégorie, seul le modificateur le plus important s’applique.
+
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Circonstances du test d’Acrobaties || Modificateur au DD
+|- CLASS="premier"
+| Surface légèrement encombrée (sable, graviers) || +2
+|-
+| Surface très encombrée (sol d’une caverne, gravats) || +5
+|-
+| Surface légèrement glissante (sol humide) || +2
+|-
+| Surface très glissante (glace) || +5
+|-
+| Surface légèrement en pente (moins de 45°) || +2
+|-
+| Surface en pente forte (plus de 45°) || +5
+|-
+| Surface légèrement instable (bateau sur des eaux agitées) || +2
+|-
+| Surface modérément instable (navire pris dans une tempête) || +5
+|-
+| Surface extrêmement instable (tremblement de terre) || +10
+|}
+</center>
+
+'''Spécial.''' Un personnage qui possède 3 rangs ou plus en Acrobaties bénéficie d’un bonus d’esquive de +3 à la [[CA]] lorsqu’il [[combat sur la défensive]] (au lieu du bonus normal de +2) et d’un bonus d’esquive de +6 à la CA lorsqu’il se met en [[défense totale]] (au lieu du bonus normal de +4).
+
+{s:Reference|AMORTIRLESCHUTES}
+===Amortir les chutes===
+Lorsque le personnage saute délibérément d’une certaine hauteur ou en cas de chute résultant d’un saut raté, il peut effectuer un test d’Acrobaties [[DD]] 15 pour ignorer les trois premiers mètres de chute. Il se retrouve quand même [[à terre]] si la chute lui inflige des dégâts.
+
+'''Action.''' Aucune.
+
+{s:Reference|CHEVAUCHERDESMONTURES}
+===Chevaucher des montures===
+Cette fonction de la compétence Acrobaties s’utilise comme la compétence de base [[Équitation]].
+
+'''Action.''' Variable. Se mettre en selle ou mettre pied à terre nécessite habituellement une [[action de mouvement]].
+
+{s:Reference|GARDERLEQUILIBRE}
+===Garder l’équilibre===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Largeur de la<br/>surface || DD du test<br/>d’Acrobaties
+|- CLASS="premier"
+| Plus de 90 cm || 0
+|-
+| Entre 30 et 90 cm || 5
+|-
+| Entre 15 et 30 cm || 10
+|-
+| Entre 5 et 15 cm || 15
+|-
+| Moins de 5 cm || 20
+|}
+</center></div></div>Le personnage peut effectuer un test d’Acrobaties pour garder l’équilibre lorsqu’il se déplace sur une surface étroite ou sur un sol irrégulier. S’il rate son test, il chute et tombe [[à terre]]. Le personnage se déplace à mi-vitesse lorsqu’il tente de garder l’équilibre, mais il peut se déplacer à sa vitesse normale s’il augmente le [[DD]] de 5. Il est considéré comme [[pris au dépourvu]] quand il tente de garder l’équilibre. Un seul test de la sorte suffit chaque [[round]] mais, si le personnage subit des dégâts, il doit effectuer un autre test contre le même DD. Il n’a pas besoin d’effectuer un test si le DD est inférieur à 10 mais les modificateurs peuvent faire passer un petit DD au-delà de 9.
+
+'''Action.''' Aucune.
+
+{s:ClearRight}{s:Reference|REALISERDESMANOEUVRESAERIENNES}
+===Réaliser des manœuvres aériennes===
+Cette fonction de la compétence Acrobaties s’utilise comme la compétence de base de [[Vol]]. Elle ne donne cependant pas au personnage la capacité de voler.
+
+'''Action.''' Aucune.
+
+{s:Reference|SEDEPLACERACROBATIQUEMENTENCOMBAT}
+===Se déplacer acrobatiquement en combat===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Déplacement prévu || DD du test<br>d’Acrobaties
+|- CLASS="premier"
+| Traverser une [[espace contrôlé|zone contrôlée]]<br>par un ennemi || [[DMD]] de<br>l’ennemi
+|-
+| Traverser l’[[espace contrôlé|espace occupé]]<br>par un ennemi || [[DMD]] de<br>l’ennemi + 5
+|}
+</center></div></div>Le personnage peut effectuer un test d’Acrobaties pour traverser l’[[espace contrôlé]] par des ennemis sans provoquer d’[[AO|attaque d’opportunité]]. S’il rate ce test, il arrête son déplacement et provoque une attaque d’opportunité de la part de l’adversaire qui contrôle l’espace. Le personnage se déplace à mi-vitesse lorsqu’il effectue des acrobaties en combat mais il peut se déplacer à sa vitesse normale s’il augmente le [[DD]] de 10. S’il tente de se faufiler à côté de plusieurs ennemis lors du même [[round]], il doit effectuer un test d’Acrobaties contre chacun d’eux. Le DD augmente de 2 par adversaire au-delà du premier.
+
+'''Action.''' Aucune.
+
+'''Encombrement.''' Les personnages qui portent une charge ou une armure intermédiaire ou lourde ne peuvent pas utiliser les Acrobaties de cette façon, à moins de bénéficier d’une capacité qui leur permet de conserver leur vitesse normale ainsi lestés.
+
+'''À terre.''' Un personnage peut se déplacer acrobatiquement en combat alors qu’il est [[à terre]] mais il lui faut accomplir une [[action complexe]] pour se déplacer de 1,50 mètre et le [[DD]] augmente de 5.
+
+{s:Reference|SEFAUFILERDANSDESCONDUITSETROITS}
+===Se faufiler dans des conduits étroits===
+La réussite d’un test d’Acrobaties [[DD]] 30 permet au personnage de se faufiler à travers une ouverture suffisamment large pour que la tête puisse passer mais pas assez pour y passer les épaules. Le personnage ne peut pas se faufiler à travers des ouvertures plus étroites que sa tête.
+
+'''Action.''' Une minute au moins et plusieurs tests sont peut-être nécessaires.
+
+'''Nouvelles tentatives.''' Oui. Le personnage peut même faire 20 s’il ne rencontre aucune opposition active.
+
+{s:Reference|SELIBERERDENTRAVES}
+===Se libérer d’entraves===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Entraves || DD du test<br>d’Acrobaties
+|- CLASS="premier"
+| [[Corde (objet)|Corde]], personnage<br>ligoté || 20 + [[BMO]] de celui qui<br>a ligoté le personnage
+|-
+| [[Filet (arme)|Filet]], ''[[corde animée]]'' || 20
+|-
+| ''[[Collet]]'' || 23
+|-
+| [[Menottes (objet)|Menottes]] || 30
+|-
+| [[Menottes (objet)|Menottes de qualité<br>supérieure]] || 35
+|-
+| Situation de [[lutte]] || DMD de l’adversaire
+|}
+</center></div></div>Il faut réussir un test d’Acrobaties pour se libérer de ses liens et se soustraire à une [[agrippé|étreinte]] ou un [[enchevêtré|enchevêtrement]]. Le personnage peut effectuer un test d’Acrobaties à la place d’un [[BMO|test de manœuvre offensive]] pour se libérer d’une étreinte ou d’une immobilisation en situation de [[lutte]].
+
+'''Action.''' Il faut une minute pour se libérer d’entraves, une [[action complexe]] pour échapper à un filet ou aux sorts indiqués et une [[action simple]] pour échapper à une étreinte ou une immobilisation en situation de lutte.
+
+'''Nouvelles tentatives.''' Oui. S’il ne rencontre aucune opposition active, le personnage peut même faire 20 à ce test.]]></raw>
+  <fullName>Pathfinder-RPG.Compétences fusionnées, Acrobaties</fullName>
+</wikiPage>

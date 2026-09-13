@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fourmi, Fourmi mégapon</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-18 20:19:16Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Fourmi chevalière</link><link>Pathfinder-RPG.Fourmi géante</link><link>Pathfinder-RPG.Fourmi mégapon</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Nuée de fourmis soldats</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Capture</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Fourmi chevalière</link><link>Pathfinder-RPG.Fourmi géante</link><link>Pathfinder-RPG.Fourmi mégapon</link><link>Pathfinder-RPG.Nuée de fourmis soldats</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Fourmi m&#233;gapon&lt;div style=&quot;float:right;&quot;&gt;FP 6&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vermine&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vermine.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Plaines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Plaines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.131&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 2 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; de taille TG, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; -1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 19, contact 7, pris au d&#233;pourvu 19 (Dex -1, naturelle +12, taille -2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 75 (6d8+48)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +12, &lt;b&gt;Vol&lt;/b&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m, escalade 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +10 (2d6+8 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;) et dard, +10 (1d8+8 plus poison)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 4,50 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 26, &lt;b&gt;Dex&lt;/b&gt; 8, &lt;b&gt;Con&lt;/b&gt; 25, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +4 ; &lt;b&gt;BMO&lt;/b&gt; +14 (+18 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 23 (31 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Capture.html&quot; title=&quot;Capture&quot;&gt;Capture&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; transporteur
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines chaudes
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou file (3-10)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Transporteur (Ext).&lt;/b&gt; La capacit&#233; de transport d’une fourmi m&#233;gapon est trois fois sup&#233;rieure &#224; la normale.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Poison (Ext).&lt;/b&gt; &lt;i&gt;Dard&lt;/i&gt; — blessure ; &lt;i&gt;JdS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 20 ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/round pendant 6 rounds ; &lt;i&gt;effet&lt;/i&gt; 1d6 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de fourmi&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fourmi-Chevali&#232;re.html&quot; title=&quot;Fourmi, Fourmi chevali&#232;re&quot;&gt;Fourmi chevali&#232;re&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fourmi-G&#233;ante.html&quot; title=&quot;Fourmi, Fourmi g&#233;ante&quot;&gt;Fourmi g&#233;ante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fourmi-M&#233;gapon.html&quot; title=&quot;Fourmi, Fourmi m&#233;gapon&quot;&gt;Fourmi m&#233;gapon&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nu&#233;e-De-Fourmis-Soldats.html&quot; title=&quot;Fourmi, Nu&#233;e de fourmis soldats&quot;&gt;Nu&#233;e de fourmis soldats&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Cette &#233;norme fourmi poss&#232;de de dangereuses mandibules et un dard suintant. Elle semble suffisamment imposante pour d&#233;vorer un cheval.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ces fourmis g&#233;antes utilisent les ph&#233;romones pour organiser les travaux et les d&#233;fenses complexes au sein de leur habitat, en identifiant les insectes de leur colonie ou des colonies alli&#233;es et en repoussant les intrus. Leur physiologie est adapt&#233;e &#224; cette charge. Elles disposent de glandes &#224; ph&#233;romones am&#233;lior&#233;es et d’une t&#234;te d&#233;mesur&#233;ment large. La taille imposante de la t&#234;te d’une fourmi chevali&#232;re lui permet de bloquer des tunnels entiers &#224; l’int&#233;rieur de la fourmili&#232;re afin de prot&#233;ger ses semblables. Elle reste en place suffisamment longtemps, quitte &#224; se sacrifier, pour dissuader les envahisseurs.&lt;br /&gt;&lt;br /&gt;Une fourmi chevali&#232;re mesure 3 m&#232;tres de long et p&#232;se dans les 550 kilos. Sa t&#234;te fait environ 2 m&#232;tres de large et les collerettes lat&#233;rales le long de son corps lui donnent un aspect l&#233;g&#232;rement concave.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Fourmi mégapon|FP 6}
+{s:pucem|Vermine|Plaines|Tropical}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.131]]''}
+{s:BDTexte|'''PX''' 2 400}
+{s:BDTexte|[[type Vermine|Vermine]] de taille TG, N}
+{s:BDTexte|'''Init''' -1 ; '''Sens''' [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 19, contact 7, pris au dépourvu 19 (Dex -1, naturelle +12, taille -2)}
+{s:BDTexte|'''pv''' 75 (6d8+48)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +12, '''Vol''' +3}
+{s:BDTexte|'''Immunités''' effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m, escalade 6 m}
+{s:BDTexte|'''Corps à corps''' morsure, +10 (2d6+8 plus [[Étreinte (capacité)|étreinte]]) et dard, +10 (1d8+8 plus poison)}
+{s:BDTexte|'''Espace occupé''' 4,50 m ; '''Allonge''' 3 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 26, '''Dex''' 8, '''Con''' 25, '''Int''' —, '''Sag''' 13, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +4 ; '''BMO''' +14 (+18 en [[lutte]]) ; '''DMD''' 23 (31 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Capture]]<sup>S</sup>, [[Robustesse]]<sup>S</sup>}
+{s:BDTexte|'''Compétences''' [[Escalade]] +16}
+{s:BDTexte|'''Particularités''' transporteur}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines chaudes}
+{s:BDTexte|'''Organisation''' solitaire, couple ou file (3-10)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Transporteur (Ext).''' La capacité de transport d’une fourmi mégapon est trois fois supérieure à la normale.}
+{s:BDTexte|'''Poison (Ext).''' ''Dard'' — blessure ; ''JdS'' [[Vigueur]] DD 20 ; ''fréquence'' 1/round pendant 6 rounds ; ''effet'' 1d6 [[Force]] ; ''guérison'' 2 réussites consécutives.}
+
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de fourmi
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Fourmi chevalière]] || 4
+|-
+| [[Fourmi géante]] || 2
+|-
+| [[Fourmi mégapon]] || 6
+|-
+| [[Nuée de fourmis soldats]] || 5
+|}
+</div>''Cette énorme fourmi possède de dangereuses mandibules et un dard suintant. Elle semble suffisamment imposante pour dévorer un cheval.''
+
+Ces fourmis géantes utilisent les phéromones pour organiser les travaux et les défenses complexes au sein de leur habitat, en identifiant les insectes de leur colonie ou des colonies alliées et en repoussant les intrus. Leur physiologie est adaptée à cette charge. Elles disposent de glandes à phéromones améliorées et d’une tête démesurément large. La taille imposante de la tête d’une fourmi chevalière lui permet de bloquer des tunnels entiers à l’intérieur de la fourmilière afin de protéger ses semblables. Elle reste en place suffisamment longtemps, quitte à se sacrifier, pour dissuader les envahisseurs.
+
+Une fourmi chevalière mesure 3 mètres de long et pèse dans les 550 kilos. Sa tête fait environ 2 mètres de large et les collerettes latérales le long de son corps lui donnent un aspect légèrement concave.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Fourmi mégapon</fullName>
+</wikiPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Tonique médicinal de Lisken (le verre)</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-22 17:14:44Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Nourriture et Boissons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Nourriture et Boissons</link><link>Pathfinder-RPG.initiative</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Halfelin</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Halfelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Halfelin.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;halfelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 10 po ; &lt;b&gt;Poids&lt;/b&gt; —  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Nourriture-Et-Boissons.html&quot; title=&quot;Nourriture et Boissons&quot;&gt;Nourriture et boissons&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Ce l&#233;ger s&#233;datif est normalement utilis&#233; contre les insomnies : il rend le buveur plus calme et silencieux, moins enclin &#224; entreprendre des actions pr&#233;cipit&#233;es. Un verre de tonique inflige un malus de -4 aux &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;roulement-Dun-Combat#Initiative.html&quot; title=&quot;initiative&quot;&gt;tests d’initiative&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;halfelin&lt;/a&gt; pendant 10 minutes, mais lui donne un bonus alchimique de +2 &#224; ses tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; pendant le m&#234;me temps.
+]]></body>
+  <raw><![CDATA[{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}'''Prix''' 10 po ; '''Poids''' —  
+<span class="Catégorie">'''Catégorie''' [[Nourriture et boissons]]</span>
+<hr>
+Ce léger sédatif est normalement utilisé contre les insomnies : il rend le buveur plus calme et silencieux, moins enclin à entreprendre des actions précipitées. Un verre de tonique inflige un malus de -4 aux [[initiative|tests d’initiative]] du [[Halfelin|halfelin]] pendant 10 minutes, mais lui donne un bonus alchimique de +2 à ses tests de [[Discrétion]] pendant le même temps.]]></raw>
+  <fullName>Pathfinder-RPG.Tonique médicinal de Lisken (objet)</fullName>
+</wikiPage>

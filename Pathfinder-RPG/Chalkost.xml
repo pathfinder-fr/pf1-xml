@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chalkost</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2025-01-09 17:59:57Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Bien</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.sous-type métamorphe</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Souffle (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Lumière</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.sort Résistance</link><link>Pathfinder-RPG.Arme magique</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Chance de lartisan</link><link>Pathfinder-RPG.Endurance de lours</link><link>Pathfinder-RPG.Rapport</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.Sanglier</link><link>Pathfinder-RPG.Forme bestiale I</link><link>Pathfinder-RPG.ceste (arme)</link><link>Pathfinder-RPG.arme de maître</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Résistance (capacité)</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Torag (technique)</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chalkost&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Dieux-De-La-Mer-Int&#233;rieure-(Contenu).html&quot; title=&quot;Dieux de la mer Int&#233;rieure (Contenu)&quot;&gt;Dieux de la mer Int&#233;rieure p.311&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-M&#233;tamorphe.html&quot; title=&quot;M&#233;tamorphe (sous-type)&quot;&gt;m&#233;tamorphe&lt;/a&gt;) de taille M, LB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 10, pris au d&#233;pourvu 16 (naturelle +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (5d10+15)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +1, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +7 ; +2 contre le poison, les sorts et les pouvoirs magiques
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/Chaos ; &lt;b&gt;R&#233;sistances&lt;/b&gt; &#233;lectricit&#233; 10, feu 10 ; &lt;b&gt;RM&lt;/b&gt; 15
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; ceste de ma&#238;tre, +9 (1d4+3/19–20 plus 1d6 &#233;lectricit&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Souffle-(Capacit&#233;).html&quot; title=&quot;Souffle (Sur)&quot;&gt;souffle&lt;/a&gt; (c&#244;ne de 1,5 m, 2d6 &#233;lectricit&#233;, R&#233;flexes DD 15 moiti&#233;, utilisable tous les 1d4 rounds)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Assistance-Divine.html&quot; title=&quot;Assistance divine&quot;&gt;assistance divine&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lumi&#232;re.html&quot; title=&quot;Lumi&#232;re&quot;&gt;lumi&#232;re&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-R&#233;sistance.html&quot; title=&quot;R&#233;sistance&quot;&gt;r&#233;sistance&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arme-Magique.html&quot; title=&quot;Arme magique&quot;&gt;arme magique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chance-De-Lartisan.html&quot; title=&quot;Chance de l&amp;#39;artisan&quot;&gt;chance de l&#39;artisan&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-De-Lours.html&quot; title=&quot;Endurance de l&amp;#39;ours&quot;&gt;endurance de l&#39;ours&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapport.html&quot; title=&quot;Rapport&quot;&gt;rapport&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 10, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5 ; &lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Volont&#233;-De-Fer.html&quot; title=&quot;Volont&#233; de fer&quot;&gt;Volont&#233; de fer&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (un au choix) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (exploration souterraine) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (ing&#233;nierie) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (religion) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; c&#233;leste, gobelin, nain, orque
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; ceste foudroyant, &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sanglier.html&quot; title=&quot;Sanglier&quot;&gt;sanglier&lt;/a&gt; ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Forme-Bestiale-I.html&quot; title=&quot;Forme bestiale I&quot;&gt;forme bestiale I&lt;/a&gt;&lt;/i&gt;), forme de sanglier en cuivre, sang nain
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Paradis)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple, ou groupe (3–5)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&lt;a class=&quot;pagelink&quot; href=&quot;Ceste-(Arme).html&quot; title=&quot;Ceste&quot;&gt;ceste&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armesmaitre.html&quot; title=&quot;arme de ma&#238;tre&quot;&gt;de ma&#238;tre&lt;/a&gt;, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ceste foudroyant (Sur).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;, un chalkost peut invoquer ou renvoyer un &lt;a class=&quot;pagelink&quot; href=&quot;Ceste-(Arme).html&quot; title=&quot;Ceste&quot;&gt;ceste&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armesmaitre.html&quot; title=&quot;arme de ma&#238;tre&quot;&gt;de ma&#238;tre&lt;/a&gt; dans l&#39;une de ses mains. Tant qu&#39;il est mani&#233; par le chalkost, ce ceste inflige 1d6 points de d&#233;g&#226;ts d&#39;&#233;lectricit&#233; suppl&#233;mentaires au toucher. Si le ceste est donn&#233; ou vol&#233;, le chalkost perd ce pouvoir jusqu&#39;&#224; ce que son arme lui revienne.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Forme de sanglier en cuivre (Sur).&lt;/b&gt; Lorsqu&#39;un chalkost utilise sa capacit&#233; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt;, il peut se transformer en un sanglier &#224; la chair m&#233;tallique, aux poils cuivr&#233;s et aux d&#233;fenses d&#39;acier &#233;tincelantes. Sous cette forme, un chalkost conserve sa &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;duction de d&#233;g&#226;ts&lt;/a&gt; et ses &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;r&#233;sistances aux &#233;nergies&lt;/a&gt;. Le sanglier en cuivre poss&#232;de les m&#234;me statistiques qu&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Sanglier.html&quot; title=&quot;Sanglier&quot;&gt;sanglier&lt;/a&gt; normal, mais son bonus d&#39;armure naturelle est de +6 et son attaque de cornes inflige 1d6 points de d&#233;g&#226;ts d&#39;&#233;lectricit&#233; suppl&#233;mentaires au toucher.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sang nain (Ext).&lt;/b&gt; Un chalkost est consid&#233;r&#233; comme un &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nain&lt;/a&gt; dans le cadre des effets d&#233;pendant de la race, et poss&#232;de les traits raciaux &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html#TRAITSSTANDARDS&quot; title=&quot;Les nains&quot;&gt;lentement mais s&#251;rement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html#TRAITSSTANDARDS&quot; title=&quot;Les nains&quot;&gt;robuste&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html#TRAITSSTANDARDS&quot; title=&quot;Les nains&quot;&gt;stabilit&#233;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet &#234;tre de terre et de m&#233;tal est semblable &#224; un nain aux cheveux cuivr&#233;s et au casque ouvert portant deux d&#233;fenses de sanglier stylis&#233;es.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Un chalkost est une &#226;me naine parfaite qui sert d&#39;ouvrier et d&#39;artisan dans le royaume divin de &lt;a class=&quot;pagelink&quot; href=&quot;Torag-(Technique).html&quot; title=&quot;Torag&quot;&gt;Torag&lt;/a&gt;. Dot&#233; d&#39;une grande robustesse, d&#39;armes de qualit&#233; et d&#39;un esprit incorrigible, le chalkost est un serviteur infatigable et loyal, capable de forger de nouvelles armes pour les anges ou de d&#233;fendre le monde contre des envahisseurs diaboliques. On dit qu&#39;il a &#233;t&#233; cr&#233;&#233; &#224; partir des &#226;mes de nains particuli&#232;rement habiles et h&#233;ro&#239;ques. Chaque chalkost partage une affinit&#233; mutuelle avec un clan de nains mortels, observant et guidant ses membres comme un anc&#234;tre honor&#233;. Cette relation est si &#233;troite que le nom d&#39;un chalkost particulier est souvent transmis de pr&#234;tre en pr&#234;tre et de famille en famille, de sorte que certains de ces &#234;tres divins aident les clans depuis des g&#233;n&#233;rations. Les chalkost ont une relation &#233;troite avec les paladins nains et les autres nobles guerriers nains, et c&#39;est un honneur pour les nains mortels que de chevaucher un chalkost en forme de sanglier pour aller au combat.&lt;br /&gt;&lt;br /&gt;Un chalkost ressemble &#224; un nain s&#233;duisant aux cheveux cuivr&#233;s, coiff&#233; d&#39;un casque ouvert orn&#233; de d&#233;fenses de sanglier stylis&#233;es et arm&#233; d&#39;un ceste avec une t&#234;te de marteau. Les hommes portent une longue barbe, tandis que les femmes ont de longues tresses. Le sexe du chalkost associ&#233; &#224; un clan nain donn&#233; correspond g&#233;n&#233;ralement &#224; celui des chefs de ce clan.&lt;br /&gt;&lt;br /&gt;Les chalkosts mesurent un peu plus de 1,5 m et p&#232;sent environ 115 kg.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Chalkost|FP 4}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|''Source : [[Dieux de la mer Intérieure (Contenu)|Dieux de la mer Intérieure p.311]]''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type métamorphe|métamorphe]]) de taille M, LB}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 10, pris au dépourvu 16 (naturelle +6)}
+{s:BDTexte|'''pv''' 42 (5d10+15)}
+{s:BDTexte|'''Réf''' +1, '''Vig''' +7, '''Vol''' +7 ; +2 contre le poison, les sorts et les pouvoirs magiques}
+{s:BDTexte|'''RD''' 5/Chaos ; '''Résistances''' électricité 10, feu 10 ; '''RM''' 15}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m}
+{s:BDTexte|'''Corps à corps''' ceste de maître, +9 (1d4+3/19–20 plus 1d6 électricité)}
+{s:BDTexte|'''Attaques spéciales''' [[Souffle (capacité)|souffle]] (cône de 1,5 m, 2d6 électricité, Réflexes DD 15 moitié, utilisable tous les 1d4 rounds)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 5 ; [[concentration]] +4)}
+{s:BDSorts|À volonté — ''[[assistance divine]]'', ''[[lumière]]'', ''[[réparation]]'', ''[[sort Résistance|résistance]]''}
+{s:BDSorts|3/jour — ''[[arme magique]]'', ''[[soins légers]]''}
+{s:BDSorts|1/jour — ''[[chance de lartisan|chance de l'artisan]]'', ''[[endurance de lours|endurance de l'ours]]'', ''[[rapport]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 10, '''Con''' 17, '''Int''' 10, '''Sag''' 13, '''Cha''' 8}
+{s:BDTexte|'''BBA''' +5 ; '''BMO''' +8 ; '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Enchaînement]], [[Volonté de fer]]}
+{s:BDTexte|'''Compétences''' [[Artisanat]] (un au choix) +8, [[Connaissances]] (exploration souterraine) +8, [[Connaissances]] (ingénierie) +8, [[Connaissances]] (religion) +8, [[Perception]] +9, [[Sabotage]] +8}
+{s:BDTexte|'''Langues''' céleste, gobelin, nain, orque}
+{s:BDTexte|'''Particularités''' ceste foudroyant, [[changement de forme (capacité)|changement de forme]] ([[sanglier]] ; ''[[forme bestiale I]]''), forme de sanglier en cuivre, sang nain}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Paradis)}
+{s:BDTexte|'''Organisation''' solitaire, couple, ou groupe (3–5)}
+{s:BDTexte|'''Trésor''' standard ([[ceste (arme)|ceste]] [[arme de maître|de maître]], autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Ceste foudroyant (Sur).''' Par une [[action libre]], un chalkost peut invoquer ou renvoyer un [[ceste (arme)|ceste]] [[arme de maître|de maître]] dans l'une de ses mains. Tant qu'il est manié par le chalkost, ce ceste inflige 1d6 points de dégâts d'électricité supplémentaires au toucher. Si le ceste est donné ou volé, le chalkost perd ce pouvoir jusqu'à ce que son arme lui revienne.}
+{s:BDTexte|'''Forme de sanglier en cuivre (Sur).''' Lorsqu'un chalkost utilise sa capacité [[changement de forme (capacité)|changement de forme]], il peut se transformer en un sanglier à la chair métallique, aux poils cuivrés et aux défenses d'acier étincelantes. Sous cette forme, un chalkost conserve sa [[RD|réduction de dégâts]] et ses [[Résistance (capacité)|résistances aux énergies]]. Le sanglier en cuivre possède les même statistiques qu'un [[sanglier]] normal, mais son bonus d'armure naturelle est de +6 et son attaque de cornes inflige 1d6 points de dégâts d'électricité supplémentaires au toucher.}
+{s:BDTexte|'''Sang nain (Ext).''' Un chalkost est considéré comme un [[nain]] dans le cadre des effets dépendant de la race, et possède les traits raciaux [[Nain#TRAITSSTANDARDS|lentement mais sûrement]], [[Nain#TRAITSSTANDARDS|robuste]] et [[Nain#TRAITSSTANDARDS|stabilité]].}
+</div>
+</td><td><div>''Cet être de terre et de métal est semblable à un nain aux cheveux cuivrés et au casque ouvert portant deux défenses de sanglier stylisées.''
+
+Un chalkost est une âme naine parfaite qui sert d'ouvrier et d'artisan dans le royaume divin de [[Torag (technique)|Torag]]. Doté d'une grande robustesse, d'armes de qualité et d'un esprit incorrigible, le chalkost est un serviteur infatigable et loyal, capable de forger de nouvelles armes pour les anges ou de défendre le monde contre des envahisseurs diaboliques. On dit qu'il a été créé à partir des âmes de nains particulièrement habiles et héroïques. Chaque chalkost partage une affinité mutuelle avec un clan de nains mortels, observant et guidant ses membres comme un ancêtre honoré. Cette relation est si étroite que le nom d'un chalkost particulier est souvent transmis de prêtre en prêtre et de famille en famille, de sorte que certains de ces êtres divins aident les clans depuis des générations. Les chalkost ont une relation étroite avec les paladins nains et les autres nobles guerriers nains, et c'est un honneur pour les nains mortels que de chevaucher un chalkost en forme de sanglier pour aller au combat.
+
+Un chalkost ressemble à un nain séduisant aux cheveux cuivrés, coiffé d'un casque ouvert orné de défenses de sanglier stylisées et armé d'un ceste avec une tête de marteau. Les hommes portent une longue barbe, tandis que les femmes ont de longues tresses. Le sexe du chalkost associé à un clan nain donné correspond généralement à celui des chefs de ce clan.
+
+Les chalkosts mesurent un peu plus de 1,5 m et pèsent environ 115 kg.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Chalkost</fullName>
+</wikiPage>

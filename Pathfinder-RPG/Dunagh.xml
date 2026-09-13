@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kami, Dunagh</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-20 17:03:49Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Kami</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type intangible</link><link>Pathfinder-RPG.sous-type kami</link><link>Pathfinder-RPG.sous-type natif</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Guérison accélérée (capacité)</link><link>Pathfinder-RPG.Intangible (capacité)</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Manipulation à distance</link><link>Pathfinder-RPG.Attaque en vol</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Kami</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dunagh&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.106&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Intangible.html&quot; title=&quot;Intangible (sous-type)&quot;&gt;intangible&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Kami.html&quot; title=&quot;Kami (sous-type)&quot;&gt;kami&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Natif.html&quot; title=&quot;Natif (sous-type)&quot;&gt;natif&lt;/a&gt;) de taille M, LN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +7 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; destin (6 m, DD 15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 16, contact 16, pris au d&#233;pourvu 13 (Dext&#233;rit&#233; +3, parade +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 37 (5d10+10); &lt;a class=&quot;pagelink&quot; href=&quot;Gu&#233;rison-Acc&#233;l&#233;r&#233;e-(Capacit&#233;).html&quot; title=&quot;Gu&#233;rison acc&#233;l&#233;r&#233;e (Ext)&quot;&gt;gu&#233;rison acc&#233;l&#233;r&#233;e&lt;/a&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Intangible-(Capacit&#233;).html&quot; title=&quot;Intangible (Ext)&quot;&gt;intangible&lt;/a&gt;; &lt;b&gt;Immunit&#233;s&lt;/b&gt; saignement, effets mentaux des sorts, p&#233;trification, m&#233;tamorphose ; &lt;b&gt;R&#233;sistances&lt;/b&gt; acide 10, froid 10, &#233;lectricit&#233; 10, feu 10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 9 m (parfaite)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; contact intangible, +8 (2d6 froid plus mal&#233;diction des dunagh)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +8)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manipulation-&#192;-Distance.html&quot; title=&quot;Manipulation &#224; distance&quot;&gt;manipulation &#224; distance&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; -, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 14, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 17, &lt;b&gt;Cha&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5 ; &lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Vol.html&quot; title=&quot;Attaque en vol&quot;&gt;Attaque en vol&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (folklore local) +8, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; fusion avec le pupille, pupille (foyer)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; urbain
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura du destin (Sur).&lt;/b&gt; Une dunagh qui a fusionn&#233; avec son pupille ou qui se trouve &#224; 36 m&#232;tres de lui ou moins, &#233;met une aura du destin dans un rayon de 6 m&#232;tres. Tout ennemi baign&#233; par cette aura et amen&#233; &#224; lancer un d20 (comme pour un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jet d&#39;attaque&lt;/a&gt;, un test de comp&#233;tence ou un &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt;) en lance deux et conserve le pire r&#233;sultat. Les alli&#233;s d&#233;sign&#233;s par la dunagh et situ&#233;s au sein de son aura lancent &#233;galement 2d20 mais conservent le meilleur r&#233;sultat. Il s’agit d’un effet mental affectant le moral qui ne peut agir contre les f&#233;es. La dunagh peut neutraliser et r&#233;activer cette aura &#224; volont&#233; par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Mal&#233;diction des dunaghs (Sur).&lt;/b&gt; Toute cr&#233;ature touch&#233;e par une dunagh doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ou subir la mal&#233;diction des dunaghs. &#192; chaque fois que la victime utilise un d20, chaque 20 obtenu au d&#233; est consid&#233;r&#233; comme un 1. La cr&#233;ature maudite ne peut jamais faire 20. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Kami.html&quot; title=&quot;Les kamis&quot;&gt;kamis&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Cette femme spectrale tient une urne d’argent et flotte dans les airs avec une gr&#226;ce irr&#233;elle et une forte pr&#233;sence.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dunaghs, comme la plupart des kamis, sont des esprits protecteurs natifs du continent oriental. Contrairement aux autres membres de leur esp&#232;ce, cependant, ils se sont attach&#233;s il y a bien longtemps &#224; des caravanes qui se sont rendues dans la Calotte glaciaire avant de s’&#233;tablir sur les Terres des rois des linnorms o&#249; on peut le plus souvent les trouver de nos jours. Attir&#233;es par la grande d&#233;votion d’un clan ou d’une famille, les dunaghs sont les protectrices du foyer et veillent aussi bien sur la demeure de cette famille que sur ses occupants.&lt;br /&gt;&lt;br /&gt;La plupart des dunaghs pr&#233;f&#232;rent se montrer discr&#232;tes et vaquant &#224; leurs occupations lorsque les habitants sont absents. Parfois, elles aident &#171; leur &#187; famille en rangeant la maison, en verrouillant les portes et en fermant les fen&#234;tres laiss&#233;es ouvertes quand il fait froid dehors.&lt;br /&gt;&lt;br /&gt;Quand une famille sur laquelle veille une dunagh s’&#233;teint, la cr&#233;ature sombre dans une profonde d&#233;prime et reste dans le dernier lieu habit&#233; par ceux et celles sur lesquels elle veillait. Elle devient alors un esprit rancunier qui chasse quiconque tente de p&#233;n&#233;trer ou de s’installer dans l’ancien foyer de ses prot&#233;g&#233;s.&lt;br /&gt;&lt;br /&gt;Les dunaghs pr&#233;f&#232;rent fusionner avec leur pupille, mais quand elles apparaissent, elles prennent une apparence fantomatique proche de celles des personnes qu’elles prot&#232;gent.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dunagh|FP 4}
+{s:pucem|Extérieur|Ville|Tempéré}
+{s:BDTexte|''Source : Bestiaire 5 p.106''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type intangible|intangible]], [[sous-type kami|kami]], [[sous-type natif|natif]]) de taille M, LN}
+{s:BDTexte|'''Init''' +7 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à à 18 m ; [[Perception]] +13}
+{s:BDTexte|'''Aura''' destin (6 m, DD 15)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 16, contact 16, pris au dépourvu 13 (Dextérité +3, parade +3)}
+{s:BDTexte|'''pv''' 37 (5d10+10); [[Guérison accélérée (capacité)|guérison accélérée]] 2}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +3, '''Vol''' +7}
+{s:BDTexte|'''Capacités défensives''' [[Intangible (capacité)|intangible]]; '''Immunités''' saignement, effets mentaux des sorts, pétrification, métamorphose ; '''Résistances''' acide 10, froid 10, électricité 10, feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' [[Vol (capacité)|vol]] 9 m (parfaite)}
+{s:BDTexte|'''Corps à corps''' contact intangible, +8 (2d6 froid plus malédiction des dunagh)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 5 ; [[concentration]] +8)}
+{s:BDSorts|À volonté — ''[[manipulation à distance]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' -, '''Dex''' 17, '''Con''' 14, '''Int''' 11, '''Sag''' 17, '''Cha''' 16}
+{s:BDTexte|'''BBA''' +5 ; '''BMO''' +8 ; '''DMD''' 21}
+{s:BDTexte|'''Dons''' [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (folklore local) +8, [[Discrétion]] +11, [[Intimidation]] +11, [[Perception]] +13, [[Psychologie]] +13, [[Vol]] +19}
+{s:BDTexte|'''Langues''' commun ; [[Télépathie (capacité)|télépathie]] 30 m}
+{s:BDTexte|'''Particularités''' fusion avec le pupille, pupille (foyer)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' urbain}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Aura du destin (Sur).''' Une dunagh qui a fusionné avec son pupille ou qui se trouve à 36 mètres de lui ou moins, émet une aura du destin dans un rayon de 6 mètres. Tout ennemi baigné par cette aura et amené à lancer un d20 (comme pour un [[jet dattaque|jet d'attaque]], un test de compétence ou un [[jds|jet de sauvegarde]]) en lance deux et conserve le pire résultat. Les alliés désignés par la dunagh et situés au sein de son aura lancent également 2d20 mais conservent le meilleur résultat. Il s’agit d’un effet mental affectant le moral qui ne peut agir contre les fées. La dunagh peut neutraliser et réactiver cette aura à volonté par une [[action libre]].}
+{s:BDTexte|'''Malédiction des dunaghs (Sur).''' Toute créature touchée par une dunagh doit réussir un jet de [[Volonté]] [[DD]] 15 ou subir la malédiction des dunaghs. À chaque fois que la victime utilise un d20, chaque 20 obtenu au dé est considéré comme un 1. La créature maudite ne peut jamais faire 20. Le [[DD]] du [[jds|jet de sauvegarde]] est basé sur le [[Charisme]].}
+</div></td>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[Kami|kamis]].'''''</li></ul>''Cette femme spectrale tient une urne d’argent et flotte dans les airs avec une grâce irréelle et une forte présence.''
+
+Les dunaghs, comme la plupart des kamis, sont des esprits protecteurs natifs du continent oriental. Contrairement aux autres membres de leur espèce, cependant, ils se sont attachés il y a bien longtemps à des caravanes qui se sont rendues dans la Calotte glaciaire avant de s’établir sur les Terres des rois des linnorms où on peut le plus souvent les trouver de nos jours. Attirées par la grande dévotion d’un clan ou d’une famille, les dunaghs sont les protectrices du foyer et veillent aussi bien sur la demeure de cette famille que sur ses occupants.
+
+La plupart des dunaghs préfèrent se montrer discrètes et vaquant à leurs occupations lorsque les habitants sont absents. Parfois, elles aident « leur » famille en rangeant la maison, en verrouillant les portes et en fermant les fenêtres laissées ouvertes quand il fait froid dehors.
+
+Quand une famille sur laquelle veille une dunagh s’éteint, la créature sombre dans une profonde déprime et reste dans le dernier lieu habité par ceux et celles sur lesquels elle veillait. Elle devient alors un esprit rancunier qui chasse quiconque tente de pénétrer ou de s’installer dans l’ancien foyer de ses protégés.
+
+Les dunaghs préfèrent fusionner avec leur pupille, mais quand elles apparaissent, elles prennent une apparence fantomatique proche de celles des personnes qu’elles protègent.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dunagh</fullName>
+</wikiPage>

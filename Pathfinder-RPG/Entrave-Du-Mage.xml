@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Entrave du mage</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-18 17:33:52Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.Vision aveugle (capacité)</link><link>Pathfinder-RPG.Vision magique</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Fixation (capacité)</link><link>Pathfinder-RPG.affaiblissement temporaire (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.Amphibie (capacité)</link><link>Pathfinder-RPG.Compression (capacité)</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Pouvoirs magiques (capacité)</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.Domination universelle</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Entrave du mage&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Aberration&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.115&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +0 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;Vision aveugle (Ext)&quot;&gt;vision aveugle&lt;/a&gt; &#224; 18 m, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Magique.html&quot; title=&quot;Vision magique&quot;&gt;vision magique&lt;/a&gt;&lt;/i&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 12, contact 12, pris au d&#233;pourvu 12 (taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 9 (2d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +0, &lt;b&gt;Vig&lt;/b&gt; +0, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; h&#244;te tampon ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux, maladie, poison ; &lt;b&gt;RM&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 1,50 m, nage 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +3 (1d4-3 plus &lt;a class=&quot;pagelink&quot; href=&quot;Fixation-(Capacit&#233;).html&quot; title=&quot;Fixation (Ext)&quot;&gt;fixation&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;Affaiblissement temporaire (Ext ou Sur)&quot;&gt;affaiblissement temporaire&lt;/a&gt; de 1d3 Sagesse)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 75 cm ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; marionnettiste
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Magique.html&quot; title=&quot;Vision magique&quot;&gt;vision magique&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 4, &lt;b&gt;Dex&lt;/b&gt; 11, &lt;b&gt;Con&lt;/b&gt; 11, &lt;b&gt;Int&lt;/b&gt; 12, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1 ; &lt;b&gt;BMO&lt;/b&gt; -1 (+7 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 6 (14 contre la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;, insensible au &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (myst&#232;res) +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +2, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aklo (incapable de parler) ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Amphibie-(Capacit&#233;).html&quot; title=&quot;Amphibie (Ext)&quot;&gt;amphibie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Compression-(Capacit&#233;).html&quot; title=&quot;Compression (Ext)&quot;&gt;compression&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; aquatique
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou infestation (3-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;treinte tenace (Ext).&lt;/b&gt; L’entrave du mage b&#233;n&#233;ficie d’un bonus de +8 aux tests de combat pour les manœuvres offensives de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt; et au &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Dmd.html&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt; contre les manœuvres offensives de lutte.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;H&#244;te tampon (Ext).&lt;/b&gt; L’entrave du mage qui a domin&#233; un h&#244;te peut se servir des &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; de ce dernier s’ils sont meilleurs que les siens.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Marionnettiste (Sur).&lt;/b&gt; Si l’entrave du mage est fix&#233;e sur une cr&#233;ature capable de lancer des sorts ou dot&#233;e de &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-Magiques-(Capacit&#233;).html&quot; title=&quot;Pouvoirs magiques (Mag)&quot;&gt;pouvoirs magiques&lt;/a&gt;, cette derni&#232;re doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 14, sans quoi elle est domin&#233;e (comme avec &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domination-Universelle.html&quot; title=&quot;Domination universelle&quot;&gt;domination universelle&lt;/a&gt;&lt;/i&gt;). La domination persiste tant que l’entrave reste en contact avec sa victime. Si la cible a droit &#224; un nouveau jet de sauvegarde contre l’effet de domination (comme indiqu&#233; dans la description du sort), elle n’accomplit pas l’action demand&#233;e si elle r&#233;ussit son jet mais cela ne met pas fin &#224; la domination. Le DD du jet de sauvegarde est bas&#233; sur l’Intelligence et comprend un bonus racial de +2.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette cr&#233;ature aux airs d’anguille a un corps &#233;pais et gras et une grande gueule circulaire garnie de petites dents pointues.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;L’entrave du mage est un parasite ressemblant &#224; une anguille au corps caoutchouteux couvert de veines fr&#233;missantes. Si l’entrave n’est pas fix&#233;e sur un h&#244;te, elle se montre l&#226;che et s’enfuit &#224; la premi&#232;re occasion. En revanche, si elle per&#231;oit la pr&#233;sence d’une cr&#233;ature capable de lancer des sorts ou d’utiliser des pouvoirs magiques, elle devient incroyablement agressive. Une fois qu’elle a &#233;tabli un contact physique avec une telle cr&#233;ature, elle tente de la dominer. Elle ne peut pas contr&#244;ler une cr&#233;ature incapable de lancer des sorts et ne s’y essaie jamais.&lt;br /&gt;&lt;br /&gt;Les entraves du magicien sont des cr&#233;atures intelligentes mais elles ne poss&#232;dent pas de soci&#233;t&#233; qui leur soit propre et, sans h&#244;te, elles se limitent &#224; des actions simples comme manger, s’accoupler ou dormir, comme n’importe quelle vermine d&#233;c&#233;r&#233;br&#233;e. Ce n’est que lorsqu’elles dominent un lanceur de sorts qu’elles d&#233;voilent leur plein potentiel. L’entrave du mage est dirig&#233;e par d’&#233;tranges d&#233;sirs et des pulsions &#233;nigmatiques qui obligent son h&#244;te &#224; accomplir diverses t&#226;ches qui n’ont aucun sens pour un observateur ext&#233;rieur. La plupart d’entre elles sont &#233;tranges mais inoffensives, comme recourir &#224; la magie pour voler l’argenterie d’un marchand ou r&#233;parer le toit d’un paysan. En revanche, il arrive que l’entrave oblige son h&#244;te &#224; commettre des actes violents, comme un meurtre, dans un but inconnu, bien que les victimes de ces agressions soient g&#233;n&#233;ralement des individus malveillants ou corrompus. Quoi qu’il en soit, les entraves du mage fix&#233;es sur un h&#244;te font montrent d’une &#233;trange curiosit&#233;, presque enfantine, vis-&#224;-vis de la soci&#233;t&#233; humano&#239;de, et seule la perspective de nouvelles d&#233;couvertes &#224; ce sujet peut les d&#233;tourner de leurs myst&#233;rieuses t&#226;ches.&lt;br /&gt;&lt;br /&gt;Les entraves du mage fix&#233;es sur des h&#244;tes se regroupent parfois pour former une soci&#233;t&#233;, comme une guilde de mages enti&#232;rement compos&#233;e de lanceurs de sorts domin&#233;s. Ces collectifs ont tendance &#224; travailler &#224; des fins tout aussi incompr&#233;hensibles (voire plus encore) que celles des entraves isol&#233;es. Ils peuvent par exemple passer une semaine &#224; nettoyer toutes les fontaines de la ville jusqu’&#224; ce qu’elles brillent ou construire un ob&#233;lisque creux fait de cuivre.&lt;br /&gt;&lt;br /&gt;Une entrave du mage mesure une trentaine centim&#232;tres de long pour un poids d’1 kilo environ.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Entrave de l’archimage&lt;a class=&quot;headeranchor&quot; id=&quot;Entrave_de_l’archimage_0&quot; href=&quot;#Entrave_de_l’archimage_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Parfois, une entrave du mage qui assimile suffisamment d’informations sur le vaste monde parvient &#224; d&#233;velopper une personnalit&#233; qu’elle conserve m&#234;me en l’absence de tout h&#244;te. Cette entrave de l’archimage est souvent moins destructrice et moins dangereuse que sa version moins &#233;volu&#233;e car elle est &#224; m&#234;me de comprendre qu’elle asservit l’esprit d’un autre &#234;tre vivant. Elle apprend g&#233;n&#233;ralement &#224; travailler de concert avec son h&#244;te plut&#244;t que d’en prendre le contr&#244;le total mais les entraves de l’archimage malveillantes repr&#233;sentent une v&#233;ritable menace. Cette cr&#233;ature &#233;volue par niveau de classe.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Entrave du mage|FP 1/2}
+{s:pucem|Aberration|Aquatique|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.115]]''}
+{s:BDTexte|'''PX''' 200}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille TP, N}
+{s:BDTexte|'''Init''' +0 ; '''Sens''' [[Vision aveugle (capacité)|vision aveugle]] à 18 m, ''[[vision magique]]'' ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 12, contact 12, pris au dépourvu 12 (taille +2)}
+{s:BDTexte|'''pv''' 9 (2d8)}
+{s:BDTexte|'''Réf''' +0, '''Vig''' +0, '''Vol''' +4}
+{s:BDTexte|'''Capacités défensives''' hôte tampon ; '''Immunités''' effets mentaux, maladie, poison ; '''RM''' 11}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 1,50 m, nage 9 m}
+{s:BDTexte|'''Corps à corps''' morsure, +3 (1d4-3 plus [[Fixation (capacité)|fixation]] et [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 Sagesse)}
+{s:BDTexte|'''Espace occupé''' 75 cm ; '''Allonge''' 0 m}
+{s:BDTexte|'''Attaques spéciales''' marionnettiste}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 5 ; [[concentration]] +1)}
+{s:BDSorts|Constant — ''[[vision magique]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 4, '''Dex''' 11, '''Con''' 11, '''Int''' 12, '''Sag''' 13, '''Cha''' 2}
+{s:BDTexte|'''BBA''' +1 ; '''BMO''' -1 (+7 en [[lutte]]) ; '''DMD''' 6 (14 contre la [[lutte]], insensible au [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Connaissances]] (mystères) +6, [[Discrétion]] +13, [[Escalade]] +2, [[Discrétion]] +13, [[Perception]] +6}
+{s:BDTexte|'''Langues''' aklo (incapable de parler) ; [[Télépathie (capacité)|télépathie]] 3 m}
+{s:BDTexte|'''Particularités''' [[Amphibie (capacité)|amphibie]], [[Compression (capacité)|compression]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' aquatique}
+{s:BDTexte|'''Organisation''' solitaire, couple ou infestation (3-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Étreinte tenace (Ext).''' L’entrave du mage bénéficie d’un bonus de +8 aux tests de combat pour les manœuvres offensives de [[lutte]] et au [[DMD]] contre les manœuvres offensives de lutte.}
+{s:BDTexte|'''Hôte tampon (Ext).''' L’entrave du mage qui a dominé un hôte peut se servir des [[jds|jets de sauvegarde]] de ce dernier s’ils sont meilleurs que les siens.}
+{s:BDTexte|'''Marionnettiste (Sur).''' Si l’entrave du mage est fixée sur une créature capable de lancer des sorts ou dotée de [[Pouvoirs magiques (capacité)|pouvoirs magiques]], cette dernière doit réussir un jet de [[Volonté]] DD 14, sans quoi elle est dominée (comme avec ''[[domination universelle]]''). La domination persiste tant que l’entrave reste en contact avec sa victime. Si la cible a droit à un nouveau jet de sauvegarde contre l’effet de domination (comme indiqué dans la description du sort), elle n’accomplit pas l’action demandée si elle réussit son jet mais cela ne met pas fin à la domination. Le DD du jet de sauvegarde est basé sur l’Intelligence et comprend un bonus racial de +2.}
+
+</div></td>
+<td><div>''Cette créature aux airs d’anguille a un corps épais et gras et une grande gueule circulaire garnie de petites dents pointues.''
+
+L’entrave du mage est un parasite ressemblant à une anguille au corps caoutchouteux couvert de veines frémissantes. Si l’entrave n’est pas fixée sur un hôte, elle se montre lâche et s’enfuit à la première occasion. En revanche, si elle perçoit la présence d’une créature capable de lancer des sorts ou d’utiliser des pouvoirs magiques, elle devient incroyablement agressive. Une fois qu’elle a établi un contact physique avec une telle créature, elle tente de la dominer. Elle ne peut pas contrôler une créature incapable de lancer des sorts et ne s’y essaie jamais.
+
+Les entraves du magicien sont des créatures intelligentes mais elles ne possèdent pas de société qui leur soit propre et, sans hôte, elles se limitent à des actions simples comme manger, s’accoupler ou dormir, comme n’importe quelle vermine décérébrée. Ce n’est que lorsqu’elles dominent un lanceur de sorts qu’elles dévoilent leur plein potentiel. L’entrave du mage est dirigée par d’étranges désirs et des pulsions énigmatiques qui obligent son hôte à accomplir diverses tâches qui n’ont aucun sens pour un observateur extérieur. La plupart d’entre elles sont étranges mais inoffensives, comme recourir à la magie pour voler l’argenterie d’un marchand ou réparer le toit d’un paysan. En revanche, il arrive que l’entrave oblige son hôte à commettre des actes violents, comme un meurtre, dans un but inconnu, bien que les victimes de ces agressions soient généralement des individus malveillants ou corrompus. Quoi qu’il en soit, les entraves du mage fixées sur un hôte font montrent d’une étrange curiosité, presque enfantine, vis-à-vis de la société humanoïde, et seule la perspective de nouvelles découvertes à ce sujet peut les détourner de leurs mystérieuses tâches.
+
+Les entraves du mage fixées sur des hôtes se regroupent parfois pour former une société, comme une guilde de mages entièrement composée de lanceurs de sorts dominés. Ces collectifs ont tendance à travailler à des fins tout aussi incompréhensibles (voire plus encore) que celles des entraves isolées. Ils peuvent par exemple passer une semaine à nettoyer toutes les fontaines de la ville jusqu’à ce qu’elles brillent ou construire un obélisque creux fait de cuivre.
+
+Une entrave du mage mesure une trentaine centimètres de long pour un poids d’1 kilo environ.
+
+====Entrave de l’archimage====
+Parfois, une entrave du mage qui assimile suffisamment d’informations sur le vaste monde parvient à développer une personnalité qu’elle conserve même en l’absence de tout hôte. Cette entrave de l’archimage est souvent moins destructrice et moins dangereuse que sa version moins évoluée car elle est à même de comprendre qu’elle asservit l’esprit d’un autre être vivant. Elle apprend généralement à travailler de concert avec son hôte plutôt que d’en prendre le contrôle total mais les entraves de l’archimage malveillantes représentent une véritable menace. Cette créature évolue par niveau de classe.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Entrave du mage</fullName>
+</wikiPage>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Familier, Trilobite</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-22 16:17:55Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Familiers</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Vermine</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Besoin deau (capacité)</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Familiers</link><link>Pathfinder-RPG.CA</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Trilobite&lt;div style=&quot;float:right;&quot;&gt;FP 1/4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Vermine&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Vermine.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.122&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 100
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Vermine.html&quot; title=&quot;Vermine&quot;&gt;Vermine&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille TP, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 9 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 15, contact 14, pris au d&#233;pourvu 13 (Dex +2, naturelle +1, taille +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 5 (1d8+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +2, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +0
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 6 m, nage 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +4 (1d3-2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 0,75 m ; &lt;b&gt;Allonge&lt;/b&gt; 0 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 7, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; —, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0 ; &lt;b&gt;BMO&lt;/b&gt; +0 ; &lt;b&gt;DMD&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +4 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Perception
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Besoin-Deau-(Capacit&#233;).html&quot; title=&quot;Besoin d&amp;#39;eau (Ext)&quot;&gt;besoin d&#39;eau&lt;/a&gt;, boule d&#233;fensive
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou groupe (2-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Boule d&#233;fensive (Ext).&lt;/b&gt; Par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un trilobite peut se rouler en boule, ce qui augmente son bonus d’armure naturelle de +2 mais l’emp&#234;che de faire des &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;actions de mouvement&lt;/a&gt;. Le trilobite peut se d&#233;rouler par une action simple.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Antiques arthropodes qui ratissent les fonds oc&#233;aniques pour se nourrir, les trilobites sont dot&#233;s d’une carapace solide et de sens aiguis&#233;s et adapt&#233;s aux environnements sous-marins d&#233;nu&#233;s de lumi&#232;re. Ils sont connus pour leur capacit&#233; &#224; se mettre en boule pour se prot&#233;ger.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les trilobites peuvent servir de &lt;a class=&quot;pagelink&quot; href=&quot;Familiers.html&quot; title=&quot;Les familiers&quot;&gt;familier&lt;/a&gt; aux lanceurs de sort. Un familier trilobite offre &#224; son ma&#238;tre un bonus d&#39;armure naturelle de +1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Trilobite|FP 1/4}
+{s:pucem|Vermine|Aquatique|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.122]]''}
+{s:BDTexte|'''PX''' 100}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille TP, N}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 9 m ; [[Perception]] +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 14, pris au dépourvu 13 (Dex +2, naturelle +1, taille +2)}
+{s:BDTexte|'''pv''' 5 (1d8+1)}
+{s:BDTexte|'''Réf''' +2, '''Vig''' +3, '''Vol''' +0}
+{s:BDTexte|'''Immunités''' effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 6 m, nage 9 m}
+{s:BDTexte|'''Corps à corps''' morsure, +4 (1d3-2)}
+{s:BDTexte|'''Espace occupé''' 0,75 m ; '''Allonge''' 0 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 7, '''Dex''' 15, '''Con''' 12, '''Int''' —, '''Sag''' 11, '''Cha''' 2}
+{s:BDTexte|'''BBA''' +0 ; '''BMO''' +0 ; '''DMD''' 8}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]<sup>S</sup>}
+{s:BDTexte|'''Compétences''' [[Natation]] +10, [[Perception]] +4 ; '''Modificateurs raciaux''' +4 en Perception}
+{s:BDTexte|'''Particularités''' [[Besoin deau (capacité)|besoin d'eau]], boule défensive}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans}
+{s:BDTexte|'''Organisation''' solitaire, couple ou groupe (2-12)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Boule défensive (Ext).''' Par une [[action simple]], un trilobite peut se rouler en boule, ce qui augmente son bonus d’armure naturelle de +2 mais l’empêche de faire des [[action de mouvement|actions de mouvement]]. Le trilobite peut se dérouler par une action simple.}
+
+</div></td>
+<td><div>''Antiques arthropodes qui ratissent les fonds océaniques pour se nourrir, les trilobites sont dotés d’une carapace solide et de sens aiguisés et adaptés aux environnements sous-marins dénués de lumière. Ils sont connus pour leur capacité à se mettre en boule pour se protéger.''
+
+Les trilobites peuvent servir de [[Familiers|familier]] aux lanceurs de sort. Un familier trilobite offre à son maître un bonus d'armure naturelle de +1 à la [[CA]].
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Trilobite</fullName>
+</wikiPage>

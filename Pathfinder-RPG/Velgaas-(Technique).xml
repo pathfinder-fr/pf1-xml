@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les esprits dans le noir</title>
+  <categories><category>Pathfinder-RPG.Divinité</category><category>Pathfinder-RPG.Src Book of the Damned</category></categories>
+  <lastModified>2023-03-24 16:42:35Z</lastModified>
+  <version>2</version>
+  <inLinks><link>Pathfinder-RPG.Livre des damnés 2 (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.chaîne cloutée (arme)</link><link>Pathfinder-RPG.Domaine du Charme</link><link>Pathfinder-RPG.Domaine de la Connaissance</link><link>Pathfinder-RPG.Domaine du Mal</link><link>Pathfinder-RPG.Domaine du Vide</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Sahkil</link><link>Pathfinder-RPG.FP</link><link>Pathfinder-RPG.Pouvoirs magiques (capacité)</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.Effacement de lesprit</link><link>Pathfinder-RPG.Suggestion de groupe</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot; &quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt; &lt;/i&gt;&quot;); }
+  let align = &quot;Chaotique Mauvais&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Les esprits dans le noir&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/ &quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#BOURREAUXSAHKILS&quot; title=&quot;Les divinit&#233;s&quot;&gt;Bourreaux sahkils&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Chaotique Mauvais&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Manipulation &#233;motionnelle, vide, ignorance
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;N&#39;importe&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Aucun
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cha&#238;ne-Clout&#233;e-(Arme).html&quot; title=&quot;Cha&#238;ne clout&#233;e&quot;&gt;Cha&#238;ne clout&#233;e&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Charme.html&quot; title=&quot;Domaine du Charme&quot;&gt;Charme&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Connaissance.html&quot; title=&quot;Domaine de la Connaissance&quot;&gt;Connaissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Vide.html&quot; title=&quot;Domaine du Vide&quot;&gt;Vide&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Corruption&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Connaissance.html&quot; title=&quot;Domaine de la Connaissance&quot;&gt;M&#233;moire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Connaissance.html&quot; title=&quot;Domaine de la Connaissance&quot;&gt;Pens&#233;e&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Peur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Sahkils&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;unknownlink&quot; href=&quot;../Golarion/Velgaas.html&quot; title=&quot;Golarion.Velgaas&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;a href=&quot;/Wiki/Pathfinder-RPG.Livre des Damn&#233;s 2 (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Book of the Damned/Livre des damn&#233;s&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoBD.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Ob&#233;dience&lt;a class=&quot;headeranchor&quot; id=&quot;Ob&#233;dience_1&quot; href=&quot;#Ob&#233;dience_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Convaincre quelqu&#39;un d&#39;accomplir un acte humiliant. Gain d&#39;un bonus de malfaisance de +4 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Faveurs (Bourreaux sahkils)&lt;a class=&quot;headeranchor&quot; id=&quot;Faveurs_Bourreaux_sahkils_0&quot; href=&quot;#Faveurs_Bourreaux_sahkils_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les bourreaux &lt;a class=&quot;pagelink&quot; href=&quot;Sahkil.html&quot; title=&quot;Les sahkils&quot;&gt;sahkils&lt;/a&gt; dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de &lt;a class=&quot;pagelink&quot; href=&quot;Rencontres#Fp.html&quot; title=&quot;FP&quot;&gt;FP&lt;/a&gt; 21 &#224; FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fi&#233;lons, se manifestant par des &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-Magiques-(Capacit&#233;).html&quot; title=&quot;Pouvoirs magiques (Mag)&quot;&gt;pouvoirs magiques&lt;/a&gt; utilisables deux fois par jour chacun.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;1.&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;2.&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Effacement-De-Lesprit.html&quot; title=&quot;Effacement de l&amp;#39;esprit&quot;&gt;effacement de l&#39;esprit&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;3.&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Suggestion-De-Groupe.html&quot; title=&quot;Suggestion de groupe&quot;&gt;suggestion de groupe&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Velgaas|Les esprits dans le noir| |[[Divinités#BOURREAUXSAHKILS|Bourreaux sahkils]]
+|Chaotique Mauvais|Manipulation émotionnelle, vide, ignorance
+|N'importe|Aucun
+|[[Chaîne cloutée (arme)|Chaîne cloutée]]
+|[[Domaine du Charme|Charme]], [[Domaine de la Connaissance|Connaissance]], [[Domaine du Mal|Mal]], [[Domaine du Vide|Vide]]
+|[[Domaine du Mal|Corruption]], [[Domaine de la Connaissance|Mémoire]], [[Domaine de la Connaissance|Pensée]], [[Domaine du Mal|Peur]], [[Domaine du Mal|Sahkils]]
+|—}
+{s:cs}{s:BotD}
+===Obédience===
+Convaincre quelqu'un d'accomplir un acte humiliant. Gain d'un bonus de malfaisance de +4 aux tests de [[Bluff]].
+
+====Faveurs (Bourreaux sahkils)====
+Les bourreaux [[Sahkil|sahkils]] dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
+* '''1.''' ''[[détection de pensées]]''
+* '''2.''' ''[[effacement de lesprit|effacement de l'esprit]]''
+* '''3.''' ''[[suggestion de groupe]]''
+]]></raw>
+  <fullName>Pathfinder-RPG.Velgaas (technique)</fullName>
+</wikiPage>

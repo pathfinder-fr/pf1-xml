@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dragon épineux</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src La mer Intérieure</category></categories>
+  <lastModified>2024-01-06 15:44:44Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.La Mer Intérieure (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.Vision aveugle (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Croissance dépines</link><link>Pathfinder-RPG.Pierres acérées</link><link>Pathfinder-RPG.Télékinésie</link><link>Pathfinder-RPG.Mur de force</link><link>Pathfinder-RPG.Sphère téléguidée</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Coup fabuleux</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Tir à bout portant</link><link>Pathfinder-RPG.Tir de précision</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Estimation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Assourdi</link><link>Pathfinder-RPG.Constitution</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Dragon &#233;pineux&lt;div style=&quot;float:right;&quot;&gt;FP 16&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Dragon&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : La mer Int&#233;rieure p.311&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 76 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Dragon.html&quot; title=&quot;Dragon&quot;&gt;Dragon&lt;/a&gt; (terre) de taille Gig, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +2 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Aveugle-(Capacit&#233;).html&quot; title=&quot;Vision aveugle (Ext)&quot;&gt;vision aveugle&lt;/a&gt; &#224; 9 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 36 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +25
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 31, contact 9, pris au d&#233;pourvu 28 (+2 Dex, +1 esquive, +22 naturelle, -4 taille)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 248 (16d12+144)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +12, &lt;b&gt;Vig&lt;/b&gt; +19, &lt;b&gt;Vol&lt;/b&gt; +16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; d&#233;tournement de rayon, &#233;pines ; &lt;b&gt;RD&lt;/b&gt; 10/ adamantium ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; effets de sommeil, paralysie, son ; &lt;b&gt;R&#233;sistances&lt;/b&gt; &#233;lectricit&#233; 20, feu 20, froid 20 ; &lt;b&gt;RM&lt;/b&gt; 27
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +23 (2d8-11), griffes, +23 (2d6+11), queue, +18 (2d8+16)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; 4 &#233;pines, +14 (2d8+11)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 6 m ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &#233;pines, souffle
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 16 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +20)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Croissance-D&#233;pines.html&quot; title=&quot;Croissance d&amp;#39;&#233;pines&quot;&gt;croissance d&#39;&#233;pines&lt;/a&gt;&lt;/i&gt; (DD 17), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pierres-Ac&#233;r&#233;es.html&quot; title=&quot;Pierres ac&#233;r&#233;es&quot;&gt;pierres ac&#233;r&#233;es&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;kin&#233;sie.html&quot; title=&quot;T&#233;l&#233;kin&#233;sie&quot;&gt;t&#233;l&#233;kin&#233;sie&lt;/a&gt;&lt;/i&gt; (DD19)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Force.html&quot; title=&quot;Mur de force&quot;&gt;mur de force&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sph&#232;re-T&#233;l&#233;guid&#233;e.html&quot; title=&quot;Sph&#232;re t&#233;l&#233;guid&#233;e&quot;&gt;sph&#232;re t&#233;l&#233;guid&#233;e&lt;/a&gt;&lt;/i&gt; (DD 22)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 32, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 29, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 22, &lt;b&gt;Cha&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +16 ; &lt;b&gt;BMO&lt;/b&gt; +31 ; &lt;b&gt;DMD&lt;/b&gt; 44
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, Attaque r&#233;flexe, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-Fabuleux.html&quot; title=&quot;Coup fabuleux&quot;&gt;Coup fabuleux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-&#192;-Bout-Portant.html&quot; title=&quot;Tir &#224; bout portant&quot;&gt;Tir &#224; bout portant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tir-De-Pr&#233;cision.html&quot; title=&quot;Tir de pr&#233;cision&quot;&gt;Tir de pr&#233;cision&lt;/a&gt;,
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +23, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (ing&#233;nierie) +22, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (nature) +22, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Estimation.html&quot; title=&quot;Estimation&quot;&gt;Estimation&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +25, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +15,
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, draconique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; collines temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;tournement de rayon (Sur).&lt;/b&gt; Les &#233;cailles du dragon &#233;pineux d&#233;tournent les rayons et les sorts du type projectiles magiques, ce qui immunise la b&#234;te contre ces effets. Il y a 30% de chances qu’un effet d&#233;tourn&#233; reparte &#224; pleine puissance en direction de son lanceur, sinon, l’effet est simplement annul&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;pines (Ext).&lt;/b&gt; Le corps du dragon &#233;pineux est recouvert de longues &#233;pines cristallines. Chaque &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;, il peut en projeter jusqu’&#224; quatre (une seule pour une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;). Toute cr&#233;ature qui attaque un dragon &#233;pineux avec une arme de corps &#224; corps, ses mains nues ou une arme naturelle doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 ou subir 2d8+11 points de d&#233;g&#226;ts perforants &#224; cause des &#233;pines. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dext&#233;rit&#233;&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Souffle (Ext).&lt;/b&gt; Une fois tous les 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un dragon &#233;pineux peut pousser un hurlement d&#233;vastateur qui d&#233;gage une puissante &#233;nergie sonore et ce, dans un c&#244;ne de 18 m&#232;tres. Les cr&#233;atures prises dans la zone re&#231;oivent 20d6 points de d&#233;g&#226;ts sonores et deviennent d&#233;finitivement &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Assourdi.html&quot; title=&quot;Assourdi&quot;&gt;sourdes&lt;/a&gt;. Un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;R&#233;flexes&quot;&gt;R&#233;flexes&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 27 permet de r&#233;duire les d&#233;g&#226;ts de moiti&#233; et d’annuler la surdit&#233;. Ces d&#233;g&#226;ts sonores ont un effet particuli&#232;rement d&#233;vastateur sur les cr&#233;atures artificielles qui subissent un malus de -4 au &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt;. Si elles le ratent, elles sont aussi &#233;tourdies pour 1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Ce dragon poss&#232;de une v&#233;ritable for&#234;t d’&#233;pines de cristal et des ailes transparentes qui semblent presque faites de verre.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les dragons &#233;pineux sont particuli&#232;rement c&#233;l&#232;bres dans les &#233;tendues d&#233;sol&#233;es de Num&#233;rie. Ils ressemblent aux v&#233;ritables dragons mais n’&#233;voluent pas selon les m&#234;mes cat&#233;gories d’&#226;ge. Leurs aptitudes et leurs d&#233;fenses particuli&#232;res leur sont d’un grand secours pour faire face aux menaces &#233;trang&#232;res et aux &#233;tranges cr&#233;atures artificielles qui r&#244;dent dans ce pays, c’est pourquoi ils font partie des pr&#233;dateurs les plus prosp&#232;res de Num&#233;rie.&lt;br /&gt;&lt;br /&gt;Bien s&#251;r, les dragons &#233;pineux sont plus qu’un simple pr&#233;dateur. Comme beaucoup de v&#233;ritables dragons, ils sont extr&#234;mement vaniteux et aiment que l’on s’aplatisse devant eux. Il leur arrive de jouer le r&#244;le de dieux vivants aupr&#232;s de tribus de g&#233;ants. Ils appr&#233;cient tout particuli&#232;rement les tr&#233;sors cristallins et les objets magiques. Le tr&#233;sor classique d’un dragon &#233;pineux ne comporte pas beaucoup de pi&#232;ces d’or mais au total, il vaut aussi cher que celui d’un v&#233;ritable dragon.&lt;br /&gt;&lt;br /&gt;Un dragon &#233;pineux mesure 18 m&#232;tres de long et 6 m&#232;tres de haut pour 8 tonnes.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon épineux|FP 16}
+{s:pucem|Dragon|Collines|Tempéré}
+{s:BDTexte|''Source : La mer Intérieure p.311''}
+{s:BDTexte|'''PX''' 76 800}
+{s:BDTexte|[[type Dragon|Dragon]] (terre) de taille Gig, CN}
+{s:BDTexte|'''Init''' +2 ; '''Sens''' [[Vision aveugle (capacité)|vision aveugle]] à 9 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 36 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +25}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 31, contact 9, pris au dépourvu 28 (+2 Dex, +1 esquive, +22 naturelle, -4 taille)}
+{s:BDTexte|'''pv''' 248 (16d12+144)}
+{s:BDTexte|'''Réf''' +12, '''Vig''' +19, '''Vol''' +16}
+{s:BDTexte|'''Capacités défensives''' détournement de rayon, épines ; '''RD''' 10/ adamantium ; '''Immunités''' effets de sommeil, paralysie, son ; '''Résistances''' électricité 20, feu 20, froid 20 ; '''RM''' 27}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m}
+{s:BDTexte|'''Corps à corps''' morsure, +23 (2d8-11), griffes, +23 (2d6+11), queue, +18 (2d8+16)}
+{s:BDTexte|'''Distance''' 4 épines, +14 (2d8+11)}
+{s:BDTexte|'''Espace occupé''' 6 m ; '''Allonge''' 4,50 m}
+{s:BDTexte|'''Attaques spéciales''' épines, souffle}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 16 ; [[concentration]] +20)}
+{s:BDSorts|3/jour — ''[[croissance dépines|croissance d'épines]]'' (DD 17), ''[[pierres acérées]]'' (DD 18), ''[[télékinésie]]'' (DD19)}
+{s:BDSorts|1/jour — ''[[mur de force]]'', ''[[sphère téléguidée]]'' (DD 22)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 32, '''Dex''' 15, '''Con''' 29, '''Int''' 16, '''Sag''' 22, '''Cha''' 19}
+{s:BDTexte|'''BBA''' +16 ; '''BMO''' +31 ; '''DMD''' 44}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], Attaque réflexe, [[Coup fabuleux]], [[Esquive]], [[Frappe décisive]], [[Science de la bousculade]], [[Tir à bout portant]], [[Tir de précision]],}
+{s:BDTexte|'''Compétences''' [[Bluff]] +23, [[Connaissances]] (ingénierie) +22, [[Connaissances]] (nature) +22, [[Discrétion]] +9, [[Estimation]] +22, [[Perception]] +25, [[Psychologie]] +25, [[Vol]] +15,}
+{s:BDTexte|'''Langues''' commun, draconique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' collines tempérées}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' triple}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Détournement de rayon (Sur).''' Les écailles du dragon épineux détournent les rayons et les sorts du type projectiles magiques, ce qui immunise la bête contre ces effets. Il y a 30% de chances qu’un effet détourné reparte à pleine puissance en direction de son lanceur, sinon, l’effet est simplement annulé.}
+{s:BDTexte|'''Épines (Ext).''' Le corps du dragon épineux est recouvert de longues épines cristallines. Chaque [[round]], par une [[action complexe]], il peut en projeter jusqu’à quatre (une seule pour une [[action simple]]). Toute créature qui attaque un dragon épineux avec une arme de corps à corps, ses mains nues ou une arme naturelle doit réussir un jet de [[Réflexes]] [[DD]] 20 ou subir 2d8+11 points de dégâts perforants à cause des épines. Le [[DD]] du [[jds|jet de sauvegarde]] est basé sur la [[Dextérité]].}
+{s:BDTexte|'''Souffle (Ext).''' Une fois tous les 1d4 [[round|rounds]], par une [[action simple]], un dragon épineux peut pousser un hurlement dévastateur qui dégage une puissante énergie sonore et ce, dans un cône de 18 mètres. Les créatures prises dans la zone reçoivent 20d6 points de dégâts sonores et deviennent définitivement [[assourdi|sourdes]]. Un jet de [[Réflexes]] [[DD]] 27 permet de réduire les dégâts de moitié et d’annuler la surdité. Ces dégâts sonores ont un effet particulièrement dévastateur sur les créatures artificielles qui subissent un malus de -4 au [[jds|jet de sauvegarde]]. Si elles le ratent, elles sont aussi étourdies pour 1d4 [[round|rounds]]. Le [[DD]] du [[jds|jet de sauvegarde]] est basé sur la [[Constitution]].}
+</div></td>
+<td><div>''Ce dragon possède une véritable forêt d’épines de cristal et des ailes transparentes qui semblent presque faites de verre.''
+
+Les dragons épineux sont particulièrement célèbres dans les étendues désolées de Numérie. Ils ressemblent aux véritables dragons mais n’évoluent pas selon les mêmes catégories d’âge. Leurs aptitudes et leurs défenses particulières leur sont d’un grand secours pour faire face aux menaces étrangères et aux étranges créatures artificielles qui rôdent dans ce pays, c’est pourquoi ils font partie des prédateurs les plus prospères de Numérie.
+
+Bien sûr, les dragons épineux sont plus qu’un simple prédateur. Comme beaucoup de véritables dragons, ils sont extrêmement vaniteux et aiment que l’on s’aplatisse devant eux. Il leur arrive de jouer le rôle de dieux vivants auprès de tribus de géants. Ils apprécient tout particulièrement les trésors cristallins et les objets magiques. Le trésor classique d’un dragon épineux ne comporte pas beaucoup de pièces d’or mais au total, il vaut aussi cher que celui d’un véritable dragon.
+
+Un dragon épineux mesure 18 mètres de long et 6 mètres de haut pour 8 tonnes.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Dragon épineux</fullName>
+</wikiPage>

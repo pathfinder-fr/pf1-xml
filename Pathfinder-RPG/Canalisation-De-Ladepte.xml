@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Canalisation de l'adepte</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2020-07-29 18:35:52Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Adepte</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Cha</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.orque (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Orque (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Certains adeptes orques b&#233;n&#233;ficient d’un lien privil&#233;gi&#233; avec leurs dieux et peuvent canaliser leur pouvoir divin &#224; travers leurs symboles maudits. Le personnage gagne l’aptitude de canalisation d’&#233;nergie similaire &#224; celle du pr&#234;tre.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; Capacit&#233; &#224; lancer des sorts divins, aptitude de classe de &lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html#FAMILIER&quot; title=&quot;L&amp;#39;adepte&quot;&gt;convocation de familier&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; de 4, &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Cha&quot;&gt;Cha&lt;/a&gt; 13&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Le personnage gagne l’aptitude de classe de &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html#CANALISATIONDENERGIE&quot; title=&quot;Le pr&#234;tre&quot;&gt;canalisation d’&#233;nergie&lt;/a&gt;, comme un &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;, et peut l’utiliser deux fois par jour. Cette aptitude fonctionne comme l’aptitude de canalisation d’&#233;nergie du pr&#234;tre, except&#233; que le niveau de pr&#234;tre effectif du personnage est &#233;gal &#224; son niveau de classe de lanceur de sorts divins -3. Cependant, &#224; la diff&#233;rence d’un pr&#234;tre, le nombre d’utilisations par jour de l’aptitude de canalisation d’&#233;nergie n’est pas modifi&#233; par le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt; du personnage.
+]]></body>
+  <raw><![CDATA[{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:mr}''Certains adeptes orques bénéficient d’un lien privilégié avec leurs dieux et peuvent canaliser leur pouvoir divin à travers leurs symboles maudits. Le personnage gagne l’aptitude de canalisation d’énergie similaire à celle du prêtre.''
+
+'''Conditions.''' Capacité à lancer des sorts divins, aptitude de classe de [[Adepte#FAMILIER|convocation de familier]], [[NLS|niveau de lanceur de sorts]] de 4, [[Cha]] 13
+
+'''Avantage.''' Le personnage gagne l’aptitude de classe de [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]], comme un [[prêtre]], et peut l’utiliser deux fois par jour. Cette aptitude fonctionne comme l’aptitude de canalisation d’énergie du prêtre, excepté que le niveau de prêtre effectif du personnage est égal à son niveau de classe de lanceur de sorts divins -3. Cependant, à la différence d’un prêtre, le nombre d’utilisations par jour de l’aptitude de canalisation d’énergie n’est pas modifié par le modificateur de [[Charisme]] du personnage.]]></raw>
+  <fullName>Pathfinder-RPG.Canalisation de ladepte</fullName>
+</wikiPage>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Huiles apaisantes</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Dieux et magie</category></categories>
+  <lastModified>2023-07-28 15:56:51Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Dieux et magie (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Objets merveilleux</link><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Vents</link><link>Pathfinder-RPG.Contrôle du climat</link><link>Pathfinder-RPG.Tourbillon</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.Gozreh (technique)</link><link>Pathfinder-RPG.Respiration aquatique</link><link>Pathfinder-RPG.Préparation de potions</link><link>Pathfinder-RPG.Mur de vent</link><link>Pathfinder-RPG.Gozreh (technique)</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right&quot;&gt;&lt;b&gt;&lt;i&gt;Retour aux &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux.html&quot; title=&quot;Les Objets merveilleux&quot;&gt;objets merveilleux&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;  
+&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fGozreh.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gozreh (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fGozreh.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Gozreh-(Technique).html&quot; title=&quot;Gozreh&quot;&gt;Gozreh&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Huiles apaisantes&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 5 ; &lt;b&gt;Emplacement&lt;/b&gt; aucun ; &lt;b&gt;Prix&lt;/b&gt; 1 000 po ; &lt;b&gt;Poids&lt;/b&gt; —
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Une fiole d’&lt;i&gt;huiles apaisantes&lt;/i&gt; aide &#224; diminuer la houle et la fureur des grandes temp&#234;tes, r&#233;duisant les vents (et les vagues dangereuses qu’ils cr&#233;ent) d’un &lt;a class=&quot;pagelink&quot; href=&quot;Climat#Vents_4.html&quot; title=&quot;Les vents&quot;&gt;degr&#233;&lt;/a&gt; dans un rayon de 15 m&#232;tres. Ce rayon se mesure depuis la personne ou le pont du bateau sur lequel elle est vers&#233;e, et se d&#233;place avec la cr&#233;ature ou la surface ointe si celle-ci est en mouvement (comme un bateau qui navigue). Si un sort influen&#231;ant le vent, comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Contr&#244;le-Du-Climat.html&quot; title=&quot;Contr&#244;le du climat&quot;&gt;contr&#244;le du climat&lt;/a&gt;&lt;/i&gt; ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tourbillon-(Capacit&#233;).html&quot; title=&quot;Tourbillon&quot;&gt;tourbillon&lt;/a&gt;&lt;/i&gt;, affecte une zone sous l’effet des &lt;i&gt;huiles apaisantes&lt;/i&gt;, le lanceur du sort doit faire un test de &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;niveau de lanceur de sorts&lt;/a&gt; en opposition au &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; de la potion. En cas d’&#233;chec, le sort cesse imm&#233;diatement de produire ses effets. Le b&#233;n&#233;fice de l’huile dure pendant 1 heure, apr&#232;s quoi le temps revient &#224; la normale.&lt;br /&gt;&lt;br /&gt;Si &lt;a class=&quot;pagelink&quot; href=&quot;Gozreh-(Technique).html&quot; title=&quot;Gozreh&quot;&gt;Gozreh&lt;/a&gt; est la divinit&#233; tut&#233;laire du personnage, il peut boire la potion et b&#233;n&#233;ficier d&#39;une &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Respiration-Aquatique.html&quot; title=&quot;Respiration aquatique&quot;&gt;respiration aquatique&lt;/a&gt;&lt;/i&gt; pendant 1 heure.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;paration-De-Potions.html&quot; title=&quot;Pr&#233;paration de potions&quot;&gt;Pr&#233;paration de potions&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Respiration-Aquatique.html&quot; title=&quot;Respiration aquatique&quot;&gt;respiration aquatique&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur-De-Vent.html&quot; title=&quot;Mur de vent&quot;&gt;mur de vent&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 500 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[<div style="float:right">'''''Retour aux [[objets merveilleux]].'''''  
+{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}</div><div class="BD">
+{s:BDTitre|Huiles apaisantes|{s:GeM}}
+'''Aura''' [[Abjuration]] faible ; '''NLS''' 5 ; '''Emplacement''' aucun ; '''Prix''' 1 000 po ; '''Poids''' —
+(((Description)))
+Une fiole d’''huiles apaisantes'' aide à diminuer la houle et la fureur des grandes tempêtes, réduisant les vents (et les vagues dangereuses qu’ils créent) d’un [[Vents|degré]] dans un rayon de 15 mètres. Ce rayon se mesure depuis la personne ou le pont du bateau sur lequel elle est versée, et se déplace avec la créature ou la surface ointe si celle-ci est en mouvement (comme un bateau qui navigue). Si un sort influençant le vent, comme ''[[contrôle du climat]]'' ou ''[[tourbillon]]'', affecte une zone sous l’effet des ''huiles apaisantes'', le lanceur du sort doit faire un test de [[NLS|niveau de lanceur de sorts]] en opposition au [[NLS]] de la potion. En cas d’échec, le sort cesse immédiatement de produire ses effets. Le bénéfice de l’huile dure pendant 1 heure, après quoi le temps revient à la normale.
+
+Si [[Gozreh (technique)|Gozreh]] est la divinité tutélaire du personnage, il peut boire la potion et bénéficier d'une ''[[respiration aquatique]]'' pendant 1 heure.
+(((Fabrication)))
+'''Conditions''' [[Préparation de potions]], ''[[respiration aquatique]]'', ''[[mur de vent]]'' ; '''Coût''' 500 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Huiles apaisantes</fullName>
+</wikiPage>

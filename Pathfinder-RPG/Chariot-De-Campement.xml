@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chariot de campement</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-06-13 20:42:25Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Abadar (technique)</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Chariot (objet)</link><link>Pathfinder-RPG.solidité</link><link>Pathfinder-RPG.Résistance (capacité)</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Fabrication</link><link>Pathfinder-RPG.Artisanat</link><link>Pathfinder-RPG.Abadar (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fAbadar.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Abadar (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fAbadar.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Abadar-(Technique).html&quot; title=&quot;Abadar&quot;&gt;Abadar&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chariot de campement&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 6 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po ; &lt;b&gt;Poids&lt;/b&gt; 1 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+L&#39;&#233;glise d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Abadar-(Technique).html&quot; title=&quot;Abadar&quot;&gt;Abadar&lt;/a&gt; a cr&#233;&#233; les premiers &lt;i&gt;chariots de campement&lt;/i&gt; pour prot&#233;ger les marchandises de valeur lors de leur transport entre les villes. Lorsqu&#39;il est inactif, un &lt;i&gt;chariot de campement&lt;/i&gt; ressemble &#224; un jouet en bois sculpt&#233; de 30 centim&#232;tres de long, 15 centim&#232;tres de large et 15 centim&#232;tres de haut. Sur commande, le jouet se transforme en un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; en un &lt;a class=&quot;pagelink&quot; href=&quot;Chariot-(Objet).html&quot; title=&quot;Chariot&quot;&gt;chariot interm&#233;diaire&lt;/a&gt; &#224; toit ouvert. Un deuxi&#232;me mot de commande cr&#233;e un toit en toile soutenu par un solide cadre en bois au-dessus du chariot.&lt;br /&gt;&lt;br /&gt;Un troisi&#232;me mot de commande fait s&#39;&#233;tendre des panneaux de bois vers le bas et vers l&#39;ext&#233;rieur du chariot, formant une plateforme stable en bois qui s&#39;&#233;tend sur 1,5 m&#232;tres dans toutes les directions &#224; partir de la base du chariot, et sur laquelle on peut marcher, s&#39;asseoir, se tenir debout ou dormir. Une porte coulissante en bois dans le panneau arri&#232;re permet d&#39;acc&#233;der &#224; l&#39;espace sous le chariot. En pronon&#231;ant &#224; nouveau le mot de commande, ces panneaux se r&#233;tractent dans le chariot. Un quatri&#232;me mot de commande redonne au chariot sa forme de jouet ; tous les objets qui se trouvent sur ou dans le chariot sont soigneusement plac&#233;s sur le sol autour du jouet.&lt;br /&gt;&lt;br /&gt;Un &lt;i&gt;chariot de campement&lt;/i&gt; ne peut pas se transformer s&#39;il n&#39;y a pas assez d&#39;espace libre pour qu&#39;il puisse l&#39;occuper en taille r&#233;elle. Quelle que soit leur forme, les parties en bois de cet objet ont une &lt;a class=&quot;pagelink&quot; href=&quot;Exploration#Solidite.html&quot; title=&quot;solidit&#233;&quot;&gt;solidit&#233;&lt;/a&gt; de 8, les parties en toile ont une solidit&#233; de 2 et l&#39;objet entier a une &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-(Capacit&#233;).html&quot; title=&quot;R&#233;sistance (aux &#233;nergies destructrices) (Ext)&quot;&gt;r&#233;sistance&lt;/a&gt; au feu de 5.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fabrication.html&quot; title=&quot;Fabrication&quot;&gt;fabrication&lt;/a&gt;&lt;/i&gt;, le cr&#233;ateur doit avoir 2 rangs en &lt;a class=&quot;pagelink&quot; href=&quot;Artisanat.html&quot; title=&quot;Artisanat&quot;&gt;Artisanat&lt;/a&gt; (menuiserie) ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Abadar|%2fPCUP%2fReligion-PNG%2fAbadar.png}<div class="BD">
+{s:BDTitre|Chariot de campement|{s:ISG}}
+'''Aura''' [[Transmutation]] modérée ; '''NLS''' 6 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 3 000 po ; '''Poids''' 1 kg
+(((Description)))
+{s:cs}L'église d'[[Abadar (technique)|Abadar]] a créé les premiers ''chariots de campement'' pour protéger les marchandises de valeur lors de leur transport entre les villes. Lorsqu'il est inactif, un ''chariot de campement'' ressemble à un jouet en bois sculpté de 30 centimètres de long, 15 centimètres de large et 15 centimètres de haut. Sur commande, le jouet se transforme en un [[round]] en un [[Chariot (objet)|chariot intermédiaire]] à toit ouvert. Un deuxième mot de commande crée un toit en toile soutenu par un solide cadre en bois au-dessus du chariot.
+
+Un troisième mot de commande fait s'étendre des panneaux de bois vers le bas et vers l'extérieur du chariot, formant une plateforme stable en bois qui s'étend sur 1,5 mètres dans toutes les directions à partir de la base du chariot, et sur laquelle on peut marcher, s'asseoir, se tenir debout ou dormir. Une porte coulissante en bois dans le panneau arrière permet d'accéder à l'espace sous le chariot. En prononçant à nouveau le mot de commande, ces panneaux se rétractent dans le chariot. Un quatrième mot de commande redonne au chariot sa forme de jouet ; tous les objets qui se trouvent sur ou dans le chariot sont soigneusement placés sur le sol autour du jouet.
+
+Un ''chariot de campement'' ne peut pas se transformer s'il n'y a pas assez d'espace libre pour qu'il puisse l'occuper en taille réelle. Quelle que soit leur forme, les parties en bois de cet objet ont une [[solidité]] de 8, les parties en toile ont une solidité de 2 et l'objet entier a une [[Résistance (capacité)|résistance]] au feu de 5.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[fabrication]]'', le créateur doit avoir 2 rangs en [[Artisanat]] (menuiserie) ; '''Coût''' 1 500 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Chariot de campement</fullName>
+</wikiPage>

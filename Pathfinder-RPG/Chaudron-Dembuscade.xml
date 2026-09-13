@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chaudron d'embuscade</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2024-06-16 19:16:09Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.Temp-codex monstrueux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Nauséeux</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.passage sans trace</link><link>Pathfinder-RPG.orque (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Orque (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chaudron d&#39;embuscade&lt;div style=&quot;float:right;&quot;&gt;&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 12 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 28 000 po ; &lt;b&gt;Poids&lt;/b&gt; 30 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cet &#233;norme chaudron couvert de suie est dot&#233; de deux paires d’anneaux align&#233;s sur chacun des bords oppos&#233;s. Il est possible de glisser de longs b&#226;tons &#224; l’int&#233;rieur de ces anneaux afin que deux porteurs puissent soulever et transporter le chaudron. L’int&#233;rieur de cet &#233;norme chaudron est couvert de r&#233;sidus de cuisson &#224; l’odeur infecte en plus d’&#234;tre tout gras. Une fois par jour, une horde maximale de cent orques peut consommer une soupe &#233;paisse ou du gruau pr&#233;par&#233; dans le chaudron. La substance consomm&#233;e rend les orques instinctivement discrets et naturellement difficiles &#224; pister. Pendant les deux prochaines heures, tous les d&#233;placements terrestres de la horde ne laissent pratiquement aucune trace. Quand une cr&#233;ature tente un test de &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; pour d&#233;couvrir la trace de la horde, l’effet du chaudron annule le malus au &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du nombre d’orques pr&#233;sents dans le groupe.&lt;br /&gt;&lt;br /&gt;Tout non-orque qui consomme ne serait-ce qu’une petite cuiller&#233;e de la soupe ou du gruau est aussit&#244;t &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Naus&#233;eux.html&quot; title=&quot;Naus&#233;eux&quot;&gt;naus&#233;eux&lt;/a&gt; pendant 10 minutes et ne gagne aucun des avantages du chaudron.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Passage-Sans-Traces.html&quot; title=&quot;passage sans trace&quot;&gt;passage sans trace&lt;/a&gt;&lt;/i&gt;; &lt;b&gt;Co&#251;t&lt;/b&gt; 14 000 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}<div class="BD">
+{s:BDTitre|Chaudron d'embuscade|{s:CM}}
+'''Aura''' [[Transmutation]] modérée ; '''NLS''' 12 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 28 000 po ; '''Poids''' 30 kg
+(((Description)))
+Cet énorme chaudron couvert de suie est doté de deux paires d’anneaux alignés sur chacun des bords opposés. Il est possible de glisser de longs bâtons à l’intérieur de ces anneaux afin que deux porteurs puissent soulever et transporter le chaudron. L’intérieur de cet énorme chaudron est couvert de résidus de cuisson à l’odeur infecte en plus d’être tout gras. Une fois par jour, une horde maximale de cent orques peut consommer une soupe épaisse ou du gruau préparé dans le chaudron. La substance consommée rend les orques instinctivement discrets et naturellement difficiles à pister. Pendant les deux prochaines heures, tous les déplacements terrestres de la horde ne laissent pratiquement aucune trace. Quand une créature tente un test de [[Survie]] pour découvrir la trace de la horde, l’effet du chaudron annule le malus au [[DD]] du nombre d’orques présents dans le groupe.
+
+Tout non-orque qui consomme ne serait-ce qu’une petite cuillerée de la soupe ou du gruau est aussitôt [[nauséeux]] pendant 10 minutes et ne gagne aucun des avantages du chaudron.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[passage sans trace]]''; '''Coût''' 14 000 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Chaudron dembuscade</fullName>
+</wikiPage>

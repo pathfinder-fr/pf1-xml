@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Kasatha</title>
+  <categories><category>Pathfinder-RPG.Src Bestiaire 4</category></categories>
+  <lastModified>2023-08-19 22:06:13Z</lastModified>
+  <version>10</version>
+  <inLinks><link>Pathfinder-RPG.autres langues</link><link>Pathfinder-RPG.Bestiaire 4 (Contenu)</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Kasatha (race)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Temp-bestiaire4</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type kasatha</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Coup étourdissant</link><link>Pathfinder-RPG.Science du combat à mains nues</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Évasion</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Discrétion</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire 4&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;kasatha&lt;div style=&quot;float:right;&quot;&gt;FP 1/2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;D&#233;sert&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/D&#233;sert.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 4 p.168&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+kasatha (m) moine 1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Kasatha.html&quot; title=&quot;Kasatha (sous-type)&quot;&gt;kasatha&lt;/a&gt;) de taille M, LN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +3
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 18, pris au d&#233;pourvu 13 (Dex +3, esquive +2, Sag +3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 10 (1d8+2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +5, &lt;b&gt;Vig&lt;/b&gt; +3, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; sai, +3 (1d4+1) ou coup &#224; mains nues, +3 (1d6+1) ou d&#233;luge de coups, +2/+2 (1d6+1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaque sp&#233;ciale&lt;/b&gt; coup &#233;tourdissant (1/jour, DD 13), d&#233;luge de coups
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 8
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +0, &lt;b&gt;BMO&lt;/b&gt; +1, &lt;b&gt;DMD&lt;/b&gt; 19
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Coup-&#201;tourdissant.html&quot; title=&quot;Coup &#233;tourdissant&quot;&gt;Coup &#233;tourdissant&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Combat-&#192;-Mains-Nues.html&quot; title=&quot;Science du combat &#224; mains nues&quot;&gt;Science du combat &#224; mains nues&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;vasion.html&quot; title=&quot;&#201;vasion&quot;&gt;&#201;vasion&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, kasatha
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; bras multiples, coureur du d&#233;sert, marcheur du d&#233;sert, sauteur, traqueur
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; d&#233;serts chauds
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, groupe (2-6), secte (2-20) ou tribu (20-60)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; &#233;quipement de PNJ (sai x2, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Bras multiples (Ext).&lt;/b&gt; Le kasatha poss&#232;de quatre bras. L’une de ses mains est directrice ; toutes les autres sont non-directrices. Il peut utiliser ses mains pour effectuer diverses t&#226;ches qui n&#233;cessitent d’avoir les mains libres.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Coureur du d&#233;sert (Ext).&lt;/b&gt; Le kasatha b&#233;n&#233;ficie d’un bonus racial de +4 aux tests de Constitution et aux jets de Vigueur effectu&#233;s pour &#233;viter la fatigue, l’&#233;puisement et les divers effets n&#233;fastes engendr&#233;s par la course, la faim, la soif et les environnements chauds ou froids.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Marcheur du d&#233;sert (Ext).&lt;/b&gt; Le kasatha se d&#233;place &#224; sa vitesse normale, et non r&#233;duite, quand il traverse les terrains difficiles non-magiques du d&#233;sert.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sauteur (Ext).&lt;/b&gt; On consid&#232;re que le kasatha prend toujours son &#233;lan quand il effectue des tests d’Acrobaties pour sauter.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Traqueur (Ext).&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; sont des comp&#233;tences de classe pour les kasathas.
+&lt;/div&gt;&lt;br /&gt;&lt;center&gt;&lt;img src=&quot;/wiki/public/upload/Bestiaire/Kasatha02.jpg&quot; width=&quot;90%&quot; style=&quot;float: none; margin: 5px;&quot;/&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;&lt;div&gt;
+&lt;i&gt;Cet &#233;trange humano&#239;de &#233;lanc&#233;, muscl&#233; et dot&#233; de quatre bras, brandit deux &#233;p&#233;es aux lames couvertes de pointes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Originaires d’un monde aride en orbite autour d’une &#233;toile rouge,
+les descendants modernes des premiers kasathas exil&#233;s n’ont
+aucune id&#233;e de la fa&#231;on dont ils ont quitt&#233; leur plan&#232;te ni du moyen
+qui leur permettrait d’y retourner mais ils poursuivent leurs recherches.
+Peuple plut&#244;t clanique et secret, leur soci&#233;t&#233; est matriarcale,
+mais les membres des autres races ont bien du mal &#224; diff&#233;rencier
+physiquement les m&#226;les des femelles. Les kasathas se couvrent
+le bas du visage et ne le d&#233;couvrent jamais en pr&#233;sence d’&#233;trangers.
+Ils sont omnivores mais pr&#233;f&#232;rent la viande et la nourriture sal&#233;e.
+&#192; l’&#226;ge adulte, beaucoup de kasathas quittent leur clan et parcourent
+le monde en qu&#234;te d’aventures, pour trouver des tr&#233;sors et un
+moyen de retourner sur leur monde d’origine.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;PERSONNAGES KASATHAS&lt;a class=&quot;headeranchor&quot; id=&quot;PERSONNAGES_KASATHAS_0&quot; href=&quot;#PERSONNAGES_KASATHAS_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les kasathas se d&#233;finissent par leurs niveaux de classe. Ils n’ont donc pas de d&#233;s de vie raciaux. Ils poss&#232;dent les traits raciaux suivants.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Dext&#233;rit&#233; +2, Sagesse +2.&lt;/b&gt; Les kasathas sont agiles et perspicaces.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Entra&#238;nement d&#233;fensif.&lt;/b&gt; Les kasathas ont un bonus d’esquive de +2 &#224; la CA.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Coureur du d&#233;sert.&lt;/b&gt; Cf. ci-contre.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Marcheur du d&#233;sert.&lt;/b&gt; Cf. ci-contre.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Sauteur.&lt;/b&gt; Cf. ci-contre.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Bras multiples.&lt;/b&gt; Cf. ci-contre.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Traqueur.&lt;/b&gt; Cf. ci-contre.&lt;br /&gt;&lt;br /&gt;• &lt;b&gt;Langues.&lt;/b&gt; Les kasathas parlent le commun et le kasatha. Un kasatha avec une valeur d’Intelligence suffisamment &#233;lev&#233;e peut choisir ses langues suppl&#233;mentaires parmi les suivantes : nain, draconique, gnoll, orque et sphinx.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire 4"><tr><td>
+<div class="BD">
+{s:BDTitre|kasatha|FP 1/2}
+{s:pucem|Humanoïde|Désert|Tropical}
+{s:BDTexte|<i>Source : Bestiaire 4 p.168</i>}
+{s:BDTexte|<b>PX</b> 200}
+{s:BDTexte|kasatha (m) moine 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type kasatha|kasatha]]) de taille M, LN}
+{s:BDTexte|<b>Init</b> +3 ; <b>Sens</b> [[vision nocturne]] ; [[Perception]] +3}
+{s:BDSousTitre|Défense}
+{s:BDTexte|<b>CA</b> 18, contact 18, pris au dépourvu 13 (Dex +3, esquive +2, Sag +3)}
+{s:BDTexte|<b>pv</b> 10 (1d8+2)}
+{s:BDTexte|<b>Réf</b> +5, <b>Vig</b> +3, <b>Vol</b> +5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|<b>VD</b> 9 m (6 {s:c})}
+{s:BDTexte|<b>Corps à corps</b> sai, +3 (1d4+1) ou coup à mains nues, +3 (1d6+1) ou déluge de coups, +2/+2 (1d6+1)}
+{s:BDTexte|<b>Attaque spéciale</b> coup étourdissant (1/jour, DD 13), déluge de coups}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|<b>For</b> 13, <b>Dex</b> 17, <b>Con</b> 12, <b>Int</b> 10, <b>Sag</b> 16, <b>Cha</b> 8}
+{s:BDTexte|<b>BBA</b> +0, <b>BMO</b> +1, <b>DMD</b> 19}
+{s:BDTexte|<b>Dons</b> [[Attaque en finesse]], [[Attaques réflexes]], [[Coup étourdissant]], [[Science du combat à mains nues]]}
+{s:BDTexte|<b>Compétences</b> [[Acrobaties]] +7, [[Escalade]] +5, [[Évasion]] +7, [[Survie]] +4}
+{s:BDTexte|<b>Langues</b> commun, kasatha}
+{s:BDTexte|<b>Particularités</b> bras multiples, coureur du désert, marcheur du désert, sauteur, traqueur}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|<b>Environnement</b> déserts chauds}
+{s:BDTexte|<b>Organisation</b> solitaire, groupe (2-6), secte (2-20) ou tribu (20-60)}
+{s:BDTexte|<b>Trésor</b> équipement de PNJ (sai x2, autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|<b>Bras multiples (Ext).</b> Le kasatha possède quatre bras. L’une de ses mains est directrice ; toutes les autres sont non-directrices. Il peut utiliser ses mains pour effectuer diverses tâches qui nécessitent d’avoir les mains libres.}
+{s:BDTexte|<b>Coureur du désert (Ext).</b> Le kasatha bénéficie d’un bonus racial de +4 aux tests de Constitution et aux jets de Vigueur effectués pour éviter la fatigue, l’épuisement et les divers effets néfastes engendrés par la course, la faim, la soif et les environnements chauds ou froids.}
+{s:BDTexte|<b>Marcheur du désert (Ext).</b> Le kasatha se déplace à sa vitesse normale, et non réduite, quand il traverse les terrains difficiles non-magiques du désert.}
+{s:BDTexte|<b>Sauteur (Ext).</b> On considère que le kasatha prend toujours son élan quand il effectue des tests d’Acrobaties pour sauter.}
+{s:BDTexte|<b>Traqueur (Ext).</b> [[Perception]] et [[Discrétion]] sont des compétences de classe pour les kasathas.}
+
+{s:ImageCentre|Bestiaire/Kasatha02.jpg|90%}
+
+</td><td><div>
+''Cet étrange humanoïde élancé, musclé et doté de quatre bras, brandit deux épées aux lames couvertes de pointes.''
+
+Originaires d’un monde aride en orbite autour d’une étoile rouge,
+les descendants modernes des premiers kasathas exilés n’ont
+aucune idée de la façon dont ils ont quitté leur planète ni du moyen
+qui leur permettrait d’y retourner mais ils poursuivent leurs recherches.
+Peuple plutôt clanique et secret, leur société est matriarcale,
+mais les membres des autres races ont bien du mal à différencier
+physiquement les mâles des femelles. Les kasathas se couvrent
+le bas du visage et ne le découvrent jamais en présence d’étrangers.
+Ils sont omnivores mais préfèrent la viande et la nourriture salée.
+À l’âge adulte, beaucoup de kasathas quittent leur clan et parcourent
+le monde en quête d’aventures, pour trouver des trésors et un
+moyen de retourner sur leur monde d’origine.
+
+====PERSONNAGES KASATHAS====
+Les kasathas se définissent par leurs niveaux de classe. Ils n’ont donc pas de dés de vie raciaux. Ils possèdent les traits raciaux suivants.
+
+• '''Dextérité +2, Sagesse +2.''' Les kasathas sont agiles et perspicaces.
+
+• '''Entraînement défensif.''' Les kasathas ont un bonus d’esquive de +2 à la CA.
+
+• '''Coureur du désert.''' Cf. ci-contre.
+
+• '''Marcheur du désert.''' Cf. ci-contre.
+
+• '''Sauteur.''' Cf. ci-contre.
+
+• '''Bras multiples.''' Cf. ci-contre.
+
+• '''Traqueur.''' Cf. ci-contre.
+
+• '''Langues.''' Les kasathas parlent le commun et le kasatha. Un kasatha avec une valeur d’Intelligence suffisamment élevée peut choisir ses langues supplémentaires parmi les suivantes : nain, draconique, gnoll, orque et sphinx.</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Kasatha</fullName>
+</wikiPage>

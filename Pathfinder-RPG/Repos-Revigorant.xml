@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Repos revigorant</title>
+  <categories><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort prêtre 5</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2020-07-28 19:40:33Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Liste des sorts (fin)</link><link>Pathfinder-RPG.Liste des sorts de prêtres</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Nain</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.branche guérison</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.Rappel à la vie</link><link>Pathfinder-RPG.Souffle de vie</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Extension deffet</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Nain.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Nain.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Nain.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nains&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;Invocation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Guerison.html&quot; title=&quot;Gu&#233;rison&quot;&gt;gu&#233;rison&lt;/a&gt;) ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;Pr&#234;&lt;/a&gt; 5  
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;  
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G, FD&lt;/a&gt;  
+&lt;b&gt;Port&#233;e&lt;/b&gt; personnelle  
+&lt;b&gt;Cible&lt;/b&gt; le lanceur de sorts  
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 1 heure ou jusqu&#39;&#224; utilisation&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Ce sort est r&#233;serv&#233; aux personnages qui v&#233;n&#232;rent le dieu nain des morts.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ce sort am&#233;liore la magie qui permet de ramener un mort &#224; la vie. Si le personnage lance &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rappel-&#192;-La-Vie.html&quot; title=&quot;Rappel &#224; la vie&quot;&gt;rappel &#224; la vie&lt;/a&gt;&lt;/i&gt;, la cr&#233;ature prise pour cible r&#233;cup&#232;re la totalit&#233; de ses points de vie. S’il lance &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souffle-De-Vie.html&quot; title=&quot;Souffle de vie&quot;&gt;souffle de vie&lt;/a&gt;&lt;/i&gt;, ce sort peut ramener une cr&#233;ature morte depuis un nombre maximum de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; &#233;gal &#224; la moiti&#233; du niveau de lanceur de sorts du personnage au moment o&#249; il lance le sort. L’effet de gu&#233;rison est trait&#233; comme si le sort &#233;tait renforc&#233; par le don &lt;a class=&quot;pagelink&quot; href=&quot;Extension-Deffet.html&quot; title=&quot;Extension d&amp;#39;effet&quot;&gt;Extension d’effet&lt;/a&gt;. Le lancer de l’un de ces sorts d&#233;clenche, puis met fin au &lt;i&gt;repos revigorant&lt;/i&gt;.
+]]></body>
+  <raw><![CDATA[{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}'''École''' [[Invocation]] ([[branche guérison|guérison]]) ; '''Niveau''' [[prêtre|Prê]] 5  
+'''Temps d'incantation''' 1 [[action simple]]  
+'''Composantes''' [[composantes|V, G, FD]]  
+'''Portée''' personnelle  
+'''Cible''' le lanceur de sorts  
+'''Durée''' 1 heure ou jusqu'à utilisation
+
+''Ce sort est réservé aux personnages qui vénèrent le dieu nain des morts.''
+
+Ce sort améliore la magie qui permet de ramener un mort à la vie. Si le personnage lance ''[[rappel à la vie]]'', la créature prise pour cible récupère la totalité de ses points de vie. S’il lance ''[[souffle de vie]]'', ce sort peut ramener une créature morte depuis un nombre maximum de [[round|rounds]] égal à la moitié du niveau de lanceur de sorts du personnage au moment où il lance le sort. L’effet de guérison est traité comme si le sort était renforcé par le don [[Extension deffet|Extension d’effet]]. Le lancer de l’un de ces sorts déclenche, puis met fin au ''repos revigorant''.]]></raw>
+  <fullName>Pathfinder-RPG.Repos revigorant</fullName>
+</wikiPage>

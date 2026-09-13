@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Flasque du pourfendeur</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-06-14 03:00:23Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Norgorber (technique)</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Acide (objet)</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Aspersion acide</link><link>Pathfinder-RPG.sort Résistance</link><link>Pathfinder-RPG.Norgorber (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fNorgorber.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Norgorber (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fNorgorber.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Norgorber-(Technique).html&quot; title=&quot;Norgorber&quot;&gt;Norgorber&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Flasque du pourfendeur&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 3 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 3 800 po ; &lt;b&gt;Poids&lt;/b&gt; —
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ce r&#233;cipient en m&#233;tal ressemble &#224; une flasque &#224; alcool &#224; part qu’il est &#224; peine plus grand qu’une fiole de potion. Le c&#244;t&#233; de la flasque peut &#234;tre vierge ou avoir une d&#233;coration personnalis&#233;e mais le bouchon est en g&#233;n&#233;ral marqu&#233; d’un bouclier ou parfois d’un masque lisse. Une fois par jour, le personnage peut boire &#224; cette gourde et b&#233;n&#233;ficier d’un bonus alchimique de +5 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; contre le poison et d’un bonus de comp&#233;tence de +5 sur ses tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; pendant 1 heure.&lt;br /&gt;&lt;br /&gt;Si le personnage est un suivant de &lt;a class=&quot;pagelink&quot; href=&quot;Norgorber-(Technique).html&quot; title=&quot;Norgorber&quot;&gt;Norgorber&lt;/a&gt;, il peut, en plus des pouvoirs d&#233;crits ci-dessus, boire &#224; la gourde et b&#233;n&#233;ficier une fois par jour d’un bonus de comp&#233;tence de +5 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;, d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt;, ou de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; (au choix du buveur) pendant 1 heure. Une fois par jour, il peut &#233;galement faire couler de la flasque un volume d’acide &#233;quivalent &#224; celui de la flasque d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Acide-(Objet).html&quot; title=&quot;Acide&quot;&gt;acide&lt;/a&gt;.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aspersion-Acide.html&quot; title=&quot;Aspersion acide&quot;&gt;aspersion acide&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-R&#233;sistance.html&quot; title=&quot;R&#233;sistance&quot;&gt;r&#233;sistance&lt;/a&gt;&lt;/i&gt;, le cr&#233;ateur doit avoir 5 rangs en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;, en &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt;, et en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 900 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Norgorber|%2fPCUP%2fReligion-PNG%2fNorgorber.png}<div class="BD">
+{s:BDTitre|Flasque du pourfendeur|{s:ISG}{s:GeM}}
+'''Aura''' [[Transmutation]] faible ; '''NLS''' 3 ; '''Emplacement''' [[Objets merveilleux sans emplacement|aucun]] ; '''Prix''' 3 800 po ; '''Poids''' —
+(((Description)))
+Ce récipient en métal ressemble à une flasque à alcool à part qu’il est à peine plus grand qu’une fiole de potion. Le côté de la flasque peut être vierge ou avoir une décoration personnalisée mais le bouchon est en général marqué d’un bouclier ou parfois d’un masque lisse. Une fois par jour, le personnage peut boire à cette gourde et bénéficier d’un bonus alchimique de +5 aux jets de [[Vigueur]] contre le poison et d’un bonus de compétence de +5 sur ses tests de [[Discrétion]] pendant 1 heure.
+
+Si le personnage est un suivant de [[Norgorber (technique)|Norgorber]], il peut, en plus des pouvoirs décrits ci-dessus, boire à la gourde et bénéficier une fois par jour d’un bonus de compétence de +5 aux tests de [[Discrétion]], d'[[Escamotage]], ou de [[Perception]] (au choix du buveur) pendant 1 heure. Une fois par jour, il peut également faire couler de la flasque un volume d’acide équivalent à celui de la flasque d'[[Acide (objet)|acide]].
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[aspersion acide]]'', ''[[sort Résistance|résistance]]'', le créateur doit avoir 5 rangs en [[Discrétion]], en [[Escamotage]], et en [[Perception]] ; '''Coût''' 1 900 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Flasque du pourfendeur</fullName>
+</wikiPage>

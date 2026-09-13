@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Capramace</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-16 00:31:50Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Aberration</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de la bousculade</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Assourdi</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Silence</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Dextérité</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Capramace&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Aberration&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Plaines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Plaines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.52&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Aberration.html&quot; title=&quot;Aberration&quot;&gt;Aberration&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 10, pris au d&#233;pourvu 17 (Dex +1, naturelle +8, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 85 (9d8+45)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +13 (2d6+8 plus maladie) et 2 sabots, +8 (1d8+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; cri rageur, maladie
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 26, &lt;b&gt;Dex&lt;/b&gt; 13, &lt;b&gt;Con&lt;/b&gt; 18, &lt;b&gt;Int&lt;/b&gt; 1, &lt;b&gt;Sag&lt;/b&gt; 14, &lt;b&gt;Cha&lt;/b&gt; 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6 ; &lt;b&gt;BMO&lt;/b&gt; +15 (+17 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 26 (28 contre la &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;bousculade&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-La-Bousculade.html&quot; title=&quot;Science de la bousculade&quot;&gt;Science de la bousculade&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; plaines temp&#233;r&#233;es
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, meute (2-11) ou troupeau (12-25)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Cri rageur (Sur).&lt;/b&gt; Une fois par jour, par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, un capramace peut ouvrir grand sa gueule et pousser un cri horrible et assourdissant pour rameuter sa harde. Poursuivre un cri rageur au-del&#224; du premier &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt; est une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt; et la dur&#233;e d’un cri rageur prolong&#233; n’est pas limit&#233;e. Les cr&#233;atures autres que les capramaces, situ&#233;es &#224; 36 m&#232;tres ou moins et qui ratent un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 sont &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Assourdi.html&quot; title=&quot;Assourdi&quot;&gt;assourdies&lt;/a&gt; aussi longtemps que le capramace pousse son cri et pendant 1d4 minutes par la suite.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;Tous les autres capramaces situ&#233;s &#224; 1,5 kilom&#232;tre ou moins entendent ce cri haut perch&#233; quels que soient les bruits environnants, et r&#233;agissent instinctivement en sprintant vers le capramace qui le pousse. Ils se d&#233;placent aussi vite que possible vers le capramace tant que celui-ci continue de pousser son cri rageur. On consid&#232;re qu’un capramace qui se d&#233;place vers l’origine d’un cri rageur poss&#232;de le don &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;. Les capramaces qui arrivent &#224; 18 m&#232;tres ou moins du cri rageur pouss&#233; par l’un des leurs plongent dans la crainte et la col&#232;re. Ils attaquent alors la cr&#233;ature visible la plus proche (autre qu’un capramace) aussi longtemps que dure le cri rageur.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;Les effets qui r&#233;duisent les sons, tels qu’un &lt;a class=&quot;pagelink&quot; href=&quot;Silence.html&quot; title=&quot;Silence&quot;&gt;silence&lt;/a&gt;, peuvent emp&#234;cher un capramace de pousser son cri rageur. Il en est de m&#234;me des effets qui asphyxient un capramace. De la m&#234;me mani&#232;re, un capramace &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Assourdi.html&quot; title=&quot;Assourdi&quot;&gt;assourdi&lt;/a&gt; ne peut &#234;tre affect&#233; par le cri rageur d’un autre capramace. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie (Sur).&lt;/b&gt; &lt;i&gt;Tremblote de la D&#233;solation&lt;/i&gt; : Morsure — blessure ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;JdS&lt;/a&gt;&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vig&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 18 ; &lt;i&gt;incubation&lt;/i&gt; 1d3 jours ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour ; &lt;i&gt;effet&lt;/i&gt; affaiblissement temporaire 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;For&lt;/a&gt; et 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt;, et la cible doit r&#233;ussir un deuxi&#232;me jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; ou 1 point temporairement affaibli pour chaque caract&#233;ristique est remplac&#233; par une diminution permanente ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives – le deuxi&#232;me &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; effectu&#233; pour emp&#234;cher que l’affaiblissement temporaire ne devienne une diminution permanente n’est pas comptabilis&#233; dans ces r&#233;ussites. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur la &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cet amalgame difforme d’humain et de bouc est recouvert d’une fourrure emm&#234;l&#233;e. Ses dents sont pointues et ses yeux d’un blanc sinistre.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;On ne conna&#238;t pas l’origine exacte des capramaces, mais de nombreuses l&#233;gendes pr&#233;tendent que ces abominations sont le r&#233;sultat d’une combinaison magique entre une ch&#232;vre et un humain. Leur forme humano&#239;de sous-entend clairement une telle fusion, m&#234;me s’ils ne montrent aucun signe d’intelligence. Les fermiers dont les champs sont cern&#233;s par des capramaces ne doivent surtout pas les surprendre, car leurs terribles et assourdissants hurlements peuvent rameuter davantage de ces monstruosit&#233;s. Les habitants courageux des communaut&#233;s isol&#233;es app&#226;tent parfois ces animaux pour en faire des b&#234;tes de somme, mais la plupart consid&#232;rent comme stupide ce type de tentatives. Ces cr&#233;atures sont fortes et robustes, mais difficiles &#224; contr&#244;ler et m&#234;me la plus insignifiante des maltraitances peut les pousser &#224; se retourner sans pr&#233;venir contre leurs ma&#238;tres.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Capramace|FP 7}
+{s:pucem|Aberration|Plaines|Tempéré}
+{s:BDTexte|''Source : Bestiaire 5 p.52''}
+{s:BDTexte|'''PX''' 3 200}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 10, pris au dépourvu 17 (Dex +1, naturelle +8, taille -1)}
+{s:BDTexte|'''pv''' 85 (9d8+45)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +9, '''Vol''' +8}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 15 m}
+{s:BDTexte|'''Corps à corps''' morsure, +13 (2d6+8 plus maladie) et 2 sabots, +8 (1d8+4)}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDTexte|'''Attaques spéciales''' cri rageur, maladie}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 26, '''Dex''' 13, '''Con''' 18, '''Int''' 1, '''Sag''' 14, '''Cha''' 5}
+{s:BDTexte|'''BBA''' +6 ; '''BMO''' +15 (+17 en [[bousculade]]) ; '''DMD''' 26 (28 contre la [[bousculade]])}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Réflexes surhumains]], [[Robustesse]], [[Science de la bousculade]], [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Escalade]] +15, [[Perception]] +10}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' plaines tempérées}
+{s:BDTexte|'''Organisation''' solitaire, meute (2-11) ou troupeau (12-25)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Cri rageur (Sur).''' Une fois par jour, par une [[action simple]], un capramace peut ouvrir grand sa gueule et pousser un cri horrible et assourdissant pour rameuter sa harde. Poursuivre un cri rageur au-delà du premier [[round]] est une [[action libre]] et la durée d’un cri rageur prolongé n’est pas limitée. Les créatures autres que les capramaces, situées à 36 mètres ou moins et qui ratent un jet de [[Vigueur]] [[DD]] 18 sont [[assourdi|assourdies]] aussi longtemps que le capramace pousse son cri et pendant 1d4 minutes par la suite.}
+{s:BDTexte|* Tous les autres capramaces situés à 1,5 kilomètre ou moins entendent ce cri haut perché quels que soient les bruits environnants, et réagissent instinctivement en sprintant vers le capramace qui le pousse. Ils se déplacent aussi vite que possible vers le capramace tant que celui-ci continue de pousser son cri rageur. On considère qu’un capramace qui se déplace vers l’origine d’un cri rageur possède le don [[Course]]. Les capramaces qui arrivent à 18 mètres ou moins du cri rageur poussé par l’un des leurs plongent dans la crainte et la colère. Ils attaquent alors la créature visible la plus proche (autre qu’un capramace) aussi longtemps que dure le cri rageur.}
+{s:BDTexte|* Les effets qui réduisent les sons, tels qu’un [[silence]], peuvent empêcher un capramace de pousser son cri rageur. Il en est de même des effets qui asphyxient un capramace. De la même manière, un capramace [[assourdi]] ne peut être affecté par le cri rageur d’un autre capramace. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|'''Maladie (Sur).''' ''Tremblote de la Désolation'' : Morsure — blessure ; ''[[jet de sauvegarde|JdS]]'' [[Vigueur|Vig]] [[DD]] 18 ; ''incubation'' 1d3 jours ; ''fréquence'' 1/jour ; ''effet'' affaiblissement temporaire 1d3 [[Force|For]] et 1d3 [[Dextérité|Dex]], et la cible doit réussir un deuxième jet de [[Vigueur]] ou 1 point temporairement affaibli pour chaque caractéristique est remplacé par une diminution permanente ; ''guérison'' 2 réussites consécutives – le deuxième [[jet de sauvegarde]] effectué pour empêcher que l’affaiblissement temporaire ne devienne une diminution permanente n’est pas comptabilisé dans ces réussites. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+</div></td>
+<td><div>''Cet amalgame difforme d’humain et de bouc est recouvert d’une fourrure emmêlée. Ses dents sont pointues et ses yeux d’un blanc sinistre.''
+
+On ne connaît pas l’origine exacte des capramaces, mais de nombreuses légendes prétendent que ces abominations sont le résultat d’une combinaison magique entre une chèvre et un humain. Leur forme humanoïde sous-entend clairement une telle fusion, même s’ils ne montrent aucun signe d’intelligence. Les fermiers dont les champs sont cernés par des capramaces ne doivent surtout pas les surprendre, car leurs terribles et assourdissants hurlements peuvent rameuter davantage de ces monstruosités. Les habitants courageux des communautés isolées appâtent parfois ces animaux pour en faire des bêtes de somme, mais la plupart considèrent comme stupide ce type de tentatives. Ces créatures sont fortes et robustes, mais difficiles à contrôler et même la plus insignifiante des maltraitances peut les pousser à se retourner sans prévenir contre leurs maîtres.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Capramace</fullName>
+</wikiPage>

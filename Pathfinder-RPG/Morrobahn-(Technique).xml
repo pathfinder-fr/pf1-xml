@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Le germe parasite</title>
+  <categories><category>Pathfinder-RPG.Divinité</category><category>Pathfinder-RPG.Src Book of the Damned</category></categories>
+  <lastModified>2023-03-24 16:30:43Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Livre des damnés 2 (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Fléau darmes lourd (arme)</link><link>Pathfinder-RPG.Domaine de la Faune</link><link>Pathfinder-RPG.Domaine de la Loi</link><link>Pathfinder-RPG.Domaine du Mal</link><link>Pathfinder-RPG.Domaine du Voyage</link><link>Pathfinder-RPG.DMD</link><link>Pathfinder-RPG.Kytons</link><link>Pathfinder-RPG.FP</link><link>Pathfinder-RPG.Pouvoirs magiques (capacité)</link><link>Pathfinder-RPG.Convocation dalliés naturels III</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Convocation de monstres IX</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot; &quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt; &lt;/i&gt;&quot;); }
+  let align = &quot;Loyal Mauvais&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Le germe parasite&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/ &quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#KYTONSDEMAGOGUES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Kytons d&#233;magogues&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Loyal Mauvais&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Invasion, prolif&#233;ration, r&#233;p&#233;tition
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;N&#39;importe&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Aucun
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fl&#233;au-Darmes-Lourd-(Arme).html&quot; title=&quot;Fl&#233;au d&amp;#39;armes lourd&quot;&gt;Fl&#233;au d&#39;armes lourd&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Faune.html&quot; title=&quot;Domaine de la Faune&quot;&gt;Faune&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Loi.html&quot; title=&quot;Domaine de la Loi&quot;&gt;Loi&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Voyage.html&quot; title=&quot;Domaine du Voyage&quot;&gt;Voyage&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Voyage.html&quot; title=&quot;Domaine du Voyage&quot;&gt;Exploration&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Peur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Faune.html&quot; title=&quot;Domaine de la Faune&quot;&gt;Plume&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Faune.html&quot; title=&quot;Domaine de la Faune&quot;&gt;Poil&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;unknownlink&quot; href=&quot;../Golarion/Morrobahn.html&quot; title=&quot;Golarion.Morrobahn&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;a href=&quot;/Wiki/Pathfinder-RPG.Livre des Damn&#233;s 2 (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Book of the Damned/Livre des damn&#233;s&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoBD.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Ob&#233;dience&lt;a class=&quot;headeranchor&quot; id=&quot;Ob&#233;dience_1&quot; href=&quot;#Ob&#233;dience_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Trouver deux cr&#233;atures similaires de n&#39;importe quel type (animaux, insectes, personnes, etc.) et les faire s’entretuer. Gain d&#39;un bonus de malfaisance de +2 au &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Dmd.html&quot; title=&quot;DMD&quot;&gt;DMD&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Faveurs (Kytons d&#233;magogues)&lt;a class=&quot;headeranchor&quot; id=&quot;Faveurs_Kytons_d&#233;magogues_0&quot; href=&quot;#Faveurs_Kytons_d&#233;magogues_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les chefs de la race des &lt;a class=&quot;pagelink&quot; href=&quot;Kytons.html&quot; title=&quot;Les kytons&quot;&gt;kytons&lt;/a&gt; sont parmi les plus audacieux explorateurs, artistes, et scientifiques des plans. Contraints ni par la morale ni par les tabous, les kytons d&#233;magogues poursuivent la perfection dans une myriade de domaines profanes. Les membres et les vies perdus ne signifient pas grand-chose pour le kyton d&#233;magogue - seul la prochaine fronti&#232;re &#224; briser et la promesse de ce qui pourrait se trouver derri&#232;re. Les kytons d&#233;magogues sont l&#233;gion, mais neuf des plus connus des &#233;rudits sectuaires de Golarion sont pr&#233;sent&#233;s en d&#233;tails.&lt;br /&gt;&lt;br /&gt;Les kytons d&#233;magogues sont beaucoup moins susceptibles que les autres demi-dieux fi&#233;lons d&#39;afficher leur pouvoir. Tous les kytons d&#233;magogues sont Loyal Mauvais et leur puissance varie de &lt;a class=&quot;pagelink&quot; href=&quot;Rencontres#Fp.html&quot; title=&quot;FP&quot;&gt;FP&lt;/a&gt; 26 &#224; FP 30. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fi&#233;lons, se manifestant par des &lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-Magiques-(Capacit&#233;).html&quot; title=&quot;Pouvoirs magiques (Mag)&quot;&gt;pouvoirs magiques&lt;/a&gt; utilisables une fois par jour chacun.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;1.&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-Dalli&#233;s-Naturels-Iii.html&quot; title=&quot;Convocation d&amp;#39;alli&#233;s naturels III&quot;&gt;convocation d&#39;alli&#233;s naturels III&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;2.&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;portation-Supr&#234;me.html&quot; title=&quot;T&#233;l&#233;portation supr&#234;me&quot;&gt;t&#233;l&#233;portation supr&#234;me&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;3.&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-Ix.html&quot; title=&quot;Convocation de monstres IX&quot;&gt;convocation de monstres IX&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Morrobahn|Le germe parasite| |[[Divinités#KYTONSDEMAGOGUES|Kytons démagogues]]
+|Loyal Mauvais|Invasion, prolifération, répétition
+|N'importe|Aucun
+|[[Fléau darmes lourd (arme)|Fléau d'armes lourd]]
+|[[Domaine de la Faune|Faune]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]], [[Domaine du Voyage|Voyage]]
+|[[Domaine du Voyage|Exploration]], [[Domaine du Mal|Peur]], [[Domaine de la Faune|Plume]], [[Domaine de la Faune|Poil]]
+|—}
+{s:cs}{s:BotD}
+===Obédience===
+Trouver deux créatures similaires de n'importe quel type (animaux, insectes, personnes, etc.) et les faire s’entretuer. Gain d'un bonus de malfaisance de +2 au [[DMD]].
+
+====Faveurs (Kytons démagogues)====
+Les chefs de la race des [[kytons]] sont parmi les plus audacieux explorateurs, artistes, et scientifiques des plans. Contraints ni par la morale ni par les tabous, les kytons démagogues poursuivent la perfection dans une myriade de domaines profanes. Les membres et les vies perdus ne signifient pas grand-chose pour le kyton démagogue - seul la prochaine frontière à briser et la promesse de ce qui pourrait se trouver derrière. Les kytons démagogues sont légion, mais neuf des plus connus des érudits sectuaires de Golarion sont présentés en détails.
+
+Les kytons démagogues sont beaucoup moins susceptibles que les autres demi-dieux fiélons d'afficher leur pouvoir. Tous les kytons démagogues sont Loyal Mauvais et leur puissance varie de [[FP]] 26 à FP 30. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables une fois par jour chacun.
+* '''1.''' ''[[convocation dalliés naturels III|convocation d'alliés naturels III]]''
+* '''2.''' ''[[téléportation suprême]]''
+* '''3.''' ''[[convocation de monstres IX]]''
+]]></raw>
+  <fullName>Pathfinder-RPG.Morrobahn (technique)</fullName>
+</wikiPage>

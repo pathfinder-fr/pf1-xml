@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Charge de cavalerie</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Src Citées de Golarion</category></categories>
+  <lastModified>2021-07-25 18:19:19Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.Combat monté</link><link>Pathfinder-RPG.Piétinement</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.renversement</link><link>Pathfinder-RPG.À terre</link><link>Pathfinder-RPG.round</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;La premi&#232;re it&#233;ration de ce don, dans &lt;a class=&quot;pagelink&quot; href=&quot;Courts-Suppl&#233;ments-Univers-(Contenu).html&quot; title=&quot;Courts suppl&#233;ments univers (Contenu)&quot;&gt;Cit&#233;s de Golarion&lt;/a&gt;, n&#233;cessitait le pr&#233;requis &quot;affinit&#233; avec le Dernier Rempart&quot;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;script&gt;
+	$(function(){
+		$(&#39;.CSU1&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Cities of Golarion/Cit&#233;s de Golarion)&quot;);
+		$(&#39;.CSU2&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Lost Cities of Golarion/Cit&#233;s perdues de Golarion)&quot;);
+		$(&#39;.CSU3&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Dungeons of Golarion/Donjons de Golarion)&quot;);
+		$(&#39;.CSU4&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Guide to Korvosa/Guide de Korvosa)&quot;);
+		$(&#39;.CSU5&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (The Worldwound/Guide de la Plaie du monde)&quot;);
+		$(&#39;.CSU6&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Isles of the Shackles/Guide des Cha&#238;nes)&quot;);
+		$(&#39;.CSU7&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Guide to the River Kingdoms/Guide des Royaumes fluviaux)&quot;);
+		$(&#39;.CSU8&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Dark Markets - A Guide to Katapesh/Guide du Katapesh)&quot;);
+		$(&#39;.CSU9&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Guide to Darkmoon Vale/Guide du Val de Sombrelune)&quot;);
+		$(&#39;.CSU10&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Irrisen - Land of Eternal Winter/Irrisen, Pays de l&#39;hiver &#233;ternel)&quot;);
+		$(&#39;.CSU11&#39;).attr(&#39;title&#39;, &quot;Source : Courts suppl&#233;ments univers (Ships of the Inner Sea/Navires de la mer Int&#233;rieure)&quot;)
+	});
+&lt;/script&gt;
+&lt;a class=&quot;CSU1&quot; href=&quot;/Wiki/Pathfinder-RPG.Courts suppl&#233;ments univers (Contenu).ashx#1&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/LogoCSU.jpg&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Le cavalier et sa monture sont capables de briser les lignes ennemies sous la fureur de leur assaut.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Combat-Mont&#233;.html&quot; title=&quot;Combat mont&#233;&quot;&gt;Combat mont&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#233;tinement.html&quot; title=&quot;Pi&#233;tinement&quot;&gt;Pi&#233;tinement&lt;/a&gt;, 5 rangs en &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Le personnage peut &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Renversement.html&quot; title=&quot;renversement&quot;&gt;renverser&lt;/a&gt; plus d’une cr&#233;ature lors de son tour. &#192; chaque fois qu’il fait une manoeuvre de renversement apr&#232;s la premi&#232;re, il re&#231;oit un malus cumulatif de –5. S’il n’arrive pas &#224; renverser une cible, il doit terminer son mouvement. La monture a droit &#224; une seule attaque de sabot contre une cible renvers&#233;e lors de la charge (pas une par adversaire &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#192;terre.html&quot; title=&quot;&#192; terre&quot;&gt;&#224; terre&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Normal.&lt;/b&gt; Le personnage ne peut faire qu’une tentative de &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Renversement.html&quot; title=&quot;renversement&quot;&gt;renversement&lt;/a&gt; par &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;round&lt;/a&gt;.
+]]></body>
+  <raw><![CDATA[{s:Desambi|La première itération de ce don, dans [[Courts suppléments univers (Contenu)|Cités de Golarion]], nécessitait le prérequis "affinité avec le Dernier Rempart".}{s:CSU|1}''Le cavalier et sa monture sont capables de briser les lignes ennemies sous la fureur de leur assaut.''
+
+'''Conditions.''' [[Combat monté]], [[Piétinement]], 5 rangs en [[Équitation]]
+
+'''Avantages.''' Le personnage peut [[renversement|renverser]] plus d’une créature lors de son tour. À chaque fois qu’il fait une manoeuvre de renversement après la première, il reçoit un malus cumulatif de –5. S’il n’arrive pas à renverser une cible, il doit terminer son mouvement. La monture a droit à une seule attaque de sabot contre une cible renversée lors de la charge (pas une par adversaire [[à terre]]).
+
+'''Normal.''' Le personnage ne peut faire qu’une tentative de [[renversement]] par [[round]].]]></raw>
+  <fullName>Pathfinder-RPG.Charge de cavalerie</fullName>
+</wikiPage>

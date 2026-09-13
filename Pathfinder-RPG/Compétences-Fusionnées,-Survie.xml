@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Compétences fusionnées, Survie</title>
+  <categories><category>Pathfinder-RPG.Src Pathfinder unchained</category></categories>
+  <lastModified>2020-11-18 13:57:23Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences fusionnées, Survie</link><link>Pathfinder-RPG.Compétences groupées</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Sagesse</link><link>Pathfinder-RPG.Compétences fusionnées, Survie</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Compétences fusionnées, Perception</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Règles alternatives unchained</link><link>Pathfinder-RPG.Classes unchained</link><link>Pathfinder-RPG.Barbare unchained</link><link>Pathfinder-RPG.conjurateur unchained</link><link>Pathfinder-RPG.Moine unchained</link><link>Pathfinder-RPG.Roublard unchained</link><link>Pathfinder-RPG.Bonus de base fractionnaires</link><link>Pathfinder-RPG.Progression échelonnée</link><link>Pathfinder-RPG.Compétences et options unchained</link><link>Pathfinder-RPG.Compétences contextuelles</link><link>Pathfinder-RPG.Compétences fusionnées</link><link>Pathfinder-RPG.Compétences groupées</link><link>Pathfinder-RPG.Artisanat et Profession alternatives</link><link>Pathfinder-RPG.Extensions de compétences</link><link>Pathfinder-RPG.Variante de multiclassage</link><link>Pathfinder-RPG.Mécanismes de jeu unchained</link><link>Pathfinder-RPG.Alignement unchained</link><link>Pathfinder-RPG.Éliminer lalignement</link><link>Pathfinder-RPG.Gestion dactions révisée</link><link>Pathfinder-RPG.Éliminer les attaques multiples</link><link>Pathfinder-RPG.Endurance et Astuces martiales</link><link>Pathfinder-RPG.Seuils de blessure</link><link>Pathfinder-RPG.Maladies et poisons unchained</link><link>Pathfinder-RPG.Magie unchained</link><link>Pathfinder-RPG.Incantation simplifiée</link><link>Pathfinder-RPG.Altérations de la magie</link><link>Pathfinder-RPG.Composantes matérielles ésotériques</link><link>Pathfinder-RPG.Bonus de progression automatique</link><link>Pathfinder-RPG.Bonus intrinsèques des objets</link><link>Pathfinder-RPG.Objets évolutifs</link><link>Pathfinder-RPG.Création dynamique dobjets magiques</link><link>Pathfinder-RPG.Création de monstres simplifiée</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 1</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 2</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 3</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 4</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 5</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 6</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 7</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 8</link><link>Pathfinder-RPG.Création de monstres simplifiée, Étape 9</link><link>Pathfinder-RPG.Création de monstres simplifiée, Exemple</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles alternatives unchained&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_alternatives_unchained_0&quot; href=&quot;#R&#232;gles_alternatives_unchained_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Alternatives-Unchained.html&quot; title=&quot;R&#232;gles alternatives unchained&quot;&gt;Pr&#233;sentation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonClasses&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Classes&#39;);&quot; onmouseout=&quot;outButton(&#39;Classes&#39;);&quot; onclick=&quot;expandMenu(&#39;Classes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-Unchained.html&quot; title=&quot;Classes unchained&quot;&gt;Classes unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Classes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare-Unchained.html&quot; title=&quot;Le barbare unchained&quot;&gt;Barbare unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;Conjurateur unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Moine-Unchained.html&quot; title=&quot;Le moine unchained&quot;&gt;Moine unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard-Unchained.html&quot; title=&quot;Le roublard unchained&quot;&gt;Roublard unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Base-Fractionnaires.html&quot; title=&quot;Bonus de base fractionnaires&quot;&gt;Bonus de base fractionnaires&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Progression-&#201;chelonn&#233;e.html&quot; title=&quot;Progression &#233;chelonn&#233;e&quot;&gt;Progression &#233;chelonn&#233;e&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonComp&#233;tences&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Comp&#233;tences&#39;);&quot; onmouseout=&quot;outButton(&#39;Comp&#233;tences&#39;);&quot; onclick=&quot;expandMenu(&#39;Comp&#233;tences&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Et-Options-Unchained.html&quot; title=&quot;Comp&#233;tences et options unchained&quot;&gt;Comp&#233;tences et options unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Comp&#233;tences&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Contextuelles.html&quot; title=&quot;Comp&#233;tences contextuelles&quot;&gt;Comp&#233;tences contextuelles&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es&quot;&gt;Comp&#233;tences fusionn&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Group&#233;es.html&quot; title=&quot;Comp&#233;tences group&#233;es&quot;&gt;Comp&#233;tences group&#233;es&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Artisanat-Et-Profession-Alternatives.html&quot; title=&quot;Artisanat et Profession alternatives&quot;&gt;Artisanat et Profession alternatives&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extensions-De-Comp&#233;tences.html&quot; title=&quot;Extensions de comp&#233;tences&quot;&gt;Extensions de comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variante-De-Multiclassage.html&quot; title=&quot;Variante de multiclassage&quot;&gt;Variante de multiclassage&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonM&#233;canismes&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;M&#233;canismes&#39;);&quot; onmouseout=&quot;outButton(&#39;M&#233;canismes&#39;);&quot; onclick=&quot;expandMenu(&#39;M&#233;canismes&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;canismes-De-Jeu-Unchained.html&quot; title=&quot;M&#233;canismes de jeu unchained&quot;&gt;M&#233;canismes de jeu unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;M&#233;canismes&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Unchained.html&quot; title=&quot;L&amp;#39;alignement unchained&quot;&gt;Alignement unchained&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Lalignement.html&quot; title=&quot;&#201;liminer l&amp;#39;alignement&quot;&gt;&#201;liminer l&#39;alignement&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gestion-Dactions-R&#233;vis&#233;e.html&quot; title=&quot;Gestion d&amp;#39;actions r&#233;vis&#233;e&quot;&gt;Gestion d&#39;actions r&#233;vis&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Les-Attaques-Multiples.html&quot; title=&quot;&#201;liminer les attaques multiples&quot;&gt;&#201;liminer les attaques multiples&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Endurance-Et-Astuces-Martiales.html&quot; title=&quot;Endurance et Astuces martiales&quot;&gt;Endurance et Astuces martiales&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seuils-De-Blessure.html&quot; title=&quot;Seuils de blessure&quot;&gt;Seuils de blessure&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies-Et-Poisons-Unchained.html&quot; title=&quot;Maladies et poisons unchained&quot;&gt;Maladies et poisons unchained&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMagie&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Magie&#39;);&quot; onmouseout=&quot;outButton(&#39;Magie&#39;);&quot; onclick=&quot;expandMenu(&#39;Magie&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Unchained.html&quot; title=&quot;Magie unchained&quot;&gt;Magie unchained&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Magie&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Simplifi&#233;e.html&quot; title=&quot;Incantation simplifi&#233;e&quot;&gt;Incantation simplifi&#233;e&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alt&#233;rations-De-La-Magie.html&quot; title=&quot;Alt&#233;rations de la magie&quot;&gt;Alt&#233;rations de la magie&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Composantes-Mat&#233;rielles-&#201;sot&#233;riques.html&quot; title=&quot;Composantes mat&#233;rielles &#233;sot&#233;riques&quot;&gt;Composantes mat&#233;rielles &#233;sot&#233;riques&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Progression-Automatique.html&quot; title=&quot;Bonus de progression automatique&quot;&gt;Bonus de progression automatique&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-Intrins&#232;ques-Des-Objets.html&quot; title=&quot;Bonus intrins&#232;ques des objets&quot;&gt;Bonus intrins&#232;ques des objets&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-&#201;volutifs.html&quot; title=&quot;Objets &#233;volutifs&quot;&gt;Objets &#233;volutifs&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dynamique-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation dynamique d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation dynamique d&#39;objets magiques&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMonstres&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Monstres&#39;);&quot; onmouseout=&quot;outButton(&#39;Monstres&#39;);&quot; onclick=&quot;expandMenu(&#39;Monstres&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e&quot;&gt;Cr&#233;ation de monstres simplifi&#233;e&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Monstres&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-1.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 1 : La gamme&quot;&gt;&#201;tape 1. La gamme&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-2.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 2 : La greffe de type de cr&#233;ature ou de classe&quot;&gt;&#201;tape 2. La greffe de type de cr&#233;ature ou de classe&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-3.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 3 : La greffe de sous-type&quot;&gt;&#201;tape 3. La greffe de sous-type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-4.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 4 : La greffe d&amp;#39;arch&#233;type&quot;&gt;&#201;tape 4. La greffe d’arch&#233;type&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-5.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 5 : La greffe de taille&quot;&gt;&#201;tape 5. La greffe de taille&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-6.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 6&quot;&gt;&#201;tape 6. Les sorts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-7.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 7 : Les options de monstre&quot;&gt;&#201;tape 7. Les options de monstre&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-8.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 8&quot;&gt;&#201;tape 8. Les comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-9.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 9&quot;&gt;&#201;tape 9. Les d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-Exemple.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, Exemple&quot;&gt;Exemples de cr&#233;ation de monstres&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Pathfinder unchained (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Pathfinder unchained&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoPU.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Le personnage sait comment survivre et s’orienter dans les r&#233;gions sauvages. Il sait &#233;galement soigner les blessures.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Caract&#233;ristique associ&#233;e :&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Sagesse.html&quot; title=&quot;La Sagesse&quot;&gt;Sagesse&lt;/a&gt; ; &lt;b&gt;Formation n&#233;cessaire :&lt;/b&gt; Non ; &lt;b&gt;Malus d&#39;armure :&lt;/b&gt; Non&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Fonctions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Survie.html#DETERMINERLADIRECTIONDUNORD&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Survie&quot;&gt;D&#233;terminer la direction du nord&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Survie.html#SOIGNERLESBLESSURESETAUTRESMAUX&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Survie&quot;&gt;soigner les blessures et autres maux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Survie.html#SUIVREDESTRACES&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Survie&quot;&gt;suivre des traces&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Survie.html#SURVIVREENPLEINENATURE&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Survie&quot;&gt;survivre en pleine nature&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Comp&#233;tences de base.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;DETERMINERLADIRECTIONDUNORD&quot; href=&quot;#DETERMINERLADIRECTIONDUNORD&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;D&#233;terminer la direction du nord&lt;a class=&quot;headeranchor&quot; id=&quot;D&#233;terminer_la_direction_du_nord_0&quot; href=&quot;#D&#233;terminer_la_direction_du_nord_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Un personnage form&#233; dans la comp&#233;tence de Survie peut automatiquement d&#233;terminer la direction du nord.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Aucune.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SOIGNERLESBLESSURESETAUTRESMAUX&quot; href=&quot;#SOIGNERLESBLESSURESETAUTRESMAUX&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Soigner les blessures et autres maux&lt;a class=&quot;headeranchor&quot; id=&quot;Soigner_les_blessures_et_autres_maux_1&quot; href=&quot;#Soigner_les_blessures_et_autres_maux_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Cette fonction de la comp&#233;tence de Survie fonctionne comme la comp&#233;tence de base de &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Il faut une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; pour donner les premiers secours et soigner un empoisonnement. Pour soigner une maladie ou une cr&#233;ature bless&#233;e par un sort de croissance d’&#233;pines ou de pierres ac&#233;r&#233;es, il faut dix minutes de travail et il faut une heure pour traiter des blessures mortelles. Les soins suivis demandent huit heures d’activit&#233; r&#233;duite.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Variable. En r&#232;gle g&#233;n&#233;rale, il est impossible de tenter un nouveau test de Survie pour soigner les blessures et autres maux sans avoir une preuve de l’&#233;chec du premier test. Il est toujours possible d’effectuer un autre test pour stabiliser un compagnon mourant, &#224; condition que celui-ci soit toujours vivant.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SUIVREDESTRACES&quot; href=&quot;#SUIVREDESTRACES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Suivre des traces&lt;a class=&quot;headeranchor&quot; id=&quot;Suivre_des_traces_2&quot; href=&quot;#Suivre_des_traces_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Type de sol&lt;/td&gt;&lt;td&gt;DD du test&lt;br /&gt;de Survie&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Tr&#232;s mou&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mou&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ferme&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dur&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;Le personnage doit r&#233;ussir un test de Survie pour rep&#233;rer des traces ou les suivre sur une distance de 1,5 kilom&#232;tre. Il faut r&#233;ussir un nouveau test chaque fois que la piste devient difficile &#224; suivre. Lorsqu’il suit une piste, le personnage se d&#233;place &#224; la moiti&#233; de sa vitesse de d&#233;placement normale. Il peut choisir de se d&#233;placer &#224; sa vitesse normale en acceptant un malus de -5 ou au double de sa vitesse normale avec un malus de -20. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du test d&#233;pend du type de sol et des conditions en vigueur.
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;Sol tr&#232;s mou.&lt;/i&gt; Toute surface (neige fra&#238;che, &#233;paisse couche de poussi&#232;re, boue visqueuse) sur laquelle les pas laissent des empreintes profondes et faciles &#224; rep&#233;rer.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Sol mou.&lt;/i&gt; Toute surface suffisamment molle pour c&#233;der &#224; une pression mais plus ferme que de la boue visqueuse ou de la neige fra&#238;che. Une cr&#233;ature y laisse des empreintes nombreuses mais peu profondes.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Sol ferme.&lt;/i&gt; Ce type de sol rassemble la plupart des surfaces courantes en pleine nature (herbe, champs, for&#234;t et terrains similaires) ou les sols en int&#233;rieur couverts de poussi&#232;re ou exceptionnellement mous (tapis &#233;pais ou sols particuli&#232;rement poussi&#233;reux). Une cr&#233;ature peut y laisser quelques traces (des branches cass&#233;es ou des touffes de cheveux) mais ses empreintes sont parcellaires et peu fr&#233;quentes.&lt;/li&gt;&lt;li&gt;&lt;i&gt;Sol dur.&lt;/i&gt; Toute surface sur laquelle aucune empreinte ne peut &#234;tre laiss&#233;e, comme de la roche nue ou les sols classiques &#224; l’int&#233;rieur d’une b&#226;tisse. La majorit&#233; des lits de cours d’eau tombe dans cette cat&#233;gorie car les empreintes y sont rapidement effac&#233;es. Les cr&#233;atures y laissent quelques traces seulement (des &#233;raflures ou des cailloux d&#233;plac&#233;s).&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Divers modificateurs li&#233;s aux conditions indiqu&#233;es dans la table ci-dessous s’appliquent au test de Survie. Plusieurs conditions peuvent affecter un m&#234;me test mais, en ce qui concerne le modificateur de taille des cr&#233;atures, seul celui correspondant &#224; la cr&#233;ature la plus grande du groupe traqu&#233; s’applique. De la m&#234;me fa&#231;on, seul le malus de mauvaise visibilit&#233; le plus important s’applique.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Conditions en vigueur&lt;/td&gt;&lt;td&gt;Mod au DD du test de Survie&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Par tranche de trois cr&#233;atures au sein du groupe pist&#233;&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Taille des cr&#233;atures pist&#233;es :&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Infime (I)&lt;/td&gt;&lt;td&gt;+8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Minuscule (Min)&lt;/td&gt;&lt;td&gt;+4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Tr&#232;s petite (TP)&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Petite (P)&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Moyenne (M)&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Grande (G)&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Tr&#232;s grande (TG)&lt;/td&gt;&lt;td&gt;-2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Gigantesque (Gig)&lt;/td&gt;&lt;td&gt;-4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Colossale (C)&lt;/td&gt;&lt;td&gt;-8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Par tranche de 24 heures &#233;coul&#233;es depuis que la piste a &#233;t&#233; laiss&#233;e&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Par heure de pluie depuis que la piste a &#233;t&#233; laiss&#233;e&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chute de neige depuis que la piste a &#233;t&#233; laiss&#233;e&lt;/td&gt;&lt;td&gt;+10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Mauvaise visibilit&#233; :&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&amp;emsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Brouillard ou pr&#233;cipitation&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Clair de lune&lt;/td&gt;&lt;td&gt;+3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&amp;emsp;Ciel nocturne couvert ou nuit sans lune&lt;/td&gt;&lt;td&gt;+6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Le groupe pist&#233; masque sa piste et r&#233;duit de moiti&#233; sa vitesse de d&#233;placement&lt;/td&gt;&lt;td&gt;+5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; ou plus.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Le personnage peut effectuer un nouveau test si le pr&#233;c&#233;dent est rat&#233; au bout d’une heure de recherche (en pleine nature) ou de dix minutes (en int&#233;rieur).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Aucune formation.&lt;/b&gt; Un personnage sans formation dans cette comp&#233;tence peut quand m&#234;me tenter de suivre des traces si le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de la t&#226;che est inf&#233;rieur ou &#233;gal &#224; 10.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Perception.&lt;/b&gt; Un personnage peut choisir d’utiliser la comp&#233;tence de &lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es,-Perception.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es, Perception&quot;&gt;Perception&lt;/a&gt; contre le m&#234;me &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; que les tests de Survie afin de rep&#233;rer une empreinte ou un autre signe du passage d’une cr&#233;ature. Cependant, la comp&#233;tence de Perception ne permet pas de suivre une piste.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SURVIVREENPLEINENATURE&quot; href=&quot;#SURVIVREENPLEINENATURE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Survivre en pleine nature&lt;a class=&quot;headeranchor&quot; id=&quot;Survivre_en_pleine_nature_3&quot; href=&quot;#Survivre_en_pleine_nature_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 4px 8px&quot;&gt;
+&lt;div style=&quot;border: 1px solid #4b3124; padding: 4px&quot;&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;T&#226;che&lt;/td&gt;&lt;td&gt;DD du test&lt;br /&gt;de Survie&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;Se d&#233;brouiller en pleine nature&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;R&#233;sister aux rigueurs du climat&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#201;viter les dangers naturels tels&lt;br /&gt;que des sables mouvants&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&#201;viter de se perdre&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pr&#233;dire les conditions climatiques&lt;br /&gt;des 24 prochaines heures&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;/div&gt;&lt;/div&gt;En pleine nature, le personnage est capable d’assurer sa propre s&#233;curit&#233; et sa subsistance ainsi que celles de ses compagnons. Utilisez les DD de la table suivante pour certaines t&#226;ches.&lt;br /&gt;&lt;br /&gt;Quand le personnage se retrouve en pleine nature, il peut avancer &#224; la moiti&#233; de sa vitesse de d&#233;placement normale en chassant et en cueillant pour se nourrir et peut ainsi subsister sans r&#233;serve d’eau ni de nourriture. Il peut trouver suffisamment de nourriture et d’eau pour sustenter une personne de plus par tranche de 2 points de diff&#233;rence entre le r&#233;sultat du test et le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 10.&lt;br /&gt;&lt;br /&gt;Quand il r&#233;siste aux conditions climatiques, le personnage acquiert un bonus de +2 aux jets de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; effectu&#233;s contre les rigueurs du climat s’il se d&#233;place &#224; mi-vitesse ou un bonus de +4 s’il reste stationnaire. Il peut conf&#233;rer le m&#234;me bonus &#224; une personne de plus par point de diff&#233;rence entre le r&#233;sultat du test et le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 15.&lt;br /&gt;&lt;br /&gt;Quand il pr&#233;dit les conditions climatiques, le personnage peut effectuer des pr&#233;dictions pour une journ&#233;e de plus par tranche de 5 points de diff&#233;rence entre le r&#233;sultat du test et le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de 15.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Action.&lt;/b&gt; Variable. Un unique test de Survie peut repr&#233;senter une dur&#233;e allant de plusieurs heures &#224; une journ&#233;e enti&#232;re d’activit&#233;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nouvelles tentatives.&lt;/b&gt; Pour subvenir &#224; ses besoins en pleine nature ou r&#233;sister aux rigueurs du climat, le personnage effectue un seul test de Survie toutes les vingt-quatre heures. Pour ne pas se perdre ou pour &#233;viter les dangers naturels, le personnage effectue un test chaque fois que n&#233;cessaire mais chacun de ces tests ne peut &#234;tre tent&#233; qu’une seule fois.
+]]></body>
+  <raw><![CDATA[{s:MenuPathfinderunchained}{s:PU}''Le personnage sait comment survivre et s’orienter dans les régions sauvages. Il sait également soigner les blessures.''
+
+'''Caractéristique associée :''' [[Sagesse]] ; '''Formation nécessaire :''' Non ; '''Malus d'armure :''' Non
+
+'''Fonctions.''' [[Compétences fusionnées, Survie#DETERMINERLADIRECTIONDUNORD|Déterminer la direction du nord]], [[Compétences fusionnées, Survie#SOIGNERLESBLESSURESETAUTRESMAUX|soigner les blessures et autres maux]], [[Compétences fusionnées, Survie#SUIVREDESTRACES|suivre des traces]], [[Compétences fusionnées, Survie#SURVIVREENPLEINENATURE|survivre en pleine nature]].
+
+'''Compétences de base.''' [[Premiers secours]], [[Survie]].
+
+{s:Reference|DETERMINERLADIRECTIONDUNORD}
+===Déterminer la direction du nord===
+Un personnage formé dans la compétence de Survie peut automatiquement déterminer la direction du nord.
+
+'''Action.''' Aucune.
+
+{s:Reference|SOIGNERLESBLESSURESETAUTRESMAUX}
+===Soigner les blessures et autres maux===
+Cette fonction de la compétence de Survie fonctionne comme la compétence de base de [[Premiers secours]].
+
+'''Action.''' Il faut une [[action simple]] pour donner les premiers secours et soigner un empoisonnement. Pour soigner une maladie ou une créature blessée par un sort de croissance d’épines ou de pierres acérées, il faut dix minutes de travail et il faut une heure pour traiter des blessures mortelles. Les soins suivis demandent huit heures d’activité réduite.
+
+'''Nouvelles tentatives.''' Variable. En règle générale, il est impossible de tenter un nouveau test de Survie pour soigner les blessures et autres maux sans avoir une preuve de l’échec du premier test. Il est toujours possible d’effectuer un autre test pour stabiliser un compagnon mourant, à condition que celui-ci soit toujours vivant.
+
+{s:Reference|SUIVREDESTRACES}
+===Suivre des traces===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Type de sol || DD du test<br>de Survie
+|- CLASS="premier"
+| Très mou || 5
+|-
+| Mou || 10
+|-
+| Ferme || 15
+|-
+| Dur || 20
+|}
+</center></div></div>Le personnage doit réussir un test de Survie pour repérer des traces ou les suivre sur une distance de 1,5 kilomètre. Il faut réussir un nouveau test chaque fois que la piste devient difficile à suivre. Lorsqu’il suit une piste, le personnage se déplace à la moitié de sa vitesse de déplacement normale. Il peut choisir de se déplacer à sa vitesse normale en acceptant un malus de -5 ou au double de sa vitesse normale avec un malus de -20. Le [[DD]] du test dépend du type de sol et des conditions en vigueur.
+* ''Sol très mou.'' Toute surface (neige fraîche, épaisse couche de poussière, boue visqueuse) sur laquelle les pas laissent des empreintes profondes et faciles à repérer.
+* ''Sol mou.'' Toute surface suffisamment molle pour céder à une pression mais plus ferme que de la boue visqueuse ou de la neige fraîche. Une créature y laisse des empreintes nombreuses mais peu profondes.
+* ''Sol ferme.'' Ce type de sol rassemble la plupart des surfaces courantes en pleine nature (herbe, champs, forêt et terrains similaires) ou les sols en intérieur couverts de poussière ou exceptionnellement mous (tapis épais ou sols particulièrement poussiéreux). Une créature peut y laisser quelques traces (des branches cassées ou des touffes de cheveux) mais ses empreintes sont parcellaires et peu fréquentes.
+* ''Sol dur.'' Toute surface sur laquelle aucune empreinte ne peut être laissée, comme de la roche nue ou les sols classiques à l’intérieur d’une bâtisse. La majorité des lits de cours d’eau tombe dans cette catégorie car les empreintes y sont rapidement effacées. Les créatures y laissent quelques traces seulement (des éraflures ou des cailloux déplacés).
+
+Divers modificateurs liés aux conditions indiquées dans la table ci-dessous s’appliquent au test de Survie. Plusieurs conditions peuvent affecter un même test mais, en ce qui concerne le modificateur de taille des créatures, seul celui correspondant à la créature la plus grande du groupe traqué s’applique. De la même façon, seul le malus de mauvaise visibilité le plus important s’applique.
+
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Conditions en vigueur || Mod au DD du test de Survie
+|- CLASS="premier"
+| Par tranche de trois créatures au sein du groupe pisté || -1
+|-
+| '''Taille des créatures pistées :''' || &emsp;
+|-
+| &emsp;Infime (I) || +8
+|-
+| &emsp;Minuscule (Min) || +4
+|-
+| &emsp;Très petite (TP) || +2
+|-
+| &emsp;Petite (P) || +1
+|-
+| &emsp;Moyenne (M) || 0
+|-
+| &emsp;Grande (G) || -1
+|-
+| &emsp;Très grande (TG) || -2
+|-
+| &emsp;Gigantesque (Gig) || -4
+|-
+| &emsp;Colossale (C) || -8
+|-
+| Par tranche de 24 heures écoulées depuis que la piste a été laissée || +1
+|-
+| Par heure de pluie depuis que la piste a été laissée || +1
+|-
+| Chute de neige depuis que la piste a été laissée || +10
+|-
+| '''Mauvaise visibilité :''' || &emsp;
+|-
+| &emsp;Brouillard ou précipitation || +3
+|-
+| &emsp;Clair de lune || +3
+|-
+| &emsp;Ciel nocturne couvert ou nuit sans lune || +6
+|-
+| Le groupe pisté masque sa piste et réduit de moitié sa vitesse de déplacement || +5
+|}
+</center>
+
+'''Action.''' Une [[action complexe]] ou plus.
+
+'''Nouvelles tentatives.''' Le personnage peut effectuer un nouveau test si le précédent est raté au bout d’une heure de recherche (en pleine nature) ou de dix minutes (en intérieur).
+
+'''Aucune formation.''' Un personnage sans formation dans cette compétence peut quand même tenter de suivre des traces si le [[DD]] de la tâche est inférieur ou égal à 10.
+
+'''Perception.''' Un personnage peut choisir d’utiliser la compétence de [[Compétences fusionnées, Perception|Perception]] contre le même [[DD]] que les tests de Survie afin de repérer une empreinte ou un autre signe du passage d’une créature. Cependant, la compétence de Perception ne permet pas de suivre une piste.
+
+{s:Reference|SURVIVREENPLEINENATURE}
+===Survivre en pleine nature===
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Tâche || DD du test<br>de Survie
+|- CLASS="premier"
+| Se débrouiller en pleine nature || 10
+|-
+| Résister aux rigueurs du climat || 15
+|-
+| Éviter les dangers naturels tels<br>que des sables mouvants || 15
+|-
+| Éviter de se perdre || 15
+|-
+| Prédire les conditions climatiques<br>des 24 prochaines heures || 15
+|}
+</center></div></div>En pleine nature, le personnage est capable d’assurer sa propre sécurité et sa subsistance ainsi que celles de ses compagnons. Utilisez les DD de la table suivante pour certaines tâches.
+
+Quand le personnage se retrouve en pleine nature, il peut avancer à la moitié de sa vitesse de déplacement normale en chassant et en cueillant pour se nourrir et peut ainsi subsister sans réserve d’eau ni de nourriture. Il peut trouver suffisamment de nourriture et d’eau pour sustenter une personne de plus par tranche de 2 points de différence entre le résultat du test et le [[DD]] de 10.
+
+Quand il résiste aux conditions climatiques, le personnage acquiert un bonus de +2 aux jets de [[Vigueur]] effectués contre les rigueurs du climat s’il se déplace à mi-vitesse ou un bonus de +4 s’il reste stationnaire. Il peut conférer le même bonus à une personne de plus par point de différence entre le résultat du test et le [[DD]] de 15.
+
+Quand il prédit les conditions climatiques, le personnage peut effectuer des prédictions pour une journée de plus par tranche de 5 points de différence entre le résultat du test et le [[DD]] de 15.
+
+'''Action.''' Variable. Un unique test de Survie peut représenter une durée allant de plusieurs heures à une journée entière d’activité.
+
+'''Nouvelles tentatives.''' Pour subvenir à ses besoins en pleine nature ou résister aux rigueurs du climat, le personnage effectue un seul test de Survie toutes les vingt-quatre heures. Pour ne pas se perdre ou pour éviter les dangers naturels, le personnage effectue un test chaque fois que nécessaire mais chacun de ces tests ne peut être tenté qu’une seule fois.]]></raw>
+  <fullName>Pathfinder-RPG.Compétences fusionnées, Survie</fullName>
+</wikiPage>

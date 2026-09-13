@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Chausse-trappes vicieuses</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-16 19:59:25Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Gobelin (race)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Équipement daventurier</link><link>Pathfinder-RPG.Chausse-trappes (objet)</link><link>Pathfinder-RPG.Premiers secours</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Gobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 50 po ; &lt;b&gt;Poids&lt;/b&gt; 2 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quipement-Daventurier.html&quot; title=&quot;&#201;quipement d&amp;#39;aventurier&quot;&gt;&#201;quipement d&#39;aventurier&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Ces chausse-trappes sp&#233;cialement modifi&#233;es sont dot&#233;es de pointes effil&#233;es l&#233;g&#232;rement plus longues et plus fragiles que celles des &lt;a class=&quot;pagelink&quot; href=&quot;Chausse-Trappes-(Objet).html&quot; title=&quot;Chausse-trappes&quot;&gt;chausse-trappes classiques&lt;/a&gt;. Comme les chausse-trappes ordinaires, un sac de 1 kg de chausse-trappes vicieuses couvre une surface de 1,5 m de c&#244;t&#233;. Elles fonctionnent comme les chausse-trappes normales, mais leur bonus de base &#224; l&#39;attaque est de +4, elles infligent 1d2 points de d&#233;g&#226;ts et n&#233;cessitent un test de &lt;a class=&quot;pagelink&quot; href=&quot;Premiers-Secours.html&quot; title=&quot;Premiers secours&quot;&gt;Premiers secours&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 20 pour soigner la r&#233;duction de mouvement.
+]]></body>
+  <raw><![CDATA[{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}'''Prix''' 50 po ; '''Poids''' 2 kg  
+<span class="Catégorie">'''Catégorie''' [[Équipement daventurier|Équipement d'aventurier]]</span>
+<hr>
+Ces chausse-trappes spécialement modifiées sont dotées de pointes effilées légèrement plus longues et plus fragiles que celles des [[Chausse-trappes (objet)|chausse-trappes classiques]]. Comme les chausse-trappes ordinaires, un sac de 1 kg de chausse-trappes vicieuses couvre une surface de 1,5 m de côté. Elles fonctionnent comme les chausse-trappes normales, mais leur bonus de base à l'attaque est de +4, elles infligent 1d2 points de dégâts et nécessitent un test de [[Premiers secours]] [[DD]] 20 pour soigner la réduction de mouvement.]]></raw>
+  <fullName>Pathfinder-RPG.Chausse-trappes vicieuses (objet)</fullName>
+</wikiPage>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Créature boréale, Guenaude annis boréale</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Irrisen, Pays de lhiver éternel</category></categories>
+  <lastModified>2021-07-31 19:30:29Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.Créature boréale, archétype</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.type Humanoïde monstrueux</link><link>Pathfinder-RPG.sous-type froid</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Éventration (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.Nappe de brouillard</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Force intimidante</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Créature boréale, archétype</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Guenaude annis bor&#233;ale&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de monstrueux&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de monstrueux.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Marais&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Courts-Suppl&#233;ments-Univers-(Contenu).html&quot; title=&quot;Courts suppl&#233;ments univers (Contenu)&quot;&gt;Irrisen, pays de l&#39;hiver &#233;ternel p.56&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 3 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de-Monstrueux.html&quot; title=&quot;Humano&#239;de monstrueux&quot;&gt;Humano&#239;de monstrueux&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Froid.html&quot; title=&quot;Froid (sous-type)&quot;&gt;froid&lt;/a&gt;) de taille G, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +1 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 10, pris au d&#233;pourvu 19 (Dex +1, naturelle +10, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 73 (7d10+35)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +9, &lt;b&gt;Vol&lt;/b&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/contondant ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; froid ; &lt;b&gt;RM&lt;/b&gt; 17
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; vuln&#233;rable au feu
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +14 (1d6+8 plus 1d6 froid), 2 griffes, +14 (1d6+8 plus 1d6 froid)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 3 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;&#201;ventration-(Capacit&#233;).html&quot; title=&quot;&#201;ventration (Ext)&quot;&gt;&#233;ventration&lt;/a&gt; (2 griffes, 1d6+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 7 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +7)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d’apparence&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nappe-De-Brouillard.html&quot; title=&quot;Nappe de brouillard&quot;&gt;nappe de brouillard&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 27, &lt;b&gt;Dex&lt;/b&gt; 12, &lt;b&gt;Con&lt;/b&gt; 20, &lt;b&gt;Int&lt;/b&gt; 13, &lt;b&gt;Sag&lt;/b&gt; 13, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +7, &lt;b&gt;BMO&lt;/b&gt; +16, &lt;b&gt;DMD&lt;/b&gt; 26
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Combat-En-Aveugle.html&quot; title=&quot;Combat en aveugle&quot;&gt;Combat en aveugle&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Force-Intimidante.html&quot; title=&quot;Force intimidante&quot;&gt;Force intimidante&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +7 (+11 dans la neige), &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +18, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +3 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en Discr&#233;tion (dans la neige), +4 en Survie (dans la neige)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun, g&#233;ant
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; absence de traces
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; mar&#233;cages froids
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire ou cercle (3 guenaudes de n’importe quel type)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Absence de traces (Ext).&lt;/b&gt; Une guenaude annis bor&#233;ale se d&#233;place dans la neige sans laisser de traces et ne peut pas &#234;tre pist&#233;e. Elle peut cependant choisir de laisser des empreintes si elle le d&#233;sire.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir l&#39;arch&#233;type &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ature-Bor&#233;ale,-Arch&#233;type.html&quot; title=&quot;Cr&#233;ature bor&#233;ale, arch&#233;type&quot;&gt;Cr&#233;ature bor&#233;ale&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;i&gt;Cette vieille femme bossue est d’une laideur repoussante. Sa peau d’une blancheur cadav&#233;rique est couverte de t&#226;ches marron et jaune qui font penser &#224; des bleus. Bien qu’elle soit courb&#233;e, elle reste bien plus grande qu’un humain.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Depuis l’invasion de Baba Yaga, de nombreuses cr&#233;atures natives de l&#39;est du Royaume glac&#233; des vikings ont disparu, incapables de s’adapter &#224; l’hiver permanent et surnaturel du pays. Cependant, malgr&#233; ce changement radical de climat, quelques sp&#233;cimens particuli&#232;rement r&#233;sistants ont r&#233;ussi &#224; survivre et, au cours des si&#232;cles, les forces magiques qui maintiennent le royaume sous les neiges ont permis l’&#233;volution d’esp&#232;ces mieux adapt&#233;es &#224; ce rude environnement.&lt;br /&gt;&lt;br /&gt;Bien que les cr&#233;atures bor&#233;ales aient de nombreux points communs avec leurs cong&#233;n&#232;res vivant dans les climats temp&#233;r&#233;s, l’hiver surnaturel les a rendues plus fortes et bien plus dangereuses qu’eux. Et si elles ressemblent physiquement &#224; leurs anc&#234;tres, leur nature diff&#233;rente est trahie par d’autres caract&#233;ristiques. Leur fourrure et leur peau, par exemple, sont bien plus p&#226;les, souvent dans des teintes de bleu, de gris ou simplement blanches, et il n’est pas rare que ces cr&#233;atures soient partiellement recouvertes de givre, tout particuli&#232;rement leurs griffes ac&#233;r&#233;es et leur &#233;paisse fourrure.
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Guenaude annis boréale|FP 7}
+{s:pucem|Humanoïde monstrueux|Marais|Froid}
+{s:BDtexte|''Source : [[Courts suppléments univers (Contenu)|Irrisen, pays de l'hiver éternel p.56]]''}
+{s:BDtexte|'''PX''' 3 200}
+{s:BDtexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type froid|froid]]) de taille G, CM}
+{s:BDtexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir (capacité)|vision dans le noir]] 18 m ; [[Perception]] +13}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 20, contact 10, pris au dépourvu 19 (Dex +1, naturelle +10, taille -1)}
+{s:BDtexte|'''pv''' 73 (7d10+35)}
+{s:BDtexte|'''Réf''' +6, '''Vig''' +9, '''Vol''' +6}
+{s:BDtexte|'''RD''' 5/contondant ; '''Immunités''' froid ; '''RM''' 17}
+{s:BDtexte|'''Faiblesses''' vulnérable au feu}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 9 m}
+{s:BDtexte|'''Corps à corps''' morsure, +14 (1d6+8 plus 1d6 froid), 2 griffes, +14 (1d6+8 plus 1d6 froid)}
+{s:BDtexte|'''Espace occupé''' 3 m ; '''Allonge''' 3 m}
+{s:BDtexte|'''Attaques spéciales''' [[Éventration (capacité)|éventration]] (2 griffes, 1d6+12)}
+{s:BDtexte|'''Pouvoirs magiques''' ([[NLS]] 7 ; [[concentration]] +7)}
+{s:BDsorts|3/jour — ''[[modification dapparence|modification d’apparence]]'', ''[[nappe de brouillard]]''}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|'''For''' 27, '''Dex''' 12, '''Con''' 20, '''Int''' 13, '''Sag''' 13, '''Cha''' 10}
+{s:BDtexte|'''BBA''' +7, '''BMO''' +16, '''DMD''' 26}
+{s:BDtexte|'''Dons''' [[Combat en aveugle]], [[Force intimidante]], [[Vigilance]], [[Vigueur surhumaine]]}
+{s:BDtexte|'''Compétences''' [[Bluff]] +7, [[Diplomatie]] +7, [[Discrétion]] +7 (+11 dans la neige), [[Intimidation]] +18, [[Perception]] +13, [[Psychologie]] +3 ; '''Modificateurs raciaux''' +4 en Discrétion (dans la neige), +4 en Survie (dans la neige)}
+{s:BDtexte|'''Langues''' commun, géant}
+{s:BDtexte|'''Particularités''' absence de traces}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' marécages froids}
+{s:BDtexte|'''Organisation sociale''' solitaire ou cercle (3 guenaudes de n’importe quel type)}
+{s:BDtexte|'''Trésor''' standard}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Absence de traces (Ext).''' Une guenaude annis boréale se déplace dans la neige sans laisser de traces et ne peut pas être pistée. Elle peut cependant choisir de laisser des empreintes si elle le désire.}
+</div>
+</td>
+<td>
+<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir l'archétype [[Créature boréale, archétype|Créature boréale]].'''''</li></ul>
+''Cette vieille femme bossue est d’une laideur repoussante. Sa peau d’une blancheur cadavérique est couverte de tâches marron et jaune qui font penser à des bleus. Bien qu’elle soit courbée, elle reste bien plus grande qu’un humain.''
+
+Depuis l’invasion de Baba Yaga, de nombreuses créatures natives de l'est du Royaume glacé des vikings ont disparu, incapables de s’adapter à l’hiver permanent et surnaturel du pays. Cependant, malgré ce changement radical de climat, quelques spécimens particulièrement résistants ont réussi à survivre et, au cours des siècles, les forces magiques qui maintiennent le royaume sous les neiges ont permis l’évolution d’espèces mieux adaptées à ce rude environnement.
+
+Bien que les créatures boréales aient de nombreux points communs avec leurs congénères vivant dans les climats tempérés, l’hiver surnaturel les a rendues plus fortes et bien plus dangereuses qu’eux. Et si elles ressemblent physiquement à leurs ancêtres, leur nature différente est trahie par d’autres caractéristiques. Leur fourrure et leur peau, par exemple, sont bien plus pâles, souvent dans des teintes de bleu, de gris ou simplement blanches, et il n’est pas rare que ces créatures soient partiellement recouvertes de givre, tout particulièrement leurs griffes acérées et leur épaisse fourrure.
+</div>
+</td>
+</tr>
+</table>]]></raw>
+  <fullName>Pathfinder-RPG.Guenaude annis boréale</fullName>
+</wikiPage>

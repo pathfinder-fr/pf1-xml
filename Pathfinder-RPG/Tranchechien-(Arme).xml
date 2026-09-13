@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Tranchechien</title>
+  <categories><category>Pathfinder-RPG.Arme</category><category>Pathfinder-RPG.Src Armes et équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-10-01 16:03:06Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Armes et équipement (Contenu)</link><link>Pathfinder-RPG.Armes magiques spécifiques</link><link>Pathfinder-RPG.Armurerie de laventurier (Contenu)</link><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Gobelin incendiaire</link><link>Pathfinder-RPG.Gobelin vicieux</link><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.La Mer Intérieure (Contenu)</link><link>Pathfinder-RPG.Lame en ferraille</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Pionnier gobelin</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.groupe darmes</link><link>Pathfinder-RPG.Caractéristiques des armes</link><link>Pathfinder-RPG.Tableau récapitulatif des armes</link><link>Pathfinder-RPG.arme légère</link><link>Pathfinder-RPG.Gobelin (race)</link><link>Pathfinder-RPG.Gobelin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Gobelin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gobelin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Gobelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Armes et &#233;quipement (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Equipment/Armes et &#201;quipement&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoAE.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 8 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg ; &lt;b&gt;Groupes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Groupe-Darmes.html#Lamesl&#233;g&#232;res&quot; title=&quot;Les groupes d&amp;#39;arme du guerrier&quot;&gt;lames l&#233;g&#232;res&lt;/a&gt;  
+&lt;b&gt;D&#233;g&#226;ts&lt;/b&gt; 1d4 (P), 1d6 (M) ; &lt;b&gt;Critique&lt;/b&gt; 19-20/&#215;2 ; &lt;b&gt;Port&#233;e&lt;/b&gt; — ; &lt;b&gt;Type&lt;/b&gt; T ; &lt;b&gt;Sp&#233;cial&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#FRAGILE&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;fragile&lt;/a&gt;  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html#TABGUERRE&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Armes de guerre&lt;/a&gt; ; &lt;b&gt;Maniement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes#Armelegere.html&quot; title=&quot;arme l&#233;g&#232;re&quot;&gt;arme de corps &#224; corps l&#233;g&#232;re&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette lame courte et incurv&#233;e a &#233;t&#233; cr&#233;&#233;e par les &lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-(Race).html&quot; title=&quot;Les gobelins&quot;&gt;gobelins&lt;/a&gt; qui y percent souvent de nombreux trous pour en r&#233;duire le poids. La plupart des tranchechiens sont taill&#233;s pour les cr&#233;atures de taille P.
+]]></body>
+  <raw><![CDATA[{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}{s:AE}'''Prix''' 8 po ; '''Poids''' 0,5 kg ; '''Groupes''' [[Groupe darmes#Lameslégères|lames légères]]  
+'''Dégâts''' 1d4 (P), 1d6 (M) ; '''Critique''' 19-20/×2 ; '''Portée''' — ; '''Type''' T ; '''Spécial''' [[Caractéristiques des armes#FRAGILE|fragile]]  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; '''Maniement''' [[arme légère|arme de corps à corps légère]]</span>
+<hr>
+Cette lame courte et incurvée a été créée par les [[Gobelin (race)|gobelins]] qui y percent souvent de nombreux trous pour en réduire le poids. La plupart des tranchechiens sont taillés pour les créatures de taille P.]]></raw>
+  <fullName>Pathfinder-RPG.tranchechien (arme)</fullName>
+</wikiPage>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Coup ébranlant</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Don combat</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2018-06-03 21:05:34Z</lastModified>
+  <version>0</version>
+  <inLinks></inLinks>
+  <outLinks><link>Pathfinder-RPG.Dons</link><link>Pathfinder-RPG.For</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Frappe décisive</link><link>Pathfinder-RPG.BBA</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Codex monstrueux/Monster Codex&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMC.gif&quot; style=&quot;opacity: 0.7&quot; /&gt;
+&lt;/div&gt;&lt;i&gt;Le personnage sait o&#249; frapper pour faire chanceler son adversaire.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Cat&#233;gorie.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#DONCOMBAT&quot; title=&quot;Les dons&quot;&gt;combat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;For&quot;&gt;For&lt;/a&gt; 13, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Frappe-D&#233;cisive.html&quot; title=&quot;Frappe d&#233;cisive&quot;&gt;Frappe d&#233;cisive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Bonusdebasealattaque.html&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; +8.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Quand le personnage attaque un ennemi avec une Frappe d&#233;cisive, il peut d&#233;cider de subir un malus de –2 au jet d’attaque pour que cette attaque soit aussi une frappe d&#233;stabilisante. Il doit faire ce choix avant de faire son jet d’attaque. &lt;br /&gt;&lt;br /&gt;Si ce dernier se solde par une r&#233;ussite, la cible doit faire un jet de Vigueur DD = 10 + 1/2 niveau du personnage + modificateur de Force du personnage. Si elle &#233;choue, elle est chancelante jusqu’au d&#233;but du prochain tour du personnage. Une fois qu’elle s’est remise des effets du Coup &#233;branlant, elle est immunis&#233;e contre lui pendant 24 heures. &lt;br /&gt;&lt;br /&gt;Les cr&#233;atures artificielles, les cr&#233;atures immunis&#233;es contre les coups critiques, les cr&#233;atures intangibles, les plantes, les morts-vivants et les vases sont immunis&#233;s contre cet effet.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Ce don est d&#233;nomm&#233; coup d&#233;stabilisant dans le codex monstrueux. Cependant, cette d&#233;nomination d&#233;signe d&#233;j&#224; un autre don existant&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:cm}''Le personnage sait où frapper pour faire chanceler son adversaire.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[For]] 13, [[Attaque en puissance]], [[Frappe décisive]], [[BBA]] +8.
+
+'''Avantages.''' Quand le personnage attaque un ennemi avec une Frappe décisive, il peut décider de subir un malus de –2 au jet d’attaque pour que cette attaque soit aussi une frappe déstabilisante. Il doit faire ce choix avant de faire son jet d’attaque. 
+
+Si ce dernier se solde par une réussite, la cible doit faire un jet de Vigueur DD = 10 + 1/2 niveau du personnage + modificateur de Force du personnage. Si elle échoue, elle est chancelante jusqu’au début du prochain tour du personnage. Une fois qu’elle s’est remise des effets du Coup ébranlant, elle est immunisée contre lui pendant 24 heures. 
+
+Les créatures artificielles, les créatures immunisées contre les coups critiques, les créatures intangibles, les plantes, les morts-vivants et les vases sont immunisés contre cet effet.
+
+{s:Desambi|Ce don est dénommé coup déstabilisant dans le codex monstrueux. Cependant, cette dénomination désigne déjà un autre don existant}]]></raw>
+  <fullName>Pathfinder-RPG.Coup ébranlant</fullName>
+</wikiPage>

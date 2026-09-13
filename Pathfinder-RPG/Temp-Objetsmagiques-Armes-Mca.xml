@@ -1,0 +1,1083 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Armes - Manuel des Joueurs Règles Avancées</title>
+  <categories></categories>
+  <lastModified>2016-08-10 15:33:57Z</lastModified>
+  <version>30</version>
+  <inLinks><link>Pathfinder-RPG.Temp objetsmagiques armes MCA</link><link>Pathfinder-RPG.Temp-classes-avancées</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Temp objetsmagiques armes MCA</link><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Nécromancie</link><link>Pathfinder-RPG.Enchantement</link><link>Pathfinder-RPG.Scrupule</link><link>Pathfinder-RPG.Espoir</link><link>Pathfinder-RPG.splendeur de l’aigle</link><link>Pathfinder-RPG.Héroïsme</link><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Divination</link><link>Pathfinder-RPG.Héroïsme suprême</link><link>Pathfinder-RPG.Rapidité</link><link>Pathfinder-RPG.Corde enchantée</link><link>Pathfinder-RPG.Désintégration</link><link>Pathfinder-RPG.Réparation</link><link>Pathfinder-RPG.Science du croc-en-jambe</link><link>Pathfinder-RPG.Assistance divine</link><link>Pathfinder-RPG.Transfert de sorts</link><link>Pathfinder-RPG.Anathème</link><link>Pathfinder-RPG.Invocation</link><link>Pathfinder-RPG.Convocation dalliés naturels I</link><link>Pathfinder-RPG.Convocation de monstres I</link><link>Pathfinder-RPG.Animation dobjets</link><link>Pathfinder-RPG.Baiser du vampire</link><link>Pathfinder-RPG.Rapière du bretteur</link><link>Pathfinder-RPG.Lame du bourreau</link><link>Pathfinder-RPG.Rapière de déplacement tactique</link><link>Pathfinder-RPG.Fil du duelliste</link></outLinks>
+  <body><![CDATA[&lt;center&gt;
+&lt;table CLASS=&quot;tablo col1centre&quot;&gt;&lt;caption&gt;Propri&#233;t&#233;s sp&#233;ciales d’arme&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Propri&#233;t&#233; sp&#233;ciale d’arme +1&lt;/td&gt;&lt;td&gt;Prix de base&lt;sup&gt;&lt;a class=&quot;internallink&quot; href=&quot;#ARMC1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Projectile&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Projectile fant&#244;me&lt;/a&gt;&lt;/td&gt;&lt;td&gt;+2 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Pr&#233;hensile&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Pr&#233;hensile&lt;/a&gt;&lt;/td&gt;&lt;td&gt;+2 500 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Chante-sang&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Chante-sang&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Diversion&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;De diversion&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Riposte&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;De riposte&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#D&#233;concertante&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;D&#233;concertante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Flamboyante&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Flamboyante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Fortuite&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Fortuite&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Inspir&#233;e&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Inspir&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Querelleuse&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Querelleuse&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Sacr&#233;e&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Sacr&#233;e&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Traque-esprits&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Traque-esprits&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Traque-sang&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Traque-sang&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Voleuse de destin&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Voleuse de destin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +1&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Propri&#233;t&#233; sp&#233;ciale d’arme +2&lt;/td&gt;&lt;td&gt;Prix de base&lt;sup&gt;&lt;a class=&quot;internallink&quot; href=&quot;#ARMC1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp%20objetsmagiques%20armes%20MCA.ashx#D’exclusion&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;D&#39;exclusion&lt;/a&gt;&lt;/td&gt;&lt;td&gt;+3 750 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Sournoise&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Sournoise&lt;/a&gt;&lt;/td&gt;&lt;td&gt;+5 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#De diversion sup&#233;rieure&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;De diversion sup&#233;rieure&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +2&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Propri&#233;t&#233; sp&#233;ciale d’arme +3&lt;/td&gt;&lt;td&gt;Prix de base&lt;sup&gt;&lt;a class=&quot;internallink&quot; href=&quot;#ARMC1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#&#201;puisante&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;&#201;puisante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Flamboyante sup&#233;rieure&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Flamboyante sup&#233;rieure&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +3&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt titre&quot;&gt;&lt;td&gt;Propri&#233;t&#233; sp&#233;ciale d’arme +5&lt;/td&gt;&lt;td&gt;Prix de base&lt;sup&gt;&lt;a class=&quot;internallink&quot; href=&quot;#ARMC1&quot; title=&quot;1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Temp-Objetsmagiques-Armes-Mca.html#Volante&quot; title=&quot;Armes - Manuel des Joueurs R&#232;gles Avanc&#233;es&quot;&gt;Volante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;bonus +5&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;note&quot;&gt;&lt;td COLSPAN=5&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;ARMC1&quot; href=&quot;#ARMC1&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt; (1) Ajoutez le bonus d’alt&#233;ration de l’arme pour d&#233;terminer le prix total.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Chante-sang&quot; href=&quot;#Chante-sang&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chante-sang&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 6 &lt;b&gt;Poids&lt;/b&gt; — &lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux armes
+de corps &#224; corps tranchantes ou perforantes. Lorsque le personnage
+profite des avantages d’une repr&#233;sentation de chant de rage (que ce
+soit le sien ou celui d’un alli&#233;), cette arme gagne la propri&#233;t&#233; sp&#233;ciale
+d’arme ac&#233;r&#233;e. Si le personnage confirme un coup critique alors qu’il
+est sous les effets d’un chant de rage, il gagne 1d10 points de vie temporaires
+qui durent jusqu’&#224; ce qu’ils soient r&#233;duits &#224; 0 ou que le chant
+se termine (ce qui advient en premier). Si le multiplicateur critique de
+l’arme est de &#215;3, ajoutez 2d10 points de vie temporaires &#224; la place ;
+si le multiplicateur critique est de &#215;4, ajoutez 3d10 points de vie temporaires
+&#224; la place. Lorsque son pouvoir est actif, l’arme vibre et &#233;met
+un bourdonnement &#224; peine audible qui se mue en un cri per&#231;ant de
+triomphe quand elle confirme un coup critique.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;
+&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, aff&#251;tage, le cr&#233;ateur doit
+poss&#233;der le pouvoir de classe chant de rage, &lt;b&gt;Prix&lt;/b&gt; Bonus +1
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;D’exclusion&quot; href=&quot;#D’exclusion&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;D&#39;exclusion&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt; +3 750 po
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 1 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;n&#233;cromancie&lt;/a&gt; faible
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Quand un personnage maniant une arme d’exclusion blesse une cr&#233;ature
+avec cette arme, il peut d&#233;cider de ne pas affecter cette cr&#233;ature
+avec les pouvoirs de canalisation d’&#233;nergie qu’il utilise au cours de la
+minute suivante. Le nombre maximal de cibles qu’il peut exclure &#224; la
+fois est &#233;gal &#224; son modificateur de Sagesse plus le bonus d’alt&#233;ration
+de l’arme d’exclusion. Si le personnage qui manie une arme d’exclusion
+touche une cr&#233;ature d&#233;passant ce nombre limite, il ne peut plus
+exclure la cible qu’il exclut depuis le plus longtemps.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; 1 875 po
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, Canalisation s&#233;lective, sanctuaire
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Diversion&quot; href=&quot;#Diversion&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;De diversion&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus+1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 5 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;enchantement&lt;/a&gt; faible
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Les armes poss&#233;dant cette propri&#233;t&#233; sp&#233;ciale affectent les adversaires
+touch&#233;s, qui ont alors du mal &#224; contr&#244;ler leur magie. Chaque fois
+qu’une cr&#233;ature touch&#233;e par une arme de diversion doit r&#233;ussir un test
+de concentration pour achever un sort ou utiliser un objet ou un pouvoir
+sp&#233;cial, le DD de ce test est augment&#233; de 5. Cette diversion dure
+1 minute. Une fois qu’une arme de diversion a affect&#233; une cr&#233;ature de
+cette mani&#232;re, cette cr&#233;ature ne peut plus &#234;tre affect&#233;e par les effets
+de diversion pendant 24 heures, m&#234;me si elle peut &#234;tre affect&#233;e par
+un effet de diversion sup&#233;rieure.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, scrupuleAG
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;De diversion sup&#233;rieure&quot; href=&quot;#De diversion sup&#233;rieure&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;De diversion sup&#233;rieure&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +2
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 8 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;enchantement&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Les armes poss&#233;dant cette propri&#233;t&#233; sp&#233;ciale affectent les adversaires
+touch&#233;s, qui ont alors &#233;norm&#233;ment de mal &#224; contr&#244;ler leur magie.
+Chaque fois qu’une cr&#233;ature touch&#233;e par une arme de diversion sup&#233;rieure
+doit r&#233;ussir un test de concentration pour achever un sort ou
+utiliser un objet ou un pouvoir sp&#233;cial, le DD de ce test est augment&#233;
+de 10. Cette diversion dure 1 minute. Une fois qu’une arme de diversion
+sup&#233;rieure a affect&#233; une cr&#233;ature de cette mani&#232;re, cette cr&#233;ature
+ne peut plus &#234;tre affect&#233;e par les effets de diversion ou de diversion
+sup&#233;rieure pendant 24 heures. Si une arme de diversion sup&#233;rieure
+est utilis&#233;e contre une cr&#233;ature d&#233;j&#224; affect&#233;e par l’effet d’une arme de
+diversion, les deux effets ne se cumulent pas : l’effet de diversion se
+termine et la cr&#233;ature est affect&#233;e par l’effet de l’arme de diversion
+sup&#233;rieure &#224; la place.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +2
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Scrupule.html&quot; title=&quot;Scrupule&quot;&gt;scrupule&lt;/a&gt;&lt;sup&gt;AG&lt;/sup&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Riposte&quot; href=&quot;#Riposte&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;De riposte&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 7 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; enchantement mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Si le personnage qui manie une arme de riposte utilise l’exploit parade
+et riposte opportune, le bonus d’alt&#233;ration de l’arme est augment&#233; de
+4 (jusqu’&#224; un maximum de +5).
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Espoir.html&quot; title=&quot;Espoir&quot;&gt;espoir&lt;/a&gt;, le cr&#233;ateur doit
+poss&#233;der l’exploit parade et riposte opportune
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;D&#233;concertante&quot; href=&quot;#D&#233;concertante&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;D&#233;concertante&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 5 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; faible
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Quand le personnage confirme un coup critique avec une arme
+d&#233;concertante, il peut d&#233;penser 1 point de panache pour tenter
+une manoeuvre offensive de d&#233;sarmement, de repositionnement,
+de destruction ou de croc-en-jambe contre la cible par une action
+imm&#233;diate, gagnant un bonus au test &#233;gal au bonus d’alt&#233;ration
+de l’arme d&#233;concertante. Cette manoeuvre offensive ne provoque
+pas d’attaque d’opportunit&#233;. Le personnage ne peut pas utiliser le
+panache gagn&#233; par la confirmation d’un coup critique pour activer
+ce pouvoir.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;unknownlink&quot; href=&quot;Splendeur-De-L’Aigle.html&quot; title=&quot;Pathfinder-RPG.splendeur de l’aigle&quot;&gt;splendeur de l’aigle&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;&#201;puisante&quot; href=&quot;#&#201;puisante&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;&#201;puisante&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +3
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 12 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;n&#233;cromancie&lt;/a&gt; forte
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; ne peut &#234;tre appliqu&#233;e qu’aux armes de corps &#224; corps.
+Une arme &#233;puisante peut provoquer une grande fatigue chez les adversaires.
+Sur un coup critique, le personnage peut d&#233;cider de renoncer
+aux d&#233;s de d&#233;g&#226;ts suppl&#233;mentaires pour, &#224; la place, saper la force
+et la r&#233;sistance physique de la cr&#233;ature touch&#233;e, la plongeant dans
+un &#233;tat d’&#233;puisement. Les adversaires d&#233;j&#224; &#233;puis&#233;s ne souffrent pas
+d’effets suppl&#233;mentaires et les cr&#233;atures immunis&#233;es contre les effets
+d’&#233;puisement ou les coups critiques ne sont pas affect&#233;es.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +3
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, rayon d’&#233;puisement
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Flamboyante&quot; href=&quot;#Flamboyante&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Flamboyante&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt; Bonus+1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 8 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux armes
+perforantes l&#233;g&#232;res ou &#224; une main. Une arme flamboyante a son
+propre r&#233;servoir magique de panache, que le personnage peut d&#233;penser
+pour ses exploits. En g&#233;n&#233;ral, ce panache est stock&#233; dans un joyau
+ou dans un autre ornement. Ce r&#233;servoir contient 1 point de panache,
+r&#233;initialis&#233; au d&#233;but de chaque jour.
+Que le personnage maniant une arme flamboyante ait ou non des
+exploits, il peut toujours d&#233;penser 1 point de panache de l’arme flamboyante
+pour relancer un jet d’attaque effectu&#233; avec cette arme mais
+ayant &#233;chou&#233; &#224; cause d’un 1 naturel. Quand le personnage fait cela, il
+doit garder le second r&#233;sultat, m&#234;me c’est aussi un &#233;chec.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ro&#239;sme.html&quot; title=&quot;H&#233;ro&#239;sme&quot;&gt;h&#233;ro&#239;sme&lt;/a&gt;, le cr&#233;ateur doit
+&#234;tre un utilisateur de panache
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Flamboyante sup&#233;rieure&quot; href=&quot;#Flamboyante sup&#233;rieure&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Flamboyante sup&#233;rieure&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +3
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 5 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;abjuration&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Divination.html&quot; title=&quot;Divination&quot;&gt;divination&lt;/a&gt; faibles
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux armes
+perforantes l&#233;g&#232;res ou &#224; une main. Une arme flamboyante sup&#233;rieure
+est pratiquement identique &#224; une arme flamboyante, mais son r&#233;servoir
+contient 3 points de panache. Une arme ne peut pas avoir cette
+propri&#233;t&#233; sp&#233;ciale en plus de la propri&#233;t&#233; sp&#233;ciale flamboyante.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +3
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;H&#233;ro&#239;sme-Supr&#234;me.html&quot; title=&quot;H&#233;ro&#239;sme supr&#234;me&quot;&gt;h&#233;ro&#239;sme supr&#234;me&lt;/a&gt;, le cr&#233;ateur
+doit &#234;tre un utilisateur de panache
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Fortuite&quot; href=&quot;#Fortuite&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Fortuite&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus+1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 8 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux armes
+de corps &#224; corps. Une arme fortuite permet au personnage d’effectuer
+davantage d’attaques d’opportunit&#233;. Une fois par round, quand
+un personnage qui manie une arme fortuite touche avec une attaque
+d’opportunit&#233;, il peut en effectuer une seconde avec cette arme contre
+le m&#234;me ennemi, avec un malus de -5.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Rapidit&#233;.html&quot; title=&quot;Rapidit&#233;&quot;&gt;rapidit&#233;&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Inspir&#233;e&quot; href=&quot;#Inspir&#233;e&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Inspir&#233;e&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 7 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;enchantement&lt;/a&gt; mod&#233;r&#233;
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux armes
+courantes, aux arbal&#232;tes de poing, aux rapi&#232;res, aux arcs courts, aux
+&#233;p&#233;es courtes et aux cannes &#233;p&#233;esA&amp;E. Entre les mains d’un enqu&#234;teur,
+une arme inspir&#233;e r&#233;duit le co&#251;t d’utilisation d’inspiration sur les jets
+d’attaque effectu&#233;s avec cette arme. Le personnage qui manie l’arme
+ne doit d&#233;penser qu’une seule utilisation d’inspiration pour am&#233;liorer
+ses jets d’attaque avec elle, comme pour le talent d’enqu&#234;teur inspiration
+martiale. S’il poss&#232;de d&#233;j&#224; le talent inspiration martiale, le
+personnage doit quand m&#234;me d&#233;penser une utilisation d’inspiration
+mais, en plus d’ajouter le r&#233;sultat de son jet d’inspiration &#224; son jet
+d’attaque, l’enqu&#234;teur ajoute deux fois le r&#233;sultat de son jet d’inspiration
+au jet de d&#233;g&#226;ts.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Espoir.html&quot; title=&quot;Espoir&quot;&gt;espoir&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Pr&#233;hensile&quot; href=&quot;#Pr&#233;hensile&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Pr&#233;hensile&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
++2 500 po
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 7 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;enchantement&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux fouets.
+Un fouet pr&#233;hensile peut, par une action rapide, &#234;tre fix&#233; &#224; un objet
+comme s’il s’agissait d’un grappin. Le fouet peut alors servir &#224; escalader
+une surface ou &#224; se balancer &#224; travers une pi&#232;ce ou une zone
+d&#233;gag&#233;e. S’il d&#233;pense 1 point de panache par une action libre, un
+bretteur augmente l’allonge du fouet pr&#233;hensile &#224; 6 m&#232;tres pour une
+seule attaque et peut l’utiliser avec son pouvoir de frappe pr&#233;cise
+m&#234;me s’il ne s’agit pas d’une arme perforante l&#233;g&#232;re ou &#224; une main.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; 1 250 po
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Corde-Enchant&#233;e.html&quot; title=&quot;Corde enchant&#233;e&quot;&gt;corde enchant&#233;e&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Projectile&quot; href=&quot;#Projectile&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Projectile fant&#244;me&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
++2 000 po
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 7 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux munitions.
+Une munition poss&#233;dant cette propri&#233;t&#233; sp&#233;ciale d’arme se dissout
+1 round apr&#232;s avoir &#233;t&#233; tir&#233;e. En outre, si le projectile touche sa
+cible, la blessure se referme apr&#232;s que la munition s’est d&#233;sint&#233;gr&#233;e.
+L’arme inflige les d&#233;g&#226;ts normaux mais ne laisse derri&#232;re elle aucune
+trace visible d’acte criminel.
+Le prix est indiqu&#233; pour 50 munitions fant&#244;mes.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; 1 000 po
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;sint&#233;gration.html&quot; title=&quot;D&#233;sint&#233;gration&quot;&gt;d&#233;sint&#233;gration&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;paration.html&quot; title=&quot;R&#233;paration&quot;&gt;r&#233;paration&lt;/a&gt;
+int&#233;grale
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Querelleuse&quot; href=&quot;#Querelleuse&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Querelleuse&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 7 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Enchantement.html&quot; title=&quot;Enchantement&quot;&gt;enchantement&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux coups de
+poings, aux cestes, aux matraques ou aux armes contondantes
+l&#233;g&#232;res. Celui qui manie cette arme gagne un bonus d’alt&#233;ration aux
+tests de manoeuvre offensive &#233;gal au bonus d’alt&#233;ration de l’arme.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-Du-Croc-En-Jambe.html&quot; title=&quot;Science du croc-en-jambe&quot;&gt;Science du croc-en-jambe&lt;/a&gt;,
+&lt;a class=&quot;pagelink&quot; href=&quot;Assistance-Divine.html&quot; title=&quot;Assistance divine&quot;&gt;assistance divine&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Sacr&#233;e&quot; href=&quot;#Sacr&#233;e&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sacr&#233;e&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 16 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; forte
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Une arme sacr&#233;e est remplie d’&#233;nergie divine et fonctionne comme
+un symbole sacr&#233;. Quand elle est mani&#233;e par une cr&#233;ature qui lance
+des sorts divins, l’arme projette automatiquement une image du symbole
+sacr&#233; de cette cr&#233;ature, souvent sous forme d’une rune brillante
+qui s’inscrit sur la lame ou le manche de l’arme.
+En outre, si le personnage poss&#232;de le pouvoir de classe b&#233;n&#233;dictions,
+chaque fois qu’il canalise l’&#233;nergie, il peut d&#233;signer un alli&#233;
+ou l’arme d’un alli&#233; situ&#233; dans la zone de l’&#233;nergie canalis&#233;e et lui
+octroyer les avantages de l’une de ses b&#233;n&#233;dictions mineures pour le
+co&#251;t d’une utilisation de cette b&#233;n&#233;diction.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Transfert-De-Sorts.html&quot; title=&quot;Transfert de sorts&quot;&gt;transfert de sorts&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Sournoise&quot; href=&quot;#Sournoise&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Sournoise&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
++5 000 po
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 7 &lt;b&gt;Poids&lt;/b&gt; — &lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;n&#233;cromancie&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux
+armes de corps &#224; corps. Une fois par jour par une action libre, le
+personnage qui manie une arme sournoise peut d&#233;signer un unique
+adversaire &#224; port&#233;e de son allonge au corps &#224; corps pour en faire sa
+proie. Si le personnage poss&#232;de le pouvoir de classe attaque sournoise,
+il ajoute les d&#233;g&#226;ts de son attaque sournoise &#224; la prochaine
+attaque qu’il porte contre sa proie, m&#234;me s’il ne la prend pas en
+tenaille et que la cible conserve son bonus de Dext&#233;rit&#233; &#224; la CA, &#224;
+partir du moment o&#249; l’attaque est port&#233;e avant la fin du prochain
+tour du personnage. Si ce dernier est un roublard ou un tueur avec
+le talent surprise du chasseur, il peut utiliser ce talent une fois de
+plus par jour.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; 2 500 po
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Anath&#232;me.html&quot; title=&quot;Anath&#232;me&quot;&gt;anath&#232;me&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Traque-esprits&quot; href=&quot;#Traque-esprits&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Traque-esprits&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 8 &lt;b&gt;Poids&lt;/b&gt; — &lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;invocation&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Une arme traque-esprits excelle contre les ennemis poss&#233;dant le
+pouvoir de classe esprit ou myst&#232;re (mais elle n’a aucun effet contre
+un chaman ayant un lien temporaire avec l’esprit appropri&#233; gr&#226;ce
+au pouvoir de classe esprit errant ou un effet similaire). Contre un
+ennemi d&#233;sign&#233;, le bonus d’alt&#233;ration de l’arme est augment&#233; de
+2. Elle inflige &#233;galement 2d6 points de d&#233;g&#226;ts suppl&#233;mentaires
+contre ces ennemis. Quand l’arme est combin&#233;e &#224; des pouvoirs
+comme tueur ou traque-sang, l’augmentation du bonus d’alt&#233;ration
+apport&#233;e par ces pouvoirs ne se cumule pas mais le personnage
+rajoute 1d6 points de d&#233;g&#226;ts de plus aux d&#233;g&#226;ts suppl&#233;mentaires
+de chaque pouvoir au-del&#224; du premier. (Par exemple, une arme
+tueuse traque-esprits inflige 3d6 points de d&#233;g&#226;ts suppl&#233;mentaires
+tandis qu’une arme tueuse traque-esprits traque-sang inflige 4d6
+points de d&#233;g&#226;ts suppl&#233;mentaires.) Pour d&#233;terminer al&#233;atoirement
+l’ennemi d&#233;sign&#233; d’une arme, faites un jet dans la table qui suit. Il
+est possible de d&#233;signer d’autres ennemis mais la plupart de ces
+armes sont harmonis&#233;es contre les cr&#233;atures ayant les myst&#232;res ou
+les esprits suivants.
+&lt;centre&gt;
+&lt;table CLASS=&quot;tablo col1centre&quot;&gt;&lt;tr&gt;&lt;td&gt;d100&lt;/td&gt;&lt;td&gt;Ennemi d&#233;sign&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-10&lt;/td&gt;&lt;td&gt;Batailles&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11-20&lt;/td&gt;&lt;td&gt;Os&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21-30&lt;/td&gt;&lt;td&gt;Flammes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-40&lt;/td&gt;&lt;td&gt;Cieux&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-50&lt;/td&gt;&lt;td&gt;Vie&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-60&lt;/td&gt;&lt;td&gt;Savoir&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-70&lt;/td&gt;&lt;td&gt;Nature&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-80&lt;/td&gt;&lt;td&gt;Pierre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-90&lt;/td&gt;&lt;td&gt;Vagues&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-100&lt;/td&gt;&lt;td&gt;Vent&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/centre&gt;
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Convocation-Dalli&#233;s-Naturels-I.html&quot; title=&quot;Convocation d&amp;#39;alli&#233;s naturels I&quot;&gt;convocation d’alli&#233;s naturels I&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Traque-sang&quot; href=&quot;#Traque-sang&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Traque-sang&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 8 &lt;b&gt;Poids&lt;/b&gt; — &lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Invocation.html&quot; title=&quot;Invocation&quot;&gt;invocation&lt;/a&gt; mod&#233;r&#233;e
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Une arme traque-sang excelle contre les ennemis poss&#233;dant le pouvoir
+de classe lignage. Contre un ennemi d&#233;sign&#233;, le bonus d’alt&#233;ration
+de l’arme est augment&#233; de 2. Elle inflige &#233;galement 2d6 points de
+d&#233;g&#226;ts suppl&#233;mentaires contre ces ennemis. Quand l’arme est combin&#233;e
+&#224; des pouvoirs comme tueur ou traque-esprits, l’augmentation du
+bonus d’alt&#233;ration apport&#233;e par ces pouvoirs ne se cumule pas mais le
+personnage rajoute 1d6 points de d&#233;g&#226;ts de plus aux d&#233;g&#226;ts suppl&#233;mentaires
+de chaque pouvoir au-del&#224; du premier. (Par exemple, une
+arme tueuse traque-sang inflige 3d6 points de d&#233;g&#226;ts suppl&#233;mentaires
+tandis qu’une arme tueuse traque-esprits traque-sang inflige
+4d6 points de d&#233;g&#226;ts suppl&#233;mentaires.) Pour d&#233;terminer al&#233;atoirement
+l’ennemi d&#233;sign&#233; d’une arme, faites un jet dans la table qui
+suit. Il est possible de d&#233;signer d’autres ennemis mais la plupart de
+ces armes sont harmonis&#233;es contre les cr&#233;atures ayant les lignages
+suivants.
+&lt;table CLASS=&quot;alt tablo col1centre&quot;&gt;&lt;tr&gt;&lt;td&gt;d100&lt;/td&gt;&lt;td&gt;Ennemi d&#233;sign&#233;&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;01-05&lt;/td&gt;&lt;td&gt;Aberrant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;06-15&lt;/td&gt;&lt;td&gt;Abyssal&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16-30&lt;/td&gt;&lt;td&gt;Profane&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;31-35&lt;/td&gt;&lt;td&gt;C&#233;leste&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;36-40&lt;/td&gt;&lt;td&gt;Vou&#233; &#224; un grand destin&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;41-50&lt;/td&gt;&lt;td&gt;Draconique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;51-60&lt;/td&gt;&lt;td&gt;&#201;l&#233;mentaire&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;61-70&lt;/td&gt;&lt;td&gt;F&#233;erique&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;71-80&lt;/td&gt;&lt;td&gt;Infernal&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;81-90&lt;/td&gt;&lt;td&gt;Mort-vivant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;91-95&lt;/td&gt;&lt;td&gt;Autre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;96-100&lt;/td&gt;&lt;td&gt;Tous&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +1
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Convocation-De-Monstres-I.html&quot; title=&quot;Convocation de monstres I&quot;&gt;convocation de monstres I&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Volante&quot; href=&quot;#Volante&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Volante&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +5
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 16 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;transmutation&lt;/a&gt; forte
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux armes
+de corps &#224; corps. Une arme volante fonctionne comme une arme
+dansante mais, lorsqu’elle danse, il est possible de la diriger pour
+qu’elle attaque les ennemis dans un rayon de 9 m&#232;tres. En outre, le
+dernier utilisateur &#224; d&#233;gainer l’arme peut, &#224; tout moment (m&#234;me
+si l’arme n’est pas en train de danser), la faire revenir &#224; lui par une
+action rapide. Elle vole &#224; une vitesse maximale de 15 m&#232;tres par
+round pour retourner &#224; son porteur, effectuant une tentative de destruction
+par round pour franchir tout obstacle qu’elle ne peut pas
+contourner et un test de manoeuvre offensive (utilisant le BMO de
+son dernier porteur) contre le DMD de toute cr&#233;ature qui tente de la
+saisir ou de la retenir (elle se lib&#232;re sur un test r&#233;ussi). Quand elle
+revient &#224; son porteur, l’arme atterrit dans l’une de ses mains libres
+ou, si le personnage n’a aucune main de libre, retombe &#224; ses pieds.
+Si l’arme ne peut pas revenir &#224; son porteur au bout de 4 rounds, elle
+tombe au sol, inerte.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; bonus +5
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Animation-Dobjets.html&quot; title=&quot;Animation d&amp;#39;objets&quot;&gt;animation d’objets&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;Voleuse de destin&quot; href=&quot;#Voleuse de destin&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Voleuse de destin&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Prix&lt;/b&gt;
+Bonus +1
+&lt;b&gt;Emplacement&lt;/b&gt; aucun &lt;b&gt;NLS&lt;/b&gt; 5 &lt;b&gt;Poids&lt;/b&gt; —&lt;br /&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Necromancie.html&quot; title=&quot;N&#233;cromancie&quot;&gt;n&#233;cromancie&lt;/a&gt; faible
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Cette propri&#233;t&#233; sp&#233;ciale d’arme ne peut &#234;tre appliqu&#233;e qu’aux armes
+de corps &#224; corps. Quand une arme voleuse de destin touche une
+cr&#233;ature poss&#233;dant le pouvoir audace ou panache, le personnage
+peut lui voler un point d’audace ou de panache par une action rapide.
+Quand le personnage vole un point d’audace ou de panache,
+il regagne 1 point d’audace ou de panache (s’il en poss&#232;de). Il peut
+utiliser le point d’audace d’un adversaire pour restaurer son propre
+panache ou le point de panache d’un adversaire pour restaurer sa
+propre audace.
+Si le personnage tente d’utiliser ce pouvoir contre un adversaire
+qui n’a ni audace ni panache ou auquel il ne reste aucun point
+d’audace ou de panache, il ne d&#233;pense pas d’action et sa tentative
+&#233;choue.
+&lt;div class=&quot;box&quot;&gt;Fabrication&lt;/div&gt;&lt;b&gt;Co&#251;t&lt;/b&gt; 2 000 po
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Darmes-Et-Armures-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;armes et armures magiques&quot;&gt;Cr&#233;ation d’armes et d’armures magiques&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Baiser-Du-Vampire.html&quot; title=&quot;Baiser du vampire&quot;&gt;baiser du vampire&lt;/a&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2 class=&quot;separator&quot;&gt; Armes sp&#233;ciales &lt;a class=&quot;headeranchor&quot; id=&quot;Armes_sp&#233;ciales_0&quot; href=&quot;#Armes_sp&#233;ciales_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;center&gt;
+&lt;table CLASS=&quot;tablo col1centre&quot;&gt;&lt;caption&gt;Armes sp&#233;ciales&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Armes sp&#233;ciales mineures interm&#233;diaires&lt;/td&gt;&lt;td&gt;Prix&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapi&#232;re-Du-Bretteur.html&quot; title=&quot;Rapi&#232;re du bretteur&quot;&gt;Rapi&#232;re du bretteur&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7 320 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lame-Du-Bourreau.html&quot; title=&quot;Lame du bourreau&quot;&gt;Lame du bourreau&lt;/a&gt;&lt;/td&gt;&lt;td&gt;13 850 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Armes sp&#233;ciales sup&#233;rieures interm&#233;diaires&lt;/td&gt;&lt;td&gt;Prix&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier alt&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapi&#232;re-De-D&#233;placement-Tactique.html&quot; title=&quot;Rapi&#232;re de d&#233;placement tactique&quot;&gt;Rapi&#232;re de d&#233;placement tactique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;30 320 po&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fil-Du-Duelliste.html&quot; title=&quot;Fil du duelliste&quot;&gt;Fil du duelliste&lt;/a&gt;&lt;/td&gt;&lt;td&gt;35 320 po&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/center&gt;
+]]></body>
+  <raw><![CDATA[<center>
+{| CLASS="tablo col1centre"
+|+ Propriétés spéciales d’arme
+|- CLASS="titre"
+| Propriété spéciale d’arme +1 || Prix de base<sup>[[#ARMC1|1]]</sup>
+|- CLASS="premier"
+| [[Temp objetsmagiques armes MCA#Projectile|Projectile fantôme]] || +2 000 po
+|- CLASS="alt"
+| [[Temp objetsmagiques armes MCA#Préhensile|Préhensile]] || +2 500 po
+|- 
+| [[Temp objetsmagiques armes MCA#Chante-sang|Chante-sang]] || bonus +1
+|- CLASS="alt"
+| [[Temp objetsmagiques armes MCA#Diversion|De diversion]] || bonus +1
+|- 
+| [[Temp objetsmagiques armes MCA#Riposte|De riposte]] || bonus +1
+|- CLASS="alt"
+| [[Temp objetsmagiques armes MCA#Déconcertante|Déconcertante]] || bonus +1
+|- 
+| [[Temp objetsmagiques armes MCA#Flamboyante|Flamboyante]] || bonus +1
+|- CLASS="alt"
+| [[Temp objetsmagiques armes MCA#Fortuite|Fortuite]] || bonus +1
+|- 
+| [[Temp objetsmagiques armes MCA#Inspirée|Inspirée]] || bonus +1
+|- CLASS="alt"
+| [[Temp objetsmagiques armes MCA#Querelleuse|Querelleuse]] || bonus +1
+|- 
+| [[Temp objetsmagiques armes MCA#Sacrée|Sacrée]] || bonus +1
+|- CLASS="alt"
+| [[Temp objetsmagiques armes MCA#Traque-esprits|Traque-esprits]] || bonus +1
+|- 
+| [[Temp objetsmagiques armes MCA#Traque-sang|Traque-sang]] || bonus +1
+|- CLASS="alt"
+| [[Temp objetsmagiques armes MCA#Voleuse de destin|Voleuse de destin]] || bonus +1
+|- CLASS="titre"
+| Propriété spéciale d’arme +2 || Prix de base<sup>[[#ARMC1|1]]</sup>
+|- CLASS="premier alt"
+| [[Temp objetsmagiques armes MCA#D’exclusion|D'exclusion]] || +3 750 po
+|- 
+| [[Temp objetsmagiques armes MCA#Sournoise|Sournoise]] || +5 000 po
+|- CLASS="alt"
+| [[Temp objetsmagiques armes MCA#De diversion supérieure|De diversion supérieure]] || bonus +2
+|- CLASS="titre"
+| Propriété spéciale d’arme +3 || Prix de base<sup>[[#ARMC1|1]]</sup>
+|- CLASS="premier alt"
+| [[Temp objetsmagiques armes MCA#Épuisante|Épuisante]] || bonus +3
+|- 
+| [[Temp objetsmagiques armes MCA#Flamboyante supérieure|Flamboyante supérieure]] || bonus +3
+|- CLASS="alt titre"
+| Propriété spéciale d’arme +5 || Prix de base<sup>[[#ARMC1|1]]</sup>
+|- CLASS="premier"
+| [[Temp objetsmagiques armes MCA#Volante|Volante]] || bonus +5
+|- CLASS="note"
+| COLSPAN=5 | {s:Reference|ARMC1} (1) Ajoutez le bonus d’altération de l’arme pour déterminer le prix total.
+|}
+</center>
+
+
+
+
+
+
+
+
+{s:Reference|Chante-sang}
+<div class="BD">
+{s:BDTitre|Chante-sang|{s:mca}}
+'''Emplacement''' aucun '''NLS''' 6 '''Poids''' — <br>
+'''Aura''' [[transmutation]] modérée
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
+de corps à corps tranchantes ou perforantes. Lorsque le personnage
+profite des avantages d’une représentation de chant de rage (que ce
+soit le sien ou celui d’un allié), cette arme gagne la propriété spéciale
+d’arme acérée. Si le personnage confirme un coup critique alors qu’il
+est sous les effets d’un chant de rage, il gagne 1d10 points de vie temporaires
+qui durent jusqu’à ce qu’ils soient réduits à 0 ou que le chant
+se termine (ce qui advient en premier). Si le multiplicateur critique de
+l’arme est de ×3, ajoutez 2d10 points de vie temporaires à la place ;
+si le multiplicateur critique est de ×4, ajoutez 3d10 points de vie temporaires
+à la place. Lorsque son pouvoir est actif, l’arme vibre et émet
+un bourdonnement à peine audible qui se mue en un cri perçant de
+triomphe quand elle confirme un coup critique.
+(((Fabrication)))
+'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], affûtage, le créateur doit
+posséder le pouvoir de classe chant de rage, '''Prix''' Bonus +1
+</div>
+
+
+{s:Reference|D’exclusion}
+<div class="BD">
+{s:BDTitre|D'exclusion|{s:mca}}
+'''Prix''' +3 750 po
+'''Emplacement''' aucun '''NLS''' 1 '''Poids''' —<br>
+'''Aura''' [[nécromancie]] faible
+(((Description)))
+Quand un personnage maniant une arme d’exclusion blesse une créature
+avec cette arme, il peut décider de ne pas affecter cette créature
+avec les pouvoirs de canalisation d’énergie qu’il utilise au cours de la
+minute suivante. Le nombre maximal de cibles qu’il peut exclure à la
+fois est égal à son modificateur de Sagesse plus le bonus d’altération
+de l’arme d’exclusion. Si le personnage qui manie une arme d’exclusion
+touche une créature dépassant ce nombre limite, il ne peut plus
+exclure la cible qu’il exclut depuis le plus longtemps.
+(((Fabrication)))'''Coût''' 1 875 po
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], Canalisation sélective, sanctuaire
+</div>
+
+{s:Reference|Diversion}
+<div class="BD">
+{s:BDTitre|De diversion|{s:mca}}
+'''Prix'''
+Bonus+1
+'''Emplacement''' aucun '''NLS''' 5 '''Poids''' —<br>
+'''Aura''' [[enchantement]] faible
+(((Description)))
+Les armes possédant cette propriété spéciale affectent les adversaires
+touchés, qui ont alors du mal à contrôler leur magie. Chaque fois
+qu’une créature touchée par une arme de diversion doit réussir un test
+de concentration pour achever un sort ou utiliser un objet ou un pouvoir
+spécial, le DD de ce test est augmenté de 5. Cette diversion dure
+1 minute. Une fois qu’une arme de diversion a affecté une créature de
+cette manière, cette créature ne peut plus être affectée par les effets
+de diversion pendant 24 heures, même si elle peut être affectée par
+un effet de diversion supérieure.
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], scrupuleAG
+</div>
+
+
+{s:Reference|De diversion supérieure}
+<div class="BD">
+{s:BDTitre|De diversion supérieure|{s:mca}}
+'''Prix'''
+Bonus +2
+'''Emplacement''' aucun '''NLS''' 8 '''Poids''' —<br>
+'''Aura''' [[enchantement]] modérée
+(((Description)))
+Les armes possédant cette propriété spéciale affectent les adversaires
+touchés, qui ont alors énormément de mal à contrôler leur magie.
+Chaque fois qu’une créature touchée par une arme de diversion supérieure
+doit réussir un test de concentration pour achever un sort ou
+utiliser un objet ou un pouvoir spécial, le DD de ce test est augmenté
+de 10. Cette diversion dure 1 minute. Une fois qu’une arme de diversion
+supérieure a affecté une créature de cette manière, cette créature
+ne peut plus être affectée par les effets de diversion ou de diversion
+supérieure pendant 24 heures. Si une arme de diversion supérieure
+est utilisée contre une créature déjà affectée par l’effet d’une arme de
+diversion, les deux effets ne se cumulent pas : l’effet de diversion se
+termine et la créature est affectée par l’effet de l’arme de diversion
+supérieure à la place.
+(((Fabrication)))'''Coût''' bonus +2
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[scrupule]]<sup>AG</sup>
+</div>
+
+
+{s:Reference|Riposte}
+<div class="BD">
+{s:BDTitre|De riposte|{s:mca}}
+'''Prix'''
+Bonus +1
+'''Emplacement''' aucun '''NLS''' 7 '''Poids''' —<br>
+'''Aura''' enchantement modérée
+(((Description)))
+Si le personnage qui manie une arme de riposte utilise l’exploit parade
+et riposte opportune, le bonus d’altération de l’arme est augmenté de
+4 (jusqu’à un maximum de +5).
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[espoir]], le créateur doit
+posséder l’exploit parade et riposte opportune
+</div>
+
+
+{s:Reference|Déconcertante}
+<div class="BD">
+{s:BDTitre|Déconcertante|{s:mca}}
+'''Prix'''
+Bonus +1
+'''Emplacement''' aucun '''NLS''' 5 '''Poids''' —<br>
+'''Aura''' [[transmutation]] faible
+(((Description)))
+Quand le personnage confirme un coup critique avec une arme
+déconcertante, il peut dépenser 1 point de panache pour tenter
+une manoeuvre offensive de désarmement, de repositionnement,
+de destruction ou de croc-en-jambe contre la cible par une action
+immédiate, gagnant un bonus au test égal au bonus d’altération
+de l’arme déconcertante. Cette manoeuvre offensive ne provoque
+pas d’attaque d’opportunité. Le personnage ne peut pas utiliser le
+panache gagné par la confirmation d’un coup critique pour activer
+ce pouvoir.
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[splendeur de l’aigle]]
+</div>
+
+
+{s:Reference|Épuisante}
+<div class="BD">
+{s:BDTitre|Épuisante|{s:mca}}
+'''Prix'''
+Bonus +3
+'''Emplacement''' aucun '''NLS''' 12 '''Poids''' —<br>
+'''Aura''' [[nécromancie]] forte
+(((Description)))
+Cette propriété ne peut être appliquée qu’aux armes de corps à corps.
+Une arme épuisante peut provoquer une grande fatigue chez les adversaires.
+Sur un coup critique, le personnage peut décider de renoncer
+aux dés de dégâts supplémentaires pour, à la place, saper la force
+et la résistance physique de la créature touchée, la plongeant dans
+un état d’épuisement. Les adversaires déjà épuisés ne souffrent pas
+d’effets supplémentaires et les créatures immunisées contre les effets
+d’épuisement ou les coups critiques ne sont pas affectées.
+(((Fabrication)))'''Coût''' bonus +3
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], rayon d’épuisement
+</div>
+
+
+{s:Reference|Flamboyante}
+<div class="BD">
+{s:BDTitre|Flamboyante|{s:mca}}
+'''Prix''' Bonus+1
+'''Emplacement''' aucun '''NLS''' 8 '''Poids''' —<br>
+'''Aura''' [[transmutation]] modérée
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
+perforantes légères ou à une main. Une arme flamboyante a son
+propre réservoir magique de panache, que le personnage peut dépenser
+pour ses exploits. En général, ce panache est stocké dans un joyau
+ou dans un autre ornement. Ce réservoir contient 1 point de panache,
+réinitialisé au début de chaque jour.
+Que le personnage maniant une arme flamboyante ait ou non des
+exploits, il peut toujours dépenser 1 point de panache de l’arme flamboyante
+pour relancer un jet d’attaque effectué avec cette arme mais
+ayant échoué à cause d’un 1 naturel. Quand le personnage fait cela, il
+doit garder le second résultat, même c’est aussi un échec.
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[héroïsme]], le créateur doit
+être un utilisateur de panache
+</div>
+
+
+{s:Reference|Flamboyante supérieure}
+<div class="BD">
+{s:BDTitre|Flamboyante supérieure|{s:mca}}
+'''Prix'''
+Bonus +3
+'''Emplacement''' aucun '''NLS''' 5 '''Poids''' —<br>
+'''Aura''' [[abjuration]] et [[divination]] faibles
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
+perforantes légères ou à une main. Une arme flamboyante supérieure
+est pratiquement identique à une arme flamboyante, mais son réservoir
+contient 3 points de panache. Une arme ne peut pas avoir cette
+propriété spéciale en plus de la propriété spéciale flamboyante.
+(((Fabrication)))'''Coût''' bonus +3
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[héroïsme suprême]], le créateur
+doit être un utilisateur de panache
+</div>
+
+
+{s:Reference|Fortuite}
+<div class="BD">
+{s:BDTitre|Fortuite|{s:mca}}
+'''Prix'''
+Bonus+1
+'''Emplacement''' aucun '''NLS''' 8 '''Poids''' —<br>
+'''Aura''' [[transmutation]] modérée
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
+de corps à corps. Une arme fortuite permet au personnage d’effectuer
+davantage d’attaques d’opportunité. Une fois par round, quand
+un personnage qui manie une arme fortuite touche avec une attaque
+d’opportunité, il peut en effectuer une seconde avec cette arme contre
+le même ennemi, avec un malus de -5.
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[rapidité]]
+</div>
+
+
+{s:Reference|Inspirée}
+<div class="BD">
+{s:BDTitre|Inspirée|{s:mca}}
+'''Prix'''
+Bonus +1
+'''Emplacement''' aucun '''NLS''' 7 '''Poids''' —<br>
+'''Aura''' [[enchantement]] modéré
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
+courantes, aux arbalètes de poing, aux rapières, aux arcs courts, aux
+épées courtes et aux cannes épéesA&E. Entre les mains d’un enquêteur,
+une arme inspirée réduit le coût d’utilisation d’inspiration sur les jets
+d’attaque effectués avec cette arme. Le personnage qui manie l’arme
+ne doit dépenser qu’une seule utilisation d’inspiration pour améliorer
+ses jets d’attaque avec elle, comme pour le talent d’enquêteur inspiration
+martiale. S’il possède déjà le talent inspiration martiale, le
+personnage doit quand même dépenser une utilisation d’inspiration
+mais, en plus d’ajouter le résultat de son jet d’inspiration à son jet
+d’attaque, l’enquêteur ajoute deux fois le résultat de son jet d’inspiration
+au jet de dégâts.
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[espoir]]
+</div>
+
+
+{s:Reference|Préhensile}
+<div class="BD">
+{s:BDTitre|Préhensile|{s:mca}}
+'''Prix'''
++2 500 po
+'''Emplacement''' aucun '''NLS''' 7 '''Poids''' —<br>
+'''Aura''' [[enchantement]] modérée
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux fouets.
+Un fouet préhensile peut, par une action rapide, être fixé à un objet
+comme s’il s’agissait d’un grappin. Le fouet peut alors servir à escalader
+une surface ou à se balancer à travers une pièce ou une zone
+dégagée. S’il dépense 1 point de panache par une action libre, un
+bretteur augmente l’allonge du fouet préhensile à 6 mètres pour une
+seule attaque et peut l’utiliser avec son pouvoir de frappe précise
+même s’il ne s’agit pas d’une arme perforante légère ou à une main.
+(((Fabrication)))'''Coût''' 1 250 po
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[corde enchantée]]
+</div>
+
+
+{s:Reference|Projectile}
+<div class="BD">
+{s:BDTitre|Projectile fantôme|{s:mca}}
+'''Prix'''
++2 000 po
+'''Emplacement''' aucun '''NLS''' 7 '''Poids''' —<br>
+'''Aura''' [[transmutation]] modérée
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux munitions.
+Une munition possédant cette propriété spéciale d’arme se dissout
+1 round après avoir été tirée. En outre, si le projectile touche sa
+cible, la blessure se referme après que la munition s’est désintégrée.
+L’arme inflige les dégâts normaux mais ne laisse derrière elle aucune
+trace visible d’acte criminel.
+Le prix est indiqué pour 50 munitions fantômes.
+(((Fabrication)))'''Coût''' 1 000 po
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[désintégration]], [[réparation]]
+intégrale
+</div>
+
+
+{s:Reference|Querelleuse}
+<div class="BD">
+{s:BDTitre|Querelleuse|{s:mca}}
+'''Prix'''
+Bonus +1
+'''Emplacement''' aucun '''NLS''' 7 '''Poids''' —<br>
+'''Aura''' [[enchantement]] modérée
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux coups de
+poings, aux cestes, aux matraques ou aux armes contondantes
+légères. Celui qui manie cette arme gagne un bonus d’altération aux
+tests de manoeuvre offensive égal au bonus d’altération de l’arme.
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[Science du croc-en-jambe]],
+[[assistance divine]]
+</div>
+
+
+{s:Reference|Sacrée}
+<div class="BD">
+{s:BDTitre|Sacrée|{s:mca}}
+'''Prix'''
+Bonus +1
+'''Emplacement''' aucun '''NLS''' 16 '''Poids''' —<br>
+'''Aura''' [[transmutation]] forte
+(((Description)))
+Une arme sacrée est remplie d’énergie divine et fonctionne comme
+un symbole sacré. Quand elle est maniée par une créature qui lance
+des sorts divins, l’arme projette automatiquement une image du symbole
+sacré de cette créature, souvent sous forme d’une rune brillante
+qui s’inscrit sur la lame ou le manche de l’arme.
+En outre, si le personnage possède le pouvoir de classe bénédictions,
+chaque fois qu’il canalise l’énergie, il peut désigner un allié
+ou l’arme d’un allié situé dans la zone de l’énergie canalisée et lui
+octroyer les avantages de l’une de ses bénédictions mineures pour le
+coût d’une utilisation de cette bénédiction.
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[transfert de sorts]]
+</div>
+
+
+{s:Reference|Sournoise}
+<div class="BD">
+{s:BDTitre|Sournoise|{s:mca}}
+'''Prix'''
++5 000 po
+'''Emplacement''' aucun '''NLS''' 7 '''Poids''' — <br>
+'''Aura''' [[nécromancie]] modérée
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux
+armes de corps à corps. Une fois par jour par une action libre, le
+personnage qui manie une arme sournoise peut désigner un unique
+adversaire à portée de son allonge au corps à corps pour en faire sa
+proie. Si le personnage possède le pouvoir de classe attaque sournoise,
+il ajoute les dégâts de son attaque sournoise à la prochaine
+attaque qu’il porte contre sa proie, même s’il ne la prend pas en
+tenaille et que la cible conserve son bonus de Dextérité à la CA, à
+partir du moment où l’attaque est portée avant la fin du prochain
+tour du personnage. Si ce dernier est un roublard ou un tueur avec
+le talent surprise du chasseur, il peut utiliser ce talent une fois de
+plus par jour.
+(((Fabrication)))'''Coût''' 2 500 po
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[anathème]]
+</div>
+
+
+{s:Reference|Traque-esprits}
+<div class="BD">
+{s:BDTitre|Traque-esprits|{s:mca}}
+'''Prix'''
+Bonus +1
+'''Emplacement''' aucun '''NLS''' 8 '''Poids''' — <br>
+'''Aura''' [[invocation]] modérée
+(((Description)))
+Une arme traque-esprits excelle contre les ennemis possédant le
+pouvoir de classe esprit ou mystère (mais elle n’a aucun effet contre
+un chaman ayant un lien temporaire avec l’esprit approprié grâce
+au pouvoir de classe esprit errant ou un effet similaire). Contre un
+ennemi désigné, le bonus d’altération de l’arme est augmenté de
+2. Elle inflige également 2d6 points de dégâts supplémentaires
+contre ces ennemis. Quand l’arme est combinée à des pouvoirs
+comme tueur ou traque-sang, l’augmentation du bonus d’altération
+apportée par ces pouvoirs ne se cumule pas mais le personnage
+rajoute 1d6 points de dégâts de plus aux dégâts supplémentaires
+de chaque pouvoir au-delà du premier. (Par exemple, une arme
+tueuse traque-esprits inflige 3d6 points de dégâts supplémentaires
+tandis qu’une arme tueuse traque-esprits traque-sang inflige 4d6
+points de dégâts supplémentaires.) Pour déterminer aléatoirement
+l’ennemi désigné d’une arme, faites un jet dans la table qui suit. Il
+est possible de désigner d’autres ennemis mais la plupart de ces
+armes sont harmonisées contre les créatures ayant les mystères ou
+les esprits suivants.
+<centre>
+{| CLASS="tablo col1centre"
+| d100 || Ennemi désigné
+|- CLASS="premier"
+| 01-10 || Batailles
+|-
+| 11-20 || Os
+|-
+| 21-30 || Flammes
+|-
+| 31-40 || Cieux
+|-
+| 41-50 || Vie
+|-
+| 51-60 || Savoir
+|-
+| 61-70 || Nature
+|-
+| 71-80 || Pierre
+|-
+| 81-90 || Vagues
+|-
+| 91-100 || Vent
+|}
+</centre>
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[convocation dalliés naturels I|convocation d’alliés naturels I]]
+</div>
+
+
+{s:Reference|Traque-sang}
+<div class="BD">
+{s:BDTitre|Traque-sang|{s:mca}}
+'''Prix'''
+Bonus +1
+'''Emplacement''' aucun '''NLS''' 8 '''Poids''' — <br>
+'''Aura''' [[invocation]] modérée
+(((Description)))
+Une arme traque-sang excelle contre les ennemis possédant le pouvoir
+de classe lignage. Contre un ennemi désigné, le bonus d’altération
+de l’arme est augmenté de 2. Elle inflige également 2d6 points de
+dégâts supplémentaires contre ces ennemis. Quand l’arme est combinée
+à des pouvoirs comme tueur ou traque-esprits, l’augmentation du
+bonus d’altération apportée par ces pouvoirs ne se cumule pas mais le
+personnage rajoute 1d6 points de dégâts de plus aux dégâts supplémentaires
+de chaque pouvoir au-delà du premier. (Par exemple, une
+arme tueuse traque-sang inflige 3d6 points de dégâts supplémentaires
+tandis qu’une arme tueuse traque-esprits traque-sang inflige
+4d6 points de dégâts supplémentaires.) Pour déterminer aléatoirement
+l’ennemi désigné d’une arme, faites un jet dans la table qui
+suit. Il est possible de désigner d’autres ennemis mais la plupart de
+ces armes sont harmonisées contre les créatures ayant les lignages
+suivants.
+{| CLASS="alt tablo col1centre"
+| d100 || Ennemi désigné
+|- CLASS="premier"
+| 01-05 || Aberrant
+|-
+| 06-15 || Abyssal
+|-
+| 16-30 || Profane
+|-
+| 31-35 || Céleste
+|-
+| 36-40 || Voué à un grand destin
+|-
+| 41-50 || Draconique
+|-
+| 51-60 || Élémentaire
+|-
+| 61-70 || Féerique
+|-
+| 71-80 || Infernal
+|-
+| 81-90 || Mort-vivant
+|-
+| 91-95 || Autre
+|-
+| 96-100 || Tous
+|}
+(((Fabrication)))'''Coût''' bonus +1
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[convocation de monstres I]]
+</div>
+
+
+{s:Reference|Volante}
+<div class="BD">
+{s:BDTitre|Volante|{s:mca}}
+'''Prix'''
+Bonus +5
+'''Emplacement''' aucun '''NLS''' 16 '''Poids''' —<br>
+'''Aura''' [[transmutation]] forte
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
+de corps à corps. Une arme volante fonctionne comme une arme
+dansante mais, lorsqu’elle danse, il est possible de la diriger pour
+qu’elle attaque les ennemis dans un rayon de 9 mètres. En outre, le
+dernier utilisateur à dégainer l’arme peut, à tout moment (même
+si l’arme n’est pas en train de danser), la faire revenir à lui par une
+action rapide. Elle vole à une vitesse maximale de 15 mètres par
+round pour retourner à son porteur, effectuant une tentative de destruction
+par round pour franchir tout obstacle qu’elle ne peut pas
+contourner et un test de manoeuvre offensive (utilisant le BMO de
+son dernier porteur) contre le DMD de toute créature qui tente de la
+saisir ou de la retenir (elle se libère sur un test réussi). Quand elle
+revient à son porteur, l’arme atterrit dans l’une de ses mains libres
+ou, si le personnage n’a aucune main de libre, retombe à ses pieds.
+Si l’arme ne peut pas revenir à son porteur au bout de 4 rounds, elle
+tombe au sol, inerte.
+(((Fabrication)))'''Coût''' bonus +5
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[animation dobjets|animation d’objets]]
+</div>
+
+
+{s:Reference|Voleuse de destin}
+<div class="BD">
+{s:BDTitre|Voleuse de destin|{s:mca}}
+'''Prix'''
+Bonus +1
+'''Emplacement''' aucun '''NLS''' 5 '''Poids''' —<br>
+'''Aura''' [[nécromancie]] faible
+(((Description)))
+Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
+de corps à corps. Quand une arme voleuse de destin touche une
+créature possédant le pouvoir audace ou panache, le personnage
+peut lui voler un point d’audace ou de panache par une action rapide.
+Quand le personnage vole un point d’audace ou de panache,
+il regagne 1 point d’audace ou de panache (s’il en possède). Il peut
+utiliser le point d’audace d’un adversaire pour restaurer son propre
+panache ou le point de panache d’un adversaire pour restaurer sa
+propre audace.
+Si le personnage tente d’utiliser ce pouvoir contre un adversaire
+qui n’a ni audace ni panache ou auquel il ne reste aucun point
+d’audace ou de panache, il ne dépense pas d’action et sa tentative
+échoue.
+(((Fabrication)))'''Coût''' 2 000 po
+'''Conditions''' [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[baiser du vampire]]
+</div>
+
+
+
+
+=== Armes spéciales ===
+
+<center>
+{| CLASS="tablo col1centre"
+|+ Armes spéciales
+|- CLASS="titre"
+| Armes spéciales mineures intermédiaires || Prix
+|- CLASS="premier"
+| [[Rapière du bretteur]] || 7 320 po
+|- CLASS="alt"
+| [[Lame du bourreau]] || 13 850 po
+|- CLASS="titre"
+| Armes spéciales supérieures intermédiaires || Prix
+|- CLASS="premier alt"
+| [[Rapière de déplacement tactique]] || 30 320 po
+|-
+| [[Fil du duelliste]] || 35 320 po
+|}
+</center>
+]]></raw>
+  <fullName>Pathfinder-RPG.Temp objetsmagiques armes MCA</fullName>
+</wikiPage>

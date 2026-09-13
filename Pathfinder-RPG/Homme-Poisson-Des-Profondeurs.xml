@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Homme-poisson des profondeurs</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-19 16:55:23Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type aquatique</link><link>Pathfinder-RPG.Perception aveugle (capacité)</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.camouflage</link><link>Pathfinder-RPG.camouflage total</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.battre en retraite</link><link>Pathfinder-RPG.Homme-poisson</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Homme-poisson des profondeurs&lt;div style=&quot;float:right;&quot;&gt;FP 3&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Aquatique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.151&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 800
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Aquatique.html&quot; title=&quot;Aquatique (sous-type)&quot;&gt;aquatique&lt;/a&gt;) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +9 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Perception-Aveugle-(Capacit&#233;).html&quot; title=&quot;Perception aveugle (Ext)&quot;&gt;perception aveugle&lt;/a&gt; &#224; 9 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 15, pris au d&#233;pourvu 12 (Dex +5, natural +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 30 (4d8+12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +6, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; habitant des profondeurs, semi-transparent ; &lt;b&gt;R&#233;sistances&lt;/b&gt; froid 5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; sensible &#224; la lumi&#232;re
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 3 m, nage 12 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; lance, +6 (1d8+4/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;Le roublard&quot;&gt;attaque sournoise&lt;/a&gt; +2d6, sprint
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 20, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 11, &lt;b&gt;Sag&lt;/b&gt; 10, &lt;b&gt;Cha&lt;/b&gt; 11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +6 ; &lt;b&gt;DMD&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9 (+17 sous l’eau), &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +16, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +2 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en Discr&#233;tion (sous l’eau)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; aquatique
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; oc&#233;ans (fosses oc&#233;aniques)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, famille (2‑4) ou tribu (10-15)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (lance, autre tr&#233;sor)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Habitant des profondeurs (Ext).&lt;/b&gt; Les hommes-poissons des profondeurs sont immunis&#233;s aux d&#233;g&#226;ts caus&#233;s par la pression de l’eau. Leur corps s’ajuste instantan&#233;ment aux diff&#233;rentes profondeurs.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Semi-transparent (Ext).&lt;/b&gt; Les hommes-poissons des profondeurs sont tr&#232;s difficiles &#224; rep&#233;rer sous l’eau. Tant qu’ils restent &#224; au moins 3 m&#232;tres de profondeur, ils b&#233;n&#233;ficient d&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat#Camouflage.html&quot; title=&quot;camouflage&quot;&gt;camouflage&lt;/a&gt; et peuvent utiliser leur comp&#233;tence &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; en se d&#233;pla&#231;ant &#224; leur vitesse normale sans malus. Dans les profondeurs de l’oc&#233;an (&#224; 900 m&#232;tres de profondeur ou plus), cet avantage se transforme en &lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat#Camouflagetotal.html&quot; title=&quot;camouflage total&quot;&gt;camouflage total&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Sprint (Ext).&lt;/b&gt; Un homme-poisson des profondeurs peut &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Charge.html&quot; title=&quot;charge&quot;&gt;charger&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Complexes#Retraite.html&quot; title=&quot;battre en retraite&quot;&gt;battre en retraite&lt;/a&gt; &#224; une vitesse pouvant atteindre jusqu’&#224; trois fois sa vitesse de nage.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette sir&#232;ne &#233;maci&#233;e a une longue queue semi-transparente surmont&#233;e d’une nageoire dorsale du m&#234;me rouge vif que sa nageoireet caudale.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Tout comme les &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Poisson.html&quot; title=&quot;Homme-poisson&quot;&gt;hommes-poissons communs&lt;/a&gt;, ceux des profondeurs poss&#232;dent un tronc humain et une queue de poisson, mais ils se sont adapt&#233;s pour survivre dans les profondeurs des oc&#233;ans. Leur peau est &#224; la fois sombre et transparente, ce qui leur permet de passer inaper&#231;us dans les profondeurs obscures de l’oc&#233;an. Ils se parent parfois de teintures bioluminescentes avec lesquelles ils cr&#233;ent des points brillants le long de leur queue. Cela leur sert &#224; la fois de moyen de communication silencieux et d’app&#226;t quand ils chassent.&lt;br /&gt;&lt;br /&gt;Les hommes-poissons des profondeurs &#233;tablissent des villages le long des fosses oc&#233;aniques les plus profondes, l&#224; o&#249; ils chassent des cr&#233;atures marines et r&#233;coltent des crustac&#233;s sur le plancher oc&#233;anique. Ce sont des chasseurs r&#233;put&#233;s et il arrive que de petits groupes de chasseurs s’attaquent &#224; des requins ou &#224; d’autres grosses cr&#233;atures r&#244;dant dans les profondeurs. La m&#233;thode favorite de chasse des hommes-poissons consiste &#224; tendre une embuscade &#224; leur proie, attirant souvent leur cible &#224; l’aide de leur bioluminescence. Cach&#233;s dans des crevasses ou sous le sable, ils comptent sur leur camouflage naturel pour passer inaper&#231;us jusqu’au moment o&#249; ils d&#233;clencheront leurs pi&#232;ges.&lt;br /&gt;&lt;br /&gt;Tout comme leurs cousins, les hommes-poissons des profondeurs sont tr&#232;s protecteurs &#224; l’&#233;gard de leur tribu et de leur habitat et ils prennent toutes les mesures n&#233;cessaires pour que les &#233;trangers gardent leurs distances. Leurs lanceurs de sorts dissimulent souvent leurs demeures &#224; l’aide d’illusions pendant que les &#233;claireurs et les chasseurs installent des pi&#232;ges, tendent des embuscades et cr&#233;ent de fausses pistes menant les intrus jusque dans des zones &#233;loign&#233;es et dangereuses des profondeurs de l’oc&#233;an. Si de telles tentatives de d&#233;sorientation et de dissimulation &#233;chouent, ils n’h&#233;siteront pas &#224; lancer des attaques pr&#233;ventives contre les intrus, si possible loin de leur habitat.&lt;br /&gt;&lt;br /&gt;Bien que leur apparence soit &#224; l’origine de l&#233;gendes &#233;voquant des liens avec des puissances t&#233;n&#233;breuses aux plans sinistres, la plupart des hommes-poissons sont des individus assez simples qui s’int&#233;ressent peu au monde qui se trouve au-dessus des vagues. Quelques tribus isol&#233;es v&#233;n&#232;rent en secret le seigneur d&#233;mon Dagon, mais elles voient plus en lui un sombre protecteur qu’elles doivent apaiser qu’une d&#233;it&#233; dont il faut suivre les enseignements ou pour laquelle elles ressentent une quelconque forme d’affection.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Homme-poisson des profondeurs|FP 3}
+{s:pucem|Humanoïde|Aquatique|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.151]]''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type Aquatique|aquatique]]) de taille M, N}
+{s:BDTexte|'''Init''' +9 ; '''Sens''' [[Perception aveugle (capacité)|perception aveugle]] à 9 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +2}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 15, pris au dépourvu 12 (Dex +5, natural +2)}
+{s:BDTexte|'''pv''' 30 (4d8+12)}
+{s:BDTexte|'''Réf''' +6, '''Vig''' +4, '''Vol''' +4}
+{s:BDTexte|'''Capacités défensives''' habitant des profondeurs, semi-transparent ; '''Résistances''' froid 5}
+{s:BDTexte|'''Faiblesses''' sensible à la lumière}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 3 m, nage 12 m}
+{s:BDTexte|'''Corps à corps''' lance, +6 (1d8+4/×3)}
+{s:BDTexte|'''Attaques spéciales''' [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +2d6, sprint}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 20, '''Con''' 16, '''Int''' 11, '''Sag''' 10, '''Cha''' 11}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +6 ; '''DMD''' 21}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|'''Compétences''' [[Discrétion]] +9 (+17 sous l’eau), [[Natation]] +16, [[Perception]] +2 ; '''Modificateurs raciaux''' +8 en Discrétion (sous l’eau)}
+{s:BDTexte|'''Langues''' aquatique}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' océans (fosses océaniques)}
+{s:BDTexte|'''Organisation''' solitaire, famille (2‑4) ou tribu (10-15)}
+{s:BDTexte|'''Trésor''' standard (lance, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Habitant des profondeurs (Ext).''' Les hommes-poissons des profondeurs sont immunisés aux dégâts causés par la pression de l’eau. Leur corps s’ajuste instantanément aux différentes profondeurs.}
+{s:BDTexte|'''Semi-transparent (Ext).''' Les hommes-poissons des profondeurs sont très difficiles à repérer sous l’eau. Tant qu’ils restent à au moins 3 mètres de profondeur, ils bénéficient d'un [[camouflage]] et peuvent utiliser leur compétence [[Discrétion]] en se déplaçant à leur vitesse normale sans malus. Dans les profondeurs de l’océan (à 900 mètres de profondeur ou plus), cet avantage se transforme en [[camouflage total]].}
+{s:BDTexte|'''Sprint (Ext).''' Un homme-poisson des profondeurs peut [[charge|charger]] ou [[battre en retraite]] à une vitesse pouvant atteindre jusqu’à trois fois sa vitesse de nage.}
+
+</div></td>
+<td><div>''Cette sirène émaciée a une longue queue semi-transparente surmontée d’une nageoire dorsale du même rouge vif que sa nageoireet caudale.''
+
+Tout comme les [[Homme-poisson|hommes-poissons communs]], ceux des profondeurs possèdent un tronc humain et une queue de poisson, mais ils se sont adaptés pour survivre dans les profondeurs des océans. Leur peau est à la fois sombre et transparente, ce qui leur permet de passer inaperçus dans les profondeurs obscures de l’océan. Ils se parent parfois de teintures bioluminescentes avec lesquelles ils créent des points brillants le long de leur queue. Cela leur sert à la fois de moyen de communication silencieux et d’appât quand ils chassent.
+
+Les hommes-poissons des profondeurs établissent des villages le long des fosses océaniques les plus profondes, là où ils chassent des créatures marines et récoltent des crustacés sur le plancher océanique. Ce sont des chasseurs réputés et il arrive que de petits groupes de chasseurs s’attaquent à des requins ou à d’autres grosses créatures rôdant dans les profondeurs. La méthode favorite de chasse des hommes-poissons consiste à tendre une embuscade à leur proie, attirant souvent leur cible à l’aide de leur bioluminescence. Cachés dans des crevasses ou sous le sable, ils comptent sur leur camouflage naturel pour passer inaperçus jusqu’au moment où ils déclencheront leurs pièges.
+
+Tout comme leurs cousins, les hommes-poissons des profondeurs sont très protecteurs à l’égard de leur tribu et de leur habitat et ils prennent toutes les mesures nécessaires pour que les étrangers gardent leurs distances. Leurs lanceurs de sorts dissimulent souvent leurs demeures à l’aide d’illusions pendant que les éclaireurs et les chasseurs installent des pièges, tendent des embuscades et créent de fausses pistes menant les intrus jusque dans des zones éloignées et dangereuses des profondeurs de l’océan. Si de telles tentatives de désorientation et de dissimulation échouent, ils n’hésiteront pas à lancer des attaques préventives contre les intrus, si possible loin de leur habitat.
+
+Bien que leur apparence soit à l’origine de légendes évoquant des liens avec des puissances ténébreuses aux plans sinistres, la plupart des hommes-poissons sont des individus assez simples qui s’intéressent peu au monde qui se trouve au-dessus des vagues. Quelques tribus isolées vénèrent en secret le seigneur démon Dagon, mais elles voient plus en lui un sombre protecteur qu’elles doivent apaiser qu’une déité dont il faut suivre les enseignements ou pour laquelle elles ressentent une quelconque forme d’affection.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Homme-poisson des profondeurs</fullName>
+</wikiPage>

@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Dahak</title>
+  <categories><category>Pathfinder-RPG.Divinité</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2023-09-08 00:14:48Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Apsu (technique)</link><link>Pathfinder-RPG.Chasseur de Dahak</link><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.Objets merveilleux portés autour du cou</link><link>Pathfinder-RPG.Pierre nocturne de chagrin</link><link>Pathfinder-RPG.Pierre nocturne de chagrin</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Traits religieux</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Divinités</link><link>Pathfinder-RPG.dragon</link><link>Pathfinder-RPG.fouet (arme)</link><link>Pathfinder-RPG.Attaques naturelles (capacité)</link><link>Pathfinder-RPG.Domaine du Chaos</link><link>Pathfinder-RPG.Domaine de la Destruction</link><link>Pathfinder-RPG.Domaine de la Duperie</link><link>Pathfinder-RPG.Domaine du Mal</link><link>Pathfinder-RPG.Domaine des Reptiles</link><link>Pathfinder-RPG.Apsu (technique)</link><link>Pathfinder-RPG.Vouivre</link><link>Pathfinder-RPG.Drake</link><link>Pathfinder-RPG.Antipaladin</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Inquisiteur</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.Prêtre combattant</link><link>Pathfinder-RPG.Oracle</link><link>Pathfinder-RPG.LB</link><link>Pathfinder-RPG.NB</link><link>Pathfinder-RPG.CB</link><link>Pathfinder-RPG.LN</link><link>Pathfinder-RPG.N</link><link>Pathfinder-RPG.CN</link><link>Pathfinder-RPG.LM</link><link>Pathfinder-RPG.NM</link><link>Pathfinder-RPG.CM</link></outLinks>
+  <body><![CDATA[&lt;style&gt;
+    td.Non {
+        background-color: #f3efe2;
+    }
+    td.Oui {
+        background-color: #ffc;
+    }
+    td.Oui, td.Non {
+        text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+    }
+    table.descdivinit&#233; tr {
+        vertical-align: top;
+    }
+    table.descdivinit&#233; tr:first-child {
+        padding: 0 4px 0 0;
+    }
+&lt;/style&gt;&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fDahak.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;Aucun symbole connu&lt;/i&gt;&quot;); }
+  if(image.indexOf(&quot;png&quot;) == -1) { $(&#39;#symbole&#39;).html(&quot;&lt;i&gt;%2fPCUP%2fReligion-PNG%2fDahak.png&lt;/i&gt;&quot;); }
+  let align = &quot;Chaotique Mauvais&quot;;
+  if(align == &quot;Loyal Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); };
+  if(align == &quot;Loyal Neutre&quot;) { highlight(&quot;LB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;LM&quot;); };
+  if(align == &quot;Loyal Mauvais&quot;) { highlight(&quot;LN&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Bon&quot;) { highlight(&quot;LB&quot;); highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;N&quot;); };
+  if(align == &quot;Neutre&quot;) { highlight(&quot;NB&quot;); highlight(&quot;LN&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); };
+  if(align == &quot;Neutre Mauvais&quot;) { highlight(&quot;N&quot;); highlight(&quot;LM&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Bon&quot;) { highlight(&quot;NB&quot;); highlight(&quot;CB&quot;); highlight(&quot;CN&quot;); };
+  if(align == &quot;Chaotique Neutre&quot;) { highlight(&quot;CB&quot;); highlight(&quot;N&quot;); highlight(&quot;CN&quot;); highlight(&quot;CM&quot;); };
+  if(align == &quot;Chaotique Mauvais&quot;) { highlight(&quot;CN&quot;); highlight(&quot;NM&quot;); highlight(&quot;CM&quot;); };
+});
+function highlight(value) {
+  let abbr = value;
+  $(&#39;#&#39; + abbr).removeClass(&quot;Non&quot;).addClass(&quot;Oui&quot;);
+};
+&lt;/script&gt;&lt;div style=&quot;float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px&quot;&gt;
+&lt;div style=&quot;padding: 4px; border: 1px solid #4b3124&quot;&gt;
+&lt;table style=&quot;background-color: #f3efe2; width: 100%;&quot;&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%&quot;&gt;Dahak,&lt;br/&gt;La Destruction infinie&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td id=&quot;symbole&quot; style=&quot;text-align: center&quot;&gt;&lt;IMG WIDTH=&quot;80%&quot; SRC=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fDahak.png&quot; STYLE=&quot;padding: 5px 0 5px 0;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;padding: 2px 4px 2px 4px&quot;&gt;
+&lt;table class=&quot;descdivinit&#233;&quot; STYLE=&quot;text-align: left; font-size: 90%; width: 100%&quot;&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Panth&#233;on&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#AUTRES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Autres divinit&#233;s&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Divinit&#233;s.html#RACIALES&quot; title=&quot;Les divinit&#233;s&quot;&gt;Divinit&#233;s kobolds&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignement&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Chaotique Mauvais&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Alignements de pr&#234;tre&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;div style=&quot;background-color: #fff&quot;&gt;
+                &lt;div style=&quot;border: 1px solid #4b3124&quot;&gt;
+                    &lt;table style=&quot;width: 100%;&quot;&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lb.html&quot; title=&quot;LB&quot;&gt;LB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nb.html&quot; title=&quot;NB&quot;&gt;NB&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CB&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cb.html&quot; title=&quot;CB&quot;&gt;CB&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Ln.html&quot; title=&quot;LN&quot;&gt;LN&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;N&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#N.html&quot; title=&quot;N&quot;&gt;N&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CN&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cn.html&quot; title=&quot;CN&quot;&gt;CN&lt;/a&gt;&lt;/td&gt;
+                        &lt;tr&gt;
+                        &lt;tr&gt;
+                            &lt;td id=&quot;LM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Lm.html&quot; title=&quot;LM&quot;&gt;LM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;NM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Nm.html&quot; title=&quot;NM&quot;&gt;NM&lt;/a&gt;&lt;/td&gt;
+                            &lt;td id=&quot;CM&quot; class=&quot;Non&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement#Cm.html&quot; title=&quot;CM&quot;&gt;CM&lt;/a&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Th&#232;mes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Avarice, destruction et dragons Mauvais
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Suivants&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html&quot; title=&quot;Les dragons v&#233;ritables&quot;&gt;Dragons&lt;/a&gt; mal&#233;fiques&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Animal sacr&#233;&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Aucun
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Arme de pr&#233;dilection&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fouet-(Arme).html&quot; title=&quot;Fouet&quot;&gt;Fouet&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-Naturelles-(Capacit&#233;).html&quot; title=&quot;Attaques naturelles&quot;&gt;morsure&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Destruction.html&quot; title=&quot;Domaine de la Destruction&quot;&gt;Destruction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Duperie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Mal&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Des-Reptiles.html&quot; title=&quot;Domaine des Reptiles&quot;&gt;Reptiles&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Sous-domaines&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Avarice&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Destruction.html&quot; title=&quot;Domaine de la Destruction&quot;&gt;Catastrophe&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;Corruption&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Chaos.html&quot; title=&quot;Domaine du Chaos&quot;&gt;D&#233;mons (Chaos)&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Du-Mal.html&quot; title=&quot;Domaine du Mal&quot;&gt;D&#233;mons (Mal)&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-Des-Reptiles.html&quot; title=&quot;Domaine des Reptiles&quot;&gt;Dragons&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Destruction.html&quot; title=&quot;Domaine de la Destruction&quot;&gt;Haine&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Destruction.html&quot; title=&quot;Domaine de la Destruction&quot;&gt;Rage&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Supercherie&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Domaine-De-La-Duperie.html&quot; title=&quot;Domaine de la Duperie&quot;&gt;Voleurs&lt;/a&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;b&gt;Inquisitions&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td style=&quot;background-color: #4b3124; padding: 1px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0&quot;&gt;Voir aussi : &lt;a class=&quot;pagelink&quot; href=&quot;../Golarion/Dahak.html&quot; title=&quot;Dahak, le Dragon Destructeur&quot;&gt;Profil contextuel de la divinit&#233;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;Dahak est r&#233;put&#233; &#234;tre l&#39;un des premiers dieux cr&#233;&#233;s par &lt;a class=&quot;pagelink&quot; href=&quot;Apsu-(Technique).html&quot; title=&quot;Apsu&quot;&gt;Apsu&lt;/a&gt; et Tiamat. Les fid&#232;les de Dahak sont les &lt;a class=&quot;pagelink&quot; href=&quot;Dragon.html&quot; title=&quot;Les dragons v&#233;ritables&quot;&gt;dragons chromatiques&lt;/a&gt;, mais la Destruction infinie n&#39;aime pas ses fid&#232;les. Il offre le pouvoir et l&#39;immortalit&#233; en &#233;change de ses services, mais jamais le pardon ou la piti&#233;. Certaines l&#233;gendes racontent que Dahak a cr&#233;&#233; les &lt;a class=&quot;pagelink&quot; href=&quot;Vouivre.html&quot; title=&quot;Vouivre&quot;&gt;vouivres&lt;/a&gt; et les &lt;a class=&quot;pagelink&quot; href=&quot;Drake.html&quot; title=&quot;Les Drakes&quot;&gt;drakes&lt;/a&gt; dans une tentative malencontreuse de forger une nouvelle race de dragons, mais les &#233;rudits s&#39;accordent &#224; dire que cette notion contredit largement son r&#244;le de destructeur &#233;ternel. N&#233;anmoins, les drakes mal&#233;fiques et de nombreuses vouivres croient en ces l&#233;gendes et v&#233;n&#232;rent Dahak comme leur cr&#233;ateur.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles uniques aux suivants&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_uniques_aux_suivants_0&quot; href=&quot;#R&#232;gles_uniques_aux_suivants_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;antipaladin&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;sanguin&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;externallink&quot; href=&quot;https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dahak%27s%20Release&quot; title=&quot;Dahak&#39;s Release&quot; target=&quot;_blank&quot;&gt;Dahak&#39;s Release&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Inquisiteur.html&quot; title=&quot;L&amp;#39;inquisiteur&quot;&gt;inquisiteur&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html&quot; title=&quot;Le pr&#234;tre&quot;&gt;pr&#234;tre&lt;/a&gt;/&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre-Combattant.html&quot; title=&quot;Le pr&#234;tre combattant&quot;&gt;pr&#234;tre combattant&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;externallink&quot; href=&quot;https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dahak%27s%20Release&quot; title=&quot;Dahak&#39;s Release&quot; target=&quot;_blank&quot;&gt;Dahak&#39;s Release&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau.  
+• &lt;i&gt;&lt;a class=&quot;externallink&quot; href=&quot;https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally&quot; title=&quot;Draconic Ally&quot; target=&quot;_blank&quot;&gt;Draconic Ally&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 3e niveau.  
+• &lt;i&gt;&lt;a class=&quot;externallink&quot; href=&quot;https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tail%20Strike&quot; title=&quot;Tail Strike&quot; target=&quot;_blank&quot;&gt;Tail Strike&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Lancement de sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Oracle.html&quot; title=&quot;L&amp;#39;oracle&quot;&gt;oracle&lt;/a&gt;).&lt;/b&gt;  
+• &lt;i&gt;&lt;a class=&quot;externallink&quot; href=&quot;https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally&quot; title=&quot;Draconic Ally&quot; target=&quot;_blank&quot;&gt;Draconic Ally&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 3e niveau.  
+• &lt;i&gt;&lt;a class=&quot;externallink&quot; href=&quot;https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tail%20Strike&quot; title=&quot;Tail Strike&quot; target=&quot;_blank&quot;&gt;Tail Strike&lt;/a&gt;&lt;/i&gt; peut &#234;tre pr&#233;par&#233; comme un sort de 4e niveau.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Options de personnage th&#233;matiques&lt;a class=&quot;headeranchor&quot; id=&quot;Options_de_personnage_th&#233;matiques_1&quot; href=&quot;#Options_de_personnage_th&#233;matiques_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;article_2col&quot;&gt;
+&lt;i&gt;&#192; VENIR&lt;/i&gt;  
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:DieuTech|Dahak|Dahak,<br/>La Destruction infinie|%2fPCUP%2fReligion-PNG%2fDahak.png|[[Divinités#AUTRES|Autres divinités]], [[Divinités#RACIALES|Divinités kobolds]]
+|Chaotique Mauvais|Avarice, destruction et dragons Mauvais
+|[[Dragon|Dragons]] maléfiques|Aucun
+|[[Fouet (arme)|Fouet]] ou [[Attaques naturelles (capacité)|morsure]]
+|[[Domaine du Chaos|Chaos]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Duperie|Duperie]], [[Domaine du Mal|Mal]], [[Domaine des Reptiles|Reptiles]]
+|[[Domaine de la Duperie|Avarice]], [[Domaine de la Destruction|Catastrophe]], [[Domaine du Mal|Corruption]], [[Domaine du Chaos|Démons (Chaos)]], [[Domaine du Mal|Démons (Mal)]], [[Domaine des Reptiles|Dragons]], [[Domaine de la Destruction|Haine]], [[Domaine de la Destruction|Rage]], [[Domaine de la Duperie|Supercherie]], [[Domaine de la Duperie|Voleurs]]
+|—}{s:cs}{s:ISG}Dahak est réputé être l'un des premiers dieux créés par [[Apsu (technique)|Apsu]] et Tiamat. Les fidèles de Dahak sont les [[Dragon|dragons chromatiques]], mais la Destruction infinie n'aime pas ses fidèles. Il offre le pouvoir et l'immortalité en échange de ses services, mais jamais le pardon ou la pitié. Certaines légendes racontent que Dahak a créé les [[vouivre|vouivres]] et les [[Drake|drakes]] dans une tentative malencontreuse de forger une nouvelle race de dragons, mais les érudits s'accordent à dire que cette notion contredit largement son rôle de destructeur éternel. Néanmoins, les drakes maléfiques et de nombreuses vouivres croient en ces légendes et vénèrent Dahak comme leur créateur.
+
+===Règles uniques aux suivants===
+'''Lancement de sorts ([[antipaladin]]/[[sanguin]]).'''  
+• ''[[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dahak%27s%20Release|Dahak's Release]]'' peut être préparé comme un sort de 4e niveau.
+
+'''Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).'''  
+• ''[[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dahak%27s%20Release|Dahak's Release]]'' peut être préparé comme un sort de 4e niveau.  
+• ''[[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally|Draconic Ally]]'' peut être préparé comme un sort de 3e niveau.  
+• ''[[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tail%20Strike|Tail Strike]]'' peut être préparé comme un sort de 4e niveau.
+
+'''Lancement de sorts ([[oracle]]).'''  
+• ''[[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally|Draconic Ally]]'' peut être préparé comme un sort de 3e niveau.  
+• ''[[https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tail%20Strike|Tail Strike]]'' peut être préparé comme un sort de 4e niveau.
+
+===Options de personnage thématiques===
+<div class="article_2col">
+''À VENIR''  
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Dahak (technique)</fullName>
+</wikiPage>

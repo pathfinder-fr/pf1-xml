@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Azata, Gancanagh</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-20 17:18:28Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Azata</link><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Prestige UI</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type azata</link><link>Pathfinder-RPG.sous-type Bien</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vulnérabilités (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.Image miroir</link><link>Pathfinder-RPG.Suggestion</link><link>Pathfinder-RPG.Espoir</link><link>Pathfinder-RPG.Soins modérés</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Déguisement</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Représentation</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Changement de forme (capacité)</link><link>Pathfinder-RPG.Modification dapparence</link><link>Pathfinder-RPG.rapière (arme)</link><link>Pathfinder-RPG.mithral</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.États préjudiciables</link><link>Pathfinder-RPG.Fatigué</link><link>Pathfinder-RPG.Épuisé</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Registre</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Nuage nauséabond</link><link>Pathfinder-RPG.Pyrotechnie</link><link>Pathfinder-RPG.Azata</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gancanagh&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.40&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Azata.html&quot; title=&quot;Azata (sous-type)&quot;&gt;azata&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Chaos.html&quot; title=&quot;Chaos (sous-type)&quot;&gt;Chaos&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;) de taille M, CB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +5 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 15, pris au d&#233;pourvu 12 (Dex +5, naturelle +2)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (5d10+15)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +9, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +5
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/fer froid et Mal ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; &#233;lectricit&#233;, p&#233;trification ; &lt;b&gt;R&#233;sistances&lt;/b&gt; feu 10, froid 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Faiblesses&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vuln&#233;rabilit&#233;s-(Capacit&#233;).html&quot; title=&quot;Vuln&#233;rabilit&#233;s (Ext ou Sur)&quot;&gt;vuln&#233;rabilit&#233;&lt;/a&gt; &#224; la fum&#233;e
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; rapi&#232;re en mithral +1, +11 (1d6+6/18-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 5 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +10)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Image-Miroir.html&quot; title=&quot;Image miroir&quot;&gt;image miroir&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Suggestion.html&quot; title=&quot;Suggestion&quot;&gt;suggestion&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Espoir.html&quot; title=&quot;Espoir&quot;&gt;espoir&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-Mod&#233;r&#233;s.html&quot; title=&quot;Soins mod&#233;r&#233;s&quot;&gt;soins mod&#233;r&#233;s&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 12, &lt;b&gt;Dex&lt;/b&gt; 21, &lt;b&gt;Con&lt;/b&gt; 16, &lt;b&gt;Int&lt;/b&gt; 15, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5 ; &lt;b&gt;BMO&lt;/b&gt; +6 ; &lt;b&gt;DMD&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, Persuasif
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (plans) +6, &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;guisement.html&quot; title=&quot;D&#233;guisement&quot;&gt;D&#233;guisement&lt;/a&gt; +13, &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +15, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +7, &lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentation.html&quot; title=&quot;Repr&#233;sentation&quot;&gt;Repr&#233;sentation&lt;/a&gt; (instruments &#224; vent) +13, &lt;a class=&quot;pagelink&quot; href=&quot;Utilisation-Dobjets-Magiques.html&quot; title=&quot;Utilisation d&amp;#39;objets magiques&quot;&gt;Utilisation d&#39;objets magiques&lt;/a&gt; +10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; c&#233;leste, infernal, sylvestre ; langage universel
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Forme-(Capacit&#233;).html&quot; title=&quot;Changement de forme (Sur)&quot;&gt;changement de forme&lt;/a&gt; (humano&#239;de de taille P ou M ; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-Dapparence.html&quot; title=&quot;Modification d&amp;#39;apparence&quot;&gt;modification d&#39;apparence&lt;/a&gt;&lt;/i&gt;), gr&#226;ce du gancanagh, passion revigorante
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (&#201;lys&#233;e)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; triple (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rapi&#232;re-(Arme).html&quot; title=&quot;Rapi&#232;re&quot;&gt;rapi&#232;re&lt;/a&gt; +1 en &lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux#Mithral.html&quot; title=&quot;mithral&quot;&gt;mithral&lt;/a&gt;&lt;/i&gt;, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Gr&#226;ce du gancanagh (Sur).&lt;/b&gt; La gr&#226;ce surnaturelle et les mouvements fluides d’un gancanagh lui permettent d’ajouter son modificateur de Dext&#233;rit&#233; au lieu de son modificateur de Force aux jets de d&#233;g&#226;ts inflig&#233;s avec sa rapi&#232;re.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Passion revigorante (Sur).&lt;/b&gt; La passion d’un gancanagh est suffisamment puissante pour inciter une cr&#233;ature &#224; se sublimer. Une cr&#233;ature qui accomplit un acte passionnel, tel un baiser, avec un gancanagh, b&#233;n&#233;ficie d’un bonus de comp&#233;tence de +1 aux jets d’attaque, gagne 1 d&#233; de vie temporaire (d10) et le nombre appropri&#233; de points de vie temporaires (en appliquant le modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Constitution&lt;/a&gt; de la cible, le cas &#233;ch&#233;ant) et ne subit pas les malus inflig&#233;s par les &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables.html&quot; title=&quot;Les &#233;tats pr&#233;judiciables&quot;&gt;&#233;tats pr&#233;judiciables&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;../&#201;tats pr&#233;judiciables#Fatigu&#233;
+
+Un personnage fatigu&#233; est dans l’incapacit&#233; de courir et de charger/-Il-Subit-Un-Malus-De--2-En-Force-Ainsi-Qu’En-Dext&#233;rit&#233;.-La-Fatigue-Se-Dissipe-Au-Bout-De-Huit-Heures-De-Repos-Total.-Un-Personnage-Fatigu&#233;-Devient-&#201;puis&#233;-D&#232;s-Qu’Il-Fait-Quoi-Que-Ce-Soit-Qui-Causerait-Un-Nouvel-&#201;tat-Fatigu&#233;..html&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;puis&#233;.html&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puis&#233;&lt;/a&gt;. Ces avantages persistent pendant 1 heure. &#192; la fin de cette p&#233;riode, la cr&#233;ature doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 17 pour ne pas devenir &lt;a class=&quot;pagelink&quot; href=&quot;../&#201;tats pr&#233;judiciables#Fatigu&#233;
+
+Un personnage fatigu&#233; est dans l’incapacit&#233; de courir et de charger/-Il-Subit-Un-Malus-De--2-En-Force-Ainsi-Qu’En-Dext&#233;rit&#233;.-La-Fatigue-Se-Dissipe-Au-Bout-De-Huit-Heures-De-Repos-Total.-Un-Personnage-Fatigu&#233;-Devient-&#201;puis&#233;-D&#232;s-Qu’Il-Fait-Quoi-Que-Ce-Soit-Qui-Causerait-Un-Nouvel-&#201;tat-Fatigu&#233;..html&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;e&lt;/a&gt;, ou &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#&#201;puis&#233;.html&quot; title=&quot;&#201;puis&#233;&quot;&gt;&#233;puis&#233;e&lt;/a&gt; si elle &#233;tait d&#233;j&#224; &lt;a class=&quot;pagelink&quot; href=&quot;../&#201;tats pr&#233;judiciables#Fatigu&#233;
+
+Un personnage fatigu&#233; est dans l’incapacit&#233; de courir et de charger/-Il-Subit-Un-Malus-De--2-En-Force-Ainsi-Qu’En-Dext&#233;rit&#233;.-La-Fatigue-Se-Dissipe-Au-Bout-De-Huit-Heures-De-Repos-Total.-Un-Personnage-Fatigu&#233;-Devient-&#201;puis&#233;-D&#232;s-Qu’Il-Fait-Quoi-Que-Ce-Soit-Qui-Causerait-Un-Nouvel-&#201;tat-Fatigu&#233;..html&quot; title=&quot;Fatigu&#233;&quot;&gt;fatigu&#233;e&lt;/a&gt;. C’est un &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort#Registre.html&quot; title=&quot;Registre&quot;&gt;effet mental&lt;/a&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Vuln&#233;rable &#224; la fum&#233;e (Ext).&lt;/b&gt; Les poumons d’un gancanagh ne tol&#232;rent pas la fum&#233;e. Il subit un malus de -4 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les effets de fum&#233;e ou de nuage, tels que le sort &lt;a class=&quot;pagelink&quot; href=&quot;Nuage-Naus&#233;abond.html&quot; title=&quot;Nuage naus&#233;abond&quot;&gt;nuage naus&#233;abond&lt;/a&gt; ou la fum&#233;e d’une &lt;a class=&quot;pagelink&quot; href=&quot;Pyrotechnie.html&quot; title=&quot;Pyrotechnie&quot;&gt;pyrotechnie&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Azata.html&quot; title=&quot;Les azatas&quot;&gt;azatas&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Les oreilles en pointes et la gr&#226;ce surnaturelle de cet homme incroyablement beau trahissent sa nature inhumaine.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Azatas masculins d’une beaut&#233; radieuse surnaturelle, les gancanaghs sont les chevaliers errants de l’&#201;lys&#233;e, mais surtout des soupirants inv&#233;t&#233;r&#233;s qui s&#233;duisent mortels comme immortels. Les gancanaghs sont d’incorrigibles s&#233;ducteurs, mais ils ont tendance &#224; consacrer leur attention sur un seul homme ou une seule femme &#224; la fois. Ils se lancent alors dans un jeu de s&#233;duction et de cour avec leur cible actuelle pour vivre une liaison br&#232;ve mais sinc&#232;re, avant qu’ils ne jettent leur d&#233;volu impr&#233;visible sur une autre cr&#233;ature.&lt;br /&gt;&lt;br /&gt;Ce sont les succubes et les incubes que les gancanaghs ha&#239;ssent le plus, car ils sentent que la simple existence de ces d&#233;mons assombrit et profane l’esprit de romance par leurs actes de s&#233;duction et de violence, en faisant passer les cr&#233;atures bienveillantes aussi franches et s&#233;ductrices que sont les gancanaghs pour des individus malveillants. Confondre un gancanagh avec un incube est pour lui le plus grand des affronts et plus d’un gancanagh imp&#233;tueux a d&#233;fi&#233; un paladin ou un alli&#233; bienveillant mais mal inform&#233; en duel, pour avoir formul&#233; une telle insulte.&lt;br /&gt;&lt;br /&gt;Nombre de gancanaghs poss&#232;dent une pipe &#224; l’aspect saugrenu, car ils appr&#233;cient leur forme, mais l’utilisent rarement, car ils ne supportent pas la fum&#233;e. Par contre, les fl&#251;tes sont des objets que les gancanaghs ch&#233;rissent, car ils appr&#233;cient la beaut&#233; de leurs notes et leur capacit&#233; &#224; faire vibrer les cœurs. Un gancanagh moyen mesure 1,80 m&#232;tre de haut pour un poids de 65 kilos seulement.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Gancanagh|FP 4}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 5 p.40''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille M, CB}
+{s:BDTexte|'''Init''' +5 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 17, contact 15, pris au dépourvu 12 (Dex +5, naturelle +2)}
+{s:BDTexte|'''pv''' 42 (5d10+15)}
+{s:BDTexte|'''Réf''' +9, '''Vig''' +4, '''Vol''' +5}
+{s:BDTexte|'''RD''' 5/fer froid et Mal ; '''Immunités''' électricité, pétrification ; '''Résistances''' feu 10, froid 10}
+{s:BDTexte|'''Faiblesses''' [[Vulnérabilités (capacité)|vulnérabilité]] à la fumée}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m}
+{s:BDTexte|'''Corps à corps''' rapière en mithral +1, +11 (1d6+6/18-20)}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 5 ; [[concentration]] +10)}
+{s:BDSorts|À volonté — ''[[charme-personne]]'' (DD 16), ''[[image miroir]]'', ''[[suggestion]]'' (DD 17)}
+{s:BDSorts|1/jour — ''[[espoir]]'', ''[[soins modérés]]''}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 12, '''Dex''' 21, '''Con''' 16, '''Int''' 15, '''Sag''' 12, '''Cha''' 21}
+{s:BDTexte|'''BBA''' +5 ; '''BMO''' +6 ; '''DMD''' 21}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]], [[Attaques réflexes]], Persuasif}
+{s:BDTexte|'''Compétences''' [[Bluff]] +13, [[Connaissances]] (plans) +6, [[Déguisement]] +13, [[Diplomatie]] +15, [[Discrétion]] +9, [[Intimidation]] +15, [[Perception]] +9, [[Psychologie]] +7, [[Représentation]] (instruments à vent) +13, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +10}
+{s:BDTexte|'''Langues''' céleste, infernal, sylvestre ; langage universel}
+{s:BDTexte|'''Particularités''' [[Changement de forme (capacité)|changement de forme]] (humanoïde de taille P ou M ; ''[[modification dapparence|modification d'apparence]]''), grâce du gancanagh, passion revigorante}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Élysée)}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor''' triple (''[[rapière (arme)|rapière]] +1 en [[mithral]]'', autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Grâce du gancanagh (Sur).''' La grâce surnaturelle et les mouvements fluides d’un gancanagh lui permettent d’ajouter son modificateur de Dextérité au lieu de son modificateur de Force aux jets de dégâts infligés avec sa rapière.}
+{s:BDTexte|'''Passion revigorante (Sur).''' La passion d’un gancanagh est suffisamment puissante pour inciter une créature à se sublimer. Une créature qui accomplit un acte passionnel, tel un baiser, avec un gancanagh, bénéficie d’un bonus de compétence de +1 aux jets d’attaque, gagne 1 dé de vie temporaire (d10) et le nombre approprié de points de vie temporaires (en appliquant le modificateur de [[Constitution]] de la cible, le cas échéant) et ne subit pas les malus infligés par les [[états préjudiciables]] [[fatigué]] ou [[épuisé]]. Ces avantages persistent pendant 1 heure. À la fin de cette période, la créature doit réussir un jet de [[Vigueur]] [[DD]] 17 pour ne pas devenir [[fatigué|fatiguée]], ou [[épuisé|épuisée]] si elle était déjà [[fatigué|fatiguée]]. C’est un [[registre#EFFETMENTAL|effet mental]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|'''Vulnérable à la fumée (Ext).''' Les poumons d’un gancanagh ne tolèrent pas la fumée. Il subit un malus de -4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets de fumée ou de nuage, tels que le sort [[nuage nauséabond]] ou la fumée d’une [[pyrotechnie]].}
+</div></td>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[azata|azatas]].'''''</li></ul>''Les oreilles en pointes et la grâce surnaturelle de cet homme incroyablement beau trahissent sa nature inhumaine.''
+
+Azatas masculins d’une beauté radieuse surnaturelle, les gancanaghs sont les chevaliers errants de l’Élysée, mais surtout des soupirants invétérés qui séduisent mortels comme immortels. Les gancanaghs sont d’incorrigibles séducteurs, mais ils ont tendance à consacrer leur attention sur un seul homme ou une seule femme à la fois. Ils se lancent alors dans un jeu de séduction et de cour avec leur cible actuelle pour vivre une liaison brève mais sincère, avant qu’ils ne jettent leur dévolu imprévisible sur une autre créature.
+
+Ce sont les succubes et les incubes que les gancanaghs haïssent le plus, car ils sentent que la simple existence de ces démons assombrit et profane l’esprit de romance par leurs actes de séduction et de violence, en faisant passer les créatures bienveillantes aussi franches et séductrices que sont les gancanaghs pour des individus malveillants. Confondre un gancanagh avec un incube est pour lui le plus grand des affronts et plus d’un gancanagh impétueux a défié un paladin ou un allié bienveillant mais mal informé en duel, pour avoir formulé une telle insulte.
+
+Nombre de gancanaghs possèdent une pipe à l’aspect saugrenu, car ils apprécient leur forme, mais l’utilisent rarement, car ils ne supportent pas la fumée. Par contre, les flûtes sont des objets que les gancanaghs chérissent, car ils apprécient la beauté de leurs notes et leur capacité à faire vibrer les cœurs. Un gancanagh moyen mesure 1,80 mètre de haut pour un poids de 65 kilos seulement.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Gancanagh</fullName>
+</wikiPage>

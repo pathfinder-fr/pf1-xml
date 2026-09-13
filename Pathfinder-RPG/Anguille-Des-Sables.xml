@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Anguille, Anguille des sables</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Guide du Katapesh</category></categories>
+  <lastModified>2021-07-31 23:46:46Z</lastModified>
+  <version>5</version>
+  <inLinks><link>Pathfinder-RPG.Anguille des sables</link><link>Pathfinder-RPG.Anguille électrique</link><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Murène géante</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Courts suppléments univers (Contenu)</link><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Arme de prédilection</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.charge</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.terrain difficile</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Anguille des sables</link><link>Pathfinder-RPG.Anguille électrique</link><link>Pathfinder-RPG.Murène géante</link><link>Pathfinder-RPG.Dhabba</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Anguille des sables&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;D&#233;sert&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/D&#233;sert.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Tropical&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Courts-Suppl&#233;ments-Univers-(Contenu).html&quot; title=&quot;Courts suppl&#233;ments univers (Contenu)&quot;&gt;Guide du Katapesh p.60&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille L, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +6 : &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 17, contact 11, pris au d&#233;pourvu 15 (Dex +2, naturelle +6, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 47 (8d8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +8, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +2
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 15 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +11 (1d8+7)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,5 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; jaillissement
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Tactique&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avant le combat.&lt;/b&gt; Les anguilles des sables n’accordent que peu attention &#224; leur environnement, car leur taille et leur vitesse font d’elles de mauvaises cibles pour d’autres pr&#233;dateurs. Une anguille des sables qui per&#231;oit l’imminence d’un combat s’enfouit dans le sable et attend que sa proie approche, moment o&#249; elle fait usage de sa capacit&#233; jaillissement.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pendant le combat.&lt;/b&gt; Une anguille des sables commence le combat en jaillissant du sable au moment o&#249; une autre cr&#233;ature arrive &#224; port&#233;e. L’anguille des sables attaque f&#233;rocement sa victime, mais les blessures graves peuvent la distraire. L’anguille des sables est susceptible de changer plusieurs fois de cible tout au long du combat, s’attaquant &#224; tout ennemi l’ayant bless&#233;e en dernier.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Moral.&lt;/b&gt; Les anguilles des sables sont pourvues d’une forte soif de sang et &#233;prouvent des difficult&#233;s &#224; se retirer du combat. Une anguille des sables gravement bless&#233;e pourrait tenter de s’enfuir, mais la plupart combattent jusqu’&#224; la mort.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Statistiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 20, &lt;b&gt;Dex&lt;/b&gt; 15, &lt;b&gt;Con&lt;/b&gt; 12, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +6, &lt;b&gt;BMO&lt;/b&gt; 11, &lt;b&gt;DMD&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Arme-De-Pr&#233;dilection.html&quot; title=&quot;Arme de pr&#233;dilection&quot;&gt;Arme de pr&#233;dilection&lt;/a&gt; (morsure), &lt;a class=&quot;pagelink&quot; href=&quot;Robustesse.html&quot; title=&quot;Robustesse&quot;&gt;Robustesse&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l’initiative&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11 (+19 dans les environnements d&#233;sertiques), &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6 ; &lt;b&gt;Modificateurs raciaux&lt;/b&gt; +8 en Discr&#233;tion dans les environnements d&#233;sertiques
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; passage sur le sable
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; d&#233;serts
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, couple ou nid (5-10)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Jaillissement (Ext).&lt;/b&gt; Une anguille des sables qui s’est enterr&#233;e dans le sable est capable de jaillir rapidement du sol et d’attaquer. Ceci compte comme une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales#Charge.html&quot; title=&quot;charge&quot;&gt;charge&lt;/a&gt;, sauf que l’anguille des sables ne peut se d&#233;placer que de sa valeur de d&#233;placement (et pas de deux fois sa valeur) et qu’elle gagne un bonus de +2 sur son &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jet d’attaque&lt;/a&gt; (en plus des bonus et des malus normaux dus &#224; la charge).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Passage sur le sable (Sur).&lt;/b&gt; Les anguilles des sables se d&#233;placent sur le sable, les sables mouvants, le gravier et les autres environnements constitu&#233;s de terrain meuble comme si elles se d&#233;pla&#231;aient sur un terrain normal plut&#244;t qu’un &lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement-Et-Position#Terraindifficile.html&quot; title=&quot;terrain difficile&quot;&gt;terrain difficile&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;volution possible&lt;/b&gt; 9-11 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; (taille L), 12-16 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; (taille TG)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ajustement de niveau&lt;/b&gt; –
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes d&#39;anguille&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anguille-Des-Sables.html&quot; title=&quot;Anguille, Anguille des sables&quot;&gt;Anguille des sables&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Anguille-&#201;lectrique.html&quot; title=&quot;Anguille, Anguille &#233;lectrique&quot;&gt;Anguille &#233;lectrique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mur&#232;ne-G&#233;ante.html&quot; title=&quot;Anguille, Mur&#232;ne g&#233;ante&quot;&gt;Mur&#232;ne g&#233;ante&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;u&gt;&lt;b&gt;&lt;i&gt;Contenu issu d&#39;un suppl&#233;ment 3.5&lt;/i&gt;&lt;/b&gt;&lt;/u&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Une forme longue et sinueuse glisse sur le sable. Une peau scintillante et iris&#233;e est tendue sur son corps d’environ 2,40 m&#232;tres de long. Tout en rampant, la cr&#233;ature ouvre sa gueule &#233;troite, r&#233;v&#233;lant des protub&#233;rances osseuses fines comme des aiguilles qui &#233;mergent de la chair molle de sa gueule.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les anguilles des sables sont des cr&#233;atures insolites originaires du Bazar du Bizarre. Elles tiennent leur nom de la mani&#232;re dont elles glissent sur le sable car, contrairement aux serpents (qui doivent se tortiller en d&#233;crivant de larges S), elles glissent sur le sable &#224; l’aide de dizaines de minuscules palpes qui s’enfoncent dans le sol et les propulsent vers l’avant, leur conf&#233;rant un mouvement &#233;trangement r&#233;gulier.&lt;br /&gt;&lt;br /&gt;Les anguilles des sables mesurent d’1,80 &#224; 3,60 m&#232;tres de long et peuvent peser plusieurs centaines de kilos. Leurs os minuscules et leur peau mince les rendent tr&#232;s l&#233;g&#232;res pour leur taille.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;&#201;cologie&lt;a class=&quot;headeranchor&quot; id=&quot;&#201;cologie_0&quot; href=&quot;#&#201;cologie_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les anguilles des sables naissent dans des œufs. Apr&#232;s l’accouplement, une femelle pond des dizaines de ces œufs et les recouvre de sable. Dou&#233;es d’un instinct de chasse d&#232;s l’&#233;closion, les anguilles des sables nouvelles-n&#233;es d&#233;vorent leurs coquilles avant de s’&#233;loigner en rampant. Elles mesurent entre 15 et 30 centim&#232;tres de long &#224; l’&#233;closion et chassent les insectes et les petits rongeurs. Elles atteignent leur taille adulte en 2 mois et commencent &#224; chasser de plus grandes cr&#233;atures, telles que les chacals, les &lt;a class=&quot;pagelink&quot; href=&quot;Dhabba.html&quot; title=&quot;Dhabba&quot;&gt;dhabbas&lt;/a&gt;, les serpents et m&#234;me, parfois, les humano&#239;des. Les anguilles des sables sont des animaux &#224; sang froid, actifs durant la journ&#233;e et dormant dans des terriers durant les heures froides de la nuit.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Habitat et soci&#233;t&#233;&lt;a class=&quot;headeranchor&quot; id=&quot;Habitat_et_soci&#233;t&#233;_1&quot; href=&quot;#Habitat_et_soci&#233;t&#233;_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les anguilles des sables chassent g&#233;n&#233;ralement seules, bien qu’un couple puisse parfois former un partenariat et chasser ensemble. Elles cherchent la compagnie d’autres membres de leur esp&#232;ce durant la nuit pour se r&#233;chauffer et s’enfoncent ensemble dans le sable par groupes de cinq individus ou plus, se s&#233;parant au lever du soleil. Durant la saison de reproduction, ces cr&#233;atures peuvent s’accoupler &#224; de nombreux membres de leur esp&#232;ce, chaque couv&#233;e &#233;tant donc issue de nombreux p&#232;res. Ils ne montrent aucun int&#233;r&#234;t &#224; l’&#233;ducation de leurs jeunes.
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Anguille des sables|FP 5}
+{s:pucem|Animal|Désert|Tropical}
+{s:BDtexte|''Source : [[Courts suppléments univers (Contenu)|Guide du Katapesh p.60]]''}
+{s:BDtexte|'''PX''' 1 600}
+{s:BDtexte|[[type Animal|Animal]] de taille L, N}
+{s:BDtexte|'''Init''' +6 : '''Sens''' [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +7}
+{s:BDsoustitre|Défense}
+{s:BDtexte|'''CA''' 17, contact 11, pris au dépourvu 15 (Dex +2, naturelle +6, taille -1)}
+{s:BDtexte|'''pv''' 47 (8d8)}
+{s:BDtexte|'''Réf''' +8, '''Vig''' +7, '''Vol''' +2}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|'''VD''' 15 m}
+{s:BDtexte|'''Corps à corps''' morsure, +11 (1d8+7)}
+{s:BDtexte|'''Espace''' 3 m ; '''Allonge''' 1,5 m}
+{s:BDtexte|'''Attaques spéciales''' jaillissement}
+{s:BDsoustitre|Tactique}
+{s:BDtexte|'''Avant le combat.''' Les anguilles des sables n’accordent que peu attention à leur environnement, car leur taille et leur vitesse font d’elles de mauvaises cibles pour d’autres prédateurs. Une anguille des sables qui perçoit l’imminence d’un combat s’enfouit dans le sable et attend que sa proie approche, moment où elle fait usage de sa capacité jaillissement.}
+{s:BDtexte|'''Pendant le combat.''' Une anguille des sables commence le combat en jaillissant du sable au moment où une autre créature arrive à portée. L’anguille des sables attaque férocement sa victime, mais les blessures graves peuvent la distraire. L’anguille des sables est susceptible de changer plusieurs fois de cible tout au long du combat, s’attaquant à tout ennemi l’ayant blessée en dernier.}
+{s:BDtexte|'''Moral.''' Les anguilles des sables sont pourvues d’une forte soif de sang et éprouvent des difficultés à se retirer du combat. Une anguille des sables gravement blessée pourrait tenter de s’enfuir, mais la plupart combattent jusqu’à la mort.}
+{s:BDsoustitre|Statistiques}
+{s:BDtexte|'''For''' 20, '''Dex''' 15, '''Con''' 12, '''Int''' 2, '''Sag''' 11, '''Cha''' 10}
+{s:BDtexte|'''BBA''' +6, '''BMO''' 11, '''DMD''' 23}
+{s:BDtexte|'''Dons''' [[Arme de prédilection]] (morsure), [[Robustesse]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDtexte|'''Compétences''' [[Discrétion]] +11 (+19 dans les environnements désertiques), [[Perception]] +6 ; '''Modificateurs raciaux''' +8 en Discrétion dans les environnements désertiques}
+{s:BDtexte|'''Particularités''' passage sur le sable}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|'''Environnement''' déserts}
+{s:BDtexte|'''Organisation sociale''' solitaire, couple ou nid (5-10)}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|'''Jaillissement (Ext).''' Une anguille des sables qui s’est enterrée dans le sable est capable de jaillir rapidement du sol et d’attaquer. Ceci compte comme une [[charge]], sauf que l’anguille des sables ne peut se déplacer que de sa valeur de déplacement (et pas de deux fois sa valeur) et qu’elle gagne un bonus de +2 sur son [[jet dattaque|jet d’attaque]] (en plus des bonus et des malus normaux dus à la charge).}
+{s:BDtexte|'''Passage sur le sable (Sur).''' Les anguilles des sables se déplacent sur le sable, les sables mouvants, le gravier et les autres environnements constitués de terrain meuble comme si elles se déplaçaient sur un terrain normal plutôt qu’un [[terrain difficile]].}
+{s:BDtexte|'''Évolution possible''' 9-11 [[DV]] (taille L), 12-16 [[DV]] (taille TG)}
+{s:BDtexte|'''Ajustement de niveau''' –}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes d'anguille
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Anguille des sables]] || 5
+|-
+| [[Anguille électrique]] || 2
+|-
+| [[Murène géante]] || 5
+|}
+</div>__'''''Contenu issu d'un supplément 3.5'''''__
+
+''Une forme longue et sinueuse glisse sur le sable. Une peau scintillante et irisée est tendue sur son corps d’environ 2,40 mètres de long. Tout en rampant, la créature ouvre sa gueule étroite, révélant des protubérances osseuses fines comme des aiguilles qui émergent de la chair molle de sa gueule.''
+
+Les anguilles des sables sont des créatures insolites originaires du Bazar du Bizarre. Elles tiennent leur nom de la manière dont elles glissent sur le sable car, contrairement aux serpents (qui doivent se tortiller en décrivant de larges S), elles glissent sur le sable à l’aide de dizaines de minuscules palpes qui s’enfoncent dans le sol et les propulsent vers l’avant, leur conférant un mouvement étrangement régulier.
+
+Les anguilles des sables mesurent d’1,80 à 3,60 mètres de long et peuvent peser plusieurs centaines de kilos. Leurs os minuscules et leur peau mince les rendent très légères pour leur taille.
+
+====Écologie====
+Les anguilles des sables naissent dans des œufs. Après l’accouplement, une femelle pond des dizaines de ces œufs et les recouvre de sable. Douées d’un instinct de chasse dès l’éclosion, les anguilles des sables nouvelles-nées dévorent leurs coquilles avant de s’éloigner en rampant. Elles mesurent entre 15 et 30 centimètres de long à l’éclosion et chassent les insectes et les petits rongeurs. Elles atteignent leur taille adulte en 2 mois et commencent à chasser de plus grandes créatures, telles que les chacals, les [[Dhabba|dhabbas]], les serpents et même, parfois, les humanoïdes. Les anguilles des sables sont des animaux à sang froid, actifs durant la journée et dormant dans des terriers durant les heures froides de la nuit.
+
+====Habitat et société====
+Les anguilles des sables chassent généralement seules, bien qu’un couple puisse parfois former un partenariat et chasser ensemble. Elles cherchent la compagnie d’autres membres de leur espèce durant la nuit pour se réchauffer et s’enfoncent ensemble dans le sable par groupes de cinq individus ou plus, se séparant au lever du soleil. Durant la saison de reproduction, ces créatures peuvent s’accoupler à de nombreux membres de leur espèce, chaque couvée étant donc issue de nombreux pères. Ils ne montrent aucun intérêt à l’éducation de leurs jeunes.
+</div>
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Anguille des sables</fullName>
+</wikiPage>

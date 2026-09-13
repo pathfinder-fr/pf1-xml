@@ -1,0 +1,752 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>L'influence organisationnelle</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Ultimate Intrigue</category></categories>
+  <lastModified>2023-01-12 16:30:56Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Agent de guilde (roublard)</link><link>Pathfinder-RPG.Casses</link><link>Pathfinder-RPG.Casses, Infiltration</link><link>Pathfinder-RPG.Compétences en conflit</link><link>Pathfinder-RPG.Conflits sociaux</link><link>Pathfinder-RPG.Conflits sociaux</link><link>Pathfinder-RPG.Duels verbaux</link><link>Pathfinder-RPG.FAQ- lArt de lintrigue</link><link>Pathfinder-RPG.Influence</link><link>Pathfinder-RPG.Influence</link><link>Pathfinder-RPG.Influence individuelle</link><link>Pathfinder-RPG.Influence organisationnelle</link><link>Pathfinder-RPG.Influence organisationnelle</link><link>Pathfinder-RPG.LArt de lintrigue (Contenu)</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Maîtriser lintrigue</link><link>Pathfinder-RPG.Némésis UI</link><link>Pathfinder-RPG.Némésis UI</link><link>Pathfinder-RPG.Poursuites</link><link>Pathfinder-RPG.Prestige UI</link><link>Pathfinder-RPG.Prestige UI</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Renommée criminelle</link><link>Pathfinder-RPG.Sorts dintrigue</link><link>Pathfinder-RPG.temp-MainPage</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Influence organisationnelle</link><link>Pathfinder-RPG.Influence individuelle</link><link>Pathfinder-RPG.Duels verbaux</link><link>Pathfinder-RPG.Némésis UI</link><link>Pathfinder-RPG.Justicier</link><link>Pathfinder-RPG.Diplomatie</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Ensorceleur</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Escamotage</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.Rat-garou</link><link>Pathfinder-RPG.Casses</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Sabotage</link><link>Pathfinder-RPG.Magicien</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Parchemins magiques</link><link>Pathfinder-RPG.Potions magiques</link><link>Pathfinder-RPG.Objets merveilleux</link><link>Pathfinder-RPG.Lancement de sort (objet)</link><link>Pathfinder-RPG.Enquêteur</link><link>Pathfinder-RPG.Tueur</link><link>Pathfinder-RPG.Barde</link><link>Pathfinder-RPG.Intermèdes</link><link>Pathfinder-RPG.Nain</link><link>Pathfinder-RPG.Guerrier</link><link>Pathfinder-RPG.Chevalier</link><link>Pathfinder-RPG.Homme darme</link><link>Pathfinder-RPG.Villes</link><link>Pathfinder-RPG.Combat de masse</link><link>Pathfinder-RPG.Réapprentissage</link><link>Pathfinder-RPG.Maîtriser lintrigue</link><link>Pathfinder-RPG.Influence</link><link>Pathfinder-RPG.Influence individuelle</link><link>Pathfinder-RPG.Influence organisationnelle</link><link>Pathfinder-RPG.Casses</link><link>Pathfinder-RPG.Casses, Infiltration</link><link>Pathfinder-RPG.Prestige UI</link><link>Pathfinder-RPG.Némésis UI</link><link>Pathfinder-RPG.Poursuites</link><link>Pathfinder-RPG.Recherches</link><link>Pathfinder-RPG.Sorts dintrigue</link><link>Pathfinder-RPG.Conflits sociaux</link><link>Pathfinder-RPG.Duels verbaux</link><link>Pathfinder-RPG.Compétences en conflit</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;presentation navmenudroite&quot;&gt;
+&lt;a href=&quot;/Wiki/Pathfinder-RPG.LArt de lintrigue (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Ultimate Intrigue/Art de l&#39;intrigue&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoUI.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;R&#232;gles de l&#39;intrigue&lt;a class=&quot;headeranchor&quot; id=&quot;R&#232;gles_de_lintrigue_0&quot; href=&quot;#R&#232;gles_de_lintrigue_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
+&lt;IMG id=&quot;boutonMa&#238;trise&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;Ma&#238;trise&#39;);&quot; onmouseout=&quot;outButton(&#39;Ma&#238;trise&#39;);&quot; onclick=&quot;expandMenu(&#39;Ma&#238;trise&#39;);&quot; /&gt;
+&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;triser-Lintrigue.html&quot; title=&quot;Ma&#238;triser l&amp;#39;intrigue&quot;&gt;Ma&#238;triser l&#39;intrigue&lt;/a&gt;&amp;emsp;
+        &lt;ul ID=&quot;Ma&#238;trise&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Influence.html&quot; title=&quot;L&amp;#39;influence&quot;&gt;L&#39;influence&lt;/a&gt;&lt;/li&gt;
+            &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Influence-Individuelle.html&quot; title=&quot;L&amp;#39;influence individuelle&quot;&gt;L&#39;influence individuelle&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;L&#39;influence organisationnelle&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Casses.html&quot; title=&quot;Les casses&quot;&gt;Les casses&lt;/a&gt;&lt;/li&gt;
+            &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Casses,-Infiltration.html&quot; title=&quot;L&amp;#39;infiltration (Casses)&quot;&gt;L&#39;infiltration&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Prestige-Ui.html&quot; title=&quot;Le prestige&quot;&gt;Le prestige&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;N&#233;m&#233;sis-Ui.html&quot; title=&quot;Les n&#233;m&#233;sis&quot;&gt;Les n&#233;m&#233;sis&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poursuites.html&quot; title=&quot;Les poursuites&quot;&gt;Les poursuites&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Recherches.html&quot; title=&quot;Les recherches&quot;&gt;Les recherches&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorts-Dintrigue.html&quot; title=&quot;Les sorts d&amp;#39;intrigue&quot;&gt;Les sorts d&#39;intrigue&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conflits-Sociaux.html&quot; title=&quot;Les conflits sociaux&quot;&gt;Conflits sociaux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duels-Verbaux.html&quot; title=&quot;Les duels verbaux&quot;&gt;Duels verbaux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-En-Conflit.html&quot; title=&quot;Les comp&#233;tences en conflit&quot;&gt;Comp&#233;tences en conflit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;table id=&quot;TocContainerTable&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;div id=&quot;TocContainer&quot;&gt;&lt;p class=&quot;small&quot;&gt;&lt;b&gt;Table of Contents&lt;/b&gt;&lt;span id=&quot;ExpandTocSpan&quot;&gt; [&lt;a href=&quot;#&quot; onclick=&quot;javascript:if(document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]==&#39;none&#39;) document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;&#39;; else document.getElementById(&#39;Toc&#39;).style[&#39;display&#39;]=&#39;none&#39;; return false;&quot;&gt;Hide/Show&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;&lt;div id=&quot;Toc&quot;&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Points_et_rangs_dinfluence_7&quot;&gt;Points et rangs d&#39;influence&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#Paliers_dinfluence_0&quot;&gt;Paliers d&#39;influence&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;a href=&quot;#Attitudes_des_PNJs_1&quot;&gt;Attitudes des PNJs&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Rangs_positifs_2&quot;&gt;Rangs positifs&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Rangs_n&#233;gatifs_3&quot;&gt;Rangs n&#233;gatifs&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Gagner_des_points_dinfluence_4&quot;&gt;Gagner des points d&#39;influence&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Perdre_des_points_dinfluence_5&quot;&gt;Perdre des points d&#39;influence&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Interactions_avec_lorganisation_8&quot;&gt;Interactions avec l&#39;organisation&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Pr&#233;dominance_9&quot;&gt;Pr&#233;dominance&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Faveurs_10&quot;&gt;Faveurs&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Op&#233;rations_clandestines_11&quot;&gt;Op&#233;rations clandestines&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Profil_des_organisations_12&quot;&gt;Profil des organisations&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Avantages_communs_6&quot;&gt;Avantages communs&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;#Exemples_dorganisation_13&quot;&gt;Exemples d&#39;organisation&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;Le syst&#232;me d&#39;influence organisationnelle fournit au MJ des outils pour suivre le cachet social des PJs au sein des organisations. Les petites organisations qui cherchent &#224; s&#39;imposer dans la soci&#233;t&#233; peuvent permettre aux PJs d&#39;avoir beaucoup d&#39;influence en leur sein, mais sont limit&#233;es dans ce qu&#39;elles peuvent offrir. Les grandes organisations, d&#39;un autre c&#244;t&#233;, sont g&#233;n&#233;ralement plus difficiles &#224; influencer, mais peuvent apporter beaucoup plus de pouvoir sur une r&#233;gion en g&#233;n&#233;ral.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Points et rangs d&#39;influence&lt;a class=&quot;headeranchor&quot; id=&quot;Points_et_rangs_dinfluence_7&quot; href=&quot;#Points_et_rangs_dinfluence_7&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;float: right; margin-left: 10px; margin-right: -10px; max-width: 280px;&quot; class=&quot;presentation recentre&quot;&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Paliers d&#39;influence&lt;a class=&quot;headeranchor&quot; id=&quot;Paliers_dinfluence_0&quot; href=&quot;#Paliers_dinfluence_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;Le nombre de points d&#39;influence requis pour passer d&#39;un rang d&#39;influence &#224; un autre d&#233;termine la vitesse &#224; laquelle le pouvoir des PJs dans les organisations peut changer. Les trois principaux facteurs qui jouent dans la d&#233;finition des paliers d&#39;influence sont la dur&#233;e de la campagne, le niveau d&#39;int&#233;r&#234;t des joueurs dans l&#39;exploration de leurs interactions avec les organisations, et le pouvoir et la personnalit&#233; de l&#39;organisation elle-m&#234;me. Les arcs narratifs courts n&#233;cessitent g&#233;n&#233;ralement des paliers plus bas que les longues campagnes. Certains groupes de joueurs pr&#233;f&#232;rent gagner lentement de l&#39;influence au sein d&#39;une organisation complexe, tandis que d&#39;autres pr&#233;f&#232;rent voir &#224; quelle vitesse leurs PJs peuvent devenir puissants dans plusieurs organisations. Enfin, au sein d&#39;une campagne, les organisations plus faibles permettent g&#233;n&#233;ralement aux PJs de gagner des rangs d&#39;influence plus rapidement que les organisations importantes.&lt;br /&gt;&lt;br /&gt;Avec tous ces facteurs en t&#234;te, les fourchettes suivantes fournissent des lignes directrices pour d&#233;terminer le nombre de points d&#39;influence totaux qu&#39;un personnage doit gagner pour atteindre des rangs positifs, ou perdre pour atteindre des rangs n&#233;gatifs. Ces paliers correspondent &#224; une organisation faible. Pour une organisation moyenne, multipliez les chiffres par 2. Pour une organisation forte, multipliez par 3, et pour une organisation pr&#233;dominante, multipliez par 4. Pour plus de d&#233;tails sur la d&#233;termination de l&#39;importance d&#39;une organisation, &lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html#PREDOMINANCE&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;voir page 111&lt;/a&gt;.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Rang 1 ou -1.&lt;/b&gt; De 1 &#224; 5 points d&#39;influence.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Rang 2 ou -2.&lt;/b&gt; De 3 &#224; 7 points d&#39;influence.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Rang 3 ou -3.&lt;/b&gt; De 8 &#224; 12 points d&#39;influence.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Rang 4 ou -4.&lt;/b&gt; De 13 &#224; 18 points d&#39;influence.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;h4 class=&quot;separator&quot;&gt;Attitudes des PNJs&lt;a class=&quot;headeranchor&quot; id=&quot;Attitudes_des_PNJs_1&quot; href=&quot;#Attitudes_des_PNJs_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h4&gt;Le rang d&#39;influence des PJs dans une organisation d&#233;termine l&#39;attitude initiale typique des membres qui ont entendu parler des PJs. Les attitudes de d&#233;part des membres individuels peuvent varier.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Chass&#233;s, d&#233;test&#233;s ou mal aim&#233;s (Rang -2 ou inf&#233;rieur).&lt;/b&gt; Hostile.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Opposants connus (Rang -1).&lt;/b&gt; Inamical.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Inconnus (Rang 0).&lt;/b&gt; Indiff&#233;rent.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Alli&#233;s connus (Rang 1).&lt;/b&gt; Amical.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Respect&#233;s, Admir&#233;s ou V&#233;n&#233;r&#233;s (Rang 2 ou sup&#233;rieur).&lt;/b&gt; Serviable.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;Le syst&#232;me d&#39;influence organisationnelle utilise des points d&#39;influence pour suivre l&#39;opinion d&#39;une organisation concernant les PJs. Lorsque les PJs interagissent pour la premi&#232;re fois avec une organisation, ils commencent g&#233;n&#233;ralement avec 0 point d&#39;influence, et n&#39;ont aucun contr&#244;le sur les actions de l&#39;organisation. Si les PJs d&#233;montrent leur valeur pour l&#39;organisation, ils peuvent gagner des points d&#39;influence, repr&#233;sentant leur capacit&#233; croissante &#224; demander des faveurs. Si les PJ &#233;chouent ou travaillent contre l&#39;organisation &#224; plusieurs reprises, ils perdent des points d&#39;influence (voir &lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html#GAGNERPOINTS&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;page 110&lt;/a&gt;) pour plus de d&#233;tails sur le gain et la perte de points d&#39;influence). Le total des points d&#39;influence des PJs aupr&#232;s d&#39;une organisation peut &#234;tre un nombre n&#233;gatif - plus le total est faible, plus l&#39;organisation est pr&#234;te &#224; engager des ressources pour s&#39;opposer activement aux PJs.&lt;br /&gt;&lt;br /&gt;Les points d&#39;influence des PJs permettent de d&#233;terminer le nombre de ressources qu&#39;une organisation est pr&#234;te &#224; engager pour les aider ou les g&#234;ner, mais ce n&#39;est pas le seul &#233;l&#233;ment de ce calcul. Si les PJs cherchent &#224; &#233;tablir une relation positive avec une organisation, ils peuvent se retrouver limit&#233;s dans les avantages qu&#39;ils peuvent obtenir tant qu&#39;ils n&#39;ont pas accompli certaines t&#226;ches. Par exemple, la plupart des organisations limitent le nombre de ressources qu&#39;elles mettent &#224; la disposition des non-membres, de sorte que les PJs peuvent avoir besoin de s&#39;inscrire officiellement pour y avoir acc&#232;s. D&#39;autre part, une organisation en d&#233;saccord avec les PJs ne devrait pas r&#233;agir de la m&#234;me mani&#232;re &#224; des insultes mineures de la part des PJs qu&#39;&#224; des PJs paralysant une de ses op&#233;rations majeures. Les neuf rangs d&#39;influence pr&#233;sent&#233;s ci-dessous prennent en compte les t&#226;ches que les PJs peuvent accomplir pour r&#233;ussir &#224; modifier fondamentalement leur relation avec une organisation (voir le Tableau 3-1 page 113 pour des exemples). Pour atteindre un nouveau rang d&#39;influence, les PJs doivent accumuler (ou perdre) un certain nombre de points d&#39;influence, &#224; la discr&#233;tion du MJ, et accomplir toutes les t&#226;ches requises fix&#233;es par le MJ. Voir l&#39;encadr&#233; Paliers d&#39;influence ci-contre pour des directives sur la d&#233;finition du nombre de points d&#39;influence requis pour chaque rang. Les rangs d&#39;influence possibles, et leurs significations, sont pr&#233;sent&#233;s ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;Rangs positifs&lt;a class=&quot;headeranchor&quot; id=&quot;Rangs_positifs_2&quot; href=&quot;#Rangs_positifs_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&#192; ces rangs, l&#39;organisation ne se soucie pas des PJs ou les consid&#232;re comme des alli&#233;s.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Inconnus (Rang 0).&lt;/b&gt; L&#39;organisation ne sait pas qui sont les PJs, ou ne les consid&#232;re pas comme pertinents.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Alli&#233;s connus (Rang 1).&lt;/b&gt; Les actions des PJs ont prouv&#233; qu&#39;ils sont en accord avec les objectifs de l&#39;organisation. Un ou plusieurs PJs peuvent &#234;tre des membres de rang inf&#233;rieur.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Respect&#233;s (Rang 2).&lt;/b&gt; Les PJs ont rendu des services importants &#224; l&#39;organisation. Certains membres de rang inf&#233;rieur de l&#39;organisation admirent les PJs. Un ou plusieurs PJs sont des membres en r&#232;gle de l&#39;organisation.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Admir&#233;s (Rang 3).&lt;/b&gt; Les membres moyens de l&#39;organisation admirent les PJs. Certains membres de rang inf&#233;rieur peuvent avoir une forte loyaut&#233; envers les PJs. Les PJs occupent des postes importants au sein de l&#39;organisation.&lt;/li&gt;&lt;li&gt;&lt;b&gt;V&#233;n&#233;r&#233;s (Rang 4).&lt;/b&gt; Bien que les PJs ne soient pas les dirigeants officiels de l&#39;organisation, ils en sont des membres cl&#233;s. Les PJs peuvent diriger et fa&#231;onner la politique.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Rangs n&#233;gatifs&lt;a class=&quot;headeranchor&quot; id=&quot;Rangs_n&#233;gatifs_3&quot; href=&quot;#Rangs_n&#233;gatifs_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;A ces rangs, une organisation s&#39;oppose activement aux PJs.
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Opposants connus (Rang -1).&lt;/b&gt; L&#39;organisation a une opinion d&#233;favorable des PJs. Elle peut agir contre les PJs s&#39;ils interf&#232;rent dans ses affaires, mais l&#39;organisation se concentre surtout sur ses propres objectifs.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Mal aim&#233;s (Rang -2).&lt;/b&gt; L&#39;organisation engage certaines ressources pour cibler les PJs, m&#234;me si les PJs n&#39;interf&#232;rent pas activement avec ses objectifs, et engage des repr&#233;sailles lorsque les PJs agissent contre elle.&lt;/li&gt;&lt;li&gt;&lt;b&gt;D&#233;test&#233;s (Rang -3).&lt;/b&gt; L&#39;organisation cherche &#224; discr&#233;diter, humilier ou tuer les PJs, et y consacre des ressources importantes. Cependant, l&#39;organisation privil&#233;gie son pouvoir et sa stabilit&#233; &#224; long terme plut&#244;t que de nuire aux PJs.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Chass&#233;s (Rang -4).&lt;/b&gt; L&#39;organisation cherche &#224; discr&#233;diter, humilier ou tuer les PJs, et est pr&#234;te &#224; sacrifier suffisamment de temps, de ressources et de vies pour s&#39;affaiblir de mani&#232;re significative dans la poursuite de cet objectif. M&#234;me les dirigeants de l&#39;organisation peuvent risquer leur vie dans la poursuite de la chute des PJs.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;GAGNERPOINTS&quot; href=&quot;#GAGNERPOINTS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Gagner des points d&#39;influence&lt;a class=&quot;headeranchor&quot; id=&quot;Gagner_des_points_dinfluence_4&quot; href=&quot;#Gagner_des_points_dinfluence_4&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Au fur et &#224; mesure que les PJs accomplissent des t&#226;ches qui profitent &#224; une organisation, ils gagnent des points d&#39;influence. Accomplir les faveurs demand&#233;es par une organisation est le moyen le plus efficace pour les PJs d&#39;accumuler des points d&#39;influence avec cette organisation (voir la section &lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html#FAVEURS&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;Faveurs&lt;/a&gt;). Une faveur typique rapporte aux PJs de 2 &#224; 5 points d&#39;influence, en fonction de la difficult&#233; et du danger de la faveur &#224; accomplir. Voir la section Faveurs pour plus de d&#233;tails. Les PJs peuvent &#233;galement gagner des points d&#39;influence aupr&#232;s d&#39;une organisation en effectuant des actions qui, par co&#239;ncidence, servent les int&#233;r&#234;ts de l&#39;organisation. De telles actions rapportent g&#233;n&#233;ralement aux PJs 1 ou 2 points d&#39;influence. Par exemple, si les PJs appr&#233;hendent un voleur de bijoux notoire qui a vol&#233; dans leurs propres coffres (ainsi que dans ceux des nobles locaux), ils peuvent gagner un point d&#39;influence aupr&#232;s de la noblesse locale. Les PJs peuvent &#233;galement gagner des points d&#39;influence en &#233;tablissant une relation de confiance avec un membre de l&#39;organisation. Le syst&#232;me d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Influence-Individuelle.html&quot; title=&quot;L&amp;#39;influence individuelle&quot;&gt;influence individuelle&lt;/a&gt; que vous trouverez au d&#233;but de cette section est un bon moyen de cr&#233;er une rencontre bas&#233;e sur l&#39;am&#233;lioration de l&#39;opinion de ce PNJ sur les PJs, tandis que le syst&#232;me de &lt;a class=&quot;pagelink&quot; href=&quot;Duels-Verbaux.html&quot; title=&quot;Les duels verbaux&quot;&gt;duels verbaux&lt;/a&gt; en est un autre. Le nombre de points d&#39;influence organisationnelle que les PJs peuvent gagner en obtenant l&#39;approbation d&#39;un seul PNJ au sein de l&#39;organisation varie g&#233;n&#233;ralement de 1 &#224; 5. Le soutien d&#39;un membre de base de l&#39;organisation vaut au maximum 1 point d&#39;influence, tandis que le soutien d&#39;un des leaders de l&#39;organisation vaut 5 points d&#39;influence, et peut valoir plus dans des circonstances particuli&#232;res, &#224; la discr&#233;tion du MJ.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;PERDREPOINTS&quot; href=&quot;#PERDREPOINTS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Perdre des points d&#39;influence&lt;a class=&quot;headeranchor&quot; id=&quot;Perdre_des_points_dinfluence_5&quot; href=&quot;#Perdre_des_points_dinfluence_5&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;En g&#233;n&#233;ral, les PJs ne cherchent pas activement &#224; perdre des points d&#39;influence avec une organisation. Cependant, les actions des PJ au cours d&#39;une campagne sont susceptibles de les mettre en d&#233;saccord avec une ou plusieurs organisations, et les PJ peuvent par inadvertance nuire &#224; des organisations qu&#39;ils ne souhaitent pas contrarier. Chaque fois que les PJs sabotent activement les int&#233;r&#234;ts d&#39;une organisation, ils perdent de 2 &#224; 5 points d&#39;influence avec cette organisation. Si les PJs font des actions qui, par co&#239;ncidence, vont &#224; l&#39;encontre des int&#233;r&#234;ts de l&#39;organisation, ils perdent 1 ou 2 points d&#39;influence. Si les PJs b&#226;clent terriblement une tentative de rendre service &#224; une organisation, ils peuvent &#233;galement perdre 1 ou 2 points d&#39;influence. Si les PJs portent atteinte &#224; la r&#233;putation ou aux finances d&#39;un membre &#233;minent, ils perdent de 1 &#224; 3 points d&#39;influence, en fonction de l&#39;ampleur des d&#233;g&#226;ts et du pouvoir que ce membre exerce au sein de l&#39;organisation. Les PJs perdent &#233;galement des points d&#39;influence s&#39;ils blessent un membre &#233;minent de l&#39;organisation. Tuer des membres d&#39;une organisation est un moyen particuli&#232;rement efficace de perdre de l&#39;influence. Pour la plupart des organisations, chaque fois que les PJs tuent un ou plusieurs membres d&#39;une organisation, ils perdent au moins 5 points d&#39;influence par incident. Si l&#39;organisation est l&#39;antagoniste principal de la campagne ou de l&#39;arc narratif, le MJ peut envisager d&#39;utiliser le syst&#232;me de &lt;a class=&quot;pagelink&quot; href=&quot;N&#233;m&#233;sis-Ui.html&quot; title=&quot;Les n&#233;m&#233;sis&quot;&gt;n&#233;m&#233;sis&lt;/a&gt; pour compl&#233;ter les r&#232;gles d&#39;influence organisationnelle, en particulier si l&#39;organisation est dirig&#233;e par un seul individu.&lt;br /&gt;&lt;br /&gt;Le coup le plus dur port&#233; &#224; la r&#233;putation des PJs au sein de l&#39;organisation est la trahison. Pour &#234;tre consid&#233;r&#233;s comme des tra&#238;tres &#224; l&#39;organisation, les PJ doivent violer les principes fondamentaux de l&#39;organisation tout en utilisant les ressources propres de l&#39;organisation contre elle. Si une organisation favorable aux PJs est convaincue de la trahison des PJs, ceux-ci perdent imm&#233;diatement un nombre de points d&#39;influence &#233;gal au double de leur total actuel, ce qui revient &#224; inverser leur position au sein du groupe. En g&#233;n&#233;ral, plus le rang d&#39;influence des PJs est &#233;lev&#233;, plus l&#39;organisation a besoin de preuves avant de consid&#233;rer toute accusation de trahison comme cr&#233;dible. Si une organisation d&#233;clare les PJs tra&#238;tres, il est possible (bien que difficile) pour eux de racheter leur r&#233;putation. En g&#233;n&#233;ral, ce processus n&#233;cessite que les PJs retrouvent et discr&#233;ditent la source de la preuve calomnieuse. Ce faisant, les PJ retrouvent leur total de points d&#39;influence initial et obtiennent probablement des r&#233;compenses suppl&#233;mentaires de l&#39;organisation pour avoir d&#233;masqu&#233; la v&#233;ritable menace qui p&#232;se sur elle. S&#39;ils ne se disculpent que partiellement, ils peuvent r&#233;cup&#233;rer une partie mais pas la totalit&#233; de leurs points d&#39;influence.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Interactions avec l&#39;organisation&lt;a class=&quot;headeranchor&quot; id=&quot;Interactions_avec_lorganisation_8&quot; href=&quot;#Interactions_avec_lorganisation_8&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les interactions des PJs avec les organisations ne sont souvent qu&#39;une partie d&#39;une tapisserie politique plus large. Les alliances et les rivalit&#233;s entre les organisations d&#233;terminent la fa&#231;on dont chaque organisation r&#233;agit aux actions des PJs. Si deux organisations sont rivales, elles demandent g&#233;n&#233;ralement aux PJs de choisir un camp. Les PJs peuvent automatiquement perdre des points d&#39;influence aupr&#232;s de l&#39;une d&#39;elles pour avoir soutenu l&#39;autre. Par exemple, si les PJs rendent service &#224; une faction pendant une guerre et gagnent des points d&#39;influence avec cette faction, ils perdent un nombre &#233;gal de points d&#39;influence avec les rivaux de cette faction. Dans des circonstances moins extr&#234;mes, les PJs peuvent perdre la moiti&#233; des points d&#39;influence qu&#39;ils gagnent.&lt;br /&gt;&lt;br /&gt;Alors que les rivalit&#233;s entre les organisations rendent difficile une loyaut&#233; partag&#233;e, les all&#233;geances entre plusieurs organisations peuvent aider les PJs &#224; accumuler de l&#39;influence plus rapidement qu&#39;ils ne le pourraient autrement, et fournir aux PJs un acc&#232;s &#224; des ressources suppl&#233;mentaires. Si les PJs aident ou nuisent &#224; l&#39;une de deux organisations alli&#233;es, consid&#233;rez qu&#39;ils travaillent par co&#239;ncidence pour ou contre les int&#233;r&#234;ts de la seconde organisation pour le calcul du nombre de points d&#39;influence que les PJs gagnent ou perdent.&lt;br /&gt;&lt;br /&gt;Au fil de la campagne, le r&#233;seau d&#39;alliances et de rivalit&#233;s entre les organisations peut changer. Un changement soudain d&#39;all&#233;geance ne modifie pas r&#233;troactivement le total de points d&#39;influence des PJs.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;PREDOMINANCE&quot; href=&quot;#PREDOMINANCE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Pr&#233;dominance&lt;a class=&quot;headeranchor&quot; id=&quot;Pr&#233;dominance_9&quot; href=&quot;#Pr&#233;dominance_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;La pr&#233;dominance d&#39;une organisation repr&#233;sente le pouvoir politique et social de cette organisation dans sa communaut&#233; d&#39;origine ou sa zone d&#39;influence. Les cat&#233;gories d&#39;importance sont : faible, moyenne, forte et pr&#233;dominante. En g&#233;n&#233;ral, une organisation faible ne peut fournir qu&#39;une aide simple dans son domaine d&#39;action limit&#233;. La plupart des organisations faibles sont d&#233;sireuses de recruter de nouveaux membres pour accro&#238;tre leur importance, bien que certaines appr&#233;cient le peu d&#39;attention qu&#39;elles suscitent aupr&#232;s des forces ext&#233;rieures. Un gang de pickpockets est un exemple d&#39;organisation faible. En comparaison, une organisation moyenne occupe une place bien &#233;tablie dans la structure de pouvoir de sa r&#233;gion, et a quelques connexions et contacts avec d&#39;autres organisations locales. Une guilde de voleurs est probablement une organisation moyenne. Une organisation forte, en revanche, peut se trouver au sommet de la structure du pouvoir dans son domaine d&#39;activit&#233;, ou &#234;tre l&#39;une des nombreuses organisations qui d&#233;tiennent le pouvoir &#224; l&#39;&#233;chelle r&#233;gionale ou nationale. La cath&#233;drale d&#39;une divinit&#233; majeure dans un &#201;tat aux multiples traditions religieuses est probablement une organisation forte. Enfin, une organisation pr&#233;dominante est le chef incontest&#233; de la structure de pouvoir dans son domaine d&#39;activit&#233; - le corps dirigeant d&#39;une nation est un exemple d&#39;organisation pr&#233;dominante, tout comme une guilde de marchands qui contr&#244;le efficacement le commerce dans une grande r&#233;gion.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Faveurs&lt;a class=&quot;headeranchor&quot; id=&quot;Faveurs_10&quot; href=&quot;#Faveurs_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les faveurs sont au cœur du syst&#232;me d&#39;influence organisationnelle. Lorsque les PJs accomplissent une faveur pour une organisation, ils peuvent soit gagner des points d&#39;influence, soit obtenir une faveur de l&#39;organisation en retour. Les PJs peuvent d&#233;penser les faveurs qu&#39;ils ont gagn&#233;es pour obtenir des avantages de l&#39;organisation.&lt;br /&gt;&lt;br /&gt;Les PJs peuvent gagner lentement des faveurs au fil du temps, apr&#232;s un certain nombre de sessions ou un temps de jeu appropri&#233; &#224; la campagne. Ce taux fournit &#233;galement une ligne directrice pour mod&#233;liser le comportement des organisations. Typiquement, ce taux est un point de r&#233;f&#233;rence appropri&#233; pour la fr&#233;quence &#224; laquelle les organisations alli&#233;es approchent les PJs avec des demandes, ainsi que pour la fr&#233;quence &#224; laquelle les organisations oppos&#233;es agissent contre eux. En g&#233;n&#233;ral, si une organisation est pr&#234;te &#224; accorder un avantage aux PJs lorsqu&#39;ils ont un rang positif avec cette organisation, elle est pr&#234;te &#224; accorder ce m&#234;me avantage &#224; une personne agissant contre les PJs si elle atteint le rang n&#233;gatif correspondant.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Faveurs.&lt;/b&gt; Parfois, les t&#226;ches que les PJ doivent accomplir pour rendre service &#224; une organisation d&#233;coulent naturellement des &#233;v&#233;nements de la campagne. Cependant, &#224; d&#39;autres moments, les PJs peuvent chercher activement &#224; aider une organisation &#224; un moment o&#249; de telles t&#226;ches ne sont pas si &#233;videntes. Les 28 faveurs de la &lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html#TABLE&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;Table 3-1 de la page 113&lt;/a&gt; sont suffisamment g&#233;n&#233;riques pour s&#39;appliquer &#224; presque toutes les organisations. Certaines des t&#226;ches situ&#233;es en haut du tableau sont trop insignifiantes pour les membres &#233;tablis, tandis que les t&#226;ches situ&#233;es en bas du tableau sont trop importantes pour les initi&#233;s. Pour utiliser ce tableau, lancez un d20, et ajoutez deux fois le rang d&#39;influence des PJs au r&#233;sultat.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Chaque organisation offre un ensemble unique d&#39;avantages possibles aux PJs en fonction de leur rang d&#39;influence. Les PJs peuvent d&#233;penser une faveur qu&#39;ils ont gagn&#233;e pour obtenir l&#39;un des avantages qu&#39;ils ont d&#233;bloqu&#233;s. Certains avantages deviennent gratuits une fois que les PJs deviennent suffisamment influents dans une organisation, ce qui permet aux PJs de les utiliser sans d&#233;penser de faveur (voir &lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html#PROFIL&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;Avantages page 113&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo centre autoalt toutgauche&quot;&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;R&#233;sultat&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;TABLE&quot; href=&quot;#TABLE&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;Faveur&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;D&#233;livrer un message &#224; un membre de l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Accomplir une t&#226;che d&#233;goutante ou d&#233;sagr&#233;able pour l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;Assister l&#39;organisation dans la collecte d&#39;informations en vue d&#39;une mission &#224; venir.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;Acheter et livrer des fournitures &#224; un membre de l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;Assumer les fonctions d&#39;un membre sp&#233;cifique de rang inf&#233;rieur de l&#39;organisation pendant une semaine.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;Produire une propagande verbale ou &#233;crite en faveur de l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;Assurer la m&#233;diation d&#39;un d&#233;saccord entre les membres de l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;Fournir des services de lancement de sorts ou d&#39;autres t&#226;ches sp&#233;cialis&#233;es &#224; l&#39;organisation pendant plusieurs jours.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;Attribuez &#224; l&#39;organisation le m&#233;rite de vos propres actions publiques.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;Collecter de l&#39;argent pour l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;Aider &#224; la construction ou &#224; la r&#233;novation d&#39;un b&#226;timent &#224; l&#39;usage de l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;Enqu&#234;ter sur la disparition d&#39;un alli&#233; de l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;Faire don d&#39;une somme d&#39;argent importante &#224; l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;Recruter un nouveau membre dans l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;Obtenir un objet important pour l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;Vaincre un ennemi difficile de l&#39;organisation. Le FP de l&#39;ennemi doit &#234;tre &#233;gal ou sup&#233;rieur au NMG du groupe + 2.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;Aider un membre de l&#39;organisation &#224; &#233;chapper &#224; une situation dangereuse.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;Recueillir des informations pr&#233;cieuses pour l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;Encadrer un nouveau membre de l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;Convaincre un individu puissant de coop&#233;rer avec l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;21&lt;/td&gt;&lt;td&gt;Couvrir des preuves compromettantes contre l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;Planifier et ex&#233;cuter une op&#233;ration dangereuse pour atteindre un objectif difficile.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;23&lt;/td&gt;&lt;td&gt;Saboter une organisation avec des objectifs oppos&#233;s.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;Rembourser les dettes de l&#39;organisation en effectuant une t&#226;che difficile pour une autre organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;Enqu&#234;ter sur un possible tra&#238;tre au sein de l&#39;organisation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;26&lt;/td&gt;&lt;td&gt;Cr&#233;er une branche de l&#39;organisation dans un nouveau quartier ou une nouvelle ville.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;27&lt;/td&gt;&lt;td&gt;Repr&#233;senter l&#39;organisation dans une r&#233;union aux enjeux extraordinaires.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;28&lt;/td&gt;&lt;td&gt;Exercer les fonctions d&#39;un membre cl&#233; de l&#39;organisation pendant 1 semaine.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Op&#233;rations clandestines&lt;a class=&quot;headeranchor&quot; id=&quot;Op&#233;rations_clandestines_11&quot; href=&quot;#Op&#233;rations_clandestines_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le syst&#232;me d&#39;influence organisationnelle de base suppose que les PJs agissent comme un groupe unifi&#233; et ne font pas d&#39;efforts particuliers pour dissimuler leurs identit&#233;s et leurs activit&#233;s. Dans une campagne bas&#233;e sur l&#39;intrigue, ces hypoth&#232;ses ne sont pas toujours exactes. Le type d&#39;op&#233;ration clandestine le plus simple &#224; arbitrer est une simple faveur secr&#232;te. Si les PJs accomplissent une faveur pour une organisation et dissimulent leurs actions, ne diminuez pas les points d&#39;influence des PJs aupr&#232;s des ennemis de cette organisation. Les PJs peuvent utiliser des identit&#233;s secr&#232;tes pour effectuer des manœuvres plus compliqu&#233;es, comme jouer plusieurs r&#244;les dans un conflit, ou m&#234;me infiltrer une organisation en tant qu&#39;espions. Tant qu&#39;une organisation sait que les PJs infiltrent ses rivaux, les membres de cette organisation continuent &#224; croire qu&#39;ils ont la loyaut&#233; des PJs ; ils n&#233;gligent g&#233;n&#233;ralement les actions mineures que les PJs entreprennent contre l&#39;organisation, tant que les PJs fournissent une justification plausible de leurs m&#233;faits.&lt;br /&gt;&lt;br /&gt;Si les PJs utilisent des identit&#233;s secr&#232;tes, suivez leur influence sous chaque jeu d&#39;identit&#233;s s&#233;par&#233;ment tant qu&#39;ils maintiennent la ruse. Maintenir deux jeux d&#39;identit&#233;s distincts sur une longue p&#233;riode devrait &#234;tre difficile, mais pas impossible si les PJs sont prudents. Les caract&#233;ristiques communes entre les identit&#233;s - qu&#39;il s&#39;agisse de caract&#233;ristiques physiques, de mani&#232;res, d&#39;&#233;quipement, de style de combat ou d&#39;associ&#233;s - repr&#233;sentent une menace d&#39;exposition. Si les PJs atteignent des rangs d&#39;influence &#233;lev&#233;s dans deux organisations oppos&#233;es, leur risque d&#39;&#234;tre pris augmente de mani&#232;re significative. La classe de &lt;a class=&quot;pagelink&quot; href=&quot;Justicier.html&quot; title=&quot;Le justicier&quot;&gt;justicier&lt;/a&gt; est particuli&#232;rement bien adapt&#233;e au d&#233;fi que repr&#233;sente le maintien d&#39;identit&#233;s multiples.&lt;br /&gt;&lt;br /&gt;Si une organisation d&#233;couvre que les PJs ont deux identit&#233;s distinctes, le total des points d&#39;influence des PJs pour cette organisation peut changer radicalement. Si les deux identit&#233;s des PJs sont align&#233;es avec une organisation, le total des points d&#39;influence des PJs peut atteindre la somme des points gagn&#233;s sous les deux identit&#233;s. Inversement, si les deux identit&#233;s des PJs sont oppos&#233;es &#224; une organisation, le total des points d&#39;influence des PJs peut &#234;tre aussi bas qu&#39;un nombre n&#233;gatif &#233;gal &#224; la somme des deux. L&#39;addition des deux valeurs permet parfois &#224; une unique action de compter deux fois - cela signifie que l&#39;organisation peut soit respecter le d&#233;vouement des PJs &#224; leur cause, soit les injurier pour leur d&#233;vouement &#224; s&#39;y opposer. Dans la plupart des cas, cependant, le changement d&#39;influence r&#233;sultant devrait &#234;tre moins extr&#234;me qu&#39;une somme directe, m&#234;me si l&#39;organisation a une opinion favorable des deux identit&#233;s. Si les PJs travaillent pour deux organisations oppos&#233;es, consultez le dernier paragraphe de &lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html#PERDREPOINTS&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;Perdre des points d&#39;influence&lt;/a&gt;, pour savoir comment une organisation r&#233;agit &#224; une trahison.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;PROFIL&quot; href=&quot;#PROFIL&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Profil des organisations&lt;a class=&quot;headeranchor&quot; id=&quot;Profil_des_organisations_12&quot; href=&quot;#Profil_des_organisations_12&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Le profil d&#39;une organisation est ordonn&#233; comme suit.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Nom.&lt;/b&gt; Le nom de l&#39;organisation.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alignement et Pr&#233;dominance.&lt;/b&gt; L&#39;alignement d&#39;une organisation est l&#39;alignement qui repr&#233;sente le plus fid&#232;lement ses politiques et ses actions. Bien que les membres individuels d&#39;une organisation puissent &#234;tre de n&#39;importe quel alignement, les PNJs cl&#233;s d&#39;une organisation diff&#232;rent g&#233;n&#233;ralement d&#39;au plus une cat&#233;gorie par rapport &#224; l&#39;alignement global de l&#39;organisation. La pr&#233;dominance d&#39;une organisation peut &#234;tre faible, moyenne, forte ou pr&#233;dominante. Vous trouverez plus de d&#233;tails sur la pr&#233;dominance &#224; &lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html#PREDOMUNANCE&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;la page 111&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Taille.&lt;/b&gt; La taille d&#39;une organisation est une approximation du nombre de ses membres actifs.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Membres cl&#233;s.&lt;/b&gt; Les membres cl&#233;s d&#39;une organisation sont &#224; la fois les leaders visibles et les conspirateurs de l&#39;ombre qui ont une grande influence.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Valeurs.&lt;/b&gt; Une organisation peut valoriser un certain nombre de traits de caract&#232;re chez ses membres, tels que la cr&#233;ativit&#233;, la g&#233;n&#233;rosit&#233;, la fiabilit&#233;, l&#39;aptitude &#224; accomplir des t&#226;ches particuli&#232;res ou le statut social.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Objectifs publics.&lt;/b&gt; Toutes les organisations, sauf les plus clandestines, partagent certains de leurs objectifs avec le grand public.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Objectifs priv&#233;s.&lt;/b&gt; Il s&#39;agit des objectifs priv&#233;s de l&#39;organisation dans son ensemble et de ses membres cl&#233;s. Parfois, l&#39;objectif priv&#233; d&#39;un membre cl&#233; peut entrer en conflit avec l&#39;objectif priv&#233; de l&#39;organisation.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Alli&#233;s et ennemis.&lt;/b&gt; Les organisations existent dans un certain contexte. Les principaux alli&#233;s et ennemis d&#39;une organisation sont not&#233;s ici. Les PJs peuvent gagner ou perdre de l&#39;influence sur une organisation en fonction de leurs interactions avec les organisations alli&#233;es ou oppos&#233;es.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions de recrutement.&lt;/b&gt; La plupart des organisations ont une proc&#233;dure d&#39;adh&#233;sion officielle et attendent de leurs membres qu&#39;ils respectent des engagements permanents (comme le paiement de cotisations).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Limites d&#39;influence.&lt;/b&gt; Souvent, les PJs doivent accomplir une t&#226;che sp&#233;cifique pour une organisation avant de pouvoir augmenter leur influence au-del&#224; d&#39;un certain seuil. La condition la plus courante est que les PJs rejoignent une organisation, mais les organisations peuvent exiger des t&#226;ches plus complexes ou des faveurs avant de compter les PJs parmi leurs alli&#233;s les plus fiables.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages.&lt;/b&gt; Cette section liste les faveurs que les PJs peuvent demander en fonction de leur rang d&#39;influence dans l&#39;organisation. Les PJs peuvent toujours choisir les avantages de la liste disponible pour leur rang actuel ou un rang inf&#233;rieur au sein de l&#39;organisation, et, &#224; la discr&#233;tion du MJ, les PJs peuvent avoir acc&#232;s aux avantages des rangs inf&#233;rieurs pour un nombre r&#233;duit de faveurs, ou m&#234;me gratuitement, si les PJ demandent l&#39;avantage un nombre raisonnable de fois. Pour estimer les avantages que les PJs peuvent obtenir d&#39;une organisation en dehors de sa base d&#39;op&#233;rations, le MJ devrait diminuer le rang d&#39;influence effective des PJ de mani&#232;re appropri&#233;e, jusqu&#39;&#224; un minimum de rang 0 si les PJ sont enti&#232;rement hors de port&#233;e de l&#39;organisation.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantages uniques.&lt;/b&gt; Cette section d&#233;taille les avantages que les PJs peuvent obtenir de l&#39;organisation en plus de ceux list&#233;s dans la section &lt;a class=&quot;pagelink&quot; href=&quot;Influence-Organisationnelle.html#AVANTAGESCOMMUNS&quot; title=&quot;L&amp;#39;influence organisationnelle&quot;&gt;Avantages communs&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;AVANTAGESCOMMUNS&quot; href=&quot;#AVANTAGESCOMMUNS&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;h3 class=&quot;separator&quot;&gt;Avantages communs&lt;a class=&quot;headeranchor&quot; id=&quot;Avantages_communs_6&quot; href=&quot;#Avantages_communs_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;Les avantages suivants apparaissent dans le profil de nombreuses organisations, et sont d&#233;finis ci-dessous.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage r&#233;ciproque.&lt;/b&gt; L&#39;organisation tire parti de ses liens avec l&#39;un de ses plus proches alli&#233;s pour le b&#233;n&#233;fice des PJs. Les PJs peuvent acheter un avantage de la liste des avantages d&#39;une organisation &#233;troitement alli&#233;e en d&#233;pensant deux faveurs. Traitez le rang d&#39;influence des PJs aupr&#232;s de l&#39;organisation alli&#233;e comme inf&#233;rieur de 1 &#224; leur rang aupr&#232;s de l&#39;organisation initiale.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Emprunt de ressources.&lt;/b&gt; De nombreuses organisations permettent aux membres en r&#232;gle d&#39;emprunter de l&#39;argent ou des objets pour de courtes p&#233;riodes. Les PJs peuvent emprunter de l&#39;argent ou des objets pour un montant total indiqu&#233; entre parenth&#232;ses. Si les PJs ne remboursent pas le pr&#234;t en temps voulu, ils risquent de perdre des points d&#39;influence. En g&#233;n&#233;ral, les PJ ne peuvent pas emprunter de ressources &#224; une organisation s&#39;ils ont des dettes en cours, et certaines organisations exigent des garanties. Les organisations ont plus de chances de poss&#233;der des objets en rapport avec leurs propres int&#233;r&#234;ts - un groupe de mercenaires peut pr&#234;ter des armes et des armures, mais pas des symboles sacr&#233;s ou des grimoires, par exemple.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Direction d&#39;&#233;quipe.&lt;/b&gt; Lorsque les PJs atteignent un rang d&#39;influence &#233;lev&#233; au sein d&#39;une organisation, celle-ci leur permet g&#233;n&#233;ralement de diriger une &#233;quipe de ses membres lors d&#39;une mission. Les PJs sont cens&#233;s prot&#233;ger cette &#233;quipe et ramener les membres en vie. Les PJs peuvent diriger des groupes de la taille et de la force indiqu&#233;es dans l&#39;entr&#233;e de chaque faveur.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Collecte d&#39;information.&lt;/b&gt; Les PJs peuvent demander &#224; plusieurs membres de l&#39;organisation de les aider &#224; rassembler des informations sur un sujet particulier, et gagnent un bonus de circonstances de +4 sur tous les tests de &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; pour rassembler de telles informations.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Recommandation.&lt;/b&gt; L&#39;organisation valorise la r&#233;putation des PJs aupr&#232;s de ses alli&#233;s. Les PJs gagnent un nombre de points d&#39;influence &#233;gal &#224; leur rang dans l&#39;organisation aupr&#232;s d&#39;une des organisations alli&#233;es du groupe.&lt;br /&gt;&lt;br /&gt;&lt;h2 class=&quot;separator&quot;&gt;Exemples d&#39;organisation&lt;a class=&quot;headeranchor&quot; id=&quot;Exemples_dorganisation_13&quot; href=&quot;#Exemples_dorganisation_13&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;Les exemples d&#39;organisations pr&#233;sent&#233;s dans cette section couvrent tous les niveaux d&#39;influence possibles. Les organisations qui sont pertinentes pour chaque MJ d&#233;pendent de la campagne.&lt;br /&gt;&lt;br /&gt;D&#39;autres id&#233;es d&#39;organisations qui ne sont pas d&#233;taill&#233;es ci-dessous incluent une guilde d&#39;assassins, un coll&#232;ge de bardes, une guilde de marchands, un mus&#233;e, une soci&#233;t&#233; secr&#232;te et une universit&#233;.&lt;br /&gt;&lt;br /&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td width=&quot;49%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Petite bande&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Organisation faible, CN)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Taille.&lt;/b&gt; 15 membres)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Membres cl&#233;s.&lt;/b&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Greedy Jenny&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; [f] &lt;a class=&quot;pagelink&quot; href=&quot;Ensorceleur.html&quot; title=&quot;L&amp;#39;ensorceleur&quot;&gt;ensorceleur&lt;/a&gt; 1, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Martin Quickfingers&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;halfelin&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; 2, CN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Valeurs.&lt;/b&gt; Cette modeste bande de petits escrocs est toujours pr&#234;te &#224; accepter de nouveaux membres qui font leurs preuves.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs publics.&lt;/b&gt; Lorsqu&#39;ils se font prendre, ces criminels pr&#233;tendent qu&#39;ils ne volent que ce qu&#39;il faut pour survivre.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs priv&#233;s.&lt;/b&gt; Martin aimerait recruter d&#39;autres personnes malchanceuses pour rejoindre l&#39;organisation en pleine expansion, tandis que Jenny ne se soucie que de ses propres profits.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Alli&#233;s.&lt;/b&gt; La petite bande est alli&#233;e aux mendiants locaux, qui leur fournissent des informations en &#233;change de petites quantit&#233;s de nourriture et de v&#234;tements.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ennemis.&lt;/b&gt; La garde locale n&#39;a pas encore eu vent de ces voleurs, mais elle s&#39;y opposerait si elle avait connaissance de leurs activit&#233;s.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Conditions de recrutement.&lt;/b&gt; Les PJs doivent voler un objet d&#39;une valeur d&#39;au moins 20 po, et donner la moiti&#233; de la valeur de l&#39;objet &#224; la petite bande.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Limites d&#39;influence.&lt;/b&gt; Un PJ doit rejoindre officiellement les voleurs pour passer au rang 1. Si un PJ atteint le rang 3, Martin consid&#232;re ce PJ comme une menace et tente de l&#39;&#233;liminer. Vaincre Martin fait de ce PJ le chef de l&#39;organisation, et passe son rang &#224; 4.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages.&lt;/b&gt; Ces petits voleurs se regroupent pour s&#39;aider &#224; survivre et &#224; faire du profit.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 1.&lt;/i&gt; emprunt de ressources (10 po), renseignement (+6), vigie (1 chemin, +6)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 2.&lt;/i&gt; collecte d&#39;information, diversion (+6), emprunt de ressources (50 po), pickpocket (+8), recommandation
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 3.&lt;/i&gt; avantage r&#233;ciproque, emprunt de ressources (250 po)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 4.&lt;/i&gt; direction d&#39;&#233;quipe (1d4 roublards de niveau 1), emprunt de ressources (500 po)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages uniques.&lt;/b&gt; La petite bande accorde les avantages inhabituels suivants.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Case.&lt;/i&gt; Un groupe de voleurs examine une zone, &#224; la recherche de gardes, de cachettes et d&#39;entr&#233;es. Le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; des voleurs est de +6.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Diversion.&lt;/i&gt; Un groupe de voleurs cr&#233;e une diversion pour permettre aux PJs de se faufiler entre les gardes ou autres yeux vigilants. Le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; des voleurs est de +6.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Pickpocket.&lt;/i&gt; Un voleur tente de prendre un objet sp&#233;cifique &#224; une personne sp&#233;cifique. Le bonus total du voleur en &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; est de +8. Si le voleur estime que la situation est trop dangereuse, il en informe les PJs et refuse de tenter la t&#226;che - dans ce cas, la faveur n&#39;est pas d&#233;pens&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Vigie.&lt;/i&gt; Un voleur agit comme un guetteur, surveillant un chemin &#224; l&#39;affut des gardes ou des t&#233;moins qui y passent. Le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; du voleur est de +6.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Guilde de voleurs&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Organisation moyenne, LM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Taille.&lt;/b&gt; 200 membres
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Membres cl&#233;s.&lt;/b&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Chef&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;demi-orque&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 7, LM)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Kalgeen&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Rat-Garou.html&quot; title=&quot;Lycanthrope, Rat-garou&quot;&gt;rat-garou&lt;/a&gt; [f] &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;roublard&lt;/a&gt; 5, LM)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Valeurs.&lt;/b&gt; Cette guilde de voleurs a un code de conduite strict pour ses membres, qui doivent veiller les uns sur les autres &#224; tout moment et ne peuvent jamais voler les amis ou les parents des autres. La guilde valorise la loyaut&#233; et la d&#233;brouillardise.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs publics.&lt;/b&gt; La guilde n&#39;a pas d&#39;objectifs d&#233;clar&#233;s publiquement.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs priv&#233;s.&lt;/b&gt; La guilde cherche &#224; &#233;tendre sa port&#233;e &#224; d&#39;autres communaut&#233;s.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Alli&#233;s.&lt;/b&gt; La guilde est alli&#233;e &#224; un groupe local de marchands.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ennemis.&lt;/b&gt; La guilde de voleurs s&#39;est fait des ennemis parmi les organisations qu&#39;elle cible r&#233;guli&#232;rement et les responsables locaux de l&#39;application de la loi.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Conditions de recrutement.&lt;/b&gt; Les PJs doivent voler un objet d&#39;une valeur d&#39;au moins 250 po, et donner la moiti&#233; de la valeur de l&#39;objet &#224; la guilde de voleurs.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Limites d&#39;influence.&lt;/b&gt; Un PJ doit rejoindre officiellement la guilde des voleurs pour passer au rang 2. Pour monter au rang 4, les PJs doivent ex&#233;cuter un casse complexe (voir &lt;a class=&quot;pagelink&quot; href=&quot;Casses.html&quot; title=&quot;Les casses&quot;&gt;Les Casses&lt;/a&gt;).
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages.&lt;/b&gt; Bien que cette guilde de voleurs ne puisse pas op&#233;rer ouvertement, elle aide ses membres &#224; trouver des emplois potentiels.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 1.&lt;/i&gt; case (+10), emprunt de ressources (100 po), vigie (2 chemins, +10)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 2.&lt;/i&gt; collecte d&#39;information, diversion (+10), emprunt de ressources (500 po), pickpocket (+12), recommandation
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 3.&lt;/i&gt; avantage r&#233;ciproque, extraction de preuves, emprunt de ressources (2.500 po), pillage, recherche au march&#233; noir
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 4.&lt;/i&gt; direction d&#39;&#233;quipe (1d4 roublards de niveau 3 ou 3d4 roublards de niveau 1), emprunt de ressources (5.000 po)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages uniques.&lt;/b&gt; La guilde de voleurs accorde les avantages inhabituels suivants.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Case.&lt;/i&gt; Fonctionne comme l&#39;avantage de la petite bande, sauf que le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; des voleurs est de +10.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Diversion.&lt;/i&gt; Fonctionne comme l&#39;avantage de la petite bande, sauf que le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; des voleurs est de +10.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Extraction de preuves.&lt;/i&gt; Un groupe de voleurs p&#233;n&#232;tre prudemment une sc&#232;ne o&#249; les PJs ont commis un crime et enl&#232;ve les preuves. Cette capacit&#233; &#233;limine les indices &#233;vidents, comme le corps d&#39;une victime ou les notes laiss&#233;es par les PJ sur les lieux, et augmente le DD de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; pour trouver des indices plus subtils de 5.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Pickpocket.&lt;/i&gt; Fonctionne comme l&#39;avantage de la petite bande, sauf que le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Escamotage.html&quot; title=&quot;Escamotage&quot;&gt;Escamotage&lt;/a&gt; des voleurs est de +12.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Pillage.&lt;/i&gt; La guilde de voleurs envoie un agent pour voler un objet sp&#233;cifique dans un lieu s&#233;curis&#233;. L&#39;agent b&#233;n&#233;ficie d&#39;un bonus de comp&#233;tence total de +10 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; et d&#39;un bonus de comp&#233;tence total de +12 aux tests de &lt;a class=&quot;pagelink&quot; href=&quot;Sabotage.html&quot; title=&quot;Sabotage&quot;&gt;Sabotage&lt;/a&gt;. Cet avantage co&#251;te de 1 &#224; 3 faveurs, en fonction du danger encouru. Le voleur s&#39;attend &#224; ce que les PJs paient la moiti&#233; de la valeur de l&#39;objet vol&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Recherche au march&#233; noir.&lt;/i&gt; La guilde des voleurs rep&#232;re tout type d&#39;objet dont la valeur est sup&#233;rieure &#224; la valeur de base de la communaut&#233;, m&#234;me si l&#39;objet est ill&#233;gal dans cette communaut&#233;, et s&#39;arrange pour que les PJs l&#39;ach&#232;tent.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Vigie.&lt;/i&gt; Deux voleurs agissent comme des guetteurs, surveillant jusqu&#39;&#224; deux chemins &#224; l&#39;affut des gardes ou des t&#233;moins qui y passent. Le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; des voleurs est de +10.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Guide de mages&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Organisation forte, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Taille.&lt;/b&gt; 520 membres
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Membres cl&#233;s.&lt;/b&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Archimage Theona Tethril&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; [f] &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;devin&lt;/a&gt; 9, N)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Ma&#238;tre des sceaux Falariel&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Elfe.html&quot; title=&quot;Les elfes&quot;&gt;elfe&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Magicien.html&quot; title=&quot;Le magicien&quot;&gt;abjurateur&lt;/a&gt; 7, NB)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Valeurs.&lt;/b&gt; La guilde de mages valorise la curiosit&#233;, la cr&#233;ativit&#233; et les aptitudes magiques.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs publics.&lt;/b&gt; R&#233;glementer l&#39;utilisation de la magie pour le bien public.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs priv&#233;s.&lt;/b&gt; La guilde de mages recherche les connaissances arcaniques qu&#39;elle juge trop dangereuses et stocke ces informations dans sa biblioth&#232;que secr&#232;te hautement s&#233;curis&#233;e. Le ma&#238;tre des sceaux prot&#232;ge les livres de l&#39;acc&#232;s public, tandis que l&#39;archimage les utilise pour en savoir plus sur les personnes qui abuseraient des connaissances dangereuses contenues dans les tomes.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Alli&#233;s.&lt;/b&gt; La guilde des mages est en bons termes avec plusieurs universit&#233;s voisines et l&#39;union des alchimistes.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ennemis.&lt;/b&gt; La guilde des mages s&#39;est fait plusieurs ennemis parmi les cultes mal&#233;fiques et autres organisations qui utilisent le savoir profane.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Conditions de recrutement.&lt;/b&gt; Pour rejoindre la guilde des mages, un PJ doit passer une semaine &#224; enseigner des sorts aux membres de la guilde, ou apporter &#224; la guilde un sort ou une connaissance des arcanes qu&#39;elle ne poss&#232;de pas d&#233;j&#224; dans ses biblioth&#232;ques.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Limites d&#39;influence.&lt;/b&gt; Les PJs doivent tous rejoindre la guilde des mages avant de pouvoir atteindre le rang 2.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages.&lt;/b&gt; Cette guilde de mages assure la formation de ses membres et lance des sorts pour eux.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 1.&lt;/i&gt; biblioth&#232;que magique (sorts du &lt;i&gt;Manuel des joueurs&lt;/i&gt; uniquement), emprunt de ressources (100 po)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 2.&lt;/i&gt; biblioth&#232;que &#233;rudite, biblioth&#232;que magique (autres sorts), collecte d&#39;information, emprunt de ressources (750 po), fabrication d&#39;objet, lancement de sort (sorts de 1er et 2e niveaux), recommandation
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 3.&lt;/i&gt; avantage r&#233;ciproque, emprunt de ressources (1.500 po), lancement de sort (sorts de 3e et 4e niveaux)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 4.&lt;/i&gt; emprunt de ressources (4.000 po), lancement de sort (sorts de 5e niveaux)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages uniques.&lt;/b&gt; La guilde de mages accorde les avantages inhabituels suivants.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Biblioth&#232;que &#233;rudite.&lt;/i&gt; Les PJs ont acc&#232;s &#224; la biblioth&#232;que de la guilde, ce qui leur permet d&#39;apprendre des secrets pertinents pour leurs aventures actuelles (pensez &#224; utiliser le syst&#232;me de &lt;a class=&quot;pagelink&quot; href=&quot;Recherches.html&quot; title=&quot;Les recherches&quot;&gt;recherche des pages 148-153&lt;/a&gt; pour g&#233;rer les recherches dans la biblioth&#232;que &#233;rudite).
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Biblioth&#232;que magique.&lt;/i&gt; La guilde de mages permet aux PJs d&#39;acc&#233;der &#224; sa vaste biblioth&#232;que de sorts. Les PJs peuvent apprendre un sort dans la biblioth&#232;que. Les sorts du &lt;i&gt;Manuel des joueurs&lt;/i&gt; co&#251;tent 1 faveur, et tous les autres sorts disponibles co&#251;tent 2 faveurs.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Fabrication d&#39;objet.&lt;/i&gt; La guilde de mages fabrique une collection personnalis&#233;e de &lt;a class=&quot;pagelink&quot; href=&quot;Parchemins-Magiques.html&quot; title=&quot;Les parchemins magiques&quot;&gt;parchemins&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Potions-Magiques.html&quot; title=&quot;Les potions magiques&quot;&gt;potions&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux.html&quot; title=&quot;Les Objets merveilleux&quot;&gt;objets merveilleux&lt;/a&gt; pour les PJs. Les objets co&#251;tent leur valeur marchande habituelle en pi&#232;ces d&#39;or, plus 1 faveur pour chaque tranche de 2 jours d&#39;artisanat n&#233;cessaires.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Lancement de sort.&lt;/i&gt; Les PJs peuvent d&#233;penser des faveurs au lieu de payer le co&#251;t habituel des services de &lt;a class=&quot;pagelink&quot; href=&quot;Lancement-De-Sort-(Objet).html&quot; title=&quot;Lancement de sort&quot;&gt;lancement de sort&lt;/a&gt;. Un sort de 1er ou 2e niveau co&#251;te 1 faveur, un sort de 3e ou 4e niveau co&#251;te 2 faveurs, et un sort de 5e niveau co&#251;te 3 faveurs. Le co&#251;t et la disponibilit&#233; des sorts d&#233;pendent du niveau des membres de la guilde (dans cette guilde, un sort de 5e niveau vient toujours de l&#39;archimage elle-m&#234;me, et est donc assez cher).
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;td width=&quot;2%&quot;&gt;
+&lt;/td&gt;&lt;td width=&quot;49%&quot;&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Syndicat du crime&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Organisation pr&#233;dominante, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Taille.&lt;/b&gt; 15.000 membres
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Membres cl&#233;s.&lt;/b&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Dame Alixis Drosain/Lyra&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; [f] &lt;a class=&quot;pagelink&quot; href=&quot;Justicier.html&quot; title=&quot;Le justicier&quot;&gt;justicier&lt;/a&gt; 12, N/NM)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Nikolas Trivoy&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Enqu&#234;teur.html&quot; title=&quot;L&amp;#39;enqu&#234;teur&quot;&gt;enqu&#234;teur&lt;/a&gt; 7, N)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Murmure&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; [f] &lt;a class=&quot;pagelink&quot; href=&quot;Tueur.html&quot; title=&quot;Le tueur&quot;&gt;tueur&lt;/a&gt; 10, NM)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;Zadreni&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;barde&lt;/a&gt; 9, N)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Valeurs.&lt;/b&gt; Le syndicat valorise le talent et l&#39;ambition, mais aussi la discr&#233;tion et la loyaut&#233;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs publics.&lt;/b&gt; Les objectifs publics du syndicat sont de g&#233;rer et de r&#233;guler la criminalit&#233;, de fournir des biens et des services de valeur et de dynamiser l&#39;&#233;conomie locale.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs priv&#233;s.&lt;/b&gt; Dans l&#39;ensemble, les membres du syndicat recherchent la richesse, le pouvoir et le prestige. Bien que Lyra soit devenue le leader incontest&#233;, la justici&#232;re ne sera pas satisfaite tant qu&#39;elle ne contr&#244;lera pas &#233;galement le march&#233; libre, sous son identit&#233; sociale de Dame Drosain. Nikolas se m&#233;fie de plus en plus de Lyra et cherche minutieusement des &#233;l&#233;ments qu&#39;il pourrait utiliser contre elle.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Alli&#233;s.&lt;/b&gt; Si peu d&#39;organisations admettent publiquement leur alliance avec le syndicat du crime, de nombreux groupes b&#233;n&#233;ficient de tractations en sous-main.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ennemis.&lt;/b&gt; Le syndicat du crime s&#39;est fait des ennemis dans plusieurs organisations importantes des nations voisines, y compris la maison royale d&#39;un royaume voisin.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Conditions de recrutement.&lt;/b&gt; Voler un objet unique et embl&#233;matique, tel qu&#39;un tableau pris&#233; de la collection d&#39;un mus&#233;e. Autrement, cr&#233;er une entreprise l&#233;gale dont les activit&#233;s ill&#233;gales fournissent aux PJs un b&#233;n&#233;fice net d&#39;au moins 100 po par mois.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Limites d&#39;influence.&lt;/b&gt; Chaque fois que les PJs souhaitent acc&#233;der &#224; un nouveau rang, ils doivent prouver leur valeur &#224; l&#39;organisation, avec une t&#226;che plus spectaculaire que leur derni&#232;re d&#233;monstration. Le syndicat a beaucoup de membres, et ne m&#233;nage pas son temps pour ceux qui ne veulent pas prouver leur valeur. Les PJs doivent d&#233;clarer leur all&#233;geance pour atteindre le rang 1, et ils doivent devenir membres &#224; part enti&#232;re avant de pouvoir atteindre le rang 2.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages.&lt;/b&gt; Ce syndicat du crime peut prot&#233;ger ses membres des cons&#233;quences de tous les crimes, sauf les plus odieux.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 1.&lt;/i&gt; case (+15), collecte d&#39;information, diversion (+15), emprunt de ressources (100 po), vigie (4 chemins, +15)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 2.&lt;/i&gt; emprunt de ressources (1.000 po), extraction de preuves, pillage, recherche au march&#233; noir, recommandation
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 3.&lt;/i&gt; avantage r&#233;ciproque, destruction de preuve, direction d&#39;&#233;quipe (1d4 PNJs de niveau 3 ou 3d4 PNJs de niveau 1), emprunt de ressources (5.000 po), manipulation du march&#233;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 4.&lt;/i&gt; direction d&#39;&#233;quipe (1d4 PNJs de niveau 6 ou 5d4 PNJs de niveau 3), emprunt de ressources (15.000 po), ma&#238;trise du march&#233; noir
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages uniques.&lt;/b&gt; Le syndicat du crime accorde les avantages inhabituels suivants.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Case.&lt;/i&gt; Fonctionne comme l&#39;avantage de la petite bande, sauf que le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; des voleurs est de +15.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Diversion.&lt;/i&gt; Fonctionne comme l&#39;avantage de la petite bande, sauf que le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Bluff.html&quot; title=&quot;Bluff&quot;&gt;Bluff&lt;/a&gt; des voleurs est de +15.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Destruction de preuve.&lt;/i&gt; Le syndicat du crime fait dispara&#238;tre les preuves d&#39;un crime commis par les PJs. Cette capacit&#233; fonctionne comme extraction de preuves (voir page 115), sauf que le DD de &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; pour trouver des preuves sur la sc&#232;ne du crime passe &#224; 30 (ou augmente de 10, selon le plus &#233;lev&#233;). Le syndicat d&#233;courage &#233;galement les t&#233;moins de d&#233;noncer les PJs, en utilisant une combinaison d&#39;intimidation, de corruption, et m&#234;me de magie alt&#233;rant la m&#233;moire. Cet avantage co&#251;te 3 faveurs.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Extraction de preuves.&lt;/i&gt; Fonctionne comme l&#39;avantage de la guilde de voleurs.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Ma&#238;trise du march&#233; noir.&lt;/i&gt; Le syndicat du crime explore toute l&#39;&#233;tendue de ses contacts sur le march&#233; noir pour trouver un objet pour les PJs. Il peut localiser presque tous les types d&#39;objets dont la valeur est inf&#233;rieure &#224; la valeur de base du village. Les PJs peuvent utiliser la ma&#238;trise du march&#233; noir pour chercher un objet en dessous de la valeur de base du village par faveur d&#233;pens&#233;e. Les PJs peuvent aussi utiliser la ma&#238;trise du march&#233; noir pour chercher un seul objet au-dessus de la valeur de base du village, au prix de 3 faveurs. Il y a 50% de chances chaque mois que le syndicat trouve l&#39;objet demand&#233;. Si les PJs recherchent un objet unique, le syndicat peut &#234;tre en mesure de fournir aux PJs la localisation de cet objet au prix de 2 faveurs.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Manipulation du march&#233;.&lt;/i&gt; Le syndicat du crime peut manipuler les forces du march&#233; pour d&#233;tourner les affaires des rivaux des PJs et les diriger vers les entreprises que les PJs poss&#232;dent. Cette capacit&#233; produit un montant d&#39;argent suppl&#233;mentaire pour les PJs qui d&#233;pend de l&#39;ampleur de la manipulation. Cette manne se pr&#233;sente sous la forme d&#39;une augmentation des r&#233;sultats obtenus avec les r&#232;gles que vous utilisez pour d&#233;terminer le succ&#232;s des entreprises des PJs (comme les &lt;a class=&quot;pagelink&quot; href=&quot;Interm&#232;des.html&quot; title=&quot;Les interm&#232;des&quot;&gt;r&#232;gles d&#39;interm&#232;de&lt;/a&gt; du &lt;i&gt;Guide de campagne&lt;/i&gt;). Pour chaque faveur d&#233;pens&#233;e, les PJ peuvent gagner au maximum 1 000 po (avec un maximum de 5 000 po).
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Pillage.&lt;/i&gt; Fonctionne comme l&#39;avantage de la guilde de voleurs.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Recherche au march&#233; noir.&lt;/i&gt; Fonctionne comme l&#39;avantage de la guilde de voleurs.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Vigie.&lt;/i&gt; Un groupe de voleurs agissent comme des guetteurs, surveillant jusqu&#39;&#224; quatre chemins &#224; l&#39;affut des gardes ou des t&#233;moins qui y passent. Le bonus total en &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; des voleurs est de +15. Cette capacit&#233; co&#251;te 2 faveurs. Autrement, les PJs peuvent acheter la capacit&#233; vigie comme d&#233;crite dans la guilde de voleurs au prix de 1 faveur.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;L&#39;arm&#233;e nationale&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+Organisation pr&#233;dominante, LN
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Taille.&lt;/b&gt; 18.000 membres
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Membres cl&#233;s.&lt;/b&gt; 
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;G&#233;n&#233;ral Agnar&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;nain&lt;/a&gt; [f] &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerrier&lt;/a&gt; 10, LB)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;b&gt;G&#233;n&#233;ral Rortian&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;humain&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Chevalier.html&quot; title=&quot;Le chevalier&quot;&gt;chevalier&lt;/a&gt; 12, LN)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Valeurs.&lt;/b&gt; L&#39;arm&#233;e valorise l&#39;ordre, la discipline, la loyaut&#233; et le service.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs publics.&lt;/b&gt; L&#39;objectif de l&#39;arm&#233;e est de prot&#233;ger le peuple de sa nation et de lutter contre ses ennemis.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Objectifs priv&#233;s.&lt;/b&gt; Le g&#233;n&#233;ral Rortian cherche &#224; accro&#238;tre sa gloire personnelle en se lan&#231;ant dans une campagne d&#39;expansion du territoire de sa nation.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Alli&#233;s.&lt;/b&gt; L&#39;arm&#233;e de cette nation est en bons termes avec la plupart des organisations politiques de la nation. Elle est formellement alli&#233;e avec les arm&#233;es des nations alli&#233;es.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Ennemis.&lt;/b&gt; Les ennemis de cette arm&#233;e sont les organisations politiques et militaires des nations ennemies.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Conditions de recrutement.&lt;/b&gt; Pour rejoindre l&#39;arm&#233;e en tant que recrue, les PJs doivent suivre un entra&#238;nement et prouver leur capacit&#233; &#224; suivre les ordres.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Limites d&#39;influence.&lt;/b&gt; La plupart des arm&#233;es maintiennent une stricte hi&#233;rarchie de commandement. Les PJs doivent &#234;tre promus &#224; un grade militaire sup&#233;rieur avant de pouvoir augmenter leur rang d&#39;influence au sein de l&#39;arm&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages.&lt;/b&gt; Cette force militaire est fi&#232;re de ses soldats hautement entra&#238;n&#233;s et bien &#233;quip&#233;s.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 1.&lt;/i&gt; emprunt de ressources (100 po), obtention d&#39;arsenal (350 po)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 2.&lt;/i&gt; collecte d&#39;information, direction d&#39;&#233;quipe (1d4 &lt;a class=&quot;pagelink&quot; href=&quot;Homme-Darme.html&quot; title=&quot;L&amp;#39;homme d&amp;#39;arme&quot;&gt;hommes d&#39;arme&lt;/a&gt; de niveau 1), emprunt de ressources (750 po), obtention d&#39;arsenal (750 po), r&#233;apprentissage, recommandation
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 3.&lt;/i&gt; avantage r&#233;ciproque, direction d&#39;&#233;quipe (5d4 PNJs martiaux de niveau 3), emprunt de ressources (2.500 po), obtention d&#39;arsenal (magique)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Rang 4.&lt;/i&gt; direction d&#39;&#233;quipe (70 DV de PNJs, aucun de peut d&#233;passer le niveau 7), direction de l&#233;gion, emprunt de ressources (18.500 po)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Avantages uniques.&lt;/b&gt; L&#39;arm&#233;e nationale accordent les avantages inhabituels suivants.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Obtention d&#39;arsenal.&lt;/i&gt; L&#39;arm&#233;e nationale rassemble une collection d&#39;armes et d&#39;&#233;quipements ordinaires de son armurerie pour les PJs. Les PJs peuvent acheter cette collection pour 1 faveur ou son prix standard sur le march&#233;. Au Rang 1, la valeur combin&#233;e est de 350 po ou moins. Au Rang 2, la valeur de cette collection passe &#224; 750 po. Au Rang 3, les PJs peuvent acheter des armes et armures magiques de l&#39;arm&#233;e avec une r&#233;duction de 10% en d&#233;pensant 2 faveurs. Dans le cadre de la disponibilit&#233; des objets, l&#39;arm&#233;e compte comme une &lt;a class=&quot;pagelink&quot; href=&quot;Villes.html#Les_communaut&#233;s_dans_le_jeu_9&quot; title=&quot;Les villes et communaut&#233;s&quot;&gt;m&#233;tropole&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;Direction de l&#233;gion.&lt;/i&gt; L&#39;arm&#233;e nationale accorde aux PJs le commandement d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Combat-De-Masse.html#TAILLE&quot; title=&quot;Le combat de masse&quot;&gt;arm&#233;e moyenne&lt;/a&gt; pendant 1 semaine par faveur d&#233;pens&#233;e. Cette force comprend 100 &lt;a class=&quot;pagelink&quot; href=&quot;Guerrier.html&quot; title=&quot;Le guerrier&quot;&gt;guerriers&lt;/a&gt; de niveau 2 qui suivent les PJs loyalement. Si les PJ n&#39;utilisent pas clairement cette force pour faire avancer les objectifs de l&#39;arm&#233;e ou si les PJ sont imprudents avec la vie des soldats, le rang d&#39;influence des PJ est r&#233;duit &#224; 3. Amener les soldats dans un donjon dont le niveau est appropri&#233; pour les PJ compte comme une mise en danger imprudente.
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&lt;i&gt;R&#233;apprentissage.&lt;/i&gt; Les entra&#238;neurs militaires travaillent avec les PJs, leur permettant de r&#233;apprendre des arch&#233;types, des capacit&#233;s de classe, des dons ou des rangs de comp&#233;tence, selon les r&#232;gles de &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;apprentissage.html&quot; title=&quot;Le r&#233;apprentissage&quot;&gt;r&#233;apprentissage&lt;/a&gt;. Au rang 2, chaque semaine de r&#233;apprentissage co&#251;te 1 faveur et le co&#251;t standard en pi&#232;ces d&#39;or. Au Rang 3, l&#39;arm&#233;e couvre le co&#251;t en pi&#232;ces d&#39;or. Au Rang 4, les PJs peuvent r&#233;apprendre sans d&#233;penser de faveurs ou d&#39;argent.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuUI}{s:cs}{toc}Le système d'influence organisationnelle fournit au MJ des outils pour suivre le cachet social des PJs au sein des organisations. Les petites organisations qui cherchent à s'imposer dans la société peuvent permettre aux PJs d'avoir beaucoup d'influence en leur sein, mais sont limitées dans ce qu'elles peuvent offrir. Les grandes organisations, d'un autre côté, sont généralement plus difficiles à influencer, mais peuvent apporter beaucoup plus de pouvoir sur une région en général.
+
+===Points et rangs d'influence===
+<div style="float: right; margin-left: 10px; margin-right: -10px; max-width: 280px;" class="presentation recentre">
+=====Paliers d'influence=====
+Le nombre de points d'influence requis pour passer d'un rang d'influence à un autre détermine la vitesse à laquelle le pouvoir des PJs dans les organisations peut changer. Les trois principaux facteurs qui jouent dans la définition des paliers d'influence sont la durée de la campagne, le niveau d'intérêt des joueurs dans l'exploration de leurs interactions avec les organisations, et le pouvoir et la personnalité de l'organisation elle-même. Les arcs narratifs courts nécessitent généralement des paliers plus bas que les longues campagnes. Certains groupes de joueurs préfèrent gagner lentement de l'influence au sein d'une organisation complexe, tandis que d'autres préfèrent voir à quelle vitesse leurs PJs peuvent devenir puissants dans plusieurs organisations. Enfin, au sein d'une campagne, les organisations plus faibles permettent généralement aux PJs de gagner des rangs d'influence plus rapidement que les organisations importantes.
+
+Avec tous ces facteurs en tête, les fourchettes suivantes fournissent des lignes directrices pour déterminer le nombre de points d'influence totaux qu'un personnage doit gagner pour atteindre des rangs positifs, ou perdre pour atteindre des rangs négatifs. Ces paliers correspondent à une organisation faible. Pour une organisation moyenne, multipliez les chiffres par 2. Pour une organisation forte, multipliez par 3, et pour une organisation prédominante, multipliez par 4. Pour plus de détails sur la détermination de l'importance d'une organisation, [[Influence organisationnelle#PREDOMINANCE|voir page 111]].
+* '''Rang 1 ou -1.''' De 1 à 5 points d'influence.
+* '''Rang 2 ou -2.''' De 3 à 7 points d'influence.
+* '''Rang 3 ou -3.''' De 8 à 12 points d'influence.
+* '''Rang 4 ou -4.''' De 13 à 18 points d'influence.
+
+
+=====Attitudes des PNJs=====
+Le rang d'influence des PJs dans une organisation détermine l'attitude initiale typique des membres qui ont entendu parler des PJs. Les attitudes de départ des membres individuels peuvent varier.
+* '''Chassés, détestés ou mal aimés (Rang -2 ou inférieur).''' Hostile.
+* '''Opposants connus (Rang -1).''' Inamical.
+* '''Inconnus (Rang 0).''' Indifférent.
+* '''Alliés connus (Rang 1).''' Amical.
+* '''Respectés, Admirés ou Vénérés (Rang 2 ou supérieur).''' Serviable.
+
+</div>Le système d'influence organisationnelle utilise des points d'influence pour suivre l'opinion d'une organisation concernant les PJs. Lorsque les PJs interagissent pour la première fois avec une organisation, ils commencent généralement avec 0 point d'influence, et n'ont aucun contrôle sur les actions de l'organisation. Si les PJs démontrent leur valeur pour l'organisation, ils peuvent gagner des points d'influence, représentant leur capacité croissante à demander des faveurs. Si les PJ échouent ou travaillent contre l'organisation à plusieurs reprises, ils perdent des points d'influence (voir [[Influence organisationnelle#GAGNERPOINTS|page 110]]) pour plus de détails sur le gain et la perte de points d'influence). Le total des points d'influence des PJs auprès d'une organisation peut être un nombre négatif - plus le total est faible, plus l'organisation est prête à engager des ressources pour s'opposer activement aux PJs.
+
+Les points d'influence des PJs permettent de déterminer le nombre de ressources qu'une organisation est prête à engager pour les aider ou les gêner, mais ce n'est pas le seul élément de ce calcul. Si les PJs cherchent à établir une relation positive avec une organisation, ils peuvent se retrouver limités dans les avantages qu'ils peuvent obtenir tant qu'ils n'ont pas accompli certaines tâches. Par exemple, la plupart des organisations limitent le nombre de ressources qu'elles mettent à la disposition des non-membres, de sorte que les PJs peuvent avoir besoin de s'inscrire officiellement pour y avoir accès. D'autre part, une organisation en désaccord avec les PJs ne devrait pas réagir de la même manière à des insultes mineures de la part des PJs qu'à des PJs paralysant une de ses opérations majeures. Les neuf rangs d'influence présentés ci-dessous prennent en compte les tâches que les PJs peuvent accomplir pour réussir à modifier fondamentalement leur relation avec une organisation (voir le Tableau 3-1 page 113 pour des exemples). Pour atteindre un nouveau rang d'influence, les PJs doivent accumuler (ou perdre) un certain nombre de points d'influence, à la discrétion du MJ, et accomplir toutes les tâches requises fixées par le MJ. Voir l'encadré Paliers d'influence ci-contre pour des directives sur la définition du nombre de points d'influence requis pour chaque rang. Les rangs d'influence possibles, et leurs significations, sont présentés ci-dessous.
+
+====Rangs positifs====
+À ces rangs, l'organisation ne se soucie pas des PJs ou les considère comme des alliés.
+* '''Inconnus (Rang 0).''' L'organisation ne sait pas qui sont les PJs, ou ne les considère pas comme pertinents.
+* '''Alliés connus (Rang 1).''' Les actions des PJs ont prouvé qu'ils sont en accord avec les objectifs de l'organisation. Un ou plusieurs PJs peuvent être des membres de rang inférieur.
+* '''Respectés (Rang 2).''' Les PJs ont rendu des services importants à l'organisation. Certains membres de rang inférieur de l'organisation admirent les PJs. Un ou plusieurs PJs sont des membres en règle de l'organisation.
+* '''Admirés (Rang 3).''' Les membres moyens de l'organisation admirent les PJs. Certains membres de rang inférieur peuvent avoir une forte loyauté envers les PJs. Les PJs occupent des postes importants au sein de l'organisation.
+* '''Vénérés (Rang 4).''' Bien que les PJs ne soient pas les dirigeants officiels de l'organisation, ils en sont des membres clés. Les PJs peuvent diriger et façonner la politique.
+
+
+====Rangs négatifs====
+A ces rangs, une organisation s'oppose activement aux PJs.
+* '''Opposants connus (Rang -1).''' L'organisation a une opinion défavorable des PJs. Elle peut agir contre les PJs s'ils interfèrent dans ses affaires, mais l'organisation se concentre surtout sur ses propres objectifs.
+* '''Mal aimés (Rang -2).''' L'organisation engage certaines ressources pour cibler les PJs, même si les PJs n'interfèrent pas activement avec ses objectifs, et engage des représailles lorsque les PJs agissent contre elle.
+* '''Détestés (Rang -3).''' L'organisation cherche à discréditer, humilier ou tuer les PJs, et y consacre des ressources importantes. Cependant, l'organisation privilégie son pouvoir et sa stabilité à long terme plutôt que de nuire aux PJs.
+* '''Chassés (Rang -4).''' L'organisation cherche à discréditer, humilier ou tuer les PJs, et est prête à sacrifier suffisamment de temps, de ressources et de vies pour s'affaiblir de manière significative dans la poursuite de cet objectif. Même les dirigeants de l'organisation peuvent risquer leur vie dans la poursuite de la chute des PJs.
+
+
+{s:Reference|GAGNERPOINTS}
+====Gagner des points d'influence====
+Au fur et à mesure que les PJs accomplissent des tâches qui profitent à une organisation, ils gagnent des points d'influence. Accomplir les faveurs demandées par une organisation est le moyen le plus efficace pour les PJs d'accumuler des points d'influence avec cette organisation (voir la section [[Influence organisationnelle#FAVEURS|Faveurs]]). Une faveur typique rapporte aux PJs de 2 à 5 points d'influence, en fonction de la difficulté et du danger de la faveur à accomplir. Voir la section Faveurs pour plus de détails. Les PJs peuvent également gagner des points d'influence auprès d'une organisation en effectuant des actions qui, par coïncidence, servent les intérêts de l'organisation. De telles actions rapportent généralement aux PJs 1 ou 2 points d'influence. Par exemple, si les PJs appréhendent un voleur de bijoux notoire qui a volé dans leurs propres coffres (ainsi que dans ceux des nobles locaux), ils peuvent gagner un point d'influence auprès de la noblesse locale. Les PJs peuvent également gagner des points d'influence en établissant une relation de confiance avec un membre de l'organisation. Le système d'[[Influence individuelle|influence individuelle]] que vous trouverez au début de cette section est un bon moyen de créer une rencontre basée sur l'amélioration de l'opinion de ce PNJ sur les PJs, tandis que le système de [[Duels verbaux|duels verbaux]] en est un autre. Le nombre de points d'influence organisationnelle que les PJs peuvent gagner en obtenant l'approbation d'un seul PNJ au sein de l'organisation varie généralement de 1 à 5. Le soutien d'un membre de base de l'organisation vaut au maximum 1 point d'influence, tandis que le soutien d'un des leaders de l'organisation vaut 5 points d'influence, et peut valoir plus dans des circonstances particulières, à la discrétion du MJ.
+
+{s:Reference|PERDREPOINTS}
+====Perdre des points d'influence====
+En général, les PJs ne cherchent pas activement à perdre des points d'influence avec une organisation. Cependant, les actions des PJ au cours d'une campagne sont susceptibles de les mettre en désaccord avec une ou plusieurs organisations, et les PJ peuvent par inadvertance nuire à des organisations qu'ils ne souhaitent pas contrarier. Chaque fois que les PJs sabotent activement les intérêts d'une organisation, ils perdent de 2 à 5 points d'influence avec cette organisation. Si les PJs font des actions qui, par coïncidence, vont à l'encontre des intérêts de l'organisation, ils perdent 1 ou 2 points d'influence. Si les PJs bâclent terriblement une tentative de rendre service à une organisation, ils peuvent également perdre 1 ou 2 points d'influence. Si les PJs portent atteinte à la réputation ou aux finances d'un membre éminent, ils perdent de 1 à 3 points d'influence, en fonction de l'ampleur des dégâts et du pouvoir que ce membre exerce au sein de l'organisation. Les PJs perdent également des points d'influence s'ils blessent un membre éminent de l'organisation. Tuer des membres d'une organisation est un moyen particulièrement efficace de perdre de l'influence. Pour la plupart des organisations, chaque fois que les PJs tuent un ou plusieurs membres d'une organisation, ils perdent au moins 5 points d'influence par incident. Si l'organisation est l'antagoniste principal de la campagne ou de l'arc narratif, le MJ peut envisager d'utiliser le système de [[Némésis UI|némésis]] pour compléter les règles d'influence organisationnelle, en particulier si l'organisation est dirigée par un seul individu.
+
+Le coup le plus dur porté à la réputation des PJs au sein de l'organisation est la trahison. Pour être considérés comme des traîtres à l'organisation, les PJ doivent violer les principes fondamentaux de l'organisation tout en utilisant les ressources propres de l'organisation contre elle. Si une organisation favorable aux PJs est convaincue de la trahison des PJs, ceux-ci perdent immédiatement un nombre de points d'influence égal au double de leur total actuel, ce qui revient à inverser leur position au sein du groupe. En général, plus le rang d'influence des PJs est élevé, plus l'organisation a besoin de preuves avant de considérer toute accusation de trahison comme crédible. Si une organisation déclare les PJs traîtres, il est possible (bien que difficile) pour eux de racheter leur réputation. En général, ce processus nécessite que les PJs retrouvent et discréditent la source de la preuve calomnieuse. Ce faisant, les PJ retrouvent leur total de points d'influence initial et obtiennent probablement des récompenses supplémentaires de l'organisation pour avoir démasqué la véritable menace qui pèse sur elle. S'ils ne se disculpent que partiellement, ils peuvent récupérer une partie mais pas la totalité de leurs points d'influence.
+
+===Interactions avec l'organisation===
+Les interactions des PJs avec les organisations ne sont souvent qu'une partie d'une tapisserie politique plus large. Les alliances et les rivalités entre les organisations déterminent la façon dont chaque organisation réagit aux actions des PJs. Si deux organisations sont rivales, elles demandent généralement aux PJs de choisir un camp. Les PJs peuvent automatiquement perdre des points d'influence auprès de l'une d'elles pour avoir soutenu l'autre. Par exemple, si les PJs rendent service à une faction pendant une guerre et gagnent des points d'influence avec cette faction, ils perdent un nombre égal de points d'influence avec les rivaux de cette faction. Dans des circonstances moins extrêmes, les PJs peuvent perdre la moitié des points d'influence qu'ils gagnent.
+
+Alors que les rivalités entre les organisations rendent difficile une loyauté partagée, les allégeances entre plusieurs organisations peuvent aider les PJs à accumuler de l'influence plus rapidement qu'ils ne le pourraient autrement, et fournir aux PJs un accès à des ressources supplémentaires. Si les PJs aident ou nuisent à l'une de deux organisations alliées, considérez qu'ils travaillent par coïncidence pour ou contre les intérêts de la seconde organisation pour le calcul du nombre de points d'influence que les PJs gagnent ou perdent.
+
+Au fil de la campagne, le réseau d'alliances et de rivalités entre les organisations peut changer. Un changement soudain d'allégeance ne modifie pas rétroactivement le total de points d'influence des PJs.
+
+{s:Reference|PREDOMINANCE}
+===Prédominance===
+La prédominance d'une organisation représente le pouvoir politique et social de cette organisation dans sa communauté d'origine ou sa zone d'influence. Les catégories d'importance sont : faible, moyenne, forte et prédominante. En général, une organisation faible ne peut fournir qu'une aide simple dans son domaine d'action limité. La plupart des organisations faibles sont désireuses de recruter de nouveaux membres pour accroître leur importance, bien que certaines apprécient le peu d'attention qu'elles suscitent auprès des forces extérieures. Un gang de pickpockets est un exemple d'organisation faible. En comparaison, une organisation moyenne occupe une place bien établie dans la structure de pouvoir de sa région, et a quelques connexions et contacts avec d'autres organisations locales. Une guilde de voleurs est probablement une organisation moyenne. Une organisation forte, en revanche, peut se trouver au sommet de la structure du pouvoir dans son domaine d'activité, ou être l'une des nombreuses organisations qui détiennent le pouvoir à l'échelle régionale ou nationale. La cathédrale d'une divinité majeure dans un État aux multiples traditions religieuses est probablement une organisation forte. Enfin, une organisation prédominante est le chef incontesté de la structure de pouvoir dans son domaine d'activité - le corps dirigeant d'une nation est un exemple d'organisation prédominante, tout comme une guilde de marchands qui contrôle efficacement le commerce dans une grande région.
+
+===Faveurs===
+Les faveurs sont au cœur du système d'influence organisationnelle. Lorsque les PJs accomplissent une faveur pour une organisation, ils peuvent soit gagner des points d'influence, soit obtenir une faveur de l'organisation en retour. Les PJs peuvent dépenser les faveurs qu'ils ont gagnées pour obtenir des avantages de l'organisation.
+
+Les PJs peuvent gagner lentement des faveurs au fil du temps, après un certain nombre de sessions ou un temps de jeu approprié à la campagne. Ce taux fournit également une ligne directrice pour modéliser le comportement des organisations. Typiquement, ce taux est un point de référence approprié pour la fréquence à laquelle les organisations alliées approchent les PJs avec des demandes, ainsi que pour la fréquence à laquelle les organisations opposées agissent contre eux. En général, si une organisation est prête à accorder un avantage aux PJs lorsqu'ils ont un rang positif avec cette organisation, elle est prête à accorder ce même avantage à une personne agissant contre les PJs si elle atteint le rang négatif correspondant.
+
+'''Faveurs.''' Parfois, les tâches que les PJ doivent accomplir pour rendre service à une organisation découlent naturellement des événements de la campagne. Cependant, à d'autres moments, les PJs peuvent chercher activement à aider une organisation à un moment où de telles tâches ne sont pas si évidentes. Les 28 faveurs de la [[Influence organisationnelle#TABLE|Table 3-1 de la page 113]] sont suffisamment génériques pour s'appliquer à presque toutes les organisations. Certaines des tâches situées en haut du tableau sont trop insignifiantes pour les membres établis, tandis que les tâches situées en bas du tableau sont trop importantes pour les initiés. Pour utiliser ce tableau, lancez un d20, et ajoutez deux fois le rang d'influence des PJs au résultat.
+
+'''Avantages.''' Chaque organisation offre un ensemble unique d'avantages possibles aux PJs en fonction de leur rang d'influence. Les PJs peuvent dépenser une faveur qu'ils ont gagnée pour obtenir l'un des avantages qu'ils ont débloqués. Certains avantages deviennent gratuits une fois que les PJs deviennent suffisamment influents dans une organisation, ce qui permet aux PJs de les utiliser sans dépenser de faveur (voir [[Influence organisationnelle#PROFIL|Avantages page 113]]).
+
+{| CLASS="tablo centre autoalt toutgauche"
+|- CLASS="titre"
+| Résultat || {s:Reference|TABLE}Faveur
+|- CLASS="premier"
+| 1 || Délivrer un message à un membre de l'organisation.
+|-
+| 2 || Accomplir une tâche dégoutante ou désagréable pour l'organisation.
+|-
+| 3 || Assister l'organisation dans la collecte d'informations en vue d'une mission à venir.
+|-
+| 4 || Acheter et livrer des fournitures à un membre de l'organisation.
+|-
+| 5 || Assumer les fonctions d'un membre spécifique de rang inférieur de l'organisation pendant une semaine.
+|-
+| 6 || Produire une propagande verbale ou écrite en faveur de l'organisation.
+|-
+| 7 || Assurer la médiation d'un désaccord entre les membres de l'organisation.
+|-
+| 8 || Fournir des services de lancement de sorts ou d'autres tâches spécialisées à l'organisation pendant plusieurs jours.
+|-
+| 9 || Attribuez à l'organisation le mérite de vos propres actions publiques.
+|-
+| 10 || Collecter de l'argent pour l'organisation.
+|-
+| 11 || Aider à la construction ou à la rénovation d'un bâtiment à l'usage de l'organisation.
+|-
+| 12 || Enquêter sur la disparition d'un allié de l'organisation.
+|-
+| 13 || Faire don d'une somme d'argent importante à l'organisation.
+|-
+| 14 || Recruter un nouveau membre dans l'organisation.
+|-
+| 15 || Obtenir un objet important pour l'organisation.
+|-
+| 16 || Vaincre un ennemi difficile de l'organisation. Le FP de l'ennemi doit être égal ou supérieur au NMG du groupe + 2.
+|-
+| 17 || Aider un membre de l'organisation à échapper à une situation dangereuse.
+|-
+| 18 || Recueillir des informations précieuses pour l'organisation.
+|-
+| 19 || Encadrer un nouveau membre de l'organisation.
+|-
+| 20 || Convaincre un individu puissant de coopérer avec l'organisation.
+|-
+| 21 || Couvrir des preuves compromettantes contre l'organisation.
+|-
+| 22 || Planifier et exécuter une opération dangereuse pour atteindre un objectif difficile.
+|-
+| 23 || Saboter une organisation avec des objectifs opposés.
+|-
+| 24 || Rembourser les dettes de l'organisation en effectuant une tâche difficile pour une autre organisation.
+|-
+| 25 || Enquêter sur un possible traître au sein de l'organisation.
+|-
+| 26 || Créer une branche de l'organisation dans un nouveau quartier ou une nouvelle ville.
+|-
+| 27 || Représenter l'organisation dans une réunion aux enjeux extraordinaires.
+|-
+| 28 || Exercer les fonctions d'un membre clé de l'organisation pendant 1 semaine.
+|}
+
+===Opérations clandestines===
+Le système d'influence organisationnelle de base suppose que les PJs agissent comme un groupe unifié et ne font pas d'efforts particuliers pour dissimuler leurs identités et leurs activités. Dans une campagne basée sur l'intrigue, ces hypothèses ne sont pas toujours exactes. Le type d'opération clandestine le plus simple à arbitrer est une simple faveur secrète. Si les PJs accomplissent une faveur pour une organisation et dissimulent leurs actions, ne diminuez pas les points d'influence des PJs auprès des ennemis de cette organisation. Les PJs peuvent utiliser des identités secrètes pour effectuer des manœuvres plus compliquées, comme jouer plusieurs rôles dans un conflit, ou même infiltrer une organisation en tant qu'espions. Tant qu'une organisation sait que les PJs infiltrent ses rivaux, les membres de cette organisation continuent à croire qu'ils ont la loyauté des PJs ; ils négligent généralement les actions mineures que les PJs entreprennent contre l'organisation, tant que les PJs fournissent une justification plausible de leurs méfaits.
+
+Si les PJs utilisent des identités secrètes, suivez leur influence sous chaque jeu d'identités séparément tant qu'ils maintiennent la ruse. Maintenir deux jeux d'identités distincts sur une longue période devrait être difficile, mais pas impossible si les PJs sont prudents. Les caractéristiques communes entre les identités - qu'il s'agisse de caractéristiques physiques, de manières, d'équipement, de style de combat ou d'associés - représentent une menace d'exposition. Si les PJs atteignent des rangs d'influence élevés dans deux organisations opposées, leur risque d'être pris augmente de manière significative. La classe de [[Justicier|justicier]] est particulièrement bien adaptée au défi que représente le maintien d'identités multiples.
+
+Si une organisation découvre que les PJs ont deux identités distinctes, le total des points d'influence des PJs pour cette organisation peut changer radicalement. Si les deux identités des PJs sont alignées avec une organisation, le total des points d'influence des PJs peut atteindre la somme des points gagnés sous les deux identités. Inversement, si les deux identités des PJs sont opposées à une organisation, le total des points d'influence des PJs peut être aussi bas qu'un nombre négatif égal à la somme des deux. L'addition des deux valeurs permet parfois à une unique action de compter deux fois - cela signifie que l'organisation peut soit respecter le dévouement des PJs à leur cause, soit les injurier pour leur dévouement à s'y opposer. Dans la plupart des cas, cependant, le changement d'influence résultant devrait être moins extrême qu'une somme directe, même si l'organisation a une opinion favorable des deux identités. Si les PJs travaillent pour deux organisations opposées, consultez le dernier paragraphe de [[Influence organisationnelle#PERDREPOINTS|Perdre des points d'influence]], pour savoir comment une organisation réagit à une trahison.
+
+{s:Reference|PROFIL}
+===Profil des organisations===
+Le profil d'une organisation est ordonné comme suit.
+
+'''Nom.''' Le nom de l'organisation.
+
+'''Alignement et Prédominance.''' L'alignement d'une organisation est l'alignement qui représente le plus fidèlement ses politiques et ses actions. Bien que les membres individuels d'une organisation puissent être de n'importe quel alignement, les PNJs clés d'une organisation diffèrent généralement d'au plus une catégorie par rapport à l'alignement global de l'organisation. La prédominance d'une organisation peut être faible, moyenne, forte ou prédominante. Vous trouverez plus de détails sur la prédominance à [[Influence organisationnelle#PREDOMUNANCE|la page 111]].
+
+'''Taille.''' La taille d'une organisation est une approximation du nombre de ses membres actifs.
+
+'''Membres clés.''' Les membres clés d'une organisation sont à la fois les leaders visibles et les conspirateurs de l'ombre qui ont une grande influence.
+
+'''Valeurs.''' Une organisation peut valoriser un certain nombre de traits de caractère chez ses membres, tels que la créativité, la générosité, la fiabilité, l'aptitude à accomplir des tâches particulières ou le statut social.
+
+'''Objectifs publics.''' Toutes les organisations, sauf les plus clandestines, partagent certains de leurs objectifs avec le grand public.
+
+'''Objectifs privés.''' Il s'agit des objectifs privés de l'organisation dans son ensemble et de ses membres clés. Parfois, l'objectif privé d'un membre clé peut entrer en conflit avec l'objectif privé de l'organisation.
+
+'''Alliés et ennemis.''' Les organisations existent dans un certain contexte. Les principaux alliés et ennemis d'une organisation sont notés ici. Les PJs peuvent gagner ou perdre de l'influence sur une organisation en fonction de leurs interactions avec les organisations alliées ou opposées.
+
+'''Conditions de recrutement.''' La plupart des organisations ont une procédure d'adhésion officielle et attendent de leurs membres qu'ils respectent des engagements permanents (comme le paiement de cotisations).
+
+'''Limites d'influence.''' Souvent, les PJs doivent accomplir une tâche spécifique pour une organisation avant de pouvoir augmenter leur influence au-delà d'un certain seuil. La condition la plus courante est que les PJs rejoignent une organisation, mais les organisations peuvent exiger des tâches plus complexes ou des faveurs avant de compter les PJs parmi leurs alliés les plus fiables.
+
+'''Avantages.''' Cette section liste les faveurs que les PJs peuvent demander en fonction de leur rang d'influence dans l'organisation. Les PJs peuvent toujours choisir les avantages de la liste disponible pour leur rang actuel ou un rang inférieur au sein de l'organisation, et, à la discrétion du MJ, les PJs peuvent avoir accès aux avantages des rangs inférieurs pour un nombre réduit de faveurs, ou même gratuitement, si les PJ demandent l'avantage un nombre raisonnable de fois. Pour estimer les avantages que les PJs peuvent obtenir d'une organisation en dehors de sa base d'opérations, le MJ devrait diminuer le rang d'influence effective des PJ de manière appropriée, jusqu'à un minimum de rang 0 si les PJ sont entièrement hors de portée de l'organisation.
+
+'''Avantages uniques.''' Cette section détaille les avantages que les PJs peuvent obtenir de l'organisation en plus de ceux listés dans la section [[Influence organisationnelle#AVANTAGESCOMMUNS|Avantages communs]].
+
+{s:Reference|AVANTAGESCOMMUNS}
+====Avantages communs====
+Les avantages suivants apparaissent dans le profil de nombreuses organisations, et sont définis ci-dessous.
+
+'''Avantage réciproque.''' L'organisation tire parti de ses liens avec l'un de ses plus proches alliés pour le bénéfice des PJs. Les PJs peuvent acheter un avantage de la liste des avantages d'une organisation étroitement alliée en dépensant deux faveurs. Traitez le rang d'influence des PJs auprès de l'organisation alliée comme inférieur de 1 à leur rang auprès de l'organisation initiale.
+
+'''Emprunt de ressources.''' De nombreuses organisations permettent aux membres en règle d'emprunter de l'argent ou des objets pour de courtes périodes. Les PJs peuvent emprunter de l'argent ou des objets pour un montant total indiqué entre parenthèses. Si les PJs ne remboursent pas le prêt en temps voulu, ils risquent de perdre des points d'influence. En général, les PJ ne peuvent pas emprunter de ressources à une organisation s'ils ont des dettes en cours, et certaines organisations exigent des garanties. Les organisations ont plus de chances de posséder des objets en rapport avec leurs propres intérêts - un groupe de mercenaires peut prêter des armes et des armures, mais pas des symboles sacrés ou des grimoires, par exemple.
+
+'''Direction d'équipe.''' Lorsque les PJs atteignent un rang d'influence élevé au sein d'une organisation, celle-ci leur permet généralement de diriger une équipe de ses membres lors d'une mission. Les PJs sont censés protéger cette équipe et ramener les membres en vie. Les PJs peuvent diriger des groupes de la taille et de la force indiquées dans l'entrée de chaque faveur.
+
+'''Collecte d'information.''' Les PJs peuvent demander à plusieurs membres de l'organisation de les aider à rassembler des informations sur un sujet particulier, et gagnent un bonus de circonstances de +4 sur tous les tests de [[Diplomatie]] pour rassembler de telles informations.
+
+'''Recommandation.''' L'organisation valorise la réputation des PJs auprès de ses alliés. Les PJs gagnent un nombre de points d'influence égal à leur rang dans l'organisation auprès d'une des organisations alliées du groupe.
+
+===Exemples d'organisation===
+Les exemples d'organisations présentés dans cette section couvrent tous les niveaux d'influence possibles. Les organisations qui sont pertinentes pour chaque MJ dépendent de la campagne.
+
+D'autres idées d'organisations qui ne sont pas détaillées ci-dessous incluent une guilde d'assassins, un collège de bardes, une guilde de marchands, un musée, une société secrète et une université.
+
+<table width="100%"><tr><td width="49%">
+<div class="BD">
+{s:BDTitre|Petite bande}
+{s:BDTexte|Organisation faible, CN)}
+{s:BDTexte|'''Taille.''' 15 membres)}
+{s:BDTexte|'''Membres clés.'''}
+{s:BDSorts|'''Greedy Jenny''' ([[humain]] <nowiki>[</nowiki>f<nowiki>]</nowiki> [[ensorceleur]] 1, LM}
+{s:BDSorts|'''Martin Quickfingers''' ([[halfelin]] [[roublard]] 2, CN}
+{s:BDTexte|'''Valeurs.''' Cette modeste bande de petits escrocs est toujours prête à accepter de nouveaux membres qui font leurs preuves.}
+{s:BDTexte|'''Objectifs publics.''' Lorsqu'ils se font prendre, ces criminels prétendent qu'ils ne volent que ce qu'il faut pour survivre.}
+{s:BDTexte|'''Objectifs privés.''' Martin aimerait recruter d'autres personnes malchanceuses pour rejoindre l'organisation en pleine expansion, tandis que Jenny ne se soucie que de ses propres profits.}
+{s:BDTexte|'''Alliés.''' La petite bande est alliée aux mendiants locaux, qui leur fournissent des informations en échange de petites quantités de nourriture et de vêtements.}
+{s:BDTexte|'''Ennemis.''' La garde locale n'a pas encore eu vent de ces voleurs, mais elle s'y opposerait si elle avait connaissance de leurs activités.}
+{s:BDTexte|'''Conditions de recrutement.''' Les PJs doivent voler un objet d'une valeur d'au moins 20 po, et donner la moitié de la valeur de l'objet à la petite bande.}
+{s:BDTexte|'''Limites d'influence.''' Un PJ doit rejoindre officiellement les voleurs pour passer au rang 1. Si un PJ atteint le rang 3, Martin considère ce PJ comme une menace et tente de l'éliminer. Vaincre Martin fait de ce PJ le chef de l'organisation, et passe son rang à 4.}
+{s:BDTexte|'''Avantages.''' Ces petits voleurs se regroupent pour s'aider à survivre et à faire du profit.}
+{s:BDSorts|''Rang 1.'' emprunt de ressources (10 po), renseignement (+6), vigie (1 chemin, +6)}
+{s:BDSorts|''Rang 2.'' collecte d'information, diversion (+6), emprunt de ressources (50 po), pickpocket (+8), recommandation}
+{s:BDSorts|''Rang 3.'' avantage réciproque, emprunt de ressources (250 po)}
+{s:BDSorts|''Rang 4.'' direction d'équipe (1d4 roublards de niveau 1), emprunt de ressources (500 po)}
+{s:BDTexte|'''Avantages uniques.''' La petite bande accorde les avantages inhabituels suivants.}
+{s:BDSorts|''Case.'' Un groupe de voleurs examine une zone, à la recherche de gardes, de cachettes et d'entrées. Le bonus total en [[Perception]] des voleurs est de +6.}
+{s:BDSorts|''Diversion.'' Un groupe de voleurs crée une diversion pour permettre aux PJs de se faufiler entre les gardes ou autres yeux vigilants. Le bonus total en [[Bluff]] des voleurs est de +6.}
+{s:BDSorts|''Pickpocket.'' Un voleur tente de prendre un objet spécifique à une personne spécifique. Le bonus total du voleur en [[Escamotage]] est de +8. Si le voleur estime que la situation est trop dangereuse, il en informe les PJs et refuse de tenter la tâche - dans ce cas, la faveur n'est pas dépensée.}
+{s:BDSorts|''Vigie.'' Un voleur agit comme un guetteur, surveillant un chemin à l'affut des gardes ou des témoins qui y passent. Le bonus total en [[Perception]] du voleur est de +6.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Guilde de voleurs}
+{s:BDTexte|Organisation moyenne, LM}
+{s:BDTexte|'''Taille.''' 200 membres}
+{s:BDTexte|'''Membres clés.''' }
+{s:BDSorts|'''Chef''' ([[demi-orque]] [[rôdeur]] 7, LM)}
+{s:BDSorts|'''Kalgeen''' ([[humain]] [[rat-garou]] <nowiki>[</nowiki>f<nowiki>]</nowiki> [[roublard]] 5, LM)}
+{s:BDTexte|'''Valeurs.''' Cette guilde de voleurs a un code de conduite strict pour ses membres, qui doivent veiller les uns sur les autres à tout moment et ne peuvent jamais voler les amis ou les parents des autres. La guilde valorise la loyauté et la débrouillardise.}
+{s:BDTexte|'''Objectifs publics.''' La guilde n'a pas d'objectifs déclarés publiquement.}
+{s:BDTexte|'''Objectifs privés.''' La guilde cherche à étendre sa portée à d'autres communautés.}
+{s:BDTexte|'''Alliés.''' La guilde est alliée à un groupe local de marchands.}
+{s:BDTexte|'''Ennemis.''' La guilde de voleurs s'est fait des ennemis parmi les organisations qu'elle cible régulièrement et les responsables locaux de l'application de la loi.}
+{s:BDTexte|'''Conditions de recrutement.''' Les PJs doivent voler un objet d'une valeur d'au moins 250 po, et donner la moitié de la valeur de l'objet à la guilde de voleurs.}
+{s:BDTexte|'''Limites d'influence.''' Un PJ doit rejoindre officiellement la guilde des voleurs pour passer au rang 2. Pour monter au rang 4, les PJs doivent exécuter un casse complexe (voir [[Casses|Les Casses]]).}
+{s:BDTexte|'''Avantages.''' Bien que cette guilde de voleurs ne puisse pas opérer ouvertement, elle aide ses membres à trouver des emplois potentiels.}
+{s:BDSorts|''Rang 1.'' case (+10), emprunt de ressources (100 po), vigie (2 chemins, +10)}
+{s:BDSorts|''Rang 2.'' collecte d'information, diversion (+10), emprunt de ressources (500 po), pickpocket (+12), recommandation}
+{s:BDSorts|''Rang 3.'' avantage réciproque, extraction de preuves, emprunt de ressources (2.500 po), pillage, recherche au marché noir}
+{s:BDSorts|''Rang 4.'' direction d'équipe (1d4 roublards de niveau 3 ou 3d4 roublards de niveau 1), emprunt de ressources (5.000 po)}
+{s:BDTexte|'''Avantages uniques.''' La guilde de voleurs accorde les avantages inhabituels suivants.}
+{s:BDSorts|''Case.'' Fonctionne comme l'avantage de la petite bande, sauf que le bonus total en [[Perception]] des voleurs est de +10.}
+{s:BDSorts|''Diversion.'' Fonctionne comme l'avantage de la petite bande, sauf que le bonus total en [[Bluff]] des voleurs est de +10.}
+{s:BDSorts|''Extraction de preuves.'' Un groupe de voleurs pénètre prudemment une scène où les PJs ont commis un crime et enlève les preuves. Cette capacité élimine les indices évidents, comme le corps d'une victime ou les notes laissées par les PJ sur les lieux, et augmente le DD de [[Perception]] pour trouver des indices plus subtils de 5.}
+{s:BDSorts|''Pickpocket.'' Fonctionne comme l'avantage de la petite bande, sauf que le bonus total en [[Escamotage]] des voleurs est de +12.}
+{s:BDSorts|''Pillage.'' La guilde de voleurs envoie un agent pour voler un objet spécifique dans un lieu sécurisé. L'agent bénéficie d'un bonus de compétence total de +10 aux tests de [[Discrétion]] et d'un bonus de compétence total de +12 aux tests de [[Sabotage]]. Cet avantage coûte de 1 à 3 faveurs, en fonction du danger encouru. Le voleur s'attend à ce que les PJs paient la moitié de la valeur de l'objet volé.}
+{s:BDSorts|''Recherche au marché noir.'' La guilde des voleurs repère tout type d'objet dont la valeur est supérieure à la valeur de base de la communauté, même si l'objet est illégal dans cette communauté, et s'arrange pour que les PJs l'achètent.}
+{s:BDSorts|''Vigie.'' Deux voleurs agissent comme des guetteurs, surveillant jusqu'à deux chemins à l'affut des gardes ou des témoins qui y passent. Le bonus total en [[Perception]] des voleurs est de +10.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Guide de mages}
+{s:BDTexte|Organisation forte, N}
+{s:BDTexte|'''Taille.''' 520 membres}
+{s:BDTexte|'''Membres clés.''' }
+{s:BDSorts|'''Archimage Theona Tethril''' ([[humain]] <nowiki>[</nowiki>f<nowiki>]</nowiki> [[magicien|devin]] 9, N)}
+{s:BDSorts|'''Maître des sceaux Falariel''' ([[elfe]] [[magicien|abjurateur]] 7, NB)}
+{s:BDTexte|'''Valeurs.''' La guilde de mages valorise la curiosité, la créativité et les aptitudes magiques.}
+{s:BDTexte|'''Objectifs publics.''' Réglementer l'utilisation de la magie pour le bien public.}
+{s:BDTexte|'''Objectifs privés.''' La guilde de mages recherche les connaissances arcaniques qu'elle juge trop dangereuses et stocke ces informations dans sa bibliothèque secrète hautement sécurisée. Le maître des sceaux protège les livres de l'accès public, tandis que l'archimage les utilise pour en savoir plus sur les personnes qui abuseraient des connaissances dangereuses contenues dans les tomes.}
+{s:BDTexte|'''Alliés.''' La guilde des mages est en bons termes avec plusieurs universités voisines et l'union des alchimistes.}
+{s:BDTexte|'''Ennemis.''' La guilde des mages s'est fait plusieurs ennemis parmi les cultes maléfiques et autres organisations qui utilisent le savoir profane.}
+{s:BDTexte|'''Conditions de recrutement.''' Pour rejoindre la guilde des mages, un PJ doit passer une semaine à enseigner des sorts aux membres de la guilde, ou apporter à la guilde un sort ou une connaissance des arcanes qu'elle ne possède pas déjà dans ses bibliothèques.}
+{s:BDTexte|'''Limites d'influence.''' Les PJs doivent tous rejoindre la guilde des mages avant de pouvoir atteindre le rang 2.}
+{s:BDTexte|'''Avantages.''' Cette guilde de mages assure la formation de ses membres et lance des sorts pour eux.}
+{s:BDSorts|''Rang 1.'' bibliothèque magique (sorts du ''Manuel des joueurs'' uniquement), emprunt de ressources (100 po)}
+{s:BDSorts|''Rang 2.'' bibliothèque érudite, bibliothèque magique (autres sorts), collecte d'information, emprunt de ressources (750 po), fabrication d'objet, lancement de sort (sorts de 1er et 2e niveaux), recommandation}
+{s:BDSorts|''Rang 3.'' avantage réciproque, emprunt de ressources (1.500 po), lancement de sort (sorts de 3e et 4e niveaux)}
+{s:BDSorts|''Rang 4.'' emprunt de ressources (4.000 po), lancement de sort (sorts de 5e niveaux)}
+{s:BDTexte|'''Avantages uniques.''' La guilde de mages accorde les avantages inhabituels suivants.}
+{s:BDSorts|''Bibliothèque érudite.'' Les PJs ont accès à la bibliothèque de la guilde, ce qui leur permet d'apprendre des secrets pertinents pour leurs aventures actuelles (pensez à utiliser le système de [[Recherches|recherche des pages 148-153]] pour gérer les recherches dans la bibliothèque érudite).}
+{s:BDSorts|''Bibliothèque magique.'' La guilde de mages permet aux PJs d'accéder à sa vaste bibliothèque de sorts. Les PJs peuvent apprendre un sort dans la bibliothèque. Les sorts du ''Manuel des joueurs'' coûtent 1 faveur, et tous les autres sorts disponibles coûtent 2 faveurs.}
+{s:BDSorts|''Fabrication d'objet.'' La guilde de mages fabrique une collection personnalisée de [[Parchemins magiques|parchemins]], [[Potions magiques|potions]] ou [[objets merveilleux]] pour les PJs. Les objets coûtent leur valeur marchande habituelle en pièces d'or, plus 1 faveur pour chaque tranche de 2 jours d'artisanat nécessaires.}
+{s:BDSorts|''Lancement de sort.'' Les PJs peuvent dépenser des faveurs au lieu de payer le coût habituel des services de [[Lancement de sort (objet)|lancement de sort]]. Un sort de 1er ou 2e niveau coûte 1 faveur, un sort de 3e ou 4e niveau coûte 2 faveurs, et un sort de 5e niveau coûte 3 faveurs. Le coût et la disponibilité des sorts dépendent du niveau des membres de la guilde (dans cette guilde, un sort de 5e niveau vient toujours de l'archimage elle-même, et est donc assez cher).}
+</div>
+</td><td width="2%">
+</td><td width="49%">
+<div class="BD">
+{s:BDTitre|Syndicat du crime}
+{s:BDTexte|Organisation prédominante, NM}
+{s:BDTexte|'''Taille.''' 15.000 membres}
+{s:BDTexte|'''Membres clés.''' }
+{s:BDSorts|'''Dame Alixis Drosain/Lyra''' ([[humain]] <nowiki>[</nowiki>f<nowiki>]</nowiki> [[justicier]] 12, N/NM)}
+{s:BDSorts|'''Nikolas Trivoy''' ([[humain]] [[enquêteur]] 7, N)}
+{s:BDSorts|'''Murmure''' ([[humain]] <nowiki>[</nowiki>f<nowiki>]</nowiki> [[tueur]] 10, NM)}
+{s:BDSorts|'''Zadreni''' ([[humain]] [[barde]] 9, N)}
+{s:BDTexte|'''Valeurs.''' Le syndicat valorise le talent et l'ambition, mais aussi la discrétion et la loyauté.}
+{s:BDTexte|'''Objectifs publics.''' Les objectifs publics du syndicat sont de gérer et de réguler la criminalité, de fournir des biens et des services de valeur et de dynamiser l'économie locale.}
+{s:BDTexte|'''Objectifs privés.''' Dans l'ensemble, les membres du syndicat recherchent la richesse, le pouvoir et le prestige. Bien que Lyra soit devenue le leader incontesté, la justicière ne sera pas satisfaite tant qu'elle ne contrôlera pas également le marché libre, sous son identité sociale de Dame Drosain. Nikolas se méfie de plus en plus de Lyra et cherche minutieusement des éléments qu'il pourrait utiliser contre elle.}
+{s:BDTexte|'''Alliés.''' Si peu d'organisations admettent publiquement leur alliance avec le syndicat du crime, de nombreux groupes bénéficient de tractations en sous-main.}
+{s:BDTexte|'''Ennemis.''' Le syndicat du crime s'est fait des ennemis dans plusieurs organisations importantes des nations voisines, y compris la maison royale d'un royaume voisin.}
+{s:BDTexte|'''Conditions de recrutement.''' Voler un objet unique et emblématique, tel qu'un tableau prisé de la collection d'un musée. Autrement, créer une entreprise légale dont les activités illégales fournissent aux PJs un bénéfice net d'au moins 100 po par mois.}
+{s:BDTexte|'''Limites d'influence.''' Chaque fois que les PJs souhaitent accéder à un nouveau rang, ils doivent prouver leur valeur à l'organisation, avec une tâche plus spectaculaire que leur dernière démonstration. Le syndicat a beaucoup de membres, et ne ménage pas son temps pour ceux qui ne veulent pas prouver leur valeur. Les PJs doivent déclarer leur allégeance pour atteindre le rang 1, et ils doivent devenir membres à part entière avant de pouvoir atteindre le rang 2.}
+{s:BDTexte|'''Avantages.''' Ce syndicat du crime peut protéger ses membres des conséquences de tous les crimes, sauf les plus odieux.}
+{s:BDSorts|''Rang 1.'' case (+15), collecte d'information, diversion (+15), emprunt de ressources (100 po), vigie (4 chemins, +15)}
+{s:BDSorts|''Rang 2.'' emprunt de ressources (1.000 po), extraction de preuves, pillage, recherche au marché noir, recommandation}
+{s:BDSorts|''Rang 3.'' avantage réciproque, destruction de preuve, direction d'équipe (1d4 PNJs de niveau 3 ou 3d4 PNJs de niveau 1), emprunt de ressources (5.000 po), manipulation du marché}
+{s:BDSorts|''Rang 4.'' direction d'équipe (1d4 PNJs de niveau 6 ou 5d4 PNJs de niveau 3), emprunt de ressources (15.000 po), maîtrise du marché noir}
+{s:BDTexte|'''Avantages uniques.''' Le syndicat du crime accorde les avantages inhabituels suivants.}
+{s:BDSorts|''Case.'' Fonctionne comme l'avantage de la petite bande, sauf que le bonus total en [[Perception]] des voleurs est de +15.}
+{s:BDSorts|''Diversion.'' Fonctionne comme l'avantage de la petite bande, sauf que le bonus total en [[Bluff]] des voleurs est de +15.}
+{s:BDSorts|''Destruction de preuve.'' Le syndicat du crime fait disparaître les preuves d'un crime commis par les PJs. Cette capacité fonctionne comme extraction de preuves (voir page 115), sauf que le DD de [[Perception]] pour trouver des preuves sur la scène du crime passe à 30 (ou augmente de 10, selon le plus élevé). Le syndicat décourage également les témoins de dénoncer les PJs, en utilisant une combinaison d'intimidation, de corruption, et même de magie altérant la mémoire. Cet avantage coûte 3 faveurs.}
+{s:BDSorts|''Extraction de preuves.'' Fonctionne comme l'avantage de la guilde de voleurs.}
+{s:BDSorts|''Maîtrise du marché noir.'' Le syndicat du crime explore toute l'étendue de ses contacts sur le marché noir pour trouver un objet pour les PJs. Il peut localiser presque tous les types d'objets dont la valeur est inférieure à la valeur de base du village. Les PJs peuvent utiliser la maîtrise du marché noir pour chercher un objet en dessous de la valeur de base du village par faveur dépensée. Les PJs peuvent aussi utiliser la maîtrise du marché noir pour chercher un seul objet au-dessus de la valeur de base du village, au prix de 3 faveurs. Il y a 50% de chances chaque mois que le syndicat trouve l'objet demandé. Si les PJs recherchent un objet unique, le syndicat peut être en mesure de fournir aux PJs la localisation de cet objet au prix de 2 faveurs.}
+{s:BDSorts|''Manipulation du marché.'' Le syndicat du crime peut manipuler les forces du marché pour détourner les affaires des rivaux des PJs et les diriger vers les entreprises que les PJs possèdent. Cette capacité produit un montant d'argent supplémentaire pour les PJs qui dépend de l'ampleur de la manipulation. Cette manne se présente sous la forme d'une augmentation des résultats obtenus avec les règles que vous utilisez pour déterminer le succès des entreprises des PJs (comme les [[Intermèdes|règles d'intermède]] du ''Guide de campagne''). Pour chaque faveur dépensée, les PJ peuvent gagner au maximum 1 000 po (avec un maximum de 5 000 po).}
+{s:BDSorts|''Pillage.'' Fonctionne comme l'avantage de la guilde de voleurs.}
+{s:BDSorts|''Recherche au marché noir.'' Fonctionne comme l'avantage de la guilde de voleurs.}
+{s:BDSorts|''Vigie.'' Un groupe de voleurs agissent comme des guetteurs, surveillant jusqu'à quatre chemins à l'affut des gardes ou des témoins qui y passent. Le bonus total en [[Perception]] des voleurs est de +15. Cette capacité coûte 2 faveurs. Autrement, les PJs peuvent acheter la capacité vigie comme décrite dans la guilde de voleurs au prix de 1 faveur.}
+</div>
+
+<div class="BD">
+{s:BDTitre|L'armée nationale}
+{s:BDTexte|Organisation prédominante, LN}
+{s:BDTexte|'''Taille.''' 18.000 membres}
+{s:BDTexte|'''Membres clés.''' }
+{s:BDSorts|'''Général Agnar''' ([[nain]] <nowiki>[</nowiki>f<nowiki>]</nowiki> [[guerrier]] 10, LB)}
+{s:BDSorts|'''Général Rortian''' ([[humain]] [[chevalier]] 12, LN)}
+{s:BDTexte|'''Valeurs.''' L'armée valorise l'ordre, la discipline, la loyauté et le service.}
+{s:BDTexte|'''Objectifs publics.''' L'objectif de l'armée est de protéger le peuple de sa nation et de lutter contre ses ennemis.}
+{s:BDTexte|'''Objectifs privés.''' Le général Rortian cherche à accroître sa gloire personnelle en se lançant dans une campagne d'expansion du territoire de sa nation.}
+{s:BDTexte|'''Alliés.''' L'armée de cette nation est en bons termes avec la plupart des organisations politiques de la nation. Elle est formellement alliée avec les armées des nations alliées.}
+{s:BDTexte|'''Ennemis.''' Les ennemis de cette armée sont les organisations politiques et militaires des nations ennemies.}
+{s:BDTexte|'''Conditions de recrutement.''' Pour rejoindre l'armée en tant que recrue, les PJs doivent suivre un entraînement et prouver leur capacité à suivre les ordres.}
+{s:BDTexte|'''Limites d'influence.''' La plupart des armées maintiennent une stricte hiérarchie de commandement. Les PJs doivent être promus à un grade militaire supérieur avant de pouvoir augmenter leur rang d'influence au sein de l'armée.}
+{s:BDTexte|'''Avantages.''' Cette force militaire est fière de ses soldats hautement entraînés et bien équipés.}
+{s:BDSorts|''Rang 1.'' emprunt de ressources (100 po), obtention d'arsenal (350 po)}
+{s:BDSorts|''Rang 2.'' collecte d'information, direction d'équipe (1d4 [[homme darme|hommes d'arme]] de niveau 1), emprunt de ressources (750 po), obtention d'arsenal (750 po), réapprentissage, recommandation}
+{s:BDSorts|''Rang 3.'' avantage réciproque, direction d'équipe (5d4 PNJs martiaux de niveau 3), emprunt de ressources (2.500 po), obtention d'arsenal (magique)}
+{s:BDSorts|''Rang 4.'' direction d'équipe (70 DV de PNJs, aucun de peut dépasser le niveau 7), direction de légion, emprunt de ressources (18.500 po)}
+{s:BDTexte|'''Avantages uniques.''' L'armée nationale accordent les avantages inhabituels suivants.}
+{s:BDSorts|''Obtention d'arsenal.'' L'armée nationale rassemble une collection d'armes et d'équipements ordinaires de son armurerie pour les PJs. Les PJs peuvent acheter cette collection pour 1 faveur ou son prix standard sur le marché. Au Rang 1, la valeur combinée est de 350 po ou moins. Au Rang 2, la valeur de cette collection passe à 750 po. Au Rang 3, les PJs peuvent acheter des armes et armures magiques de l'armée avec une réduction de 10% en dépensant 2 faveurs. Dans le cadre de la disponibilité des objets, l'armée compte comme une [[Villes#Les_communautés_dans_le_jeu_9|métropole]].}
+{s:BDSorts|''Direction de légion.'' L'armée nationale accorde aux PJs le commandement d'une [[Combat de masse#TAILLE|armée moyenne]] pendant 1 semaine par faveur dépensée. Cette force comprend 100 [[guerrier|guerriers]] de niveau 2 qui suivent les PJs loyalement. Si les PJ n'utilisent pas clairement cette force pour faire avancer les objectifs de l'armée ou si les PJ sont imprudents avec la vie des soldats, le rang d'influence des PJ est réduit à 3. Amener les soldats dans un donjon dont le niveau est approprié pour les PJ compte comme une mise en danger imprudente.}
+{s:BDSorts|''Réapprentissage.'' Les entraîneurs militaires travaillent avec les PJs, leur permettant de réapprendre des archétypes, des capacités de classe, des dons ou des rangs de compétence, selon les règles de [[réapprentissage]]. Au rang 2, chaque semaine de réapprentissage coûte 1 faveur et le coût standard en pièces d'or. Au Rang 3, l'armée couvre le coût en pièces d'or. Au Rang 4, les PJs peuvent réapprendre sans dépenser de faveurs ou d'argent.}
+</div>
+</td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Influence organisationnelle</fullName>
+</wikiPage>

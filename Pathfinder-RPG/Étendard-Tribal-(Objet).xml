@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Étendard tribal</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-24 22:07:02Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.Outils de compétences</link><link>Pathfinder-RPG.Traits de race</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils de compétences</link><link>Pathfinder-RPG.orque (race)</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.orque (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Orque.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Orque (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Orque.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 50 po ; &lt;b&gt;Poids&lt;/b&gt; 10 kg  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-De-Comp&#233;tences.html&quot; title=&quot;Outils de comp&#233;tences&quot;&gt;Outils de comp&#233;tences&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Mont&#233; sur un solide b&#226;ton de 4,5 m&#232;tres de haut, ce drapeau inspire tous les orques appartenant &#224; la tribu qu’il repr&#233;sente. Tant qu’ils sont dans un rayon de 18 m&#232;tres et peuvent voir l’&#233;tendard, les &lt;a class=&quot;pagelink&quot; href=&quot;Orque-(Race).html&quot; title=&quot;Les orques&quot;&gt;orques&lt;/a&gt; gagnent un bonus de moral de +1 &#224; leurs &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; contre les effets de terreur. L’&#233;tendard doit &#234;tre port&#233; dans une main par un membre de la tribu pour avoir un quelconque effet (il ne fournit aucun bonus s’il est accroch&#233; &#224; un mur, drap&#233; sur un tr&#244;ne, etc.) Si l’&#233;tendard est renvers&#233; (comme, par exemple, si son porteur le fait tomber dans la boue), ab&#238;m&#233;, d&#233;truit ou vol&#233;, les membres de la tribu re&#231;oivent un malus de -1 &#224; leurs &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d’attaque&lt;/a&gt; et &#224; leurs jets de sauvegarde contre les effets de terreur pendant l’heure qui suit. Si les orques r&#233;cup&#232;rent un &#233;tendard qui leur a &#233;t&#233; vol&#233;, les malus sont annul&#233;s et le bonus est restaur&#233;.
+]]></body>
+  <raw><![CDATA[{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}'''Prix''' 50 po ; '''Poids''' 10 kg  
+<span class="Catégorie">'''Catégorie''' [[Outils de compétences]]</span>
+<hr>
+Monté sur un solide bâton de 4,5 mètres de haut, ce drapeau inspire tous les orques appartenant à la tribu qu’il représente. Tant qu’ils sont dans un rayon de 18 mètres et peuvent voir l’étendard, les [[Orque (race)|orques]] gagnent un bonus de moral de +1 à leurs [[jds|jets de sauvegarde]] contre les effets de terreur. L’étendard doit être porté dans une main par un membre de la tribu pour avoir un quelconque effet (il ne fournit aucun bonus s’il est accroché à un mur, drapé sur un trône, etc.) Si l’étendard est renversé (comme, par exemple, si son porteur le fait tomber dans la boue), abîmé, détruit ou volé, les membres de la tribu reçoivent un malus de -1 à leurs [[jet dattaque|jets d’attaque]] et à leurs jets de sauvegarde contre les effets de terreur pendant l’heure qui suit. Si les orques récupèrent un étendard qui leur a été volé, les malus sont annulés et le bonus est restauré.]]></raw>
+  <fullName>Pathfinder-RPG.Étendard tribal (objet)</fullName>
+</wikiPage>

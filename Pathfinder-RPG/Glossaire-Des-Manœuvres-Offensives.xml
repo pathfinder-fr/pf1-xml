@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Glossaire des manœuvres offensives</title>
+  <categories><category>Pathfinder-RPG.Glossaire</category></categories>
+  <lastModified>2020-06-16 18:25:39Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Glossaire</link><link>Pathfinder-RPG.Glossaire des capacités, pouvoirs et aptitudes</link><link>Pathfinder-RPG.Glossaire des compétences</link><link>Pathfinder-RPG.Glossaire des dons</link><link>Pathfinder-RPG.Glossaire des manœuvres offensives</link><link>Pathfinder-RPG.Glossaire des monstres</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Glossaire des sorts</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.bousculade</link><link>Pathfinder-RPG.sale coup</link><link>Pathfinder-RPG.désarmement</link><link>Pathfinder-RPG.entraînement</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.renversement</link><link>Pathfinder-RPG.repositionnement</link><link>Pathfinder-RPG.subtilisation</link><link>Pathfinder-RPG.destruction</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Glossaire des dons</link><link>Pathfinder-RPG.Glossaire des sorts</link><link>Pathfinder-RPG.Glossaire des compétences</link><link>Pathfinder-RPG.Glossaire des manœuvres offensives</link><link>Pathfinder-RPG.Glossaire des capacités, pouvoirs et aptitudes</link><link>Pathfinder-RPG.Glossaire des monstres</link></outLinks>
+  <body><![CDATA[&lt;script type=&quot;text/javascript&quot;&gt;
+addEvent(window, &quot;load&quot;, sortables_init);
+ 
+var SORT_COLUMN_INDEX;
+ 
+function sortables_init() {
+    // Find all tables with class sortable and make them sortable
+    if (!document.getElementsByTagName) return;
+    tbls = document.getElementsByTagName(&quot;table&quot;);
+    for (ti=0;ti&lt;tbls.length;ti++) {
+        thisTbl = tbls[ti];
+        if (((&#39; &#39;+thisTbl.className+&#39; &#39;).indexOf(&quot;sortable&quot;) != -1) &amp;&amp; (thisTbl.id)) {
+ 
+            //initTable(thisTbl.id);
+            ts_makeSortable(thisTbl);
+        }
+    }
+}
+ 
+function ts_makeSortable(table) {
+    if (table.rows &amp;&amp; table.rows.length &gt; 0) {
+        var firstRow = table.rows[0];
+    }
+    if (!firstRow) return;
+ 
+    // We have a first row: assume it&#39;s the header, and make its contents clickable links
+    for (var i=0;i&lt;firstRow.cells.length;i++) {
+        var cell = firstRow.cells[i];
+        var txt = ts_getInnerText(cell);
+        cell.innerHTML = &#39;&lt;a href=&quot;#&quot; class=&quot;sortheader&quot; onclick=&quot;ts_resortTable(this);return false;&quot;&gt;&#39;+txt+&#39;&lt;span class=&quot;sortarrow&quot;&gt;   &lt;/span&gt;&lt;/a&gt;&#39;;
+    }
+}
+ 
+function ts_getInnerText(el) {
+	if (typeof el == &quot;string&quot;) return el;
+	if (typeof el == &quot;undefined&quot;) { return el };
+	if (el.innerHTML) return el.innerHTML;	//Not needed but it is faster
+	var str = &quot;&quot;;
+ 
+	var cs = el.childNodes;
+	var l = cs.length;
+	for (var i = 0; i &lt; l; i++) {
+		switch (cs[i].nodeType) {
+			case 1: //ELEMENT_NODE
+				str += ts_getInnerText(cs[i]);
+				break;
+			case 3:	//TEXT_NODE
+				str += cs[i].nodeValue;
+				break;
+		}
+	}
+	return str;
+}
+ 
+function ts_resortTable(lnk) {
+    // get the span
+    var span;
+    for (var ci=0;ci&lt;lnk.childNodes.length;ci++) {
+        if (lnk.childNodes[ci].tagName &amp;&amp; lnk.childNodes[ci].tagName.toLowerCase() == &#39;span&#39;) span = lnk.childNodes[ci];
+    }
+    var spantext = ts_getInnerText(span);
+    var td = lnk.parentNode;
+    var column = td.cellIndex;
+    var table = getParent(td,&#39;TABLE&#39;);
+ 
+	var startline=1;
+	if (document.getElementById(table.id+&#39;_tbody&#39;)) {
+		startline = 0;
+		table = document.getElementById(table.id+&#39;_tbody&#39;);
+	}
+ 
+ 
+ 
+    // Work out a type for the column
+    if (table.rows.length &lt;= 1) return;
+    var itm = ts_getInnerText(table.rows[1].cells[column]);
+    sortfn = ts_sort_caseinsensitive;
+    if (itm.match(/^\d\d[\/-]\d\d[\/-]\d\d\d\d$/)) sortfn = ts_sort_date;
+    if (itm.match(/^\d\d[\/-]\d\d[\/-]\d\d$/)) sortfn = ts_sort_date;
+    if (itm.match(/^[&#163;$]/)) sortfn = ts_sort_currency;
+    if (itm.match(/^[\d\.]+$/)) sortfn = ts_sort_numeric;
+    SORT_COLUMN_INDEX = column;
+    var firstRow = new Array();
+    var newRows = new Array();
+    for (i=0;i&lt;table.rows[0].length;i++) { firstRow[i] = table.rows[0][i]; }
+    for (j=startline;j&lt;table.rows.length;j++) { newRows[j-startline] = table.rows[j]; }
+ 
+    newRows.sort(sortfn);
+ 
+    if (span.getAttribute(&quot;sortdir&quot;) == &#39;down&#39;) {
+        ARROW = &#39;  ?&#39;;
+        newRows.reverse();
+        span.setAttribute(&#39;sortdir&#39;,&#39;up&#39;);
+    } else {
+        ARROW = &#39;  ?&#39;;
+        span.setAttribute(&#39;sortdir&#39;,&#39;down&#39;);
+    }
+ 
+    // We appendChild rows that already exist to the tbody, so it moves them rather than creating new ones
+    // don&#39;t do sortbottom rows
+    for (i=0;i&lt;newRows.length;i++) { if (!newRows[i].className || (newRows[i].className &amp;&amp; (newRows[i].className.indexOf(&#39;sortbottom&#39;) == -1))) table.tBodies[0].appendChild(newRows[i]);}
+    // do sortbottom rows only
+    for (i=0;i&lt;newRows.length;i++) { if (newRows[i].className &amp;&amp; (newRows[i].className.indexOf(&#39;sortbottom&#39;) != -1)) table.tBodies[0].appendChild(newRows[i]);}
+ 
+    // Delete any other arrows there may be showing
+    var allspans = document.getElementsByTagName(&quot;span&quot;);
+    for (var ci=0;ci&lt;allspans.length;ci++) {
+        if (allspans[ci].className == &#39;sortarrow&#39;) {
+            if (getParent(allspans[ci],&quot;table&quot;) == getParent(lnk,&quot;table&quot;)) { // in the same table as us?
+                allspans[ci].innerHTML = &#39;   &#39;;
+            }
+        }
+    }
+ 
+    span.innerHTML = ARROW;
+}
+ 
+function getParent(el, pTagName) {
+	if (el == null) return null;
+	else if (el.nodeType == 1 &amp;&amp; el.tagName.toLowerCase() == pTagName.toLowerCase())	// Gecko bug, supposed to be uppercase
+		return el;
+	else
+		return getParent(el.parentNode, pTagName);
+}
+function ts_sort_date(a,b) {
+    // y2k notes: two digit years less than 50 are treated as 20XX, greater than 50 are treated as 19XX
+    aa = ts_getInnerText(a.cells[SORT_COLUMN_INDEX]);
+    bb = ts_getInnerText(b.cells[SORT_COLUMN_INDEX]);
+    if (aa.length == 10) {
+        dt1 = aa.substr(6,4)+aa.substr(3,2)+aa.substr(0,2);
+    } else {
+        yr = aa.substr(6,2);
+        if (parseInt(yr) &lt; 50) { yr = &#39;20&#39;+yr; } else { yr = &#39;19&#39;+yr; }
+        dt1 = yr+aa.substr(3,2)+aa.substr(0,2);
+    }
+    if (bb.length == 10) {
+        dt2 = bb.substr(6,4)+bb.substr(3,2)+bb.substr(0,2);
+    } else {
+        yr = bb.substr(6,2);
+        if (parseInt(yr) &lt; 50) { yr = &#39;20&#39;+yr; } else { yr = &#39;19&#39;+yr; }
+        dt2 = yr+bb.substr(3,2)+bb.substr(0,2);
+    }
+    if (dt1==dt2) return 0;
+    if (dt1&lt;dt2) return -1;
+    return 1;
+}
+ 
+function ts_sort_currency(a,b) { 
+    aa = ts_getInnerText(a.cells[SORT_COLUMN_INDEX]).replace(/[^0-9.]/g,&#39;&#39;);
+    bb = ts_getInnerText(b.cells[SORT_COLUMN_INDEX]).replace(/[^0-9.]/g,&#39;&#39;);
+    return parseFloat(aa) - parseFloat(bb);
+}
+ 
+function ts_sort_numeric(a,b) { 
+ 
+    aa = parseFloat(ts_getInnerText(a.cells[SORT_COLUMN_INDEX]));
+    if (isNaN(aa)) aa = -1;
+    bb = parseFloat(ts_getInnerText(b.cells[SORT_COLUMN_INDEX])); 
+    if (isNaN(bb)) bb = -1;
+    return aa-bb;
+}
+ 
+function removeAccents(s) {
+    var r = s.toLowerCase();
+    r = r.replace(new RegExp(/\s/g),&quot;&quot;);
+    r = r.replace(new RegExp(/[&#224;&#225;&#226;&#227;&#228;&#229;]/g),&quot;a&quot;);
+    r = r.replace(new RegExp(/&#230;/g),&quot;ae&quot;);
+    r = r.replace(new RegExp(/&#231;/g),&quot;c&quot;);
+    r = r.replace(new RegExp(/[&#232;&#233;&#234;&#235;]/g),&quot;e&quot;);
+    r = r.replace(new RegExp(/[&#236;&#237;&#238;&#239;]/g),&quot;i&quot;);
+    r = r.replace(new RegExp(/&#241;/g),&quot;n&quot;);                
+    r = r.replace(new RegExp(/[&#242;&#243;&#244;&#245;&#246;]/g),&quot;o&quot;);
+    r = r.replace(new RegExp(/œ/g),&quot;oe&quot;);
+    r = r.replace(new RegExp(/[&#249;&#250;&#251;&#252;]/g),&quot;u&quot;);
+    r = r.replace(new RegExp(/[&#253;&#255;]/g),&quot;y&quot;);
+    r = r.replace(new RegExp(/\W/g),&quot;&quot;);
+    return r;
+}
+function ts_sort_caseinsensitive(a,b) {
+    aa = ts_getInnerText(a.cells[SORT_COLUMN_INDEX]).toLowerCase();
+    bb = ts_getInnerText(b.cells[SORT_COLUMN_INDEX]).toLowerCase();
+    aa = removeAccents(aa);
+    bb = removeAccents(bb);
+    if (aa==bb) return 0;
+    if (aa&lt;bb) return -1;
+    return 1;
+}
+ 
+function ts_sort_default(a,b) {
+ 
+    aa = ts_getInnerText(a.cells[SORT_COLUMN_INDEX]);
+    bb = ts_getInnerText(b.cells[SORT_COLUMN_INDEX]);
+    if (aa==bb) return 0;
+    if (aa&lt;bb) return -1;
+    return 1;
+}
+ 
+ 
+function addEvent(elm, evType, fn, useCapture)
+// addEvent and removeEvent
+// cross-browser event handling for IE5+,  NS6 and Mozilla
+// By Scott Andrew
+{
+  if (elm.addEventListener){
+    elm.addEventListener(evType, fn, useCapture);
+    return true;
+  } else if (elm.attachEvent){
+    var r = elm.attachEvent(&quot;on&quot;+evType, fn);
+    return r;
+  } else {
+    alert(&quot;Handler could not be removed&quot;);
+  }
+}
+&lt;/script&gt;&lt;div class=&quot;presentation navmenu&quot;&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Liens vers les glossaires&lt;a class=&quot;headeranchor&quot; id=&quot;Liens_vers_les_glossaires_0&quot; href=&quot;#Liens_vers_les_glossaires_0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td width=&quot;33%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Des-Dons.html&quot; title=&quot;Glossaire des dons&quot;&gt;Glossaire des dons&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Des-Sorts.html&quot; title=&quot;Glossaire des sorts&quot;&gt;Glossaire des sorts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;33%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Des-Comp&#233;tences.html&quot; title=&quot;Glossaire des comp&#233;tences&quot;&gt;Glossaire des comp&#233;tences&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Des-Manœuvres-Offensives.html&quot; title=&quot;Glossaire des manœuvres offensives&quot;&gt;Glossaire des manœuvres offensives&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;td width=&quot;33%&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Des-Capacit&#233;s,-Pouvoirs-Et-Aptitudes.html&quot; title=&quot;Glossaire des capacit&#233;s, pouvoirs et aptitudes&quot;&gt;Glossaire des capacit&#233;s, pouvoirs et aptitudes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Des-Monstres.html&quot; title=&quot;Glossaire des monstres (toutes les gammes Pathfinder)&quot;&gt;Glossaire des monstres&lt;/a&gt; (toute la gamme Pathfinder)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;b&gt;Note.&lt;/b&gt; Le seul glossaire &#224; jour aujourd&#39;hui se trouve &lt;a class=&quot;externallink&quot; href=&quot;https://docs.google.com/spreadsheets/d/1MZ5Nz424T1CRSNi00Ky7jG-TrcKZeCYgqoClRjTfaXQ/edit?usp=sharing&quot; title=&quot;ici&quot; target=&quot;_blank&quot;&gt;ici&lt;/a&gt;.&lt;/table&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;i&gt;Cliquez sur un titre de colonnes pour trier le tableau. Pour faire un tri par cat&#233;gorie puis, &#224; l&#39;int&#233;rieur de chaque cat&#233;gorie, selon un autre crit&#232;re, triez d&#39;abord selon cet autre crit&#232;re (par ordre alphab&#233;tique par exemple) puis cliquez sur le titre de la colonne des cat&#233;gories.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;table CLASS=&quot;tablo sortable&quot; ID=&quot;tabcomp&quot;&gt;&lt;caption&gt;Glossaire des manœuvres offensives&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Anglais&lt;/th&gt;&lt;th&gt;Fran&#231;ais&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Bull Rush&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Bousculade.html&quot; title=&quot;bousculade&quot;&gt;Bousculade&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dirty Trick&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Salecoup.html&quot; title=&quot;sale coup&quot;&gt;Sale coup&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Disarm&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Desarmement.html&quot; title=&quot;d&#233;sarmement&quot;&gt;D&#233;sarmement&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drag&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Entrainement.html&quot; title=&quot;entra&#238;nement&quot;&gt;Entra&#238;nement&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Grapple&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;Lutte&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overrun&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Renversement.html&quot; title=&quot;renversement&quot;&gt;Renversement&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reposition&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Repositionnement.html&quot; title=&quot;repositionnement&quot;&gt;Repositionnement&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Steal&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Subtilisation.html&quot; title=&quot;subtilisation&quot;&gt;Subtilisation&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sunder&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Destruction.html&quot; title=&quot;destruction&quot;&gt;Destruction&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trip&lt;/td&gt;&lt;td CLASS=&quot;gauche&quot;&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;Croc-en-jambe&lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[{s:SortTable}{s:MenuGlossaires}
+
+''Cliquez sur un titre de colonnes pour trier le tableau. Pour faire un tri par catégorie puis, à l'intérieur de chaque catégorie, selon un autre critère, triez d'abord selon cet autre critère (par ordre alphabétique par exemple) puis cliquez sur le titre de la colonne des catégories.''
+
+{| CLASS="tablo sortable" ID="tabcomp"
+|+ Glossaire des manœuvres offensives
+! Anglais !! Français
+|-
+| Bull Rush
+| CLASS="gauche" | [[Bousculade]] 
+|-
+| Dirty Trick
+| CLASS="gauche" | [[Sale coup]] 
+|-
+| Disarm
+| CLASS="gauche" | [[Désarmement]]
+|-
+| Drag
+| CLASS="gauche" | [[Entraînement]] 
+|-
+| Grapple
+| CLASS="gauche" | [[Lutte]] 
+|-
+| Overrun
+| CLASS="gauche" | [[Renversement]] 
+|-
+| Reposition
+| CLASS="gauche" | [[Repositionnement]] 
+|-
+| Steal
+| CLASS="gauche" | [[Subtilisation]] 
+|-
+| Sunder
+| CLASS="gauche" | [[Destruction]] 
+|-
+| Trip
+| CLASS="gauche" | [[Croc-en-jambe]] 
+|}]]></raw>
+  <fullName>Pathfinder-RPG.Glossaire des manœuvres offensives</fullName>
+</wikiPage>

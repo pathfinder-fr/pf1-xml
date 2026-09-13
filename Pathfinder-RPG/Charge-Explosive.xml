@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Charge explosive</title>
+  <categories><category>Pathfinder-RPG.Don</category><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Src Manuel des joueurs - Classes avancées</category></categories>
+  <lastModified>2016-06-21 18:16:24Z</lastModified>
+  <version>3</version>
+  <inLinks><link>Pathfinder-RPG.Dons des classes avancées</link><link>Pathfinder-RPG.Manuel des joueurs - Classes avancées (Contenu)</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Tableau récapitulatif des dons - Temp</link><link>Pathfinder-RPG.Tableau récapitulatif des dons des classes avancées</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.BBA</link><link>Pathfinder-RPG.Sanguin</link><link>Pathfinder-RPG.Actions rapides</link><link>Pathfinder-RPG.coup critique</link></outLinks>
+  <body><![CDATA[&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des joueurs - Classes avanc&#233;es (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Class Guide/Manuel des joueurs - Classes avanc&#233;es&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMCA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;i&gt;Le personnage concentre la force de sa rage sanguine en une frappe capable d’exploser de puissance magique.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Conditions.&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Bonusdebasealattaque.html&quot; title=&quot;BBA&quot;&gt;BBA&lt;/a&gt; +7, capacit&#233; &#224; lancer des sorts de &lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html&quot; title=&quot;Le sanguin&quot;&gt;sanguin&lt;/a&gt; de niveau 2, pouvoir de classe &lt;a class=&quot;pagelink&quot; href=&quot;Sanguin.html#RAGESANGUINE&quot; title=&quot;Le sanguin&quot;&gt;rage sanguine&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Avantage.&lt;/b&gt; Lorsqu’il entre dans une rage sanguine, le personnage peut d&#233;penser un emplacement de sort de sanguin &#224; la fin de sa charge par une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Rapides.html&quot; title=&quot;Actions rapides&quot;&gt;action rapide&lt;/a&gt; pour impr&#233;gner son attaque de charge d’un surplus de puissance. Il inflige 1d6 points de d&#233;g&#226;ts suppl&#233;mentaires par niveau de l’emplacement de sort d&#233;pens&#233;. Ces d&#233;g&#226;ts suppl&#233;mentaires sont des d&#233;g&#226;ts de force qui ne sont pas multipli&#233;s sur un &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Coupcritique.html&quot; title=&quot;coup critique&quot;&gt;coup critique&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Si le lignage sanguin est associ&#233; &#224; un type d’&#233;nergie sp&#233;cifique (comme le sont les lignages draconique ou &#233;l&#233;mentaire), le personnage peut d&#233;cider d’augmenter les d&#233;g&#226;ts &#224; 1d8 par niveau de l’emplacement de sort d&#233;pens&#233; et ces d&#233;g&#226;ts suppl&#233;mentaires sont de ce type d’&#233;nergie.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
+&lt;table&gt;
+&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
+&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
+&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
+&lt;b&gt;&lt;i&gt;Ce don est d&#233;crit sous le nom Charge destructrice dans le manuel des classes avanc&#233;es&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
+var cible = this.parentNode.previousSibling.previousSibling;
+if (cible.style.display==&#39;none&#39;) {
+  $(cible).show(&#39;slide&#39;);
+  $(this).fadeTo(500,0.4);
+} else {
+  $(cible).hide(&#39;slide&#39;);
+  $(this).fadeTo(500,1);
+}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
+ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:mca}''Le personnage concentre la force de sa rage sanguine en une frappe capable d’exploser de puissance magique.''
+
+'''Conditions.''' [[BBA]] +7, capacité à lancer des sorts de [[sanguin]] de niveau 2, pouvoir de classe [[Sanguin#RAGESANGUINE|rage sanguine]].
+
+'''Avantage.''' Lorsqu’il entre dans une rage sanguine, le personnage peut dépenser un emplacement de sort de sanguin à la fin de sa charge par une [[Actions rapides|action rapide]] pour imprégner son attaque de charge d’un surplus de puissance. Il inflige 1d6 points de dégâts supplémentaires par niveau de l’emplacement de sort dépensé. Ces dégâts supplémentaires sont des dégâts de force qui ne sont pas multipliés sur un [[coup critique]]. 
+
+Si le lignage sanguin est associé à un type d’énergie spécifique (comme le sont les lignages draconique ou élémentaire), le personnage peut décider d’augmenter les dégâts à 1d8 par niveau de l’emplacement de sort dépensé et ces dégâts supplémentaires sont de ce type d’énergie.
+
+{s:Desambi|Ce don est décrit sous le nom Charge destructrice dans le manuel des classes avancées}
+]]></raw>
+  <fullName>Pathfinder-RPG.Charge explosive</fullName>
+</wikiPage>

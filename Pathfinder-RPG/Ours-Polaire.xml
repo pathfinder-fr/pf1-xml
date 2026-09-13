@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Ours, Ours polaire</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-20 17:35:26Z</lastModified>
+  <version>1</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Grizzly</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Ours polaire</link><link>Pathfinder-RPG.Ours polaire sanguinaire</link><link>Pathfinder-RPG.Ours sanguinaire</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Animal</link><link>Pathfinder-RPG.Odorat (capacité)</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Étreinte (capacité)</link><link>Pathfinder-RPG.lutte</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Endurance</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Grizzly</link><link>Pathfinder-RPG.Ours sanguinaire</link><link>Pathfinder-RPG.Ours polaire</link><link>Pathfinder-RPG.Ours polaire sanguinaire</link><link>Pathfinder-RPG.liste des compagnons animaux</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision nocturne</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Ours polaire&lt;div style=&quot;float:right;&quot;&gt;FP 5&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Animal&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Plaines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Plaines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Froid&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.199&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Animal.html&quot; title=&quot;Animal&quot;&gt;Animal&lt;/a&gt; de taille G, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;Odorat (Ext)&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 12, pris au d&#233;pourvu 17 (Dex +3, naturelle +8, taille -1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 52 (5d8+30)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +10, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 12 m, nage 6 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +9 (1d8+7) et 2 griffes, +9 (1d6+7 plus &lt;a class=&quot;pagelink&quot; href=&quot;&#201;treinte-(Capacit&#233;).html&quot; title=&quot;&#201;treinte (Ext)&quot;&gt;&#233;treinte&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 3 m ; &lt;b&gt;Allonge&lt;/b&gt; 1,50 m
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 25, &lt;b&gt;Dex&lt;/b&gt; 17, &lt;b&gt;Con&lt;/b&gt; 23, &lt;b&gt;Int&lt;/b&gt; 2, &lt;b&gt;Sag&lt;/b&gt; 16, &lt;b&gt;Cha&lt;/b&gt; 10
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +3 ; &lt;b&gt;BMO&lt;/b&gt; +11 (+15 en &lt;a class=&quot;pagelink&quot; href=&quot;Manœuvres-Offensives#Lutte.html&quot; title=&quot;lutte&quot;&gt;lutte&lt;/a&gt;) ; &lt;b&gt;DMD&lt;/b&gt; 24 (28 contre le &lt;a class=&quot;pagelink&quot; href=&quot;Croc-En-Jambe.html&quot; title=&quot;croc-en-jambe&quot;&gt;croc-en-jambe&lt;/a&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Endurance.html&quot; title=&quot;Endurance&quot;&gt;Endurance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talent.html&quot; title=&quot;Talent&quot;&gt;Talent&lt;/a&gt; (Survie)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +19, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; c&#244;tes ou plaines froides
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire ou couple
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes d&#39;ours&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grizzly.html&quot; title=&quot;Ours, Grizzly&quot;&gt;Grizzly&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ours-Sanguinaire.html&quot; title=&quot;Ours, Ours sanguinaire (Ours des cavernes)&quot;&gt;Ours sanguinaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ours-Polaire.html&quot; title=&quot;Ours, Ours polaire&quot;&gt;Ours polaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ours-Polaire-Sanguinaire.html&quot; title=&quot;Ours, Ours polaire sanguinaire&quot;&gt;Ours polaire sanguinaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;i&gt;Ce gros ours est enti&#232;rement blanc, &#224; l’exception de ses petits yeux noirs et de ses sombres babines retrouss&#233;es sur d’&#233;normes crocs luisants.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les ours polaires nagent le long des r&#233;gions littorales froides et parcourent les plaines glac&#233;es en qu&#234;te de proies, le plus souvent des phoques qu’ils attrapent au travers de trous creus&#233;s dans la glace. La graisse d’un ours polaire lui permet de rester &#224; flot et son long cou de garder sa t&#234;te au-dessus de la surface. Ses pattes d&#233;mesur&#233;es dot&#233;es d’orteils palm&#233;s lui permettent de se mouvoir sans ciller dans les eaux des mers glac&#233;es et un ours polaire peut nager sur plus de 150 kilom&#232;tres en un seul jour.&lt;br /&gt;&lt;br /&gt;M&#234;me s’ils peuvent ais&#233;ment &#233;viter les conflits en plongeant dans les remous oc&#233;aniques froids qui entourent leur tani&#232;re, les ours polaires sont connus pour leur intr&#233;pidit&#233; et attaqueront la plupart des cr&#233;atures s’ils se sentent menac&#233;s ou accul&#233;s. Cela fait d’eux des charognards particuli&#232;rement dangereux lorsqu’ils r&#244;dent autour de communaut&#233;s arctiques. Pourtant, quelques rares civilisations chassent les ours polaires pour leur viande, mais aussi pour leur fourrure et leurs os, qu’ils transforment en v&#234;tements et en outils vitaux. Nombre de ces cultures consid&#232;rent les ours polaires comme des animaux sacr&#233;s et honorent leur mort par le biais de rituels et de c&#233;r&#233;monies solennels.&lt;br /&gt;&lt;br /&gt;Les ours polaires vivent pendant une moyenne de 15 &#224; 20 ans, mais les habitants des r&#233;gions arctiques ont d&#233;j&#224; vu des ours d’une quarantaine d’ann&#233;es qui occupent alors une place l&#233;gendaire dans le folklore local. Un m&#226;le adulte p&#232;se entre 400 et 600 kilos, et les femelles entre 175 et 325 kilos.&lt;br /&gt;&lt;br /&gt;&lt;h3 class=&quot;separator&quot;&gt;L&#39;ours polaire comme &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Compagnons-Animaux.html&quot; title=&quot;Liste des compagnons animaux du druide&quot;&gt;compagnon animal&lt;/a&gt;&lt;a class=&quot;headeranchor&quot; id=&quot;Lours_polaire_comme_compagnon_animal__0&quot; href=&quot;#Lours_polaire_comme_compagnon_animal__0&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h3&gt;&lt;b&gt;Caract&#233;ristiques de d&#233;part :&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; P ; &lt;b&gt;Vitesse&lt;/b&gt; 12 m (8 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;); &lt;b&gt;CA&lt;/b&gt; armure naturelle +2 ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d4), 2 griffes (1d3) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; &lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Odorat-(Capacit&#233;).html&quot; title=&quot;odorat&quot;&gt;odorat&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;vision nocturne&quot;&gt;vision nocturne&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;D&#233;veloppement au niveau 4 :&lt;/b&gt; &lt;b&gt;Taille&lt;/b&gt; M ; &lt;b&gt;Attaque&lt;/b&gt; morsure (1d6), 2 griffes (1d4) ; &lt;b&gt;Caract&#233;ristiques&lt;/b&gt; For +4, Dex -2, Con +2.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ours polaire|FP 5}
+{s:pucem|Animal|Plaines|Froid}
+{s:BDTexte|''Source : Bestiaire 5 p.199''}
+{s:BDTexte|'''PX''' 1 600}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 12, pris au dépourvu 17 (Dex +3, naturelle +8, taille -1)}
+{s:BDTexte|'''pv''' 52 (5d8+30)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +10, '''Vol''' +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 12 m, nage 6 m}
+{s:BDTexte|'''Corps à corps''' morsure, +9 (1d8+7) et 2 griffes, +9 (1d6+7 plus [[Étreinte (capacité)|étreinte]])}
+{s:BDTexte|'''Espace occupé''' 3 m ; '''Allonge''' 1,50 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 25, '''Dex''' 17, '''Con''' 23, '''Int''' 2, '''Sag''' 16, '''Cha''' 10}
+{s:BDTexte|'''BBA''' +3 ; '''BMO''' +11 (+15 en [[lutte]]) ; '''DMD''' 24 (28 contre le [[croc-en-jambe]])}
+{s:BDTexte|'''Dons''' [[Course]], [[Endurance]], [[Talent]] (Survie)}
+{s:BDTexte|'''Compétences''' [[Natation]] +19, [[Perception]] +8, [[Survie]] +8}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' côtes ou plaines froides}
+{s:BDTexte|'''Organisation''' solitaire ou couple}
+{s:BDTexte|'''Trésor''' aucun}
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes d'ours
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Grizzly]] || 4
+|-
+| [[Ours sanguinaire]] || 7
+|-
+| [[Ours polaire]] || 5
+|-
+| [[Ours polaire sanguinaire]] || 8
+|}
+</div>''Ce gros ours est entièrement blanc, à l’exception de ses petits yeux noirs et de ses sombres babines retroussées sur d’énormes crocs luisants.''
+
+Les ours polaires nagent le long des régions littorales froides et parcourent les plaines glacées en quête de proies, le plus souvent des phoques qu’ils attrapent au travers de trous creusés dans la glace. La graisse d’un ours polaire lui permet de rester à flot et son long cou de garder sa tête au-dessus de la surface. Ses pattes démesurées dotées d’orteils palmés lui permettent de se mouvoir sans ciller dans les eaux des mers glacées et un ours polaire peut nager sur plus de 150 kilomètres en un seul jour.
+
+Même s’ils peuvent aisément éviter les conflits en plongeant dans les remous océaniques froids qui entourent leur tanière, les ours polaires sont connus pour leur intrépidité et attaqueront la plupart des créatures s’ils se sentent menacés ou acculés. Cela fait d’eux des charognards particulièrement dangereux lorsqu’ils rôdent autour de communautés arctiques. Pourtant, quelques rares civilisations chassent les ours polaires pour leur viande, mais aussi pour leur fourrure et leurs os, qu’ils transforment en vêtements et en outils vitaux. Nombre de ces cultures considèrent les ours polaires comme des animaux sacrés et honorent leur mort par le biais de rituels et de cérémonies solennels.
+
+Les ours polaires vivent pendant une moyenne de 15 à 20 ans, mais les habitants des régions arctiques ont déjà vu des ours d’une quarantaine d’années qui occupent alors une place légendaire dans le folklore local. Un mâle adulte pèse entre 400 et 600 kilos, et les femelles entre 175 et 325 kilos.
+
+====L'ours polaire comme [[Liste des compagnons animaux|compagnon animal]]====
+'''Caractéristiques de départ :''' '''Taille''' P ; '''Vitesse''' 12 m (8 {s:c}); '''CA''' armure naturelle +2 ; '''Attaque''' morsure (1d4), 2 griffes (1d3) ; '''Caractéristiques''' For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; '''Particularités''' [[odorat]], [[vision nocturne]].
+
+'''Développement au niveau 4 :''' '''Taille''' M ; '''Attaque''' morsure (1d6), 2 griffes (1d4) ; '''Caractéristiques''' For +4, Dex -2, Con +2.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Ours polaire</fullName>
+</wikiPage>

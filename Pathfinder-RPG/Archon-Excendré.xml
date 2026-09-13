@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Archon, Excendré</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-12-20 17:16:19Z</lastModified>
+  <version>6</version>
+  <inLinks><link>Pathfinder-RPG.Archon</link><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Familles de monstres</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type archon</link><link>Pathfinder-RPG.sous-type Bien</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Loi</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Vision lucide</link><link>Pathfinder-RPG.Vision nocturne (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Vol (capacité)</link><link>Pathfinder-RPG.NLS</link><link>Pathfinder-RPG.concentration</link><link>Pathfinder-RPG.Détection du Mal</link><link>Pathfinder-RPG.Châtiment sacré</link><link>Pathfinder-RPG.Détection de pensées</link><link>Pathfinder-RPG.Immobilisation de monstre</link><link>Pathfinder-RPG.Invisibilité</link><link>Pathfinder-RPG.Localisation dobjet</link><link>Pathfinder-RPG.Localisation de créature</link><link>Pathfinder-RPG.Modification de mémoire</link><link>Pathfinder-RPG.Protection contre le Mal</link><link>Pathfinder-RPG.Refouler un souvenir</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Stabilisation</link><link>Pathfinder-RPG.Zone de vérité</link><link>Pathfinder-RPG.Boule de feu</link><link>Pathfinder-RPG.Changement de plan</link><link>Pathfinder-RPG.Colonne de feu</link><link>Pathfinder-RPG.Rejet du Mal</link><link>Pathfinder-RPG.Localisation suprême</link><link>Pathfinder-RPG.Orientation</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Enchaînement</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Vigilance</link><link>Pathfinder-RPG.Vigueur surhumaine</link><link>Pathfinder-RPG.Art de la magie</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Télépathie (capacité)</link><link>Pathfinder-RPG.Ne respire pas (capacité)</link><link>Pathfinder-RPG.épée longue (arme)</link><link>Pathfinder-RPG.feu (propriété)</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Souhait</link><link>Pathfinder-RPG.Miracle</link><link>Pathfinder-RPG.jet de sauvegarde</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.Archon</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Excendr&#233;&lt;div style=&quot;float:right;&quot;&gt;FP 12&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ville&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Bestiaire 5 p.36&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 19 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Archon.html&quot; title=&quot;Archon (sous-type)&quot;&gt;archon&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Bien.html&quot; title=&quot;Bien (sous-type)&quot;&gt;Bien&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Extraplanaire.html&quot; title=&quot;Extraplanaire (sous-type)&quot;&gt;extraplanaire&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Loi.html&quot; title=&quot;Loi (sous-type)&quot;&gt;Loi&lt;/a&gt;) de taille TG, LB
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +8 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Nocturne-(Capacit&#233;).html&quot; title=&quot;Vision nocturne (Ext)&quot;&gt;vision nocturne&lt;/a&gt; ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +28
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 29, contact 12, pris au d&#233;pourvu 25 (Dex +4, naturelle +17, taille -2 ; parade +2 contre le Mal)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 147 (14d10+70)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +10, &lt;b&gt;Vig&lt;/b&gt; +16, &lt;b&gt;Vol&lt;/b&gt; +16 ; +4 contre le poison
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 10/Mal ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; acide, &#233;lectricit&#233;, feu, froid, p&#233;trification ; &lt;b&gt;RM&lt;/b&gt; 23
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m, &lt;a class=&quot;pagelink&quot; href=&quot;Vol-(Capacit&#233;).html&quot; title=&quot;Vol (Ext ou Sur)&quot;&gt;vol&lt;/a&gt; 27 m (bonne)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; &#233;p&#233;e longue de feu +3, +25/+20/+15 (3d6+15/19-20 plus 1d6 feu)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Espace occup&#233;&lt;/b&gt; 4,50 m ; &lt;b&gt;Allonge&lt;/b&gt; 4,50 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; censure de texte
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pouvoirs magiques&lt;/b&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Nls.html&quot; title=&quot;NLS&quot;&gt;NLS&lt;/a&gt; 15 ; &lt;a class=&quot;pagelink&quot; href=&quot;Lancer-Des-Sorts#Concentration.html&quot; title=&quot;Concentration&quot;&gt;concentration&lt;/a&gt; +20)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+Constant — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-Du-Mal.html&quot; title=&quot;D&#233;tection du Mal&quot;&gt;d&#233;tection du Mal&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vision-Lucide.html&quot; title=&quot;Vision lucide&quot;&gt;vision lucide&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+&#192; volont&#233; — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ch&#226;timent-Sacr&#233;.html&quot; title=&quot;Ch&#226;timent sacr&#233;&quot;&gt;ch&#226;timent sacr&#233;&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;tection-De-Pens&#233;es.html&quot; title=&quot;D&#233;tection de pens&#233;es&quot;&gt;d&#233;tection de pens&#233;es&lt;/a&gt;&lt;/i&gt; (DD 17), d&#233;tection des mensonges (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Immobilisation-De-Monstre.html&quot; title=&quot;Immobilisation de monstre&quot;&gt;immobilisation de monstre&lt;/a&gt;&lt;/i&gt; (DD 20), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Invisibilit&#233;.html&quot; title=&quot;Invisibilit&#233;&quot;&gt;invisibilit&#233;&lt;/a&gt;&lt;/i&gt; (sur lui-m&#234;me uniquement), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-Dobjet.html&quot; title=&quot;Localisation d&amp;#39;objet&quot;&gt;localisation d&#39;objet&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-De-Cr&#233;ature.html&quot; title=&quot;Localisation de cr&#233;ature&quot;&gt;localisation de cr&#233;ature&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modification-De-M&#233;moire.html&quot; title=&quot;Modification de m&#233;moire&quot;&gt;modification de m&#233;moire&lt;/a&gt;&lt;/i&gt; (DD 19), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Protection-Contre-Le-Mal.html&quot; title=&quot;Protection contre le Mal&quot;&gt;protection contre le Mal&lt;/a&gt;&lt;/i&gt; (DD 16), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Refouler-Un-Souvenir.html&quot; title=&quot;Refouler un souvenir&quot;&gt;refouler un souvenir&lt;/a&gt;&lt;/i&gt; (DD 21), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Stabilisation.html&quot; title=&quot;Stabilisation&quot;&gt;stabilisation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Zone-De-V&#233;rit&#233;.html&quot; title=&quot;Zone de v&#233;rit&#233;&quot;&gt;zone de v&#233;rit&#233;&lt;/a&gt;&lt;/i&gt; (DD 17)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+3/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Boule-De-Feu.html&quot; title=&quot;Boule de feu&quot;&gt;boule de feu&lt;/a&gt;&lt;/i&gt; (DD 18), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changement-De-Plan.html&quot; title=&quot;Changement de plan&quot;&gt;changement de plan&lt;/a&gt;&lt;/i&gt; (DD 20), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Colonne-De-Feu.html&quot; title=&quot;Colonne de feu&quot;&gt;colonne de feu&lt;/a&gt;&lt;/i&gt; (DD 20), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rejet-Du-Mal.html&quot; title=&quot;Rejet du Mal&quot;&gt;rejet du Mal&lt;/a&gt;&lt;/i&gt; (DD 20)
+&lt;/div&gt;
+&lt;div class=&quot;BDsorts&quot;&gt;
+1/jour — &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Localisation-Supr&#234;me.html&quot; title=&quot;Localisation supr&#234;me&quot;&gt;localisation supr&#234;me&lt;/a&gt;&lt;/i&gt; (DD 23), &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Orientation.html&quot; title=&quot;Orientation&quot;&gt;orientation&lt;/a&gt;&lt;/i&gt; (DD 21)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 30, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; 20, &lt;b&gt;Int&lt;/b&gt; 16, &lt;b&gt;Sag&lt;/b&gt; 25, &lt;b&gt;Cha&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +14 ; &lt;b&gt;BMO&lt;/b&gt; +26 ; &lt;b&gt;DMD&lt;/b&gt; 40
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaques-R&#233;flexes.html&quot; title=&quot;Attaques r&#233;flexes&quot;&gt;Attaques r&#233;flexes&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Encha&#238;nement.html&quot; title=&quot;Encha&#238;nement&quot;&gt;Encha&#238;nement&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;flexes-Surhumains.html&quot; title=&quot;R&#233;flexes surhumains&quot;&gt;R&#233;flexes surhumains&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Science-De-Linitiative.html&quot; title=&quot;Science de l&amp;#39;initiative&quot;&gt;Science de l&#39;initiative&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigilance.html&quot; title=&quot;Vigilance&quot;&gt;Vigilance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Vigueur-Surhumaine.html&quot; title=&quot;Vigueur surhumaine&quot;&gt;Vigueur surhumaine&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Art-De-La-Magie.html&quot; title=&quot;Art de la magie&quot;&gt;Art de la magie&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (g&#233;ographie) +17, &lt;a class=&quot;pagelink&quot; href=&quot;Connaissances.html&quot; title=&quot;Connaissances&quot;&gt;Connaissances&lt;/a&gt; (histoire, myst&#232;res, plans, religion) +20, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +22, &lt;a class=&quot;pagelink&quot; href=&quot;Linguistique.html&quot; title=&quot;Linguistique&quot;&gt;Linguistique&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +28, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +28
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; abyssal, aklo, c&#233;leste, commun, draconique, elfe, gnome, infernal, nain ; &lt;a class=&quot;pagelink&quot; href=&quot;T&#233;l&#233;pathie-(Capacit&#233;).html&quot; title=&quot;T&#233;l&#233;pathie (Sur)&quot;&gt;t&#233;l&#233;pathie&lt;/a&gt; 30 m, langage universel
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; changement de taille, &lt;a class=&quot;pagelink&quot; href=&quot;Ne-Respire-Pas-(Capacit&#233;).html&quot; title=&quot;Ne respire pas (Ext)&quot;&gt;ne respire pas&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (Paradis)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, couple ou inquisition (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard (&lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;p&#233;e-Longue-(Arme).html&quot; title=&quot;&#201;p&#233;e longue&quot;&gt;&#233;p&#233;e longue&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Feu.html&quot; title=&quot;feu (propri&#233;t&#233;)&quot;&gt;feu&lt;/a&gt; +3&lt;/i&gt;, autres tr&#233;sors)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Censeur de texte (Sur).&lt;/b&gt; Un excendr&#233; peut tenter de d&#233;rober ou de modifier par magie un texte situ&#233; &#224; 30 m&#232;tres ou moins par une simple. Si personne ne porte ce texte sur lui, la tentative est automatiquement r&#233;ussie. Une cr&#233;ature en possession d’un texte doit effectuer un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 22 pour annuler ce pouvoir. Un texte d&#233;rob&#233; est directement t&#233;l&#233;port&#233; dans la main de l’excendr&#233;. Un texte modifi&#233; est d&#233;finitivement corrig&#233; selon les souhaits de l’excendr&#233; – il est possible de d&#233;tecter cette modification par magie, mais elle ne peut pas &#234;tre dissip&#233;e ou invers&#233;e, &#224; moins d’utiliser un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Souhait.html&quot; title=&quot;Souhait&quot;&gt;souhait&lt;/a&gt;&lt;/i&gt; ou un &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Miracle.html&quot; title=&quot;Miracle&quot;&gt;miracle&lt;/a&gt;&lt;/i&gt;. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; du &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;jet de sauvegarde&quot;&gt;jet de sauvegarde&lt;/a&gt; est bas&#233; sur le &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Changement de taille.&lt;/b&gt; Un excendr&#233; peut changer de forme pour adopter une version de taille P, M ou G de lui-m&#234;me. Cela ne modifie pas ses caract&#233;ristiques, seulement sa taille (et donc les d&#233;g&#226;ts de ses armes).
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;ul style=&quot;margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;Voir la description des &lt;a class=&quot;pagelink&quot; href=&quot;Archon.html&quot; title=&quot;Les archons&quot;&gt;archons&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;Cet humano&#239;de imposant n’a pas de bouche et porte une &#233;p&#233;e tout aussi enflamm&#233;e que ses ailes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les excendr&#233;s sont les censeurs du Paradis qui passent les plans au peigne fin &#224; la recherche de textes contenant des informations trop mal&#233;fiques ou dangereuses pour permettre leur existence. Ils accordent peu d’int&#233;r&#234;t &#224; la vie des individus ou aux h&#233;r&#233;sies ordinaires et s’attachent avant tout &#224; prot&#233;ger de la corruption les mortels dans leur ensemble.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Excendré|FP 12}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 5 p.36''}
+{s:BDTexte|'''PX''' 19 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type archon|archon]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]]) de taille TG, LB}
+{s:BDTexte|'''Init''' +8 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, ''[[vision lucide]]'', [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +28}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 29, contact 12, pris au dépourvu 25 (Dex +4, naturelle +17, taille -2 ; parade +2 contre le Mal)}
+{s:BDTexte|'''pv''' 147 (14d10+70)}
+{s:BDTexte|'''Réf''' +10, '''Vig''' +16, '''Vol''' +16 ; +4 contre le poison}
+{s:BDTexte|'''RD''' 10/Mal ; '''Immunités''' acide, électricité, feu, froid, pétrification ; '''RM''' 23}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m, [[Vol (capacité)|vol]] 27 m (bonne)}
+{s:BDTexte|'''Corps à corps''' épée longue de feu +3, +25/+20/+15 (3d6+15/19-20 plus 1d6 feu)}
+{s:BDTexte|'''Espace occupé''' 4,50 m ; '''Allonge''' 4,50 m}
+{s:BDTexte|'''Attaques spéciales''' censure de texte}
+{s:BDTexte|'''Pouvoirs magiques''' ([[NLS]] 15 ; [[concentration]] +20)}
+{s:BDSorts|Constant — ''[[détection du Mal]]'', ''[[vision lucide]]''}
+{s:BDSorts|À volonté — ''[[châtiment sacré]]'' (DD 19), ''[[détection de pensées]]'' (DD 17), détection des mensonges (DD 19), ''[[immobilisation de monstre]]'' (DD 20), ''[[invisibilité]]'' (sur lui-même uniquement), ''[[localisation dobjet|localisation d'objet]]'', ''[[localisation de créature]]'', ''[[modification de mémoire]]'' (DD 19), ''[[protection contre le Mal]]'' (DD 16), ''[[refouler un souvenir]]'' (DD 21), ''[[soins légers]]'', ''[[stabilisation]]'', ''[[zone de vérité]]'' (DD 17)}
+{s:BDSorts|3/jour — ''[[boule de feu]]'' (DD 18), ''[[changement de plan]]'' (DD 20), ''[[colonne de feu]]'' (DD 20), ''[[rejet du Mal]]'' (DD 20)}
+{s:BDSorts|1/jour — ''[[localisation suprême]]'' (DD 23), ''[[orientation]]'' (DD 21)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 30, '''Dex''' 19, '''Con''' 20, '''Int''' 16, '''Sag''' 25, '''Cha''' 21}
+{s:BDTexte|'''BBA''' +14 ; '''BMO''' +26 ; '''DMD''' 40}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]], [[Vigueur surhumaine]]}
+{s:BDTexte|'''Compétences''' [[Art de la magie]] +10, [[Connaissances]] (géographie) +17, [[Connaissances]] (histoire, mystères, plans, religion) +20, [[Intimidation]] +22, [[Linguistique]] +10, [[Perception]] +28, [[Psychologie]] +28}
+{s:BDTexte|'''Langues''' abyssal, aklo, céleste, commun, draconique, elfe, gnome, infernal, nain ; [[Télépathie (capacité)|télépathie]] 30 m, langage universel}
+{s:BDTexte|'''Particularités''' changement de taille, [[Ne respire pas (capacité)|ne respire pas]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (Paradis)}
+{s:BDTexte|'''Organisation''' solitaire, couple ou inquisition (3-6)}
+{s:BDTexte|'''Trésor''' standard (''[[épée longue (arme)|épée longue]] de [[feu (propriété)|feu]] +3'', autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Censeur de texte (Sur).''' Un excendré peut tenter de dérober ou de modifier par magie un texte situé à 30 mètres ou moins par une simple. Si personne ne porte ce texte sur lui, la tentative est automatiquement réussie. Une créature en possession d’un texte doit effectuer un jet de [[Volonté]] [[DD]] 22 pour annuler ce pouvoir. Un texte dérobé est directement téléporté dans la main de l’excendré. Un texte modifié est définitivement corrigé selon les souhaits de l’excendré – il est possible de détecter cette modification par magie, mais elle ne peut pas être dissipée ou inversée, à moins d’utiliser un ''[[souhait]]'' ou un ''[[miracle]]''. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|'''Changement de taille.''' Un excendré peut changer de forme pour adopter une version de taille P, M ou G de lui-même. Cela ne modifie pas ses caractéristiques, seulement sa taille (et donc les dégâts de ses armes).}
+</div></td>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[archon|archons]].'''''</li></ul>''Cet humanoïde imposant n’a pas de bouche et porte une épée tout aussi enflammée que ses ailes.''
+
+Les excendrés sont les censeurs du Paradis qui passent les plans au peigne fin à la recherche de textes contenant des informations trop maléfiques ou dangereuses pour permettre leur existence. Ils accordent peu d’intérêt à la vie des individus ou aux hérésies ordinaires et s’attachent avant tout à protéger de la corruption les mortels dans leur ensemble.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Archon excendré</fullName>
+</wikiPage>

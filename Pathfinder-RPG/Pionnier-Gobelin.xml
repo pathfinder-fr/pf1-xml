@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pionnier gobelin</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Codex monstrueux</category></categories>
+  <lastModified>2026-07-01 19:39:41Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Cavalier aguerri</link><link>Pathfinder-RPG.Codex monstrueux (Contenu)</link><link>Pathfinder-RPG.Commando gobelin</link><link>Pathfinder-RPG.Gobelin</link><link>Pathfinder-RPG.Gobelin incendiaire</link><link>Pathfinder-RPG.Gobelin vicieux</link><link>Pathfinder-RPG.Pionnier gobelin</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Gobelin</link><link>Pathfinder-RPG.Rôdeur</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.sous-type gobelinoïde</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Feu grégeois (objet)</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Attaque au galop</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Dressage</link><link>Pathfinder-RPG.Équitation</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.Potions magiques</link><link>Pathfinder-RPG.Force de taureau</link><link>Pathfinder-RPG.Soins légers</link><link>Pathfinder-RPG.Sacoche immobilisante (objet)</link><link>Pathfinder-RPG.armure de cuir cloutée (armure)</link><link>Pathfinder-RPG.écu (armure)</link><link>Pathfinder-RPG.tranchechien (arme)</link><link>Pathfinder-RPG.Arc court (arme)</link><link>Pathfinder-RPG.Flèches (arme)</link><link>Pathfinder-RPG.Allume-feu (objet)</link><link>Pathfinder-RPG.Gecko géant</link><link>Pathfinder-RPG.Gobelin vicieux</link><link>Pathfinder-RPG.Pionnier gobelin</link><link>Pathfinder-RPG.Commando gobelin</link><link>Pathfinder-RPG.Gobelin mutant</link><link>Pathfinder-RPG.Pilote de vautour gobelin</link><link>Pathfinder-RPG.Gobelin incendiaire</link><link>Pathfinder-RPG.Cavalier aguerri</link><link>Pathfinder-RPG.Parle-crapaud gobelin</link><link>Pathfinder-RPG.Seigneur collant gobelin</link><link>Pathfinder-RPG.Chef gobelin</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Gobelin, Commando&lt;div style=&quot;float:right;&quot;&gt;FP 1&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Humano&#239;de&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Humano&#239;de.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;For&#234;t-Jungle&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/For&#234;t-Jungle.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : Codex monstrueux p.82&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 400
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Gobelin.html&quot; title=&quot;Gobelin&quot;&gt;Gobelin&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;r&#244;deur&lt;/a&gt; 2
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;Humano&#239;de&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Sous-Type-Gobelino&#239;de.html&quot; title=&quot;Gobelino&#239;de (sous-type)&quot;&gt;gobelino&#239;de&lt;/a&gt;) de taille P, NM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 20, contact 15, pris au d&#233;pourvu 16 (armure +3, bouclier +2, Dex +4, taille +1)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 19 (2d10+4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +7, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; tranchechien de ma&#238;tre, +5 (1d4+1/19-20)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Distance&lt;/b&gt; arc court, +7 (1d4/&#215;3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#ENNEMIJURE&quot; title=&quot;Le r&#244;deur&quot;&gt;ennemi jur&#233;&lt;/a&gt; (humains +2), &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#DONDESTYLEDECOMBAT&quot; title=&quot;Le r&#244;deur&quot;&gt;style de combat&lt;/a&gt; (combat mont&#233;)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Tactique&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Pendant le combat.&lt;/b&gt; Le pionnier gobelin utilise son arc ou son &lt;a class=&quot;pagelink&quot; href=&quot;Feu-Gr&#233;geois-(Objet).html&quot; title=&quot;Feu gr&#233;geois&quot;&gt;feu gr&#233;geois&lt;/a&gt; avant de passer &#224; l’&lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt; pour augmenter ses d&#233;g&#226;ts et &#224; l’&lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Au-Galop.html&quot; title=&quot;Attaque au galop&quot;&gt;Attaque au galop&lt;/a&gt; pour rester &#224; l’&#233;cart des combattants de m&#234;l&#233;e.
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 13, &lt;b&gt;Dex&lt;/b&gt; 18, &lt;b&gt;Con&lt;/b&gt; 13, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 12, &lt;b&gt;Cha&lt;/b&gt; 6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +2 ; &lt;b&gt;BMO&lt;/b&gt; +2 ; &lt;b&gt;DMD&lt;/b&gt; 16
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-Au-Galop.html&quot; title=&quot;Attaque au galop&quot;&gt;Attaque au galop&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +14, &lt;a class=&quot;pagelink&quot; href=&quot;Dressage.html&quot; title=&quot;Dressage&quot;&gt;Dressage&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt; +10, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +3, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +6
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Modificateurs raciaux&lt;/b&gt; +4 en &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt;, +4 en &lt;a class=&quot;pagelink&quot; href=&quot;&#201;quitation.html&quot; title=&quot;&#201;quitation&quot;&gt;&#201;quitation&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; gobelin
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#EMPATHIESAUVAGE&quot; title=&quot;Le r&#244;deur&quot;&gt;empathie sauvage&lt;/a&gt; +0, &lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html#PISTAGE&quot; title=&quot;Le r&#244;deur&quot;&gt;pistage&lt;/a&gt; +1
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;&#201;quipement de combat&lt;/b&gt; &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Potions-Magiques.html&quot; title=&quot;Les potions magiques&quot;&gt;potion&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Force-De-Taureau.html&quot; title=&quot;Force de taureau&quot;&gt;force de taureau&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Potions-Magiques.html&quot; title=&quot;Les potions magiques&quot;&gt;potions&lt;/a&gt; de &lt;a class=&quot;pagelink&quot; href=&quot;Soins-L&#233;gers.html&quot; title=&quot;Soins l&#233;gers&quot;&gt;soins l&#233;gers&lt;/a&gt;&lt;/i&gt; (2), &lt;a class=&quot;pagelink&quot; href=&quot;Feu-Gr&#233;geois-(Objet).html&quot; title=&quot;Feu gr&#233;geois&quot;&gt;feux gr&#233;geois&lt;/a&gt; (4), &lt;a class=&quot;pagelink&quot; href=&quot;Sacoche-Immobilisante-(Objet).html&quot; title=&quot;Sacoche immobilisante&quot;&gt;sacoches immobilisantes&lt;/a&gt; (2) ; &lt;b&gt;&#201;quipement divers&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armure-De-Cuir-Clout&#233;e-(Armure).html&quot; title=&quot;Armure de cuir clout&#233;e&quot;&gt;cuir clout&#233;&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;cu-(Armure).html&quot; title=&quot;&#201;cu (bois/acier)&quot;&gt;&#233;cu de bois&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Tranchechien-(Arme).html&quot; title=&quot;Tranchechien&quot;&gt;tranchechien de ma&#238;tre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Arc-Court-(Arme).html&quot; title=&quot;Arc court&quot;&gt;arc&lt;/a&gt; avec &lt;a class=&quot;pagelink&quot; href=&quot;Fl&#232;ches-(Arme).html&quot; title=&quot;Fl&#232;ches (20)&quot;&gt;20 fl&#232;ches de ma&#238;tre&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Allume-Feu-(Objet).html&quot; title=&quot;Allume-feu&quot;&gt;allume-feu&lt;/a&gt; (7), monture &lt;a class=&quot;pagelink&quot; href=&quot;Gecko-G&#233;ant.html&quot; title=&quot;L&#233;zard, Gecko g&#233;ant&quot;&gt;gecko g&#233;ant&lt;/a&gt; (Bestiaire 3 p. 178), 2 po
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;div style=&quot;float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px&quot;&gt;
+&lt;table CLASS=&quot;tablo autoalt&quot;&gt;&lt;caption&gt;Variantes de Gobelin&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td&gt;Nom&lt;/td&gt;&lt;td&gt;FP&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gobelin.html&quot; title=&quot;Gobelin&quot;&gt;Gobelin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1/3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-Vicieux.html&quot; title=&quot;Gobelin vicieux&quot;&gt;Gobelin vicieux&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pionnier-Gobelin.html&quot; title=&quot;Pionnier gobelin&quot;&gt;Pionnier gobelin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Commando-Gobelin.html&quot; title=&quot;Commando gobelin&quot;&gt;Commando gobelin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Gobelin-Mutant.html&quot; title=&quot;Pathfinder-RPG.Gobelin mutant&quot;&gt;Gobelin mutant&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Pilote-De-Vautour-Gobelin.html&quot; title=&quot;Pathfinder-RPG.Pilote de vautour gobelin&quot;&gt;Pilote de vautour gobelin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gobelin-Incendiaire.html&quot; title=&quot;Gobelin incendiaire&quot;&gt;Gobelin incendiaire&lt;/a&gt;&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cavalier-Aguerri.html&quot; title=&quot;Cavalier aguerri&quot;&gt;Cavalier aguerri&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Parle-Crapaud-Gobelin.html&quot; title=&quot;Pathfinder-RPG.Parle-crapaud gobelin&quot;&gt;Parle-crapaud gobelin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Seigneur-Collant-Gobelin.html&quot; title=&quot;Pathfinder-RPG.Seigneur collant gobelin&quot;&gt;Seigneur collant gobelin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a class=&quot;unknownlink&quot; href=&quot;Chef-Gobelin.html&quot; title=&quot;Pathfinder-RPG.Chef gobelin&quot;&gt;Chef gobelin&lt;/a&gt;&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;Les gobelins adorent chevaucher de f&#233;roces montures pour aller au combat.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Gobelin, Commando|FP 1}
+{s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
+{s:BDTexte|''Source : Codex monstrueux p.82''}
+{s:BDTexte|'''PX''' 400}
+{s:BDTexte|[[Gobelin]] [[rôdeur]] 2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille P, NM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 20, contact 15, pris au dépourvu 16 (armure +3, bouclier +2, Dex +4, taille +1)}
+{s:BDTexte|'''pv''' 19 (2d10+4)}
+{s:BDTexte|'''Réf''' +7, '''Vig''' +4, '''Vol''' +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' tranchechien de maître, +5 (1d4+1/19-20)}
+{s:BDTexte|'''Distance''' arc court, +7 (1d4/×3)}
+{s:BDTexte|'''Attaques spéciales''' [[rôdeur#ENNEMIJURE|ennemi juré]] (humains +2), [[rôdeur#DONDESTYLEDECOMBAT|style de combat]] (combat monté)}
+{s:BDSousTitre|Tactique}
+{s:BDTexte|'''Pendant le combat.''' Le pionnier gobelin utilise son arc ou son [[Feu grégeois (objet)|feu grégeois]] avant de passer à l’[[Attaque en puissance]] pour augmenter ses dégâts et à l’[[Attaque au galop]] pour rester à l’écart des combattants de mêlée.}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 13, '''Dex''' 18, '''Con''' 13, '''Int''' 10, '''Sag''' 12, '''Cha''' 6}
+{s:BDTexte|'''BBA''' +2 ; '''BMO''' +2 ; '''DMD''' 16}
+{s:BDTexte|'''Dons''' [[Attaque au galop]], [[Attaque en puissance]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +3, [[Discrétion]] +14, [[Dressage]] +3, [[Équitation]] +10, [[Natation]] +3, [[Perception]] +6}
+{s:BDTexte|'''Modificateurs raciaux''' +4 en [[Discrétion]], +4 en [[Équitation]]}
+{s:BDTexte|'''Langues''' gobelin}
+{s:BDTexte|'''Particularités''' [[rôdeur#EMPATHIESAUVAGE|empathie sauvage]] +0, [[rôdeur#PISTAGE|pistage]] +1}
+{s:BDTexte|'''Équipement de combat''' ''[[potions magiques|potion]] de [[force de taureau]]'', ''[[potions magiques|potions]] de [[soins légers]]'' (2), [[Feu grégeois (objet)|feux grégeois]] (4), [[sacoche immobilisante (objet)|sacoches immobilisantes]] (2) ; '''Équipement divers''' [[armure de cuir cloutée (armure)|cuir clouté]], [[écu (armure)|écu de bois]], [[tranchechien (arme)|tranchechien de maître]], [[arc court (arme)|arc]] avec [[flèches (arme)|20 flèches de maître]], [[allume-feu (objet)|allume-feu]] (7), monture [[gecko géant]] (Bestiaire 3 p. 178), 2 po}
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de Gobelin
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Gobelin]] || 1/3
+|-
+| [[Gobelin vicieux]] || 1
+|-
+| [[Pionnier gobelin]] || 1
+|-
+| [[Commando gobelin]] || 2
+|-
+| [[Gobelin mutant]] || 3
+|-
+| [[Pilote de vautour gobelin]] || 3
+|-
+| [[Gobelin incendiaire]] || 4
+|-
+| [[Cavalier aguerri]] || 5
+|-
+| [[Parle-crapaud gobelin]] || 5
+|-
+| [[Seigneur collant gobelin]] || 6
+|-
+| [[Chef gobelin]] || 9
+|-
+|}
+</div>Les gobelins adorent chevaucher de féroces montures pour aller au combat.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Pionnier gobelin</fullName>
+</wikiPage>

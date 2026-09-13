@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fantôme libéré</title>
+  <categories><category>Pathfinder-RPG.Monstre</category><category>Pathfinder-RPG.Src Bestiaire 5</category></categories>
+  <lastModified>2023-02-18 19:54:34Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Bestiaire 5 (Contenu)</link><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.vision dans le noir (capacité)</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Attaque en puissance</link><link>Pathfinder-RPG.Course</link><link>Pathfinder-RPG.Esquive</link><link>Pathfinder-RPG.Rapide</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Intimidation</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.RD</link><link>Pathfinder-RPG.Force</link><link>Pathfinder-RPG.Volonté</link><link>Pathfinder-RPG.jet dattaque</link><link>Pathfinder-RPG.Valeurs de combat</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Roublard</link><link>Pathfinder-RPG.Secoué</link><link>Pathfinder-RPG.coup critique</link><link>Pathfinder-RPG.Intangible (capacité)</link><link>Pathfinder-RPG.Spirite</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Fant&#244;me lib&#233;r&#233;&lt;div style=&quot;float:right;&quot;&gt;FP 4&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source : &lt;a class=&quot;pagelink&quot; href=&quot;Bestiaire-5-(Contenu).html&quot; title=&quot;Bestiaire 5 (Contenu)&quot;&gt;Bestiaire 5 p.124&lt;/a&gt;&lt;/i&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 1 200
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Ext&#233;rieur.html&quot; title=&quot;Ext&#233;rieur&quot;&gt;Ext&#233;rieur&lt;/a&gt; (fant&#244;me) de taille M, N
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +3 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;Vision dans le noir (Ext ou Sur)&quot;&gt;vision dans le noir&lt;/a&gt; &#224; 18 m ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 14, pris au d&#233;pourvu 14 (Dex +3, esquive +1, naturelle +4) ou &lt;b&gt;CA&lt;/b&gt; 18, contact 18, pris au d&#233;pourvu 14 (Dex +3, esquive +1, parade +4) quand intangible
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 42 (5d10+15)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +7, &lt;b&gt;Vol&lt;/b&gt; +4
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;RD&lt;/b&gt; 5/tranchant ; &lt;b&gt;Immunit&#233;s&lt;/b&gt; effets mentaux
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 10,5 m
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; 2 coups, +8 (1d8+3)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; coup fantasmagorique (col&#232;re)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 16, &lt;b&gt;Dex&lt;/b&gt; 16, &lt;b&gt;Con&lt;/b&gt; 17, &lt;b&gt;Int&lt;/b&gt; 10, &lt;b&gt;Sag&lt;/b&gt; 11, &lt;b&gt;Cha&lt;/b&gt; 13
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +5 ; &lt;b&gt;BMO&lt;/b&gt; +8 ; &lt;b&gt;DMD&lt;/b&gt; 21
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Puissance.html&quot; title=&quot;Attaque en puissance&quot;&gt;Attaque en puissance&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Course.html&quot; title=&quot;Course&quot;&gt;Course&lt;/a&gt;&lt;sup&gt;S&lt;/sup&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Esquive.html&quot; title=&quot;Esquive&quot;&gt;Esquive&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Rapide.html&quot; title=&quot;Rapide&quot;&gt;Rapide&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +11, &lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Psychologie.html&quot; title=&quot;Psychologie&quot;&gt;Psychologie&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt; +11
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Particularit&#233;s&lt;/b&gt; d&#233;marche intangible
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; tous (plan &#201;th&#233;r&#233; ou plan Mat&#233;riel)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation&lt;/b&gt; solitaire, paire ou vol (3-6)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; aucun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Pouvoirs sp&#233;ciaux&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Coup fantasmagorique (Sur).&lt;/b&gt; Les attaques d’un fant&#244;me lib&#233;r&#233; sont consid&#233;r&#233;es comme si elles &#233;taient r&#233;alis&#233;es avec des armes magiques afin d’ignorer les &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;duction-De-D&#233;g&#226;ts-(Capacit&#233;).html&quot; title=&quot;RD&quot;&gt;r&#233;ductions de d&#233;g&#226;ts&lt;/a&gt;. Ses coups ont un effet additionnel bas&#233; sur son &#233;motion dominante. Chaque fant&#244;me est dirig&#233; par une des &#233;motions dominantes indiqu&#233;es ci-dessous. L&#39;&#233;motion dominante du fant&#244;me pr&#233;sent&#233; ici est la col&#232;re. Ses effets ont d&#233;j&#224; &#233;t&#233; appliqu&#233;s aux statistiques ci-dessus. Le DD de l&#39;effet provoqu&#233; par le coup est bas&#233; sur le Charisme.
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;Col&#232;re :&lt;/i&gt; L’attaque de coup d’un fant&#244;me lib&#233;r&#233; en col&#232;re inflige des d&#233;g&#226;ts &#233;gaux &#224; 1d8 + son modificateur de &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Force.html&quot; title=&quot;La Force&quot;&gt;Force&lt;/a&gt; au lieu de la quantit&#233; normale de d&#233;g&#226;ts (1d6 + son modificateur de Force).&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;D&#233;sespoir :&lt;/i&gt; Une cr&#233;ature frapp&#233;e par un fant&#244;me lib&#233;r&#233; d&#233;sesp&#233;r&#233; doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; (DD 13) ou subir un malus de -2 sur ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;de d&#233;g&#226;ts&lt;/a&gt; pendant 1 round.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;D&#233;vouement :&lt;/i&gt; Quand un fant&#244;me lib&#233;r&#233; d&#233;vou&#233; frappe une cr&#233;ature avec un coup, il gagne un bonus de +2 &#224; sa &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt; contre cette cr&#233;ature pendant 1 round. Si le fant&#244;me lib&#233;r&#233; frappe la m&#234;me cr&#233;ature plusieurs fois, ce bonus se cumule.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;Haine :&lt;/i&gt; Un fant&#244;me lib&#233;r&#233; domin&#233; par la haine gagne un bonus de +1 &#224; ses &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdattaque.html&quot; title=&quot;jet dattaque&quot;&gt;jets d&#39;attaque&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#DEGATS&quot; title=&quot;Valeurs de combat&quot;&gt;de d&#233;g&#226;ts&lt;/a&gt; pour ses attaques de coup contre la derni&#232;re cr&#233;ature qui l’a bless&#233;.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;Jalousie :&lt;/i&gt; Un fant&#244;me lib&#233;r&#233; domin&#233; par la jalousie gagne &lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html#ATTAQUESOURNOISE&quot; title=&quot;Le roublard&quot;&gt;attaque sournoise&lt;/a&gt; +1d6 quand il frappe une cr&#233;ature avec un coup.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;Terreur :&lt;/i&gt; Une cr&#233;ature frapp&#233;e par un fant&#244;me lib&#233;r&#233; terrifiant doit r&#233;ussir un jet de &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Volont&#233;&quot;&gt;Volont&#233;&lt;/a&gt; DD 13 ou se retrouver &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Secou&#233;.html&quot; title=&quot;secou&#233;&quot;&gt;secou&#233;e&lt;/a&gt; pendant 1d4 rounds.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;Z&#232;le :&lt;/i&gt; Les coups port&#233;s par un fant&#244;me lib&#233;r&#233; domin&#233; par le z&#232;le ont une &lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples#Coupcritique.html&quot; title=&quot;coup critique&quot;&gt;zone de critique&lt;/a&gt; de 19-20 et un facteur de critique de x3.&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;D&#233;marche intangible (Sur).&lt;/b&gt; Quand un fant&#244;me lib&#233;r&#233; se d&#233;place de plus de 1,5 m&#232;tre, il devient &lt;a class=&quot;pagelink&quot; href=&quot;Intangible-(Capacit&#233;).html&quot; title=&quot;Intangible (Ext)&quot;&gt;intangible&lt;/a&gt; jusqu’&#224; la fin de son mouvement.
+&lt;/div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;i&gt;Cette &#233;trange cr&#233;ature fantomatique semble se tordre, en proie &#224; une &#233;motion incontr&#244;lable.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Les fant&#244;mes lib&#233;r&#233;s ont choisi de fuir la terrible gravit&#233; du plan de l’&#201;nergie n&#233;gative. Ces fant&#244;mes sont les &#226;mes fugitives de cr&#233;atures humano&#239;des qui cherchent d&#233;sesp&#233;r&#233;ment des &#234;tres avec lesquels elles sont en harmonie psychique afin de fusionner avec eux. De telles fusions cr&#233;ent des &lt;a class=&quot;pagelink&quot; href=&quot;Spirite.html&quot; title=&quot;Le spirite&quot;&gt;spiritualistes&lt;/a&gt;. Chaque fant&#244;me est domin&#233; par une &#233;motion qui le d&#233;chire et le maintient &#224; l’&#233;cart du chemin normal suivi par les &#226;mes vers le jugement final et la r&#233;compense ultime. Cette &#233;motion dominante teinte les coups que porte un fant&#244;me et peut se manifester de mani&#232;re encore plus puissante quand il fusionne pour cr&#233;er un spiritualiste. Mais elle repr&#233;sente aussi un poids qui attire le fant&#244;me dans le plan &#201;th&#233;r&#233; et l’entra&#238;ne vers le plan de l’&#201;nergie n&#233;gative. Jusqu’&#224; ce qu’il trouve un refuge, un fant&#244;me lib&#233;r&#233; est une cr&#233;ature fr&#233;n&#233;tique, constamment en mouvement, d&#233;sesp&#233;r&#233;e et contr&#244;l&#233;e par des &#233;motions et des besoins intenses.
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Fantôme libéré|FP 4}
+{s:pucem|Extérieur|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.124]]''}
+{s:BDTexte|'''PX''' 1 200}
+{s:BDTexte|[[type Extérieur|Extérieur]] (fantôme) de taille M, N}
+{s:BDTexte|'''Init''' +3 ; '''Sens''' [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 14, pris au dépourvu 14 (Dex +3, esquive +1, naturelle +4) ou '''CA''' 18, contact 18, pris au dépourvu 14 (Dex +3, esquive +1, parade +4) quand intangible}
+{s:BDTexte|'''pv''' 42 (5d10+15)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +7, '''Vol''' +4}
+{s:BDTexte|'''RD''' 5/tranchant ; '''Immunités''' effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 10,5 m}
+{s:BDTexte|'''Corps à corps''' 2 coups, +8 (1d8+3)}
+{s:BDTexte|'''Attaques spéciales''' coup fantasmagorique (colère)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 16, '''Dex''' 16, '''Con''' 17, '''Int''' 10, '''Sag''' 11, '''Cha''' 13}
+{s:BDTexte|'''BBA''' +5 ; '''BMO''' +8 ; '''DMD''' 21}
+{s:BDTexte|'''Dons''' [[Attaque en puissance]], [[Course]]<sup>S</sup>, [[Esquive]], [[Rapide]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +11, [[Discrétion]] +11, [[Intimidation]] +9, [[Perception]] +8, [[Psychologie]] +8, [[Vol]] +11}
+{s:BDTexte|'''Langues''' commun}
+{s:BDTexte|'''Particularités''' démarche intangible}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' tous (plan Éthéré ou plan Matériel)}
+{s:BDTexte|'''Organisation''' solitaire, paire ou vol (3-6)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Coup fantasmagorique (Sur).''' Les attaques d’un fantôme libéré sont considérées comme si elles étaient réalisées avec des armes magiques afin d’ignorer les [[RD|réductions de dégâts]]. Ses coups ont un effet additionnel basé sur son émotion dominante. Chaque fantôme est dirigé par une des émotions dominantes indiquées ci-dessous. L'émotion dominante du fantôme présenté ici est la colère. Ses effets ont déjà été appliqués aux statistiques ci-dessus. Le DD de l'effet provoqué par le coup est basé sur le Charisme.}
+{s:BDTexte|* ''Colère :'' L’attaque de coup d’un fantôme libéré en colère inflige des dégâts égaux à 1d8 + son modificateur de [[Force]] au lieu de la quantité normale de dégâts (1d6 + son modificateur de Force).}
+{s:BDTexte|* ''Désespoir :'' Une créature frappée par un fantôme libéré désespéré doit réussir un jet de [[Volonté]] (DD 13) ou subir un malus de -2 sur ses [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] pendant 1 round.}
+{s:BDTexte|* ''Dévouement :'' Quand un fantôme libéré dévoué frappe une créature avec un coup, il gagne un bonus de +2 à sa [[CA]] contre cette créature pendant 1 round. Si le fantôme libéré frappe la même créature plusieurs fois, ce bonus se cumule.}
+{s:BDTexte|* ''Haine :'' Un fantôme libéré dominé par la haine gagne un bonus de +1 à ses [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] pour ses attaques de coup contre la dernière créature qui l’a blessé.}
+{s:BDTexte|* ''Jalousie :'' Un fantôme libéré dominé par la jalousie gagne [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +1d6 quand il frappe une créature avec un coup.}
+{s:BDTexte|* ''Terreur :'' Une créature frappée par un fantôme libéré terrifiant doit réussir un jet de [[Volonté]] DD 13 ou se retrouver [[secoué|secouée]] pendant 1d4 rounds.}
+{s:BDTexte|* ''Zèle :'' Les coups portés par un fantôme libéré dominé par le zèle ont une [[coup critique|zone de critique]] de 19-20 et un facteur de critique de x3.}
+{s:BDTexte|'''Démarche intangible (Sur).''' Quand un fantôme libéré se déplace de plus de 1,5 mètre, il devient [[Intangible (capacité)|intangible]] jusqu’à la fin de son mouvement.}
+
+</div></td>
+<td><div>''Cette étrange créature fantomatique semble se tordre, en proie à une émotion incontrôlable.''
+
+Les fantômes libérés ont choisi de fuir la terrible gravité du plan de l’Énergie négative. Ces fantômes sont les âmes fugitives de créatures humanoïdes qui cherchent désespérément des êtres avec lesquels elles sont en harmonie psychique afin de fusionner avec eux. De telles fusions créent des [[Spirite|spiritualistes]]. Chaque fantôme est dominé par une émotion qui le déchire et le maintient à l’écart du chemin normal suivi par les âmes vers le jugement final et la récompense ultime. Cette émotion dominante teinte les coups que porte un fantôme et peut se manifester de manière encore plus puissante quand il fusionne pour créer un spiritualiste. Mais elle représente aussi un poids qui attire le fantôme dans le plan Éthéré et l’entraîne vers le plan de l’Énergie négative. Jusqu’à ce qu’il trouve un refuge, un fantôme libéré est une créature frénétique, constamment en mouvement, désespérée et contrôlée par des émotions et des besoins intenses.
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Fantôme libéré</fullName>
+</wikiPage>

@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Blême</title>
+  <categories></categories>
+  <lastModified>2024-03-16 11:29:27Z</lastModified>
+  <version>8</version>
+  <inLinks><link>Pathfinder-RPG.Armée de Khain</link><link>Pathfinder-RPG.Blême</link><link>Pathfinder-RPG.Ghul</link><link>Pathfinder-RPG.Goule</link><link>Pathfinder-RPG.Nécroforgé</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Goule</link><link>Pathfinder-RPG.Archétypes</link><link>Pathfinder-RPG.type Mort-vivant</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Puanteur</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Fiévreux</link><link>Pathfinder-RPG.résistance à la canalisation</link><link>Pathfinder-RPG.Paralysie (capacité)</link><link>Pathfinder-RPG.Attaque en finesse</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Escalade</link><link>Pathfinder-RPG.Natation</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.affaiblissement temporaire</link><link>Pathfinder-RPG.Constitution</link><link>Pathfinder-RPG.Dextérité</link><link>Pathfinder-RPG.Charisme</link><link>Pathfinder-RPG.type Humanoïde</link><link>Pathfinder-RPG.DV</link><link>Pathfinder-RPG.Blême</link></outLinks>
+  <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
+&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Bl&#234;me&lt;div style=&quot;float:right;&quot;&gt;FP 2&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right&quot;&gt;
+&lt;img title=&quot;Mort-vivant&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;i&gt;Source &lt;/i&gt;: &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;Goule&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html#CREATUREEVOLUEE&quot; title=&quot;Les arch&#233;types&quot;&gt;&#233;volu&#233;e&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;PX&lt;/b&gt; 600
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Type-Mort-Vivant.html&quot; title=&quot;Mort-vivant&quot;&gt;Mort-vivant&lt;/a&gt; de taille M, CM
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Init&lt;/b&gt; +4 ; &lt;b&gt;Sens&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vision-Dans-Le-Noir-(Capacit&#233;).html&quot; title=&quot;vision dans le noir&quot;&gt;vision dans le noir&lt;/a&gt; 18 m (12 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) ; &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Puanteur-(Capacit&#233;).html&quot; title=&quot;Puanteur&quot;&gt;puanteur&lt;/a&gt; (rayon de 3 m, &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; DD 15 annule, &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Fi&#233;vreux.html&quot; title=&quot;Fi&#233;vreux&quot;&gt;fi&#233;vreux&lt;/a&gt; pendant 1d6+4 minutes).
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;D&#233;fense&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;CA&lt;/b&gt; 18, contact 14, pris au d&#233;pourvu 14 (Dex +4, naturelle +4)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;pv&lt;/b&gt; 17 (2d8+8)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;R&#233;f&lt;/b&gt; +4, &lt;b&gt;Vig&lt;/b&gt; +4, &lt;b&gt;Vol&lt;/b&gt; +7
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Capacit&#233;s d&#233;fensives&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;R&#233;sistance-&#192;-La-Canalisation-(Capacit&#233;).html&quot; title=&quot;r&#233;sistance &#224; la canalisation&quot;&gt;r&#233;sistance &#224; la canalisation&lt;/a&gt; +2 
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Attaque&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;VD&lt;/b&gt; 9 m (6 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Corps &#224; corps&lt;/b&gt; morsure, +5 (1d6+3 et maladie et paralysie) et 2 griffes, +5 (1d6+3 et paralysie)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Attaques sp&#233;ciales&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Paralysie-(Capacit&#233;).html&quot; title=&quot;Paralysie (Ext ou Sur)&quot;&gt;paralysie&lt;/a&gt; (1d4+1 rounds, DD 15, les elfes ne sont pas immunis&#233;s contre cet effet)
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Caract&#233;ristiques&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;For&lt;/b&gt; 17, &lt;b&gt;Dex&lt;/b&gt; 19, &lt;b&gt;Con&lt;/b&gt; -, &lt;b&gt;Int&lt;/b&gt; 17, &lt;b&gt;Sag&lt;/b&gt; 18, &lt;b&gt;Cha&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;BBA&lt;/b&gt; +1, &lt;b&gt;BMO&lt;/b&gt; +4, &lt;b&gt;DMD&lt;/b&gt; 18
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Dons&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Attaque-En-Finesse.html&quot; title=&quot;Attaque en finesse&quot;&gt;Attaque en finesse&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Comp&#233;tences&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Acrobaties.html&quot; title=&quot;Acrobaties&quot;&gt;Acrobaties&lt;/a&gt; +6, &lt;a class=&quot;pagelink&quot; href=&quot;Discr&#233;tion.html&quot; title=&quot;Discr&#233;tion&quot;&gt;Discr&#233;tion&lt;/a&gt; +9, &lt;a class=&quot;pagelink&quot; href=&quot;Escalade.html&quot; title=&quot;Escalade&quot;&gt;Escalade&lt;/a&gt; +8, &lt;a class=&quot;pagelink&quot; href=&quot;Natation.html&quot; title=&quot;Natation&quot;&gt;Natation&lt;/a&gt; +5, &lt;a class=&quot;pagelink&quot; href=&quot;Perception.html&quot; title=&quot;Perception&quot;&gt;Perception&lt;/a&gt; +9
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Langues&lt;/b&gt; commun
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;&#201;cologie&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Environnement&lt;/b&gt; terre ferme
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Organisation sociale&lt;/b&gt; solitaire, bande (2-4) ou meute (7-12)
+&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
+&lt;/div&gt;
+&lt;div class=&quot;BDsoustitre&quot;&gt;Capacit&#233;s sp&#233;ciales&lt;/div&gt;
+&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;b&gt;Maladie : fi&#232;vre des goules (Sur).&lt;/b&gt; Morsure - blessure ; &lt;i&gt;JS&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; 15 ; &lt;i&gt;incubation&lt;/i&gt; 1 jour ; &lt;i&gt;fr&#233;quence&lt;/i&gt; 1/jour  ; &lt;i&gt;effet&lt;/i&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Affaiblissement-Temporaire-(Capacit&#233;).html&quot; title=&quot;affaiblissement temporaire&quot;&gt;affaiblissement temporaire&lt;/a&gt; 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Constitution.html&quot; title=&quot;La Constitution&quot;&gt;Con&lt;/a&gt; et 1d3 &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Dexterite.html&quot; title=&quot;La Dext&#233;rit&#233;&quot;&gt;Dex&lt;/a&gt; ; &lt;i&gt;gu&#233;rison&lt;/i&gt; 2 r&#233;ussites cons&#233;cutives. Le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; d&#233;pend du &lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques#Charisme.html&quot; title=&quot;Le Charisme&quot;&gt;Charisme&lt;/a&gt;. Lorsqu&#39;un &lt;a class=&quot;pagelink&quot; href=&quot;Type-Humano&#239;de.html&quot; title=&quot;Humano&#239;de&quot;&gt;humano&#239;de&lt;/a&gt; meurt de la fi&#232;vre des goules, il se rel&#232;ve sous la forme d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;goule&lt;/a&gt; d&#232;s que sonne minuit. Il ne conserve aucune des capacit&#233;s qu&#39;il poss&#233;dait de son vivant et n&#39;est pas soumis au contr&#244;le des autres goules, la chair des vivants l&#39;attire et il se comporte comme une goule normale. Ceux qui poss&#232;dent 4 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Desdevie.html&quot; title=&quot;DV&quot;&gt;DV&lt;/a&gt; ou plus se rel&#232;vent sous la forme de &lt;a class=&quot;pagelink&quot; href=&quot;Bl&#234;me.html&quot; title=&quot;Bl&#234;me&quot;&gt;bl&#234;me&lt;/a&gt;.
+&lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;center&gt;&lt;img src=&quot;/wiki/public/upload/Bestiaire/Goule_img.jpg&quot; width=&quot;90%&quot; style=&quot;float: none; margin: 5px;&quot;/&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;td&gt;
+Les bl&#234;mes sont des goules qui poss&#232;dent l’arch&#233;type &#171; &#233;volu&#233; &#187;. La paralysie des bl&#234;mes affectent m&#234;me les elfes. Les bl&#234;mes se regroupent en meutes ou dirigent des bandes de goules normales. L’odeur de mort et de corruption qui &#233;mane de ces cr&#233;atures est si puissante qu’elles gagnent la capacit&#233; extraordinaire de &lt;a class=&quot;pagelink&quot; href=&quot;Puanteur-(Capacit&#233;).html&quot; title=&quot;Puanteur&quot;&gt;puanteur&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Voir aussi : &lt;a class=&quot;pagelink&quot; href=&quot;Goule.html&quot; title=&quot;Goule&quot;&gt;goule&lt;/a&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+]]></body>
+  <raw><![CDATA[<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Blême|FP 2}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|''Source '': [[Goule]] et [[++Pathfinder-RPG.Archétypes#CREATUREEVOLUEE|évoluée]]}
+{s:BDTexte|'''PX''' 600}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|'''Init''' +4 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
+{s:BDTexte|'''Aura''' [[puanteur]] (rayon de 3 m, [[Vigueur]] DD 15 annule, [[fiévreux]] pendant 1d6+4 minutes).}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 18, contact 14, pris au dépourvu 14 (Dex +4, naturelle +4)}
+{s:BDTexte|'''pv''' 17 (2d8+8)}
+{s:BDTexte|'''Réf''' +4, '''Vig''' +4, '''Vol''' +7}
+{s:BDTexte|'''Capacités défensives''' [[résistance à la canalisation]] +2 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 9 m (6 {s:c})}
+{s:BDTexte|'''Corps à corps''' morsure, +5 (1d6+3 et maladie et paralysie) et 2 griffes, +5 (1d6+3 et paralysie)}
+{s:BDTexte|'''Attaques spéciales''' [[Paralysie (capacité)|paralysie]] (1d4+1 rounds, DD 15, les elfes ne sont pas immunisés contre cet effet)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 17, '''Dex''' 19, '''Con''' -, '''Int''' 17, '''Sag''' 18, '''Cha''' 18}
+{s:BDTexte|'''BBA''' +1, '''BMO''' +4, '''DMD''' 18}
+{s:BDTexte|'''Dons''' [[Attaque en finesse]]}
+{s:BDTexte|'''Compétences''' [[Acrobaties]] +6, [[Discrétion]] +9, [[Escalade]] +8, [[Natation]] +5, [[Perception]] +9}
+{s:BDTexte|'''Langues''' commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' terre ferme}
+{s:BDTexte|'''Organisation sociale''' solitaire, bande (2-4) ou meute (7-12)}
+{s:BDTexte|'''Trésor''' standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Maladie : fièvre des goules (Sur).''' Morsure - blessure ; ''JS'' [[Vigueur]] [[DD]] 15 ; ''incubation'' 1 jour ; ''fréquence'' 1/jour  ; ''effet'' [[affaiblissement temporaire]] 1d3 [[Constitution|Con]] et 1d3 [[Dextérité|Dex]] ; ''guérison'' 2 réussites consécutives. Le [[DD]] dépend du [[Charisme]]. Lorsqu'un [[type humanoïde|humanoïde]] meurt de la fièvre des goules, il se relève sous la forme d'une [[goule]] dès que sonne minuit. Il ne conserve aucune des capacités qu'il possédait de son vivant et n'est pas soumis au contrôle des autres goules, la chair des vivants l'attire et il se comporte comme une goule normale. Ceux qui possèdent 4 [[DV]] ou plus se relèvent sous la forme de [[Blême|blême]].}
+</div>
+
+{s:ImageCentre|Bestiaire/Goule_img.jpg|90%}
+
+</td><td>
+Les blêmes sont des goules qui possèdent l’archétype « évolué ». La paralysie des blêmes affectent même les elfes. Les blêmes se regroupent en meutes ou dirigent des bandes de goules normales. L’odeur de mort et de corruption qui émane de ces créatures est si puissante qu’elles gagnent la capacité extraordinaire de [[puanteur]].
+
+Voir aussi : [[goule]]
+</div></td></tr></table>]]></raw>
+  <fullName>Pathfinder-RPG.Blême</fullName>
+</wikiPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Éponge à potion</title>
+  <categories><category>Pathfinder-RPG.Équipement</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2021-09-26 19:47:07Z</lastModified>
+  <version>0</version>
+  <inLinks><link>Pathfinder-RPG.Ondin (race)</link><link>Pathfinder-RPG.Outils alchimiques</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Outils alchimiques</link><link>Pathfinder-RPG.Action complexe</link><link>Pathfinder-RPG.Action libre</link><link>Pathfinder-RPG.Potions magiques</link><link>Pathfinder-RPG.Fracassement</link><link>Pathfinder-RPG.Ondin (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Ondin.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Ondin (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Ondin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Ondin-(Race).html&quot; title=&quot;Les ondins&quot;&gt;ondins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;b&gt;Prix&lt;/b&gt; 2 po ; &lt;b&gt;Poids&lt;/b&gt; — ; &lt;b&gt;DD d&#39;Artisanat (alchimie)&lt;/b&gt; 15  
+&lt;span class=&quot;Cat&#233;gorie&quot;&gt;&lt;b&gt;Cat&#233;gorie&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/span&gt;
+&lt;hr&gt;
+Cette &#233;ponge de la taille d’un œuf est recouverte d’une couche de cire comestible et imperm&#233;able pr&#233;vue pour absorber 1 dose de potion. Il co&#251;te une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt; de m&#226;cher une &#233;ponge &#224; potion et d’avaler le liquide qu’elle contient. Une cr&#233;ature au moins de taille G peut avaler l’&#233;ponge enti&#232;rement ; les autres cr&#233;atures doivent recracher l’&#233;ponge une fois qu’elle est &#233;puis&#233;e (par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;). Contrairement aux &lt;a class=&quot;pagelink&quot; href=&quot;Potions-Magiques.html&quot; title=&quot;Les potions magiques&quot;&gt;potions&lt;/a&gt; &#224; boire dans une fiole, une &#233;ponge &#224; potion peut &#234;tre utilis&#233;e sous l’eau. Il est possible de verser la potion d’une fiole dans une &#233;ponge &#224; potion (ou d’essorer la potion d’une &#233;ponge dans une fiole) par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Complexe.html&quot; title=&quot;Action complexe&quot;&gt;action complexe&lt;/a&gt;. L’&#233;ponge &#224; potion est immunis&#233;e aux attaques visant sp&#233;cifiquement le cristal, le verre, la c&#233;ramique ou la porcelaine, comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fracassement.html&quot; title=&quot;Fracassement&quot;&gt;fracassement&lt;/a&gt;&lt;/i&gt;. En outre, elle fonctionne comme une fiole de potion.
+]]></body>
+  <raw><![CDATA[{s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}'''Prix''' 2 po ; '''Poids''' — ; '''DD d'Artisanat (alchimie)''' 15  
+<span class="Catégorie">'''Catégorie''' [[Outils alchimiques]]</span>
+<hr>
+Cette éponge de la taille d’un œuf est recouverte d’une couche de cire comestible et imperméable prévue pour absorber 1 dose de potion. Il coûte une [[action complexe]] de mâcher une éponge à potion et d’avaler le liquide qu’elle contient. Une créature au moins de taille G peut avaler l’éponge entièrement ; les autres créatures doivent recracher l’éponge une fois qu’elle est épuisée (par une [[action libre]]). Contrairement aux [[Potions magiques|potions]] à boire dans une fiole, une éponge à potion peut être utilisée sous l’eau. Il est possible de verser la potion d’une fiole dans une éponge à potion (ou d’essorer la potion d’une éponge dans une fiole) par une [[action complexe]]. L’éponge à potion est immunisée aux attaques visant spécifiquement le cristal, le verre, la céramique ou la porcelaine, comme ''[[fracassement]]''. En outre, elle fonctionne comme une fiole de potion.]]></raw>
+  <fullName>Pathfinder-RPG.Éponge à potion (objet)</fullName>
+</wikiPage>

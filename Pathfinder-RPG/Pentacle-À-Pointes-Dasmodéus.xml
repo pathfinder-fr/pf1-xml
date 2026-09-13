@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Pentacle à pointes d'Asmodéus</title>
+  <categories><category>Pathfinder-RPG.Objet mag</category><category>Pathfinder-RPG.Objet mag merveilleux</category><category>Pathfinder-RPG.Src Dieux et magie</category><category>Pathfinder-RPG.Src Inner Sea Gods</category></categories>
+  <lastModified>2024-05-31 16:12:39Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link><link>Pathfinder-RPG.Dieux et magie (Contenu)</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Objets merveilleux portés autour du cou</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Abjuration</link><link>Pathfinder-RPG.Objets merveilleux portés autour du cou</link><link>Pathfinder-RPG.CA</link><link>Pathfinder-RPG.Asmodéus (technique)</link><link>Pathfinder-RPG.Symbole sacré (objet)</link><link>Pathfinder-RPG.Charme-personne</link><link>Pathfinder-RPG.cercle magique contre le Mal</link><link>Pathfinder-RPG.Sceau du serpent</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Bouclier de la foi</link><link>Pathfinder-RPG.sort Saignement</link><link>Pathfinder-RPG.Asmodéus (technique)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;%2fPCUP%2fReligion-PNG%2fAsmodeus.png&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Asmod&#233;us (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fAsmodeus.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Asmod&#233;us-(Technique).html&quot; title=&quot;Asmod&#233;us&quot;&gt;Asmod&#233;us&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Pentacle &#224; pointes d&#39;Asmod&#233;us&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux et magie (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Gods and Magic, Faiths of Purity, Faiths of Balance, Faiths of Corruption/Dieux et magie&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoG&amp;M.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Abjuration.html&quot; title=&quot;Abjuration&quot;&gt;Abjuration&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 1 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Port&#233;s-Autour-Du-Cou.html&quot; title=&quot;Objets merveilleux port&#233;s autour du cou&quot;&gt;cou&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 3 000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
+&lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
+Ce disque d’acier est grav&#233; d’un pentagramme invers&#233; et d&#233;cor&#233; sur son pourtour de minuscules pointes de m&#233;tal. Lorsqu’il est port&#233;, il conf&#232;re un bonus de parade de +1 &#224; la &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Ca.html&quot; title=&quot;CA&quot;&gt;CA&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Si le personnage est un suivant du &lt;a class=&quot;pagelink&quot; href=&quot;Asmod&#233;us-(Technique).html&quot; title=&quot;Asmod&#233;us&quot;&gt;Asmod&#233;us&lt;/a&gt;, le pentacle compte comme un &lt;a class=&quot;pagelink&quot; href=&quot;Symbole-Sacr&#233;-(Objet).html&quot; title=&quot;Symbole sacr&#233;&quot;&gt;symbole sacr&#233;&lt;/a&gt;. S’il le tient et qu’il prononce le mot de commande, le porteur peut utiliser le sort &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt; une fois par jour. Si le personnage presse le pentacle de mani&#232;re &#224; se faire saigner (lui infligeant 1 point de d&#233;g&#226;ts), il peut utiliser ce sang en guise d’encre et &#233;crire avec une plume ou son doigt pendant 1 heure au maximum ; l’encre de sang s&#232;che imm&#233;diatement sur le support et ne peut donc jamais couler, et si elle est utilis&#233;e dans le cadre d’un sort qui n&#233;cessite ou est am&#233;lior&#233; par l’&#233;criture et que le personnage lance (comme &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cercle-Magique-Contre-Le-Mal.html&quot; title=&quot;Cercle magique contre le Mal&quot;&gt;cercle magique contre le Mal&lt;/a&gt;&lt;/i&gt; ou &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sceau-Du-Serpent.html&quot; title=&quot;Sceau du serpent&quot;&gt;sceau du serpent&lt;/a&gt;&lt;/i&gt;), le &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Degrededifficulte.html&quot; title=&quot;DD&quot;&gt;DD&lt;/a&gt; de ce sort est augment&#233; de 1.
+&lt;div class=&quot;box&quot;&gt;Cr&#233;ation&lt;/div&gt;
+&lt;b&gt;Conditions&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Merveilleux.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets merveilleux&quot;&gt;Cr&#233;ation d&#39;objets merveilleux&lt;/a&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Charme-Personne.html&quot; title=&quot;Charme-personne&quot;&gt;charme-personne&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bouclier-De-La-Foi.html&quot; title=&quot;Bouclier de la foi&quot;&gt;bouclier de la foi&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sort-Saignement.html&quot; title=&quot;Saignement&quot;&gt;saignement&lt;/a&gt;&lt;/i&gt; ; &lt;b&gt;Co&#251;t&lt;/b&gt; 1 500 po
+&lt;/div&gt;
+]]></body>
+  <raw><![CDATA[{s:divin|Asmodéus|%2fPCUP%2fReligion-PNG%2fAsmodeus.png}<div class="BD">
+{s:BDTitre|Pentacle à pointes d'Asmodéus|{s:ISG}{s:GeM}}
+'''Aura''' [[Abjuration]] faible ; '''NLS''' 1 ; '''Emplacement''' [[Objets merveilleux portés autour du cou|cou]] ; '''Prix''' 3 000 po ; '''Poids''' 0,5 kg
+(((Description)))
+Ce disque d’acier est gravé d’un pentagramme inversé et décoré sur son pourtour de minuscules pointes de métal. Lorsqu’il est porté, il confère un bonus de parade de +1 à la [[CA]].
+
+Si le personnage est un suivant du [[Asmodéus (technique)|Asmodéus]], le pentacle compte comme un [[Symbole sacré (objet)|symbole sacré]]. S’il le tient et qu’il prononce le mot de commande, le porteur peut utiliser le sort ''[[charme-personne]]'' une fois par jour. Si le personnage presse le pentacle de manière à se faire saigner (lui infligeant 1 point de dégâts), il peut utiliser ce sang en guise d’encre et écrire avec une plume ou son doigt pendant 1 heure au maximum ; l’encre de sang sèche immédiatement sur le support et ne peut donc jamais couler, et si elle est utilisée dans le cadre d’un sort qui nécessite ou est amélioré par l’écriture et que le personnage lance (comme ''[[cercle magique contre le Mal]]'' ou ''[[sceau du serpent]]''), le [[DD]] de ce sort est augmenté de 1.
+(((Création)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[charme-personne]]'', ''[[bouclier de la foi]]'', ''[[sort Saignement|saignement]]'' ; '''Coût''' 1 500 po
+</div>]]></raw>
+  <fullName>Pathfinder-RPG.Pentacle à pointes dAsmodéus</fullName>
+</wikiPage>

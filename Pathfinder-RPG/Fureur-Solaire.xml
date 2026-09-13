@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Fureur solaire</title>
+  <categories><category>Pathfinder-RPG.Règle officielle</category><category>Pathfinder-RPG.Sort</category><category>Pathfinder-RPG.Sort druide 2</category><category>Pathfinder-RPG.Sort sorcière 2</category><category>Pathfinder-RPG.Src Manuel des races</category></categories>
+  <lastModified>2022-06-14 00:12:59Z</lastModified>
+  <version>7</version>
+  <inLinks><link>Pathfinder-RPG.Ifrit (race)</link><link>Pathfinder-RPG.Liste des sorts (suite)</link><link>Pathfinder-RPG.Liste des sorts de chasseur</link><link>Pathfinder-RPG.Liste des sorts de druides</link><link>Pathfinder-RPG.Liste des sorts de sorcière</link><link>Pathfinder-RPG.Liste des sorts du Manuel des Races</link><link>Pathfinder-RPG.Liste des sorts par registre</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Transmutation</link><link>Pathfinder-RPG.Créer un sort</link><link>Pathfinder-RPG.Druide</link><link>Pathfinder-RPG.Sorcière</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.composantes</link><link>Pathfinder-RPG.niveau</link><link>Pathfinder-RPG.Vigueur</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Dangers naturels</link><link>Pathfinder-RPG.Survie</link><link>Pathfinder-RPG.Ifrit (race)</link></outLinks>
+  <body><![CDATA[&lt;script&gt;
+$(function () {
+  let image = &quot;Illustrations/PNJ/Ifrit.jpg&quot;;
+  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
+});
+&lt;/script&gt;
+&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
+&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Ifrit (race).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Ifrit.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
+&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Ifrit-(Race).html&quot; title=&quot;Les ifrits&quot;&gt;ifrits&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
+&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
+&lt;/a&gt;
+&lt;b&gt;&#201;cole&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Transmutation.html&quot; title=&quot;Transmutation&quot;&gt;Transmutation&lt;/a&gt; [&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#MALEDICTION&quot; title=&quot;Cr&#233;er un sort&quot;&gt;mal&#233;diction&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Sort.html#FEU&quot; title=&quot;Cr&#233;er un sort&quot;&gt;feu&lt;/a&gt;] ; &lt;b&gt;Niveau&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Druide.html&quot; title=&quot;Le druide&quot;&gt;Dru&lt;/a&gt; 2, &lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;Sor&lt;/a&gt; 2&lt;br/&gt;
+&lt;b&gt;Temps d&#39;incantation&lt;/b&gt; 1 &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Composantes&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Composantes.html&quot; title=&quot;composantes&quot;&gt;V, G&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Port&#233;e&lt;/b&gt; courte (7,50 m + 1,50 m/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;) (5 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt; + 1 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;/2 &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveaux&lt;/a&gt;)&lt;br/&gt;
+&lt;b&gt;Cible&lt;/b&gt; 1 cr&#233;ature&lt;br/&gt;
+&lt;b&gt;Dur&#233;e&lt;/b&gt; 10 minutes/&lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Niveau.html&quot; title=&quot;niveau&quot;&gt;niveau&lt;/a&gt;&lt;br/&gt;
+&lt;b&gt;Jet de sauvegarde&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;Vigueur&quot;&gt;Vigueur&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts.html#JETSDESAUVEGARDE&quot; title=&quot;Pr&#233;sentation des sorts&quot;&gt;annule&lt;/a&gt; ; &lt;b&gt;R&#233;sistance &#224; la magie&lt;/b&gt; oui&lt;br /&gt;&lt;br /&gt;Le lanceur de sorts maudit la cible, la for&#231;ant &#224; endurer une &lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#CHALEUR&quot; title=&quot;Les dangers naturels&quot;&gt;chaleur&lt;/a&gt; accablante. Sur un jet de sauvegarde rat&#233;, la cible est aussit&#244;t la proie d’une chaleur intense, re&#231;oit 1d4 points de d&#233;g&#226;ts non l&#233;taux et souffre d’un coup de chaleur (fatigu&#233;e). Elle doit r&#233;ussir un jet de sauvegarde normal contre la chaleur accablante toutes les 10 minutes (en commen&#231;ant avec un DD de 15 plut&#244;t que le DD du sort). &lt;br /&gt;&lt;br /&gt;Cette chaleur &#233;tant de nature interne, la cible ne peut pas l’&#233;viter en recourant aux m&#233;thodes normales utilis&#233;es pour &#233;chapper aux dangers de la chaleur comme un test de &lt;a class=&quot;pagelink&quot; href=&quot;Survie.html&quot; title=&quot;Survie&quot;&gt;Survie&lt;/a&gt; ou en trouvant une zone d’ombre.
+]]></body>
+  <raw><![CDATA[{s:racial|Ifrit (race)|ifrits|Illustrations/PNJ/Ifrit.jpg}{s:MR}
+'''École''' [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#MALEDICTION|malédiction]], [[créer un sort#FEU|feu]]<nowiki>]</nowiki> ; '''Niveau''' [[druide|Dru]] 2, [[sorcière|Sor]] 2<br/>
+'''Temps d'incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[composantes|V, G]]<br/>
+'''Portée''' courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])<br/>
+'''Cible''' 1 créature<br/>
+'''Durée''' 10 minutes/[[niveau]]<br/>
+'''Jet de sauvegarde''' [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; '''Résistance à la magie''' oui
+
+Le lanceur de sorts maudit la cible, la forçant à endurer une [[Dangers naturels#CHALEUR|chaleur]] accablante. Sur un jet de sauvegarde raté, la cible est aussitôt la proie d’une chaleur intense, reçoit 1d4 points de dégâts non létaux et souffre d’un coup de chaleur (fatiguée). Elle doit réussir un jet de sauvegarde normal contre la chaleur accablante toutes les 10 minutes (en commençant avec un DD de 15 plutôt que le DD du sort). 
+
+Cette chaleur étant de nature interne, la cible ne peut pas l’éviter en recourant aux méthodes normales utilisées pour échapper aux dangers de la chaleur comme un test de [[Survie]] ou en trouvant une zone d’ombre.]]></raw>
+  <fullName>Pathfinder-RPG.Fureur solaire</fullName>
+</wikiPage>
