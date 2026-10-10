@@ -5,23 +5,9 @@
   <lastModified>2024-05-21 18:17:29Z</lastModified>
   <version>0</version>
   <inLinks><link>Pathfinder-RPG.Armes magiques spécifiques</link><link>Pathfinder-RPG.Dieux de la Mer intérieure (Contenu)</link></inLinks>
-  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Armes magiques spécifiques</link><link>Pathfinder-RPG.trident (arme)</link><link>Pathfinder-RPG.froid (propriété)</link><link>Pathfinder-RPG.foudre (propriété)</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Métal gelé</link><link>Pathfinder-RPG.Tempête de grêle</link><link>Pathfinder-RPG.Appel de la foudre</link><link>Pathfinder-RPG.Éclair</link><link>Pathfinder-RPG.Gozreh (technique)</link></outLinks>
-  <body><![CDATA[&lt;div style=&quot;float:right&quot;&gt;&lt;script&gt;
-$(function () {
-  let image = &quot;%2fPCUP%2fReligion-PNG%2fGozreh.png&quot;;
-  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;#symbole1&#39;).html(&quot;&quot;); }
-});
-&lt;/script&gt;
-&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
-&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
-&lt;td id=&quot;symbole1&quot; style=&quot;text-align:center;&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux aux fid&#232;les de la divinit&#233; indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Gozreh (technique).ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/%2fPCUP%2fReligion-PNG%2fGozreh.png&quot; style=&quot;max-height:70px; max-width:70px&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
-&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
-&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br/&gt;commune chez&lt;br/&gt;les fid&#232;les&lt;br/&gt;de &lt;a class=&quot;pagelink&quot; href=&quot;Gozreh-(Technique).html&quot; title=&quot;Gozreh&quot;&gt;Gozreh&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
-&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
-&lt;div class=&quot;BDtitre&quot;&gt;Coup de tonnerre&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Dieux de la mer Int&#233;rieure (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
-&lt;img title=&quot;Source : Inner Sea Gods/Dieux de la mer Int&#233;rieure&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoISG.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
-&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Armes magiques spécifiques</link><link>Pathfinder-RPG.trident (arme)</link><link>Pathfinder-RPG.froid (propriété)</link><link>Pathfinder-RPG.foudre (propriété)</link><link>Pathfinder-RPG.Création darmes et armures magiques</link><link>Pathfinder-RPG.Métal gelé</link><link>Pathfinder-RPG.Tempête de grêle</link><link>Pathfinder-RPG.Appel de la foudre</link><link>Pathfinder-RPG.Éclair</link></outLinks>
+  <body><![CDATA[&lt;div style=&quot;float:right&quot;&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Coup de tonnerre&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Evocation.html&quot; title=&quot;&#201;vocation&quot;&gt;&#201;vocation&lt;/a&gt; mod&#233;r&#233;e ; &lt;b&gt;NLS&lt;/b&gt; 8 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques-Sp&#233;cifiques.html&quot; title=&quot;Armes magiques sp&#233;cifiques&quot;&gt;aucun (arme)&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 9 315 po ; &lt;b&gt;Poids&lt;/b&gt; 2 kg
 &lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
 Ce &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Trident-(Arme).html&quot; title=&quot;Trident&quot;&gt;trident&lt;/a&gt; +1&lt;/i&gt; a une t&#234;te en m&#233;tal vert-bleu, une hampe en bois flott&#233; et une gerbe de cheveux humains blancs attach&#233;e &#224; la jointure entre le manche et les lames. Le porteur de &lt;i&gt;coup de tonnerre&lt;/i&gt; peut prononcer un mot de commande pour l&#39;utiliser comme une arme de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Froid.html&quot; title=&quot;froid (propri&#233;t&#233;)&quot;&gt;froid&lt;/a&gt;&lt;/i&gt; (ce qui rend ses dents bleu-blanc), ou un second mot de commande pour l&#39;utiliser comme une arme de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes#Foudre.html&quot; title=&quot;foudre (propri&#233;t&#233;)&quot;&gt;foudre&lt;/a&gt;&lt;/i&gt; (ce qui rend ses dents vert-oc&#233;an). L&#39;activation de l&#39;une de ces capacit&#233;s d&#233;sactive l&#39;autre.

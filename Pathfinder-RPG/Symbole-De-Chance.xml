@@ -5,23 +5,9 @@
   <lastModified>2024-06-14 23:27:27Z</lastModified>
   <version>7</version>
   <inLinks><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.liste alphabétique des objets merveilleux</link><link>Pathfinder-RPG.Manuel des races (Contenu)</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link></inLinks>
-  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Symbole sacré (objet)</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.bonus</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Faveur divine</link><link>Pathfinder-RPG.Halfelin</link></outLinks>
-  <body><![CDATA[&lt;script&gt;
-$(function () {
-  let image = &quot;Illustrations/PNJ/Halfelin.jpg&quot;;
-  if(image == &quot;&quot; || image == &quot; &quot;) { $(&#39;.symbole2&#39;).html(&quot;&quot;); }
-});
-&lt;/script&gt;
-&lt;div class=&quot;presentation navmenudroite&quot; style=&quot;margin-bottom:5px&quot;&gt;
-&lt;table width=&quot;80px&quot;&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
-&lt;td class=&quot;symbole2&quot;&gt;&lt;abbr title=&quot;Cette option est plus sp&#233;cifique, voire r&#233;serv&#233;e, aux membres de la race indiqu&#233;e. Discutez avec votre MJ de sa disponibilit&#233; pour votre personnage.&quot;&gt;&lt;a href=&quot;./Pathfinder-RPG.Halfelin.ashx&quot;&gt;&lt;img src=&quot;/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg&quot; width=&quot;80%&quot; style=&quot;float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124&quot;&gt;&lt;/a&gt;&lt;/abbr&gt;&lt;/td&gt;
-&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;
-&lt;td&gt;&lt;div style=&quot;text-align:center; font-size: 81%; font-weight: bold;&quot;&gt;Option plus&lt;br /&gt;commune chez&lt;br /&gt;les &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;halfelins&lt;/a&gt;.&lt;/div&gt;&lt;/td&gt;
-&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
-&lt;div class=&quot;BDtitre&quot;&gt;Symbole de chance&lt;div style=&quot;float:right;&quot;&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Manuel des races (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
-&lt;img title=&quot;Source : Advanced Race Guide, Elves of Golarion, Gnomes of Golarion, Goblins of Golarion, Halflings of Golarion, Humans of Golarion, Dwarves of Golarion, Orcs of Golarion/Manuel des races&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoMR.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
-&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+  <outLinks><link>Pathfinder-RPG.Évocation</link><link>Pathfinder-RPG.Objets merveilleux sans emplacement</link><link>Pathfinder-RPG.Symbole sacré (objet)</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Prêtre</link><link>Pathfinder-RPG.bonus</link><link>Pathfinder-RPG.JDS</link><link>Pathfinder-RPG.round</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Faveur divine</link></outLinks>
+  <body><![CDATA[&lt;div class=&quot;BD&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Symbole de chance&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Evocation.html&quot; title=&quot;&#201;vocation&quot;&gt;Evocation&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 3 ; &lt;b&gt;Emplacement&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux-Sans-Emplacement.html&quot; title=&quot;Objets merveilleux sans emplacement&quot;&gt;aucun&lt;/a&gt; ; &lt;b&gt;Prix&lt;/b&gt; 6 000 po ; &lt;b&gt;Poids&lt;/b&gt; 0,5 kg
 &lt;div class=&quot;box&quot;&gt;Description&lt;/div&gt;
 Cette sph&#232;re translucide faite d’un verre aussi dur que l’acier change de forme une heure apr&#232;s &#234;tre entr&#233;e en possession de quelqu’un, pour rev&#234;tir celle de son &lt;a class=&quot;pagelink&quot; href=&quot;Symbole-Sacr&#233;-(Objet).html&quot; title=&quot;Symbole sacr&#233;&quot;&gt;symbole sacr&#233;&lt;/a&gt;. Si le symbole est entre les mains d’un halfelin qui poss&#232;de le trait racial &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html#CHANCEDESHALFELINS&quot; title=&quot;Les halfelins&quot;&gt;chance des halfelins&lt;/a&gt; ou &lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html#CHANCEADAPTABLE&quot; title=&quot;Les halfelins&quot;&gt;chance adaptable&lt;/a&gt; et qu’il s’en sert pour &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#234;tre.html#CANALISATIONDENERGIE&quot; title=&quot;Le pr&#234;tre&quot;&gt;canaliser de l’&#233;nergie&lt;/a&gt; afin de soigner, il donne un &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Bonus.html&quot; title=&quot;bonus&quot;&gt;bonus&lt;/a&gt; de chance de +1 aux &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat#Jetdesauvegarde.html&quot; title=&quot;JDS&quot;&gt;jets de sauvegarde&lt;/a&gt; des cr&#233;atures gu&#233;ries pendant un nombre de &lt;a class=&quot;pagelink&quot; href=&quot;Vocabulaire-Courant#Round.html&quot; title=&quot;round&quot;&gt;rounds&lt;/a&gt; &#233;gal au nombre de d&#233;s de la canalisation.

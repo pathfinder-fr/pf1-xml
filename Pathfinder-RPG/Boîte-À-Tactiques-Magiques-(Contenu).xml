@@ -67,72 +67,7 @@ Traduit par la communaut&#233; &#224; partir de Ao&#251;t 2024 (&lt;abbr title=&
 &lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-De-Fosses-P&#233;rilleuses.html&quot; title=&quot;Sceptre de fosses p&#233;rilleuses&quot;&gt;Sceptre de fosses p&#233;rilleuses&lt;/a&gt; (Rod of Perilous Pits)  
 &lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-De-Clairvoyance.html&quot; title=&quot;Sceptre de clairvoyance&quot;&gt;Sceptre de clairvoyance&lt;/a&gt; (Rod of Spellsight)  
 &lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-De-Menace-Subtile.html&quot; title=&quot;Sceptre de menace subtile&quot;&gt;Sceptre de menace subtile&lt;/a&gt; (Rod of Subtle Menace)  
-&lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-Denchev&#234;trement-Ectoplasmique.html&quot; title=&quot;Sceptre d&amp;#39;enchev&#234;trement ectoplasmique&quot;&gt;Sceptre d&#39;enchev&#234;trement ectoplasmique&lt;/a&gt; (Rod of Tangling Ectoplasm)&lt;br /&gt;&lt;br /&gt;&lt;script type=&quot;text/javascript&quot;&gt;
-$(filtrable_init);
- 
-function filtrable_init() {
-    // Find all tables with class filtrable and make them filtrable
-    $(&quot;table.filtrable&quot;).each(makeFiltrable);
-}
- 
-function makeFiltrable() {
-    var table = $(this);
-    var rows = table.find(&quot;tr&quot;);
-    if (rows.length &lt; 2) {
-        return;
-    }
-    var firstRow = rows.first();
-    var cells = firstRow.children(&quot;td,th&quot;);
-    table.get()[0].filters = [];
-    cells.each(function (idx) {
-        var contents = $(this).html;
-        var filterLogo = $(&quot;&lt;img height=&#39;12px&#39; /&gt;&quot;);
-        filterLogo.attr(&#39;src&#39;, &#39;/wiki/public/Upload/Battlemaps/Boutons/filter.png&#39;);
-        filterLogo.attr(&#39;title&#39;, &#39;Cliquez ici pour filtrer les donn&#233;es&#39;);
-        filterLogo.css(&#39;padding&#39;, &#39;0&#39;);
-        filterLogo.click(doFilter(idx,filterLogo,table));
-        $(this).prepend(filterLogo);
-        table.get()[0].filters.push(null);
-    });
-}
-function doFilter(nCol, logo, table) {
-    return function () {
-        var filter = prompt(&quot;Entrez le filtre &#224; appliquer.\nLaisser le cadre vide pour tout afficher; utilisez &#39;mot1|mot2&#39; pour un choix multiple.&quot;, &quot;&quot;).trim();
-        if (filter == &quot;&quot;) {
-            table.get()[0].filters[nCol] = null;
-            logo.css(&quot;background-color&quot;, &quot;&quot;);
-            logo.attr(&quot;title&quot;,&quot;Filtre actuel : aucun - cliquez pour changer le filtre&quot;);
-        } else {
-            table.get()[0].filters[nCol] = new RegExp(filter.trim(),&quot;i&quot;);
-            logo.css(&quot;background-color&quot;, &quot;yellow&quot;);
-            logo.attr(&quot;title&quot;,&quot;Filtre actuel : &quot; + (filter == &quot;&quot; ? &quot;aucun&quot; : filter)
-                + &quot; - cliquez pour changer le filtre&quot;);
-        }
-        applyFilter(table);
-    };
-}
-function applyFilter(table) {
-    var rows = table.find(&quot;tr&quot;).filter(function (idx) {
-        return idx &gt; 0 &amp;&amp; $(this).children(&quot;th&quot;).length == 0;
-    });
-    rows.each(function () {
-        var keep = mustKeep(this,table.get()[0].filters);
-        $(this).css(&quot;display&quot;, keep ? &quot;table-row&quot; : &quot;none&quot;);
-    });
-}
-function mustKeep(row,filters) {
-    var cells = $(row).children(&quot;td&quot;);
-    var nCols = filters.length;
-    var keep = true;
-    var iCol = 0;
-    while (keep &amp;&amp; iCol &lt; nCols) {
-        keep = filters[iCol] === null ||
-            cells.eq(iCol).html().match(filters[iCol]) != null;
-        iCol++;
-    }
-    return keep;
-}
-&lt;/script&gt;
+&lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-Denchev&#234;trement-Ectoplasmique.html&quot; title=&quot;Sceptre d&amp;#39;enchev&#234;trement ectoplasmique&quot;&gt;Sceptre d&#39;enchev&#234;trement ectoplasmique&lt;/a&gt; (Rod of Tangling Ectoplasm)&lt;br /&gt;&lt;br /&gt;
 &lt;center&gt;
 &lt;table CLASS=&quot;tablo autoalt toutgauche filtrable&quot;&gt;&lt;caption&gt;Tableau r&#233;capitulatif des sceptres magiques du Magic Tactics Toolbox (MTT)&lt;/caption&gt;&lt;tr CLASS=&quot;titre&quot;&gt;&lt;td WIDTH=&quot;24%&quot;&gt;Sceptre&lt;/td&gt;&lt;td WIDTH= &quot;3%&quot;&gt;Source&lt;/td&gt;&lt;td WIDTH=&quot;62%&quot;&gt;Capacit&#233;s&lt;/td&gt;&lt;td WIDTH=&quot;11%&quot;&gt;Prix de vente&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-De-Clairvoyance.html&quot; title=&quot;Sceptre de clairvoyance&quot;&gt;Clairvoyance&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MTT&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Permet de voir &#224; travers les effets du brouillard, de la brume obscurcissante et m&#234;me des nuages incendiaires.&lt;/td&gt;&lt;td&gt;12 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-De-Menace-Subtile.html&quot; title=&quot;Sceptre de menace subtile&quot;&gt;Menace subtile&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MTT&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Permet de faire un test d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Intimidation.html&quot; title=&quot;Intimidation&quot;&gt;Intimidation&lt;/a&gt; &#224; la place d&#39;un test de &lt;a class=&quot;pagelink&quot; href=&quot;Diplomatie.html&quot; title=&quot;Diplomatie&quot;&gt;Diplomatie&lt;/a&gt; lorsqu&#39;il tente de recueillir des informations.&lt;/td&gt;&lt;td&gt;12 305 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-Denchev&#234;trement-Ectoplasmique.html&quot; title=&quot;Sceptre d&amp;#39;enchev&#234;trement ectoplasmique&quot;&gt;Enchev&#234;trement ectoplasmique&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MTT&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Trois fois par jour par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt;, permet de faire sortir des mains du sol dans un rayon de 18m (12 c).&lt;/td&gt;&lt;td&gt;18 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-De-Mal&#233;dictions-Mineures.html&quot; title=&quot;Sceptre de mal&#233;dictions mineures&quot;&gt;Mal&#233;dictions mineures&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MTT&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Trois fois par jour, apr&#232;s avoir touch&#233; une cr&#233;ature, d&#233;livre une mal&#233;diction par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Libre.html&quot; title=&quot;Action libre&quot;&gt;action libre&lt;/a&gt;.&lt;/td&gt;&lt;td&gt;20 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-De-Fosses-P&#233;rilleuses.html&quot; title=&quot;Sceptre de fosses p&#233;rilleuses&quot;&gt;Fosses p&#233;rilleuses&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MTT&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Permet de stocker un sort de niveau 3 ou moins dans le sceptre. Lors d&#39;un sort de fosse, permet de d&#233;livrer le sort stock&#233; dans la fosse.&lt;/td&gt;&lt;td&gt;25 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-De-Soins-Entrav&#233;s.html&quot; title=&quot;Sceptre de soins entrav&#233;s&quot;&gt;Soins entrav&#233;s&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MTT&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Irradie une aura mod&#233;r&#233;e d&#39;&#233;nergie n&#233;gative qui affecte la gu&#233;rison magique dans un rayon de 18 m (12 c) autour du porteur.&lt;/td&gt;&lt;td&gt;30 000 po&lt;/td&gt;&lt;/tr&gt;&lt;tr CLASS=&quot;premier&quot;&gt;&lt;td&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sceptre-De-Force-Gravitationnelle.html&quot; title=&quot;Sceptre de force gravitationnelle&quot;&gt;Force gravitationnelle&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;sup&gt;MTT&lt;/sup&gt;&lt;/td&gt;&lt;td&gt;Permet de cr&#233;er un champ de gravit&#233; intensifi&#233;e dans un rayon de 18 m (12 c).&lt;/td&gt;&lt;td&gt;60 000 po&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/center&gt;&lt;br /&gt;&lt;br /&gt;

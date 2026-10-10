@@ -17,9 +17,7 @@
     &lt;/ul&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Personnage.html&quot; title=&quot;Cr&#233;er un personnage&quot;&gt;Cr&#233;er un personnage&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 class=&quot;separator&quot;&gt;Les personnages&lt;a class=&quot;headeranchor&quot; id=&quot;Les_personnages_1&quot; href=&quot;#Les_personnages_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonCARACTERISTIQUES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CARACTERISTIQUES&#39;);&quot; onmouseout=&quot;outButton(&#39;CARACTERISTIQUES&#39;);&quot; onclick=&quot;expandMenu(&#39;CARACTERISTIQUES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;Les caract&#233;ristiques&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les personnages&lt;a class=&quot;headeranchor&quot; id=&quot;Les_personnages_1&quot; href=&quot;#Les_personnages_1&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;Les caract&#233;ristiques&lt;/a&gt;
     &lt;ul ID=&quot;CARACTERISTIQUES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DETERMINER&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;D&#233;terminer les caract&#233;ristiques&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques.html#DETERMINERLESMODIFICATEURS&quot; title=&quot;Les caract&#233;ristiques&quot;&gt;D&#233;terminer les modificateurs&lt;/a&gt;&lt;/li&gt;
@@ -35,9 +33,7 @@
     &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Races.html&quot; title=&quot;Les races des personnages&quot;&gt;Les races&lt;/a&gt;&lt;/li&gt;
-    &lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonRACES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;RACES&#39;);&quot; onmouseout=&quot;outButton(&#39;RACES&#39;);&quot; onclick=&quot;expandMenu(&#39;RACES&#39;);&quot; /&gt;
-&lt;/div&gt;Les races de base
+    &lt;ul&gt;&lt;li&gt;Les races de base
         &lt;ul ID=&quot;RACES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Demi-Elfe.html&quot; title=&quot;Les demi-elfes&quot;&gt;Les demi-elfes&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;Les demi-orques&lt;/a&gt;&lt;/li&gt;
@@ -47,9 +43,7 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;Les humains&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;Les nains&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonRACESADDITIONNELLES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;RACESADDITIONNELLES&#39;);&quot; onmouseout=&quot;outButton(&#39;RACESADDITIONNELLES&#39;);&quot; onclick=&quot;expandMenu(&#39;RACESADDITIONNELLES&#39;);&quot; /&gt;
-&lt;/div&gt;Les races additionnelles
+        &lt;li&gt;Les races additionnelles
         &lt;ul ID=&quot;RACESADDITIONNELLES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aasimar-(Race).html&quot; title=&quot;Les aasimars&quot;&gt;Les aasimars&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dhampir-(Race).html&quot; title=&quot;Les dhampirs&quot;&gt;Les dhampirs&lt;/a&gt;&lt;/li&gt;
@@ -68,9 +62,7 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tengu-(Race).html&quot; title=&quot;Les tengus&quot;&gt;Les tengus&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tieffelin-(Race).html&quot; title=&quot;Les tieffelins&quot;&gt;Les tieffelins&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonRACESEXTRAORDINAIRES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;RACESEXTRAORDINAIRES&#39;);&quot; onmouseout=&quot;outButton(&#39;RACESEXTRAORDINAIRES&#39;);&quot; onclick=&quot;expandMenu(&#39;RACESEXTRAORDINAIRES&#39;);&quot; /&gt;
-&lt;/div&gt;Les races extraordinaires
+        &lt;li&gt;Les races extraordinaires
         &lt;ul ID=&quot;RACESEXTRAORDINAIRES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aquatique-(Race).html&quot; title=&quot;Les aquatiques&quot;&gt;Les aquatiques&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changelin-(Race).html&quot; title=&quot;Les changelins&quot;&gt;Les changelins&lt;/a&gt;&lt;/li&gt;
@@ -87,9 +79,7 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vishkanya-(Race).html&quot; title=&quot;Les vishkanyas&quot;&gt;Les vishkanyas&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Wayang-(Race).html&quot; title=&quot;Les wayangs&quot;&gt;Les wayangs&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonRACESMONSTRUEUSES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;RACESMONSTRUEUSES&#39;);&quot; onmouseout=&quot;outButton(&#39;RACESMONSTRUEUSES&#39;);&quot; onclick=&quot;expandMenu(&#39;RACESMONSTRUEUSES&#39;);&quot; /&gt;
-&lt;/div&gt;Les races monstrueuses
+        &lt;li&gt;Les races monstrueuses
         &lt;ul ID=&quot;RACESMONSTRUEUSES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Andro&#239;de-(Race).html&quot; title=&quot;Les andro&#239;des&quot;&gt;Les andro&#239;des&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Changepeau-(Race).html&quot; title=&quot;Les changepeaux&quot;&gt;Les changepeaux&lt;/a&gt;&lt;/li&gt;
@@ -108,9 +98,7 @@
     &lt;/ul&gt;
 &lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html&quot; title=&quot;Les classes&quot;&gt;Les classes&lt;/a&gt;&lt;/li&gt;
-    &lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonCLASSES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSES&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSES&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSES&#39;);&quot; /&gt;
-&lt;/div&gt;Les classes de base
+    &lt;ul&gt;&lt;li&gt;Les classes de base
         &lt;ul ID=&quot;CLASSES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare.html&quot; title=&quot;Le barbare&quot;&gt;Le barbare&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-De-Rage.html&quot; title=&quot;Les pouvoirs de rage du barbare&quot;&gt;pouvoirs de rage&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barde.html&quot; title=&quot;Le barde&quot;&gt;Le barde&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Repr&#233;sentations.html&quot; title=&quot;Les repr&#233;sentations bardiques du barde&quot;&gt;repr&#233;sentations de barde&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Chefs-Doeuvre.html&quot; title=&quot;Les chefs d&amp;#39;œuvre du barde&quot;&gt;chefs d&#39;oeuvre&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
@@ -124,9 +112,7 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#244;deur.html&quot; title=&quot;Le r&#244;deur&quot;&gt;Le r&#244;deur&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;compagnons animaux&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges-De-R&#244;deur.html&quot; title=&quot;Pi&#232;ges de r&#244;deur&quot;&gt;pi&#232;ges de r&#244;deur&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Roublard.html&quot; title=&quot;Le roublard&quot;&gt;Le roublard&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Talents.html&quot; title=&quot;Les talents de roublard&quot;&gt;talents de roublard&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
         &lt;/ul&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonCLASSESSUPPLEMENTAIRES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESSUPPLEMENTAIRES&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESSUPPLEMENTAIRES&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESSUPPLEMENTAIRES&#39;);&quot; /&gt;
-&lt;/div&gt;Les classes suppl&#233;mentaires
+        &lt;li&gt;Les classes suppl&#233;mentaires
         &lt;ul ID=&quot;CLASSESSUPPLEMENTAIRES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alchimiste.html&quot; title=&quot;L&amp;#39;alchimiste&quot;&gt;L&#39;alchimiste&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;couvertes.html&quot; title=&quot;Les d&#233;couvertes d&amp;#39;alchimiste&quot;&gt;d&#233;couvertes d&#39;alchimiste&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Antipaladin.html&quot; title=&quot;L&amp;#39;antipaladin&quot;&gt;L&#39;antipaladin&lt;/a&gt;&lt;/li&gt;
@@ -143,9 +129,7 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Samoura&#239;.html&quot; title=&quot;Le samoura&#239;&quot;&gt;Le samoura&#239;&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Ordres.html&quot; title=&quot;Les ordres de chevalerie&quot;&gt;ordres pour samoura&#239;&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt; 
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorci&#232;re.html&quot; title=&quot;La sorci&#232;re&quot;&gt;La sorci&#232;re&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Mal&#233;fices.html&quot; title=&quot;Les mal&#233;fices de la sorci&#232;re&quot;&gt;mal&#233;fices&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Protecteurs.html&quot; title=&quot;Les protecteurs de la sorci&#232;re&quot;&gt;protecteurs&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
         &lt;/ul&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonCLASSESHYBRIDES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESHYBRIDES&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESHYBRIDES&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESHYBRIDES&#39;);&quot; /&gt;
-&lt;/div&gt;Les classes hybrides
+        &lt;li&gt;Les classes hybrides
         &lt;ul ID=&quot;CLASSESHYBRIDES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arcaniste.html&quot; title=&quot;L&amp;#39;arcaniste&quot;&gt;L’arcaniste&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Exploitations.html&quot; title=&quot;Les exploitations d&amp;#39;arcaniste&quot;&gt;exploitations&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bretteur.html&quot; title=&quot;Le bretteur&quot;&gt;Le bretteur&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Exploits-(Bretteur).html&quot; title=&quot;Les exploits du bretteur&quot;&gt;exploits&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
@@ -158,9 +142,7 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Scalde.html&quot; title=&quot;Le scalde&quot;&gt;Le scalde&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Chants-De-Rage.html&quot; title=&quot;Les chants de rage du scalde&quot;&gt;chants de rage&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tueur.html&quot; title=&quot;Le tueur&quot;&gt;Le tueur&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Talents-(Tueur).html&quot; title=&quot;Les talents de tueur&quot;&gt;talents&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
         &lt;/ul&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonCLASSESOCCULTES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLASSESOCCULTES&#39;);&quot; onmouseout=&quot;outButton(&#39;CLASSESOCCULTES&#39;);&quot; onclick=&quot;expandMenu(&#39;CLASSESOCCULTES&#39;);&quot; /&gt;
-&lt;/div&gt;Les classes occultes
+        &lt;li&gt;Les classes occultes
         &lt;ul ID=&quot;CLASSESOCCULTES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cin&#233;tiste.html&quot; title=&quot;Le cin&#233;tiste&quot;&gt;Le cin&#233;tiste&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;&#201;l&#233;ments.html&quot; title=&quot;Les &#233;l&#233;ments du cin&#233;tiste&quot;&gt;&#233;l&#233;ments&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Talents-Sauvages.html&quot; title=&quot;Les talents sauvages du cin&#233;tiste&quot;&gt;talents sauvages&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Hypnotiseur.html&quot; title=&quot;L&amp;#39;hypnotiseur&quot;&gt;L&#39;hypnotiseur&lt;/a&gt; &lt;i&gt;(&lt;a class=&quot;pagelink&quot; href=&quot;Inductions.html&quot; title=&quot;Les inductions d&amp;#39;hypnotiseur&quot;&gt;inductions&lt;/a&gt;)&lt;/i&gt;&lt;/li&gt;
@@ -173,9 +155,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Compagnons-Animaux.html&quot; title=&quot;Les compagnons animaux du druide&quot;&gt;Les compagnons animaux&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes.html#ARCHETYPES&quot; title=&quot;Les classes&quot;&gt;Les arch&#233;types de classe&lt;/a&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonPCLASSES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PCLASSES&#39;);&quot; onmouseout=&quot;outButton(&#39;PCLASSES&#39;);&quot; onclick=&quot;expandMenu(&#39;PCLASSES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Prestige.html&quot; title=&quot;Les classes de prestige&quot;&gt;Les classes de prestige&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Prestige.html&quot; title=&quot;Les classes de prestige&quot;&gt;Les classes de prestige&lt;/a&gt;
     &lt;ul ID=&quot;PCLASSES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Acolyte-De-La-Foi-Verte.html&quot; title=&quot;Acolyte de la Nature&quot;&gt;Acolyte de la Nature&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte-De-La-Flamme-Noire.html&quot; title=&quot;Adepte de la Flamme noire&quot;&gt;Adepte de la Flamme noire&lt;/a&gt; (&lt;i&gt;PP&lt;/i&gt;)&lt;/li&gt;
@@ -248,9 +228,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liseuse-De-Tourment.html&quot; title=&quot;Voyante&quot;&gt;Voyante&lt;/a&gt; (CCMI)&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonCOMPETENCES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;COMPETENCES&#39;);&quot; onmouseout=&quot;outButton(&#39;COMPETENCES&#39;);&quot; onclick=&quot;expandMenu(&#39;COMPETENCES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;Les comp&#233;tences&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html&quot; title=&quot;Les comp&#233;tences&quot;&gt;Les comp&#233;tences&lt;/a&gt;
     &lt;ul ID=&quot;COMPETENCES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#ACQUERIR&quot; title=&quot;Les comp&#233;tences&quot;&gt;Acqu&#233;rir des comp&#233;tences&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences.html#TESTSDECOMPETENCES&quot; title=&quot;Les comp&#233;tences&quot;&gt;Les tests de comp&#233;tences&lt;/a&gt;&lt;/li&gt;
@@ -284,9 +262,7 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Vol.html&quot; title=&quot;Vol&quot;&gt;Vol&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonDONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DONS&#39;);&quot; onmouseout=&quot;outButton(&#39;DONS&#39;);&quot; onclick=&quot;expandMenu(&#39;DONS&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons.html&quot; title=&quot;Les dons&quot;&gt;Les dons&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons.html&quot; title=&quot;Les dons&quot;&gt;Les dons&lt;/a&gt;
     &lt;ul ID=&quot;DONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#CONDITIONS&quot; title=&quot;Les dons&quot;&gt;Les conditions des dons&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons.html#TYPES&quot; title=&quot;Les dons&quot;&gt;Les types de dons&lt;/a&gt;&lt;/li&gt;
@@ -312,9 +288,7 @@
         &lt;/ul&gt;
         &lt;li&gt;Voir aussi : &lt;a class=&quot;internallink&quot; href=&quot;GetFile.aspx?File=%2FADJ%2FPathfinder-RPG%2FArbresDonsUM.pdf&quot; title=&quot;Guide des arbres de dons pour pathfinder (pdf)&quot;&gt;Guide des arbres de dons pour pathfinder (pdf)&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonTRAITS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;TRAITS&#39;);&quot; onmouseout=&quot;outButton(&#39;TRAITS&#39;);&quot; onclick=&quot;expandMenu(&#39;TRAITS&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Traits.html&quot; title=&quot;Les traits de personnage&quot;&gt;Les traits de personnage&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Traits.html&quot; title=&quot;Les traits de personnage&quot;&gt;Les traits de personnage&lt;/a&gt;
     &lt;ul ID=&quot;TRAITS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Traits-De-Base.html&quot; title=&quot;Les traits de base&quot;&gt;Les traits de base&lt;/a&gt;&lt;/li&gt;
             &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Traits-De-Combat.html&quot; title=&quot;Les traits de combat&quot;&gt;Traits de combat&lt;/a&gt;&lt;/li&gt;
@@ -345,9 +319,7 @@
 &lt;/td&gt;
 &lt;td width=&quot;1%&quot;&gt;&lt;/td&gt;
 &lt;td width=&quot;32%&quot;&gt;
-&lt;h2 class=&quot;separator&quot;&gt;L&#39;&#233;quipement&lt;a class=&quot;headeranchor&quot; id=&quot;L&#233;quipement_2&quot; href=&quot;#L&#233;quipement_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonARMES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;ARMES&#39;);&quot; onmouseout=&quot;outButton(&#39;ARMES&#39;);&quot; onclick=&quot;expandMenu(&#39;ARMES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Les armes&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;L&#39;&#233;quipement&lt;a class=&quot;headeranchor&quot; id=&quot;L&#233;quipement_2&quot; href=&quot;#L&#233;quipement_2&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes.html&quot; title=&quot;Tableau r&#233;capitulatif des armes&quot;&gt;Les armes&lt;/a&gt;
     &lt;ul ID=&quot;ARMES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;Caract&#233;ristiques des armes&lt;/a&gt;&lt;/li&gt;
         &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armes.html#Attributs_des_armes_7&quot; title=&quot;Caract&#233;ristiques des armes&quot;&gt;Attributs des armes&lt;/a&gt;&lt;/li&gt;
@@ -360,9 +332,7 @@
         &lt;/ul&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Armes.html&quot; title=&quot;Descriptions individuelles des armes&quot;&gt;Descriptions individuelles des armes&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonARMESAFEU&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;ARMESAFEU&#39;);&quot; onmouseout=&quot;outButton(&#39;ARMESAFEU&#39;);&quot; onclick=&quot;expandMenu(&#39;ARMESAFEU&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes-&#192;-Feu.html&quot; title=&quot;Tableau r&#233;capitulatif des armes &#224; feu&quot;&gt;Les armes &#224; feu&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armes-&#192;-Feu.html&quot; title=&quot;Tableau r&#233;capitulatif des armes &#224; feu&quot;&gt;Les armes &#224; feu&lt;/a&gt;
     &lt;ul ID=&quot;ARMESAFEU&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html#Les_armes_&#224;_feu_dans_une_campagne_0&quot; title=&quot;Caract&#233;ristiques des armes &#224; feu&quot;&gt;Les armes &#224; feu dans une campagne&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armes-&#192;-Feu.html#Les_r&#232;gles_relatives_aux_armes_&#224;_feu_15&quot; title=&quot;Caract&#233;ristiques des armes &#224; feu&quot;&gt;Caract&#233;ristiques des armes &#224; feu&lt;/a&gt;&lt;/li&gt;
@@ -383,9 +353,7 @@
         &lt;/ul&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Armes-&#192;-Feu.html&quot; title=&quot;Descriptions individuelles des armes &#224; feu&quot;&gt;Descriptions individuelles des armes &#224; feu&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonENGINSDESIEGE&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;ENGINSDESIEGE&#39;);&quot; onmouseout=&quot;outButton(&#39;ENGINSDESIEGE&#39;);&quot; onclick=&quot;expandMenu(&#39;ENGINSDESIEGE&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Engins-De-Si&#232;ge.html&quot; title=&quot;Tableau r&#233;capitulatif des engins de si&#232;ge&quot;&gt;Les engins de si&#232;ge&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Engins-De-Si&#232;ge.html&quot; title=&quot;Tableau r&#233;capitulatif des engins de si&#232;ge&quot;&gt;Les engins de si&#232;ge&lt;/a&gt;&lt;/li&gt;
     &lt;ul ID=&quot;ENGINSDESIEGE&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Engins-De-Si&#232;ge.html&quot; title=&quot;Engins de si&#232;ge&quot;&gt;Caract&#233;ristiques des engins de si&#232;ge&lt;/a&gt;&lt;/li&gt;
         &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Engins-De-Si&#232;ge.html#Propri&#233;t&#233;s_des_engins_de_si&#232;ge_1&quot; title=&quot;Engins de si&#232;ge&quot;&gt;Propri&#233;t&#233;s des engins de si&#232;ge&lt;/a&gt;&lt;/li&gt;
@@ -394,9 +362,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Solidit&#233;-Et-Points-De-Vie-Des-Structures.html&quot; title=&quot;Solidit&#233; et points de vie des structures&quot;&gt;Solidit&#233; et points de vie des structures&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Engins-De-Si&#232;ge.html&quot; title=&quot;Descriptions individuelles des engins de si&#232;ge&quot;&gt;Descriptions individuelles des engins de si&#232;ge&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonARMURES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;ARMURES&#39;);&quot; onmouseout=&quot;outButton(&#39;ARMURES&#39;);&quot; onclick=&quot;expandMenu(&#39;ARMURES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html&quot; title=&quot;Tableau r&#233;capitulatif des armures&quot;&gt;Les armures&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Armures.html&quot; title=&quot;Tableau r&#233;capitulatif des armures&quot;&gt;Les armures&lt;/a&gt;
     &lt;ul ID=&quot;ARMURES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Caract&#233;ristiques des armures&lt;/a&gt;&lt;/li&gt;
         &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Caract&#233;ristiques-Des-Armures.html#Attributs_des_armures_7&quot; title=&quot;Caract&#233;ristiques des armures&quot;&gt;Attributs des armures&lt;/a&gt;&lt;/li&gt;
@@ -409,9 +375,7 @@
     &lt;/ul&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mat&#233;riaux-Sp&#233;ciaux.html&quot; title=&quot;Les mat&#233;riaux sp&#233;ciaux&quot;&gt;Les mat&#233;riaux sp&#233;ciaux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonMARCHANDISESSERVICES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MARCHANDISESSERVICES&#39;);&quot; onmouseout=&quot;outButton(&#39;MARCHANDISESSERVICES&#39;);&quot; onclick=&quot;expandMenu(&#39;MARCHANDISESSERVICES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marchandises-Et-Services.html&quot; title=&quot;Les marchandises et services&quot;&gt;Les marchandises et les services&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marchandises-Et-Services.html&quot; title=&quot;Les marchandises et services&quot;&gt;Les marchandises et les services&lt;/a&gt;
     &lt;ul ID=&quot;MARCHANDISESSERVICES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Animaux,-Montures-Et-Leur-&#201;quipement.html&quot; title=&quot;Animaux, montures et leur &#233;quipement&quot;&gt;Animaux, montures et leur &#233;quipement&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Chroniques-Des-&#201;claireurs.html&quot; title=&quot;Chroniques des Explorateurs&quot;&gt;Chroniques des Explorateurs&lt;/a&gt;&lt;/li&gt;
@@ -426,9 +390,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Trousses-D&#233;quipement.html&quot; title=&quot;Trousses d&amp;#39;&#233;quipement&quot;&gt;Trousses d&#39;&#233;quipement&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;V&#234;tements.html&quot; title=&quot;V&#234;tements&quot;&gt;V&#234;tements&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonOBJETSALCHIMIQUES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;OBJETSALCHIMIQUES&#39;);&quot; onmouseout=&quot;outButton(&#39;OBJETSALCHIMIQUES&#39;);&quot; onclick=&quot;expandMenu(&#39;OBJETSALCHIMIQUES&#39;);&quot; /&gt;
-&lt;/div&gt;Les objets alchimiques
+    &lt;li&gt;Les objets alchimiques
     &lt;ul ID=&quot;OBJETSALCHIMIQUES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armes-Alchimiques.html&quot; title=&quot;Armes alchimiques&quot;&gt;Armes alchimiques&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Outils-Alchimiques.html&quot; title=&quot;Outils alchimiques&quot;&gt;Outils alchimiques&lt;/a&gt;&lt;/li&gt;
@@ -441,9 +403,7 @@
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Poids-Transportable.html&quot; title=&quot;Poids transportable&quot;&gt;Le poids transportable&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;actifs-Alchimiques.html&quot; title=&quot;R&#233;actifs alchimiques&quot;&gt;Les r&#233;actifs alchimiques&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 class=&quot;separator&quot;&gt;Les objets magiques&lt;a class=&quot;headeranchor&quot; id=&quot;Les_objets_magiques_3&quot; href=&quot;#Les_objets_magiques_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESOM&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESOM&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESOM&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESOM&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html&quot; title=&quot;R&#232;gles relatives aux objets magiques&quot;&gt;R&#232;gles relatives aux objets magiques&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les objets magiques&lt;a class=&quot;headeranchor&quot; id=&quot;Les_objets_magiques_3&quot; href=&quot;#Les_objets_magiques_3&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html&quot; title=&quot;R&#232;gles relatives aux objets magiques&quot;&gt;R&#232;gles relatives aux objets magiques&lt;/a&gt;
     &lt;ul ID=&quot;REGLESOM&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html#OBJMAGIQUESDETECTION&quot; title=&quot;R&#232;gles relatives aux objets magiques&quot;&gt;Objets magiques et d&#233;tection de la magie&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Relatives-Aux-Objets-Magiques.html#UTILISER&quot; title=&quot;R&#232;gles relatives aux objets magiques&quot;&gt;Utilisation des objets magiques&lt;/a&gt;&lt;/li&gt;
@@ -454,9 +414,7 @@
     &lt;/ul&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Des-Objets-Magiques.html&quot; title=&quot;Descriptions des objets magiques&quot;&gt;Description des objets magiques&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation d&#39;objets magiques&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonOBJMAG&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;OBJMAG&#39;);&quot; onmouseout=&quot;outButton(&#39;OBJMAG&#39;);&quot; onclick=&quot;expandMenu(&#39;OBJMAG&#39;);&quot; /&gt;
-&lt;/div&gt;Objets magiques par cat&#233;gorie
+    &lt;li&gt;Objets magiques par cat&#233;gorie
     &lt;ul ID=&quot;OBJMAG&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Armes-Magiques.html&quot; title=&quot;Les armes magiques&quot;&gt;Les armes magiques&lt;/a&gt;&lt;/li&gt;
         &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Descriptions-Individuelles-Des-Propri&#233;t&#233;s-Sp&#233;ciales-Des-Armes.html&quot; title=&quot;Descriptions individuelles des propri&#233;t&#233;s sp&#233;ciales des armes&quot;&gt;propri&#233;t&#233;s sp&#233;ciales&lt;/a&gt;&lt;/li&gt;
@@ -509,9 +467,7 @@
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pouvoirs-Sp&#233;ciaux.html&quot; title=&quot;Les pouvoirs sp&#233;ciaux&quot;&gt;Les pouvoirs sp&#233;ciaux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;Liste alphab&#233;tique des sorts (&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts.html&quot; title=&quot;Liste des sorts&quot;&gt;de A &#224; D&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-(Suite).html&quot; title=&quot;Liste des sorts (suite)&quot;&gt;de E &#224; O&lt;/a&gt;, &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-(Fin).html&quot; title=&quot;Liste des sorts (fin)&quot;&gt;de P &#224; Z&lt;/a&gt;)&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonSORTS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;SORTS&#39;);&quot; onmouseout=&quot;outButton(&#39;SORTS&#39;);&quot; onclick=&quot;expandMenu(&#39;SORTS&#39;);&quot; /&gt;
-&lt;/div&gt;Listes des sorts par classe
+    &lt;li&gt;Listes des sorts par classe
     &lt;ul ID=&quot;SORTS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Formules-Dalchimiste.html&quot; title=&quot;Liste des formules d&amp;#39;alchimiste&quot;&gt;Alchimiste&lt;/a&gt; : &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Formules-Dalchimiste.html#1&quot; title=&quot;Liste des formules d&amp;#39;alchimiste&quot;&gt;1&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Formules-Dalchimiste.html#2&quot; title=&quot;Liste des formules d&amp;#39;alchimiste&quot;&gt;2&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Formules-Dalchimiste.html#3&quot; title=&quot;Liste des formules d&amp;#39;alchimiste&quot;&gt;3&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Formules-Dalchimiste.html#4&quot; title=&quot;Liste des formules d&amp;#39;alchimiste&quot;&gt;4&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Formules-Dalchimiste.html#5&quot; title=&quot;Liste des formules d&amp;#39;alchimiste&quot;&gt;5&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Formules-Dalchimiste.html#6&quot; title=&quot;Liste des formules d&amp;#39;alchimiste&quot;&gt;6&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Dantipaladin.html&quot; title=&quot;Liste des sorts d&amp;#39;antipaladin&quot;&gt;Antipaladin&lt;/a&gt; : &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Dantipaladin.html#1&quot; title=&quot;Liste des sorts d&amp;#39;antipaladin&quot;&gt;1&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Dantipaladin.html#2&quot; title=&quot;Liste des sorts d&amp;#39;antipaladin&quot;&gt;2&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Dantipaladin.html#3&quot; title=&quot;Liste des sorts d&amp;#39;antipaladin&quot;&gt;3&lt;/a&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Sorts-Dantipaladin.html#4&quot; title=&quot;Liste des sorts d&amp;#39;antipaladin&quot;&gt;4&lt;/a&gt;&lt;/li&gt;
@@ -542,9 +498,7 @@
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grimoires.html&quot; title=&quot;Les grimoires&quot;&gt;Les grimoires&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;atures-Artificielles.html&quot; title=&quot;Cr&#233;atures artificielles&quot;&gt;Construire et modifier des cr&#233;atures artificielles&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Lier-Un-Ext&#233;rieur.html&quot; title=&quot;Lier un ext&#233;rieur&quot;&gt;Lier un ext&#233;rieur&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonMOTSDEPOUVOIRS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MOTSDEPOUVOIRS&#39;);&quot; onmouseout=&quot;outButton(&#39;MOTSDEPOUVOIRS&#39;);&quot; onclick=&quot;expandMenu(&#39;MOTSDEPOUVOIRS&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Les-Mots-De-Pouvoir.html&quot; title=&quot;Les mots de pouvoir&quot;&gt;Les mots de pouvoir&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Les-Mots-De-Pouvoir.html&quot; title=&quot;Les mots de pouvoir&quot;&gt;Les mots de pouvoir&lt;/a&gt;
     &lt;ul ID=&quot;MOTSDEPOUVOIRS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mots-Cibles.html&quot; title=&quot;Les mots cibles&quot;&gt;Les mots cibles&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mots-Effets.html&quot; title=&quot;Les mots effets&quot;&gt;Les mots effets&lt;/a&gt;&lt;/li&gt;
@@ -553,9 +507,7 @@
     &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 class=&quot;separator&quot;&gt;Le combat&lt;a class=&quot;headeranchor&quot; id=&quot;Le_combat_6&quot; href=&quot;#Le_combat_6&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;roulement-Dun-Combat.html&quot; title=&quot;Le d&#233;roulement d&amp;#39;un combat&quot;&gt;Le d&#233;roulement d&#39;un combat&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonVALEURSCOMBAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;VALEURSCOMBAT&#39;);&quot; onmouseout=&quot;outButton(&#39;VALEURSCOMBAT&#39;);&quot; onclick=&quot;expandMenu(&#39;VALEURSCOMBAT&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html&quot; title=&quot;Valeurs de combat&quot;&gt;Les valeurs de combat&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html&quot; title=&quot;Valeurs de combat&quot;&gt;Les valeurs de combat&lt;/a&gt;
     &lt;ul ID=&quot;VALEURSCOMBAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDATTAQUE&quot; title=&quot;Valeurs de combat&quot;&gt;Jet d&#39;attaque&lt;/a&gt; et &lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#BONUSDATTAQUE&quot; title=&quot;Valeurs de combat&quot;&gt;bonus d&#39;attaque&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#CA&quot; title=&quot;Valeurs de combat&quot;&gt;Classe d’armure&lt;/a&gt;&lt;/li&gt;
@@ -565,9 +517,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#VITESSEDEDEPLACEMENT&quot; title=&quot;Valeurs de combat&quot;&gt;Vitesse de d&#233;placement&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Valeurs-De-Combat.html#JETDESAUVEGARDE&quot; title=&quot;Valeurs de combat&quot;&gt;Jets de sauvegarde&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonACTIONSCOMBAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;ACTIONSCOMBAT&#39;);&quot; onmouseout=&quot;outButton(&#39;ACTIONSCOMBAT&#39;);&quot; onclick=&quot;expandMenu(&#39;ACTIONSCOMBAT&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html&quot; title=&quot;Les actions en combat&quot;&gt;Les actions en combat&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions.html&quot; title=&quot;Les actions en combat&quot;&gt;Les actions en combat&lt;/a&gt;
     &lt;ul ID=&quot;ACTIONSCOMBAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Simples.html&quot; title=&quot;Actions simples&quot;&gt;Actions simples&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-De-Mouvement.html&quot; title=&quot;Actions de mouvement&quot;&gt;Actions de mouvement&lt;/a&gt;&lt;/li&gt;
@@ -581,18 +531,14 @@
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Blessures-Et-Mort.html&quot; title=&quot;Blessures et mort&quot;&gt;Les blessures et la mort&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;placement-Et-Position.html&quot; title=&quot;D&#233;placement et position&quot;&gt;Les d&#233;placements en combat&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Petites-Et-Grandes-Cr&#233;atures.html&quot; title=&quot;Cr&#233;atures de taille inf&#233;rieure ou sup&#233;rieure &#224; la moyenne&quot;&gt;Les petites et grandes cr&#233;atures&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonMODIFICATEURSCOMBAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MODIFICATEURSCOMBAT&#39;);&quot; onmouseout=&quot;outButton(&#39;MODIFICATEURSCOMBAT&#39;);&quot; onclick=&quot;expandMenu(&#39;MODIFICATEURSCOMBAT&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html&quot; title=&quot;Modificateurs de combat&quot;&gt;Les modificateurs de combat&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html&quot; title=&quot;Modificateurs de combat&quot;&gt;Les modificateurs de combat&lt;/a&gt;&lt;/li&gt;
     &lt;ul ID=&quot;MODIFICATEURSCOMBAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#ABRI&quot; title=&quot;Modificateurs de combat&quot;&gt;Abri&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#CAMOUFLAGE&quot; title=&quot;Modificateurs de combat&quot;&gt;Camouflage&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#PRISEENTENAILLE&quot; title=&quot;Modificateurs de combat&quot;&gt;Prise en tenaille&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Modificateurs-De-Combat.html#SANSDEFENSE&quot; title=&quot;Modificateurs de combat&quot;&gt;Cible sans d&#233;fense&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonACTIONSSPECIALES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;ACTIONSSPECIALES&#39;);&quot; onmouseout=&quot;outButton(&#39;ACTIONSSPECIALES&#39;);&quot; onclick=&quot;expandMenu(&#39;ACTIONSSPECIALES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html&quot; title=&quot;Actions sp&#233;ciales&quot;&gt;Les actions sp&#233;ciales&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html&quot; title=&quot;Actions sp&#233;ciales&quot;&gt;Les actions sp&#233;ciales&lt;/a&gt;
     &lt;ul ID=&quot;ACTIONSSPECIALES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#AIDERQQN&quot; title=&quot;Actions sp&#233;ciales&quot;&gt;Aider quelqu&#39;un&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Actions-Sp&#233;ciales.html#ARMEASPERSION&quot; title=&quot;Actions sp&#233;ciales&quot;&gt;Lancer une arme &#224; aspersion&lt;/a&gt;&lt;/li&gt;
@@ -620,9 +566,7 @@
 &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Combat-De-Spectacle.html&quot; title=&quot;Les combats de spectacle&quot;&gt;Les combats de spectacle&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duels.html&quot; title=&quot;Les duels&quot;&gt;Les duels&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Points-H&#233;ro&#239;ques.html&quot; title=&quot;Les points h&#233;ro&#239;ques&quot;&gt;Les points h&#233;ro&#239;ques&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESALTERNATIVES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESALTERNATIVES&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESALTERNATIVES&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESALTERNATIVES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;gles-Alternatives.html&quot; title=&quot;R&#232;gles alternatives&quot;&gt;R&#232;gles alternatives de l&#39;AG&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#233;gles-Alternatives.html&quot; title=&quot;R&#232;gles alternatives&quot;&gt;R&#232;gles alternatives de l&#39;AG&lt;/a&gt;
     &lt;ul ID=&quot;REGLESALTERNATIVES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Larmure-Comme-Rd.html&quot; title=&quot;L&amp;#39;armure comme RD&quot;&gt;L&#39;armure comme r&#233;duction de d&#233;g&#226;ts&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Frappes-Cibl&#233;es.html&quot; title=&quot;Frappes cibl&#233;es&quot;&gt;Les frappes cibl&#233;es&lt;/a&gt;&lt;/li&gt;
@@ -642,9 +586,7 @@
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rencontres.html#TRESOR&quot; title=&quot;Les rencontres&quot;&gt;Les tr&#233;sors&lt;/a&gt;&lt;/li&gt;
     &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gemmes-Et-Bijoux.html&quot; title=&quot;Gemmes et bijoux&quot;&gt;Les gemmes et les bijoux&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Dart.html&quot; title=&quot;Les objets d&amp;#39;art&quot;&gt;Les objets d&#39;art&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonGENERATEURTRESOR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;GENERATEURTRESOR&#39;);&quot; onmouseout=&quot;outButton(&#39;GENERATEURTRESOR&#39;);&quot; onclick=&quot;expandMenu(&#39;GENERATEURTRESOR&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;G&#233;n&#233;rateur-De-Tr&#233;sors.html&quot; title=&quot;G&#233;n&#233;rateur de tr&#233;sors&quot;&gt;Le g&#233;n&#233;rateur al&#233;atoire de tr&#233;sors&lt;/a&gt;
+        &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;G&#233;n&#233;rateur-De-Tr&#233;sors.html&quot; title=&quot;G&#233;n&#233;rateur de tr&#233;sors&quot;&gt;Le g&#233;n&#233;rateur al&#233;atoire de tr&#233;sors&lt;/a&gt;
         &lt;ul ID=&quot;GENERATEURTRESOR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Armes.html&quot; title=&quot;D&#233;termination al&#233;atoire des armes&quot;&gt;armes&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;termination-Al&#233;atoire-Des-Armures-Et-Des-Boucliers.html&quot; title=&quot;D&#233;termination al&#233;atoire des armures et des boucliers&quot;&gt;armures et boucliers&lt;/a&gt;&lt;/li&gt;
@@ -659,9 +601,7 @@
     &lt;/ul&gt;
 &lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Profil-Des-Monstres.html&quot; title=&quot;Lire le profil des monstres&quot;&gt;Lire le profil des monstres&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonLISTESMONSTRES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;LISTESMONSTRES&#39;);&quot; onmouseout=&quot;outButton(&#39;LISTESMONSTRES&#39;);&quot; onclick=&quot;expandMenu(&#39;LISTESMONSTRES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Alphab&#233;tique-Des-Monstres.html&quot; title=&quot;Liste alphab&#233;tique des monstres&quot;&gt;Liste alphab&#233;tique des monstres&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Alphab&#233;tique-Des-Monstres.html&quot; title=&quot;Liste alphab&#233;tique des monstres&quot;&gt;Liste alphab&#233;tique des monstres&lt;/a&gt;
     &lt;ul ID=&quot;LISTESMONSTRES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Fp.html&quot; title=&quot;Liste des monstres par FP&quot;&gt;Liste des monstres par FP&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Fp-Avec-Familles.html&quot; title=&quot;Liste des monstres par FP avec familles&quot;&gt;avec familles&lt;/a&gt;)&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Milieu-Naturel.html&quot; title=&quot;Liste des monstres par milieu naturel&quot;&gt;Liste des monstres par milieu naturel&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Liste-Des-Monstres-Par-Milieu-Naturel-Avec-Familles.html&quot; title=&quot;Liste des monstres par milieu naturel avec familles&quot;&gt;avec familles&lt;/a&gt;)&lt;/li&gt;
@@ -674,9 +614,7 @@
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types.html&quot; title=&quot;Les arch&#233;types&quot;&gt;Les arch&#233;types de cr&#233;ature&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Galerie-De-Pnj.html&quot; title=&quot;Galerie de PNJ&quot;&gt;Galerie de PNJ&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonPNJ&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PNJ&#39;);&quot; onmouseout=&quot;outButton(&#39;PNJ&#39;);&quot; onclick=&quot;expandMenu(&#39;PNJ&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Les classes de PNJ&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-De-Pnj.html&quot; title=&quot;Classes de PNJ&quot;&gt;Les classes de PNJ&lt;/a&gt;
     &lt;ul ID=&quot;PNJ&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Adepte.html&quot; title=&quot;L&amp;#39;adepte&quot;&gt;L&#39;adepte&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Expert.html&quot; title=&quot;L&amp;#39;expert&quot;&gt;L&#39;expert&lt;/a&gt;&lt;/li&gt;
@@ -686,9 +624,7 @@
     &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Apparitions.html&quot; title=&quot;Les apparitions&quot;&gt;Les apparitions&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonAFFLICTIONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;AFFLICTIONS&#39;);&quot; onmouseout=&quot;outButton(&#39;AFFLICTIONS&#39;);&quot; onclick=&quot;expandMenu(&#39;AFFLICTIONS&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Afflictions.html&quot; title=&quot;Les afflictions&quot;&gt;Les afflictions&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Afflictions.html&quot; title=&quot;Les afflictions&quot;&gt;Les afflictions&lt;/a&gt;
     &lt;ul ID=&quot;AFFLICTIONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Drogues.html&quot; title=&quot;Les drogues et la d&#233;pendance&quot;&gt;Les drogues&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies.html&quot; title=&quot;Les maladies&quot;&gt;Les maladies&lt;/a&gt;&lt;/li&gt;
@@ -715,9 +651,7 @@
 &lt;/td&gt;
 &lt;td width=&quot;1%&quot;&gt;&lt;/td&gt;
 &lt;td width=&quot;32%&quot;&gt;
-&lt;h2 class=&quot;separator&quot;&gt;L&#39;environnement&lt;a class=&quot;headeranchor&quot; id=&quot;Lenvironnement_9&quot; href=&quot;#Lenvironnement_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonDONJONS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DONJONS&#39;);&quot; onmouseout=&quot;outButton(&#39;DONJONS&#39;);&quot; onclick=&quot;expandMenu(&#39;DONJONS&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html&quot; title=&quot;Les donjons&quot;&gt;Les donjons&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;L&#39;environnement&lt;a class=&quot;headeranchor&quot; id=&quot;Lenvironnement_9&quot; href=&quot;#Lenvironnement_9&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html&quot; title=&quot;Les donjons&quot;&gt;Les donjons&lt;/a&gt;
     &lt;ul ID=&quot;DONJONS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_diff&#233;rents_types_de_donjons_7&quot; title=&quot;Les donjons&quot;&gt;Les diff&#233;rents types de donjons&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_murs_0&quot; title=&quot;Les donjons&quot;&gt;Les murs&lt;/a&gt;&lt;/li&gt;
@@ -728,18 +662,14 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Les_&#233;boulements_5&quot; title=&quot;Les donjons&quot;&gt;Les &#233;boulements&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Donjons.html#Champignons_moisissures_et_limons_6&quot; title=&quot;Les donjons&quot;&gt;Champignons, moisissures et limons&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonPIEGES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PIEGES&#39;);&quot; onmouseout=&quot;outButton(&#39;PIEGES&#39;);&quot; onclick=&quot;expandMenu(&#39;PIEGES&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les pi&#232;ges&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les pi&#232;ges&lt;/a&gt;
     &lt;ul ID=&quot;PIEGES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DESCRIPTION&quot; title=&quot;Les pi&#232;ges&quot;&gt;Les diff&#233;rentes parties d&#39;un pi&#232;ge&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Pi&#232;ges.html#DIVERS&quot; title=&quot;Les pi&#232;ges&quot;&gt;&#201;l&#233;ments divers des pi&#232;ges&lt;/a&gt;&lt;/li&gt;&lt;br/&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Exemples-De-Pi&#232;ges.html&quot; title=&quot;Exemples de pi&#232;ges&quot;&gt;Exemples de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conception-De-Pi&#232;ges.html&quot; title=&quot;Conception d&amp;#39;un pi&#232;ge&quot;&gt;Conception de pi&#232;ges&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonEXTERIEUR&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;EXTERIEUR&#39;);&quot; onmouseout=&quot;outButton(&#39;EXTERIEUR&#39;);&quot; onclick=&quot;expandMenu(&#39;EXTERIEUR&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les aventures en ext&#233;rieur&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Les aventures en ext&#233;rieur&lt;/a&gt;
     &lt;ul ID=&quot;EXTERIEUR&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Se_perdre_4&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Se perdre&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#For&#234;ts_5&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;For&#234;ts&lt;/a&gt;&lt;/li&gt;
@@ -756,16 +686,12 @@
         &lt;/ul&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aventures-En-Ext&#233;rieur.html#Plaines_10&quot; title=&quot;Aventures en ext&#233;rieur&quot;&gt;Plaines&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonMILIEUAQUATIQUE&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUAQUATIQUE&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUAQUATIQUE&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html&quot; title=&quot;Le milieu aquatique&quot;&gt;Le milieu aquatique&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html&quot; title=&quot;Le milieu aquatique&quot;&gt;Le milieu aquatique&lt;/a&gt;
     &lt;ul ID=&quot;MILIEUAQUATIQUE&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Combats_sous-marins_0&quot; title=&quot;Le milieu aquatique&quot;&gt;Combats sous-marins&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Aquatique.html#Inondations_1&quot; title=&quot;Le milieu aquatique&quot;&gt;Inondations&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonMILIEUURBAIN&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;MILIEUURBAIN&#39;);&quot; onmouseout=&quot;outButton(&#39;MILIEUURBAIN&#39;);&quot; onclick=&quot;expandMenu(&#39;MILIEUURBAIN&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html&quot; title=&quot;Le milieu urbain&quot;&gt;Le milieu urbain&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html&quot; title=&quot;Le milieu urbain&quot;&gt;Le milieu urbain&lt;/a&gt;
     &lt;ul ID=&quot;MILIEUURBAIN&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Murs_denceinte_et_portes_0&quot; title=&quot;Le milieu urbain&quot;&gt;Murs d&#39;enceinte et portes&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Gardes_et_soldats_1&quot; title=&quot;Le milieu urbain&quot;&gt;Gardes et soldats&lt;/a&gt;&lt;/li&gt;
@@ -775,26 +701,20 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#B&#226;timents_5&quot; title=&quot;Le milieu urbain&quot;&gt;B&#226;timents&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Milieu-Urbain.html#Les_lumi&#232;res_de_la_ville_6&quot; title=&quot;Le milieu urbain&quot;&gt;Les lumi&#232;res de la ville&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonCLIMAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;CLIMAT&#39;);&quot; onmouseout=&quot;outButton(&#39;CLIMAT&#39;);&quot; onclick=&quot;expandMenu(&#39;CLIMAT&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html&quot; title=&quot;Le climat&quot;&gt;Le climat&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html&quot; title=&quot;Le climat&quot;&gt;Le climat&lt;/a&gt;
     &lt;ul ID=&quot;CLIMAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Pluie_neige_neige_fondue_et_gr&#234;le_1&quot; title=&quot;Le climat&quot;&gt;Pluie, neige, neige fondue et gr&#234;le&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Temp&#234;tes_2&quot; title=&quot;Le climat&quot;&gt;Temp&#234;tes&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Brouillard_3&quot; title=&quot;Le climat&quot;&gt;Brouillard&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Climat.html#Vents_4&quot; title=&quot;Le climat&quot;&gt;Vents&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonPLANS&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;PLANS&#39;);&quot; onmouseout=&quot;outButton(&#39;PLANS&#39;);&quot; onclick=&quot;expandMenu(&#39;PLANS&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;Les plans&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html&quot; title=&quot;Les plans&quot;&gt;Les plans&lt;/a&gt;
     &lt;ul ID=&quot;PLANS&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#D&#201;FINITIONPLAN&quot; title=&quot;Les plans&quot;&gt;Qu&#39;est-ce qu&#39;un plan ?&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans.html#CARACT&#201;RISTIQUESPLANS&quot; title=&quot;Les plans&quot;&gt;Caract&#233;ristiques des plans&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Grand-Au-Del&#224;.html&quot; title=&quot;Le grand au-del&#224;&quot;&gt;Les plans du grand au-del&#224;&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonDANGNAT&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;DANGNAT&#39;);&quot; onmouseout=&quot;outButton(&#39;DANGNAT&#39;);&quot; onclick=&quot;expandMenu(&#39;DANGNAT&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html&quot; title=&quot;Les dangers naturels&quot;&gt;Les dangers naturels&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html&quot; title=&quot;Les dangers naturels&quot;&gt;Les dangers naturels&lt;/a&gt;
     &lt;ul ID=&quot;DANGNAT&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ACIDE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;acide&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dangers-Naturels.html#ASPHYXIE&quot; title=&quot;Les dangers naturels&quot;&gt;L&#39;asphyxie&lt;/a&gt;&lt;/li&gt;
@@ -819,9 +739,7 @@
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Primordiale.html&quot; title=&quot;La magie primordiale&quot;&gt;La magie primordiale&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Villes.html&quot; title=&quot;Les villes et communaut&#233;s&quot;&gt;Les villes et communaut&#233;s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 class=&quot;separator&quot;&gt;Pr&#233;cisions, aides et liens externes&lt;a class=&quot;headeranchor&quot; id=&quot;Pr&#233;cisions_aides_et_liens_externes_10&quot; href=&quot;#Pr&#233;cisions_aides_et_liens_externes_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonFAQoff&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;FAQoff&#39;);&quot; onmouseout=&quot;outButton(&#39;FAQoff&#39;);&quot; onclick=&quot;expandMenu(&#39;FAQoff&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq-Officielle.html&quot; title=&quot;FAQ de Paizo&quot;&gt;Foires aux questions officielles&lt;/a&gt; (publi&#233;es &lt;a class=&quot;externallink&quot; href=&quot;https://paizo.com/paizo/faq/v5748nruor1fm&quot; title=&quot;sur le site Paizo&quot; target=&quot;_blank&quot;&gt;sur le site Paizo&lt;/a&gt;)
+&lt;h2 class=&quot;separator&quot;&gt;Pr&#233;cisions, aides et liens externes&lt;a class=&quot;headeranchor&quot; id=&quot;Pr&#233;cisions_aides_et_liens_externes_10&quot; href=&quot;#Pr&#233;cisions_aides_et_liens_externes_10&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq-Officielle.html&quot; title=&quot;FAQ de Paizo&quot;&gt;Foires aux questions officielles&lt;/a&gt; (publi&#233;es &lt;a class=&quot;externallink&quot; href=&quot;https://paizo.com/paizo/faq/v5748nruor1fm&quot; title=&quot;sur le site Paizo&quot; target=&quot;_blank&quot;&gt;sur le site Paizo&lt;/a&gt;)
     &lt;ul ID=&quot;FAQoff&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Joueurs.html&quot; title=&quot;FAQ du Manuel des joueurs&quot;&gt;Manuel des joueurs&lt;/a&gt;&lt;/li&gt;&lt;br/&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Armes-Et-&#201;quipement.html&quot; title=&quot;FAQ d&amp;#39;Armes et &#233;quipement&quot;&gt;Armes et &#233;quipement&lt;/a&gt;&lt;/li&gt;
@@ -837,9 +755,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Manuel-Des-Races.html&quot; title=&quot;FAQ du Manuel des races&quot;&gt;Manuel des races&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq--Pathfinder-Unchained.html&quot; title=&quot;FAQ de Pathfinder unchained&quot;&gt;Pathfinder unchained&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonFAQ&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;FAQ&#39;);&quot; onmouseout=&quot;outButton(&#39;FAQ&#39;);&quot; onclick=&quot;expandMenu(&#39;FAQ&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq.html&quot; title=&quot;FAQ non officielle&quot;&gt;Foire aux questions non officielle&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq.html&quot; title=&quot;FAQ non officielle&quot;&gt;Foire aux questions non officielle&lt;/a&gt;
     &lt;ul ID=&quot;FAQ&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq-Races.html&quot; title=&quot;FAQ sur les races&quot;&gt;Les races&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Faq-Classes.html&quot; title=&quot;FAQ sur les classes&quot;&gt;Les classes&lt;/a&gt;&lt;/li&gt;
@@ -854,9 +770,7 @@
     &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;externallink&quot; href=&quot;https://docs.google.com/spreadsheets/d/1MZ5Nz424T1CRSNi00Ky7jG-TrcKZeCYgqoClRjTfaXQ/edit#gid=660929381&quot; title=&quot;Glossaire vo/vf &#224; jour&quot; target=&quot;_blank&quot;&gt;Glossaire vo/vf &#224; jour&lt;/a&gt; (arch&#233;types de classe, armes, armures, classes de prestige, dons, &#233;quipement, monstres, monstres mythiques, objets merveilleux, PNJ, r&#232;gles de monstres universelles, sorts et traits)
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonGLOSSAIRES&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;GLOSSAIRES&#39;);&quot; onmouseout=&quot;outButton(&#39;GLOSSAIRES&#39;);&quot; onclick=&quot;expandMenu(&#39;GLOSSAIRES&#39;);&quot; /&gt;
-&lt;/div&gt;Glossaires obsol&#232;tes&lt;/li&gt;
+    &lt;li&gt;Glossaires obsol&#232;tes&lt;/li&gt;
     &lt;ul ID=&quot;GLOSSAIRES&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Des-Dons.html&quot; title=&quot;Glossaire des dons&quot;&gt;Glossaire des dons&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Des-Comp&#233;tences.html&quot; title=&quot;Glossaire des comp&#233;tences&quot;&gt;Glossaire des comp&#233;tences&lt;/a&gt;&lt;/li&gt;
@@ -874,12 +788,8 @@
 &lt;/td&gt;
 &lt;td width=&quot;1%&quot;&gt;&lt;/td&gt;
 &lt;td width=&quot;32%&quot;&gt;
-&lt;h2 class=&quot;separator&quot;&gt;Les sous-syst&#232;mes&lt;a class=&quot;headeranchor&quot; id=&quot;Les_sous-syst&#232;mes_11&quot; href=&quot;#Les_sous-syst&#232;mes_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;a href=&quot;/Wiki/Pathfinder-RPG.Guide de campagne (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
-&lt;img title=&quot;Source : Ultimate Campaign/Guide de campagne&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoGC.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
-&lt;/a&gt;&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Gestion &#224; l&#39;&#233;chelle d&#39;un groupe de PJs, d&#39;un royaume ou d&#39;une guerre et exploration &#233;tendue.&lt;/div&gt;
-&lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESCAMPAGNES1&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESCAMPAGNES1&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESCAMPAGNES1&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESCAMPAGNES1&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Interm&#232;des.html&quot; title=&quot;Les interm&#232;des&quot;&gt;Les interm&#232;des&lt;/a&gt;
+&lt;h2 class=&quot;separator&quot;&gt;Les sous-syst&#232;mes&lt;a class=&quot;headeranchor&quot; id=&quot;Les_sous-syst&#232;mes_11&quot; href=&quot;#Les_sous-syst&#232;mes_11&quot; title=&quot;Link to this Section&quot; style=&quot;visibility: hidden;&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/h2&gt;&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Gestion &#224; l&#39;&#233;chelle d&#39;un groupe de PJs, d&#39;un royaume ou d&#39;une guerre et exploration &#233;tendue.&lt;/div&gt;
+&lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Interm&#232;des.html&quot; title=&quot;Les interm&#232;des&quot;&gt;Les interm&#232;des&lt;/a&gt;
         &lt;ul ID=&quot;REGLESCAMPAGNES1&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Acquisition-Des-Capitaux.html&quot; title=&quot;Acquisition des capitaux&quot;&gt;L&#39;acquisition des capitaux&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dinterm&#232;de.html&quot; title=&quot;Les phases d&amp;#39;interm&#232;de&quot;&gt;Les phases d&#39;interm&#232;de&lt;/a&gt;&lt;/li&gt;
@@ -890,9 +800,7 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;v&#232;nements-Dinterm&#232;de.html&quot; title=&quot;Les &#233;v&#232;nements d&amp;#39;interm&#232;de&quot;&gt;Les &#233;v&#232;nements d&#39;interm&#232;de&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESCAMPAGNES2&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESCAMPAGNES2&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESCAMPAGNES2&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESCAMPAGNES2&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Syst&#232;mes-De-Campagne.html&quot; title=&quot;Les syst&#232;mes de campagne&quot;&gt;Les syst&#232;mes de campagne&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Syst&#232;mes-De-Campagne.html&quot; title=&quot;Les syst&#232;mes de campagne&quot;&gt;Les syst&#232;mes de campagne&lt;/a&gt;
         &lt;ul ID=&quot;REGLESCAMPAGNES2&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement.ashx#Changer_d’alignement_13&quot; title=&quot;L&amp;#39;alignement&quot;&gt;L’alignement&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Marchandage.html&quot; title=&quot;Le marchandage&quot;&gt;Le marchandage&lt;/a&gt;&lt;/li&gt;
@@ -911,9 +819,7 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Jeunes-Personnages.html&quot; title=&quot;Les jeunes personnages&quot;&gt;Les jeunes personnages&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESCAMPAGNES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESCAMPAGNES3&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESCAMPAGNES3&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESCAMPAGNES3&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Royaumes-Et-Guerre.html&quot; title=&quot;Les royaumes et la guerre&quot;&gt;Les royaumes et la guerre&lt;/a&gt;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Royaumes-Et-Guerre.html&quot; title=&quot;Les royaumes et la guerre&quot;&gt;Les royaumes et la guerre&lt;/a&gt;
         &lt;ul ID=&quot;REGLESCAMPAGNES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Fonder-Un-Royaume.html&quot; title=&quot;Fonder un royaume&quot;&gt;Fonder un royaume&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Responsables-Gouvernementaux.html&quot; title=&quot;Les responsables gouvernementaux&quot;&gt;Les responsables gouvernementaux&lt;/a&gt;&lt;/li&gt;
@@ -938,9 +844,7 @@
                 &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;velopper-Les-Modificateurs-De-Communaut&#233;-(Royaume).html&quot; title=&quot;D&#233;velopper les modificateurs de communaut&#233; (r&#232;gle optionnelle)&quot;&gt;D&#233;velopper les modificateurs de communaut&#233;&lt;/a&gt;&lt;/li&gt;
             &lt;/ul&gt;
         &lt;/ul&gt;
-     &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESCAMPAGNES4&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESCAMPAGNES4&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESCAMPAGNES4&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESCAMPAGNES4&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Combat-De-Masse.html&quot; title=&quot;Le combat de masse&quot;&gt;Le combat de masse&lt;/a&gt;
+     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Combat-De-Masse.html&quot; title=&quot;Le combat de masse&quot;&gt;Le combat de masse&lt;/a&gt;
         &lt;ul ID=&quot;REGLESCAMPAGNES4&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dune-Bataille-(Guerre).html&quot; title=&quot;Les phases d&amp;#39;une bataille&quot;&gt;Les phases d&#39;une bataille&lt;/a&gt;&lt;/li&gt;
             &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Phases-Dune-Bataille-(Guerre).html#L&#233;chelle_de_strat&#233;gie_0&quot; title=&quot;Les phases d&amp;#39;une bataille&quot;&gt;L&#39;&#233;chelle de strat&#233;gie&lt;/a&gt;&lt;/li&gt;
@@ -958,12 +862,8 @@
             &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Optionnelles-Du-Combat-De-Masse-(Guerre).html&quot; title=&quot;Les r&#232;gles optionnelles du combat de masse&quot;&gt;Les r&#232;gles optionnelles du combat de masse&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;a href=&quot;/Wiki/Pathfinder-RPG.LArt de lintrigue (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
-&lt;img title=&quot;Source : Ultimate Intrigue/Art de l&#39;intrigue&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoUI.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
-&lt;/a&gt;&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Conception d&#39;aventures sociales au-del&#224; des rencontres habituelles.&lt;/div&gt;
-&lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESINTRIGUE1&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESINTRIGUE1&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESINTRIGUE1&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESINTRIGUE1&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;triser-Lintrigue.html&quot; title=&quot;Ma&#238;triser l&amp;#39;intrigue&quot;&gt;Ma&#238;triser l&#39;intrigue&lt;/a&gt;&amp;emsp;
+&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Conception d&#39;aventures sociales au-del&#224; des rencontres habituelles.&lt;/div&gt;
+&lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Ma&#238;triser-Lintrigue.html&quot; title=&quot;Ma&#238;triser l&amp;#39;intrigue&quot;&gt;Ma&#238;triser l&#39;intrigue&lt;/a&gt;&amp;emsp;
     &lt;ul ID=&quot;REGLESINTRIGUE1&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Influence.html&quot; title=&quot;L&amp;#39;influence&quot;&gt;L&#39;influence&lt;/a&gt;&lt;/li&gt;
         &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Influence-Individuelle.html&quot; title=&quot;L&amp;#39;influence individuelle&quot;&gt;L&#39;influence individuelle&lt;/a&gt;&lt;/li&gt;
@@ -982,13 +882,9 @@
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Duels-Verbaux.html&quot; title=&quot;Les duels verbaux&quot;&gt;Duels verbaux&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-En-Conflit.html&quot; title=&quot;Les comp&#233;tences en conflit&quot;&gt;Comp&#233;tences en conflit&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;a href=&quot;/Wiki/Pathfinder-RPG.Aventures occultes (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
-&lt;img title=&quot;Source : Occult Adventures/Aventures occultes&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoOA.gif&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
-&lt;/a&gt;&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Conception d&#39;aventures spirituelles et int&#233;gration de divers folklores occultes.&lt;/div&gt;
+&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Conception d&#39;aventures spirituelles et int&#233;gration de divers folklores occultes.&lt;/div&gt;
 &lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Occultes.html&quot; title=&quot;Les r&#232;gles occultes&quot;&gt;Pr&#233;sentation&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESOCCULTES1&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESOCCULTES1&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESOCCULTES1&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESOCCULTES1&#39;);&quot; /&gt;
-&lt;/div&gt;Mener une partie occulte&amp;emsp;
+    &lt;li&gt;Mener une partie occulte&amp;emsp;
     &lt;ul ID=&quot;REGLESOCCULTES1&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Diriger-Une-Partie-Occulte.html&quot; title=&quot;Diriger une partie occulte&quot;&gt;Diriger une partie occulte&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;Les lieux occultes&lt;/li&gt;
@@ -999,9 +895,7 @@
         &lt;/ul&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Plans-&#201;sot&#233;riques.html&quot; title=&quot;Plans &#233;sot&#233;riques&quot;&gt;Les plans &#233;sot&#233;riques&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESOCCULTES2&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESOCCULTES2&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESOCCULTES2&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESOCCULTES2&#39;);&quot; /&gt;
-&lt;/div&gt;R&#232;gles techniques&amp;emsp;
+    &lt;li&gt;R&#232;gles techniques&amp;emsp;
     &lt;ul ID=&quot;REGLESOCCULTES2&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extensions-De-Comp&#233;tences-Occultes.html&quot; title=&quot;Extensions de comp&#233;tences occultes&quot;&gt;Les extensions de comp&#233;tences occultes&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;La-Magie-Psychique.html&quot; title=&quot;La magie psychique&quot;&gt;La magie psychique&lt;/a&gt;&lt;/li&gt;
@@ -1012,9 +906,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rituels-Occultes.html&quot; title=&quot;Les rituels occultes&quot;&gt;Les rituels occultes&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Exemples-De-Rituels-Occultes.html&quot; title=&quot;Exemples de rituels occultes&quot;&gt;exemples&lt;/a&gt;)&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;er-Un-Rituel-Occulte.html&quot; title=&quot;Cr&#233;er un rituel occulte&quot;&gt;Cr&#233;er un rituel occulte&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESOCCULTES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESOCCULTES3&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESOCCULTES3&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESOCCULTES3&#39;);&quot; /&gt;
-&lt;/div&gt;R&#233;compenses occultes&amp;emsp;
+    &lt;li&gt;R&#233;compenses occultes&amp;emsp;
     &lt;ul ID=&quot;REGLESOCCULTES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;quipement-D’Aventurier---Aventures-Occultes.html&quot; title=&quot;&#201;quipement d’aventurier - Aventures occultes&quot;&gt;&#201;quipement d’aventurier&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Alchimiques---Aventures-Occultes.html&quot; title=&quot;Objets alchimiques - Aventures occultes&quot;&gt;Objets alchimiques&lt;/a&gt;&lt;/li&gt;
@@ -1023,13 +915,9 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Artefacts---Aventures-Occultes.html&quot; title=&quot;Artefacts - Aventures occultes&quot;&gt;Artefacts&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;a href=&quot;/Wiki/Pathfinder-RPG.Pathfinder unchained (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
-&lt;img title=&quot;Source : Pathfinder unchained&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoPU.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
-&lt;/a&gt;&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Syst&#232;mes de base repens&#233;s et variantes visant &#224; fluidifier le jeu.&lt;/div&gt;
+&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Syst&#232;mes de base repens&#233;s et variantes visant &#224; fluidifier le jeu.&lt;/div&gt;
 &lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Alternatives-Unchained.html&quot; title=&quot;R&#232;gles alternatives unchained&quot;&gt;Pr&#233;sentation&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESUNCHAINED1&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESUNCHAINED1&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESUNCHAINED1&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESUNCHAINED1&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-Unchained.html&quot; title=&quot;Classes unchained&quot;&gt;Classes unchained&lt;/a&gt;&amp;emsp;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Classes-Unchained.html&quot; title=&quot;Classes unchained&quot;&gt;Classes unchained&lt;/a&gt;&amp;emsp;
     &lt;ul ID=&quot;REGLESUNCHAINED1&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Barbare-Unchained.html&quot; title=&quot;Le barbare unchained&quot;&gt;Barbare unchained&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Conjurateur-Unchained.html&quot; title=&quot;Le conjurateur unchained&quot;&gt;Conjurateur unchained&lt;/a&gt;&lt;/li&gt;
@@ -1038,9 +926,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Bonus-De-Base-Fractionnaires.html&quot; title=&quot;Bonus de base fractionnaires&quot;&gt;Bonus de base fractionnaires&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Progression-&#201;chelonn&#233;e.html&quot; title=&quot;Progression &#233;chelonn&#233;e&quot;&gt;Progression &#233;chelonn&#233;e&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESUNCHAINED2&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESUNCHAINED2&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESUNCHAINED2&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESUNCHAINED2&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Et-Options-Unchained.html&quot; title=&quot;Comp&#233;tences et options unchained&quot;&gt;Comp&#233;tences et options unchained&lt;/a&gt;&amp;emsp;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Et-Options-Unchained.html&quot; title=&quot;Comp&#233;tences et options unchained&quot;&gt;Comp&#233;tences et options unchained&lt;/a&gt;&amp;emsp;
     &lt;ul ID=&quot;REGLESUNCHAINED2&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Contextuelles.html&quot; title=&quot;Comp&#233;tences contextuelles&quot;&gt;Comp&#233;tences contextuelles&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Comp&#233;tences-Fusionn&#233;es.html&quot; title=&quot;Comp&#233;tences fusionn&#233;es&quot;&gt;Comp&#233;tences fusionn&#233;es&lt;/a&gt;&lt;/li&gt;
@@ -1049,9 +935,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Extensions-De-Comp&#233;tences.html&quot; title=&quot;Extensions de comp&#233;tences&quot;&gt;Extensions de comp&#233;tences&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Variante-De-Multiclassage.html&quot; title=&quot;Variante de multiclassage&quot;&gt;Variante de multiclassage&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESUNCHAINED3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESUNCHAINED3&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESUNCHAINED3&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESUNCHAINED3&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;canismes-De-Jeu-Unchained.html&quot; title=&quot;M&#233;canismes de jeu unchained&quot;&gt;M&#233;canismes de jeu unchained&lt;/a&gt;&amp;emsp;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;M&#233;canismes-De-Jeu-Unchained.html&quot; title=&quot;M&#233;canismes de jeu unchained&quot;&gt;M&#233;canismes de jeu unchained&lt;/a&gt;&amp;emsp;
     &lt;ul ID=&quot;REGLESUNCHAINED3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alignement-Unchained.html&quot; title=&quot;L&amp;#39;alignement unchained&quot;&gt;Alignement unchained&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;&#201;liminer-Lalignement.html&quot; title=&quot;&#201;liminer l&amp;#39;alignement&quot;&gt;&#201;liminer l&#39;alignement&lt;/a&gt;&lt;/li&gt;
@@ -1061,9 +945,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Seuils-De-Blessure.html&quot; title=&quot;Seuils de blessure&quot;&gt;Seuils de blessure&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Maladies-Et-Poisons-Unchained.html&quot; title=&quot;Maladies et poisons unchained&quot;&gt;Maladies et poisons unchained&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESUNCHAINED4&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESUNCHAINED4&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESUNCHAINED4&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESUNCHAINED4&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Unchained.html&quot; title=&quot;Magie unchained&quot;&gt;Magie unchained&lt;/a&gt;&amp;emsp;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Magie-Unchained.html&quot; title=&quot;Magie unchained&quot;&gt;Magie unchained&lt;/a&gt;&amp;emsp;
     &lt;ul ID=&quot;REGLESUNCHAINED4&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Incantation-Simplifi&#233;e.html&quot; title=&quot;Incantation simplifi&#233;e&quot;&gt;Incantation simplifi&#233;e&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Alt&#233;rations-De-La-Magie.html&quot; title=&quot;Alt&#233;rations de la magie&quot;&gt;Alt&#233;rations de la magie&lt;/a&gt;&lt;/li&gt;
@@ -1073,9 +955,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-&#201;volutifs.html&quot; title=&quot;Objets &#233;volutifs&quot;&gt;Objets &#233;volutifs&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Dynamique-Dobjets-Magiques.html&quot; title=&quot;Cr&#233;ation dynamique d&amp;#39;objets magiques&quot;&gt;Cr&#233;ation dynamique d&#39;objets magiques&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESUNCHAINED5&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESUNCHAINED5&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESUNCHAINED5&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESUNCHAINED5&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e&quot;&gt;Cr&#233;ation de monstres simplifi&#233;e&lt;/a&gt;&amp;emsp;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e&quot;&gt;Cr&#233;ation de monstres simplifi&#233;e&lt;/a&gt;&amp;emsp;
     &lt;ul ID=&quot;REGLESUNCHAINED5&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-1.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 1 : La gamme&quot;&gt;&#201;tape 1. La gamme&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-&#201;tape-2.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, &#201;tape 2 : La greffe de type de cr&#233;ature ou de classe&quot;&gt;&#201;tape 2. La greffe de type de cr&#233;ature ou de classe&lt;/a&gt;&lt;/li&gt;
@@ -1089,13 +969,9 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-De-Monstres-Simplifi&#233;e,-Exemple.html&quot; title=&quot;Cr&#233;ation de monstres simplifi&#233;e, Exemple&quot;&gt;Exemples de cr&#233;ation de monstres&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;a href=&quot;/Wiki/Pathfinder-RPG.Campagnes mythiques (Contenu).ashx&quot; style=&quot;float:right; padding: 4px 4px 2px 8px;&quot;&gt;
-&lt;img title=&quot;Source : Mythic Adventures, Mythic Origins/Campagnes mythiques&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Illustrations/Logos/logoCMy.png&quot; style=&quot;opacity: 0.7&quot; loop=&quot;infinite&quot; /&gt;
-&lt;/a&gt;&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Conception d&#39;aventures &#233;piques amenant les PJs au-del&#224; des limites mortelles.&lt;/div&gt;
+&lt;div style=&quot;font-size: 90%; font-weight: bold;&quot;&gt;Conception d&#39;aventures &#233;piques amenant les PJs au-del&#224; des limites mortelles.&lt;/div&gt;
 &lt;ul style=&quot;margin-top:2px&quot;&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;R&#232;gles-Mythiques.html&quot; title=&quot;Pr&#233;sentation des r&#232;gles mythiques&quot;&gt;Pr&#233;sentation&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Glossaire-Mythique.html&quot; title=&quot;Glossaire mythique&quot;&gt;glossaire mythique&lt;/a&gt;)&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESMYTHIQUES1&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESMYTHIQUES1&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESMYTHIQUES1&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESMYTHIQUES1&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mener-Une-Partie-Mythique.html&quot; title=&quot;Mener une partie mythique&quot;&gt;Mener une partie mythique&lt;/a&gt;&amp;emsp;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Mener-Une-Partie-Mythique.html&quot; title=&quot;Mener une partie mythique&quot;&gt;Mener une partie mythique&lt;/a&gt;&amp;emsp;
     &lt;ul ID=&quot;REGLESMYTHIQUES1&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Structure-Du-R&#233;cit-Mythique.html&quot; title=&quot;La structure du r&#233;cit mythique&quot;&gt;La structure du r&#233;cit mythique&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Th&#232;mes-Mythiques.html&quot; title=&quot;Les th&#232;mes mythiques&quot;&gt;Les th&#232;mes mythiques&lt;/a&gt;&lt;/li&gt;
@@ -1106,9 +982,7 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;D&#233;fauts-Mythiques.html&quot; title=&quot;Les d&#233;fauts mythiques&quot;&gt;Les d&#233;fauts mythiques&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Id&#233;es-Daventures-Mythiques.html&quot; title=&quot;Id&#233;es d&amp;#39;aventures mythiques&quot;&gt;Id&#233;es d’aventures mythiques&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESMYTHIQUES2&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESMYTHIQUES2&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESMYTHIQUES2&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESMYTHIQUES2&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Personnage-Mythique.html&quot; title=&quot;Cr&#233;ation d&amp;#39;un personnage mythique&quot;&gt;Cr&#233;ation d&#39;un personnage mythique&lt;/a&gt;&amp;emsp;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Cr&#233;ation-Personnage-Mythique.html&quot; title=&quot;Cr&#233;ation d&amp;#39;un personnage mythique&quot;&gt;Cr&#233;ation d&#39;un personnage mythique&lt;/a&gt;&amp;emsp;
     &lt;ul ID=&quot;REGLESMYTHIQUES2&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;Voie de l&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Archimage-Mythique.html&quot; title=&quot;L&amp;#39;archimage mythique&quot;&gt;archimage&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Aptitudes-De-Voie-De-Larchimage-Mythique.html&quot; title=&quot;Aptitudes de voie de l&amp;#39;archimage mythique&quot;&gt;aptitudes&lt;/a&gt;)&lt;/li&gt;
         &lt;li&gt;Voie du &lt;a class=&quot;pagelink&quot; href=&quot;Champion-Mythique.html&quot; title=&quot;Le champion mythique&quot;&gt;champion&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Aptitudes-De-La-Voie-Du-Champion-Mythique.html&quot; title=&quot;Aptitudes de voie du champion mythique&quot;&gt;aptitudes&lt;/a&gt;)&lt;/li&gt;
@@ -1119,18 +993,14 @@
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aptitudes-De-Voie-Universelles-Mythique.html&quot; title=&quot;Aptitudes de voie universelles Mythique&quot;&gt;Aptitudes de voie universelles&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Aptitudes-De-La-Voie-Des-Enfants-Divins-Mythiques.html&quot; title=&quot;Aptitudes de voie des enfants divins mythiques&quot;&gt;Aptitudes de voie des enfants divins&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESMYTHIQUES3&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESMYTHIQUES3&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESMYTHIQUES3&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESMYTHIQUES3&#39;);&quot; /&gt;
-&lt;/div&gt;Options de personnage mythiques&amp;emsp;
+    &lt;li&gt;Options de personnage mythiques&amp;emsp;
     &lt;ul ID=&quot;REGLESMYTHIQUES3&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Dons-Mythiques.html&quot; title=&quot;Les dons mythiques&quot;&gt;Les dons mythiques&lt;/a&gt; (&lt;a class=&quot;pagelink&quot; href=&quot;Tableau-R&#233;capitulatif-Des-Dons-Mythiques.html&quot; title=&quot;Dons mythiques&quot;&gt;tableau&lt;/a&gt;)&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-L&#233;gendaires.html&quot; title=&quot;Objets l&#233;gendaires&quot;&gt;Les objets l&#233;gendaires&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Objets-Magiques-Mythiques.html&quot; title=&quot;Les objets magiques mythiques&quot;&gt;Les objets magiques mythiques&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Sorts-Mythiques.html&quot; title=&quot;Les sorts mythiques&quot;&gt;Les sorts mythiques&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;div style=&quot;float: right; padding: 0;&quot;&gt;
-&lt;IMG id=&quot;boutonREGLESMYTHIQUES4&quot; src=&quot;/images/pathfinder/wiki/BoutonP.jpg&quot; style=&quot;float:right; width: 10px; border: 1px solid black; cursor: pointer&quot; onmouseover=&quot;overButton(&#39;REGLESMYTHIQUES4&#39;);&quot; onmouseout=&quot;outButton(&#39;REGLESMYTHIQUES4&#39;);&quot; onclick=&quot;expandMenu(&#39;REGLESMYTHIQUES4&#39;);&quot; /&gt;
-&lt;/div&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monstres-Mythiques.html&quot; title=&quot;Les monstres mythiques&quot;&gt;Les monstres mythiques&lt;/a&gt;&amp;emsp;
+    &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Monstres-Mythiques.html&quot; title=&quot;Les monstres mythiques&quot;&gt;Les monstres mythiques&lt;/a&gt;&amp;emsp;
     &lt;ul ID=&quot;REGLESMYTHIQUES4&quot; CLASS=&quot;listecach&#233;e cadrebas&quot;&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Arch&#233;types-Simples-De-Cr&#233;atures-Mythiques.html&quot; title=&quot;Arch&#233;types simples de cr&#233;atures mythiques&quot;&gt;Arch&#233;types simples de cr&#233;atures mythiques&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Construire-Une-Cr&#233;ature-Mythique.html&quot; title=&quot;Construire une cr&#233;ature mythique&quot;&gt;Construire une cr&#233;ature mythique&lt;/a&gt;&lt;/li&gt;

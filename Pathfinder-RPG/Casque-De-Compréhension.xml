@@ -6,23 +6,7 @@
   <version>2</version>
   <inLinks><link>Pathfinder-RPG.Bandeau du sage</link><link>Pathfinder-RPG.Casque de changement dalignement</link><link>Pathfinder-RPG.Heaume de Compréhension</link><link>Pathfinder-RPG.Objets maudits</link><link>Pathfinder-RPG.Objets merveilleux Guide du joueur</link></inLinks>
   <outLinks><link>Pathfinder-RPG.Heaume de Compréhension</link><link>Pathfinder-RPG.Objets merveilleux</link><link>Pathfinder-RPG.Divination</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.Création dobjets merveilleux</link><link>Pathfinder-RPG.Compréhension des langages</link><link>Pathfinder-RPG.Lecture de la magie</link></outLinks>
-  <body><![CDATA[&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
-&lt;table&gt;
-&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
-&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
-&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
-&lt;b&gt;&lt;i&gt;Le Manuel &lt;u&gt;Armes &amp; &#201;quipement&lt;/u&gt; pr&#233;sente un objet identique nomm&#233; &lt;a class=&quot;pagelink&quot; href=&quot;Heaume-De-Compr&#233;hension.html&quot; title=&quot;Heaume de compr&#233;hension&quot;&gt;Heaume de Compr&#233;hension&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
-var cible = this.parentNode.previousSibling.previousSibling;
-if (cible.style.display==&#39;none&#39;) {
-  $(cible).show(&#39;slide&#39;);
-  $(this).fadeTo(500,0.4);
-} else {
-  $(cible).hide(&#39;slide&#39;);
-  $(this).fadeTo(500,1);
-}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
-ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+  <body><![CDATA[
 &lt;div style=&quot;float:right&quot;&gt;&lt;b&gt;&lt;i&gt;Retour aux &lt;a class=&quot;pagelink&quot; href=&quot;Objets-Merveilleux.html&quot; title=&quot;Les Objets merveilleux&quot;&gt;objets merveilleux&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div class=&quot;BD&quot;&gt;
 &lt;div class=&quot;BDtitre&quot;&gt;Casque de compr&#233;hension&lt;div style=&quot;float:right;&quot;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;b&gt;Aura&lt;/b&gt; &lt;a class=&quot;pagelink&quot; href=&quot;Divination.html&quot; title=&quot;Divination&quot;&gt;Divination&lt;/a&gt; faible ; &lt;b&gt;NLS&lt;/b&gt; 4 ; &lt;b&gt;Emplacement&lt;/b&gt; t&#234;te ; &lt;b&gt;Prix&lt;/b&gt; 5 200 po ; &lt;b&gt;Poids&lt;/b&gt; 1,5 kg

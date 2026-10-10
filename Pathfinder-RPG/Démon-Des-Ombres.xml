@@ -8,11 +8,7 @@
   <outLinks><link>Pathfinder-RPG.type Extérieur</link><link>Pathfinder-RPG.sous-type Chaos</link><link>Pathfinder-RPG.sous-type démon</link><link>Pathfinder-RPG.sous-type extraplanaire</link><link>Pathfinder-RPG.sous-type Mal</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.Intangible (capacité)</link><link>Pathfinder-RPG.Bond</link><link>Pathfinder-RPG.Télékinésie</link><link>Pathfinder-RPG.Téléportation suprême</link><link>Pathfinder-RPG.Ténèbres profondes</link><link>Pathfinder-RPG.Terreur</link><link>Pathfinder-RPG.Convocation dombres</link><link>Pathfinder-RPG.Magie des ombres</link><link>Pathfinder-RPG.Convocation (capacité)</link><link>Pathfinder-RPG.Possession</link><link>Pathfinder-RPG.Attaques réflexes</link><link>Pathfinder-RPG.Combat en aveugle</link><link>Pathfinder-RPG.Réflexes surhumains</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Acrobaties</link><link>Pathfinder-RPG.Bluff</link><link>Pathfinder-RPG.Connaissances</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Psychologie</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.Télépathie</link><link>Pathfinder-RPG.Action de mouvement</link><link>Pathfinder-RPG.Invisible</link><link>Pathfinder-RPG.Action simple</link><link>Pathfinder-RPG.Rayon de soleil</link><link>Pathfinder-RPG.Explosion de lumière</link><link>Pathfinder-RPG.Démon</link></outLinks>
   <body><![CDATA[&lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt; 
 &lt;div class=&quot;BD&quot;&gt;
-&lt;div class=&quot;BDtitre&quot;&gt;D&#233;mon des ombres&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;
-&lt;div style=&quot;float:right&quot;&gt;
-&lt;img title=&quot;Ext&#233;rieur&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ext&#233;rieur.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Ruines-Donjons&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Extraplanaire&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png&quot; style=&quot;opacity: 1&quot; /&gt;
-&lt;/div&gt;
-&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;D&#233;mon des ombres&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
 &lt;i&gt;Source : Bestiaire p.60&lt;/i&gt;
 &lt;/div&gt;
 &lt;div class=&quot;BDtexte&quot;&gt;
@@ -89,15 +85,15 @@
 &lt;b&gt;Tr&#233;sor&lt;/b&gt; standard
 &lt;/div&gt;
 &lt;div class=&quot;BDsoustitre&quot;&gt;Particularit&#233;s&lt;/div&gt;
-&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;FUSIONOMBRES&quot; href=&quot;#FUSIONOMBRES&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;a name=&quot;FUSIONOMBRES&quot;&gt;&lt;/a&gt;
 &lt;div class=&quot;BDtexte&quot;&gt;
 &lt;b&gt;Fusion avec les ombres (Sur)&lt;/b&gt; Sous n&#39;importe quelle condition de luminosit&#233; autre qu&#39;une lumi&#232;re vive, un d&#233;mon des ombres peut se fondre dans les ombres par une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; (comme s&#39;il devenait &lt;a class=&quot;pagelink&quot; href=&quot;&#201;tats-Pr&#233;judiciables#Invisible.html&quot; title=&quot;Invisible&quot;&gt;invisible&lt;/a&gt;). Les lumi&#232;res artificielles et les sorts de lumi&#232;re de niveau inf&#233;rieur ou &#233;gal &#224; 2 ne suffisent pas pour contrer cette capacit&#233;.
 &lt;/div&gt;
-&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;IMPUISSANTSOLEIL&quot; href=&quot;#IMPUISSANTSOLEIL&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;a name=&quot;IMPUISSANTSOLEIL&quot;&gt;&lt;/a&gt;
 &lt;div class=&quot;BDtexte&quot;&gt;
 &lt;b&gt;Impuissant sous la lumi&#232;re du soleil (Ext)&lt;/b&gt; Les d&#233;mons des ombres sont litt&#233;ralement impuissants sous une lumi&#232;re vive ou sous le lumi&#232;re naturelle du soleil et ils fuient ces conditions de luminosit&#233;. S&#39;ils ne peuvent s&#39;en extraire, ils sont incapables d&#39;attaquer et ne peuvent effectuer qu&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Mouvement.html&quot; title=&quot;Action de mouvement&quot;&gt;action de mouvement&lt;/a&gt; ou une &lt;a class=&quot;pagelink&quot; href=&quot;Types-Dactions#Simple.html&quot; title=&quot;Action simple&quot;&gt;action simple&lt;/a&gt; par round. Les d&#233;mons des ombres qui poss&#232;dent une cr&#233;ature gr&#226;ce &#224; leur pouvoir de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Possession.html&quot; title=&quot;Possession&quot;&gt;possession&lt;/a&gt;&lt;/i&gt; ne sont pas affect&#233;s par la lumi&#232;re du soleil mais si un sort de &lt;i&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Rayon-De-Soleil.html&quot; title=&quot;Rayon de soleil&quot;&gt;rayon de soleil&lt;/a&gt;&lt;/i&gt; ou d&lt;i&gt; &#39;&lt;a class=&quot;pagelink&quot; href=&quot;Explosion-De-Lumi&#232;re.html&quot; title=&quot;Explosion de lumi&#232;re&quot;&gt;explosion de lumi&#232;re&lt;/a&gt;&lt;/i&gt; les touche, ils sont automatiquement expuls&#233;s de leur h&#244;te.
 &lt;/div&gt;
-&lt;div class=&quot;ref right&quot; style=&quot;padding: 0 0 3px 3px;&quot;&gt;&lt;a name=&quot;SPRINT&quot; href=&quot;#SPRINT&quot;&gt;&lt;img class=&quot;opachover&quot; src=&quot;/images/pathfinder/wiki/logoref.png&quot; width=&quot;12px&quot; style=&quot;opacity:0.1&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;a name=&quot;SPRINT&quot;&gt;&lt;/a&gt;
 &lt;div class=&quot;BDtexte&quot;&gt;
 &lt;b&gt;Sprint (Ext)&lt;/b&gt; Une fois par minute, un d&#233;mon des ombres peut augmenter sa vitesse de vol &#224; 72 m (48 &lt;abbr title=&quot;cases&quot;&gt;c&lt;/abbr&gt;) pendant 1 round.
 &lt;/div&gt;
@@ -113,7 +109,7 @@ envieuse et mal&#233;fique est emmen&#233;e vers les Abysses, elle est
 transform&#233;e, d&#233;compos&#233;e et combin&#233;e avec d’autres &#226;mes jusqu’&#224;
 ce que le r&#233;sultat se r&#233;sume &#224; une jalousie malveillante lib&#233;r&#233;e du
 poids de tout corps physique.
-&lt;/div&gt;&lt;br /&gt;&lt;center&gt;&lt;img src=&quot;/wiki/public/upload/Bestiaire/Demon_des_ombres.jpg&quot; width=&quot;100%&quot; style=&quot;float: none; margin: 5px;&quot;/&gt;&lt;/center&gt;
+&lt;/div&gt;&lt;br /&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 ]]></body>
   <raw><![CDATA[<table class="Bestiaire"><tr><td> 

@@ -6,30 +6,10 @@
   <version>9</version>
   <inLinks><link>Pathfinder-RPG.Bestiaire (Contenu)</link><link>Pathfinder-RPG.Chien de garde</link><link>Pathfinder-RPG.Double illusoire</link><link>Pathfinder-RPG.Glossaire des monstres (old)</link><link>Pathfinder-RPG.Liste alphabétique des monstres</link><link>Pathfinder-RPG.Liste des monstres par FP</link><link>Pathfinder-RPG.Liste des monstres par FP avec familles</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel</link><link>Pathfinder-RPG.Liste des monstres par milieu naturel avec familles</link><link>Pathfinder-RPG.Liste des monstres par type</link><link>Pathfinder-RPG.Présentation des sorts</link><link>Pathfinder-RPG.Ventriloquie</link></inLinks>
   <outLinks><link>Pathfinder-RPG.branche chimère</link><link>Pathfinder-RPG.Illusion</link><link>Pathfinder-RPG.type Créature magique</link><link>Pathfinder-RPG.odorat</link><link>Pathfinder-RPG.vision dans le noir</link><link>Pathfinder-RPG.vision nocturne</link><link>Pathfinder-RPG.Perception</link><link>Pathfinder-RPG.croc-en-jambe</link><link>Pathfinder-RPG.Robustesse</link><link>Pathfinder-RPG.Science de linitiative</link><link>Pathfinder-RPG.Talent</link><link>Pathfinder-RPG.Volonté de fer</link><link>Pathfinder-RPG.Vol stationnaire</link><link>Pathfinder-RPG.Discrétion</link><link>Pathfinder-RPG.Vol</link><link>Pathfinder-RPG.type Dragon</link><link>Pathfinder-RPG.Réflexes</link><link>Pathfinder-RPG.DD</link><link>Pathfinder-RPG.cône</link><link>Pathfinder-RPG.ligne</link></outLinks>
-  <body><![CDATA[&lt;div style=&quot;float:right; padding: 0 0 8px 8px&quot;&gt;
-&lt;table&gt;
-&lt;tr style=&quot;vertical-align:bottom&quot;&gt;
-&lt;td style=&quot;display:none; background-color: #f3efe2; border: 1px solid #4b3124; padding: 2px; width:250px; text-align: left&quot;&gt;
-&lt;table&gt;&lt;tr style=&quot;vertical-align: top&quot;&gt;&lt;td&gt;
-&lt;b&gt;&lt;i&gt;Chim&#232;re est &#233;galement le nom d&#39;une &lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Chimere.html&quot; title=&quot;Chim&#232;re&quot;&gt;branche&lt;/a&gt; de l&#39;&#233;cole d&#39;&lt;a class=&quot;pagelink&quot; href=&quot;Pr&#233;sentation-Des-Sorts#Illusion.html&quot; title=&quot;Illusion&quot;&gt;Illusion&lt;/a&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;height:30px&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img style=&quot;width:30px; cursor:pointer&quot; src=&quot;/images/pathfinder/wiki/ibase.png&quot; title=&quot;Cliquez pour afficher/cacher une d&#233;sambigu&#239;sation (homonymes, redirections, etc...)&quot; alt=&quot;Cliquez pour afficher/cacher l&#39;information&quot; onclick=&quot;
-var cible = this.parentNode.previousSibling.previousSibling;
-if (cible.style.display==&#39;none&#39;) {
-  $(cible).show(&#39;slide&#39;);
-  $(this).fadeTo(500,0.4);
-} else {
-  $(cible).hide(&#39;slide&#39;);
-  $(this).fadeTo(500,1);
-}&quot; ONMOUSEOVER=&quot;this.src = &#39;/images/pathfinder/wiki/ialt.png&#39;;&quot;
-ONMOUSEOUT=&quot;this.src = &#39;/images/pathfinder/wiki/ibase.png&#39;;&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+  <body><![CDATA[
 &lt;table class=&quot;Bestiaire&quot;&gt;&lt;tr&gt;&lt;td&gt;
 &lt;div class=&quot;BD&quot;&gt;
-&lt;div class=&quot;BDtitre&quot;&gt;Chim&#232;re&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;
-&lt;div style=&quot;float:right&quot;&gt;
-&lt;img title=&quot;Cr&#233;ature magique&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Cr&#233;ature magique.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Collines&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png&quot; style=&quot;opacity: 1&quot; /&gt;&lt;img title=&quot;Temp&#233;r&#233;&quot; class=&quot;opachover&quot; src=&quot;/Wiki/public/Upload/Projets/Puces pour monstres/Temp&#233;r&#233;.png&quot; style=&quot;opacity: 1&quot; /&gt;
-&lt;/div&gt;
-&lt;div class=&quot;BDtexte&quot;&gt;
+&lt;div class=&quot;BDtitre&quot;&gt;Chim&#232;re&lt;div style=&quot;float:right;&quot;&gt;FP 7&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;BDtexte&quot;&gt;
 &lt;i&gt;Source : Bestiaire p.45&lt;/i&gt;
 &lt;/div&gt;
 &lt;div class=&quot;BDtexte&quot;&gt;
@@ -124,8 +104,8 @@ structure hi&#233;rarchique similaire &#224; celles des lions, o&#249; un m&#226
 dominant dirige le groupe et les femelles s’occupent de la chasse.
 Une chim&#232;re solitaire est g&#233;n&#233;ralement un jeune m&#226;le ou une
 femelle dont les petits ne sont pas tr&#232;s loin.
-&lt;/div&gt;&lt;br /&gt;
-&lt;center&gt;&lt;img src=&quot;/wiki/public/upload/Bestiaire/Chimere.jpg&quot; width=&quot;90%&quot; style=&quot;float: none; margin: 5px;&quot;/&gt;&lt;/center&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 ]]></body>
   <raw><![CDATA[{s:Desambi|Chimère est également le nom d'une [[branche chimère|branche]] de l'école d'[[Illusion]].}
 <table class="Bestiaire"><tr><td>
